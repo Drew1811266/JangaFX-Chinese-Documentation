@@ -1,0 +1,986 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+  "segment_count": 98,
+  "segments": [
+    {
+      "id": "bdf8ff4740ff",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 706,
+      "end": 743,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Camera Import - JangaFX Documentation",
+      "source_text": "Camera Import - JangaFX Documentation"
+    },
+    {
+      "id": "f2c67624263b",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 5333,
+      "end": 5356,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "f233abddc2c8",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 5451,
+      "end": 5481,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "158d97dd48b8",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 5677,
+      "end": 5707,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "62125c70e7a9",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 5898,
+      "end": 5919,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "0ea93afc3438",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 6112,
+      "end": 6150,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "74f440c3c6db",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 6540,
+      "end": 6572,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "4b95fdcb7d31",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 7620,
+      "end": 7642,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "3ca0c0a4019b",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 7820,
+      "end": 7852,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "e04937b05dd9",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 8045,
+      "end": 8060,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "8549e6d74322",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 8192,
+      "end": 8202,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "ac590fdf8857",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 8380,
+      "end": 8412,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "ac04b71c423a",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 8613,
+      "end": 8627,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "266b38818b0b",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 8749,
+      "end": 8757,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "e66f6efb1054",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 8880,
+      "end": 8889,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "73392c168be0",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 9037,
+      "end": 9050,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "a84e35fdb5f8",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 9228,
+      "end": 9260,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "ead5a2dd64c1",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 9478,
+      "end": 9491,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "580bbc31282d",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 9642,
+      "end": 9661,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "bc53c772c6f2",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 9796,
+      "end": 9801,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "a1a775a71074",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 9938,
+      "end": 9945,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "2752ce125bb6",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 10079,
+      "end": 10083,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "8c897f7e8dd9",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 10229,
+      "end": 10249,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "b9079477d4f8",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 10388,
+      "end": 10397,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "58666b333dc8",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 10538,
+      "end": 10550,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "b8bf4bd43dfd",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 10689,
+      "end": 10707,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "034df738ca8a",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 10853,
+      "end": 10869,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "ee9eec0c8e76",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 11020,
+      "end": 11041,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "01836168fc0d",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 11179,
+      "end": 11187,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "1710b2fe1f41",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 11326,
+      "end": 11336,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "b528fee280f5",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 11479,
+      "end": 11492,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "45df910f6acf",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 11622,
+      "end": 11625,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "4cb52555d984",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 11748,
+      "end": 11770,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "7786411de1a8",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 11959,
+      "end": 11991,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "5d72602b93d0",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 12179,
+      "end": 12194,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "15859bba35b8",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 12299,
+      "end": 12309,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "988945a53e14",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 12498,
+      "end": 12530,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "402c81035bcd",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 12712,
+      "end": 12726,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "20b74d0fe49b",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 12813,
+      "end": 12821,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "72fbf5aef131",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 12909,
+      "end": 12918,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "80e6a1352c83",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 13020,
+      "end": 13033,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "0d96599a27e0",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 13222,
+      "end": 13254,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "21b714024c90",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 13432,
+      "end": 13443,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "9bcf46ff4393",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 13540,
+      "end": 13559,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "896ea434706b",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 13640,
+      "end": 13645,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "b2deb88c5afa",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 13728,
+      "end": 13735,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "7f24a3e0ce9b",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 13815,
+      "end": 13819,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "fc1875e49b19",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 13911,
+      "end": 13931,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "e06ab537ab44",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 14032,
+      "end": 14045,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "1bb738b35c71",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 14132,
+      "end": 14144,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "4652109126c8",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 14229,
+      "end": 14247,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "d061a0986a97",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 14339,
+      "end": 14355,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "8c1411d9445c",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 14452,
+      "end": 14473,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "289d4c2bfe4d",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 14557,
+      "end": 14565,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "8330db32bd1d",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 14654,
+      "end": 14667,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "c42db5bf590d",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 14754,
+      "end": 14765,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "834039d49adc",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 14874,
+      "end": 14877,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "bf4645ca6d90",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 14990,
+      "end": 15011,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "6b24ac31b947",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 15111,
+      "end": 15131,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "a0e7198c2813",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 15234,
+      "end": 15256,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "e52410c6732a",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 15669,
+      "end": 15680,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "bcc9b635b908",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 15900,
+      "end": 15938,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "ae102998c5d2",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 16357,
+      "end": 16389,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "f60592fd1611",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 16605,
+      "end": 16618,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "d87b9126866e",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 16710,
+      "end": 16782,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Cameras from external 3D packages can be imported using the import node.",
+      "source_text": "Cameras from external 3D packages can be imported using the import node."
+    },
+    {
+      "id": "5d4f05b7928a",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 16790,
+      "end": 16892,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "We recommend using the FBX file format for importing cameras, but it can also be done using ABC files.",
+      "source_text": "We recommend using the FBX file format for importing cameras, but it can also be done using ABC files."
+    },
+    {
+      "id": "a9730ca0a1f3",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 17224,
+      "end": 17298,
+      "line": 266,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "137e59727829",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 17349,
+      "end": 17404,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "Make sure you include cameras when exporting your file.",
+      "source_text": "Make sure you include cameras when exporting your file."
+    },
+    {
+      "id": "a09a3e473b5b",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 17421,
+      "end": 17460,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "In LiquiGen, import your FBX using the ",
+      "source_text": "In LiquiGen, import your FBX using the "
+    },
+    {
+      "id": "73de485b2e0e",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 17629,
+      "end": 17635,
+      "line": 272,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "4a9b3fc20026",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 17640,
+      "end": 17719,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " node. If it contains any cameras they will be exposed as an output pin on the ",
+      "source_text": " node. If it contains any cameras they will be exposed as an output pin on the "
+    },
+    {
+      "id": "37c524622235",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 17723,
+      "end": 17729,
+      "line": 272,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "f116ea9e3c50",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 17734,
+      "end": 17740,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "f33f8b325fe8",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 17757,
+      "end": 17802,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "Link the camera pin on the right side of the ",
+      "source_text": "Link the camera pin on the right side of the "
+    },
+    {
+      "id": "8ef4acfbc205",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 17806,
+      "end": 17812,
+      "line": 273,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "ae8adcbb7c88",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 17817,
+      "end": 17830,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " node to the ",
+      "source_text": " node to the "
+    },
+    {
+      "id": "57fe3381eabd",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 17834,
+      "end": 17841,
+      "line": 273,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Control",
+      "source_text": "Control"
+    },
+    {
+      "id": "1b3ace723e0a",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 17846,
+      "end": 17856,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " pin of a ",
+      "source_text": " pin of a "
+    },
+    {
+      "id": "5013a2db74a1",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 18018,
+      "end": 18024,
+      "line": 273,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "3367c15a5154",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 18029,
+      "end": 18035,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "90605f6a47be",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 18054,
+      "end": 18101,
+      "line": 275,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "This will add some parameters on the connected ",
+      "source_text": "This will add some parameters on the connected "
+    },
+    {
+      "id": "8cb5524abb2e",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 18263,
+      "end": 18269,
+      "line": 275,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "3c7c686e9abb",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 18274,
+      "end": 18280,
+      "line": 275,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "dbeaa3886bf9",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 18320,
+      "end": 18350,
+      "line": 277,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Yaw, Pitch, Roll offset angle:",
+      "source_text": "Yaw, Pitch, Roll offset angle:"
+    },
+    {
+      "id": "c12e15654505",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 18359,
+      "end": 18608,
+      "line": 277,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " This will offset the orientation of the camera. This offset will be added to be orientation changes coming from the import node. This can be useful when the imported camera has the wrong orientation for some reason. (this can happen with abc files)",
+      "source_text": " This will offset the orientation of the camera. This offset will be added to be orientation changes coming from the import node. This can be useful when the imported camera has the wrong orientation for some reason. (this can happen with abc files)"
+    },
+    {
+      "id": "409123caf933",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 18633,
+      "end": 18656,
+      "line": 278,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Custom clipping planes:",
+      "source_text": "Custom clipping planes:"
+    },
+    {
+      "id": "c53f84dd19cf",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 18665,
+      "end": 18958,
+      "line": 278,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " When checked on, the clipping planes are set by the parameters below. When checked off, the clipping planes are based on the imported file. The clipping planes dictate the range of distances from the camera to be rendered. If something is outside of the clipping planes, it won’t be rendered.",
+      "source_text": " When checked on, the clipping planes are set by the parameters below. When checked off, the clipping planes are based on the imported file. The clipping planes dictate the range of distances from the camera to be rendered. If something is outside of the clipping planes, it won’t be rendered."
+    },
+    {
+      "id": "d63738bfda13",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 19234,
+      "end": 19238,
+      "line": 290,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "7b5edb08b40b",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 19304,
+      "end": 19316,
+      "line": 292,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "9d7e495a0d98",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 19696,
+      "end": 19704,
+      "line": 300,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "cb847f8ff6bd",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 19787,
+      "end": 19807,
+      "line": 303,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "3a1d30ca264a",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 19993,
+      "end": 20053,
+      "line": 310,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "0c028faa326d",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 20059,
+      "end": 20082,
+      "line": 312,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "3235302c20aa",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 20120,
+      "end": 20126,
+      "line": 313,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "ac1390c11b62",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 20130,
+      "end": 20135,
+      "line": 313,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "70b619e761b0",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 20185,
+      "end": 20195,
+      "line": 313,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "9214b27c7d96",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 20199,
+      "end": 20227,
+      "line": 313,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "182dde058950",
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "start": 20271,
+      "end": 20275,
+      "line": 315,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+<!doctype html>
+<html class="no-js" lang="zh-CN">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../../genindex.html" /><link rel="search" title="Search" href="../../../search.html" /><link rel="next" title="Node List" href="node_list.html" /><link rel="prev" title="User Interface" href="ui_reference.html" />
+
+    <link rel="shortcut icon" href="../../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>设置 - JangaFX 文档</title>
+      <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">隐藏导航侧边栏</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">隐藏目录侧边栏</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">切换站点导航侧边栏</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../../index.html"><div class="brand">JangaFX 文档</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">切换目录侧边栏</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../embergen/index.html">EmberGen 文档</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../embergen/pages/getting_started.html">入门</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../embergen/pages/references/index.html">参考</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../../embergen/pages/references/ui_reference.html">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../embergen/pages/references/settings.html">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../embergen/pages/references/node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/histogram.html">直方图</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/exportVDB.html">VDB 导出</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/randomization.html">随机化</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../embergen/pages/FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current has-children"><a class="reference internal" href="../../index.html">LiquiGen 文档</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../getting_started.html">入门</a></li>
+<li class="toctree-l2 current has-children"><a class="reference internal" href="index.html">参考</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="ui_reference.html">用户界面</a></li>
+<li class="toctree-l3 current current-page"><a class="current reference internal" href="#">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/diagnostics.html">诊断</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/randomization.html">随机化</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/expressions.html">表达式</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../illugen/index.html">IlluGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../geogen/index.html">GeoGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../licensing/index.html">浮动许可证指南</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>返回顶部</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">切换目录侧边栏</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <section id="settings">
+<span id="settings-lg"></span><h1>设置<a class="headerlink" href="#settings" title="Permalink to this heading">#</a></h1>
+<section id="project-settings">
+<span id="projectsettings-lg"></span><h2>Project Settings（项目设置）<a class="headerlink" href="#project-settings" title="Permalink to this heading">#</a></h2>
+<section id="generalicon-general">
+<h3><a class="reference internal" href="../../../_images/icon_general.svg"><img alt="general icon" height="12" src="../../../_images/icon_general.svg" width="12" /></a> 常规<a class="headerlink" href="#generalicon-general" title="Permalink to this heading">#</a></h3>
+<img alt="project settings general" src="../../../_images/projectSettingsGeneral_LG_2.png" />
+<ul>
+<li><p><strong>Tags：</strong> 这些标签可用于在 <em>presets</em> 部分浏览预设，该部分位于 <a class="reference internal" href="../../../_images/icon_home.svg"><img alt="home Icon" height="14" src="../../../_images/icon_home.svg" width="14" /></a> 项目管理器中。（预设是 <em>.liquigen</em> 文件，存储在安装目录的 <em>presets</em> 文件夹中。）可以使用以下标签： <code class="docutils literal notranslate"><span class="pre">8</span> <span class="pre">GB</span></code>, <code class="docutils literal notranslate"><span class="pre">24</span> <span class="pre">GB</span></code></p></li>
+<li><p><strong>Shape default size scale：</strong> 创建新的 Shape 节点时，会将此缩放应用到新形状的默认大小。此设置有助于确保新创建的形状尺寸更合适；例如，如果它们默认总是显得过大或过小。</p></li>
+<li><p><strong>Read-Only：</strong> “<em>Save Read-Only Copy</em>”按钮会打开文件浏览器，用于指定要将项目保存为只读副本的名称和位置。</p>
+<p>此项目文件会像普通项目文件一样工作，但当你尝试保存它时，会弹出此提示消息。</p>
+</li>
+</ul>
+<a class="reference internal image-reference" href="../../../_images/saveReadOnly_LG.png"><img alt="save read only prompt" src="../../../_images/saveReadOnly_LG.png" style="width: 607.1999999999999px; height: 279.59999999999997px;" /></a>
+<ul class="simple">
+<li><p><strong>Auto-Favorite Changed Parameters（自动收藏已更改参数）：</strong> 这会收藏与上次保存文件、默认预设或另一个项目文件相比发生变化的所有参数；另一个项目文件可以通过 <em>Load</em> 按钮浏览选择。</p></li>
+</ul>
+<p>这有助于快速得到项目中最重要参数的列表！</p>
+<ul class="simple">
+<li><p><strong>Randomize All Seeds：</strong> “<em>Randomize</em>”按钮会随机化所有启用了 <a class="reference internal" href="../../../_images/random.svg"><img alt="randomize icon" height="14" src="../../../_images/random.svg" width="14" /></a> <em>Randomize Override</em> 的参数（默认情况下包括所有 <em>Seed</em> 参数）。这会为项目生成一个不同变体。关于随机化的更多信息，请查看我们的 <a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/randomization.html#randomization"><span class="std std-ref">随机化</span></a> 部分！</p></li>
+</ul>
+</section>
+<section id="renderericon-renderer">
+<h3><a class="reference internal" href="../../../_images/icon_renderer.svg"><img alt="renderer icon" height="12" src="../../../_images/icon_renderer.svg" width="12" /></a> 渲染器<a class="headerlink" href="#renderericon-renderer" title="Permalink to this heading">#</a></h3>
+<img alt="project settings renderer" src="../../../_images/projectSettingsRenderer_LG.png" />
+<p>启用或禁用视口中项目某些元素的可见性。其中大多数会镜像视口中 <a class="reference internal" href="../../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../../_images/icon_viewport.svg" width="12" /></a> <em>View</em> 下拉菜单里的显示选项。</p>
+<p><a class="reference internal" href="../../../_images/reset.svg"><img alt="reset icon" height="16" src="../../../_images/reset.svg" width="16" /></a> <strong>Reset To Defaults：</strong> 弹出一个窗口，询问你是否要重置项目设置。</p>
+<blockquote>
+<div><p><em>Confirm</em> 会将<strong>所有</strong>项目设置重置为默认值。</p>
+</div></blockquote>
+</section>
+<section id="notesicon-notes">
+<h3><a class="reference internal" href="../../../_images/icon_notes.svg"><img alt="notes icon" height="12" src="../../../_images/icon_notes.svg" width="12" /></a> 备注<a class="headerlink" href="#notesicon-notes" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../../_images/projectSettingsNotes_LG.png"><img alt="project settings notes" src="../../../_images/projectSettingsNotes_LG.png" style="width: 600px;" /></a>
+<ol class="arabic simple">
+<li><p>用于输入备注的文本字段。</p></li>
+<li><p>这会打开备注窗口（<strong>4</strong>)</p></li>
+<li><p>勾选后，打开设置了备注的项目文件时会显示备注窗口。</p></li>
+<li><p><em>Project Notes</em> 窗口</p></li>
+<li><p>备注文本。</p></li>
+</ol>
+</section>
+<section id="thumbnailicon-thumbnail">
+<h3><a class="reference internal" href="../../../_images/thumbnail.svg"><img alt="renderer icon" height="12" src="../../../_images/thumbnail.svg" width="12" /></a> 缩略图<a class="headerlink" href="#thumbnailicon-thumbnail" title="Permalink to this heading">#</a></h3>
+<p>缩略图是与预设一起显示在 <a class="reference internal" href="../../../_images/icon_home.svg"><img alt="home Icon" height="14" src="../../../_images/icon_home.svg" width="14" /></a> Home Screen 上的图像或视频。</p>
+<a class="reference internal image-reference" href="../../../_images/projectSettingsThumbnail.png"><img alt="project thumbnail" class="align-center" src="../../../_images/projectSettingsThumbnail.png" style="width: 800px;" /></a>
+<p>这些视频必须是 <strong>PNG 翻页序列</strong>，并且两个维度的最大尺寸为 4009 像素。</p>
+<p>关于翻页序列的更多信息，请查看我们的 <a class="reference internal" href="../../../embergen/pages/references/node_list.html#exporting"><span class="std std-ref">Export</span></a> 部分。</p>
+<p>当显示在 Home Screen 上时，除非翻页序列少于 41 帧，否则缩略图循环点会自动添加交叉淡化。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     >
+        <video class="lazy" preload="none" width="650" height="429.53821656050957" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/projectSettingsThumbnail_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Preview：</strong> 如果有缩略图，这里会显示缩略图预览。你可以 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击 <a class="reference internal" href="../../../_images/delete.svg"><img alt="delete icon" height="16" src="../../../_images/delete.svg" width="16" /></a> 并在提示中选择 <em>Clear</em> 来移除当前缩略图。</p></li>
+<li><p><strong>Capture From Viewport（从视口捕获）：</strong> 将当前视口捕获为静态图像，用作缩略图。</p></li>
+<li><p><strong>Import File：</strong> 单击 <em>Import</em> 按钮时，会弹出文件浏览器，你可以在其中查找 <strong>png</strong> 文件，用作缩略图的翻页序列或静态图像。</p></li>
+<li><p><strong>Columns / Rows</strong> 这里可以设置翻页序列的列数和行数。最大帧数由这两个数相乘得出。</p></li>
+</ul>
+<p><em>如果列数和行数都设为 1，就会使用静态 png 作为缩略图，并且以下参数不会出现。</em></p>
+<ul class="simple">
+<li><p><strong>Frame Count：</strong> 缩略图使用的帧数。</p></li>
+<li><p><strong>Frame Rate：</strong> 播放缩略图时使用的每秒帧数。值越高，视频播放越“快”。</p></li>
+</ul>
+</section>
+</section>
+<section id="preferences">
+<span id="preferences-lg"></span><h2>首选项<a class="headerlink" href="#preferences" title="Permalink to this heading">#</a></h2>
+<section id="id1">
+<h3><a class="reference internal" href="../../../_images/icon_general.svg"><img alt="general icon" height="12" src="../../../_images/icon_general.svg" width="12" /></a> 常规<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
+<img alt="general tab" src="../../../_images/preferencesGeneral_LG.png" />
+<ul class="simple">
+<li><p><strong>UI Scale：</strong> 设置 UI 中所有文本和图标的缩放比例。当你难以阅读小字号文本时，这会很有用。</p></li>
+<li><p><strong>Vsync：</strong> 将 UI 帧率同步到显示器刷新率。</p></li>
+<li><p><strong>Simulation Preemption：</strong> 在暂停以渲染并更新 UI 之前，一个模拟步可运行的时间。较低的值会让 UI 响应更快，但代价是模拟速度降低。</p></li>
+<li><p><strong>Play Project On Load：</strong> 如果勾选，预设打开后会开始模拟。否则，预设会保持暂停，直到手动启动。</p></li>
+<li><p><strong>Export Warning On Overwrite：</strong> 如果勾选，当导出会覆盖其他内容时会弹出警告。例如，如果尝试导出与现有翻页序列具有相同名称、扩展名和目标目录的翻页序列。 <em>Disable Warning</em> 会取消勾选此参数， <em>Cancel</em> 会取消导出，因此不会覆盖任何文件，而 <em>Overwrite</em> 会继续导出并覆盖文件。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../_images/preferencesExportOverwriteWarning_LG.png"><img alt="export overwrite warning" src="../../../_images/preferencesExportOverwriteWarning_LG.png" style="width: 512.0px; height: 219.5px;" /></a>
+<ul class="simple">
+<li><p><strong>UI Layout：</strong> 设置四个主面板的布局。如果你移动和缩放这些窗口做了许多更改，这可以用于快速将布局重置为默认状态。</p></li>
+<li><p><strong>Graph Background Grid Type：</strong> 设置节点图的背景网格类型。 <em>None</em> 是流式传输或录制时的最佳选项，因为它能减少压缩伪影。</p></li>
+<li><p><strong>Mouse Compatibility Mode：</strong> 如果勾选，与视口交互时会禁用光标隐藏和光标跳转。这对远程桌面很有用。</p></li>
+<li><p><strong>Middle-Click Emulation：</strong> 如果勾选， <cite>alt</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 左键会被重映射为 <a class="reference internal" href="../../../_images/middle.svg"><img alt="middle mouse button" height="18" src="../../../_images/middle.svg" width="18" /></a> 中键点击；这在使用触控板工作时很有用。</p></li>
+<li><p><strong>Scroll-Wheel Emulation：</strong> 会让中键 <a class="reference internal" href="../../../_images/middle.svg"><img alt="middle mouse button" height="18" src="../../../_images/middle.svg" width="18" /></a> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 左键单击并拖动在使用 Wacom 等数位板时作为滚动事件。这让你可以用类似 Nuke 的方式在节点图中缩放。</p></li>
+<li><p><strong>Max Undo History：</strong> 可通过撤销命令回滚的操作数量。</p></li>
+<li><p><strong>Recovery Autosave Interval：</strong> 创建新的恢复自动保存文件之前经过的时间。</p></li>
+<li><p><strong>FPS Limit：</strong> 模拟的最大帧率。如果想在工作时按目标帧率观看模拟，这会很有用。</p></li>
+<li><p><strong>Show Floating Viewport（显示浮动视口）：</strong> 勾选后，在全屏模式下使用另一个面板时，会显示一个浮动视口窗口 <a class="reference internal" href="../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../_images/full_screen.svg" width="12" /></a>。</p></li>
+<li><p><strong>Create Key When Parameter Exposed（参数公开时创建关键帧）：</strong> 如果勾选，当将参数设为时间轴动画时，会在当前帧使用当前值创建一个关键帧。</p></li>
+<li><p><strong>Show Modulator Output On Timeline：</strong> 如果勾选，调制器预览会显示在时间轴中。例如，当使用 <em>Mod: Oscillator</em> 节点并使用 <em>Sine</em> 波形时，现在可以清楚看到峰值和谷值与时间轴的对应关系。</p></li>
+<li><p><strong>Manipulator scale：</strong> 缩放视口中的 Move <a class="reference internal" href="../../../_images/icon_move.svg"><img alt="move icon" height="20" src="../../../_images/icon_move.svg" width="20" /></a>、Rotate <a class="reference internal" href="../../../_images/icon_rotate.svg"><img alt="rotate icon" height="20" src="../../../_images/icon_rotate.svg" width="20" /></a> 或 Scale <a class="reference internal" href="../../../_images/icon_scale.svg"><img alt="scale icon" height="20" src="../../../_images/icon_scale.svg" width="20" /></a> 操纵器。</p></li>
+<li><p><strong>Template Project：</strong> 这里可以设置自定义默认项目。之后此项目会与 <em>File &gt; New</em> Project 一起使用。此项目不会被意外覆盖，因为保存默认项目时，它会表现得像还没有文件名，并提示你指定一个文件名。</p></li>
+<li><p><strong>Post-Export Command：</strong> 例如，当整夜运行导出时，可能希望导出完成后关闭 LiquiGen 以节省电力。这可以通过在此文本字段中输入 <code class="docutils literal notranslate"><span class="pre">$quit</span></code> 来实现。</p></li>
+<li><dl class="simple">
+<dt><strong>Relative Asset Paths：</strong></dt><dd><ul>
+<li><p>如果勾选，所有通过文件浏览器导入 LiquiGen 的文件都会引用相对于当前 <em>.liquigen</em> 项目文件的路径。使用 <code class="docutils literal notranslate"><span class="pre">..\</span></code> 语法向上导航文件夹，使用 <code class="docutils literal notranslate"><span class="pre">/</span></code> 和文件夹名称向下导航。如果你的工作流程会把资产和项目文件放在相近的文件夹结构中，这会很有用，因为它会让 <em>Filepath</em> 参数更清晰，并且当所有文件一起移动到其他文件夹甚至其他驱动器时，引用不会失效。</p></li>
+<li><p>如果未勾选，所有通过文件浏览器导入 LiquiGen 的文件都会引用计算机上的绝对文件路径。这有助于跟踪文件所在位置。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>MIDI support：</strong> 需要勾选此项才能使用 MIDI 节点。</p></li>
+<li><p><strong>Show Minimap：</strong> 切换节点图中的小地图。</p></li>
+<li><p><strong>Minimap Location：</strong> 下拉菜单，可选择小地图在节点图中的位置。</p></li>
+<li><p><strong>Minimap Scale：</strong> 控制小地图大小，范围从 <em>40%</em> 到 <em>200%</em>。</p></li>
+</ul>
+</section>
+<section id="shortcutsicon-shortcuts">
+<span id="shortcuts"></span><h3><a class="reference internal" href="../../../_images/icon_shortcuts.svg"><img alt="shortcuts icon" height="12" src="../../../_images/icon_shortcuts.svg" width="12" /></a> 快捷键<a class="headerlink" href="#shortcutsicon-shortcuts" title="Permalink to this heading">#</a></h3>
+<img alt="shortcuts tab" src="../../../_images/preferencesShortcuts_LG.png" />
+<ol class="arabic simple">
+<li><p>搜索命令。</p></li>
+<li><p>命令。</p></li>
+<li><p>当前按键绑定。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_plus.svg"><img alt="plus icon" height="16" src="../../../_images/icon_plus.svg" width="16" /></a> 为此命令添加快捷键。</p></li>
+<li><p><a class="reference internal" href="../../../_images/reset.svg"><img alt="reset icon" height="16" src="../../../_images/reset.svg" width="16" /></a> 将快捷键重置为默认值。</p></li>
+<li><p><a class="reference internal" href="../../../_images/delete.svg"><img alt="delete icon" height="16" src="../../../_images/delete.svg" width="16" /></a> 移除此命令的所有快捷键。</p></li>
+<li><p>这会弹出一个窗口，询问你是否要将所有键盘快捷键重置为默认值。</p></li>
+</ol>
+</section>
+<section id="camerasettingsicon-camera">
+<h3><a class="reference internal" href="../../../_images/icon_camera1.svg"><img alt="camera settings icon" height="12" src="../../../_images/icon_camera1.svg" width="12" /></a> 摄像机<a class="headerlink" href="#camerasettingsicon-camera" title="Permalink to this heading">#</a></h3>
+<img alt="camera tab" src="../../../_images/preferencesCamera_LG_2.png" />
+<section id="bindings">
+<h4>Bindings<a class="headerlink" href="#bindings" title="Permalink to this heading">#</a></h4>
+<p>此部分用于设置移动摄像机的按键绑定。</p>
+<blockquote>
+<div><p>摄像机绑定的设置方式与 <a class="reference internal" href="#shortcuts"><span class="std std-ref"> 快捷键</span></a> 选项卡中相同。但在这里，可以接受多个键和鼠标按钮的任意组合。</p>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Control Mapping：</strong> 下拉菜单，包含不同控制映射类型。当你习惯另一种摄像机控制方式（例如 Blender 或 Maya 的 Industry Compatible（行业兼容））时，这会很有用。它们可以理解为 bindings（绑定）选项卡的预设。更改控制映射会覆盖按键映射。</p></li>
+<li><p><strong>Orbit：</strong> 围绕枢轴环绕。</p></li>
+<li><p><strong>Zoom：</strong> 将摄像机移近或远离枢轴。</p></li>
+<li><p><strong>Pan：</strong>（默认情况下）在屏幕空间中水平和垂直移动摄像机。</p></li>
+<li><p><strong>Pan (Alt.)：</strong> 让摄像机沿替代平面移动。可在 Pan (alt) 部分中设置。</p></li>
+<li><p><strong>Fly：</strong> 用于激活飞行模式的按键绑定。飞行模式允许你以第一人称方式四处移动，使用         <cite>W</cite>, <cite>A</cite>, <cite>S</cite>, <cite>D</cite> 键或方向键四处移动，并使用 <cite>E</cite> 和 <cite>Q</cite> 键上下移动。</p></li>
+<li><p><strong>Tank：</strong> 用于激活坦克模式的按键绑定。坦克模式允许你用鼠标让摄像机左右转向、前后移动。</p></li>
+</ul>
+</section>
+<section id="pivot">
+<h4>枢轴<a class="headerlink" href="#pivot" title="Permalink to this heading">#</a></h4>
+<ul>
+<li><p><strong>Pivot To Cursor：</strong> 启用后，缩放和环绕会围绕枢轴位置移动，而不是围绕摄像机中心移动。枢轴会以 <a class="reference internal" href="../../../_images/camera_aim.svg"><img alt="camera aim icon" height="12" src="../../../_images/camera_aim.svg" width="12" /></a> 蓝色十字准星表示，并设置在光标位置。例如，这有助于轻松缩放到某个水滴，或围绕它环绕。</p>
+<blockquote>
+<div><p>当光标悬停在天空或地面上时，枢轴会回退到摄像机中心。</p>
+</div></blockquote>
+</li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="390" height="324.9184441656211" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/zoom_pivot.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Pivot To Ground：</strong> 指定当光标位于地面上时枢轴的行为。</dt><dd><ul>
+<li><p><em>Never：</em> 使用摄像机中心作为枢轴，应用默认行为。</p></li>
+<li><p><em>Zoom only：</em> 缩放时，摄像机会朝光标放在地面上的枢轴移动。</p></li>
+<li><p><em>Zoom and Orbit：</em> 摄像机会朝光标放在地面上的枢轴缩放，并围绕该枢轴环绕。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Always Show Pivot：</strong> 如果勾选，蓝色十字准星 <a class="reference internal" href="../../../_images/camera_aim.svg"><img alt="camera aim icon" height="12" src="../../../_images/camera_aim.svg" width="12" /></a> （表示枢轴）会始终显示，即使没有与摄像机交互也是如此。</p></li>
+</ul>
+</section>
+<section id="orbit">
+<h4>环绕<a class="headerlink" href="#orbit" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Orbit Sensitivity：</strong> 摄像机环绕速度，单位为度/像素。因此，当值为 <em>0.4</em> 时，光标移动 1 个像素，摄像机会环绕 <em>0.4</em> 度。</p></li>
+<li><p><strong>Invert Vertical Orbit Direction：</strong> 反转光标输入的垂直轴。启用后，向上移动光标会向下环绕，反之亦然。</p></li>
+</ul>
+</section>
+<section id="zoom">
+<h4>缩放<a class="headerlink" href="#zoom" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Zoom Input Axis：</strong> 指定摄像机缩放是基于光标水平移动还是垂直移动。</p></li>
+<li><p><strong>Invert Zoom Direction：</strong> 如果 <em>Mouse</em> 被勾选，向右或向上移动光标会放大为缩小。如果 <em>Wheel</em> 被勾选，向上滚动会放大为缩小。</p></li>
+</ul>
+</section>
+<section id="pan">
+<h4>平移<a class="headerlink" href="#pan" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Pan Sensitivity：</strong> 平移灵敏度。较高的值会让较少的光标移动产生更快的平移。此设置在常规平移和替代平移模式之间共享。</p></li>
+<li><p><strong>Distance to Pivot Scaling：</strong> 启用后，平移灵敏度会与摄像机到上一个枢轴点的距离成比例。当大幅放大或缩小主体时，这通常会让平移速度更舒适。</p></li>
+<li><p><strong>Pan Plane：</strong> 鼠标平移所在的屏幕空间相对平面。</p></li>
+</ul>
+</section>
+<section id="pan-alt">
+<h4>Pan (alt)<a class="headerlink" href="#pan-alt" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Pan Plane：</strong> 鼠标平移所在的屏幕空间相对平面。</p></li>
+</ul>
+</section>
+<section id="fly">
+<h4>飞行<a class="headerlink" href="#fly" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Fly Sensitivity：</strong> 较高的值会提高飞行速度，让你移动得更快。较低的值会降低飞行速度，让摄像机移动更精确。</p></li>
+<li><p><strong>Distance to Pivot Scaling：</strong> 启用后，飞行灵敏度会与摄像机到上一个枢轴点的距离成比例。这会让围绕主体放大或缩小时的飞行速度看起来更一致。</p></li>
+<li><p><strong>WASD Fly Plane：</strong> 摄像机使用 <cite>W</cite>, <cite>A</cite>, <cite>S</cite>, <cite>D</cite> 或方向键飞行时所在的屏幕空间相对平面</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="650" height="251.4423076923077" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/fly_mode.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+</section>
+<section id="variablesicon-user-variables">
+<span id="uservariables-lg"></span><h3><a class="reference internal" href="../../../_images/icon_variables.svg"><img alt="variables icon" height="12" src="../../../_images/icon_variables.svg" width="12" /></a> 用户变量<a class="headerlink" href="#variablesicon-user-variables" title="Permalink to this heading">#</a></h3>
+<p>自定义变量可用于导出节点文件路径，以改进工作流程。</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<p>例如，如果你有很多用于不同捕获类型的导出节点，并想修改所有文件名中的某一部分；如果所有文件名都包含用户变量，只需在这里更改变量值，就能一次性改变所有文件名，而不必逐个修改。</p>
+<img alt="user variables tab" src="../../../_images/preferencesUserVariables_LG.png" />
+<ol class="arabic simple">
+<li><p>变量名称。</p></li>
+<li><p>变量值。</p></li>
+<li><p><a class="reference internal" href="../../../_images/delete.svg"><img alt="delete icon" height="16" src="../../../_images/delete.svg" width="16" /></a> 移除变量。</p></li>
+<li><p>添加新变量。</p></li>
+</ol>
+<img alt="user variable example" src="../../../_images/userVariableExport_LG.png" />
+</section>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="node_list.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>下一页</span>
+                </div>
+                <div class="title">节点列表</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="ui_reference.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>上一页</span>
+                </div>
+                
+                <div class="title">用户界面</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                版权所有 © 2026，JangaFX
+            </div>
+            使用 <a href="https://www.sphinx-doc.org/">Sphinx</a> 和 <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a> 的
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            本页内容
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">设置</a><ul>
+<li><a class="reference internal" href="#project-settings">Project Settings（项目设置）</a><ul>
+<li><a class="reference internal" href="#generalicon-general"> 常规</a></li>
+<li><a class="reference internal" href="#renderericon-renderer"> 渲染器</a></li>
+<li><a class="reference internal" href="#notesicon-notes"> 备注</a></li>
+<li><a class="reference internal" href="#thumbnailicon-thumbnail"> 缩略图</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#preferences">首选项</a><ul>
+<li><a class="reference internal" href="#id1"> 常规</a></li>
+<li><a class="reference internal" href="#shortcutsicon-shortcuts"> 快捷键</a></li>
+<li><a class="reference internal" href="#camerasettingsicon-camera"> 摄像机</a><ul>
+<li><a class="reference internal" href="#bindings">Bindings</a></li>
+<li><a class="reference internal" href="#pivot">枢轴</a></li>
+<li><a class="reference internal" href="#orbit">环绕</a></li>
+<li><a class="reference internal" href="#zoom">缩放</a></li>
+<li><a class="reference internal" href="#pan">平移</a></li>
+<li><a class="reference internal" href="#pan-alt">Pan (alt)</a></li>
+<li><a class="reference internal" href="#fly">飞行</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#variablesicon-user-variables"> 用户变量</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/sphinx_highlight.js"></script>
+    <script src="../../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../../_static/js/ga.js"></script>
+    <script src="../../../_static/js/yall.min.js"></script>
+    <script src="../../../_static/js/loadLibraries.js"></script>
+    <script src="../../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

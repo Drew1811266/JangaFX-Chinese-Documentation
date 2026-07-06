@@ -1,0 +1,3276 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+  "segment_count": 327,
+  "segments": [
+    {
+      "id": "2284ee53052e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 716,
+      "end": 756,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Modulation Curve - JangaFX Documentation",
+      "source_text": "Modulation Curve - JangaFX Documentation"
+    },
+    {
+      "id": "cd97956ac8e3",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 5346,
+      "end": 5369,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "2fa74c867821",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 5464,
+      "end": 5494,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "3cf7c1c5f683",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 5690,
+      "end": 5720,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "fe2047b3b0f3",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 5911,
+      "end": 5932,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "3366c3cdc1fc",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 6125,
+      "end": 6163,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "18ad93e6b6bb",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 6546,
+      "end": 6578,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "2e80c8024361",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 7626,
+      "end": 7648,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "dbbf59a14a82",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 7826,
+      "end": 7858,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "6984566c9005",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8051,
+      "end": 8066,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "73e4710881cb",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8198,
+      "end": 8208,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "cba77fd34409",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8386,
+      "end": 8418,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "77b45d7a1f0c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8619,
+      "end": 8633,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "64899b68a344",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8755,
+      "end": 8763,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "25fea739d26a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8886,
+      "end": 8895,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "eea8ea422882",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9043,
+      "end": 9056,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "cfbb9aad830b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9234,
+      "end": 9266,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "fe5a5ea1e5a9",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9484,
+      "end": 9497,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "c54304f9dcb1",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9648,
+      "end": 9667,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "fde95f3577c3",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9802,
+      "end": 9807,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "dd28f8f123fb",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9944,
+      "end": 9951,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "4e743a46d882",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10085,
+      "end": 10089,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "34b2394de9a1",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10235,
+      "end": 10255,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "14696f8a9d7c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10394,
+      "end": 10403,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "79c116be42a2",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10544,
+      "end": 10556,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "a9c302601bf4",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10695,
+      "end": 10713,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "58429d334bd1",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10859,
+      "end": 10875,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "7428064841f4",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11026,
+      "end": 11047,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "aad5961d15fe",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11185,
+      "end": 11193,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "fe85d27d8a1a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11332,
+      "end": 11342,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "1898bf49f1a4",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11485,
+      "end": 11498,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "b216bd020808",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11628,
+      "end": 11631,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "dcabe3c15cb7",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11754,
+      "end": 11776,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "7ff5c5c738e0",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11965,
+      "end": 11997,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "d5b93451cdcb",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 12185,
+      "end": 12200,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "3719cc64aabb",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 12305,
+      "end": 12315,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "3f795deb4b44",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 12504,
+      "end": 12536,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "54c16ac8bc64",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 12718,
+      "end": 12732,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "e51ed81fdf41",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 12819,
+      "end": 12827,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "5b90c81714f8",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 12915,
+      "end": 12924,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "829a6d7e8823",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13026,
+      "end": 13039,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "c1178f24af02",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13228,
+      "end": 13260,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "0cf5e563cc86",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13438,
+      "end": 13449,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "a9586a2f2a1c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13546,
+      "end": 13565,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "0e11968d3eae",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13646,
+      "end": 13651,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "43018ac852e5",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13734,
+      "end": 13741,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "0c27e56b7587",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13821,
+      "end": 13825,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "f955f0962f4a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13917,
+      "end": 13937,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "7611bd6fcc7f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14026,
+      "end": 14039,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "624c2a8198c8",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14126,
+      "end": 14138,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "38c63bb6bc98",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14223,
+      "end": 14241,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "55f9e6ea6281",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14342,
+      "end": 14358,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "cca347626c82",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14455,
+      "end": 14476,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "fa94368733ef",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14560,
+      "end": 14568,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "56e7f70e3c82",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14657,
+      "end": 14670,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "23e98c8665f2",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14757,
+      "end": 14768,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "59ac03924f76",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14877,
+      "end": 14880,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "256d670521f3",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14993,
+      "end": 15014,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "cdc323618692",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 15114,
+      "end": 15134,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "0c9e4bf50b8a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 15237,
+      "end": 15259,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "17c1c33b7916",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 15672,
+      "end": 15683,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "be07b0d41cbc",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 15903,
+      "end": 15941,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "e017dfea8c1d",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 16353,
+      "end": 16385,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "7af7ff24205d",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 16610,
+      "end": 16626,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "14766dc7d9a6",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 16721,
+      "end": 16780,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Modulation curves are used to map values based on two axis.",
+      "source_text": "Modulation curves are used to map values based on two axis."
+    },
+    {
+      "id": "be5fbb28abc8",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 16818,
+      "end": 16831,
+      "line": 259,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Curve Editing",
+      "source_text": "Curve Editing"
+    },
+    {
+      "id": "db08eda0ced6",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 17266,
+      "end": 17340,
+      "line": 267,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "4dbc2e0a03a1",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 17391,
+      "end": 17434,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "For more precise editing you can click the ",
+      "source_text": "For more precise editing you can click the "
+    },
+    {
+      "id": "bbca8c06d68e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 17605,
+      "end": 17646,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon next to the curve to open a bigger ",
+      "source_text": " icon next to the curve to open a bigger "
+    },
+    {
+      "id": "bd1163aa178d",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 17650,
+      "end": 17665,
+      "line": 272,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Remapping curve",
+      "source_text": "Remapping curve"
+    },
+    {
+      "id": "2bbe736a8c7f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 17670,
+      "end": 17708,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " window. This window can be scaled by ",
+      "source_text": " window. This window can be scaled by "
+    },
+    {
+      "id": "d2d9b8707a4f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 17867,
+      "end": 17947,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking and dragging the corners and the window can be closed by clicking the ",
+      "source_text": " clicking and dragging the corners and the window can be closed by clicking the "
+    },
+    {
+      "id": "e235daa6454d",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 18111,
+      "end": 18148,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon in the top right corner or the ",
+      "source_text": " icon in the top right corner or the "
+    },
+    {
+      "id": "b5fd99030971",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 18334,
+      "end": 18382,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon next to the curve in the properties panel.",
+      "source_text": " icon next to the curve in the properties panel."
+    },
+    {
+      "id": "eab8414b2c82",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 18399,
+      "end": 18406,
+      "line": 273,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Double ",
+      "source_text": "Double "
+    },
+    {
+      "id": "3792112daf89",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 18565,
+      "end": 18624,
+      "line": 273,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " click anywhere on the graph to insert another curve point.",
+      "source_text": " click anywhere on the graph to insert another curve point."
+    },
+    {
+      "id": "8af1cb9804f5",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 18800,
+      "end": 18844,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " click and drag on a curve point to move it.",
+      "source_text": " click and drag on a curve point to move it."
+    },
+    {
+      "id": "d7724707642c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 18861,
+      "end": 18885,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Select a curve point by ",
+      "source_text": "Select a curve point by "
+    },
+    {
+      "id": "41e4c0e8d644",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19044,
+      "end": 19060,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking on it.",
+      "source_text": " clicking on it."
+    },
+    {
+      "id": "12627e1bfeea",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19077,
+      "end": 19104,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Box-select curve points by ",
+      "source_text": "Box-select curve points by "
+    },
+    {
+      "id": "fa6c120aaf34",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19263,
+      "end": 19286,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking and dragging.",
+      "source_text": " clicking and dragging."
+    },
+    {
+      "id": "03e03b7e3f7b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19303,
+      "end": 19360,
+      "line": 277,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Add or subtract from your curve point selection by using ",
+      "source_text": "Add or subtract from your curve point selection by using "
+    },
+    {
+      "id": "2887759502b7",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19366,
+      "end": 19370,
+      "line": 277,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl",
+      "source_text": "Ctrl"
+    },
+    {
+      "id": "83866602a00f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19539,
+      "end": 19549,
+      "line": 277,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking.",
+      "source_text": " clicking."
+    },
+    {
+      "id": "964afe28dadd",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19566,
+      "end": 19602,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Select all curve points by pressing ",
+      "source_text": "Select all curve points by pressing "
+    },
+    {
+      "id": "646d050be815",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19608,
+      "end": 19616,
+      "line": 278,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + A",
+      "source_text": "Ctrl + A"
+    },
+    {
+      "id": "2aa21f195f28",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19640,
+      "end": 19682,
+      "line": 279,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Delete selected curve points by using the ",
+      "source_text": "Delete selected curve points by using the "
+    },
+    {
+      "id": "931351da9897",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19688,
+      "end": 19694,
+      "line": 279,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "224adb2341a6",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19701,
+      "end": 19759,
+      "line": 279,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " key. Or use the right-click menu of the point and select ",
+      "source_text": " key. Or use the right-click menu of the point and select "
+    },
+    {
+      "id": "d7b30fbdfd3c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19763,
+      "end": 19769,
+      "line": 279,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "19f4243b4221",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19792,
+      "end": 19800,
+      "line": 280,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Use the ",
+      "source_text": "Use the "
+    },
+    {
+      "id": "fe5ffffe705a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19979,
+      "end": 20034,
+      "line": 280,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button or the right-click menu on the graph to select ",
+      "source_text": " button or the right-click menu on the graph to select "
+    },
+    {
+      "id": "80e5dcc8e4cc",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20038,
+      "end": 20055,
+      "line": 280,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Flip Horizontally",
+      "source_text": "Flip Horizontally"
+    },
+    {
+      "id": "4b05cd3bb71a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20060,
+      "end": 20116,
+      "line": 280,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to flip all the curve points horizontally in the graph.",
+      "source_text": " to flip all the curve points horizontally in the graph."
+    },
+    {
+      "id": "ace0d246cc48",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20133,
+      "end": 20141,
+      "line": 281,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Use the ",
+      "source_text": "Use the "
+    },
+    {
+      "id": "d9a760520415",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20314,
+      "end": 20369,
+      "line": 281,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button or the right-click menu on the graph to select ",
+      "source_text": " button or the right-click menu on the graph to select "
+    },
+    {
+      "id": "ea1637b1ad9d",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20373,
+      "end": 20388,
+      "line": 281,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Flip Vertically",
+      "source_text": "Flip Vertically"
+    },
+    {
+      "id": "decc8f4ee929",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20393,
+      "end": 20447,
+      "line": 281,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to flip all the curve points vertically in the graph.",
+      "source_text": " to flip all the curve points vertically in the graph."
+    },
+    {
+      "id": "c3473e8a34ae",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20815,
+      "end": 20889,
+      "line": 290,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "79b47b44f6c2",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20916,
+      "end": 20920,
+      "line": 294,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "c0c74cd64f19",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20924,
+      "end": 20942,
+      "line": 294,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Interpolation Mode",
+      "source_text": "Interpolation Mode"
+    },
+    {
+      "id": "d282bd91682d",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20947,
+      "end": 21027,
+      "line": 294,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " defines the method of interpolating the values from one curve point to another.",
+      "source_text": " defines the method of interpolating the values from one curve point to another."
+    },
+    {
+      "id": "ff99277f62f1",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21035,
+      "end": 21117,
+      "line": 295,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "You can change the Interpolation Mode of the curve points in the right-click menu.",
+      "source_text": "You can change the Interpolation Mode of the curve points in the right-click menu."
+    },
+    {
+      "id": "d12392711792",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21169,
+      "end": 21247,
+      "line": 297,
+      "parent_path": "section/section/div/div/em",
+      "source_raw": "Note that you can mix different interpolation modes on different curve points.",
+      "source_text": "Note that you can mix different interpolation modes on different curve points."
+    },
+    {
+      "id": "a9c4d04d1c72",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21281,
+      "end": 21412,
+      "line": 298,
+      "parent_path": "section/section/div/div/em",
+      "source_raw": "The interpolation mode of the first (or left) curve point will be used between two curve points with different interpolation modes.",
+      "source_text": "The interpolation mode of the first (or left) curve point will be used between two curve points with different interpolation modes."
+    },
+    {
+      "id": "401d3975aede",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21455,
+      "end": 21479,
+      "line": 301,
+      "parent_path": "article/section/section/dl/dt",
+      "source_raw": "There are a few options:",
+      "source_text": "There are a few options:"
+    },
+    {
+      "id": "a23d356665cd",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21523,
+      "end": 21529,
+      "line": 302,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Bézier",
+      "source_text": "Bézier"
+    },
+    {
+      "id": "69e7e67006c3",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21538,
+      "end": 21721,
+      "line": 302,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " will interpolate the values based on the bézier handles. When using this mode you can see the bézier handles when selecting a single curve point. You can change the interpolation by ",
+      "source_text": " will interpolate the values based on the bézier handles. When using this mode you can see the bézier handles when selecting a single curve point. You can change the interpolation by "
+    },
+    {
+      "id": "942eeef040ee",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21727,
+      "end": 21730,
+      "line": 302,
+      "parent_path": "dd/ul/li/p/cite",
+      "source_raw": "LMB",
+      "source_text": "LMB"
+    },
+    {
+      "id": "057bcdca53d0",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21737,
+      "end": 21912,
+      "line": 302,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " and dragging the dots at the end of the bézier handles. A flat part of the curve means the values change slowly and a steep part of the curve means the values change quickly.",
+      "source_text": " and dragging the dots at the end of the bézier handles. A flat part of the curve means the values change slowly and a steep part of the curve means the values change quickly."
+    },
+    {
+      "id": "c6667d9731e4",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21937,
+      "end": 21943,
+      "line": 303,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Smooth",
+      "source_text": "Smooth"
+    },
+    {
+      "id": "dbcf4da9075f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21952,
+      "end": 22050,
+      "line": 303,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " will generate a smooth line from one curve point to another. This avoids having hard transitions.",
+      "source_text": " will generate a smooth line from one curve point to another. This avoids having hard transitions."
+    },
+    {
+      "id": "939179850b0a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22075,
+      "end": 22081,
+      "line": 304,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Linear",
+      "source_text": "Linear"
+    },
+    {
+      "id": "5aa5328e5b08",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22090,
+      "end": 22244,
+      "line": 304,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Values move linearly from one curve point to another. This is useful for getting very predictable results, but can result in robotic looking transitions.",
+      "source_text": " Values move linearly from one curve point to another. This is useful for getting very predictable results, but can result in robotic looking transitions."
+    },
+    {
+      "id": "d8dd40907e14",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22269,
+      "end": 22277,
+      "line": 305,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Constant",
+      "source_text": "Constant"
+    },
+    {
+      "id": "8f30bc1bf5f4",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22286,
+      "end": 22378,
+      "line": 305,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Values stay constant until the next curve point is reached. This results in jumping values.",
+      "source_text": " Values stay constant until the next curve point is reached. This results in jumping values."
+    },
+    {
+      "id": "ad22775bf9f4",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22756,
+      "end": 22830,
+      "line": 316,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "0a46a7bc7490",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22863,
+      "end": 22878,
+      "line": 321,
+      "parent_path": "article/section/section/dl/dt",
+      "source_raw": "When using the ",
+      "source_text": "When using the "
+    },
+    {
+      "id": "bf7db4051db2",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22882,
+      "end": 22888,
+      "line": 321,
+      "parent_path": "section/section/dl/dt/em",
+      "source_raw": "Bézier",
+      "source_text": "Bézier"
+    },
+    {
+      "id": "6ab811e3f502",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22893,
+      "end": 22976,
+      "line": 321,
+      "parent_path": "article/section/section/dl/dt",
+      "source_raw": " mode, there are a few handle types you can use also found in the right-click menu.",
+      "source_text": " mode, there are a few handle types you can use also found in the right-click menu."
+    },
+    {
+      "id": "a39375a81d8c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23005,
+      "end": 23012,
+      "line": 322,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Aligned",
+      "source_text": "Aligned"
+    },
+    {
+      "id": "6737e089db5d",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23021,
+      "end": 23196,
+      "line": 322,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " The handles can be moved freely and can have any direction and length. For this type, one handle is always in the inverted direction and has the same length as the other one.",
+      "source_text": " The handles can be moved freely and can have any direction and length. For this type, one handle is always in the inverted direction and has the same length as the other one."
+    },
+    {
+      "id": "4fb21e506d76",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23221,
+      "end": 23225,
+      "line": 323,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Free",
+      "source_text": "Free"
+    },
+    {
+      "id": "ddcf99a06c76",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23234,
+      "end": 23296,
+      "line": 323,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " The handles can be moved in any way separate from each other.",
+      "source_text": " The handles can be moved in any way separate from each other."
+    },
+    {
+      "id": "ee302fc2d76b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23321,
+      "end": 23333,
+      "line": 324,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Auto Clamped",
+      "source_text": "Auto Clamped"
+    },
+    {
+      "id": "3e7027839bbf",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23342,
+      "end": 23522,
+      "line": 324,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " This is the default behavior. For this type, the handles can never go beyond the previous or next curve point. Note that when changing the handles the type will be set to Aligned.",
+      "source_text": " This is the default behavior. For this type, the handles can never go beyond the previous or next curve point. Note that when changing the handles the type will be set to Aligned."
+    },
+    {
+      "id": "a99cecf4da8c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23547,
+      "end": 23560,
+      "line": 325,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Auto Vectored",
+      "source_text": "Auto Vectored"
+    },
+    {
+      "id": "4dac8661869a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23569,
+      "end": 23751,
+      "line": 325,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " This will point the left handle towards the previous curve point and the right handle towards the next curve point. Note that when changing the handles the type will be set to Free.",
+      "source_text": " This will point the left handle towards the previous curve point and the right handle towards the next curve point. Note that when changing the handles the type will be set to Free."
+    },
+    {
+      "id": "94e1ff44ac7b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23777,
+      "end": 23873,
+      "line": 327,
+      "parent_path": "ul/li/blockquote/div/p",
+      "source_raw": "You can always reset the bezier handles to default for the selected curve points by clicking on ",
+      "source_text": "You can always reset the bezier handles to default for the selected curve points by clicking on "
+    },
+    {
+      "id": "74c042523a4e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23877,
+      "end": 23889,
+      "line": 327,
+      "parent_path": "li/blockquote/div/p/em",
+      "source_raw": "Reset Handle",
+      "source_text": "Reset Handle"
+    },
+    {
+      "id": "f1d61f25e7ab",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23894,
+      "end": 23919,
+      "line": 327,
+      "parent_path": "ul/li/blockquote/div/p",
+      "source_raw": " in the right-click menu.",
+      "source_text": " in the right-click menu."
+    },
+    {
+      "id": "d028f7f878fb",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24024,
+      "end": 24049,
+      "line": 335,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Saving and Loading Curves",
+      "source_text": "Saving and Loading Curves"
+    },
+    {
+      "id": "c5a9a2d8bf00",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24153,
+      "end": 24220,
+      "line": 336,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Any modulation curve can be saved to your hard drive for later use!",
+      "source_text": "Any modulation curve can be saved to your hard drive for later use!"
+    },
+    {
+      "id": "d189daeed448",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24228,
+      "end": 24317,
+      "line": 337,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "When you use a specific custom curve often, you can save it and load it into any project.",
+      "source_text": "When you use a specific custom curve often, you can save it and load it into any project."
+    },
+    {
+      "id": "cbcaf4c787d7",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24325,
+      "end": 24452,
+      "line": 338,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Loaded curves can still be edited in the modulation curve editor so you can also use them as a starting point or custom preset.",
+      "source_text": "Loaded curves can still be edited in the modulation curve editor so you can also use them as a starting point or custom preset."
+    },
+    {
+      "id": "7aab1e1b5925",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24484,
+      "end": 24519,
+      "line": 340,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Save or load a modulation curve by ",
+      "source_text": "Save or load a modulation curve by "
+    },
+    {
+      "id": "c131d6bec492",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24681,
+      "end": 24718,
+      "line": 340,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking in the graph and selecting ",
+      "source_text": " clicking in the graph and selecting "
+    },
+    {
+      "id": "e0e7ec6ef4d6",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24722,
+      "end": 24727,
+      "line": 340,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Save…",
+      "source_text": "Save…"
+    },
+    {
+      "id": "6ca84f8a3198",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24732,
+      "end": 24736,
+      "line": 340,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "20f791eb3100",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24740,
+      "end": 24745,
+      "line": 340,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Load…",
+      "source_text": "Load…"
+    },
+    {
+      "id": "862087da79ab",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24767,
+      "end": 24886,
+      "line": 341,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "A file browser will pop up where you can navigate to the folder you want to save your curve to or load your curve from.",
+      "source_text": "A file browser will pop up where you can navigate to the folder you want to save your curve to or load your curve from."
+    },
+    {
+      "id": "afa27421f5d0",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24903,
+      "end": 24951,
+      "line": 342,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "To save a curve, provide a filename and use the ",
+      "source_text": "To save a curve, provide a filename and use the "
+    },
+    {
+      "id": "c3ddbcfcaac1",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24955,
+      "end": 24959,
+      "line": 342,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Save",
+      "source_text": "Save"
+    },
+    {
+      "id": "8ee1c8de4e3a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24964,
+      "end": 24992,
+      "line": 342,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button in the file browser.",
+      "source_text": " button in the file browser."
+    },
+    {
+      "id": "ec519768ca86",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25009,
+      "end": 25013,
+      "line": 343,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "f9fc96fc16d4",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25017,
+      "end": 25026,
+      "line": 343,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".jfxcurve",
+      "source_text": ".jfxcurve"
+    },
+    {
+      "id": "61866e349eb9",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25031,
+      "end": 25130,
+      "line": 343,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " extension will be added automatically and your custom curve file will be saved to your hard drive.",
+      "source_text": " extension will be added automatically and your custom curve file will be saved to your hard drive."
+    },
+    {
+      "id": "a28400541aa5",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25147,
+      "end": 25187,
+      "line": 344,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "To load a curve, select a file with the ",
+      "source_text": "To load a curve, select a file with the "
+    },
+    {
+      "id": "a381540b7fb4",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25191,
+      "end": 25200,
+      "line": 344,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".jfxcurve",
+      "source_text": ".jfxcurve"
+    },
+    {
+      "id": "c119a8ccfb41",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25205,
+      "end": 25248,
+      "line": 344,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " extension in the file browser and use the ",
+      "source_text": " extension in the file browser and use the "
+    },
+    {
+      "id": "f87c9af20220",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25252,
+      "end": 25256,
+      "line": 344,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Open",
+      "source_text": "Open"
+    },
+    {
+      "id": "4d25f7a17fee",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25261,
+      "end": 25269,
+      "line": 344,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button.",
+      "source_text": " button."
+    },
+    {
+      "id": "093d3c3bcfea",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25286,
+      "end": 25336,
+      "line": 345,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If you decide not to load or save a curve use the ",
+      "source_text": "If you decide not to load or save a curve use the "
+    },
+    {
+      "id": "74f52b4d1ab6",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25340,
+      "end": 25346,
+      "line": 345,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Cancel",
+      "source_text": "Cancel"
+    },
+    {
+      "id": "328e1946cbba",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25351,
+      "end": 25379,
+      "line": 345,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button in the file browser.",
+      "source_text": " button in the file browser."
+    },
+    {
+      "id": "1bc601ae8178",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25723,
+      "end": 25797,
+      "line": 354,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "c665176c7400",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25865,
+      "end": 25878,
+      "line": 360,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Curve Presets",
+      "source_text": "Curve Presets"
+    },
+    {
+      "id": "3b9ea7166371",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 26189,
+      "end": 26218,
+      "line": 362,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Clicking the button with the ",
+      "source_text": "Clicking the button with the "
+    },
+    {
+      "id": "edfa39d966cc",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 26389,
+      "end": 26509,
+      "line": 362,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " icon will open the curve presets window.\nHere, you can organize, update, import, and export all your modulation curves!",
+      "source_text": " icon will open the curve presets window.\nHere, you can organize, update, import, and export all your modulation curves!"
+    },
+    {
+      "id": "8230fb563dad",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 26517,
+      "end": 26607,
+      "line": 364,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The section on the left is a list of categories or folders that can contain curve presets:",
+      "source_text": "The section on the left is a list of categories or folders that can contain curve presets:"
+    },
+    {
+      "id": "7508954be501",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 26792,
+      "end": 26795,
+      "line": 366,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "All",
+      "source_text": "All"
+    },
+    {
+      "id": "8e535fc98c21",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 26800,
+      "end": 26834,
+      "line": 366,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " contains all saved curve presets.",
+      "source_text": " contains all saved curve presets."
+    },
+    {
+      "id": "431e14a6b62f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27021,
+      "end": 27030,
+      "line": 367,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Favorites",
+      "source_text": "Favorites"
+    },
+    {
+      "id": "b30bc5ef0403",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27035,
+      "end": 27108,
+      "line": 367,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " contains all presets marked as favorite by toggling the star icon on it.",
+      "source_text": " contains all presets marked as favorite by toggling the star icon on it."
+    },
+    {
+      "id": "34ffc34ca3ea",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27296,
+      "end": 27305,
+      "line": 368,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Ungrouped",
+      "source_text": "Ungrouped"
+    },
+    {
+      "id": "1eb1074f9aac",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27310,
+      "end": 27441,
+      "line": 368,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " contains all presets that are not within a folder. A preset will end up in ungrouped if it’s either moved there or added when the ",
+      "source_text": " contains all presets that are not within a folder. A preset will end up in ungrouped if it’s either moved there or added when the "
+    },
+    {
+      "id": "5d7df279bafb",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27594,
+      "end": 27597,
+      "line": 368,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "All",
+      "source_text": "All"
+    },
+    {
+      "id": "cadf87c9f895",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27774,
+      "end": 27783,
+      "line": 368,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Favorites",
+      "source_text": "Favorites"
+    },
+    {
+      "id": "ed22411c6a1b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27788,
+      "end": 27793,
+      "line": 368,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ", or ",
+      "source_text": ", or "
+    },
+    {
+      "id": "3eef70474fa7",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27964,
+      "end": 27973,
+      "line": 368,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Ungrouped",
+      "source_text": "Ungrouped"
+    },
+    {
+      "id": "4d28fb6f8ec0",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27978,
+      "end": 28000,
+      "line": 368,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " category is selected.",
+      "source_text": " category is selected."
+    },
+    {
+      "id": "41f72b4bfc55",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28181,
+      "end": 28188,
+      "line": 369,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Folders",
+      "source_text": "Folders"
+    },
+    {
+      "id": "cd6f34374a8b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28193,
+      "end": 28271,
+      "line": 369,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " can be created by the user to organise curve presets. This is done using the ",
+      "source_text": " can be created by the user to organise curve presets. This is done using the "
+    },
+    {
+      "id": "a8e5f5d854fd",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28440,
+      "end": 28586,
+      "line": 369,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button in the bottom right corner. If a folder is selected, newly added presets will be put in that folder. You can rename or delete a folder by ",
+      "source_text": " button in the bottom right corner. If a folder is selected, newly added presets will be put in that folder. You can rename or delete a folder by "
+    },
+    {
+      "id": "ea8818a97f28",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28748,
+      "end": 28778,
+      "line": 369,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking on it and selecting ",
+      "source_text": " clicking on it and selecting "
+    },
+    {
+      "id": "5dae89976af0",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28782,
+      "end": 28788,
+      "line": 369,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Rename",
+      "source_text": "Rename"
+    },
+    {
+      "id": "57e775e3e579",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28793,
+      "end": 28797,
+      "line": 369,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "52057f31c80f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28801,
+      "end": 28807,
+      "line": 369,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "1da3f21815b5",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28812,
+      "end": 28855,
+      "line": 369,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ". You can also move the folder position by ",
+      "source_text": ". You can also move the folder position by "
+    },
+    {
+      "id": "0663dd60d1e1",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29014,
+      "end": 29040,
+      "line": 369,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking and dragging it.",
+      "source_text": " clicking and dragging it."
+    },
+    {
+      "id": "476933a4253e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29059,
+      "end": 29122,
+      "line": 371,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The section on the right is a list of modulation curve presets:",
+      "source_text": "The section on the right is a list of modulation curve presets:"
+    },
+    {
+      "id": "1870d05e0302",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29154,
+      "end": 29189,
+      "line": 373,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The active preset is marked with a ",
+      "source_text": "The active preset is marked with a "
+    },
+    {
+      "id": "63fba7b16969",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29349,
+      "end": 29371,
+      "line": 373,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " grey dot next to the ",
+      "source_text": " grey dot next to the "
+    },
+    {
+      "id": "7c1b04425b03",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29536,
+      "end": 29542,
+      "line": 373,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon.",
+      "source_text": " icon."
+    },
+    {
+      "id": "8b2e9a0386f8",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29559,
+      "end": 29563,
+      "line": 374,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "613dacf42397",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29728,
+      "end": 29790,
+      "line": 374,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon can be toggled to favorite or unfavorite a curve preset.",
+      "source_text": " icon can be toggled to favorite or unfavorite a curve preset."
+    },
+    {
+      "id": "db477686fb1a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29966,
+      "end": 30042,
+      "line": 375,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Clicking on a curve preset will apply it to the modulation curve parameter.",
+      "source_text": " Clicking on a curve preset will apply it to the modulation curve parameter."
+    },
+    {
+      "id": "184c24ebae73",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30065,
+      "end": 30070,
+      "line": 376,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Shift",
+      "source_text": "Shift"
+    },
+    {
+      "id": "7f7233e8b79e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30239,
+      "end": 30356,
+      "line": 376,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking on a curve preset will apply it to the modulation curve parameter without closing the curve presets window.",
+      "source_text": " clicking on a curve preset will apply it to the modulation curve parameter without closing the curve presets window."
+    },
+    {
+      "id": "15286815048e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30373,
+      "end": 30381,
+      "line": 377,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "You can ",
+      "source_text": "You can "
+    },
+    {
+      "id": "5dd62c75d17e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30540,
+      "end": 30618,
+      "line": 377,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " click and drag a curve preset to move it to a different position in the list.",
+      "source_text": " click and drag a curve preset to move it to a different position in the list."
+    },
+    {
+      "id": "2cc7a7acdf34",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30637,
+      "end": 30726,
+      "line": 379,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The context menu which appears when clicking on a curve preset has the following options:",
+      "source_text": "The context menu which appears when clicking on a curve preset has the following options:"
+    },
+    {
+      "id": "ff8228f6520f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30920,
+      "end": 30927,
+      "line": 381,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Rename:",
+      "source_text": "Rename:"
+    },
+    {
+      "id": "315e8261f95b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30932,
+      "end": 30987,
+      "line": 381,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Allows you to type in a new name for the curve preset.",
+      "source_text": " Allows you to type in a new name for the curve preset."
+    },
+    {
+      "id": "9f526ce353b9",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31363,
+      "end": 31374,
+      "line": 382,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Unfavorite:",
+      "source_text": "Unfavorite:"
+    },
+    {
+      "id": "b4b6e3672ded",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31379,
+      "end": 31438,
+      "line": 382,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Toggles if the curve preset is favorite or not. Using the ",
+      "source_text": " Toggles if the curve preset is favorite or not. Using the "
+    },
+    {
+      "id": "8d9e8ff23324",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31603,
+      "end": 31649,
+      "line": 382,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon on the curve preset does the same thing.",
+      "source_text": " icon on the curve preset does the same thing."
+    },
+    {
+      "id": "9f244ffc6c8e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31830,
+      "end": 31837,
+      "line": 383,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Update:",
+      "source_text": "Update:"
+    },
+    {
+      "id": "81015c98b96f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31842,
+      "end": 31915,
+      "line": 383,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Overwrites the curve preset with the current modulation curve parameter.",
+      "source_text": " Overwrites the curve preset with the current modulation curve parameter."
+    },
+    {
+      "id": "6a7225896720",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32097,
+      "end": 32106,
+      "line": 384,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Move To…:",
+      "source_text": "Move To…:"
+    },
+    {
+      "id": "c4e58c467ee5",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32111,
+      "end": 32164,
+      "line": 384,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Let’s you put a curve preset into a specific folder.",
+      "source_text": " Let’s you put a curve preset into a specific folder."
+    },
+    {
+      "id": "2adb3af2b6ff",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32343,
+      "end": 32351,
+      "line": 385,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Export…:",
+      "source_text": "Export…:"
+    },
+    {
+      "id": "0df45cf901ea",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32356,
+      "end": 32402,
+      "line": 385,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Opens a file browser to store the curve as a ",
+      "source_text": " Opens a file browser to store the curve as a "
+    },
+    {
+      "id": "b2b1ffa9e241",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32406,
+      "end": 32419,
+      "line": 385,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "JangaFX Curve",
+      "source_text": "JangaFX Curve"
+    },
+    {
+      "id": "497b9ba4c191",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32429,
+      "end": 32440,
+      "line": 385,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "(.jfxcurve)",
+      "source_text": "(.jfxcurve)"
+    },
+    {
+      "id": "8dec1a7e3993",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32445,
+      "end": 32473,
+      "line": 385,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file in a desired location.",
+      "source_text": " file in a desired location."
+    },
+    {
+      "id": "f553d9200c7c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32654,
+      "end": 32661,
+      "line": 386,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Delete:",
+      "source_text": "Delete:"
+    },
+    {
+      "id": "d08a1a1dfd89",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32666,
+      "end": 32725,
+      "line": 386,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Removes the curve preset completely. This can’t be undone!",
+      "source_text": " Removes the curve preset completely. This can’t be undone!"
+    },
+    {
+      "id": "4ff2c0ae408f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32744,
+      "end": 32748,
+      "line": 388,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "21b262b895cf",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32905,
+      "end": 33074,
+      "line": 388,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " search function on the top lets you search for curve presets based on their names. It always searches through all the presets regardless of which folder they belong to.",
+      "source_text": " search function on the top lets you search for curve presets based on their names. It always searches through all the presets regardless of which folder they belong to."
+    },
+    {
+      "id": "889ae99b0c7b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33082,
+      "end": 33136,
+      "line": 389,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The bottom of the window also has a couple of options:",
+      "source_text": "The bottom of the window also has a couple of options:"
+    },
+    {
+      "id": "4af065d5f725",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33318,
+      "end": 33460,
+      "line": 391,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Adds the current modulation curve parameter as a curve preset and puts you into rename mode immediately to give your new curve preset a name.",
+      "source_text": " Adds the current modulation curve parameter as a curve preset and puts you into rename mode immediately to give your new curve preset a name."
+    },
+    {
+      "id": "38a0bf3ab53d",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33646,
+      "end": 33766,
+      "line": 392,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Adds a new folder to the curve presets window and puts you into rename mode immediately to give your new folder a name.",
+      "source_text": " Adds a new folder to the curve presets window and puts you into rename mode immediately to give your new folder a name."
+    },
+    {
+      "id": "973f0164a68f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33942,
+      "end": 33989,
+      "line": 393,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Opens the file browser where you can select a ",
+      "source_text": " Opens the file browser where you can select a "
+    },
+    {
+      "id": "b2dd5abbe308",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33993,
+      "end": 34018,
+      "line": 393,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "JangaFX Curve (.jfxcurve)",
+      "source_text": "JangaFX Curve (.jfxcurve)"
+    },
+    {
+      "id": "7ee9ba041351",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34023,
+      "end": 34089,
+      "line": 393,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file to be added as a curve preset into the curve presets window.",
+      "source_text": " file to be added as a curve preset into the curve presets window."
+    },
+    {
+      "id": "992a1fa4777b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34189,
+      "end": 34204,
+      "line": 397,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "de4d7fb8e658",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34298,
+      "end": 34376,
+      "line": 398,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Another way to create modulation curves is to make them procedually using the ",
+      "source_text": "Another way to create modulation curves is to make them procedually using the "
+    },
+    {
+      "id": "7e710c5f74e4",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34380,
+      "end": 34395,
+      "line": 398,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "99bcfa77684a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34409,
+      "end": 34421,
+      "line": 399,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "To open the ",
+      "source_text": "To open the "
+    },
+    {
+      "id": "fb7936c4456b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34425,
+      "end": 34440,
+      "line": 399,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "4bfe5ae405b0",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34608,
+      "end": 34643,
+      "line": 399,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " click within the graph and select ",
+      "source_text": " click within the graph and select "
+    },
+    {
+      "id": "5c38e635e737",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34647,
+      "end": 34663,
+      "line": 399,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Curve Generator…",
+      "source_text": "Curve Generator…"
+    },
+    {
+      "id": "9cd945564887",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34668,
+      "end": 34691,
+      "line": 399,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " from the context menu.",
+      "source_text": " from the context menu."
+    },
+    {
+      "id": "9b2b35c1f9c0",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34699,
+      "end": 34708,
+      "line": 400,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "With the ",
+      "source_text": "With the "
+    },
+    {
+      "id": "c11ec571a7dd",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34712,
+      "end": 34727,
+      "line": 400,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "8933df9e5eb3",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34732,
+      "end": 34838,
+      "line": 400,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " window opened the curve is now controlled by the generator indicated with the visual glow over the graph.",
+      "source_text": " window opened the curve is now controlled by the generator indicated with the visual glow over the graph."
+    },
+    {
+      "id": "4a9321b8220c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34846,
+      "end": 34908,
+      "line": 401,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s look at the options for controlling our curve using the ",
+      "source_text": "Let’s look at the options for controlling our curve using the "
+    },
+    {
+      "id": "14872485b2e6",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34912,
+      "end": 34921,
+      "line": 401,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Generator",
+      "source_text": "Generator"
+    },
+    {
+      "id": "d581ac2e87e5",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34926,
+      "end": 34931,
+      "line": 401,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " tab:",
+      "source_text": " tab:"
+    },
+    {
+      "id": "05d970b16aa2",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35190,
+      "end": 35201,
+      "line": 404,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Resolution:",
+      "source_text": "Resolution:"
+    },
+    {
+      "id": "da23d67d40ff",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35210,
+      "end": 35369,
+      "line": 404,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Specifies the amount of points used to build the curve. More points can create more detailed curves, less points can make the curve easier to edit afterwards.",
+      "source_text": " Specifies the amount of points used to build the curve. More points can create more detailed curves, less points can make the curve easier to edit afterwards."
+    },
+    {
+      "id": "c0e8414aa148",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35394,
+      "end": 35399,
+      "line": 405,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Seed:",
+      "source_text": "Seed:"
+    },
+    {
+      "id": "81a21da49011",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35408,
+      "end": 35472,
+      "line": 405,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Different numbers give different random changes when using the ",
+      "source_text": " Different numbers give different random changes when using the "
+    },
+    {
+      "id": "89774b4d39e9",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35493,
+      "end": 35556,
+      "line": 405,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter and will drop different curve points when using the ",
+      "source_text": " parameter and will drop different curve points when using the "
+    },
+    {
+      "id": "49f18c5db4ec",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35560,
+      "end": 35571,
+      "line": 405,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Drop Chance",
+      "source_text": "Drop Chance"
+    },
+    {
+      "id": "edc4aeede674",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35576,
+      "end": 35587,
+      "line": 405,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter.",
+      "source_text": " parameter."
+    },
+    {
+      "id": "6e88020847b8",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35606,
+      "end": 35767,
+      "line": 407,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Note that the next four parameters are split into two columns both controlling a different waveform!\nThe right column doesn’t affect the curve by default as the ",
+      "source_text": "Note that the next four parameters are split into two columns both controlling a different waveform!\nThe right column doesn’t affect the curve by default as the "
+    },
+    {
+      "id": "c69c842a1103",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35771,
+      "end": 35775,
+      "line": 408,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Gain",
+      "source_text": "Gain"
+    },
+    {
+      "id": "a6478e2b32df",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35780,
+      "end": 35822,
+      "line": 408,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " parameter for that waveform is set to 0%!",
+      "source_text": " parameter for that waveform is set to 0%!"
+    },
+    {
+      "id": "d75d753c61d1",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35883,
+      "end": 35892,
+      "line": 411,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Waveform:",
+      "source_text": "Waveform:"
+    },
+    {
+      "id": "cd8ce9bd970d",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35901,
+      "end": 35948,
+      "line": 411,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " Type of function to determine the curve shape.",
+      "source_text": " Type of function to determine the curve shape."
+    },
+    {
+      "id": "f3b8d23fcedf",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35969,
+      "end": 36016,
+      "line": 412,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Sine: Sinewave, smooth oscillation up and down.",
+      "source_text": "Sine: Sinewave, smooth oscillation up and down."
+    },
+    {
+      "id": "716484632272",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36033,
+      "end": 36131,
+      "line": 413,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Saw: Oscillation over a modulo curve, the value will abruptly reset to the same value every cycle.",
+      "source_text": "Saw: Oscillation over a modulo curve, the value will abruptly reset to the same value every cycle."
+    },
+    {
+      "id": "f2efa4e33518",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36148,
+      "end": 36223,
+      "line": 414,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Pulse: Abruptly switches from a top value to a bottom value back and forth.",
+      "source_text": "Pulse: Abruptly switches from a top value to a bottom value back and forth."
+    },
+    {
+      "id": "aafbf0523354",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36272,
+      "end": 36282,
+      "line": 419,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Frequency:",
+      "source_text": "Frequency:"
+    },
+    {
+      "id": "175586bceccc",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36291,
+      "end": 36346,
+      "line": 419,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Amount of waveform cycles within the 0% to 100% range.",
+      "source_text": " Amount of waveform cycles within the 0% to 100% range."
+    },
+    {
+      "id": "678a27383508",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36371,
+      "end": 36377,
+      "line": 420,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Phase:",
+      "source_text": "Phase:"
+    },
+    {
+      "id": "dfcc2b6cd8a5",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36386,
+      "end": 36460,
+      "line": 420,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Phase of the funtion. You can use this to move your waveform horizontaly.",
+      "source_text": " Phase of the funtion. You can use this to move your waveform horizontaly."
+    },
+    {
+      "id": "ffcb0df45e9e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36485,
+      "end": 36490,
+      "line": 421,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Gain:",
+      "source_text": "Gain:"
+    },
+    {
+      "id": "7a0849bd668f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36499,
+      "end": 36716,
+      "line": 421,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Waveform intensity. At 100% the waveform will oscillate from 0% to 100% using the whole graph, at 0% the waveform will oscillate from 50% to 50% turning in to a straight line (these values can be offset by using the ",
+      "source_text": " Waveform intensity. At 100% the waveform will oscillate from 0% to 100% using the whole graph, at 0% the waveform will oscillate from 50% to 50% turning in to a straight line (these values can be offset by using the "
+    },
+    {
+      "id": "8248f1ead0a5",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36720,
+      "end": 36736,
+      "line": 421,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Offset parameter",
+      "source_text": "Offset parameter"
+    },
+    {
+      "id": "defb7c54759c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36741,
+      "end": 36754,
+      "line": 421,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "). Using the ",
+      "source_text": "). Using the "
+    },
+    {
+      "id": "02a58f0b5123",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36758,
+      "end": 36762,
+      "line": 421,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Gain",
+      "source_text": "Gain"
+    },
+    {
+      "id": "91f87588d90a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36767,
+      "end": 36902,
+      "line": 421,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter is like scaling your waveform in the vertical axis. This parameter is also used to mix the two different waveforms together.",
+      "source_text": " parameter is like scaling your waveform in the vertical axis. This parameter is also used to mix the two different waveforms together."
+    },
+    {
+      "id": "9ea97f40432c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36949,
+      "end": 37579,
+      "line": 422,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Varies the position of the curve points. Note that this isn’t related to the waveform and affects all curvepoints. The left slider will randomly move the curve points horizontally over the graph, and the right slider will move the curve points vertically over the graph. Higher percentages result in the curve points moving further from their original positions, 100% will randomly move the curve points within a range of 0 to 100%. This parameter is useful to add some organic variation to the mathematically smooth shapes of the waveforms. To get a different randomization of the positions you can use a different value in the ",
+      "source_text": " Varies the position of the curve points. Note that this isn’t related to the waveform and affects all curvepoints. The left slider will randomly move the curve points horizontally over the graph, and the right slider will move the curve points vertically over the graph. Higher percentages result in the curve points moving further from their original positions, 100% will randomly move the curve points within a range of 0 to 100%. This parameter is useful to add some organic variation to the mathematically smooth shapes of the waveforms. To get a different randomization of the positions you can use a different value in the "
+    },
+    {
+      "id": "53e0a5424b8a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 37583,
+      "end": 37587,
+      "line": 422,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Seed",
+      "source_text": "Seed"
+    },
+    {
+      "id": "9c08385d0a1c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 37592,
+      "end": 37603,
+      "line": 422,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter.",
+      "source_text": " parameter."
+    },
+    {
+      "id": "fb731f08290b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 37628,
+      "end": 37640,
+      "line": 423,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Drop Chance:",
+      "source_text": "Drop Chance:"
+    },
+    {
+      "id": "14bf5d27070e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 37649,
+      "end": 38022,
+      "line": 423,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The chance in percentage of the curve points being removed from the curve. This is useful to distribute the detail more randomly over the curve creating a more organic-looking curve. 0% means no curve points will be dropped 100% means all curve points will be dropped basically removing the curve. Different curve points will be dropped when using different values in the ",
+      "source_text": " The chance in percentage of the curve points being removed from the curve. This is useful to distribute the detail more randomly over the curve creating a more organic-looking curve. 0% means no curve points will be dropped 100% means all curve points will be dropped basically removing the curve. Different curve points will be dropped when using different values in the "
+    },
+    {
+      "id": "fb164b7651b7",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38026,
+      "end": 38030,
+      "line": 423,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Seed",
+      "source_text": "Seed"
+    },
+    {
+      "id": "376d66790729",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38035,
+      "end": 38046,
+      "line": 423,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter.",
+      "source_text": " parameter."
+    },
+    {
+      "id": "54fc588942c2",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38071,
+      "end": 38078,
+      "line": 424,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Offset:",
+      "source_text": "Offset:"
+    },
+    {
+      "id": "80359064ca6c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38087,
+      "end": 38262,
+      "line": 424,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Offsets the vertical position of the whole curve. This can be used to move the modulation curve vertically. Curve point positions will be clipped within the 0% to 100% range.",
+      "source_text": " Offsets the vertical position of the whole curve. This can be used to move the modulation curve vertically. Curve point positions will be clipped within the 0% to 100% range."
+    },
+    {
+      "id": "86e1823e8a79",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38287,
+      "end": 38299,
+      "line": 425,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Attenuation:",
+      "source_text": "Attenuation:"
+    },
+    {
+      "id": "9351f0aa6c38",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38308,
+      "end": 38411,
+      "line": 425,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Intensity of the modulation curve. This can be used to scale the whole curve vertically. For example, ",
+      "source_text": " Intensity of the modulation curve. This can be used to scale the whole curve vertically. For example, "
+    },
+    {
+      "id": "865d5a7842e3",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38419,
+      "end": 38456,
+      "line": 425,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "-100% will flip the curve vertically.",
+      "source_text": "-100% will flip the curve vertically."
+    },
+    {
+      "id": "ad6d6b6952d9",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38486,
+      "end": 38504,
+      "line": 426,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Apply Immediately:",
+      "source_text": "Apply Immediately:"
+    },
+    {
+      "id": "8fde843d6441",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38509,
+      "end": 38563,
+      "line": 426,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If this checkbox is checked, all changes made in the ",
+      "source_text": " If this checkbox is checked, all changes made in the "
+    },
+    {
+      "id": "f0a68cd46a42",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38567,
+      "end": 38582,
+      "line": 426,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "22a1ad6b925c",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38587,
+      "end": 38847,
+      "line": 426,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " are immediately applied to the modulation curve so you can see the results in the viewport. If not checked, you can see the curve you’re creating in the graph but its effects won’t immediately be applied to your project whenever you change a parameter in the ",
+      "source_text": " are immediately applied to the modulation curve so you can see the results in the viewport. If not checked, you can see the curve you’re creating in the graph but its effects won’t immediately be applied to your project whenever you change a parameter in the "
+    },
+    {
+      "id": "e87ad61e77d0",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38851,
+      "end": 38866,
+      "line": 426,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "b17b099065bb",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 38871,
+      "end": 38893,
+      "line": 426,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and if you click the ",
+      "source_text": " and if you click the "
+    },
+    {
+      "id": "0bc6f4ebaa63",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39057,
+      "end": 39089,
+      "line": 426,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the top right corner of the ",
+      "source_text": " in the top right corner of the "
+    },
+    {
+      "id": "ca6b3d8dbe2b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39093,
+      "end": 39108,
+      "line": 426,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "e84891c63e18",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39113,
+      "end": 39192,
+      "line": 426,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " you would still have the modulation curve you started with before opening the ",
+      "source_text": " you would still have the modulation curve you started with before opening the "
+    },
+    {
+      "id": "38cef0b7dc78",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39196,
+      "end": 39211,
+      "line": 426,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "9dff080c2c64",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39216,
+      "end": 39224,
+      "line": 426,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " window.",
+      "source_text": " window."
+    },
+    {
+      "id": "de6b1aefd931",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39245,
+      "end": 39251,
+      "line": 427,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Reset:",
+      "source_text": "Reset:"
+    },
+    {
+      "id": "cde09550fae3",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39256,
+      "end": 39284,
+      "line": 427,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Sets all parameters in the ",
+      "source_text": " Sets all parameters in the "
+    },
+    {
+      "id": "d7eef300b868",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39288,
+      "end": 39303,
+      "line": 427,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "2d432742fc37",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39308,
+      "end": 39365,
+      "line": 427,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to their default values creating a basic sinewave curve.",
+      "source_text": " to their default values creating a basic sinewave curve."
+    },
+    {
+      "id": "8d750283d294",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39386,
+      "end": 39392,
+      "line": 428,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Apply:",
+      "source_text": "Apply:"
+    },
+    {
+      "id": "527a19b3482a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39397,
+      "end": 39481,
+      "line": 428,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Applies the generated curve to the modulation curve in your project and closes the ",
+      "source_text": " Applies the generated curve to the modulation curve in your project and closes the "
+    },
+    {
+      "id": "7b808f037154",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39485,
+      "end": 39500,
+      "line": 428,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "4d43966200d0",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39505,
+      "end": 39513,
+      "line": 428,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " window.",
+      "source_text": " window."
+    },
+    {
+      "id": "19fc5d34a31e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39532,
+      "end": 39594,
+      "line": 430,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s look at the options for controlling our curve using the ",
+      "source_text": "Let’s look at the options for controlling our curve using the "
+    },
+    {
+      "id": "ac477a73f642",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39598,
+      "end": 39608,
+      "line": 430,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Expression",
+      "source_text": "Expression"
+    },
+    {
+      "id": "ff13b6cb0f7a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39613,
+      "end": 39618,
+      "line": 430,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " tab:",
+      "source_text": " tab:"
+    },
+    {
+      "id": "f413721e4477",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39644,
+      "end": 39696,
+      "line": 432,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": "The resolution parameter and the Apply Immediately, ",
+      "source_text": "The resolution parameter and the Apply Immediately, "
+    },
+    {
+      "id": "df93e203a661",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39700,
+      "end": 39705,
+      "line": 432,
+      "parent_path": "section/blockquote/div/p/em",
+      "source_raw": "Reset",
+      "source_text": "Reset"
+    },
+    {
+      "id": "6402e0ccc68b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39710,
+      "end": 39716,
+      "line": 432,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": ", and ",
+      "source_text": ", and "
+    },
+    {
+      "id": "bd59903bb821",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39720,
+      "end": 39725,
+      "line": 432,
+      "parent_path": "section/blockquote/div/p/em",
+      "source_raw": "Apply",
+      "source_text": "Apply"
+    },
+    {
+      "id": "9546c03c10fd",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39730,
+      "end": 39759,
+      "line": 432,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " options are shared with the ",
+      "source_text": " options are shared with the "
+    },
+    {
+      "id": "b234b3130131",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39763,
+      "end": 39772,
+      "line": 432,
+      "parent_path": "section/blockquote/div/p/em",
+      "source_raw": "Generator",
+      "source_text": "Generator"
+    },
+    {
+      "id": "9622f515d9eb",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 39777,
+      "end": 39878,
+      "line": 432,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " tab, meaning they have the same functions and any changes made on one tab will be reflected on both.",
+      "source_text": " tab, meaning they have the same functions and any changes made on one tab will be reflected on both."
+    },
+    {
+      "id": "ce4c3dd3dcdd",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 40251,
+      "end": 40325,
+      "line": 441,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "0cd7ee9b4f86",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 40463,
+      "end": 40474,
+      "line": 450,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Expression:",
+      "source_text": "Expression:"
+    },
+    {
+      "id": "3f827bcfdbce",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 40483,
+      "end": 40561,
+      "line": 450,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " You can create curves by entering mathematical expressions into this textbox.",
+      "source_text": " You can create curves by entering mathematical expressions into this textbox."
+    },
+    {
+      "id": "0848ea905db8",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 40569,
+      "end": 40581,
+      "line": 451,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Utilize the ",
+      "source_text": "Utilize the "
+    },
+    {
+      "id": "64a2cc3610d1",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 40657,
+      "end": 40784,
+      "line": 451,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " variable along with the supported math operators, constants, and functions, a comprehensive list of which is available on the ",
+      "source_text": " variable along with the supported math operators, constants, and functions, a comprehensive list of which is available on the "
+    },
+    {
+      "id": "9494d118f92a",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 40888,
+      "end": 40899,
+      "line": 451,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "ed14697d762b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 40910,
+      "end": 40916,
+      "line": 451,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " page.",
+      "source_text": " page."
+    },
+    {
+      "id": "7bab0084dded",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 40924,
+      "end": 40928,
+      "line": 452,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Try ",
+      "source_text": "Try "
+    },
+    {
+      "id": "7f0a74c1d4d5",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 41521,
+      "end": 41526,
+      "line": 452,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ", or ",
+      "source_text": ", or "
+    },
+    {
+      "id": "34444b29d804",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 41662,
+      "end": 41672,
+      "line": 454,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Range X,Y:",
+      "source_text": "Range X,Y:"
+    },
+    {
+      "id": "3ac937464bcd",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 41681,
+      "end": 41799,
+      "line": 454,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Expressions generate infinite mathematical curves, a modulation curve needs to be a section of that curve to be used.",
+      "source_text": " Expressions generate infinite mathematical curves, a modulation curve needs to be a section of that curve to be used."
+    },
+    {
+      "id": "0792e822344e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 41818,
+      "end": 41872,
+      "line": 456,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "This section is specified with these range parameters.",
+      "source_text": "This section is specified with these range parameters."
+    },
+    {
+      "id": "fef6ba9ac63b",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 41880,
+      "end": 41947,
+      "line": 457,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "It’s like zooming in or out on the curve created by the expression.",
+      "source_text": "It’s like zooming in or out on the curve created by the expression."
+    },
+    {
+      "id": "be9ea0930c67",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 42503,
+      "end": 42577,
+      "line": 473,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "26ee058182ad",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 42882,
+      "end": 42886,
+      "line": 488,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "d31fbe623ef5",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 42952,
+      "end": 42973,
+      "line": 490,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "8d732260d40e",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 43346,
+      "end": 43354,
+      "line": 498,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "95dd883d9031",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 43437,
+      "end": 43455,
+      "line": 501,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "79401793cfbe",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 43641,
+      "end": 43701,
+      "line": 508,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "f786c40dd9e2",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 43707,
+      "end": 43730,
+      "line": 510,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "48e3e0ce8b55",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 43768,
+      "end": 43774,
+      "line": 511,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "2159eacaa025",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 43778,
+      "end": 43783,
+      "line": 511,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "29f565e3522d",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 43833,
+      "end": 43843,
+      "line": 511,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "8f8ec9ad1635",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 43847,
+      "end": 43875,
+      "line": 511,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "d660f87b5b40",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 43919,
+      "end": 43923,
+      "line": 513,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "3e7edb54239f",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 44240,
+      "end": 44276,
+      "line": 528,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "25321a79d2d7",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 44433,
+      "end": 44449,
+      "line": 535,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "1a5a4bf20b97",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 44514,
+      "end": 44527,
+      "line": 536,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Curve Editing",
+      "source_text": "Curve Editing"
+    },
+    {
+      "id": "f6be2ced8a32",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 44605,
+      "end": 44630,
+      "line": 537,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Saving and Loading Curves",
+      "source_text": "Saving and Loading Curves"
+    },
+    {
+      "id": "6b11331ca3e0",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 44696,
+      "end": 44709,
+      "line": 538,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Curve Presets",
+      "source_text": "Curve Presets"
+    },
+    {
+      "id": "cd9d3a51d516",
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 44777,
+      "end": 44792,
+      "line": 539,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    }
+  ]
+}

@@ -1,0 +1,1056 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/expressions.html",
+  "segment_count": 105,
+  "segments": [
+    {
+      "id": "78325ca81202",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 685,
+      "end": 720,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Expressions - JangaFX Documentation",
+      "source_text": "Expressions - JangaFX Documentation"
+    },
+    {
+      "id": "bd8420da9b4a",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 5310,
+      "end": 5333,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "ad14746ffc20",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 5428,
+      "end": 5458,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "39bf7a6135c1",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 5654,
+      "end": 5684,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "9ac38c175974",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 5875,
+      "end": 5896,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "4861dda40ae9",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 6089,
+      "end": 6127,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "faaed76b9f85",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 6510,
+      "end": 6542,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "69d00e8e6035",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 7590,
+      "end": 7612,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "d9505e134a03",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 7790,
+      "end": 7822,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "60500363808d",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 8015,
+      "end": 8030,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "4293f498197b",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 8162,
+      "end": 8172,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "d7015300937b",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 8350,
+      "end": 8382,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "57700e0cf073",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 8583,
+      "end": 8597,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "59a06e4df975",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 8719,
+      "end": 8727,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "0b9855dd28aa",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 8850,
+      "end": 8859,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "b34cc316b79f",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 9007,
+      "end": 9020,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "d7350c2bf5bb",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 9198,
+      "end": 9230,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "553086cdeb2a",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 9448,
+      "end": 9461,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "1a98b6e1b1b6",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 9612,
+      "end": 9631,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "d4389ea110b3",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 9766,
+      "end": 9771,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "373781077851",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 9908,
+      "end": 9915,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "aed2d2194ade",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 10049,
+      "end": 10053,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "5977d7c29b65",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 10199,
+      "end": 10219,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "f9299ccac042",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 10358,
+      "end": 10367,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "a7600f6a4d06",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 10508,
+      "end": 10520,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "6bc0cb82de81",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 10659,
+      "end": 10677,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "c93a8392fa49",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 10823,
+      "end": 10839,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "c7339b41693a",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 10990,
+      "end": 11011,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "58a3cc71628a",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 11149,
+      "end": 11157,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "164c6d1bd16d",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 11296,
+      "end": 11306,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "787855c59a88",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 11449,
+      "end": 11462,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "0dfc78dd8db8",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 11592,
+      "end": 11595,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "7266f9f29780",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 11718,
+      "end": 11740,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "e6397ffa2796",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 11929,
+      "end": 11961,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "f5e9276f4326",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 12149,
+      "end": 12164,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "cfe673ef0378",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 12269,
+      "end": 12279,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "c2e8ab5fdc6b",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 12468,
+      "end": 12500,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "1be7ebd8f50a",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 12682,
+      "end": 12696,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "f95cad22c041",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 12783,
+      "end": 12791,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "93868f692357",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 12879,
+      "end": 12888,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "a60400aa08e8",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 12990,
+      "end": 13003,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "1e7eda1136e2",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 13192,
+      "end": 13224,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "9366f76b515c",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 13402,
+      "end": 13413,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "9d4ca04af744",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 13510,
+      "end": 13529,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "c22cbaaa17a4",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 13610,
+      "end": 13615,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "f854b5520057",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 13698,
+      "end": 13705,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "4c251cdd738b",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 13785,
+      "end": 13789,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "9d8da41b25df",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 13881,
+      "end": 13901,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "5a33cd8b1593",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 13990,
+      "end": 14003,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "6c14491d8eab",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 14090,
+      "end": 14102,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "20c6e377a666",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 14187,
+      "end": 14205,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "a2c9dd440dc7",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 14297,
+      "end": 14313,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "398623e3c393",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 14410,
+      "end": 14431,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "7d189ad944d0",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 14515,
+      "end": 14523,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "3a8988bcab54",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 14612,
+      "end": 14625,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "62b14026c3a2",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 14726,
+      "end": 14737,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "478718565fcd",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 14846,
+      "end": 14849,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "b9d530fe6356",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 14962,
+      "end": 14983,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "9a9487628875",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 15083,
+      "end": 15103,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "f79604ed591f",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 15206,
+      "end": 15228,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "4086c47f0217",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 15641,
+      "end": 15652,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "d1ad9290c760",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 15872,
+      "end": 15910,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "461772415ba3",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 16322,
+      "end": 16354,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "339b89eaaf2d",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 16559,
+      "end": 16570,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "d2ecde672097",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 16996,
+      "end": 17070,
+      "line": 264,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "84e0977a948f",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 17097,
+      "end": 17218,
+      "line": 268,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "JangaFX software has the option to add expressions and use math in most places where you can type. For example, when you ",
+      "source_text": "JangaFX software has the option to add expressions and use math in most places where you can type. For example, when you "
+    },
+    {
+      "id": "ebfaa0b71744",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 17377,
+      "end": 17405,
+      "line": 268,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " click on a parameter value.",
+      "source_text": " click on a parameter value."
+    },
+    {
+      "id": "9571c44937f6",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 17413,
+      "end": 17447,
+      "line": 269,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "This is especcially useful in the ",
+      "source_text": "This is especcially useful in the "
+    },
+    {
+      "id": "1e5624d492e2",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 17478,
+      "end": 17494,
+      "line": 269,
+      "parent_path": "div/article/section/p/span",
+      "source_raw": "curveExpressions",
+      "source_text": "curveExpressions"
+    },
+    {
+      "id": "6dd032aaf08e",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 17501,
+      "end": 17510,
+      "line": 269,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " section.",
+      "source_text": " section."
+    },
+    {
+      "id": "209e147f8290",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 17518,
+      "end": 17581,
+      "line": 270,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The following is a comprehensive list on all available options.",
+      "source_text": "The following is a comprehensive list on all available options."
+    },
+    {
+      "id": "21d643ef1b0b",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 17615,
+      "end": 17624,
+      "line": 272,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Operators",
+      "source_text": "Operators"
+    },
+    {
+      "id": "9741f05307b9",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 17736,
+      "end": 17741,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Add: ",
+      "source_text": "Add: "
+    },
+    {
+      "id": "7320faa9e228",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 17834,
+      "end": 17839,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Sub: ",
+      "source_text": "Sub: "
+    },
+    {
+      "id": "e416d24efef5",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 17932,
+      "end": 17937,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Mul: ",
+      "source_text": "Mul: "
+    },
+    {
+      "id": "2fac61d3dc44",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 18030,
+      "end": 18035,
+      "line": 277,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Quo: ",
+      "source_text": "Quo: "
+    },
+    {
+      "id": "f4ddade73cb0",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 18128,
+      "end": 18133,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Rem: ",
+      "source_text": "Rem: "
+    },
+    {
+      "id": "133bebfd8555",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 18226,
+      "end": 18231,
+      "line": 279,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Pow: ",
+      "source_text": "Pow: "
+    },
+    {
+      "id": "5c48751a503a",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 18535,
+      "end": 18542,
+      "line": 282,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Comma: ",
+      "source_text": "Comma: "
+    },
+    {
+      "id": "8d608254fb61",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 18674,
+      "end": 18683,
+      "line": 286,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Constants",
+      "source_text": "Constants"
+    },
+    {
+      "id": "e5a8e7c9f9f1",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 20082,
+      "end": 20091,
+      "line": 295,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Functions",
+      "source_text": "Functions"
+    },
+    {
+      "id": "e7ef9fd07ac2",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 20205,
+      "end": 20216,
+      "line": 297,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "0 arguments",
+      "source_text": "0 arguments"
+    },
+    {
+      "id": "f40b38e2a84d",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 20761,
+      "end": 20771,
+      "line": 306,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "1 argument",
+      "source_text": "1 argument"
+    },
+    {
+      "id": "0681102f6335",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 23903,
+      "end": 23914,
+      "line": 342,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "2 arguments",
+      "source_text": "2 arguments"
+    },
+    {
+      "id": "99092a780ac4",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 24643,
+      "end": 24654,
+      "line": 353,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "3 arguments",
+      "source_text": "3 arguments"
+    },
+    {
+      "id": "e73289c00c22",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 25519,
+      "end": 25523,
+      "line": 373,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "07788b0a743b",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 25589,
+      "end": 25592,
+      "line": 375,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "fb04ec342705",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 25969,
+      "end": 25977,
+      "line": 383,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "fd1d1066bbc5",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 26060,
+      "end": 26073,
+      "line": 386,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "24bd0d93e4a4",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 26259,
+      "end": 26319,
+      "line": 393,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "728c227b2fd1",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 26325,
+      "end": 26348,
+      "line": 395,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "44dede424a47",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 26386,
+      "end": 26392,
+      "line": 396,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "5069d1c0501f",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 26396,
+      "end": 26401,
+      "line": 396,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "a90663e0e2ab",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 26451,
+      "end": 26461,
+      "line": 396,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "85604065b0e7",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 26465,
+      "end": 26493,
+      "line": 396,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "6d9db48e40b9",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 26537,
+      "end": 26541,
+      "line": 398,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "f146edc5f57f",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 26858,
+      "end": 26894,
+      "line": 413,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "a32438ff546a",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 27051,
+      "end": 27062,
+      "line": 420,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "0f8f5e457336",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 27123,
+      "end": 27132,
+      "line": 421,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Operators",
+      "source_text": "Operators"
+    },
+    {
+      "id": "c723722e9157",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 27194,
+      "end": 27203,
+      "line": 422,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Constants",
+      "source_text": "Constants"
+    },
+    {
+      "id": "7b38d187704e",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 27265,
+      "end": 27274,
+      "line": 423,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Functions",
+      "source_text": "Functions"
+    },
+    {
+      "id": "6d6385d14c36",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 27335,
+      "end": 27346,
+      "line": 424,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "0 arguments",
+      "source_text": "0 arguments"
+    },
+    {
+      "id": "4f7512256f96",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 27407,
+      "end": 27417,
+      "line": 425,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "1 argument",
+      "source_text": "1 argument"
+    },
+    {
+      "id": "eccd5bc1873c",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 27473,
+      "end": 27484,
+      "line": 426,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "2 arguments",
+      "source_text": "2 arguments"
+    },
+    {
+      "id": "c897c28fb8e7",
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "start": 27540,
+      "end": 27551,
+      "line": 427,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "3 arguments",
+      "source_text": "3 arguments"
+    }
+  ]
+}

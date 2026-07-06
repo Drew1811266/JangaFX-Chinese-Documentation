@@ -1,0 +1,1302 @@
+{
+  "path": "liquigen/pages/references/specific/randomization.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "a2c2b61ba515",
+      "source": "Randomization - JangaFX Documentation",
+      "target": "随机化 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "312096a806a5",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "580c12c1bf49",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "5ab028cae6a4",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "3c0319eda2b9",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "c2b77d2f011b",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "b15f56bfe9f8",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "448e37ea284a",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "f15755671a14",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "38fa0023fe0f",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "31630c675bcc",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "1598c4c42dc0",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "013765d19944",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "e98ad2b81346",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "7de189fb4cba",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "72977dbfc69d",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "1d614448fd16",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "fd8d62fd671a",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "03a9b4d08f6c",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "6f1ec0a5aabe",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "c9b6cb55b1b8",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "4ebd27478303",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "a8f4653fc251",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "17a890d1363f",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "3155c6e85d05",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "4c7b8dbe3b6d",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "724b55ab698f",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "76f221addaab",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "ba34abb0c514",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "8feed538274d",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "2fb7014c31bb",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "2d61f1fd6725",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "05dba048322a",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "a430d33688a4",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "66ffbd8a17cd",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "5d26eaa045c2",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "e8220369c252",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "d5f085b47d17",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "c6741ebd087b",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "9033ebba1a0c",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "c5f6e76de4e8",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "785618f098de",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "df1b31eca156",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "2c6e123b9f82",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "aa7248dbcd0e",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "059ff7571a2e",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "6d29bbd4a1bf",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "9242776fd83a",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "6379dae08c6c",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "f115d5caa559",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "bc34e6b72c2e",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "d8708aa1170d",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "160ef2c97393",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "3a3347d8e9f2",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "182fd8ccfd11",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "769703da9398",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "1fffaec0661b",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "05346002bf74",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "a0ed314366bd",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "68995b9cacc1",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "c52c0c538a89",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "45385f086dfe",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "813ebcfc49e8",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "f77d934155ec",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "2166e6ec9c4c",
+      "source": "In this section, you will learn how to automatically create and export variations of your projects!\nThis feature is also known as “wedging”.\nThis is useful, for example, if you have a project that needs lots of similar elements, if you want to have some options to show your supervisor, or if you wish to get that perfect random seed for your hero element.",
+      "target": "在本节中，你将学习如何自动创建并导出项目变体！\n此功能也称为“wedging”（批量变体测试）。\n例如，如果某个项目需要大量相似元素，或者你想给主管展示几个备选方案，又或者想为主视觉元素找到那个最理想的随机种子，此功能都会很有用。",
+      "note": ""
+    },
+    {
+      "id": "072e588f2e13",
+      "source": "Setting up randomization",
+      "target": "设置随机化",
+      "note": ""
+    },
+    {
+      "id": "47b45bf831af",
+      "source": "You can randomize a parameter by setting the override to ",
+      "target": "可以通过将覆盖状态设置为 ",
+      "note": ""
+    },
+    {
+      "id": "11d31cfd4703",
+      "source": "Randomize Override",
+      "target": "Randomize Override",
+      "note": ""
+    },
+    {
+      "id": "abb3b8f82413",
+      "source": ". This is done by ",
+      "target": " 来随机化参数。操作方式是按住 ",
+      "note": ""
+    },
+    {
+      "id": "1be5357507a9",
+      "source": "Shift",
+      "target": "Shift",
+      "note": ""
+    },
+    {
+      "id": "3fba29f957ab",
+      "source": " clicking the ",
+      "target": " 并单击 ",
+      "note": ""
+    },
+    {
+      "id": "207cf174d968",
+      "source": " circle next to it. A randomized parameter is indicated with the ",
+      "target": " 旁边的圆形图标。随机化参数会用 ",
+      "note": ""
+    },
+    {
+      "id": "9659ba996ac7",
+      "source": " icon. To disable the ",
+      "target": " 图标表示。要禁用 ",
+      "note": ""
+    },
+    {
+      "id": "e629da3b1a03",
+      "source": "Randomize Override",
+      "target": "Randomize Override",
+      "note": ""
+    },
+    {
+      "id": "45e5fe65432c",
+      "source": " click the ",
+      "target": "，请单击 ",
+      "note": ""
+    },
+    {
+      "id": "de7181c48622",
+      "source": " icon to set it back to ",
+      "target": " 图标，将其设置回 ",
+      "note": ""
+    },
+    {
+      "id": "671c6aa780c6",
+      "source": "No Override",
+      "target": "No Override",
+      "note": ""
+    },
+    {
+      "id": "cace46b4f017",
+      "source": "Once you’ve selected your parameters for randomization, you can manage them in the ",
+      "target": "选择要随机化的参数后，可以在 ",
+      "note": ""
+    },
+    {
+      "id": "31a64b799c88",
+      "source": "Randomized",
+      "target": "Randomized",
+      "note": ""
+    },
+    {
+      "id": "bba3eaf11b26",
+      "source": " tab.",
+      "target": " 选项卡中。",
+      "note": ""
+    },
+    {
+      "id": "5de82f395954",
+      "source": "You can remove a parameter from the randomized tab by ",
+      "target": "可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "b847d3805939",
+      "source": " clicking the ",
+      "target": " 并单击 ",
+      "note": ""
+    },
+    {
+      "id": "bcd7298043f2",
+      "source": " icon next to it.",
+      "target": " 图标，将参数从随机化选项卡中移除。",
+      "note": ""
+    },
+    {
+      "id": "7ffe1e264108",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "b632231a7131",
+      "source": "Randomized",
+      "target": "Randomized",
+      "note": ""
+    },
+    {
+      "id": "c5c39cfb64f6",
+      "source": " tab contains mostly range sliders with the regular parameter slider right next to it.",
+      "target": "”选项卡主要包含范围滑块，常规参数滑块就位于其旁边。",
+      "note": ""
+    },
+    {
+      "id": "a05552270165",
+      "source": "With the range slider, you can specify the minimum and maximum value between which the random value can be picked.",
+      "target": "使用范围滑块，可以指定随机值可选取的最小值和最大值。",
+      "note": ""
+    },
+    {
+      "id": "48fd2c82556f",
+      "source": "With the regular parameter slider right next to it, you can see and edit the current parameter value. This value will be overwritten by a random one from within the specified range when the parameter is randomized.",
+      "target": "使用旁边的常规参数滑块，可以查看并编辑当前参数值。参数被随机化时，此值会被指定范围内的随机值覆盖。",
+      "note": ""
+    },
+    {
+      "id": "301d05112207",
+      "source": "A parameter is randomized by clicking the ",
+      "target": "单击参数旁边的 ",
+      "note": ""
+    },
+    {
+      "id": "80d096336d65",
+      "source": " icon next to it.",
+      "target": " 图标，将参数从随机化选项卡中移除。",
+      "note": ""
+    },
+    {
+      "id": "d6809500a001",
+      "source": "To randomize all parameters you can click the blue ",
+      "target": "要随机化所有参数，可以单击蓝色 ",
+      "note": ""
+    },
+    {
+      "id": "4658a0bf9d3c",
+      "source": "Randomize All",
+      "target": "Randomize All",
+      "note": ""
+    },
+    {
+      "id": "c864ca84fa91",
+      "source": " button or the ",
+      "target": " 按钮，或单击 UI 右上角的 ",
+      "note": ""
+    },
+    {
+      "id": "9de3cb987fb7",
+      "source": " icon in the top right corner of the UI.",
+      "target": " 图标。",
+      "note": ""
+    },
+    {
+      "id": "fbc4272fa5f6",
+      "source": "Example:",
+      "target": "示例：",
+      "note": ""
+    },
+    {
+      "id": "eb415697236a",
+      "source": "With this setup, you can set the ",
+      "target": "在此设置下，可以用右侧滑块设置 ",
+      "note": ""
+    },
+    {
+      "id": "689ff67d14b2",
+      "source": "Radius",
+      "target": "Radius",
+      "note": ""
+    },
+    {
+      "id": "86564f55db48",
+      "source": " with the right slider but when the parameter is randomized its value will be overwritten by a random value between 1 and 3 as specified by the range slider.",
+      "target": "，但当参数被随机化时，它的值会被范围滑块指定的 1 到 3 之间的随机值覆盖。",
+      "note": ""
+    },
+    {
+      "id": "11b751da4a58",
+      "source": "Different parameter types are set up a bit differently in the Randomized tab.\nLet’s look at them in order of the image on the right:",
+      "target": "不同类型的参数在 Randomized 选项卡中的设置方式略有不同。\n下面按照右侧图像中的顺序查看它们：",
+      "note": ""
+    },
+    {
+      "id": "9655b881b54d",
+      "source": "Checkboxes",
+      "target": "Checkboxes（复选框）",
+      "note": ""
+    },
+    {
+      "id": "afc57eb282e3",
+      "source": " in the randomized tab have a random chance of being turned on or off when randomized.",
+      "target": " 在 Randomized 选项卡中会在随机化时随机开启或关闭。",
+      "note": ""
+    },
+    {
+      "id": "fce3681f0ffb",
+      "source": "Dropdown menus",
+      "target": "Dropdown menus（下拉菜单）",
+      "note": ""
+    },
+    {
+      "id": "3c0dd901e6ff",
+      "source": " are assigned a random menu item upon randomization.",
+      "target": " 在随机化时会被分配一个随机菜单项。",
+      "note": ""
+    },
+    {
+      "id": "9838b026835b",
+      "source": "Range sliders",
+      "target": "Range sliders（范围滑块）",
+      "note": ""
+    },
+    {
+      "id": "f9212d0f5499",
+      "source": " are split up into two range sliders, one for the minimum value and one for the maximum value. For example, you can give particles a different maximum age between 1 and 5 seconds for every variation by setting the Lifetime limits Max component to have a minimum of 1 and a maximum of 5.",
+      "target": " 会拆分为两个范围滑块，一个用于最小值，一个用于最大值。例如，将 Lifetime limits Max 分量的最小值设为 1、最大值设为 5，就可以让每个变体中的粒子获得 1 到 5 秒之间的不同最大寿命。",
+      "note": ""
+    },
+    {
+      "id": "81c5ef1d83cf",
+      "source": "Value parameters",
+      "target": "Value parameters（数值参数）",
+      "note": ""
+    },
+    {
+      "id": "63bababeea46",
+      "source": ", which are the most common ones, are represented by one range slider.",
+      "target": " 是最常见的类型，会以一个范围滑块表示。",
+      "note": ""
+    },
+    {
+      "id": "08a9a6c41a43",
+      "source": "3-vector parameters",
+      "target": "3-vector parameters（3 向量参数）",
+      "note": ""
+    },
+    {
+      "id": "6095c0c354fa",
+      "source": " are split up into three range sliders each representing an axis. This means that you can define the amount of randomization for each axis. For example, if you want to randomize the Z axis only you can set the other two to a fixed value by inputting the same value in the min and max fields on the range slider.",
+      "target": " 会拆分为三个范围滑块，每个滑块代表一个轴。这意味着可以为每个轴定义随机化幅度。例如，如果只想随机化 Z 轴，可以在另外两个轴的范围滑块最小值和最大值字段中输入相同值，将它们固定。",
+      "note": ""
+    },
+    {
+      "id": "5c4b8b457ac9",
+      "source": "Randomized splat example:",
+      "target": "随机化飞溅示例：",
+      "note": ""
+    },
+    {
+      "id": "ae9df7aa684a",
+      "source": "Here, we have a setup creating a splat by emitting liquid and injecting turbulence from a sphere shape.",
+      "target": "这里有一个设置，通过从球体形状发射液体并注入湍流来创建飞溅效果。",
+      "note": ""
+    },
+    {
+      "id": "61957bb41986",
+      "source": "Let’s say we need eight similar splats.",
+      "target": "假设我们需要八个相似的飞溅效果。",
+      "note": ""
+    },
+    {
+      "id": "914ff0a3cb05",
+      "source": "The general shape is determined by the turbulence force.",
+      "target": "整体形状由湍流力决定。",
+      "note": ""
+    },
+    {
+      "id": "aceeac408190",
+      "source": "Since we want similar splats, we can use the ",
+      "target": "由于想要相似的飞溅效果，可以使用湍流力的 ",
+      "note": ""
+    },
+    {
+      "id": "cd3ff01e1a1b",
+      "source": "Seed",
+      "target": "Seed",
+      "note": ""
+    },
+    {
+      "id": "4b3b7d603f0d",
+      "source": " parameter of the turbulence force.",
+      "target": " 参数。",
+      "note": ""
+    },
+    {
+      "id": "a85b322ec3ce",
+      "source": "Using seed parameters is a good way of getting variations without changing the intensity or the scale distributions of your effect. Find out what random forces have the most influence on your simulation and randomize the corresponding seed value.",
+      "target": "使用种子参数是在不改变效果强度或尺度分布的情况下获得变体的好方法。找出哪些随机力对模拟影响最大，并随机化对应的种子值。",
+      "note": ""
+    },
+    {
+      "id": "b333b445a641",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "637911f62a30",
+      "source": "Let’s now say we want to expand our options here and see eight different splats.",
+      "target": "现在假设我们想扩展选择，查看八个不同的飞溅效果。",
+      "note": ""
+    },
+    {
+      "id": "22563811ef07",
+      "source": "Have a look at how the ",
+      "target": "看一下 ",
+      "note": ""
+    },
+    {
+      "id": "25f294804961",
+      "source": "Randomized",
+      "target": "Randomized",
+      "note": ""
+    },
+    {
+      "id": "f8c4b7e6fc59",
+      "source": " tab is set up now and why.",
+      "target": " 选项卡现在是如何设置的，以及为什么这样设置。",
+      "note": ""
+    },
+    {
+      "id": "354fcae2efbc",
+      "source": "The parameters that determine the attributes we want to vary for this splat are the ones added to the ",
+      "target": "决定此飞溅效果中需要变化的属性的参数，都已添加到 ",
+      "note": ""
+    },
+    {
+      "id": "8505b33014c8",
+      "source": "Randomized",
+      "target": "Randomized",
+      "note": ""
+    },
+    {
+      "id": "15ccf68d0c19",
+      "source": " tab.",
+      "target": " 选项卡中。",
+      "note": ""
+    },
+    {
+      "id": "f75cb6fe2e5e",
+      "source": "Radius",
+      "target": "Radius",
+      "note": ""
+    },
+    {
+      "id": "7e9b7d91310e",
+      "source": " will affect the amount of liquid as the sphere shape is the emission source. The range is set from ",
+      "target": " 会影响液体量，因为球体形状是发射源。范围设置为 ",
+      "note": ""
+    },
+    {
+      "id": "afa467b49acb",
+      "source": " up to ",
+      "target": " 到 ",
+      "note": ""
+    },
+    {
+      "id": "3b81615dfec7",
+      "source": ", the way these values are determined is by experimentation. Values below ",
+      "target": "，这些值是通过实验确定的。低于 ",
+      "note": ""
+    },
+    {
+      "id": "5003d0810171",
+      "source": " made the splats too weak to look realistic and values above ",
+      "target": " 会让飞溅太弱而不够真实，高于 ",
+      "note": ""
+    },
+    {
+      "id": "e046a699e052",
+      "source": " made the splats too big. This means that all values in between will give variations with good results.",
+      "target": " 会让飞溅太大。因此，两者之间的所有值都能产生效果不错的变体。",
+      "note": ""
+    },
+    {
+      "id": "26ea80388812",
+      "source": "Seed",
+      "target": "Seed",
+      "note": ""
+    },
+    {
+      "id": "227bc87532f5",
+      "source": " is left at the default range since for seed parameters any different value will give a completely different pattern. A different turbulence pattern results in a completely different splat.",
+      "target": " 保持默认范围，因为对于种子参数，任何不同的值都会产生完全不同的图案。不同的湍流图案会得到完全不同的飞溅效果。",
+      "note": ""
+    },
+    {
+      "id": "7c0e45333e89",
+      "source": "Strength",
+      "target": "Strength",
+      "note": ""
+    },
+    {
+      "id": "a604e4018439",
+      "source": " determines the amount of force injected into the simulation at the base. Higher values result in bigger and faster splats. The max value is set at the biggest fastest splat desired and the min value at the smallest weakest good-looking splat.",
+      "target": " 决定在底部注入模拟的力大小。值越高，飞溅越大、速度越快。最大值设置为期望中最大、最快的飞溅；最小值设置为仍然好看的最小、最弱飞溅。",
+      "note": ""
+    },
+    {
+      "id": "40b5a73c58ec",
+      "source": "Scale",
+      "target": "Scale",
+      "note": ""
+    },
+    {
+      "id": "c87d7ebd4bd5",
+      "source": " determines the size of the noise resulting in different splat patterns. Higher values result in bigger tendrils. Again, the minimum and maximum values to give good-looking results are picked.",
+      "target": " 决定噪声大小，从而产生不同的飞溅图案。值越高，卷须状结构越大。同样，选择能产生好看结果的最小值和最大值。",
+      "note": ""
+    },
+    {
+      "id": "09441cd38ad1",
+      "source": "The ",
+      "target": "该 ",
+      "note": ""
+    },
+    {
+      "id": "50a7b5ee6322",
+      "source": "Position",
+      "target": "Position",
+      "note": ""
+    },
+    {
+      "id": "fa803ea07f91",
+      "source": " parameter of the ",
+      "target": " 参数所在的 ",
+      "note": ""
+    },
+    {
+      "id": "a27eb589400e",
+      "source": "Color Selector",
+      "target": "Color Selector",
+      "note": ""
+    },
+    {
+      "id": "ed7daf554740",
+      "source": " node is used to pick a random color for the liquid from the connected color gradient. It can go from ",
+      "target": " 节点用于从连接的颜色渐变中为液体选择随机颜色。它可以从 ",
+      "note": ""
+    },
+    {
+      "id": "a2be8585da9e",
+      "source": " to ",
+      "target": " 到 ",
+      "note": ""
+    },
+    {
+      "id": "0583cf220dda",
+      "source": " meaning that it can pick any color from left to right on the color gradient.",
+      "target": "，也就是可以从颜色渐变的左到右选择任意颜色。",
+      "note": ""
+    },
+    {
+      "id": "6f4836550bf7",
+      "source": "Exporting variations",
+      "target": "导出变体",
+      "note": ""
+    },
+    {
+      "id": "52255077655f",
+      "source": "Exporting variations starts by setting your ",
+      "target": "导出变体首先要像平常一样设置 ",
+      "note": ""
+    },
+    {
+      "id": "65261acc460a",
+      "source": "Export: Image",
+      "target": "Export: Image",
+      "note": ""
+    },
+    {
+      "id": "1b617b6fc90a",
+      "source": "Export: Particles",
+      "target": "Export: Particles",
+      "note": ""
+    },
+    {
+      "id": "be308746a982",
+      "source": "Export: Mesh",
+      "target": "Export: Mesh",
+      "note": ""
+    },
+    {
+      "id": "ce190b1a76e5",
+      "source": " or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "0884a07c1c5e",
+      "source": "Export: VDB",
+      "target": "Export: VDB",
+      "note": ""
+    },
+    {
+      "id": "bf2f9926756b",
+      "source": " node up like you normally would. But with the addition of using the ",
+      "target": " 节点，但额外需要使用 ",
+      "note": ""
+    },
+    {
+      "id": "80a244961c78",
+      "source": " variable in the ",
+      "target": " 变量，并将其放入 ",
+      "note": ""
+    },
+    {
+      "id": "0830ea076ef0",
+      "source": "Directory",
+      "target": "Directory",
+      "note": ""
+    },
+    {
+      "id": "976ff464f7d5",
+      "source": " or the ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "0d2c3d989c3e",
+      "source": "Filename",
+      "target": "Filename",
+      "note": ""
+    },
+    {
+      "id": "8d5f99a14d3a",
+      "source": " field. If you don’t use this, the files will be overwritten for every variation since there is nothing unique in the directory or filename.",
+      "target": " 字段中。如果不使用它，因为目录或文件名没有唯一内容，每个变体都会覆盖前一个变体的文件。",
+      "note": ""
+    },
+    {
+      "id": "9bb18891be76",
+      "source": "Example:",
+      "target": "示例：",
+      "note": ""
+    },
+    {
+      "id": "b422cbcf334c",
+      "source": "Here, with ",
+      "target": "这里，",
+      "note": ""
+    },
+    {
+      "id": "8791b597e209",
+      "source": "mySplat",
+      "target": "mySplat",
+      "note": ""
+    },
+    {
+      "id": "8fceeba57d89",
+      "source": " being the project file name, a folder called ",
+      "target": " 作为项目文件名时，会在项目目录中创建一个名为 ",
+      "note": ""
+    },
+    {
+      "id": "729cbf3dd57e",
+      "source": " is created in the project directory (where the ",
+      "target": " 的文件夹（项目目录也就是存放 ",
+      "note": ""
+    },
+    {
+      "id": "4879d397497f",
+      "source": ".liquigen",
+      "target": ".liquigen",
+      "note": ""
+    },
+    {
+      "id": "0b94b5553af5",
+      "source": " file is stored).",
+      "target": " 文件的位置）。",
+      "note": ""
+    },
+    {
+      "id": "c023aa2213ac",
+      "source": "Within that directory, numbered folders will be created for every variation.",
+      "target": "在该目录中，每个变体都会创建一个带编号的文件夹。",
+      "note": ""
+    },
+    {
+      "id": "521d51823a13",
+      "source": "In those folders will be subfolders for each render pass.",
+      "target": "这些文件夹中会为每个渲染通道创建子文件夹。",
+      "note": ""
+    },
+    {
+      "id": "61a64e4b18a0",
+      "source": "All files will be dynamically named based on the filename, variation number, and render pass. You can see a file name example next to the ",
+      "target": "所有文件都会根据文件名、变体编号和渲染通道动态命名。可以在 ",
+      "note": ""
+    },
+    {
+      "id": "0753e6c842e3",
+      "source": "Filename",
+      "target": "Filename",
+      "note": ""
+    },
+    {
+      "id": "5154559fa1d1",
+      "source": " field.",
+      "target": " 字段旁看到文件名示例。",
+      "note": ""
+    },
+    {
+      "id": "c79edc0ce89d",
+      "source": "To export variations instead of exporting once go to",
+      "target": "如果要导出多个变体，而不是只导出一次，请前往 ",
+      "note": ""
+    },
+    {
+      "id": "3c68802df180",
+      "source": "File/Export Variations…",
+      "target": "File/Export Variations…",
+      "note": ""
+    },
+    {
+      "id": "80fd557f807c",
+      "source": "in the top left corner of the user interface.",
+      "target": "（位于用户界面左上角）。",
+      "note": ""
+    },
+    {
+      "id": "5d477b4d0b8b",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "d0b72549ffa3",
+      "source": "Export Variation",
+      "target": "Export Variation",
+      "note": ""
+    },
+    {
+      "id": "f1df6e50d793",
+      "source": " window will pop up.",
+      "target": "”窗口会弹出。",
+      "note": ""
+    },
+    {
+      "id": "9a03d0922724",
+      "source": "Number of variations:",
+      "target": "Number of variations：",
+      "note": ""
+    },
+    {
+      "id": "8bc45bb58d1f",
+      "source": " The number of times the simulation will run and export.",
+      "target": " 模拟运行并导出的次数。",
+      "note": ""
+    },
+    {
+      "id": "e555170bb3dc",
+      "source": "Randomize first variation:",
+      "target": "Randomize first variation：",
+      "note": ""
+    },
+    {
+      "id": "64d60361f772",
+      "source": " If checked, all parameters set up for randomization will be given a random value before the first variation is exported. If unchecked, the first variation will use the values you currently have.",
+      "target": " 如果勾选，在导出第一个变体之前，所有设置为随机化的参数都会被赋予随机值。如果未勾选，第一个变体会使用当前已有的值。",
+      "note": ""
+    },
+    {
+      "id": "c59405fb1be2",
+      "source": "Save project copies:",
+      "target": "Save project copies：",
+      "note": ""
+    },
+    {
+      "id": "a586f51f724d",
+      "source": " If checked, project files for each variation will be stored in a specified location with a specified name. This way, you can reproduce every exported variation since otherwise, you won’t know what random values were assigned.",
+      "target": " 如果勾选，每个变体的项目文件都会以指定名称存储到指定位置。这样可以复现每个已导出的变体，否则你将不知道当时分配了哪些随机值。",
+      "note": ""
+    },
+    {
+      "id": "cbe7956ecdd2",
+      "source": "Nodes to export:",
+      "target": "Nodes to export：",
+      "note": ""
+    },
+    {
+      "id": "0e96c15655e9",
+      "source": " Here, you have a list of nodes where you can check the ones you want to use for exporting your variations.",
+      "target": " 这里会列出节点，你可以勾选想要用于导出变体的节点。",
+      "note": ""
+    },
+    {
+      "id": "bf382eb68d6f",
+      "source": "Cancel:",
+      "target": "Cancel：",
+      "note": ""
+    },
+    {
+      "id": "db95e271590e",
+      "source": " Close the ",
+      "target": " 关闭 ",
+      "note": ""
+    },
+    {
+      "id": "316112b335ff",
+      "source": "Export Variations",
+      "target": "Export Variations",
+      "note": ""
+    },
+    {
+      "id": "bce31c557052",
+      "source": " window and don’t export.",
+      "target": " 窗口且不导出。",
+      "note": ""
+    },
+    {
+      "id": "c0c7719b520b",
+      "source": "Export Variations:",
+      "target": "Export Variations：",
+      "note": ""
+    },
+    {
+      "id": "422730eee381",
+      "source": " Start exporting your variations!",
+      "target": " 开始导出变体！",
+      "note": ""
+    },
+    {
+      "id": "cbd6d0c4ba22",
+      "source": "Example:",
+      "target": "示例：",
+      "note": ""
+    },
+    {
+      "id": "9792c33da2ef",
+      "source": "We’re still using our ",
+      "target": "我们仍然使用 ",
+      "note": ""
+    },
+    {
+      "id": "d6ff2b917ffc",
+      "source": "mySplat",
+      "target": "mySplat",
+      "note": ""
+    },
+    {
+      "id": "536fbd0102d1",
+      "source": " project.\nWhen using the settings in the image above:",
+      "target": " 项目。\n使用上图中的设置时：",
+      "note": ""
+    },
+    {
+      "id": "2e0cf80c35d4",
+      "source": "8 variations of my splat will be exported.",
+      "target": "将导出 8 个飞溅变体。",
+      "note": ""
+    },
+    {
+      "id": "870667201541",
+      "source": "The first variation will be the exact simulation we currently have (maybe because we like that one)",
+      "target": "第一个变体会是我们当前已有的精确模拟结果（也许是因为我们喜欢这个结果）。",
+      "note": ""
+    },
+    {
+      "id": "75bbb2867416",
+      "source": "A project copy will be saved for each variation storing their settings for later use. The project files will be stored in the project directory in a subfolder called ",
+      "target": "每个变体都会保存一份项目副本，用于保存其设置以供之后使用。项目文件会存储在项目目录中的子文件夹 ",
+      "note": ""
+    },
+    {
+      "id": "3a12109d335c",
+      "source": " and named ",
+      "target": " 中，并命名为 ",
+      "note": ""
+    },
+    {
+      "id": "7a0637241256",
+      "source": " etc.",
+      "target": " 等。",
+      "note": ""
+    },
+    {
+      "id": "e034ea428fc4",
+      "source": "We just want to export from the one ",
+      "target": "我们只想从一个 ",
+      "note": ""
+    },
+    {
+      "id": "903ac7fa5ee4",
+      "source": "Export: Image",
+      "target": "Export: Image",
+      "note": ""
+    },
+    {
+      "id": "662e5b92c71d",
+      "source": " node so we’re leaving that one checked and the rest unchecked.",
+      "target": " 节点导出，因此保留该节点勾选，其他节点不勾选。",
+      "note": ""
+    },
+    {
+      "id": "d233a1d0cd4d",
+      "source": "After hitting the blue ",
+      "target": "单击蓝色 ",
+      "note": ""
+    },
+    {
+      "id": "e5a11e29773b",
+      "source": "Export Variations",
+      "target": "Export Variations",
+      "note": ""
+    },
+    {
+      "id": "cd507a631b8b",
+      "source": " button and seeing the magic happen we have my eight unique splats!",
+      "target": " 按钮并等待处理完成后，就会得到八个独特的飞溅效果！",
+      "note": ""
+    },
+    {
+      "id": "11b95b94e358",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "5d4adccbc954",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "ee8fde869db2",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "d324c6cac1b6",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "2630cc6b8378",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "37a4f546757b",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "882dfe4fcf76",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c45a19a0c598",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "2043067fcdc7",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4898831c94df",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "f7865ad4771a",
+      "source": "Setting up randomization",
+      "target": "设置随机化",
+      "note": ""
+    },
+    {
+      "id": "4ff339b693e1",
+      "source": "Exporting variations",
+      "target": "导出变体",
+      "note": ""
+    }
+  ]
+}

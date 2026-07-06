@@ -1,0 +1,763 @@
+<!doctype html>
+<html class="no-js" lang="zh-CN">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../../genindex.html" /><link rel="search" title="Search" href="../../../search.html" /><link rel="next" title="Settings" href="settings.html" /><link rel="prev" title="References" href="index.html" />
+
+    <link rel="shortcut icon" href="../../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>用户界面 - JangaFX 文档</title>
+      <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">隐藏导航侧边栏</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">隐藏目录侧边栏</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">切换站点导航侧边栏</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../../index.html"><div class="brand">JangaFX 文档</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">切换目录侧边栏</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 current has-children"><a class="reference internal" href="../../index.html">EmberGen 文档</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../getting_started.html">入门</a></li>
+<li class="toctree-l2 current has-children"><a class="reference internal" href="index.html">参考</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l3 current current-page"><a class="current reference internal" href="#">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="settings.html">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/histogram.html">直方图</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/exportVDB.html">VDB 导出</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/randomization.html">随机化</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../liquigen/index.html">LiquiGen 文档</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../liquigen/pages/getting_started.html">入门</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../liquigen/pages/references/index.html">参考</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../../liquigen/pages/references/ui_reference.html">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../liquigen/pages/references/settings.html">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../liquigen/pages/references/node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/diagnostics.html">诊断</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/randomization.html">随机化</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/expressions.html">表达式</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../liquigen/pages/FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../illugen/index.html">IlluGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../geogen/index.html">GeoGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../licensing/index.html">浮动许可证指南</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>返回顶部</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">切换目录侧边栏</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <span class="target" id="ui"></span><section id="user-interface">
+<span id="id1"></span><h1>用户界面<a class="headerlink" href="#user-interface" title="Permalink to this heading">#</a></h1>
+<p>本页会说明用户界面的各个方面。</p>
+<section id="menubar">
+<h2>菜单栏<a class="headerlink" href="#menubar" title="Permalink to this heading">#</a></h2>
+<img alt="menu bar" src="../../../_images/menuBar.png" />
+<ol class="arabic">
+<li><p><a class="reference internal" href="../../../_images/icon_home.svg"><img alt="home Icon" height="14" src="../../../_images/icon_home.svg" width="14" /></a> 打开或关闭项目管理器。</p></li>
+<li><p><strong>File：</strong></p>
+<ul class="simple">
+<li><p><strong>New Project</strong> <cite>Ctrl + N</cite>：离开当前项目，并从默认预设开始。如果当前项目有未保存的更改，会弹出提示询问是否保存。</p></li>
+<li><p><strong>Open Project</strong> <cite>Ctrl + O</cite>：打开文件浏览器，以便选择要打开的 <em>.ember</em> 文件。</p></li>
+<li><p><strong>Recent Projects：</strong> <cite>Ctrl + Shift + P</cite> 将鼠标悬停在此菜单项上时，会在右侧打开一个菜单，可从中选择最近打开的项目。</p></li>
+<li><p><strong>Save</strong> <cite>Ctrl + S</cite>：保存项目以更新 <em>.ember</em> 文件</p></li>
+<li><p><strong>Save As…</strong> <cite>Ctrl + Shift + S</cite>：打开文件浏览器，可在其中定义项目的文件路径和文件名。</p></li>
+<li><p><strong>Increment and Save</strong> <cite>Alt + Shift + S</cite> ：在项目文件旁边保存当前项目文件的递增副本。例如，如果当前正在处理 <em>myProject1.ember</em>，项目会被保存为 <em>myProject2.ember</em>，并放在与 <em>myProject1.ember</em> 相同的文件夹中；你会自动继续在 <em>myProject2.ember</em>文件中工作。请注意，项目是在递增<strong>之后</strong>保存的。如果项目名不是以数字结尾，第一次递增时会添加 <em>_2</em>。</p></li>
+<li><p><strong>Import…</strong> <cite>Ctrl + Shift + I</cite>：打开文件浏览器，以便查找要导入项目的 <em>.fbx、.obj</em> 或 <em>.abc</em> 文件。节点图中会使用指定资产创建一个 <a class="reference internal" href="../../../_images/import.svg"><img alt="import node icon" height="18" src="../../../_images/import.svg" width="18" /></a> <em>Import</em> 节点。</p></li>
+<li><p><strong>Export…：</strong> 立即导出项目中的所有 <a class="reference internal" href="../../../_images/export_group.svg"><img alt="export icon" height="18" src="../../../_images/export_group.svg" width="18" /></a> <em>Export</em> 节点。</p></li>
+<li><p><strong>Export Variations…：</strong> 打开 <em>Export Variations</em> 窗口，用于导出多个独特元素。关于这一点的更多信息，请查看我们的 <a class="reference internal" href="How-To%20Guides/randomization.html#randomization"><span class="std std-ref">随机化</span></a> 页面。</p></li>
+<li><p><strong>Quit</strong> <cite>Ctrl + Q</cite>：关闭 EmberGen</p></li>
+</ul>
+</li>
+<li><p><strong>Edit：</strong></p>
+<ul>
+<li><p><strong>Undo</strong> <cite>Ctrl + Z</cite>：撤销操作。</p>
+<p>这可以包括各种操作，例如更改参数或创建节点。</p>
+</li>
+<li><p><strong>Redo</strong> <cite>Ctrl + Y</cite> 或 <cite>Ctrl + Shift + Z</cite>：重做操作。</p></li>
+<li><p><strong>Delete</strong> <cite>Delete</cite> 或 <cite>Backspace</cite>：可以删除、剪切、复制和粘贴节点或关键帧等内容。</p></li>
+<li><p><strong>Cut</strong> <cite>Ctrl + X</cite></p></li>
+<li><p><strong>Copy</strong> <cite>Ctrl + C</cite></p></li>
+<li><p><strong>Paste</strong> <cite>Ctrl + V</cite></p></li>
+</ul>
+</li>
+<li><p><strong>Simulation：</strong></p>
+<ul class="simple">
+<li><p><strong>Hard Reset</strong> <cite>Ctrl + R</cite>：从头重新开始模拟。</p></li>
+<li><p><strong>Reset</strong> <cite>R</cite>：从循环边界的开头重新开始模拟；如果没有循环边界，则从时间轴开头重新开始。</p></li>
+<li><p><strong>Step Once</strong> <cite>Z</cite>：将模拟向前推进一帧。</p></li>
+<li><p><strong>Pause</strong> <cite>Space</cite>：播放或暂停模拟。</p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="settings.html#settings"><span class="std std-ref">设置</span></a>:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="settings.html#projectsettings"><span class="std std-ref">Project Settings</span></a></p></li>
+<li><p><a class="reference internal" href="settings.html#preferences"><span class="std std-ref">Preferences</span></a></p></li>
+</ul>
+</li>
+<li><p><strong>Account：</strong></p>
+<ul class="simple">
+<li><p><strong>Login…：</strong> 打开登录窗口，可使用电子邮件地址和密码登录 JangaFX 帐户。</p></li>
+</ul>
+</li>
+</ol>
+<dl class="simple">
+<dt>登录后， <em>Account</em> 下拉菜单中会出现以下选项：</dt><dd><ul class="simple">
+<li><p><a class="reference external" href="https://account.jangafx.com/">My Account</a>：前往我们的在线帐户平台，可在那里管理订阅和账单。</p></li>
+<li><p><strong>My Plans…：</strong> 显示当前有效的计划。</p></li>
+<li><p><strong>Logout…：</strong> 退出 JangaFX 帐户。只要有有效许可证，仍然可以使用软件。</p></li>
+</ul>
+</dd>
+</dl>
+<ol class="arabic simple" start="7">
+<li><p><strong>Help：</strong></p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://jangafx.com/">JangaFX.com…</a>：前往 JangaFX 网站，可查看产品、预设市场、定价页面等内容！</p></li>
+<li><p><a class="reference external" href="https://docs.jangafx.com/embergen/">Documentation…</a> 前往 EmberGen 文档。</p></li>
+<li><p><strong>Guided Tours…：</strong> 在 UI 右侧打开一个窗口，可从中选择要跟随的引导教程。引导教程会在软件内用视觉内容和文字解释 EmberGen 功能。</p></li>
+<li><p><strong>License Manager：</strong> 打开 <em>License Manager</em> 窗口。更多信息请查看我们的 <a class="reference internal" href="../../../liquigen/pages/getting_started.html#licensingref"><span class="std std-ref">许可</span></a> 部分。</p></li>
+<li><p><strong>Release Notes…：</strong> 打开一个窗口，其中列出开发者在近期 EmberGen 版本中所做的所有更改。</p></li>
+<li><p><strong>3rd Party Licenses…：</strong> 打开一个窗口，其中列出用于开发 EmberGen 的资源的许可证声明。</p></li>
+<li><p><strong>About…：</strong> 打开一个窗口，显示公司说明以及 EmberGen 能做什么的简要概述。</p></li>
+</ul>
+</li>
+<li><p>当前项目的文件名。 <em>(Edited)</em> 会在存在未保存更改时显示在文件名后面。打开默认预设时这里不会显示任何内容，但对其做出更改后，会显示 <em>Untitled(Edited)</em>。尝试保存未命名文件时，会弹出文件浏览器来设置文件名和位置。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_notes_grey.svg"><img alt="notes icon grey" height="16" src="../../../_images/icon_notes_grey.svg" width="16" /></a> 显示项目备注。打开 <em>Project Notes</em> 窗口。只有在项目中添加备注时，此图标才会出现；可以在 <em>Settings &gt; Project Settings… &gt;</em> <a class="reference internal" href="../../../_images/icon_notes.svg"><img alt="notes icon" height="12" src="../../../_images/icon_notes.svg" width="12" /></a> <em>Notes 中完成。</em></p></li>
+<li><p>最小化 EmberGen 窗口。</p></li>
+<li><p>最大化 EmberGen 窗口。</p></li>
+<li><p>关闭 EmberGen。</p></li>
+</ol>
+</section>
+<section id="viewport">
+<h2>视口<a class="headerlink" href="#viewport" title="Permalink to this heading">#</a></h2>
+<p>这里可以查看模拟、形状、力，或场景中的任何内容。</p>
+<img alt="viewport" src="../../../_images/viewport.png" />
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="../../../_images/icon_menu.svg"><img alt="move section icon" height="20" src="../../../_images/icon_menu.svg" width="12" /></a> 使用 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 拖动，可以通过此图标移动 4 个主要区块来重新排列 UI 布局。</p></li>
+<li><p><strong>Scene</strong> 是默认选项卡，可在其中查看和操作所有内容。</p></li>
+</ol>
+<ol class="arabic simple" start="5">
+<li><p><a class="reference internal" href="../../../_images/icon_camera.svg"><img alt="camera icon" height="12" src="../../../_images/icon_camera.svg" width="12" /></a> 可用摄像机的下拉菜单。在这里可以选择要透过哪台摄像机查看。</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/renderQuality.gif"><img alt="viewport" class="align-right" src="../../../_images/renderQuality.gif" style="width: 200px;" /></a>
+<ol class="arabic" start="6">
+<li><p><a class="reference internal" href="../../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../../_images/icon_viewport.svg" width="12" /></a> 可在 <em>Scene</em> 选项卡中隐藏或显示的所有内容的下拉菜单。</p>
+<ul>
+<li><p><strong>Simulation</strong> <cite>M</cite> (<strong>15</strong>)</p></li>
+<li><p><strong>Unlit Mode</strong> <cite>U</cite> 降低着色复杂度。这会显著提高渲染速度；当你处理模拟时想获得更好性能且不需要查看最终着色时会很有用。</p></li>
+<li><p><strong>Bounding Box</strong> <cite>B</cite> (<strong>14</strong>)</p></li>
+<li><p><strong>Shapes</strong> <cite>H</cite> (<strong>16</strong>)</p></li>
+<li><p><strong>Backplates</strong> <cite>Shift+B</cite> 这会切换背板可见性。背板可在 <a class="reference internal" href="../../../liquigen/pages/references/node_list.html#cameranode"><span class="std std-ref">Camera</span></a> 节点中添加。</p></li>
+<li><p><strong>Masking</strong> 这会可视化所有包含内容的体素。</p></li>
+<li><p><strong>Manipulators</strong> <cite>Shift+Q</cite> (<strong>17</strong>) 这会切换平移、旋转或缩放操纵器的可见性。</p></li>
+<li><p><strong>Manipulator Switcher</strong> 这会显示 Move <a class="reference internal" href="../../../_images/icon_move.svg"><img alt="move icon" height="20" src="../../../_images/icon_move.svg" width="20" /></a> (<strong>8</strong>), Rotate <a class="reference internal" href="../../../_images/icon_rotate.svg"><img alt="rotate icon" height="20" src="../../../_images/icon_rotate.svg" width="20" /></a> (<strong>9</strong>) 和 Scale <a class="reference internal" href="../../../_images/icon_scale.svg"><img alt="scale icon" height="20" src="../../../_images/icon_scale.svg" width="20" /></a> (<strong>10</strong>) 按钮。</p></li>
+<li><p><strong>Entity Icons</strong> (<strong>18</strong>) 会在节点位置显示节点图标。在此例中是 Line Force 节点。单击实体图标会选择对应节点。</p></li>
+<li><p><strong>Camera Gizmo</strong> (<strong>11</strong>) 活动摄像机视口方向的可视化表示。可以 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击圆点，将视图定向到该轴。也可以 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击并拖动球体来旋转视图。</p></li>
+<li><p><strong>Render Quality</strong> 会在右侧打开一个菜单，可在其中选择 <em>Low</em> <cite>Ctrl + 1</cite>, <em>Medium</em> <cite>Ctrl + 2</cite>，或 <em>High</em> <cite>Ctrl + 3</cite></p>
+<p>在某些情况下，例如使用 <em>Flames translucency（火焰半透明）</em>时，近距离查看模拟可能会看到大量色带。设置更高的渲染质量有助于处理这一问题。</p>
+<p>也可以降低渲染质量来提升性能。</p>
+<p><em>Low</em>、<em>Medium</em> 和 <em>High</em> 是可以在 <em>Settings &gt; Preferences… &gt; Viewport Quality（视口质量）中编辑的预设。</em></p>
+</li>
+<li><dl class="simple">
+<dt><strong>Settings</strong> (<strong>22</strong>) 添加一个包含常用设置的框，便于快速访问。</dt><dd><ul class="simple">
+<li><p><strong>Render Quality</strong> 快速选择上述三个渲染质量预设之一。</p></li>
+<li><p><strong>View Mode</strong> 可选择使用 <em>Lit</em> 获得正确着色，或使用 <em>Unlit</em> 进行简单着色，从而腾出一些资源以加快模拟。作用与切换 <cite>U</cite> 键相同。</p></li>
+<li><p><strong>Projection Quality</strong> 在投影质量预设之间循环切换。这主要是在模拟速度与碰撞和压力精度之间取舍。这些设置也位于 <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点的 <em>Projection</em> 选项卡中。有关投影的更多信息，请查看我们的 ..TBD.. 章节！</p></li>
+<li><p><strong>Render Shapes</strong> 切换形状是否可见。作用与切换 <cite>H</cite> 键相同。</p></li>
+<li><p><strong>Lock Camera</strong> 锁定活动摄像机，使视图不能再被更改。（不适用于默认摄像机）这与使用 <em>Lock</em> 复选框的作用相同，该复选框位于 <em>General</em> 选项卡中，属于 <a class="reference internal" href="../../../_images/camera.svg"><img alt="camera icon" height="18" src="../../../_images/camera.svg" width="18" /></a> <em>Camera</em> 节点。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><strong>Stats</strong> (<strong>23</strong>)</dt><dd><ul class="simple">
+<li><p><strong>Bounds：</strong> 三个轴上的体素数量。体素越多通常意味着边界框越大，并且有更多空间用于模拟体积。这些值可以通过 <em>Voxel count</em> 参数调整，该参数位于 <em>Domain</em> 选项卡中，属于 <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点。</p></li>
+<li><p><strong>Voxels：</strong> 模拟中的体素总数。它是上面提到的体素尺寸相乘得到的结果，单位为 <em>mVox</em>，表示“Million Voxels（百万体素）”。有关体素的更多信息，请查看我们的 <a class="reference internal" href="../../../liquigen/pages/getting_started.html#voxelsref"><span class="std std-ref">体素</span></a> 章节。</p></li>
+<li><p><strong>Sim Time：</strong> 模拟一个模拟步所需的时间，单位为毫秒。</p></li>
+<li><p><strong>Sim Speed：</strong> EmberGen 的模拟速度，单位为百万体素每秒。</p></li>
+<li><p><strong>Resolution：</strong> 视口分辨率，单位为像素。</p></li>
+<li><p><strong>Render Time：</strong> 将体积渲染到屏幕所需的时间，单位为毫秒。切换到较低质量或 Unlit 模式时，可以看到数值下降。</p></li>
+<li><p><strong>UI Framerate：</strong> UI 每秒更新的次数。</p></li>
+<li><p><strong>VRAM：</strong> 当前使用的 GPU 内存与总可用内存。</p></li>
+<li><p><strong>Particle Count</strong> 当前由 <a class="reference internal" href="node_list.html#emitterparticles"><span class="std std-ref">Particles </span></a> 节点创建的粒子数量。如果只显示 <em>7</em>，表示模拟中有 7 个粒子； <em>7.0 K</em> 表示 7000 个粒子； <em>7.0 M</em> 表示 7,000,000 个粒子。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../_images/full_screen.svg" width="12" /></a> 切换面板全屏。</p></li>
+</ol>
+<ol class="arabic simple" start="12">
+<li><p><strong>Sky：</strong> 这些设置由 <a class="reference internal" href="node_list.html#skyboxnode"><span class="std std-ref">Skybox</span></a> 节点控制。</p></li>
+<li><p><strong>Ground：</strong> 这些设置由 <a class="reference internal" href="node_list.html#groundnode"><span class="std std-ref">Ground</span></a> 节点控制。</p></li>
+</ol>
+<ol class="arabic simple" start="19">
+<li><p><strong>Force Gizmo</strong> 大多数力都有一个 Gizmo，可用浅蓝色箭头显示该力注入速度的方向。</p></li>
+<li><p><strong>Inner Bound</strong> 所选力的内部边界。内部边界的透明区域表示力保持 100% 的区域。可以将某些力节点 <em>Falloff</em> 参数设置为 <em>None</em> 以外的值来设置边界，该参数位于 <em>General</em> 选项卡中。</p></li>
+<li><p><strong>Outer Bound</strong> 所选力的外部边界。加深显示的区域表示过渡区域：力从内部的 100% 过渡到外部的 100% 减去 <em>Falloff percent</em>（因此默认外侧为 0%）。</p></li>
+</ol>
+<img alt="render tab" src="../../../_images/renderTab.png" />
+<ol class="arabic simple" start="3">
+<li><p><strong>Render</strong> 是用于预览将要导出内容的选项卡。</p>
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="../../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../../_images/icon_viewport.svg" width="12" /></a> <strong>View</strong> 下拉菜单，可切换统计信息的可见性。</p></li>
+<li><p>Render nodes（渲染节点）下拉菜单。在这里可以选择要预览的 <a class="reference internal" href="node_list.html#rendernode"><span class="std std-ref">Render</span></a> 节点。</p></li>
+<li><p>渲染通道下拉菜单。在这里可以选择要预览的 <a class="reference internal" href="node_list.html#render-passes"><span class="std std-ref">Render pass</span></a>。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_attention.svg"><img alt="attention icon" height="16" src="../../../_images/icon_attention.svg" width="16" /></a> No Render pass mapping（无渲染通道映射）警告。看到这个图标表示 Render 节点中没有设置 Render pass mapping（渲染通道映射）。可以单击此图标自动创建一个。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_settings.svg"><img alt="settings icon" height="16" src="../../../_images/icon_settings.svg" width="16" /></a> 切换渲染设置。它会显示或隐藏渲染设置 (<strong>13,14</strong>) <a class="reference internal" href="node_list.html#rendernodesettings"><span class="std std-ref">Render Settings</span></a></p></li>
+<li><p>放大或缩小。</p></li>
+<li><p>缩放以适配整个选项卡。勾选后会禁用 <strong>6</strong></p></li>
+<li><p><a class="reference internal" href="../../../_images/100percent_view.svg"><img alt="zoom Default Icon" height="12" src="../../../_images/100percent_view.svg" width="12" /></a> 将缩放（<strong>6</strong>）重置为 100%</p></li>
+<li><p>切换裁剪 Gizmo。</p></li>
+<li><p>在水平和垂直轴上裁剪。</p></li>
+<li><p>垂直裁剪。</p></li>
+<li><p>水平裁剪。</p></li>
+<li><p>常规渲染设置</p></li>
+<li><p>Render pass 专用渲染设置。</p></li>
+</ol>
+</li>
+</ol>
+<img alt="export tab" src="../../../_images/exportTab.png" />
+<ol class="arabic simple">
+<li><p><strong>Export</strong> 在这里可以查看已导出的翻页序列或图像序列。</p>
+<ol class="arabic simple">
+<li><p>Channels。 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击这些按钮中的任意一个可单独查看 Red（红）、Green（绿）、Blue（蓝）或 Alpha（透明度）通道；再次单击该通道可回到同时查看 Red（红）、Green（绿）和 Blue（蓝）。 <cite>Ctrl</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击某个通道可将其加入通道选择或从中移除。</p></li>
+<li><p>渲染通道。映射后的渲染通道下拉菜单，可选择要查看导出结果的渲染通道。</p></li>
+<li><p>Flipbook（翻页序列）。一种用于游戏的格式，所有帧都存储在一张图像中。只有在满足以下条件时才会看到它： <em>Export Mode</em> 是 <em>Export</em> 选项卡中 <a class="reference internal" href="../../../_images/render.svg"><img alt="render icon" height="18" src="../../../_images/render.svg" width="18" /></a> <em>Render</em> 节点的设置，并被设置为 <em>Flipbook</em>。</p></li>
+<li><p>Export viewer。显示已导出的文件。</p></li>
+<li><p>Current Flipbook Frame（当前翻页序列帧），以细浅色边框标示。可以 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击任意帧，将其设为当前帧。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_back.svg"><img alt="icon_back" height="16" src="../../../_images/icon_back.svg" width="16" /></a> Go To Start（转到开头）。将播放头设到时间轴开头。（Export 选项卡中的时间轴）</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_prev_frame.svg"><img alt="icon_prev_frame" height="16" src="../../../_images/icon_prev_frame.svg" width="16" /></a> 转到上一帧。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_play.svg"><img alt="icon_play" height="16" src="../../../_images/icon_play.svg" width="16" /></a> 播放或暂停导出。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_next_frame.svg"><img alt="next_frame" height="16" src="../../../_images/icon_next_frame.svg" width="16" /></a> 转到下一帧。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_forward.svg"><img alt="icon_forward" height="16" src="../../../_images/icon_forward.svg" width="16" /></a> Go To End（转到末尾）。将播放头设到时间轴末尾。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_loop.svg"><img alt="icon_loop" height="16" src="../../../_images/icon_loop.svg" width="16" /></a> Loop。切换导出播放到最后一帧时，是从开头重新播放，还是停止。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_skip_frame.svg"><img alt="icon_skip_frame" height="16" src="../../../_images/icon_skip_frame.svg" width="16" /></a> Skip Frame。切换播放器是否在必要时跳帧，以跟上所选帧率。</p></li>
+<li><p>Current Frame。显示当前播放帧。也可以 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 在此框内单击以手动设置当前帧。</p></li>
+<li><p>Timeline（时间轴）。所有已导出帧编号的水平表示。</p></li>
+<li><p><a class="reference internal" href="../../../_images/scrubber_small.svg"><img alt="icon_scrubber_small" height="10" src="../../../_images/scrubber_small.svg" width="9" /></a> Playhead。位于时间线上的当前帧位置。可以 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击并拖动播放头，在时间线上移动并查看不同帧。</p></li>
+<li><p>Frames Per Second。导出播放时使用的 FPS。数值越高，回放看起来越“加速”。可尝试设为目标帧率，例如制作电影时使用 24 fps。这样可以看到最终结果中的速度效果。</p></li>
+</ol>
+</li>
+</ol>
+</section>
+<section id="node-graph">
+<h2>节点图<a class="headerlink" href="#node-graph" title="Permalink to this heading">#</a></h2>
+<p>这里用于管理创建模拟的构建块。可以把连线理解为数据，它们把设置中的一个部分连接到另一个部分。</p>
+<img alt="node graph" src="../../../_images/nodeGraph.png" />
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="../../../_images/icon_menu.svg"><img alt="move section icon" height="20" src="../../../_images/icon_menu.svg" width="12" /></a> 使用 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 拖动，可以通过此图标移动 4 个主要区块来重新排列 UI 布局。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_search.svg"><img alt="search icon" height="12" src="../../../_images/icon_search.svg" width="12" /></a> 打开搜索框。 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击它会打开搜索框，可以输入节点名称或名称的一部分来快速选择该节点。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_list_view.svg"><img alt="list view icon" height="12" src="../../../_images/icon_list_view.svg" width="13" /></a> 切换 Graph Tree（图树）。(<strong>9</strong>)</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_randomize_seeds.svg"><img alt="icon_randomize_seeds" height="12" src="../../../_images/icon_randomize_seeds.svg" width="12" /></a> 随机化所有包含 seed 参数的节点中的全部 seed 参数。这是快速获得效果变体的方法。例如制作爆炸时，如果使用噪声力或形状，每次单击此图标都会得到独特的爆炸效果！</p></li>
+<li><p><a class="reference internal" href="../../../_images/fit_to_view.svg"><img alt="fit To View Icon" height="12" src="../../../_images/fit_to_view.svg" width="12" /></a> 将视图移动到节点中心。</p></li>
+<li><p><a class="reference internal" href="../../../_images/focus_node.svg"><img alt="focus node icon" height="12" src="../../../_images/focus_node.svg" width="12" /></a> 将视图移动到已选节点中心。</p></li>
+<li><p><a class="reference internal" href="../../../_images/100percent_view.svg"><img alt="zoom Default Icon" height="12" src="../../../_images/100percent_view.svg" width="12" /></a> 将缩放重置为默认值。</p></li>
+<li><p><a class="reference internal" href="../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../_images/full_screen.svg" width="12" /></a> 切换面板全屏</p></li>
+<li><p><strong>Graph Tree</strong> 在这里会以列表形式显示所有节点。可以使用 <a class="reference internal" href="../../../_images/unfold_icon.svg"><img alt="unfold icon" height="8" src="../../../_images/unfold_icon.svg" width="8" /></a> 图标打开一个下拉菜单，显示连接到该节点输入引脚的节点。如果将鼠标悬停在节点名称上，可以单击 <a class="reference internal" href="../../../_images/dot_normal.svg"><img alt="dot normal icon" height="6" src="../../../_images/dot_normal.svg" width="6" /></a> 来选择节点。这样无需在节点图中搜索，就能快速选择节点并查看其参数！也可以使用 <cite>Shift</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 多选节点。选中的节点会以 <a class="reference internal" href="../../../_images/dot_active.svg"><img alt="dot active icon" height="6" src="../../../_images/dot_active.svg" width="6" /></a> 图标表示。</p></li>
+<li><p>Node（节点）。模拟的构建块。选中的节点带有蓝色边框。</p></li>
+<li><p>输入引脚</p></li>
+<li><p>连接线</p></li>
+<li><p>输出引脚</p></li>
+<li><p><a class="reference internal" href="../../../_images/node_toggle.svg"><img alt="node toggle icon" height="14" src="../../../_images/node_toggle.svg" width="14" /></a> 切换节点是否启用。 <cite>Shift</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 可对所有已选节点切换。</p></li>
+<li><p>Comment。用于整理节点、提升可读性的自定义命名节点容器。可以通过选择 <em>Create Comment</em> 来创建注释，该命令位于节点图的 <a class="reference internal" href="../../../_images/right.svg"><img alt="right mouse button" height="18" src="../../../_images/right.svg" width="18" /></a> 菜单中；也可以按 <cite>Ctrl + G</cite> 有关注释的更多信息，请查看我们的 <a class="reference internal" href="../../../liquigen/pages/references/specific/comment.html#comment"><span class="std std-ref">注释</span></a> 章节！</p></li>
+</ol>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="494.7247706422018" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/minimap.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ol class="arabic simple" start="16">
+<li><p>Note。可放置在节点图周围的自定义文本框，用于提供额外信息或辅助记忆。可以通过选择 <em>Create Note</em> 来创建备注，该命令位于节点图右键菜单中；也可以按 <cite>Ctrl + H</cite> 有关备注的更多信息，请查看我们的 <a class="reference internal" href="../../../liquigen/pages/references/specific/note.html#note"><span class="std std-ref">备注</span></a> 章节！</p></li>
+<li><p>Minimap。整个节点图的小型概览。可以在 <em>Settings &gt; Preferences… &gt;</em> <a class="reference internal" href="../../../_images/icon_general.svg"><img alt="general icon" height="12" src="../../../_images/icon_general.svg" width="12" /></a> <em>General</em> 部分启用和调整小地图。</p></li>
+<li><p>节点会显示为按各自图标着色的块。选中的节点带有白色边框。</p></li>
+<li><p>注释会显示为节点下方的矩形。注释颜色取决于它们在节点图中的颜色。</p></li>
+<li><p>可见节点图区域。白色半透明框表示当前可见的节点图区域。放大节点图会让此框变小，缩小节点图会让它变大。要使用小地图移动可见区域，可以 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击跳转到所需区域，或 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击并拖动到该区域。</p></li>
+</ol>
+</section>
+<section id="timeline-editor">
+<h2>时间轴编辑器<a class="headerlink" href="#timeline-editor" title="Permalink to this heading">#</a></h2>
+<p>这里会从左到右显示时间。</p>
+<p>有关如何使用此编辑器的说明，请查看我们的 <a class="reference internal" href="../../../liquigen/pages/references/specific/animation.html#timelineeditor"><span class="std std-ref">时间轴编辑器</span></a> 章节。</p>
+<img alt="timeline editor" src="../../../_images/timelineEditor1.png" />
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="../../../_images/icon_menu.svg"><img alt="move section icon" height="20" src="../../../_images/icon_menu.svg" width="12" /></a> 使用 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 拖动，可以通过此图标移动 4 个主要区块来重新排列 UI 布局。</p></li>
+<li><p><a class="reference internal" href="../../../_images/magnet.svg"><img alt="key filter icon" height="16" src="../../../_images/magnet.svg" width="16" /></a> Snap keys to frames（将关键帧吸附到帧）。启用后（图标变蓝表示已启用），关键帧只能创建在整数帧编号上，也只能移动到整数帧编号。</p></li>
+<li><p><a class="reference internal" href="../../../_images/fit_to_view.svg"><img alt="fit To View Icon" height="12" src="../../../_images/fit_to_view.svg" width="12" /></a> Fit view to all keys（适配所有关键帧）</p></li>
+<li><p><a class="reference internal" href="../../../_images/fit_to_curve.svg"><img alt="fit To View Icon" height="12" src="../../../_images/fit_to_curve.svg" width="12" /></a> Fit view to selected keys（适配已选关键帧）</p></li>
+<li><p><a class="reference internal" href="../../../_images/100percent_view.svg"><img alt="zoom Default Icon" height="12" src="../../../_images/100percent_view.svg" width="12" /></a> 将垂直缩放重置为默认值，作用于 <em>Curve Editor</em>。<cite>Shift</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击此图标可重置水平缩放。</p></li>
+<li><p><a class="reference internal" href="../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../_images/full_screen.svg" width="12" /></a> 切换面板全屏</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_reset_sim.svg"><img alt="reset Icon" height="16" src="../../../_images/icon_reset_sim.svg" width="16" /></a> <strong>Reset</strong> <cite>R</cite> 将模拟重置到时间轴开头。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_prev_key.svg"><img alt="previous key icon" height="16" src="../../../_images/icon_prev_key.svg" width="16" /></a> 将播放头移动到上一个关键帧 <cite>Left</cite></p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_play.svg"><img alt="play Icon" height="16" src="../../../_images/icon_play.svg" width="16" /></a> 播放或暂停模拟 <cite>Space</cite></p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_next_key.svg"><img alt="next key icon" height="16" src="../../../_images/icon_next_key.svg" width="16" /></a> 将播放头移动到下一个关键帧 <cite>Right</cite></p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_next_frame.svg"><img alt="next frame" height="16" src="../../../_images/icon_next_frame.svg" width="16" /></a> 移动到下一帧/模拟步 <cite>Z</cite></p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_loop.svg"><img alt="icon loop" height="16" src="../../../_images/icon_loop.svg" width="16" /></a> <strong>Toggle Loop</strong> <cite>L</cite> 启用循环后，时间轴编辑器中会以蓝色显示循环范围。可以通过 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击并拖动中间部分来移动这条蓝色条，也可以通过 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击并拖动边缘来缩放它。</p></li>
+<li><dl class="simple">
+<dt><a class="reference internal" href="../../../_images/shevron.svg"><img alt="shevron Icon" height="16" src="../../../_images/shevron.svg" width="16" /></a> 此下拉菜单可快速访问与循环相关的选项。</dt><dd><ul class="simple">
+<li><dl class="simple">
+<dt>Timeline</dt><dd><ul>
+<li><p><strong>Loop：</strong> 这会让播放头在时间轴的同一段范围内循环，包括所有关键帧动画，同时模拟继续向前运行。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>Simulation</dt><dd><ul>
+<li><p><strong>Loop</strong> 这会通过混合 <em>min</em> 和 <em>max</em> 位置来循环模拟，这些位置来自 <em>Loop Bounds</em>。</p></li>
+<li><p><strong>Repeat</strong> 模拟会在到达 <em>Repeat Frame 时重新开始</em></p></li>
+<li><p><strong>Time Controls</strong> <a class="reference internal" href="../../../_images/time_controls.svg"><img alt="key filter icon" height="16" src="../../../_images/time_controls.svg" width="16" /></a> 这会选择 <em>Time Control</em> 选项卡，该选项卡位于 <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点中，用于快速访问与循环或重复模拟相关的所有设置。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p>切换时间轴以秒或帧显示。 <cite>Shift + F</cite></p></li>
+<li><p>时间轴滚动条。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_search.svg"><img alt="search icon" height="12" src="../../../_images/icon_search.svg" width="12" /></a> 可在这里搜索动画参数列表中的特定参数。</p></li>
+<li><p><a class="reference internal" href="../../../_images/curve_editor.svg"><img alt="curve mode icon" height="16" src="../../../_images/curve_editor.svg" width="16" /></a> <strong>Toggle Curve Editor（切换曲线编辑器）</strong> <cite>`</cite> 有关如何使用此编辑器的说明，请查看我们的 <a class="reference internal" href="../../../liquigen/pages/references/specific/animation.html#curveeditor"><span class="std std-ref">曲线编辑器</span></a> 章节。</p></li>
+<li><p><a class="reference internal" href="../../../_images/utokeyframe.svg"><img alt="autokey icon" height="16" src="../../../_images/utokeyframe.svg" width="16" /></a> <strong>Toggle Timeline Autokey（切换时间轴自动关键帧）</strong> <cite>A</cite> 启用后，修改已启用关键帧动画的参数值时，会在播放头位置添加一个关键帧。</p></li>
+<li><p><a class="reference internal" href="../../../_images/realtime.svg"><img alt="record icon" height="16" src="../../../_images/realtime.svg" width="16" /></a> <strong>Toggle Timeline Recording（切换时间轴录制）</strong> <cite>Shift + R</cite> 使用此按钮启动模拟时，所有对已启用 <em>Timeline Override（时间轴覆盖）</em> 的参数所做的更改都会实时转换为关键帧。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_sync_playback_with_sim.svg"><img alt="sync playback icon" height="16" src="../../../_images/icon_sync_playback_with_sim.svg" width="16" /></a> <strong>Toggle Timeline Sync（切换时间轴同步）</strong> <cite>D</cite> 启用后，播放头始终与模拟时间位于同一位置。因此播放时蓝线和粉线不能分离。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_follow.svg"><img alt="curve mode icon" height="16" src="../../../_images/icon_follow.svg" width="16" /></a> <strong>Toggle Follow Playhead（切换跟随播放头）</strong> <cite>F</cite> 启用后，时间轴会自动平移，使播放头始终保持在编辑器中央。</p></li>
+<li><p><a class="reference internal" href="../../../_images/scrubber_big.svg"><img alt="icon_scrubber_big" height="13" src="../../../_images/scrubber_big.svg" width="9" /></a> <strong>Playhead</strong> 指示时间轴上的当前时间。</p></li>
+<li><p>指示模拟当前所在时间。</p></li>
+<li><p>帧编号。</p></li>
+<li><p>带有启用关键帧动画参数的节点。可以使用 <a class="reference internal" href="../../../_images/unfold_icon.svg"><img alt="unfold icon" height="8" src="../../../_images/unfold_icon.svg" width="8" /></a> 图标隐藏或显示动画参数。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_play1.svg"><img alt="play icon timeline" height="16" src="../../../_images/icon_play1.svg" width="16" /></a> 启用或禁用该节点的关键帧动画。禁用后，该节点的参数不再随时间变化，但会保持关闭此按钮时的值。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_eye.svg"><img alt="eye icon" height="16" src="../../../_images/icon_eye.svg" width="16" /></a> 隐藏或显示此节点所有参数在 <em>Curve Editor 中的曲线</em>。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_play_once.svg"><img alt="play once icon" height="12" src="../../../_images/icon_play_once.svg" width="12" /></a> 指定曲线延续方式。将此参数的关键帧动画设为 <a class="reference internal" href="../../../_images/icon_play_once.svg"><img alt="play once icon" height="12" src="../../../_images/icon_play_once.svg" width="12" /></a> <em>Play Once</em>, <a class="reference internal" href="../../../_images/icon_loop1.svg"><img alt="loop icon" height="12" src="../../../_images/icon_loop1.svg" width="12" /></a> <em>Loop</em>（在末尾重新开始动画）或 <a class="reference internal" href="../../../_images/icon_ping_pong.svg"><img alt="ping pong icon" height="12" src="../../../_images/icon_ping_pong.svg" width="12" /></a> <em>Ping Pong</em>（先正向播放动画，再反向播放，再正向播放，如此往复。）</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/curveContinuation.gif"><img alt="curve continuation" src="../../../_images/curveContinuation.gif" style="width: 800px;" /></a>
+<ol class="arabic simple" start="29">
+<li><p><strong>Parameter</strong> 可在这里设置当前帧的参数值。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_play1.svg"><img alt="play icon timeline" height="16" src="../../../_images/icon_play1.svg" width="16" /></a> 启用或禁用该参数的关键帧动画。禁用后，该参数不再随时间变化，但会保持关闭此按钮时的值。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_eye.svg"><img alt="eye icon" height="16" src="../../../_images/icon_eye.svg" width="16" /></a> 隐藏或显示此参数在 <em>Curve Editor 中的曲线</em>。</p></li>
+<li><p><a class="reference internal" href="../../../_images/key_timeline.svg"><img alt="keyframe icon" height="14" src="../../../_images/key_timeline.svg" width="14" /></a> Keyframe</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/exportImageCurve2.png"><img alt="export image curve" class="align-right" src="../../../_images/exportImageCurve2.png" style="width: 500px;" /></a>
+<ol class="arabic" start="33">
+<li><p><a class="reference internal" href="../../../_images/timeline_curve.svg"><img alt="timeline curve icon" height="12" src="../../../_images/timeline_curve.svg" width="12" /></a> 此按钮可在 <a class="reference internal" href="../../../_images/export_group.svg"><img alt="export group icon" height="18" src="../../../_images/export_group.svg" width="18" /></a> <em>Export</em> 或 <a class="reference internal" href="../../../_images/import.svg"><img alt="import node icon" height="18" src="../../../_images/import.svg" width="18" /></a> <em>Import</em> 节点上找到。</p>
+<p>对于 Export 节点，此按钮会切换到另一个视图，可在其中查看和编辑帧的导出方式。</p>
+</li>
+</ol>
+<ol class="arabic simple" start="34">
+<li><p>显示将要导出的序列时长。</p></li>
+<li><p>指示时间轴中将要导出的部分。此条可以移动。</p></li>
+<li><p>编辑器控件的信息。将鼠标悬停在关键帧上时，这些信息会改为显示关键帧控件。</p></li>
+</ol>
+</section>
+<section id="properties-panel">
+<h2>属性面板<a class="headerlink" href="#properties-panel" title="Permalink to this heading">#</a></h2>
+<img alt="properties panel" src="media/screenshots/UIref/propertiesPanel_EG.png" />
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="../../../_images/icon_menu.svg"><img alt="move section icon" height="20" src="../../../_images/icon_menu.svg" width="12" /></a> 使用 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 拖动，可以通过此图标移动 4 个主要区块来重新排列 UI 布局。</p></li>
+<li><p><strong>Node Details（节点详情）：</strong> 此选项卡显示所选节点的所有参数。</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/favoritesTab.png"><img alt="favorites tab" class="align-right" src="../../../_images/favoritesTab.png" style="width: 500px;" /></a>
+<ol class="arabic" start="3">
+<li><p><strong>Favorites</strong> 此选项卡显示所有标记为收藏的参数。</p>
+<p>可以在 Node Details（节点详情）选项卡中，对任意参数勾选其旁边的星形图标 <a class="reference internal" href="../../../_images/favorite.svg"><img alt="favorite" height="16" src="../../../_images/favorite.svg" width="16" /></a> 来完成此操作。</p>
+<p><strong>Clear All</strong> 会从收藏列表中移除所有项目。所有星形图标都会取消勾选。</p>
+<p>在菜单栏的 <em>Settings/Project Settings…</em> 中，也可以根据默认值、上次保存状态或已加载的 <em>.liquigen</em> 文件自动收藏参数！</p>
+</li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/timelineTab.png"><img alt="timeline tab" class="align-right" src="../../../_images/timelineTab.png" style="width: 500px;" /></a>
+<ol class="arabic" start="4">
+<li><p><strong>Timeline：</strong> 此选项卡显示所有已启用关键帧动画的参数。</p>
+<p><strong>Clear All</strong> 会从列表中移除所有项目。 <strong>注意，这会移除所有动画！</strong></p>
+<p>参数上的关键帧动画通过将 override state（<strong>11</strong>）设置为 <em>Timeline Override（时间轴覆盖）来启用</em>。</p>
+<p>有关动画（时间轴）的更多信息，请查看我们的 <a class="reference internal" href="../../../liquigen/pages/references/specific/animation.html#animation"><span class="std std-ref">关键帧动画</span></a> 章节。</p>
+</li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/randomizedTab.png"><img alt="timeline tab" class="align-right" src="../../../_images/randomizedTab.png" style="width: 500px;" /></a>
+<ol class="arabic" start="5">
+<li><p><strong>Randomized：</strong> 此选项卡包含所有已启用随机化的参数；可按住 <cite>Shift</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击 override state cycler（覆盖状态循环器）来启用（<strong>11</strong>)</p>
+<p><strong>Randomize All</strong> 会为 <em>Randomized</em> 选项卡中的所有参数分配新的随机值。</p>
+<p>左侧的范围滑块定义随机值可选取的最小值和最大值。右侧紧邻的字段是参数值。
+<a class="reference internal" href="../../../_images/update.svg"><img alt="update icon" height="16" src="../../../_images/update.svg" width="16" /></a> 会随机化该参数（而不是全部参数）。更多信息请查看我们的 <a class="reference internal" href="How-To%20Guides/randomization.html#randomization"><span class="std std-ref">随机化</span></a> 章节！</p>
+</li>
+<li><p><a class="reference internal" href="../../../_images/icon_search.svg"><img alt="search icon" height="12" src="../../../_images/icon_search.svg" width="12" /></a> 打开搜索框，用于查找所需参数，不受当前所在选项卡限制。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_key_filter.svg"><img alt="key filter icon" height="12" src="../../../_images/icon_key_filter.svg" width="12" /></a> 仅显示带关键帧动画的参数，不受当前选项卡限制。这不同于 Timeline（时间轴）选项卡，因为它只显示所选节点的动画参数，而不是所有节点的。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_more.svg"><img alt="move icon" height="12" src="../../../_images/icon_more.svg" width="12" /></a> 打开下拉菜单，其中包含重置或随机化所选节点或选项卡所有参数的选项。</p></li>
+<li><p><a class="reference internal" href="../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../_images/full_screen.svg" width="12" /></a> 切换面板全屏</p></li>
+<li><p><strong>Parameter tab：</strong> 所有节点都有自己的参数选项卡集合，用易于查找的类别对参数进行排序。</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/parameterOverride.png"><img alt="override states" class="align-right" src="../../../_images/parameterOverride.png" style="width: 200px;" /></a>
+<ol class="arabic simple" start="11">
+<li><p>Parameter tab divider。它在列表中以视觉方式分隔某个选项卡的参数。可以使用 <a class="reference internal" href="../../../_images/unfold_icon.svg"><img alt="unfold icon" height="8" src="../../../_images/unfold_icon.svg" width="8" /></a> 图标隐藏或取消隐藏该选项卡的参数。</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/parameterOverride.png"><img alt="override states" class="align-right" src="../../../_images/parameterOverride.png" style="width: 200px;" /></a>
+<ol class="arabic simple" start="12">
+<li><dl class="simple">
+<dt><a class="reference internal" href="../../../_images/key_none.svg"><img alt="no override icon" height="14" src="../../../_images/key_none.svg" width="14" /></a> <strong>Cycle Override State：</strong> 单击它会在该参数的不同 override state 之间循环。</dt><dd><ul class="simple">
+<li><p><a class="reference internal" href="../../../_images/key_none.svg"><img alt="no override icon" height="14" src="../../../_images/key_none.svg" width="14" /></a> <strong>No Override：</strong> 参数只由字段、复选框或下拉菜单中输入的值驱动。</p></li>
+<li><p><a class="reference internal" href="../../../_images/key_timeline.svg"><img alt="keyframe icon" height="14" src="../../../_images/key_timeline.svg" width="14" /></a> <strong>Timeline Override：</strong> 参数由关键帧驱动，可以随时间变化。更多信息请查看我们的 <a class="reference internal" href="../../../liquigen/pages/references/specific/animation.html#animation"><span class="std std-ref">关键帧动画</span></a> 章节。</p></li>
+<li><p><a class="reference internal" href="../../../_images/control.svg"><img alt="pin override icon" height="14" src="../../../_images/control.svg" width="14" /></a> <strong>Pin Override：</strong> 参数由外部节点驱动，例如 oscillator。其值可基于函数随时间变化。更多信息请查看我们的 <a class="reference internal" href="How-To%20Guides/modulating_parameters.html#modulation"><span class="std std-ref">调制参数</span></a> 章节。</p></li>
+<li><p><a class="reference internal" href="../../../_images/random.svg"><img alt="random icon" height="14" src="../../../_images/random.svg" width="14" /></a> <strong>Randomize Override：</strong> <cite>Shift</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击。参数值可在 <em>Randomized</em> 选项卡中指定的范围内随机化。更多信息请查看我们的 <a class="reference internal" href="How-To%20Guides/randomization.html#randomization"><span class="std std-ref">随机化</span></a> 章节。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Parameter name：</strong> 将鼠标悬停在其上会显示该参数作用的说明。</p></li>
+<li><p><strong>Checkbox：</strong> 可将参数设为开启或关闭。</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_reset_sim.svg"><img alt="reset Icon" height="16" src="../../../_images/icon_reset_sim.svg" width="16" /></a> 重置为默认值。</p></li>
+<li><p><a class="reference internal" href="../../../_images/favorite.svg"><img alt="favorite" height="16" src="../../../_images/favorite.svg" width="16" /></a> <strong>Mark as favorite：</strong> 这会让参数显示在 Favorites 选项卡中。</p></li>
+<li><p><strong>Value Slider：</strong> 可以 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 在此框内单击以输入所需值。也可以 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击并拖动来更改数值。还可以在这些文本框中使用数学表达式。例如输入 4*7/2+6-2 并按 <cite>Enter</cite> 会将参数值设为 18。这有助于快速将某个值相乘或减半等。</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/setParameterBounds_LG.png"><img alt="override states" class="align-right" src="../../../_images/setParameterBounds_LG.png" style="width: 400px;" /></a>
+<ol class="arabic simple" start="18">
+<li><p><a class="reference internal" href="../../../_images/range.svg"><img alt="range icon" height="12" src="../../../_images/range.svg" width="12" /></a> 当通过手动输入设置了默认边界之外的参数值时，会出现此项。这样会把边界设为新的最小值或最大值。可以单击 <a class="reference internal" href="../../../_images/range.svg"><img alt="range icon" height="12" src="../../../_images/range.svg" width="12" /></a> 图标打开 <em>Set Parameter Bounds</em> 窗口，在其中使用文本字段设置最小值或最大值；也可以单击 <a class="reference internal" href="../../../_images/icon_reset_sim.svg"><img alt="reset Icon" height="16" src="../../../_images/icon_reset_sim.svg" width="16" /></a> 图标，将其重置为右侧显示的默认值；或使用 <em>Reset Bounds</em> 按钮同时重置两者。如果出现该图标 <a class="reference internal" href="../../../_images/icon_attention.svg"><img alt="attention icon" height="16" src="../../../_images/icon_attention.svg" width="16" /></a>，表示当前参数值超出最小或最大边界，重置该边界会导致该值被最小值或最大值覆盖。</p></li>
+</ol>
+<blockquote>
+<div><p>参数边界会影响参数滑块、调制控件和时间轴控件的范围。</p>
+</div></blockquote>
+<ol class="arabic simple" start="19">
+<li><p>垂直滚动条。可用它滚动参数列表。</p></li>
+<li><p>水平滚动条。</p></li>
+<li><p>当前软件版本。</p></li>
+</ol>
+<p>要快速跳转到参数，可以使用 <cite>Ctrl + P</cite></p>
+</section>
+<section id="project-manager">
+<h2>项目管理器<a class="headerlink" href="#project-manager" title="Permalink to this heading">#</a></h2>
+<img alt="project manager" src="../../../_images/projectManager.png" />
+<ol class="arabic simple">
+<li><p>返回当前项目的常规用户界面。</p></li>
+<li><p>最小化 EmberGen 窗口。</p></li>
+<li><p>最大化 EmberGen 窗口。</p></li>
+<li><p>关闭 EmberGen。</p></li>
+<li><p>JangaFX account。在此部分，可以前往你的 JangaFX 账号，其中存储许可证和订阅方案等内容。</p></li>
+<li><p>打开默认预设。</p></li>
+<li><p>这会打开文件浏览器，可在其中查找要打开的 <em>.ember</em> 文件。</p></li>
+<li><p>前往 Project Manager 首页，其中包含最近项目列表，便于快速继续工作；还包含三个默认预设，可作为项目的实用起点，以及最新 YouTube 视频。</p></li>
+<li><p>前往学习部分，其中包含软件内引导教程、教程视频和近期直播。</p></li>
+<li><p>前往预设列表，其中包含多种预设，可用于学习或作为效果起点。</p></li>
+</ol>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="500" height="531.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/ProjectManager.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ol class="arabic simple" start="11">
+<li><p>前往所有已打开项目的完整列表。使用下拉菜单，可以按文件名、文件创建日期或最新文件修改日期排序项目。可以 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 单击 <a class="reference internal" href="../../../_images/icon_arrow.svg"><img alt="arrow icon" height="16" src="../../../_images/icon_arrow.svg" width="16" /></a> 箭头，在升序和降序之间切换列表。也可以在搜索框中输入文件名的一部分来查找所需项目文件。</p></li>
+</ol>
+<p><em>专业提示：可以一次将大量 .ember 文件拖入 EmberGen（例如一个 preset pack），它们都会方便地出现在项目列表中。</em></p>
+<ol class="arabic simple" start="12">
+<li><p>打开 License Manager。有关许可的更多信息，请查看我们的 <a class="reference internal" href="../../../liquigen/pages/getting_started.html#licensingref"><span class="std std-ref">许可</span></a> 章节！</p></li>
+<li><p>链接到我们的 <a class="reference external" href="https://discord.com/invite/TNPjT2C">Discord 服务器</a>，你可以在那里获得帮助、反馈软件、获取 early builds，或展示你的作品。</p></li>
+<li><p>链接到我们的 <a class="reference external" href="https://forums.jangafx.com/">论坛</a>。</p></li>
+<li><p>JangaFX 社交媒体页面链接。</p></li>
+<li><p>当前软件版本。</p></li>
+<li><p>预设类别。使用这些按钮过滤特定预设类型。 <em>8BG</em> 和 <em>24GB</em> 按钮表示所需 GPU VRAM，单位为 GB。</p></li>
+<li><p>搜索字段，可输入名称或名称的一部分来查找所需预设。</p></li>
+<li><p>Preset。预设是随软件提供的只读 EmberGen 项目文件。当位于 <em>My Projects</em>（11）部分时，此列表包含你自己保存的项目文件。</p></li>
+</ol>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="settings.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>下一页</span>
+                </div>
+                <div class="title">设置</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="index.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>上一页</span>
+                </div>
+                
+                <div class="title">参考</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                版权所有 © 2026，JangaFX
+            </div>
+            使用 <a href="https://www.sphinx-doc.org/">Sphinx</a> 和 <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a> 的
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            本页内容
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">用户界面</a><ul>
+<li><a class="reference internal" href="#menubar">菜单栏</a></li>
+<li><a class="reference internal" href="#viewport">视口</a></li>
+<li><a class="reference internal" href="#node-graph">节点图</a></li>
+<li><a class="reference internal" href="#timeline-editor">时间轴编辑器</a></li>
+<li><a class="reference internal" href="#properties-panel">属性面板</a></li>
+<li><a class="reference internal" href="#project-manager">项目管理器</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/sphinx_highlight.js"></script>
+    <script src="../../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../../_static/js/ga.js"></script>
+    <script src="../../../_static/js/yall.min.js"></script>
+    <script src="../../../_static/js/loadLibraries.js"></script>
+    <script src="../../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

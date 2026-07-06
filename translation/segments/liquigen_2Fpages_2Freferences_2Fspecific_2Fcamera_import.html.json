@@ -1,0 +1,946 @@
+{
+  "path": "liquigen/pages/references/specific/camera_import.html",
+  "segment_count": 94,
+  "segments": [
+    {
+      "id": "763b986a6075",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 565,
+      "end": 602,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Camera Import - JangaFX Documentation",
+      "source_text": "Camera Import - JangaFX Documentation"
+    },
+    {
+      "id": "15327cb533ec",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 5192,
+      "end": 5215,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "f62dc27bd7a8",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 5310,
+      "end": 5340,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "cc84d1ab12a0",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 5536,
+      "end": 5566,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "8b495c1e267d",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 5757,
+      "end": 5778,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "d436f68c6f8b",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 5971,
+      "end": 6009,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "1193bf8ea7b4",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 6399,
+      "end": 6431,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "852f81f93345",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 7463,
+      "end": 7485,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "0cebc4542d7b",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 7663,
+      "end": 7695,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "a0463bf4e40f",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 7888,
+      "end": 7903,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "03343f39beec",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 8035,
+      "end": 8045,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "5c1330475df8",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 8223,
+      "end": 8255,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "3dfaf82de1b7",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 8456,
+      "end": 8470,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "2fbf7195b28a",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 8592,
+      "end": 8600,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "80843cd34132",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 8723,
+      "end": 8732,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "1870bfdf4a5b",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 8880,
+      "end": 8893,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "b44ffbc279e8",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 9071,
+      "end": 9103,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "1e052bd34b43",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 9321,
+      "end": 9334,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "c4c334913764",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 9485,
+      "end": 9504,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "c52d2f159b4e",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 9639,
+      "end": 9644,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "d8d5b7ea763a",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 9781,
+      "end": 9788,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "fad785bfab71",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 9922,
+      "end": 9926,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "bc72edb5152b",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 10072,
+      "end": 10092,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "4ad7d41603ab",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 10231,
+      "end": 10240,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "045ffcc1ab39",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 10381,
+      "end": 10393,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "03091718712b",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 10532,
+      "end": 10550,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "2145656584db",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 10696,
+      "end": 10712,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "3613e43e509c",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 10863,
+      "end": 10884,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "dbfe0d47dbaf",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 11022,
+      "end": 11030,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "2eadf3a7f32b",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 11169,
+      "end": 11179,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "fab9caf33633",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 11322,
+      "end": 11335,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "c0397bbe4494",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 11465,
+      "end": 11468,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "f60b9b0fd674",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 11583,
+      "end": 11605,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "f8b00f43558f",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 11783,
+      "end": 11815,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "2d68e72824f5",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 11987,
+      "end": 12002,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "de343eb4558e",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 12099,
+      "end": 12109,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "2c2d7fd7c608",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 12287,
+      "end": 12319,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "b9a8f065ade9",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 12485,
+      "end": 12499,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "b98686d8c9f7",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 12586,
+      "end": 12594,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "85c0f4ea00a1",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 12682,
+      "end": 12691,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "086dbe7d9d20",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 12804,
+      "end": 12817,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "1957b885a6e2",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 12995,
+      "end": 13027,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "92cfae56c5a0",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 13208,
+      "end": 13219,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "03eaf8340917",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 13335,
+      "end": 13354,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "182140ed02be",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 13454,
+      "end": 13459,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "d04412fc4f7c",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 13561,
+      "end": 13568,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "4f70130b8e1f",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 13667,
+      "end": 13671,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "691c0d62838f",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 13782,
+      "end": 13802,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "bdd06ed39d34",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 13910,
+      "end": 13923,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "522a25c04335",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 14029,
+      "end": 14041,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "c361a1d96504",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 14145,
+      "end": 14163,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "561f69b0ea3d",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 14274,
+      "end": 14290,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "29287a6031be",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 14406,
+      "end": 14427,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "88ba0ab1adf9",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 14530,
+      "end": 14538,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "ef59642f7896",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 14646,
+      "end": 14659,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "7aebe84cd814",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 14765,
+      "end": 14776,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "0e78250a1666",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 14885,
+      "end": 14888,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "b88ea94ed34d",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 15001,
+      "end": 15022,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "cc080c8e5d9a",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 15122,
+      "end": 15142,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "def81ab4d161",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 15245,
+      "end": 15267,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "d5cf24c2156e",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 15680,
+      "end": 15691,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "095c2609557f",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 15911,
+      "end": 15949,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "0779a376826c",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 16368,
+      "end": 16400,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "15d712015a25",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 16616,
+      "end": 16629,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "e9a78f939798",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 16721,
+      "end": 16793,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Cameras from external 3D packages can be imported using the import node.",
+      "source_text": "Cameras from external 3D packages can be imported using the import node."
+    },
+    {
+      "id": "80f5499a1637",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 16801,
+      "end": 16903,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "We recommend using the FBX file format for importing cameras, but it can also be done using ABC files.",
+      "source_text": "We recommend using the FBX file format for importing cameras, but it can also be done using ABC files."
+    },
+    {
+      "id": "13be019e1917",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 17235,
+      "end": 17309,
+      "line": 266,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "31556f9703b6",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 17360,
+      "end": 17415,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "Make sure you include cameras when exporting your file.",
+      "source_text": "Make sure you include cameras when exporting your file."
+    },
+    {
+      "id": "1b924f99602c",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 17432,
+      "end": 17471,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "In LiquiGen, import your FBX using the ",
+      "source_text": "In LiquiGen, import your FBX using the "
+    },
+    {
+      "id": "29bb11fdc2c6",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 17640,
+      "end": 17646,
+      "line": 272,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "1dbdd789df0f",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 17651,
+      "end": 17730,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " node. If it contains any cameras they will be exposed as an output pin on the ",
+      "source_text": " node. If it contains any cameras they will be exposed as an output pin on the "
+    },
+    {
+      "id": "bdfe5e2d1d05",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 17734,
+      "end": 17740,
+      "line": 272,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "584155d07313",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 17745,
+      "end": 17751,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "1bb9e9097fcb",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 17768,
+      "end": 17813,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "Link the camera pin on the right side of the ",
+      "source_text": "Link the camera pin on the right side of the "
+    },
+    {
+      "id": "62efb82df6bb",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 17817,
+      "end": 17823,
+      "line": 273,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "2ad58fbb645a",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 17828,
+      "end": 17841,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " node to the ",
+      "source_text": " node to the "
+    },
+    {
+      "id": "dba8ff9f52c2",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 17845,
+      "end": 17852,
+      "line": 273,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Control",
+      "source_text": "Control"
+    },
+    {
+      "id": "2cada33e6581",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 17857,
+      "end": 17867,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " pin of a ",
+      "source_text": " pin of a "
+    },
+    {
+      "id": "4a445f100b11",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 18029,
+      "end": 18035,
+      "line": 273,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "999c1425d9bb",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 18040,
+      "end": 18046,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "cda01b1eb760",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 18065,
+      "end": 18112,
+      "line": 275,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "This will add some parameters on the connected ",
+      "source_text": "This will add some parameters on the connected "
+    },
+    {
+      "id": "444eec010c2b",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 18274,
+      "end": 18280,
+      "line": 275,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "810e0f38e0d3",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 18285,
+      "end": 18291,
+      "line": 275,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "0ede95c3f7b1",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 18331,
+      "end": 18361,
+      "line": 277,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Yaw, Pitch, Roll offset angle:",
+      "source_text": "Yaw, Pitch, Roll offset angle:"
+    },
+    {
+      "id": "de4af68c09f6",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 18370,
+      "end": 18619,
+      "line": 277,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " This will offset the orientation of the camera. This offset will be added to be orientation changes coming from the import node. This can be useful when the imported camera has the wrong orientation for some reason. (this can happen with abc files)",
+      "source_text": " This will offset the orientation of the camera. This offset will be added to be orientation changes coming from the import node. This can be useful when the imported camera has the wrong orientation for some reason. (this can happen with abc files)"
+    },
+    {
+      "id": "d2c63cee3a55",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 18644,
+      "end": 18667,
+      "line": 278,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Custom clipping planes:",
+      "source_text": "Custom clipping planes:"
+    },
+    {
+      "id": "14ff0a75b1e2",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 18676,
+      "end": 18969,
+      "line": 278,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " When checked on, the clipping planes are set by the parameters below. When checked off, the clipping planes are based on the imported file. The clipping planes dictate the range of distances from the camera to be rendered. If something is outside of the clipping planes, it won’t be rendered.",
+      "source_text": " When checked on, the clipping planes are set by the parameters below. When checked off, the clipping planes are based on the imported file. The clipping planes dictate the range of distances from the camera to be rendered. If something is outside of the clipping planes, it won’t be rendered."
+    },
+    {
+      "id": "c17958051656",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 19235,
+      "end": 19295,
+      "line": 292,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "6bb780b1289c",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 19301,
+      "end": 19324,
+      "line": 294,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "cba3bdd16515",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 19362,
+      "end": 19368,
+      "line": 295,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "e53d7b8f241d",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 19372,
+      "end": 19377,
+      "line": 295,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "5ebd7e97fdf0",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 19427,
+      "end": 19437,
+      "line": 295,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "1833909fe237",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 19441,
+      "end": 19469,
+      "line": 295,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "3062d6e314e9",
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "start": 19513,
+      "end": 19517,
+      "line": 297,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

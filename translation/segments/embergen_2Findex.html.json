@@ -1,0 +1,1086 @@
+{
+  "path": "embergen/index.html",
+  "segment_count": 108,
+  "segments": [
+    {
+      "id": "fb5b9e800f6b",
+      "path": "embergen/index.html",
+      "start": 671,
+      "end": 717,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "EmberGen Documentation - JangaFX Documentation",
+      "source_text": "EmberGen Documentation - JangaFX Documentation"
+    },
+    {
+      "id": "ed0d0f488a0f",
+      "path": "embergen/index.html",
+      "start": 5271,
+      "end": 5294,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "da0b2c11eb6e",
+      "path": "embergen/index.html",
+      "start": 5389,
+      "end": 5419,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "b703d94811a9",
+      "path": "embergen/index.html",
+      "start": 5615,
+      "end": 5645,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "ec6e42606681",
+      "path": "embergen/index.html",
+      "start": 5827,
+      "end": 5848,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "e306551f25c2",
+      "path": "embergen/index.html",
+      "start": 6041,
+      "end": 6079,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "7d0618ab61ee",
+      "path": "embergen/index.html",
+      "start": 6462,
+      "end": 6494,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "0ac2025d010a",
+      "path": "embergen/index.html",
+      "start": 7505,
+      "end": 7527,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "a3120051af7b",
+      "path": "embergen/index.html",
+      "start": 7716,
+      "end": 7748,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "3433aa144818",
+      "path": "embergen/index.html",
+      "start": 7920,
+      "end": 7935,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "352fdf8eb6fb",
+      "path": "embergen/index.html",
+      "start": 8046,
+      "end": 8056,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "1b8cc3388b0b",
+      "path": "embergen/index.html",
+      "start": 8234,
+      "end": 8266,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "14842a723323",
+      "path": "embergen/index.html",
+      "start": 8446,
+      "end": 8460,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "b55893279a51",
+      "path": "embergen/index.html",
+      "start": 8561,
+      "end": 8569,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "3a3ab4c4792c",
+      "path": "embergen/index.html",
+      "start": 8671,
+      "end": 8680,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "e6af607b9a2d",
+      "path": "embergen/index.html",
+      "start": 8807,
+      "end": 8820,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "5818ef8ff111",
+      "path": "embergen/index.html",
+      "start": 8998,
+      "end": 9030,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "ba6cef274efc",
+      "path": "embergen/index.html",
+      "start": 9227,
+      "end": 9240,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "b683ecea850e",
+      "path": "embergen/index.html",
+      "start": 9370,
+      "end": 9389,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "d8cfef83ac5d",
+      "path": "embergen/index.html",
+      "start": 9503,
+      "end": 9508,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "f3a3331f2927",
+      "path": "embergen/index.html",
+      "start": 9624,
+      "end": 9631,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "e28f755b8fc8",
+      "path": "embergen/index.html",
+      "start": 9744,
+      "end": 9748,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "2c7fb4e95c91",
+      "path": "embergen/index.html",
+      "start": 9873,
+      "end": 9893,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "8caf0fc37a0c",
+      "path": "embergen/index.html",
+      "start": 10011,
+      "end": 10020,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "3652ec1eeb15",
+      "path": "embergen/index.html",
+      "start": 10140,
+      "end": 10152,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "2ab22d50b297",
+      "path": "embergen/index.html",
+      "start": 10270,
+      "end": 10288,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "8e4aecb8c05d",
+      "path": "embergen/index.html",
+      "start": 10413,
+      "end": 10429,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "528dd831a515",
+      "path": "embergen/index.html",
+      "start": 10559,
+      "end": 10580,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "fe00a04f973b",
+      "path": "embergen/index.html",
+      "start": 10697,
+      "end": 10705,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "0678910bd0d9",
+      "path": "embergen/index.html",
+      "start": 10823,
+      "end": 10833,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "19923fc0c0e8",
+      "path": "embergen/index.html",
+      "start": 10955,
+      "end": 10968,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "8d1f1dc78f54",
+      "path": "embergen/index.html",
+      "start": 11077,
+      "end": 11080,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "dccf4b0097b1",
+      "path": "embergen/index.html",
+      "start": 11198,
+      "end": 11220,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "e113c90340f9",
+      "path": "embergen/index.html",
+      "start": 11398,
+      "end": 11430,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "76a8519921f3",
+      "path": "embergen/index.html",
+      "start": 11614,
+      "end": 11629,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "2ce8aaf90723",
+      "path": "embergen/index.html",
+      "start": 11752,
+      "end": 11762,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "40d0f2aab159",
+      "path": "embergen/index.html",
+      "start": 11940,
+      "end": 11972,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "a39b4f9e344e",
+      "path": "embergen/index.html",
+      "start": 12164,
+      "end": 12178,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "9e25cc8b8b3c",
+      "path": "embergen/index.html",
+      "start": 12291,
+      "end": 12299,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "c5f59a562b93",
+      "path": "embergen/index.html",
+      "start": 12413,
+      "end": 12422,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "7eae746ca853",
+      "path": "embergen/index.html",
+      "start": 12561,
+      "end": 12574,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "7e0d7eaa2f35",
+      "path": "embergen/index.html",
+      "start": 12752,
+      "end": 12784,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "d08c65c55d66",
+      "path": "embergen/index.html",
+      "start": 12991,
+      "end": 13002,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "ee1ea9232d2e",
+      "path": "embergen/index.html",
+      "start": 13144,
+      "end": 13163,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "432432d28449",
+      "path": "embergen/index.html",
+      "start": 13289,
+      "end": 13294,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "15d1bd5083c2",
+      "path": "embergen/index.html",
+      "start": 13422,
+      "end": 13429,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "fdec62fa8a27",
+      "path": "embergen/index.html",
+      "start": 13554,
+      "end": 13558,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "a805e0aabef2",
+      "path": "embergen/index.html",
+      "start": 13695,
+      "end": 13715,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "3f9c9e7c1e34",
+      "path": "embergen/index.html",
+      "start": 13849,
+      "end": 13862,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "ccd023fd9037",
+      "path": "embergen/index.html",
+      "start": 13994,
+      "end": 14006,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "ea883f6f9e15",
+      "path": "embergen/index.html",
+      "start": 14136,
+      "end": 14154,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "5e1d4c257c32",
+      "path": "embergen/index.html",
+      "start": 14291,
+      "end": 14307,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "24f337616c06",
+      "path": "embergen/index.html",
+      "start": 14449,
+      "end": 14470,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "bcb9f7ca85ef",
+      "path": "embergen/index.html",
+      "start": 14599,
+      "end": 14607,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "5bbaa5709945",
+      "path": "embergen/index.html",
+      "start": 14741,
+      "end": 14754,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "d3e73018e6cf",
+      "path": "embergen/index.html",
+      "start": 14886,
+      "end": 14897,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "2e78deaa80e3",
+      "path": "embergen/index.html",
+      "start": 15018,
+      "end": 15021,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "b62578601689",
+      "path": "embergen/index.html",
+      "start": 15125,
+      "end": 15146,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "aa8f3a764aba",
+      "path": "embergen/index.html",
+      "start": 15237,
+      "end": 15257,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "f67907e23ac5",
+      "path": "embergen/index.html",
+      "start": 15351,
+      "end": 15373,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "e817633b096b",
+      "path": "embergen/index.html",
+      "start": 15786,
+      "end": 15797,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "356d3b2617ca",
+      "path": "embergen/index.html",
+      "start": 16017,
+      "end": 16055,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "06e81a25b177",
+      "path": "embergen/index.html",
+      "start": 16467,
+      "end": 16499,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "546793287b17",
+      "path": "embergen/index.html",
+      "start": 16720,
+      "end": 16742,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "600fd9ed18dc",
+      "path": "embergen/index.html",
+      "start": 16872,
+      "end": 16884,
+      "line": 258,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Introduction",
+      "source_text": "Introduction"
+    },
+    {
+      "id": "64c281b10e3e",
+      "path": "embergen/index.html",
+      "start": 16975,
+      "end": 17013,
+      "line": 259,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Welcome to the Embergen documentation!",
+      "source_text": "Welcome to the Embergen documentation!"
+    },
+    {
+      "id": "2993d2d40785",
+      "path": "embergen/index.html",
+      "start": 17021,
+      "end": 17089,
+      "line": 260,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Everything you want to know about the software should be found here.",
+      "source_text": "Everything you want to know about the software should be found here."
+    },
+    {
+      "id": "ba8308452895",
+      "path": "embergen/index.html",
+      "start": 17097,
+      "end": 17168,
+      "line": 261,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Here are some useful links for if you still have questions or problems:",
+      "source_text": "Here are some useful links for if you still have questions or problems:"
+    },
+    {
+      "id": "4a8728b5db39",
+      "path": "embergen/index.html",
+      "start": 17264,
+      "end": 17271,
+      "line": 263,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "Discord",
+      "source_text": "Discord"
+    },
+    {
+      "id": "1981d19eb77c",
+      "path": "embergen/index.html",
+      "start": 17275,
+      "end": 17355,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ": Chat with other users, leave feedback, get the latest announcements, and more!",
+      "source_text": ": Chat with other users, leave feedback, get the latest announcements, and more!"
+    },
+    {
+      "id": "9db583ef5d91",
+      "path": "embergen/index.html",
+      "start": 17454,
+      "end": 17467,
+      "line": 264,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "Email Support",
+      "source_text": "Email Support"
+    },
+    {
+      "id": "91d4e68f2762",
+      "path": "embergen/index.html",
+      "start": 17553,
+      "end": 17559,
+      "line": 265,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "Forums",
+      "source_text": "Forums"
+    },
+    {
+      "id": "a76034be4159",
+      "path": "embergen/index.html",
+      "start": 17684,
+      "end": 17691,
+      "line": 266,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "Youtube",
+      "source_text": "Youtube"
+    },
+    {
+      "id": "70483e3dd016",
+      "path": "embergen/index.html",
+      "start": 17695,
+      "end": 17735,
+      "line": 266,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ": Tutorials and Livestreams for EmberGen",
+      "source_text": ": Tutorials and Livestreams for EmberGen"
+    },
+    {
+      "id": "c1654f8a973f",
+      "path": "embergen/index.html",
+      "start": 17817,
+      "end": 17833,
+      "line": 267,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "EmberGen Roadmap",
+      "source_text": "EmberGen Roadmap"
+    },
+    {
+      "id": "eafc52234884",
+      "path": "embergen/index.html",
+      "start": 17837,
+      "end": 17895,
+      "line": 267,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ": See what features are planned for the future of EmberGen",
+      "source_text": ": See what features are planned for the future of EmberGen"
+    },
+    {
+      "id": "4081ba125a90",
+      "path": "embergen/index.html",
+      "start": 17983,
+      "end": 18000,
+      "line": 272,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Table Of Contents",
+      "source_text": "Table Of Contents"
+    },
+    {
+      "id": "cb568c4350bf",
+      "path": "embergen/index.html",
+      "start": 18224,
+      "end": 18239,
+      "line": 275,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "5a6e392bfaf8",
+      "path": "embergen/index.html",
+      "start": 18355,
+      "end": 18374,
+      "line": 276,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Installing EmberGen",
+      "source_text": "Installing EmberGen"
+    },
+    {
+      "id": "4fd77149c760",
+      "path": "embergen/index.html",
+      "start": 18481,
+      "end": 18490,
+      "line": 277,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Licensing",
+      "source_text": "Licensing"
+    },
+    {
+      "id": "82e436609d01",
+      "path": "embergen/index.html",
+      "start": 18602,
+      "end": 18616,
+      "line": 278,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Using Embergen",
+      "source_text": "Using Embergen"
+    },
+    {
+      "id": "af97b9b48a60",
+      "path": "embergen/index.html",
+      "start": 18726,
+      "end": 18736,
+      "line": 281,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "910918d8f84c",
+      "path": "embergen/index.html",
+      "start": 18840,
+      "end": 18854,
+      "line": 282,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "a77a677a9e05",
+      "path": "embergen/index.html",
+      "start": 18955,
+      "end": 18963,
+      "line": 283,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "092c2c3d4f05",
+      "path": "embergen/index.html",
+      "start": 19065,
+      "end": 19074,
+      "line": 284,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "07b0f74fde29",
+      "path": "embergen/index.html",
+      "start": 19188,
+      "end": 19201,
+      "line": 285,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "83ab829ddd2a",
+      "path": "embergen/index.html",
+      "start": 19298,
+      "end": 19301,
+      "line": 288,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "93109c5b4f44",
+      "path": "embergen/index.html",
+      "start": 19428,
+      "end": 19471,
+      "line": 289,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How to export a flipbook or image sequence?",
+      "source_text": "How to export a flipbook or image sequence?"
+    },
+    {
+      "id": "1ae6c460afa4",
+      "path": "embergen/index.html",
+      "start": 19579,
+      "end": 19602,
+      "line": 290,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How do I add keyframes?",
+      "source_text": "How do I add keyframes?"
+    },
+    {
+      "id": "3ea8b61967d5",
+      "path": "embergen/index.html",
+      "start": 19715,
+      "end": 19743,
+      "line": 291,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How to export openVDB files?",
+      "source_text": "How to export openVDB files?"
+    },
+    {
+      "id": "38549815130b",
+      "path": "embergen/index.html",
+      "start": 19858,
+      "end": 19888,
+      "line": 292,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How can I import my animation?",
+      "source_text": "How can I import my animation?"
+    },
+    {
+      "id": "573b299b7aff",
+      "path": "embergen/index.html",
+      "start": 19999,
+      "end": 20025,
+      "line": 293,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How do I import my camera?",
+      "source_text": "How do I import my camera?"
+    },
+    {
+      "id": "258dc4992837",
+      "path": "embergen/index.html",
+      "start": 20164,
+      "end": 20218,
+      "line": 294,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "The timeline of my imported animation doesn’t line up.",
+      "source_text": "The timeline of my imported animation doesn’t line up."
+    },
+    {
+      "id": "9d2faea6aaca",
+      "path": "embergen/index.html",
+      "start": 20534,
+      "end": 20538,
+      "line": 310,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "78a0ef7e9b43",
+      "path": "embergen/index.html",
+      "start": 20604,
+      "end": 20619,
+      "line": 312,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "da5379450031",
+      "path": "embergen/index.html",
+      "start": 20991,
+      "end": 20999,
+      "line": 320,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "3aa1ffe833ce",
+      "path": "embergen/index.html",
+      "start": 21082,
+      "end": 21086,
+      "line": 323,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Home",
+      "source_text": "Home"
+    },
+    {
+      "id": "810ad9bd1eda",
+      "path": "embergen/index.html",
+      "start": 21272,
+      "end": 21332,
+      "line": 330,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "c42600128a60",
+      "path": "embergen/index.html",
+      "start": 21338,
+      "end": 21361,
+      "line": 332,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "68bc39dcbbab",
+      "path": "embergen/index.html",
+      "start": 21399,
+      "end": 21405,
+      "line": 333,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "0918b28224d1",
+      "path": "embergen/index.html",
+      "start": 21409,
+      "end": 21414,
+      "line": 333,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "0b6ceb386c21",
+      "path": "embergen/index.html",
+      "start": 21464,
+      "end": 21474,
+      "line": 333,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "ce40f1db24dd",
+      "path": "embergen/index.html",
+      "start": 21478,
+      "end": 21506,
+      "line": 333,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "87c037e7924f",
+      "path": "embergen/index.html",
+      "start": 21550,
+      "end": 21554,
+      "line": 335,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "f6d45af7810f",
+      "path": "embergen/index.html",
+      "start": 21871,
+      "end": 21907,
+      "line": 350,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "0212179e177d",
+      "path": "embergen/index.html",
+      "start": 22064,
+      "end": 22086,
+      "line": 357,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "7e805b1616cf",
+      "path": "embergen/index.html",
+      "start": 22150,
+      "end": 22162,
+      "line": 358,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Introduction",
+      "source_text": "Introduction"
+    },
+    {
+      "id": "de7ffd9014ab",
+      "path": "embergen/index.html",
+      "start": 22232,
+      "end": 22249,
+      "line": 359,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Table Of Contents",
+      "source_text": "Table Of Contents"
+    }
+  ]
+}

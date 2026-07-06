@@ -1,0 +1,716 @@
+{
+  "path": "genindex.html",
+  "segment_count": 71,
+  "segments": [
+    {
+      "id": "84211e77e589",
+      "path": "genindex.html",
+      "start": 424,
+      "end": 453,
+      "line": 7,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Index - JangaFX Documentation",
+      "source_text": "Index - JangaFX Documentation"
+    },
+    {
+      "id": "d93230a14df8",
+      "path": "genindex.html",
+      "start": 4989,
+      "end": 5012,
+      "line": 108,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "66485b9b4658",
+      "path": "genindex.html",
+      "start": 5107,
+      "end": 5137,
+      "line": 111,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "532e36cfbf71",
+      "path": "genindex.html",
+      "start": 5333,
+      "end": 5363,
+      "line": 120,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "6c190dc82295",
+      "path": "genindex.html",
+      "start": 5542,
+      "end": 5563,
+      "line": 125,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "052da71de1e1",
+      "path": "genindex.html",
+      "start": 5756,
+      "end": 5794,
+      "line": 130,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "4494a5a1624f",
+      "path": "genindex.html",
+      "start": 6184,
+      "end": 6216,
+      "line": 137,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "9c428c2cc169",
+      "path": "genindex.html",
+      "start": 7188,
+      "end": 7210,
+      "line": 160,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "7d58fb23b36c",
+      "path": "genindex.html",
+      "start": 7388,
+      "end": 7420,
+      "line": 160,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "f02ef72578a0",
+      "path": "genindex.html",
+      "start": 7601,
+      "end": 7616,
+      "line": 161,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "d158c6b819c1",
+      "path": "genindex.html",
+      "start": 7736,
+      "end": 7746,
+      "line": 162,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "45edbb6531e8",
+      "path": "genindex.html",
+      "start": 7924,
+      "end": 7956,
+      "line": 162,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "2d0f5d42a07e",
+      "path": "genindex.html",
+      "start": 8145,
+      "end": 8159,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "c6ed8b974403",
+      "path": "genindex.html",
+      "start": 8269,
+      "end": 8277,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "123f95a8e191",
+      "path": "genindex.html",
+      "start": 8388,
+      "end": 8397,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "a54509024abc",
+      "path": "genindex.html",
+      "start": 8533,
+      "end": 8546,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "eefefe837a5c",
+      "path": "genindex.html",
+      "start": 8724,
+      "end": 8756,
+      "line": 166,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "19af34d1af93",
+      "path": "genindex.html",
+      "start": 8962,
+      "end": 8975,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "ae2a084f3ca8",
+      "path": "genindex.html",
+      "start": 9114,
+      "end": 9133,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "17bac5cb98d7",
+      "path": "genindex.html",
+      "start": 9256,
+      "end": 9261,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "8bebc85cf809",
+      "path": "genindex.html",
+      "start": 9386,
+      "end": 9393,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "36a9ed4c3bde",
+      "path": "genindex.html",
+      "start": 9515,
+      "end": 9519,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "f1efc0d327a0",
+      "path": "genindex.html",
+      "start": 9653,
+      "end": 9673,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "de54cda173ff",
+      "path": "genindex.html",
+      "start": 9800,
+      "end": 9809,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "8d4c8c773f36",
+      "path": "genindex.html",
+      "start": 9938,
+      "end": 9950,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "c98c379ebc9a",
+      "path": "genindex.html",
+      "start": 10077,
+      "end": 10095,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "264c8d8b2cf3",
+      "path": "genindex.html",
+      "start": 10229,
+      "end": 10245,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "1376a4726e49",
+      "path": "genindex.html",
+      "start": 10384,
+      "end": 10405,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "418900942dda",
+      "path": "genindex.html",
+      "start": 10531,
+      "end": 10539,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "99064d3f31ea",
+      "path": "genindex.html",
+      "start": 10666,
+      "end": 10676,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "3ff97022596d",
+      "path": "genindex.html",
+      "start": 10807,
+      "end": 10820,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "1be75ee18fd9",
+      "path": "genindex.html",
+      "start": 10938,
+      "end": 10941,
+      "line": 185,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "857655356337",
+      "path": "genindex.html",
+      "start": 11056,
+      "end": 11078,
+      "line": 188,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "a5f92d49b814",
+      "path": "genindex.html",
+      "start": 11256,
+      "end": 11288,
+      "line": 188,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "ad00e9dea9f2",
+      "path": "genindex.html",
+      "start": 11469,
+      "end": 11484,
+      "line": 189,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "cbd7aa0b9b18",
+      "path": "genindex.html",
+      "start": 11604,
+      "end": 11614,
+      "line": 190,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "4ee92ca1771f",
+      "path": "genindex.html",
+      "start": 11792,
+      "end": 11824,
+      "line": 190,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "456165bb4f52",
+      "path": "genindex.html",
+      "start": 12013,
+      "end": 12027,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "ba25589bb66c",
+      "path": "genindex.html",
+      "start": 12137,
+      "end": 12145,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "f2d68a282dfd",
+      "path": "genindex.html",
+      "start": 12256,
+      "end": 12265,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "cf72a01ac474",
+      "path": "genindex.html",
+      "start": 12401,
+      "end": 12414,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "a003fb846214",
+      "path": "genindex.html",
+      "start": 12592,
+      "end": 12624,
+      "line": 194,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "c56161de7461",
+      "path": "genindex.html",
+      "start": 12828,
+      "end": 12839,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "8baf362bed2d",
+      "path": "genindex.html",
+      "start": 12978,
+      "end": 12997,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "475b0842723f",
+      "path": "genindex.html",
+      "start": 13120,
+      "end": 13125,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "299d6c74f598",
+      "path": "genindex.html",
+      "start": 13250,
+      "end": 13257,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "b8cd7e28a729",
+      "path": "genindex.html",
+      "start": 13379,
+      "end": 13383,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "878119cc187f",
+      "path": "genindex.html",
+      "start": 13517,
+      "end": 13537,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "e2c2b6024f0e",
+      "path": "genindex.html",
+      "start": 13668,
+      "end": 13681,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "d6b5516589ad",
+      "path": "genindex.html",
+      "start": 13810,
+      "end": 13822,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "52c4c98673a1",
+      "path": "genindex.html",
+      "start": 13949,
+      "end": 13967,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "262b05fbc2cd",
+      "path": "genindex.html",
+      "start": 14101,
+      "end": 14117,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "4b6be358ee8a",
+      "path": "genindex.html",
+      "start": 14256,
+      "end": 14277,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "b9faedc337f2",
+      "path": "genindex.html",
+      "start": 14403,
+      "end": 14411,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "05dd8f026230",
+      "path": "genindex.html",
+      "start": 14542,
+      "end": 14555,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "ab53eaef9df0",
+      "path": "genindex.html",
+      "start": 14684,
+      "end": 14695,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "ecd0d97b3db2",
+      "path": "genindex.html",
+      "start": 14813,
+      "end": 14816,
+      "line": 213,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "5cde6faa78a7",
+      "path": "genindex.html",
+      "start": 14917,
+      "end": 14938,
+      "line": 216,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "ae6d6aa52e27",
+      "path": "genindex.html",
+      "start": 15026,
+      "end": 15046,
+      "line": 217,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "fbc007254807",
+      "path": "genindex.html",
+      "start": 15137,
+      "end": 15159,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "07d6d8b306cb",
+      "path": "genindex.html",
+      "start": 15572,
+      "end": 15583,
+      "line": 235,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "2ccfbf01df52",
+      "path": "genindex.html",
+      "start": 15802,
+      "end": 15840,
+      "line": 240,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "6fa20be63ef3",
+      "path": "genindex.html",
+      "start": 16259,
+      "end": 16291,
+      "line": 247,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "74b3f990689d",
+      "path": "genindex.html",
+      "start": 16496,
+      "end": 16501,
+      "line": 254,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Index",
+      "source_text": "Index"
+    },
+    {
+      "id": "acc01e257469",
+      "path": "genindex.html",
+      "start": 16796,
+      "end": 16856,
+      "line": 268,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "d33e34e17363",
+      "path": "genindex.html",
+      "start": 16862,
+      "end": 16885,
+      "line": 270,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "63319c2c2418",
+      "path": "genindex.html",
+      "start": 16923,
+      "end": 16929,
+      "line": 271,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "ecf1fe04103f",
+      "path": "genindex.html",
+      "start": 16933,
+      "end": 16938,
+      "line": 271,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "d076cf4f117c",
+      "path": "genindex.html",
+      "start": 16988,
+      "end": 16998,
+      "line": 271,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "eba77a4c94c6",
+      "path": "genindex.html",
+      "start": 17002,
+      "end": 17030,
+      "line": 271,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "e559759635f0",
+      "path": "genindex.html",
+      "start": 17074,
+      "end": 17078,
+      "line": 273,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

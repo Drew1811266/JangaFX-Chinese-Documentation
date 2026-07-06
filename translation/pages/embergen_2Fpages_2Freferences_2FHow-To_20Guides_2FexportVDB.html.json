@@ -1,0 +1,871 @@
+{
+  "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "017eda5a6a7e",
+      "source": "VDB Export - JangaFX Documentation",
+      "target": "VDB 导出 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "ad0930ea2130",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "273d1c3f77aa",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "b91e8243c71f",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "3938ef5dda39",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "ba248abd4f12",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "14db0306f989",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "421a7db66990",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "0dde3968c42c",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "401431bc4451",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "bfa4b75ec58d",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "35e7fc8d31e0",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "92e87eadb409",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "0a729f184ed1",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "7a3e65ad2f14",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "930ef37ddf7b",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "7857d7bfb9f4",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "0ba36bf7e878",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "9b171b608b80",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "5393390fea9a",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "31b1125b181c",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "82c0dd8aeba7",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "8289fe4105a9",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "f5efbf22b16c",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "b82e2e95cf91",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "2c9fd39196a2",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "872c6fe780af",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "64edc3aecc80",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "b07a62cf9208",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "2b707644e9c2",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "5c02ee256fce",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "845165856802",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "5da4df0f1237",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "d5bcaff5bdf2",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "4c60a2a7f775",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "a318bc7ed253",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "d1e19c6b1f47",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "9bad64187e8e",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "5c4f5884b2e0",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "752c7cdc02d8",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "cc5bcd9e011f",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "17fe21342c99",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "672f516341b2",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "ae22ff143d36",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "e77f7d413eac",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "d56f366ea587",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "0e90fb43fd13",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "9ddf34db954e",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "f590f5e8888d",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "6fdf7c563530",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "e837681abb77",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "18aa0c50b1e8",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "804b93731f68",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "5d7ad8c67e91",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "f3cea45d86e6",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "cfe78ac9cc3b",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "0f6c1db080b0",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "a3fbae16c9fa",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "9e6978926ed8",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "52e01b45d7de",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "e83e5fab5e6b",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "a467af77f894",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "af24dd9e3d44",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "583fa317721f",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "5148c047cb56",
+      "source": "If you want to render your simulation in a different software you can export it to VDB.",
+      "target": "如果想在其他软件中渲染模拟，可以将其导出为 VDB。",
+      "note": ""
+    },
+    {
+      "id": "9320eea08450",
+      "source": "This format can be read by other software like Maya or Blender.",
+      "target": "这种格式可以被 Maya 或 Blender 等其他软件读取。",
+      "note": ""
+    },
+    {
+      "id": "570d75beec2d",
+      "source": "In Embergen VDBs are exported using the ",
+      "target": "在 EmberGen 中，VDB 使用 ",
+      "note": ""
+    },
+    {
+      "id": "182e85bb90a1",
+      "source": "Export: VDB",
+      "target": "Export: VDB",
+      "note": ""
+    },
+    {
+      "id": "dd0977db1a23",
+      "source": " node.",
+      "target": " 节点导出。",
+      "note": ""
+    },
+    {
+      "id": "68758a6e75cf",
+      "source": "This Node can be connected to the ",
+      "target": "此节点可以连接到 Volume（体积）节点的 ",
+      "note": ""
+    },
+    {
+      "id": "9f5537e07302",
+      "source": "VDB",
+      "target": "VDB",
+      "note": "translation memory"
+    },
+    {
+      "id": "849b8bbe84db",
+      "source": " output pin of the Volume node.\n.. _vdb:",
+      "target": " 输出引脚。",
+      "note": ""
+    },
+    {
+      "id": "74e181d1edef",
+      "source": "This means that all the changes to the volume made in the ",
+      "target": "这意味着在 ",
+      "note": ""
+    },
+    {
+      "id": "2cf4b51652a4",
+      "source": "Volume Processing",
+      "target": "Volume Processing（体积处理）",
+      "note": ""
+    },
+    {
+      "id": "dd22697e36a6",
+      "source": " node, like sharpening or Post Modulation will be in the VDB file. Other things that are computed in a later stage like shading and lighting are not stored in the VDB file.",
+      "target": " 节点中对体积做出的所有更改，例如锐化或 Post Modulation，都会包含在 VDB 文件中。着色和灯光等在后续阶段计算的其他内容不会存储在 VDB 文件中。",
+      "note": ""
+    },
+    {
+      "id": "750832e7c548",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "9e423f584af9",
+      "source": "Transform",
+      "target": "Transform",
+      "note": ""
+    },
+    {
+      "id": "9d738aa9475b",
+      "source": " input pin can be connected to the ",
+      "target": "”输入引脚可以连接到 ",
+      "note": ""
+    },
+    {
+      "id": "af95a7e1e70c",
+      "source": "Transform",
+      "target": "Transform",
+      "note": ""
+    },
+    {
+      "id": "e56cfdb07537",
+      "source": " output pin of an ",
+      "target": " 输出引脚，该输出引脚位于 ",
+      "note": ""
+    },
+    {
+      "id": "f449bc95f2b8",
+      "source": "Import",
+      "target": "Import",
+      "note": ""
+    },
+    {
+      "id": "acc36066d6cc",
+      "source": " node. This will apply the inverted transform applied on the ",
+      "target": " 节点上。这会将 ",
+      "note": ""
+    },
+    {
+      "id": "e819ee6c842d",
+      "source": "Import",
+      "target": "Import",
+      "note": ""
+    },
+    {
+      "id": "fed47b4d5f3d",
+      "source": " node to the VDB grids. This is useful when you want to align your VDB in the application where you exported the imported meshes from.",
+      "target": " 节点上的反向变换应用到 VDB 网格。当你想在导出导入网格的应用程序中对齐 VDB 时，这会很有用。",
+      "note": ""
+    },
+    {
+      "id": "4b7d7ec58924",
+      "source": " Export: VDB node:",
+      "target": " Export: VDB 节点：",
+      "note": ""
+    },
+    {
+      "id": "a064d271a49c",
+      "source": "In the ",
+      "target": "在 ",
+      "note": ""
+    },
+    {
+      "id": "5982ff276df2",
+      "source": "Export",
+      "target": "Export",
+      "note": ""
+    },
+    {
+      "id": "1a65c9179d03",
+      "source": " tab, you can set your file name ",
+      "target": " 选项卡中，可以设置文件名 ",
+      "note": ""
+    },
+    {
+      "id": "42a939bbac18",
+      "source": "and",
+      "target": "和",
+      "note": ""
+    },
+    {
+      "id": "7167cf8077c3",
+      "source": " location with the ",
+      "target": " 位置，使用 ",
+      "note": ""
+    },
+    {
+      "id": "a8f560cb1f4c",
+      "source": "Directory",
+      "target": "Directory",
+      "note": ""
+    },
+    {
+      "id": "0381d2b59173",
+      "source": " parameter.",
+      "target": " 参数。",
+      "note": ""
+    },
+    {
+      "id": "cc1b53980725",
+      "source": "To specify the range you want to export you can use the ",
+      "target": "要指定导出范围，可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "af42c640a8d8",
+      "source": "First Frame",
+      "target": "First Frame",
+      "note": ""
+    },
+    {
+      "id": "1cfc501c2bd7",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "27576de61660",
+      "source": "Num Frames",
+      "target": "Num Frames",
+      "note": ""
+    },
+    {
+      "id": "a2a5cc17e732",
+      "source": " parameters. For example, if you want to export frames 230 to 450 you set ",
+      "target": " 参数。例如，如果要导出第 230 帧到第 450 帧，请将 ",
+      "note": ""
+    },
+    {
+      "id": "fe745adb7ebb",
+      "source": "First Frame",
+      "target": "First Frame",
+      "note": ""
+    },
+    {
+      "id": "14c91357ff3b",
+      "source": " to 230 and ",
+      "target": " 设为 230，并将 ",
+      "note": ""
+    },
+    {
+      "id": "7ad2cefae5a6",
+      "source": "Num Frames",
+      "target": "Num Frames",
+      "note": ""
+    },
+    {
+      "id": "703aad8e0e07",
+      "source": " to 220 (450-230).",
+      "target": " 设为 220（450-230）。",
+      "note": ""
+    },
+    {
+      "id": "a84b9d770046",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "7f6c8d027d3c",
+      "source": "Export: VDB",
+      "target": "Export: VDB",
+      "note": ""
+    },
+    {
+      "id": "3e6dddefa0b0",
+      "source": " nodes are also represented in the ",
+      "target": "”节点也会显示在时间轴编辑器（",
+      "note": ""
+    },
+    {
+      "id": "9d619a5102a5",
+      "source": "Timeline Editor",
+      "target": "Timeline Editor（时间轴编辑器）",
+      "note": ""
+    },
+    {
+      "id": "986607a72f2f",
+      "source": ", here you can visually see what part of your timeline will be exported by looking at the blue bar.",
+      "target": "）中，你可以通过蓝色条直观看到时间轴中的哪一部分会被导出。",
+      "note": ""
+    },
+    {
+      "id": "3beba7600991",
+      "source": "In the Controls tab, you can specify the channels you want to be exported. By default, only Density and Flames are checked since these two channels are usually sufficient for rendering the effect.",
+      "target": "在 Controls（控制）选项卡中，可以指定要导出的通道。默认情况下只勾选 Density（密度）和 Flames（火焰），因为这两个通道通常足以渲染效果。",
+      "note": ""
+    },
+    {
+      "id": "522dcc60d3a7",
+      "source": "Coordinate System",
+      "target": "Coordinate System",
+      "note": ""
+    },
+    {
+      "id": "0b9ce142abb7",
+      "source": " is where you specify the coordinate system of the 3d package you are exporting to. For example, when using Blender you should leave this at ",
+      "target": " 用于指定要导出到的 3D 软件包的坐标系。例如，使用 Blender 时应保持为 ",
+      "note": ""
+    },
+    {
+      "id": "7f5fa1e49367",
+      "source": "Z Up Right Handed",
+      "target": "Z Up Right Handed",
+      "note": ""
+    },
+    {
+      "id": "e66f94ced5fb",
+      "source": " and when using Maya you should set this to ",
+      "target": "，使用 Maya 时应设置为 ",
+      "note": ""
+    },
+    {
+      "id": "1946f314c603",
+      "source": "Y Up Right Handed",
+      "target": "Y Up Right Handed",
+      "note": ""
+    },
+    {
+      "id": "0512274fa961",
+      "source": "Length Unit",
+      "target": "Length Unit",
+      "note": ""
+    },
+    {
+      "id": "06a9fe704041",
+      "source": " is where you specify the length unit the 3d package you are exporting to is using.",
+      "target": " 用于指定要导出到的 3D 软件包所使用的长度单位。",
+      "note": ""
+    },
+    {
+      "id": "e2412cec3f71",
+      "source": "Use the ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "0243c6c0ef3e",
+      "source": "Export Now",
+      "target": "Export Now",
+      "note": ""
+    },
+    {
+      "id": "acf52e6829d7",
+      "source": " button to export your simulation to VDB!",
+      "target": " 按钮将模拟导出为 VDB！",
+      "note": ""
+    },
+    {
+      "id": "6c21e5f19caa",
+      "source": "You can Export from multiple Export VDB nodes at once by selecting all of them and clicking on ",
+      "target": "可以选择多个 Export VDB 节点并单击 ",
+      "note": ""
+    },
+    {
+      "id": "8b03fa1bc04f",
+      "source": "Export All",
+      "target": "Export All",
+      "note": ""
+    },
+    {
+      "id": "df9ec7b07760",
+      "source": " from the right-click menu.",
+      "target": "（位于右键菜单中），一次从多个 Export VDB 节点导出。",
+      "note": ""
+    },
+    {
+      "id": "63393ed09634",
+      "source": "Shader Setup",
+      "target": "着色器设置",
+      "note": ""
+    },
+    {
+      "id": "677560d9a129",
+      "source": "When using the aiStandardVolume in Maya or the Principled Volume in Blender you have to change the ",
+      "target": "在 Maya 中使用 aiStandardVolume 或在 Blender 中使用 Principled Volume（Principled 体积着色器）时，需要将 ",
+      "note": ""
+    },
+    {
+      "id": "6c9e52e1ab0b",
+      "source": "Temperature Attribute",
+      "target": "Temperature Attribute",
+      "note": ""
+    },
+    {
+      "id": "124972e81b5a",
+      "source": " to ",
+      "target": " 改为 ",
+      "note": ""
+    },
+    {
+      "id": "92c2d8800937",
+      "source": "Colored Smoke",
+      "target": "Colored Smoke",
+      "note": ""
+    },
+    {
+      "id": "132bf796e128",
+      "source": "When using the ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "b04406b91038",
+      "source": "Colored Smoke",
+      "target": "Colored Smoke",
+      "note": ""
+    },
+    {
+      "id": "293074f216e9",
+      "source": " simulation mode. The Temperature, Fuel, and Flames channels will store the Red, Green, and Blue information!",
+      "target": " 模拟模式时，Temperature（温度）、Fuel（燃料）和 Flames（火焰）通道会存储 Red（红）、Green（绿）、Blue（蓝）信息！",
+      "note": ""
+    },
+    {
+      "id": "cab7d0b9ceff",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "94458f04f99b",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "ba7a81239012",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "06fcde1b6f37",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "27c2d2368ffd",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "db2009103939",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "213dfbfd2b28",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "c98e8cf3ec03",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "a85c55f601f6",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "a8f4bec4f00e",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "3ee06667b153",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "a6a27c4e2eb5",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "a057d226810d",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "3e3472d33fba",
+      "source": " Export: VDB node:",
+      "target": " Export: VDB 节点：",
+      "note": ""
+    },
+    {
+      "id": "a76d9c6a5a50",
+      "source": "Shader Setup",
+      "target": "着色器设置",
+      "note": ""
+    },
+    {
+      "id": "233459cb809a",
+      "source": "Colored Smoke",
+      "target": "Colored Smoke",
+      "note": ""
+    }
+  ],
+  "updated_at": "2026-07-03T10:45:18Z"
+}

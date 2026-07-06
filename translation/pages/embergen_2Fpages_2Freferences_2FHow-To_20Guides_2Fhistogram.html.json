@@ -1,0 +1,643 @@
+{
+  "path": "embergen/pages/references/How-To Guides/histogram.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "a94a90595ea1",
+      "source": "Histogram - JangaFX Documentation",
+      "target": "直方图 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "7b9f13683db5",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "3394dcc04542",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "31b72cdbdb4e",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "1037e521f398",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "9626f60935cd",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "14128bde4299",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "4314a7bcf7b2",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "e9199c0ca675",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "af1537482aed",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "a71dccfc9008",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "e60b1ec9b9a1",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "6bf6d3eb5c1a",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "d0f7ea3ba744",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "da5e25888639",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "db197b4bce35",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "36c272590e60",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "55381377688b",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "500d02c83d44",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "c35fa911117f",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "b24755d1aa1e",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "f82348b75bb9",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "7e0d6e137731",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "18f20765183e",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "4e0355c0285a",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "1cbcbfc4eff9",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "fc1b9512b2cb",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "0e1071a8e00f",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "3459f1c66106",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "4aa24967c8eb",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "2a09f05862a8",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "6970e5b6e511",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "1d82b7200071",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "d14ee77b711f",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "34ae40a68373",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "559cf2ef246c",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "ceed583ba202",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "12f2ad3b239c",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "fd967087ddff",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "7182e15abde7",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "9952aa8bb614",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "f74580568db1",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "4015bcd344dc",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "65eae144f00a",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "5a72ab3b2ad2",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "18bbc9a6015a",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "263d887254e7",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "6126fe3ba8d7",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "31a2530d0277",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "e354b802e9d5",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "908085d910a1",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "a971bb6d2dfb",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "91ea7d4d5050",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "8343f62f3fef",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "b83123c20e6f",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "3589cb3024cd",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "878db9c73e96",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "5bb60e2ea3ed",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "d0b2a34590c9",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "969747b52df5",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "1c2e45877577",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "eacdc49dc74c",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "a50e3fa312b9",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "87bad8b499dd",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "caff60e51d90",
+      "source": "The histogram is a way of visualizing the range of densities in the simulation. This can be very useful when mapping a range to a component, like mapping a color gradient to the flames channel for example.",
+      "target": "直方图是一种可视化模拟中密度范围的方式。当需要将某个范围映射到分量时非常有用，例如将颜色渐变映射到 Flames 通道。",
+      "note": ""
+    },
+    {
+      "id": "c41d8122ec24",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "fdb2a9ea34c5",
+      "source": "The horizontal axis of the graph represents the density values.",
+      "target": "图表的水平轴表示密度值。",
+      "note": ""
+    },
+    {
+      "id": "1ab66ceff543",
+      "source": "The vertical axis of the graph represents the amount of voxels with this corresponding density value.",
+      "target": "图表的垂直轴表示具有对应密度值的体素数量。",
+      "note": ""
+    },
+    {
+      "id": "612e1f2ee414",
+      "source": "For example, if you have more voxels with a density of ",
+      "target": "例如，如果密度为 ",
+      "note": ""
+    },
+    {
+      "id": "5e0e660c6661",
+      "source": " than voxels with a density of ",
+      "target": " 的体素多于密度为 ",
+      "note": ""
+    },
+    {
+      "id": "4ae1905d9741",
+      "source": ", that corresponding white bar will be taller.",
+      "target": " 的体素，则对应的白色柱会更高。",
+      "note": ""
+    },
+    {
+      "id": "f78bd115b110",
+      "source": "Usually the white bar at the ",
+      "target": "通常左侧 ",
+      "note": ""
+    },
+    {
+      "id": "59f6e4fc37a2",
+      "source": " value on the left is the tallest since most simulations have empty space meaning there are voxels with no density within the bounding box. Thus the most common/frequent value is ",
+      "target": " 值处的白色柱最高，因为大多数模拟都有空白空间，意味着边界框内存在没有密度的体素。因此最常见/最频繁的值是 ",
+      "note": ""
+    },
+    {
+      "id": "bde2bb91ad7a",
+      "source": " making the the highest white bar.",
+      "target": "，从而形成最高的白色柱。",
+      "note": ""
+    },
+    {
+      "id": "1ea41a3c515f",
+      "source": "You can adjust the density range to view by ",
+      "target": "可以通过",
+      "note": ""
+    },
+    {
+      "id": "95ebaca5519b",
+      "source": " clicking and dragging within the histogram.",
+      "target": "在直方图内单击并拖动来调整要查看的密度范围。",
+      "note": ""
+    },
+    {
+      "id": "504284d6fda1",
+      "source": "You can click on the ",
+      "target": "可以单击",
+      "note": ""
+    },
+    {
+      "id": "2a128b072704",
+      "source": " icon to reset the histogram range back to ",
+      "target": "图标，将直方图范围重置回 ",
+      "note": ""
+    },
+    {
+      "id": "016a32d7b456",
+      "source": ". This will also activate the ",
+      "target": "。这也会启用 ",
+      "note": ""
+    },
+    {
+      "id": "8c5617e61291",
+      "source": "Log Y",
+      "target": "Log Y",
+      "note": ""
+    },
+    {
+      "id": "664336aba0ac",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "2bbbae0621aa",
+      "source": "Log Y",
+      "target": "Log Y",
+      "note": ""
+    },
+    {
+      "id": "1f724e9af54a",
+      "source": " checkbox means that when checked, the vertical axis will have a logarithmic scale. This allows for easily viewing very large and very small voxel density values at the same time.",
+      "target": "”复选框表示勾选后垂直轴会使用对数刻度。这样可以同时轻松查看非常大和非常小的体素密度值。",
+      "note": ""
+    },
+    {
+      "id": "a0794bb83504",
+      "source": "The coloring remap range is visualized in the histogram by a grey overlay indicating the densities that are cropped outside the range.",
+      "target": "颜色重映射范围会在直方图中以灰色叠加层显示，指示被裁切到范围之外的密度。",
+      "note": ""
+    },
+    {
+      "id": "d615c3226637",
+      "source": "You usually want to fit the range nicely around the present voxel densities to make optimal use of the connected color gradient. This can be done by adjusting the ",
+      "target": "通常需要让范围紧贴当前存在的体素密度，以充分利用连接的颜色渐变。可以通过调整 ",
+      "note": ""
+    },
+    {
+      "id": "81cb716672b4",
+      "source": "Coloring remap range",
+      "target": "Coloring remap range",
+      "note": ""
+    },
+    {
+      "id": "4a660a4ca031",
+      "source": "min",
+      "target": "min",
+      "note": ""
+    },
+    {
+      "id": "f291a763eb2f",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "3c51b7d8b85e",
+      "source": "max",
+      "target": "max",
+      "note": ""
+    },
+    {
+      "id": "1655789c26da",
+      "source": " values, fitting the range around the area with the white bars. for more information in this please have a look at our ",
+      "target": " 值，让范围适配白色柱所在区域。更多相关信息，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "a63051bc5c85",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "cc9ae19a8edc",
+      "source": " page!",
+      "target": " 页面！",
+      "note": ""
+    },
+    {
+      "id": "d89eca1adc94",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "1a31cadc169f",
+      "source": "Coloring remap ramp",
+      "target": "Coloring remap ramp",
+      "note": ""
+    },
+    {
+      "id": "38cef5b2ffcc",
+      "source": " parameter can be used the change the interpolation from the minimum to the maximum value of the range. Like a gamma operation. Higher values will shift the color mapping more to the left side of the color gradient and lower values will shift the color mapping more towards the right side of the gradient.",
+      "target": "”参数可用于改变从范围最小值到最大值之间的插值，类似 gamma 运算。较高值会让颜色映射更偏向颜色渐变左侧，较低值会让颜色映射更偏向渐变右侧。",
+      "note": ""
+    },
+    {
+      "id": "87f789eed94c",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "67987ca28ed3",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "c613147f80c1",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "a0ca0f23dd6d",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "f30d1695d170",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "703eb196edbc",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "6a9e8a6f216f",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "88ae2f6b8ef5",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "893f79b04b7b",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "13a1be45b47a",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "1445f1a7b3ac",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    }
+  ],
+  "updated_at": "2026-07-03T10:45:18Z"
+}

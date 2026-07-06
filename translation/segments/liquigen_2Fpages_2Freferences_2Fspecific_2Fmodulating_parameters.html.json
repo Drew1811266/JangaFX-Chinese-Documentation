@@ -1,0 +1,2056 @@
+{
+  "path": "liquigen/pages/references/specific/modulating_parameters.html",
+  "segment_count": 205,
+  "segments": [
+    {
+      "id": "794b6971e588",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 565,
+      "end": 610,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Modulating Parameters - JangaFX Documentation",
+      "source_text": "Modulating Parameters - JangaFX Documentation"
+    },
+    {
+      "id": "7f357dec6a3a",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 5200,
+      "end": 5223,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "bfea1856497f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 5318,
+      "end": 5348,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "347e18bdf330",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 5544,
+      "end": 5574,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "e45737fbb93e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 5765,
+      "end": 5786,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "db429e4713b8",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 5979,
+      "end": 6017,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "acbfd0760c6a",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 6400,
+      "end": 6432,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "471d41623dbb",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 7464,
+      "end": 7486,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "69cb5b9340f8",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 7664,
+      "end": 7696,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "76877818b89e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 7889,
+      "end": 7904,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "1b9ac0f4ab33",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 8036,
+      "end": 8046,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "52f8faf78d3f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 8224,
+      "end": 8256,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "e80bf75746a0",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 8457,
+      "end": 8471,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "f3f9e69f1b16",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 8593,
+      "end": 8601,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "bfe0022e20a6",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 8724,
+      "end": 8733,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "e8ea536b8f99",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 8881,
+      "end": 8894,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "18ff475f9f80",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 9072,
+      "end": 9104,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "44c95c548366",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 9322,
+      "end": 9335,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "c55d2f1f5cf2",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 9486,
+      "end": 9505,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "630ae3d92a46",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 9640,
+      "end": 9645,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "e8ef01c7a512",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 9782,
+      "end": 9789,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "62c89704bedb",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 9923,
+      "end": 9927,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "bc2f978a1dab",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 10073,
+      "end": 10093,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "9c9f3c57f7b6",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 10232,
+      "end": 10241,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "980648580c24",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 10382,
+      "end": 10394,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "14bf65da333b",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 10533,
+      "end": 10551,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "2c28b0f150ed",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 10697,
+      "end": 10713,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "7936235175d9",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 10864,
+      "end": 10885,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "4236bfa5d81e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 11023,
+      "end": 11031,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "4d956d5c5f53",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 11170,
+      "end": 11180,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "f0cd5eb8f44e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 11323,
+      "end": 11336,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "624d78954579",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 11466,
+      "end": 11469,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "e25169614ec6",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 11584,
+      "end": 11606,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "a8cefb178a1c",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 11784,
+      "end": 11816,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "963155cb7a04",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 11988,
+      "end": 12003,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "f9cc4384b932",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 12100,
+      "end": 12110,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "333f425e405f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 12288,
+      "end": 12320,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "99d0fb5a399d",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 12486,
+      "end": 12500,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "a50bc23bdc9f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 12587,
+      "end": 12595,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "8f120fc749c4",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 12683,
+      "end": 12692,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "b88793f34ca7",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 12805,
+      "end": 12818,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "79a7cb9b5dda",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 12996,
+      "end": 13028,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "47ac9a9d6581",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 13209,
+      "end": 13220,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "acae5b50bdcf",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 13336,
+      "end": 13355,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "00b4b58992d5",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 13455,
+      "end": 13460,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "e79583b09e64",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 13562,
+      "end": 13569,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "e150cea4cab1",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 13668,
+      "end": 13672,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "dc55aa0ac0cd",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 13783,
+      "end": 13803,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "181edfccdf26",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 13911,
+      "end": 13924,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "663864ff44e9",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 14030,
+      "end": 14042,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "8e88e3ff54ab",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 14146,
+      "end": 14164,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "879924edb3c7",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 14275,
+      "end": 14291,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "6bfb40817034",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 14407,
+      "end": 14428,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "70b2d65d5161",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 14531,
+      "end": 14539,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "6345f0e9845b",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 14647,
+      "end": 14660,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "d34cdad4fc6e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 14766,
+      "end": 14777,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "5c704645c75b",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 14886,
+      "end": 14889,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "070bece0557d",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 15002,
+      "end": 15023,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "e50a36ac9026",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 15123,
+      "end": 15143,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "db3e99b8ec0f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 15246,
+      "end": 15268,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "2466fa7af3a7",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 15681,
+      "end": 15692,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "d35cc6401708",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 15912,
+      "end": 15950,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "dfd7cfaeaa5c",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 16362,
+      "end": 16394,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "57b120b601cd",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 16619,
+      "end": 16640,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "0b6b1427d1e8",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 16740,
+      "end": 16817,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Most parameters in Embergen can be controlled by an external modulation node.",
+      "source_text": "Most parameters in Embergen can be controlled by an external modulation node."
+    },
+    {
+      "id": "03beb1ea7ca9",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 16869,
+      "end": 16896,
+      "line": 259,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "How to modulate a parameter",
+      "source_text": "How to modulate a parameter"
+    },
+    {
+      "id": "d570573133b4",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 17002,
+      "end": 17129,
+      "line": 260,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s say we want a sphere to continuously move up and down. This can be done by hand using keyframes, but you can also use an ",
+      "source_text": "Let’s say we want a sphere to continuously move up and down. This can be done by hand using keyframes, but you can also use an "
+    },
+    {
+      "id": "78005cff44be",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 17303,
+      "end": 17318,
+      "line": 260,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Mod: Oscillator",
+      "source_text": "Mod: Oscillator"
+    },
+    {
+      "id": "1ea2d9c62ae7",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 17323,
+      "end": 17329,
+      "line": 260,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "78037c7cb025",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 17488,
+      "end": 17519,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Set the override state for the ",
+      "source_text": "Set the override state for the "
+    },
+    {
+      "id": "7a77da20f35f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 17523,
+      "end": 17531,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Position",
+      "source_text": "Position"
+    },
+    {
+      "id": "7f5403c60365",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 17536,
+      "end": 17550,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter to ",
+      "source_text": " parameter to "
+    },
+    {
+      "id": "d2fa580d59a8",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 17554,
+      "end": 17566,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Pin Override",
+      "source_text": "Pin Override"
+    },
+    {
+      "id": "3e101601acf7",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 17571,
+      "end": 17575,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " by ",
+      "source_text": " by "
+    },
+    {
+      "id": "fb46d5850338",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 17734,
+      "end": 17767,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking on the icon next to it.",
+      "source_text": " clicking on the icon next to it."
+    },
+    {
+      "id": "fbc023fd1e45",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 17784,
+      "end": 17795,
+      "line": 264,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Connect an ",
+      "source_text": "Connect an "
+    },
+    {
+      "id": "d74c350cf945",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 17969,
+      "end": 17984,
+      "line": 264,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Mod: Oscillator",
+      "source_text": "Mod: Oscillator"
+    },
+    {
+      "id": "789dfa20665a",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 17989,
+      "end": 18035,
+      "line": 264,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " node to the now exposed pin on the left side.",
+      "source_text": " node to the now exposed pin on the left side."
+    },
+    {
+      "id": "de40daf75f37",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18052,
+      "end": 18056,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Set ",
+      "source_text": "Set "
+    },
+    {
+      "id": "0f363d31d0d9",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18060,
+      "end": 18070,
+      "line": 265,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Waveform X",
+      "source_text": "Waveform X"
+    },
+    {
+      "id": "efb1abb38eba",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18075,
+      "end": 18080,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "1777bcc4f70e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18090,
+      "end": 18137,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to None so only the Z-position will oscillate.",
+      "source_text": " to None so only the Z-position will oscillate."
+    },
+    {
+      "id": "d97515af5c2a",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18154,
+      "end": 18212,
+      "line": 266,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Adjust the settings in the oscillator node to your liking.",
+      "source_text": "Adjust the settings in the oscillator node to your liking."
+    },
+    {
+      "id": "6fe92990d94b",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18271,
+      "end": 18283,
+      "line": 270,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Node Details",
+      "source_text": "Node Details"
+    },
+    {
+      "id": "d71347e0bcda",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18374,
+      "end": 18431,
+      "line": 271,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s have a look at the Node Details for the Oscillator.",
+      "source_text": "Let’s have a look at the Node Details for the Oscillator."
+    },
+    {
+      "id": "93b9face82a4",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18521,
+      "end": 18527,
+      "line": 274,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Output",
+      "source_text": "Output"
+    },
+    {
+      "id": "096f887d69b6",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18644,
+      "end": 18651,
+      "line": 276,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Signal:",
+      "source_text": "Signal:"
+    },
+    {
+      "id": "dd3520890f0e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18660,
+      "end": 18707,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Visual representation of the created waveform.",
+      "source_text": " Visual representation of the created waveform."
+    },
+    {
+      "id": "88ca458f2fea",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18726,
+      "end": 18736,
+      "line": 278,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Below the ",
+      "source_text": "Below the "
+    },
+    {
+      "id": "04e2b69d2a4c",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18740,
+      "end": 18746,
+      "line": 278,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Signal",
+      "source_text": "Signal"
+    },
+    {
+      "id": "812549a1a714",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18751,
+      "end": 18814,
+      "line": 278,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " display is a list of all parameters that are connected to the ",
+      "source_text": " display is a list of all parameters that are connected to the "
+    },
+    {
+      "id": "010718d00cfe",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 18988,
+      "end": 19003,
+      "line": 278,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Mod: Oscillator",
+      "source_text": "Mod: Oscillator"
+    },
+    {
+      "id": "24e4096b42fa",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19008,
+      "end": 19014,
+      "line": 278,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "c4171ee0bae2",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19022,
+      "end": 19091,
+      "line": 279,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The parameters are represented with range sliders for each component.",
+      "source_text": "The parameters are represented with range sliders for each component."
+    },
+    {
+      "id": "332d3c2e4dc1",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19117,
+      "end": 19123,
+      "line": 281,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": "Here, ",
+      "source_text": "Here, "
+    },
+    {
+      "id": "a27e5a9eac76",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19127,
+      "end": 19143,
+      "line": 281,
+      "parent_path": "section/blockquote/div/p/em",
+      "source_raw": "Volume flow rate",
+      "source_text": "Volume flow rate"
+    },
+    {
+      "id": "3414323da741",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19148,
+      "end": 19242,
+      "line": 281,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " only has one component and therefore has only one range slider and will be controlled by the ",
+      "source_text": " only has one component and therefore has only one range slider and will be controlled by the "
+    },
+    {
+      "id": "4058a12518cf",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19246,
+      "end": 19256,
+      "line": 281,
+      "parent_path": "section/blockquote/div/p/em",
+      "source_raw": "Waveform X",
+      "source_text": "Waveform X"
+    },
+    {
+      "id": "fbab19ca777d",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19261,
+      "end": 19267,
+      "line": 281,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " only.",
+      "source_text": " only."
+    },
+    {
+      "id": "aabc337cd018",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19295,
+      "end": 19408,
+      "line": 283,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "These range sliders can be used to control the way in which the parameter values are mapped to the waveform. The ",
+      "source_text": "These range sliders can be used to control the way in which the parameter values are mapped to the waveform. The "
+    },
+    {
+      "id": "8dd18d275bc2",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19412,
+      "end": 19415,
+      "line": 283,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "min",
+      "source_text": "min"
+    },
+    {
+      "id": "9ef5dc0dda96",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19420,
+      "end": 19502,
+      "line": 283,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " value in the range slider is the lowest possible value for the parameter and the ",
+      "source_text": " value in the range slider is the lowest possible value for the parameter and the "
+    },
+    {
+      "id": "795b5f48df66",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19506,
+      "end": 19509,
+      "line": 283,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "max",
+      "source_text": "max"
+    },
+    {
+      "id": "f787c863b003",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19514,
+      "end": 19533,
+      "line": 283,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " value the highest.",
+      "source_text": " value the highest."
+    },
+    {
+      "id": "c646ea099e7b",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19541,
+      "end": 19699,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "For example, when using a default sine wave the parameter value will oscillate smoothly up and down within the value range set by the range slider. Here, the ",
+      "source_text": "For example, when using a default sine wave the parameter value will oscillate smoothly up and down within the value range set by the range slider. Here, the "
+    },
+    {
+      "id": "8391b36220ab",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19703,
+      "end": 19711,
+      "line": 284,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Position",
+      "source_text": "Position"
+    },
+    {
+      "id": "6197b1d50be5",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19716,
+      "end": 19750,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " parameters can oscillate between ",
+      "source_text": " parameters can oscillate between "
+    },
+    {
+      "id": "f71086ca1d67",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19762,
+      "end": 19767,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "ef2b88df1bcc",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19778,
+      "end": 19794,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " meters and the ",
+      "source_text": " meters and the "
+    },
+    {
+      "id": "4e79683ee96d",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19798,
+      "end": 19807,
+      "line": 284,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Fuel rate",
+      "source_text": "Fuel rate"
+    },
+    {
+      "id": "e7a27d34a9ec",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19812,
+      "end": 19845,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " can oscillate between a rate of ",
+      "source_text": " can oscillate between a rate of "
+    },
+    {
+      "id": "daa77b586239",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19855,
+      "end": 19860,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "9b2cec5310e0",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19873,
+      "end": 19893,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " percent per second.",
+      "source_text": " percent per second."
+    },
+    {
+      "id": "586d27753701",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 19901,
+      "end": 19972,
+      "line": 285,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "For more information on how to use range sliders, please check out our ",
+      "source_text": "For more information on how to use range sliders, please check out our "
+    },
+    {
+      "id": "1f9211ca32b7",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20064,
+      "end": 20076,
+      "line": 285,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "a923859c890f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20087,
+      "end": 20093,
+      "line": 285,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " page!",
+      "source_text": " page!"
+    },
+    {
+      "id": "99276c5e0bd4",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20133,
+      "end": 20137,
+      "line": 288,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Main",
+      "source_text": "Main"
+    },
+    {
+      "id": "9089beb64390",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20252,
+      "end": 20268,
+      "line": 290,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Custom Waveform:",
+      "source_text": "Custom Waveform:"
+    },
+    {
+      "id": "5694fefda127",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20277,
+      "end": 20320,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This graph is only visible when selecting ",
+      "source_text": " This graph is only visible when selecting "
+    },
+    {
+      "id": "055860ef9306",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20324,
+      "end": 20330,
+      "line": 290,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Custom",
+      "source_text": "Custom"
+    },
+    {
+      "id": "b77bc51e2798",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20335,
+      "end": 20350,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in one of the ",
+      "source_text": " in one of the "
+    },
+    {
+      "id": "263189adb386",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20354,
+      "end": 20362,
+      "line": 290,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Wavefrom",
+      "source_text": "Wavefrom"
+    },
+    {
+      "id": "3f809e93ae99",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20367,
+      "end": 20451,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " dropdown menus. This option allows for creating any waveform you can think of. The ",
+      "source_text": " dropdown menus. This option allows for creating any waveform you can think of. The "
+    },
+    {
+      "id": "fdca27f952d1",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20455,
+      "end": 20471,
+      "line": 290,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator…",
+      "source_text": "Curve Generator…"
+    },
+    {
+      "id": "b664cd2c5254",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20476,
+      "end": 20484,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the ",
+      "source_text": " in the "
+    },
+    {
+      "id": "7587d57217c1",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20646,
+      "end": 20799,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " right-click-menu can be very useful to make things like a jittered sine wave. For more information on how to use modulation curves please check out our ",
+      "source_text": " right-click-menu can be very useful to make things like a jittered sine wave. For more information on how to use modulation curves please check out our "
+    },
+    {
+      "id": "978f3a602f60",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20954,
+      "end": 20970,
+      "line": 290,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "c67006b1efbc",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 20981,
+      "end": 20987,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " page!",
+      "source_text": " page!"
+    },
+    {
+      "id": "ae1d2086d404",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 21342,
+      "end": 21416,
+      "line": 299,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "ca36fde4fb9e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 21475,
+      "end": 21490,
+      "line": 304,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Waveform X,Y,Z:",
+      "source_text": "Waveform X,Y,Z:"
+    },
+    {
+      "id": "6ce54b449a70",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 21499,
+      "end": 21621,
+      "line": 304,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This dropdown menu holds the different types of waveforms which will determine the pattern in which the values oscillate.",
+      "source_text": " This dropdown menu holds the different types of waveforms which will determine the pattern in which the values oscillate."
+    },
+    {
+      "id": "c13df11dbf6a",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 21646,
+      "end": 21651,
+      "line": 305,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Base:",
+      "source_text": "Base:"
+    },
+    {
+      "id": "c2624bd5721f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 21660,
+      "end": 21702,
+      "line": 305,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Offset the values. Adding or subtracting.",
+      "source_text": " Offset the values. Adding or subtracting."
+    },
+    {
+      "id": "ed6945c2d37e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 21727,
+      "end": 21737,
+      "line": 306,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Frequency:",
+      "source_text": "Frequency:"
+    },
+    {
+      "id": "cb3624b0cc15",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 21746,
+      "end": 21848,
+      "line": 306,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Number of times per second the pattern is repeated. Higher values will make the values change faster.",
+      "source_text": " Number of times per second the pattern is repeated. Higher values will make the values change faster."
+    },
+    {
+      "id": "4c49141d2515",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 21873,
+      "end": 21879,
+      "line": 307,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Phase:",
+      "source_text": "Phase:"
+    },
+    {
+      "id": "c134e81fd88e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 21888,
+      "end": 21921,
+      "line": 307,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Temporal offset of the waveform.",
+      "source_text": " Temporal offset of the waveform."
+    },
+    {
+      "id": "c0a04f880f8c",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 21946,
+      "end": 21953,
+      "line": 308,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Amount:",
+      "source_text": "Amount:"
+    },
+    {
+      "id": "a0af622bf156",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 21962,
+      "end": 22066,
+      "line": 308,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Intensity of the waveform. Higher values will have the oscillated values deviate further from the base.",
+      "source_text": " Intensity of the waveform. Higher values will have the oscillated values deviate further from the base."
+    },
+    {
+      "id": "e171274640fe",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22091,
+      "end": 22103,
+      "line": 309,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Attenuation:",
+      "source_text": "Attenuation:"
+    },
+    {
+      "id": "ea5a925d162e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22112,
+      "end": 22156,
+      "line": 309,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Intensity multiplier for all the waveforms.",
+      "source_text": " Intensity multiplier for all the waveforms."
+    },
+    {
+      "id": "5ab2a46116ed",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22230,
+      "end": 22246,
+      "line": 314,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Other Modulators",
+      "source_text": "Other Modulators"
+    },
+    {
+      "id": "ae3af3915145",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22341,
+      "end": 22405,
+      "line": 315,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "All the modulator nodes work with three values to represent the ",
+      "source_text": "All the modulator nodes work with three values to represent the "
+    },
+    {
+      "id": "91a9b0c46cfe",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22427,
+      "end": 22432,
+      "line": 315,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "8fec4db9ff37",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22442,
+      "end": 22448,
+      "line": 315,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " axis.",
+      "source_text": " axis."
+    },
+    {
+      "id": "911b95a7917f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22456,
+      "end": 22508,
+      "line": 316,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "When modulating a parameter with a single value the ",
+      "source_text": "When modulating a parameter with a single value the "
+    },
+    {
+      "id": "6a7de06ee79e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22530,
+      "end": 22534,
+      "line": 316,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "6780478cc9c5",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22544,
+      "end": 22565,
+      "line": 316,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " output is used only.",
+      "source_text": " output is used only."
+    },
+    {
+      "id": "35667c5246f9",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22573,
+      "end": 22607,
+      "line": 317,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "When modulating a color parameter ",
+      "source_text": "When modulating a color parameter "
+    },
+    {
+      "id": "f861c287a554",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22629,
+      "end": 22634,
+      "line": 317,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "7e4aa38fce7f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22644,
+      "end": 22660,
+      "line": 317,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " will represent ",
+      "source_text": " will represent "
+    },
+    {
+      "id": "0aae9e9224dd",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22664,
+      "end": 22667,
+      "line": 317,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Red",
+      "source_text": "Red"
+    },
+    {
+      "id": "16dfb8dc96e0",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22678,
+      "end": 22683,
+      "line": 317,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Green",
+      "source_text": "Green"
+    },
+    {
+      "id": "0a0029596618",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22688,
+      "end": 22693,
+      "line": 317,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "b99dac1c65a1",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22697,
+      "end": 22701,
+      "line": 317,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Blue",
+      "source_text": "Blue"
+    },
+    {
+      "id": "bde1d4fe71d5",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 22915,
+      "end": 22924,
+      "line": 319,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Constant",
+      "source_text": " Constant"
+    },
+    {
+      "id": "0079746f7a64",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 23024,
+      "end": 23083,
+      "line": 320,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Generates a signal with values that don’t change over time.",
+      "source_text": "Generates a signal with values that don’t change over time."
+    },
+    {
+      "id": "a6f3d73a78bb",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 23091,
+      "end": 23180,
+      "line": 321,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This can be useful for when you want to control multiple parameters with the same slider.",
+      "source_text": "This can be useful for when you want to control multiple parameters with the same slider."
+    },
+    {
+      "id": "99d75d956d20",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 23188,
+      "end": 23227,
+      "line": 322,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This modulator is unique as it has the ",
+      "source_text": "This modulator is unique as it has the "
+    },
+    {
+      "id": "f8605ea969cc",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 23231,
+      "end": 23235,
+      "line": 322,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Mode",
+      "source_text": "Mode"
+    },
+    {
+      "id": "08e6cafe08c8",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 23240,
+      "end": 23304,
+      "line": 322,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " dropdown parameter to select the most suitable type of control.",
+      "source_text": " dropdown parameter to select the most suitable type of control."
+    },
+    {
+      "id": "a615900a333d",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 23534,
+      "end": 23545,
+      "line": 325,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Oscillator",
+      "source_text": " Oscillator"
+    },
+    {
+      "id": "3b38df5b70a9",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 23649,
+      "end": 23718,
+      "line": 326,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Generates a signal where the values change over a specified waveform.",
+      "source_text": "Generates a signal where the values change over a specified waveform."
+    },
+    {
+      "id": "8d075846a8ef",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 23726,
+      "end": 23867,
+      "line": 327,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This can be useful to add some turbulence into your project by having parameters deviate from their base value in a ,for example, random way.",
+      "source_text": "This can be useful to add some turbulence into your project by having parameters deviate from their base value in a ,for example, random way."
+    },
+    {
+      "id": "db09467da849",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 24082,
+      "end": 24088,
+      "line": 330,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Cycle",
+      "source_text": " Cycle"
+    },
+    {
+      "id": "11f93054c61a",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 24182,
+      "end": 24248,
+      "line": 331,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "A version of the saw waveform. Repeats a linear value change from ",
+      "source_text": "A version of the saw waveform. Repeats a linear value change from "
+    },
+    {
+      "id": "47b20f4e0fef",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 24261,
+      "end": 24265,
+      "line": 331,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " to ",
+      "source_text": " to "
+    },
+    {
+      "id": "8b3dec38ae5d",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 24286,
+      "end": 24338,
+      "line": 332,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This is used to get something continuously rotating.",
+      "source_text": "This is used to get something continuously rotating."
+    },
+    {
+      "id": "0be418c6e2e5",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 24565,
+      "end": 24573,
+      "line": 335,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Combine",
+      "source_text": " Combine"
+    },
+    {
+      "id": "9ce784226154",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 24674,
+      "end": 24773,
+      "line": 336,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This node doesn’t generate a signal, but combines multiple signals in a specified mathematical way.",
+      "source_text": "This node doesn’t generate a signal, but combines multiple signals in a specified mathematical way."
+    },
+    {
+      "id": "e4ca4ec7f5e2",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 24973,
+      "end": 24978,
+      "line": 339,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Math",
+      "source_text": " Math"
+    },
+    {
+      "id": "de5afb8d5d9e",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 25070,
+      "end": 25163,
+      "line": 340,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This node has a text field where you can write you own math expressions to generate a signal.",
+      "source_text": "This node has a text field where you can write you own math expressions to generate a signal."
+    },
+    {
+      "id": "4f90ab509c4d",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 25392,
+      "end": 25403,
+      "line": 343,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Time Shift",
+      "source_text": " Time Shift"
+    },
+    {
+      "id": "3cdc4dc63e0f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 25506,
+      "end": 25583,
+      "line": 344,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Doesn’t generate a signal, but does a temporal offset on the incoming signal.",
+      "source_text": "Doesn’t generate a signal, but does a temporal offset on the incoming signal."
+    },
+    {
+      "id": "64001e212f3f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 25783,
+      "end": 25788,
+      "line": 347,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " ADSR",
+      "source_text": " ADSR"
+    },
+    {
+      "id": "5688c651dbfc",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 25880,
+      "end": 25953,
+      "line": 348,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The ADSR Node allows you to map a specific parameter to an ADSR Envelope.",
+      "source_text": "The ADSR Node allows you to map a specific parameter to an ADSR Envelope."
+    },
+    {
+      "id": "6fa1ebb23cad",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 25961,
+      "end": 26029,
+      "line": 349,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "ADSR stands for Attack, Decay, Sustain, Release. Once the ADSR node ",
+      "source_text": "ADSR stands for Attack, Decay, Sustain, Release. Once the ADSR node "
+    },
+    {
+      "id": "3fd4bab0d7db",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 26033,
+      "end": 26039,
+      "line": 349,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Active",
+      "source_text": "Active"
+    },
+    {
+      "id": "9e15b4478982",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 26044,
+      "end": 26624,
+      "line": 349,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " checkbox is on, the envelope will be engaged, starting with the ‘attack’. Attack is the amount of time it takes for the base value of the assigned parameter to reach its peak value, dictated by the Amount %. Decay is the duration of time it takes to get from the peak value to the Sustain value. Sustain is the percentage inbetween the Base and Amount value, and this value will remain the same until the ADSR node is innactive. Once the Active binary is turned off, you will ‘release’ the envelope. Release is the time it takes for the Sustain value to return to the Base value.",
+      "source_text": " checkbox is on, the envelope will be engaged, starting with the ‘attack’. Attack is the amount of time it takes for the base value of the assigned parameter to reach its peak value, dictated by the Amount %. Decay is the duration of time it takes to get from the peak value to the Sustain value. Sustain is the percentage inbetween the Base and Amount value, and this value will remain the same until the ADSR node is innactive. Once the Active binary is turned off, you will ‘release’ the envelope. Release is the time it takes for the Sustain value to return to the Base value."
+    },
+    {
+      "id": "fc83276ded07",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 26632,
+      "end": 26698,
+      "line": 350,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This node is especcially useful in combination with the MIDI node.",
+      "source_text": "This node is especcially useful in combination with the MIDI node."
+    },
+    {
+      "id": "502669b787a8",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 26924,
+      "end": 26929,
+      "line": 353,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " MIDI",
+      "source_text": " MIDI"
+    },
+    {
+      "id": "c70ab20fd208",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 27021,
+      "end": 27103,
+      "line": 354,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Generates a signal based on pressing buttons on a MIDI controller like a keyboard.",
+      "source_text": "Generates a signal based on pressing buttons on a MIDI controller like a keyboard."
+    },
+    {
+      "id": "a7df66022b23",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 27111,
+      "end": 27147,
+      "line": 355,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "To use this you first need to check ",
+      "source_text": "To use this you first need to check "
+    },
+    {
+      "id": "da8f4d8cd632",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 27481,
+      "end": 27541,
+      "line": 370,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "7676f254ef93",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 27547,
+      "end": 27570,
+      "line": 372,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "23defafd98a9",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 27608,
+      "end": 27614,
+      "line": 373,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "ed6252ca1d88",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 27618,
+      "end": 27623,
+      "line": 373,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "d2a2e8a9434a",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 27673,
+      "end": 27683,
+      "line": 373,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "4345c6a15739",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 27687,
+      "end": 27715,
+      "line": 373,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "59ca548f3a0f",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 27759,
+      "end": 27763,
+      "line": 375,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "a080004aa867",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 28080,
+      "end": 28116,
+      "line": 390,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "d5d2255d5ff3",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 28273,
+      "end": 28294,
+      "line": 397,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "0ddc6f07a5f1",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 28373,
+      "end": 28400,
+      "line": 398,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How to modulate a parameter",
+      "source_text": "How to modulate a parameter"
+    },
+    {
+      "id": "6846c4804935",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 28465,
+      "end": 28477,
+      "line": 399,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node Details",
+      "source_text": "Node Details"
+    },
+    {
+      "id": "99885f87f4b4",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 28535,
+      "end": 28541,
+      "line": 400,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Output",
+      "source_text": "Output"
+    },
+    {
+      "id": "8434890be877",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 28598,
+      "end": 28602,
+      "line": 401,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Main",
+      "source_text": "Main"
+    },
+    {
+      "id": "3b0dc98e9d7d",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 28683,
+      "end": 28699,
+      "line": 404,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Other Modulators",
+      "source_text": "Other Modulators"
+    },
+    {
+      "id": "bc7b204cb632",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 28772,
+      "end": 28781,
+      "line": 405,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Constant",
+      "source_text": " Constant"
+    },
+    {
+      "id": "fdf7a85fa4cc",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 28859,
+      "end": 28870,
+      "line": 406,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Oscillator",
+      "source_text": " Oscillator"
+    },
+    {
+      "id": "d06ff417c803",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 28938,
+      "end": 28944,
+      "line": 407,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Cycle",
+      "source_text": " Cycle"
+    },
+    {
+      "id": "d8f257c42916",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 29019,
+      "end": 29027,
+      "line": 408,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Combine",
+      "source_text": " Combine"
+    },
+    {
+      "id": "18e458a96e50",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 29093,
+      "end": 29098,
+      "line": 409,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Math",
+      "source_text": " Math"
+    },
+    {
+      "id": "9baa979c5a15",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 29175,
+      "end": 29186,
+      "line": 410,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Time Shift",
+      "source_text": " Time Shift"
+    },
+    {
+      "id": "98bebe409d53",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 29252,
+      "end": 29257,
+      "line": 411,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " ADSR",
+      "source_text": " ADSR"
+    },
+    {
+      "id": "ba8f51c91c6b",
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "start": 29323,
+      "end": 29328,
+      "line": 412,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " MIDI",
+      "source_text": " MIDI"
+    }
+  ]
+}

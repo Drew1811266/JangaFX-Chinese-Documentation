@@ -1,0 +1,2826 @@
+{
+  "path": "embergen/pages/references/settings.html",
+  "segment_count": 282,
+  "segments": [
+    {
+      "id": "f8e06f03a8dd",
+      "path": "embergen/pages/references/settings.html",
+      "start": 682,
+      "end": 714,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Settings - JangaFX Documentation",
+      "source_text": "Settings - JangaFX Documentation"
+    },
+    {
+      "id": "decd02b328e4",
+      "path": "embergen/pages/references/settings.html",
+      "start": 5292,
+      "end": 5315,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "b751544f5d8e",
+      "path": "embergen/pages/references/settings.html",
+      "start": 5410,
+      "end": 5440,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "8131dd1c2a5a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 5636,
+      "end": 5666,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "c012ce741141",
+      "path": "embergen/pages/references/settings.html",
+      "start": 5854,
+      "end": 5875,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "7b1fa381db2a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 6068,
+      "end": 6106,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "9bcbbd3bae43",
+      "path": "embergen/pages/references/settings.html",
+      "start": 6489,
+      "end": 6521,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "579581e70b2d",
+      "path": "embergen/pages/references/settings.html",
+      "start": 7550,
+      "end": 7572,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "9bae8eb01198",
+      "path": "embergen/pages/references/settings.html",
+      "start": 7761,
+      "end": 7793,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "4a5cd5c45bf7",
+      "path": "embergen/pages/references/settings.html",
+      "start": 7978,
+      "end": 7993,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "025989b62333",
+      "path": "embergen/pages/references/settings.html",
+      "start": 8095,
+      "end": 8105,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "1e954bbbf2ee",
+      "path": "embergen/pages/references/settings.html",
+      "start": 8294,
+      "end": 8326,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "7f4545cab480",
+      "path": "embergen/pages/references/settings.html",
+      "start": 8505,
+      "end": 8519,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "9a7036f73a66",
+      "path": "embergen/pages/references/settings.html",
+      "start": 8620,
+      "end": 8628,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "cd59c977e826",
+      "path": "embergen/pages/references/settings.html",
+      "start": 8713,
+      "end": 8722,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "6601fccffbd7",
+      "path": "embergen/pages/references/settings.html",
+      "start": 8832,
+      "end": 8845,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "d0f0bc56b7b3",
+      "path": "embergen/pages/references/settings.html",
+      "start": 9023,
+      "end": 9055,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "24e5001a142f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 9235,
+      "end": 9248,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "c45329b0c8ea",
+      "path": "embergen/pages/references/settings.html",
+      "start": 9361,
+      "end": 9380,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "f94a3ddc2234",
+      "path": "embergen/pages/references/settings.html",
+      "start": 9477,
+      "end": 9482,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "753a65ee4d57",
+      "path": "embergen/pages/references/settings.html",
+      "start": 9581,
+      "end": 9588,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "515271f06d70",
+      "path": "embergen/pages/references/settings.html",
+      "start": 9684,
+      "end": 9688,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "d16b7041fb7b",
+      "path": "embergen/pages/references/settings.html",
+      "start": 9796,
+      "end": 9816,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "a0000a40447f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 9917,
+      "end": 9926,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "51650d154b8a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 10029,
+      "end": 10041,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "2416f87784b5",
+      "path": "embergen/pages/references/settings.html",
+      "start": 10142,
+      "end": 10160,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "3152afa8d0d9",
+      "path": "embergen/pages/references/settings.html",
+      "start": 10268,
+      "end": 10284,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "caf66443acb1",
+      "path": "embergen/pages/references/settings.html",
+      "start": 10397,
+      "end": 10418,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "e42d82a896cc",
+      "path": "embergen/pages/references/settings.html",
+      "start": 10518,
+      "end": 10526,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "891ee629cc7b",
+      "path": "embergen/pages/references/settings.html",
+      "start": 10627,
+      "end": 10637,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "aa9ba0b4e567",
+      "path": "embergen/pages/references/settings.html",
+      "start": 10742,
+      "end": 10755,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "ebf46b01f4cb",
+      "path": "embergen/pages/references/settings.html",
+      "start": 10861,
+      "end": 10864,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "a90ff32fa9bf",
+      "path": "embergen/pages/references/settings.html",
+      "start": 10988,
+      "end": 11010,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "c949ac6d3977",
+      "path": "embergen/pages/references/settings.html",
+      "start": 11188,
+      "end": 11220,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "5b1fa2fc0db7",
+      "path": "embergen/pages/references/settings.html",
+      "start": 11410,
+      "end": 11425,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "176aae1861e4",
+      "path": "embergen/pages/references/settings.html",
+      "start": 11554,
+      "end": 11564,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "beeb0ad94945",
+      "path": "embergen/pages/references/settings.html",
+      "start": 11742,
+      "end": 11774,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "b66969549b35",
+      "path": "embergen/pages/references/settings.html",
+      "start": 11972,
+      "end": 11986,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "1fe8a27bef47",
+      "path": "embergen/pages/references/settings.html",
+      "start": 12105,
+      "end": 12113,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "a6ee3a089366",
+      "path": "embergen/pages/references/settings.html",
+      "start": 12233,
+      "end": 12242,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "4541273874b6",
+      "path": "embergen/pages/references/settings.html",
+      "start": 12387,
+      "end": 12400,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "c91790b6b952",
+      "path": "embergen/pages/references/settings.html",
+      "start": 12578,
+      "end": 12610,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "9650de8f3da5",
+      "path": "embergen/pages/references/settings.html",
+      "start": 12823,
+      "end": 12834,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "e035764a3814",
+      "path": "embergen/pages/references/settings.html",
+      "start": 12982,
+      "end": 13001,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "1e7c7e526447",
+      "path": "embergen/pages/references/settings.html",
+      "start": 13133,
+      "end": 13138,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "a77cd6fa7630",
+      "path": "embergen/pages/references/settings.html",
+      "start": 13272,
+      "end": 13279,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "292e3ae352b6",
+      "path": "embergen/pages/references/settings.html",
+      "start": 13410,
+      "end": 13414,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "65c889327eb8",
+      "path": "embergen/pages/references/settings.html",
+      "start": 13557,
+      "end": 13577,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "824acf253d21",
+      "path": "embergen/pages/references/settings.html",
+      "start": 13717,
+      "end": 13730,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "85b174039f74",
+      "path": "embergen/pages/references/settings.html",
+      "start": 13868,
+      "end": 13880,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "e6edc64fe22d",
+      "path": "embergen/pages/references/settings.html",
+      "start": 14016,
+      "end": 14034,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "22d753f5edce",
+      "path": "embergen/pages/references/settings.html",
+      "start": 14177,
+      "end": 14193,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "76117c76eb4e",
+      "path": "embergen/pages/references/settings.html",
+      "start": 14341,
+      "end": 14362,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "d4e0d44ec5ce",
+      "path": "embergen/pages/references/settings.html",
+      "start": 14497,
+      "end": 14505,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "fc9201061dff",
+      "path": "embergen/pages/references/settings.html",
+      "start": 14645,
+      "end": 14658,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "620be1385bcf",
+      "path": "embergen/pages/references/settings.html",
+      "start": 14796,
+      "end": 14807,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "0e5cda87c44d",
+      "path": "embergen/pages/references/settings.html",
+      "start": 14934,
+      "end": 14937,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "ae1a249be148",
+      "path": "embergen/pages/references/settings.html",
+      "start": 15047,
+      "end": 15068,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "656fb9c1da6f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 15165,
+      "end": 15185,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "4ea8085a7c5c",
+      "path": "embergen/pages/references/settings.html",
+      "start": 15285,
+      "end": 15307,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "4795d247e30c",
+      "path": "embergen/pages/references/settings.html",
+      "start": 15720,
+      "end": 15731,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "e711415ece2c",
+      "path": "embergen/pages/references/settings.html",
+      "start": 15951,
+      "end": 15989,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "4921919e8efe",
+      "path": "embergen/pages/references/settings.html",
+      "start": 16401,
+      "end": 16433,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "4f3a2e91e057",
+      "path": "embergen/pages/references/settings.html",
+      "start": 16635,
+      "end": 16643,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "23ddcda82fef",
+      "path": "embergen/pages/references/settings.html",
+      "start": 16797,
+      "end": 16813,
+      "line": 258,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Project Settings",
+      "source_text": "Project Settings"
+    },
+    {
+      "id": "e7b8edef49d0",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17108,
+      "end": 17116,
+      "line": 260,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " General",
+      "source_text": " General"
+    },
+    {
+      "id": "93f5e64d7162",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17320,
+      "end": 17324,
+      "line": 263,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Tags",
+      "source_text": "Tags"
+    },
+    {
+      "id": "7c5f42e51a85",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17333,
+      "end": 17385,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " These tags can be used for browsing presets in the ",
+      "source_text": " These tags can be used for browsing presets in the "
+    },
+    {
+      "id": "6930dbf91207",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17389,
+      "end": 17396,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "presets",
+      "source_text": "presets"
+    },
+    {
+      "id": "87ca735fc8e6",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17401,
+      "end": 17417,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " section of the ",
+      "source_text": " section of the "
+    },
+    {
+      "id": "3652d6039f1d",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17572,
+      "end": 17603,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " project manager. (presets are ",
+      "source_text": " project manager. (presets are "
+    },
+    {
+      "id": "a7e08fd57187",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17607,
+      "end": 17613,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".ember",
+      "source_text": ".ember"
+    },
+    {
+      "id": "b368a18d72d7",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17618,
+      "end": 17639,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " files stored in the ",
+      "source_text": " files stored in the "
+    },
+    {
+      "id": "30ba5f2e9859",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17643,
+      "end": 17650,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "presets",
+      "source_text": "presets"
+    },
+    {
+      "id": "7beea5a5380b",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17655,
+      "end": 17722,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " folder in your install directory) You can use the following tags: ",
+      "source_text": " folder in your install directory) You can use the following tags: "
+    },
+    {
+      "id": "36ed9d5b863b",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17726,
+      "end": 17795,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Fire &amp; Smoke, Fire, Smoke, Explosion, Magic, Particles,8 GB,24 GB",
+      "source_text": "Fire & Smoke, Fire, Smoke, Explosion, Magic, Particles,8 GB,24 GB"
+    },
+    {
+      "id": "25f6721f8930",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17825,
+      "end": 17844,
+      "line": 264,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Save Read-Only Copy",
+      "source_text": "Save Read-Only Copy"
+    },
+    {
+      "id": "53ab4b7e2ddb",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17853,
+      "end": 17971,
+      "line": 264,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will open a file browser to specify the name and location of where you want to save your project as a read-only copy.",
+      "source_text": " will open a file browser to specify the name and location of where you want to save your project as a read-only copy."
+    },
+    {
+      "id": "4e4d5494a47c",
+      "path": "embergen/pages/references/settings.html",
+      "start": 17979,
+      "end": 18100,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "This project file will function as a normal project file but when trying to save it you’ll be prompted with this message.",
+      "source_text": "This project file will function as a normal project file but when trying to save it you’ll be prompted with this message."
+    },
+    {
+      "id": "b88072e24a32",
+      "path": "embergen/pages/references/settings.html",
+      "start": 18373,
+      "end": 18406,
+      "line": 270,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Auto-Favorite Changed Parameters:",
+      "source_text": "Auto-Favorite Changed Parameters:"
+    },
+    {
+      "id": "330be0fcdeda",
+      "path": "embergen/pages/references/settings.html",
+      "start": 18415,
+      "end": 18600,
+      "line": 270,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This will favorite all parameters that are changed compared to either the last time you saved your file, the default preset, or another project file which you can browse for using the ",
+      "source_text": " This will favorite all parameters that are changed compared to either the last time you saved your file, the default preset, or another project file which you can browse for using the "
+    },
+    {
+      "id": "aa227fcf60ec",
+      "path": "embergen/pages/references/settings.html",
+      "start": 18604,
+      "end": 18608,
+      "line": 270,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Load",
+      "source_text": "Load"
+    },
+    {
+      "id": "31c5fc9e07d0",
+      "path": "embergen/pages/references/settings.html",
+      "start": 18613,
+      "end": 18621,
+      "line": 270,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button.",
+      "source_text": " button."
+    },
+    {
+      "id": "2e0e6fa71343",
+      "path": "embergen/pages/references/settings.html",
+      "start": 18640,
+      "end": 18736,
+      "line": 272,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This can be helpful for quickly getting a list of the most important parameters of your project!",
+      "source_text": "This can be helpful for quickly getting a list of the most important parameters of your project!"
+    },
+    {
+      "id": "568fc0c0d3f1",
+      "path": "embergen/pages/references/settings.html",
+      "start": 18776,
+      "end": 18795,
+      "line": 274,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Randomize All Seeds",
+      "source_text": "Randomize All Seeds"
+    },
+    {
+      "id": "b93630d1aed6",
+      "path": "embergen/pages/references/settings.html",
+      "start": 18804,
+      "end": 18809,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The ",
+      "source_text": " The "
+    },
+    {
+      "id": "72f5c71fe047",
+      "path": "embergen/pages/references/settings.html",
+      "start": 18813,
+      "end": 18822,
+      "line": 274,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Randomize",
+      "source_text": "Randomize"
+    },
+    {
+      "id": "93d46eb1648f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 18827,
+      "end": 18870,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button will randomize all parameters with ",
+      "source_text": " button will randomize all parameters with "
+    },
+    {
+      "id": "09ff87a135dc",
+      "path": "embergen/pages/references/settings.html",
+      "start": 19029,
+      "end": 19047,
+      "line": 274,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Randomize Override",
+      "source_text": "Randomize Override"
+    },
+    {
+      "id": "e643807e104e",
+      "path": "embergen/pages/references/settings.html",
+      "start": 19052,
+      "end": 19077,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " enabled (by default all ",
+      "source_text": " enabled (by default all "
+    },
+    {
+      "id": "a93b44e4cb64",
+      "path": "embergen/pages/references/settings.html",
+      "start": 19081,
+      "end": 19085,
+      "line": 274,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Seed",
+      "source_text": "Seed"
+    },
+    {
+      "id": "3b64bec2d873",
+      "path": "embergen/pages/references/settings.html",
+      "start": 19090,
+      "end": 19209,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameters). This will give a different variation of your project. For more information about randomization check our ",
+      "source_text": " parameters). This will give a different variation of your project. For more information about randomization check our "
+    },
+    {
+      "id": "ba2cd67683bf",
+      "path": "embergen/pages/references/settings.html",
+      "start": 19321,
+      "end": 19334,
+      "line": 274,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "e704f87104fe",
+      "path": "embergen/pages/references/settings.html",
+      "start": 19345,
+      "end": 19354,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " section!",
+      "source_text": " section!"
+    },
+    {
+      "id": "6e874d44025b",
+      "path": "embergen/pages/references/settings.html",
+      "start": 19589,
+      "end": 19598,
+      "line": 278,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Renderer",
+      "source_text": " Renderer"
+    },
+    {
+      "id": "395820136f21",
+      "path": "embergen/pages/references/settings.html",
+      "start": 19813,
+      "end": 19834,
+      "line": 281,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Search for a setting.",
+      "source_text": "Search for a setting."
+    },
+    {
+      "id": "7cbaf855a983",
+      "path": "embergen/pages/references/settings.html",
+      "start": 19851,
+      "end": 19857,
+      "line": 282,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Close ",
+      "source_text": "Close "
+    },
+    {
+      "id": "e2267d65fbc4",
+      "path": "embergen/pages/references/settings.html",
+      "start": 19861,
+      "end": 19877,
+      "line": 282,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Project Settings",
+      "source_text": "Project Settings"
+    },
+    {
+      "id": "ed394c17b2c1",
+      "path": "embergen/pages/references/settings.html",
+      "start": 19882,
+      "end": 19889,
+      "line": 282,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " panel.",
+      "source_text": " panel."
+    },
+    {
+      "id": "1ac2a741c004",
+      "path": "embergen/pages/references/settings.html",
+      "start": 19906,
+      "end": 19933,
+      "line": 283,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Settings category, use the ",
+      "source_text": "Settings category, use the "
+    },
+    {
+      "id": "8cf1b5596ec9",
+      "path": "embergen/pages/references/settings.html",
+      "start": 20092,
+      "end": 20132,
+      "line": 283,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " icon to open or collapse this category.",
+      "source_text": " icon to open or collapse this category."
+    },
+    {
+      "id": "5516e17b50f1",
+      "path": "embergen/pages/references/settings.html",
+      "start": 20149,
+      "end": 20156,
+      "line": 284,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Setting",
+      "source_text": "Setting"
+    },
+    {
+      "id": "99e95f8f717b",
+      "path": "embergen/pages/references/settings.html",
+      "start": 20173,
+      "end": 20217,
+      "line": 285,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Setting value, all of these can be adjusted.",
+      "source_text": "Setting value, all of these can be adjusted."
+    },
+    {
+      "id": "53c4689fb2d6",
+      "path": "embergen/pages/references/settings.html",
+      "start": 20234,
+      "end": 20313,
+      "line": 286,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "This will prompt a window to ask you if you want to reset the project settings.",
+      "source_text": "This will prompt a window to ask you if you want to reset the project settings."
+    },
+    {
+      "id": "622e07f6ec38",
+      "path": "embergen/pages/references/settings.html",
+      "start": 20325,
+      "end": 20332,
+      "line": 287,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Confirm",
+      "source_text": "Confirm"
+    },
+    {
+      "id": "d54cc5a463eb",
+      "path": "embergen/pages/references/settings.html",
+      "start": 20337,
+      "end": 20349,
+      "line": 287,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " will reset ",
+      "source_text": " will reset "
+    },
+    {
+      "id": "4c9676a276d1",
+      "path": "embergen/pages/references/settings.html",
+      "start": 20357,
+      "end": 20360,
+      "line": 287,
+      "parent_path": "section/ol/li/p/strong",
+      "source_raw": "all",
+      "source_text": "all"
+    },
+    {
+      "id": "ca4b6b3a1af3",
+      "path": "embergen/pages/references/settings.html",
+      "start": 20369,
+      "end": 20402,
+      "line": 287,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " the project settings to default.",
+      "source_text": " the project settings to default."
+    },
+    {
+      "id": "b507aa32d1e3",
+      "path": "embergen/pages/references/settings.html",
+      "start": 20623,
+      "end": 20629,
+      "line": 292,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Notes",
+      "source_text": " Notes"
+    },
+    {
+      "id": "966735bde3f9",
+      "path": "embergen/pages/references/settings.html",
+      "start": 20839,
+      "end": 20870,
+      "line": 295,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Textfield for typing your note.",
+      "source_text": "Textfield for typing your note."
+    },
+    {
+      "id": "d3ecee6dc288",
+      "path": "embergen/pages/references/settings.html",
+      "start": 20887,
+      "end": 20919,
+      "line": 296,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "This will open the note window (",
+      "source_text": "This will open the note window ("
+    },
+    {
+      "id": "5d71ffbb13e6",
+      "path": "embergen/pages/references/settings.html",
+      "start": 20955,
+      "end": 21053,
+      "line": 297,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "With this checked, the note window will show when opening the project file you’ve set the note in.",
+      "source_text": "With this checked, the note window will show when opening the project file you’ve set the note in."
+    },
+    {
+      "id": "f183fa11730e",
+      "path": "embergen/pages/references/settings.html",
+      "start": 21074,
+      "end": 21087,
+      "line": 298,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Project Notes",
+      "source_text": "Project Notes"
+    },
+    {
+      "id": "0827874edd56",
+      "path": "embergen/pages/references/settings.html",
+      "start": 21092,
+      "end": 21099,
+      "line": 298,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " window",
+      "source_text": " window"
+    },
+    {
+      "id": "f1b637d8e926",
+      "path": "embergen/pages/references/settings.html",
+      "start": 21116,
+      "end": 21126,
+      "line": 299,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Note text.",
+      "source_text": "Note text."
+    },
+    {
+      "id": "8ce75058a3f8",
+      "path": "embergen/pages/references/settings.html",
+      "start": 21355,
+      "end": 21365,
+      "line": 303,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Thumbnail",
+      "source_text": " Thumbnail"
+    },
+    {
+      "id": "4878e369aced",
+      "path": "embergen/pages/references/settings.html",
+      "start": 21467,
+      "end": 21531,
+      "line": 304,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "A thumbnail is an image or video to show with the preset in the ",
+      "source_text": "A thumbnail is an image or video to show with the preset in the "
+    },
+    {
+      "id": "211cd2e5d2c9",
+      "path": "embergen/pages/references/settings.html",
+      "start": 21686,
+      "end": 21699,
+      "line": 304,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " Home Screen.",
+      "source_text": " Home Screen."
+    },
+    {
+      "id": "825b57d1dc4f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 22017,
+      "end": 22091,
+      "line": 312,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "4db3f9e01dc2",
+      "path": "embergen/pages/references/settings.html",
+      "start": 22118,
+      "end": 22135,
+      "line": 316,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "These have to be ",
+      "source_text": "These have to be "
+    },
+    {
+      "id": "b09631326898",
+      "path": "embergen/pages/references/settings.html",
+      "start": 22143,
+      "end": 22156,
+      "line": 316,
+      "parent_path": "section/section/section/p/strong",
+      "source_raw": "PNG flipbooks",
+      "source_text": "PNG flipbooks"
+    },
+    {
+      "id": "aed7dcad58cc",
+      "path": "embergen/pages/references/settings.html",
+      "start": 22165,
+      "end": 22220,
+      "line": 316,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " with a maximum size of 4009 pixels in both dimentions.",
+      "source_text": " with a maximum size of 4009 pixels in both dimentions."
+    },
+    {
+      "id": "804453ddd8df",
+      "path": "embergen/pages/references/settings.html",
+      "start": 22228,
+      "end": 22287,
+      "line": 317,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "for more information about flipbooks, please check out our ",
+      "source_text": "for more information about flipbooks, please check out our "
+    },
+    {
+      "id": "a435dc805795",
+      "path": "embergen/pages/references/settings.html",
+      "start": 22375,
+      "end": 22381,
+      "line": 317,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "Export",
+      "source_text": "Export"
+    },
+    {
+      "id": "f95cc225f8b7",
+      "path": "embergen/pages/references/settings.html",
+      "start": 22392,
+      "end": 22401,
+      "line": 317,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " section.",
+      "source_text": " section."
+    },
+    {
+      "id": "e66d2e59b862",
+      "path": "embergen/pages/references/settings.html",
+      "start": 22409,
+      "end": 22568,
+      "line": 318,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "When displayed on the Home Screen, a crossfade will be automatically added to the looping point of the thumbnail unless the flipbook is shorter than 41 frames.",
+      "source_text": "When displayed on the Home Screen, a crossfade will be automatically added to the looping point of the thumbnail unless the flipbook is shorter than 41 frames."
+    },
+    {
+      "id": "23ffe5ad1554",
+      "path": "embergen/pages/references/settings.html",
+      "start": 22898,
+      "end": 22972,
+      "line": 326,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "e29d2556d9ea",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23031,
+      "end": 23038,
+      "line": 331,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Preview",
+      "source_text": "Preview"
+    },
+    {
+      "id": "8cd59b89930a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23047,
+      "end": 23098,
+      "line": 331,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Preview of the thumbnail if you have one. You can ",
+      "source_text": " Preview of the thumbnail if you have one. You can "
+    },
+    {
+      "id": "eaf8788a1f5b",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23251,
+      "end": 23265,
+      "line": 331,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " click on the ",
+      "source_text": " click on the "
+    },
+    {
+      "id": "fee4bbf416f9",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23416,
+      "end": 23428,
+      "line": 331,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and select ",
+      "source_text": " and select "
+    },
+    {
+      "id": "1d67f56d7c2f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23432,
+      "end": 23437,
+      "line": 331,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Clear",
+      "source_text": "Clear"
+    },
+    {
+      "id": "de6e18f3340c",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23442,
+      "end": 23489,
+      "line": 331,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the prompt to remove the current thumbnail.",
+      "source_text": " in the prompt to remove the current thumbnail."
+    },
+    {
+      "id": "c1d92b5cddea",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23535,
+      "end": 23542,
+      "line": 333,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Capture",
+      "source_text": "Capture"
+    },
+    {
+      "id": "df3392ba6209",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23551,
+      "end": 23576,
+      "line": 333,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " Here you can select the ",
+      "source_text": " Here you can select the "
+    },
+    {
+      "id": "a662d01f3f67",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23580,
+      "end": 23586,
+      "line": 333,
+      "parent_path": "ul/li/dl/dt/em",
+      "source_raw": "Render",
+      "source_text": "Render"
+    },
+    {
+      "id": "cb145f276ccf",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23591,
+      "end": 23802,
+      "line": 333,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " node you want to export the flipbook from in the left dropdown menu and select the capture type you want to export in the right dropdown menu. Note that the capture types only show up if they are mapped in the ",
+      "source_text": " node you want to export the flipbook from in the left dropdown menu and select the capture type you want to export in the right dropdown menu. Note that the capture types only show up if they are mapped in the "
+    },
+    {
+      "id": "59dabe60dc1a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23806,
+      "end": 23819,
+      "line": 333,
+      "parent_path": "ul/li/dl/dt/em",
+      "source_raw": "Capture Types",
+      "source_text": "Capture Types"
+    },
+    {
+      "id": "01ce7aa788c3",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23824,
+      "end": 23836,
+      "line": 333,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "fc6e6a61272f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23840,
+      "end": 23846,
+      "line": 333,
+      "parent_path": "ul/li/dl/dt/em",
+      "source_raw": "Render",
+      "source_text": "Render"
+    },
+    {
+      "id": "2a8323a62743",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23851,
+      "end": 23857,
+      "line": 333,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "31c896136f9d",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23882,
+      "end": 23889,
+      "line": 334,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Capture",
+      "source_text": "Capture"
+    },
+    {
+      "id": "268aaabaf7f7",
+      "path": "embergen/pages/references/settings.html",
+      "start": 23894,
+      "end": 23977,
+      "line": 334,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " This button will start the capturing of the thumbnail with the specified settings.",
+      "source_text": " This button will start the capturing of the thumbnail with the specified settings."
+    },
+    {
+      "id": "bef7d934cae3",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24026,
+      "end": 24037,
+      "line": 339,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Import File",
+      "source_text": "Import File"
+    },
+    {
+      "id": "fd82d16cdfa0",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24046,
+      "end": 24065,
+      "line": 339,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " When clicking the ",
+      "source_text": " When clicking the "
+    },
+    {
+      "id": "145c108757ce",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24069,
+      "end": 24075,
+      "line": 339,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "268c65e93f97",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24080,
+      "end": 24141,
+      "line": 339,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button, a file browser will pop up where you can look for a ",
+      "source_text": " button, a file browser will pop up where you can look for a "
+    },
+    {
+      "id": "3c59439945e0",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24149,
+      "end": 24152,
+      "line": 339,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "png",
+      "source_text": "png"
+    },
+    {
+      "id": "86797036bbd2",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24161,
+      "end": 24226,
+      "line": 339,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file to be used as a flipbook or static image for the thumbnail.",
+      "source_text": " file to be used as a flipbook or static image for the thumbnail."
+    },
+    {
+      "id": "30c17b223944",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24274,
+      "end": 24417,
+      "line": 340,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Here you can setup the amount of columns and rows for your flipbook. The maximum number of frames is defined by multiplying these two numbers.",
+      "source_text": " Here you can setup the amount of columns and rows for your flipbook. The maximum number of frames is defined by multiplying these two numbers."
+    },
+    {
+      "id": "e56689636954",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24440,
+      "end": 24565,
+      "line": 342,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "If columns and rows are set to 1, you will be using a static png as your thumbnail and the following parameters won’t appear.",
+      "source_text": "If columns and rows are set to 1, you will be using a static png as your thumbnail and the following parameters won’t appear."
+    },
+    {
+      "id": "3f49d1a76767",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24610,
+      "end": 24621,
+      "line": 344,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Frame Count",
+      "source_text": "Frame Count"
+    },
+    {
+      "id": "f75da6840b25",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24630,
+      "end": 24675,
+      "line": 344,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The amount of frames used for the thumbnail.",
+      "source_text": " The amount of frames used for the thumbnail."
+    },
+    {
+      "id": "ada63f21fad1",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24700,
+      "end": 24710,
+      "line": 345,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Frame Rate",
+      "source_text": "Frame Rate"
+    },
+    {
+      "id": "0501ec95a1bd",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24719,
+      "end": 24820,
+      "line": 345,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The number of frames per second used to play the thumbnail. Higher values will “speed up” the video.",
+      "source_text": " The number of frames per second used to play the thumbnail. Higher values will “speed up” the video."
+    },
+    {
+      "id": "34aecffc48bd",
+      "path": "embergen/pages/references/settings.html",
+      "start": 24911,
+      "end": 24922,
+      "line": 350,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Preferences",
+      "source_text": "Preferences"
+    },
+    {
+      "id": "90663f04207a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 25196,
+      "end": 25204,
+      "line": 352,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " General",
+      "source_text": " General"
+    },
+    {
+      "id": "4bcd8130b90a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 25390,
+      "end": 25399,
+      "line": 355,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "UI Scale:",
+      "source_text": "UI Scale:"
+    },
+    {
+      "id": "e73625747d80",
+      "path": "embergen/pages/references/settings.html",
+      "start": 25408,
+      "end": 25523,
+      "line": 355,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set a scale for all the text and icons in the UI. This can be helpful when you have trouble reading small letters.",
+      "source_text": " Set a scale for all the text and icons in the UI. This can be helpful when you have trouble reading small letters."
+    },
+    {
+      "id": "8b93377158e0",
+      "path": "embergen/pages/references/settings.html",
+      "start": 25548,
+      "end": 25554,
+      "line": 356,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Vsync:",
+      "source_text": "Vsync:"
+    },
+    {
+      "id": "26eec0819961",
+      "path": "embergen/pages/references/settings.html",
+      "start": 25563,
+      "end": 25629,
+      "line": 356,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Synchronise the UI framerate to the refresh rate of your monitor.",
+      "source_text": " Synchronise the UI framerate to the refresh rate of your monitor."
+    },
+    {
+      "id": "f2d5e417963d",
+      "path": "embergen/pages/references/settings.html",
+      "start": 25654,
+      "end": 25660,
+      "line": 357,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Unlit:",
+      "source_text": "Unlit:"
+    },
+    {
+      "id": "e16cc0ed6038",
+      "path": "embergen/pages/references/settings.html",
+      "start": 25669,
+      "end": 25766,
+      "line": 357,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Toggle Unlit mode. This mode is used to temporarily minimize the shading to improve performance.",
+      "source_text": " Toggle Unlit mode. This mode is used to temporarily minimize the shading to improve performance."
+    },
+    {
+      "id": "21599771f27e",
+      "path": "embergen/pages/references/settings.html",
+      "start": 25791,
+      "end": 25801,
+      "line": 358,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Smooth UI:",
+      "source_text": "Smooth UI:"
+    },
+    {
+      "id": "d39e153b8666",
+      "path": "embergen/pages/references/settings.html",
+      "start": 25810,
+      "end": 25983,
+      "line": 358,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " With this checked the UI will be more responsive. It does slightly lower the performance of the simulation and is currently experimental which can give unexpected problems.",
+      "source_text": " With this checked the UI will be more responsive. It does slightly lower the performance of the simulation and is currently experimental which can give unexpected problems."
+    },
+    {
+      "id": "5499c1a0cf2f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 26008,
+      "end": 26029,
+      "line": 359,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Play Project On Load:",
+      "source_text": "Play Project On Load:"
+    },
+    {
+      "id": "05242325097d",
+      "path": "embergen/pages/references/settings.html",
+      "start": 26038,
+      "end": 26139,
+      "line": 359,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, presets will start simulating when opened. Otherwise, presets stay pauses until started.",
+      "source_text": " If checked, presets will start simulating when opened. Otherwise, presets stay pauses until started."
+    },
+    {
+      "id": "63043aafd273",
+      "path": "embergen/pages/references/settings.html",
+      "start": 26164,
+      "end": 26192,
+      "line": 360,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Export Warning On Overwrite:",
+      "source_text": "Export Warning On Overwrite:"
+    },
+    {
+      "id": "1d0c2d1d566a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 26201,
+      "end": 26435,
+      "line": 360,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, a warning will pop up when trying to export something that would overwrite something else. for example, if you try to export a flipbook with the same name, extention, and target directory as an already existing flipbook. ",
+      "source_text": " If checked, a warning will pop up when trying to export something that would overwrite something else. for example, if you try to export a flipbook with the same name, extention, and target directory as an already existing flipbook. "
+    },
+    {
+      "id": "5545b58a130c",
+      "path": "embergen/pages/references/settings.html",
+      "start": 26439,
+      "end": 26454,
+      "line": 360,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Disable Warning",
+      "source_text": "Disable Warning"
+    },
+    {
+      "id": "cb434ad0bc78",
+      "path": "embergen/pages/references/settings.html",
+      "start": 26459,
+      "end": 26489,
+      "line": 360,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will uncheck this parameter, ",
+      "source_text": " will uncheck this parameter, "
+    },
+    {
+      "id": "a98cf1be48fe",
+      "path": "embergen/pages/references/settings.html",
+      "start": 26493,
+      "end": 26499,
+      "line": 360,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Cancel",
+      "source_text": "Cancel"
+    },
+    {
+      "id": "a2db8ba8c3bf",
+      "path": "embergen/pages/references/settings.html",
+      "start": 26504,
+      "end": 26570,
+      "line": 360,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will cancel the export so that no files will be overwritten, and ",
+      "source_text": " will cancel the export so that no files will be overwritten, and "
+    },
+    {
+      "id": "0eaeb205a2af",
+      "path": "embergen/pages/references/settings.html",
+      "start": 26574,
+      "end": 26583,
+      "line": 360,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Overwrite",
+      "source_text": "Overwrite"
+    },
+    {
+      "id": "0ee05bdf8924",
+      "path": "embergen/pages/references/settings.html",
+      "start": 26588,
+      "end": 26636,
+      "line": 360,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will continue the export overwriting the files.",
+      "source_text": " will continue the export overwriting the files."
+    },
+    {
+      "id": "a87ad478de97",
+      "path": "embergen/pages/references/settings.html",
+      "start": 26953,
+      "end": 26962,
+      "line": 364,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "UI Layout",
+      "source_text": "UI Layout"
+    },
+    {
+      "id": "ef4d93bab6c0",
+      "path": "embergen/pages/references/settings.html",
+      "start": 26971,
+      "end": 27140,
+      "line": 364,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set the layout of the four main panels. This can be useful to quickly reset your layout to the default if you made a lot of changes by moving and scaling these windows.",
+      "source_text": " Set the layout of the four main panels. This can be useful to quickly reset your layout to the default if you made a lot of changes by moving and scaling these windows."
+    },
+    {
+      "id": "26a9058652ab",
+      "path": "embergen/pages/references/settings.html",
+      "start": 27165,
+      "end": 27192,
+      "line": 365,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Graph Background Grid Type:",
+      "source_text": "Graph Background Grid Type:"
+    },
+    {
+      "id": "cc2c3f7359bb",
+      "path": "embergen/pages/references/settings.html",
+      "start": 27201,
+      "end": 27249,
+      "line": 365,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set the background grid type of the node graph.",
+      "source_text": " Set the background grid type of the node graph."
+    },
+    {
+      "id": "a90d585cb444",
+      "path": "embergen/pages/references/settings.html",
+      "start": 27274,
+      "end": 27299,
+      "line": 366,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Mouse Compatibility Mode:",
+      "source_text": "Mouse Compatibility Mode:"
+    },
+    {
+      "id": "62cf8eb9dda9",
+      "path": "embergen/pages/references/settings.html",
+      "start": 27308,
+      "end": 27445,
+      "line": 366,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, the hiding and warping of the cursor when interacting with the viewport is disabled. This can be useful with remote desktop.",
+      "source_text": " If checked, the hiding and warping of the cursor when interacting with the viewport is disabled. This can be useful with remote desktop."
+    },
+    {
+      "id": "4b3bc37f93e8",
+      "path": "embergen/pages/references/settings.html",
+      "start": 27470,
+      "end": 27493,
+      "line": 367,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Middle-Click Emulation:",
+      "source_text": "Middle-Click Emulation:"
+    },
+    {
+      "id": "d397c2a81c4e",
+      "path": "embergen/pages/references/settings.html",
+      "start": 27502,
+      "end": 27515,
+      "line": 367,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, ",
+      "source_text": " If checked, "
+    },
+    {
+      "id": "c7739a7077da",
+      "path": "embergen/pages/references/settings.html",
+      "start": 27521,
+      "end": 27524,
+      "line": 367,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "alt",
+      "source_text": "alt"
+    },
+    {
+      "id": "b5a0467ba1a6",
+      "path": "embergen/pages/references/settings.html",
+      "start": 27687,
+      "end": 27713,
+      "line": 367,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is remapped to represent ",
+      "source_text": " is remapped to represent "
+    },
+    {
+      "id": "498a44240541",
+      "path": "embergen/pages/references/settings.html",
+      "start": 27872,
+      "end": 27919,
+      "line": 367,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " this can be useful when working on a trackpad.",
+      "source_text": " this can be useful when working on a trackpad."
+    },
+    {
+      "id": "9817adcab565",
+      "path": "embergen/pages/references/settings.html",
+      "start": 27944,
+      "end": 27967,
+      "line": 368,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Scroll-Wheel Emulation:",
+      "source_text": "Scroll-Wheel Emulation:"
+    },
+    {
+      "id": "864c6da83502",
+      "path": "embergen/pages/references/settings.html",
+      "start": 27976,
+      "end": 27984,
+      "line": 368,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Causes ",
+      "source_text": " Causes "
+    },
+    {
+      "id": "6e81457fb83f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 28299,
+      "end": 28459,
+      "line": 368,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking and dragging to act as scroll events when using a tablet like a wacom. This enables you to zoom in and out in the node graph in a similar way to Nuke.",
+      "source_text": " clicking and dragging to act as scroll events when using a tablet like a wacom. This enables you to zoom in and out in the node graph in a similar way to Nuke."
+    },
+    {
+      "id": "e05526f5354c",
+      "path": "embergen/pages/references/settings.html",
+      "start": 28484,
+      "end": 28501,
+      "line": 369,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Max Undo History:",
+      "source_text": "Max Undo History:"
+    },
+    {
+      "id": "b2eaa402e633",
+      "path": "embergen/pages/references/settings.html",
+      "start": 28510,
+      "end": 28570,
+      "line": 369,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Amount of actions you can roll back using the undo command.",
+      "source_text": " Amount of actions you can roll back using the undo command."
+    },
+    {
+      "id": "eb5d80d611c4",
+      "path": "embergen/pages/references/settings.html",
+      "start": 28595,
+      "end": 28622,
+      "line": 370,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Recovery Autosave Interval:",
+      "source_text": "Recovery Autosave Interval:"
+    },
+    {
+      "id": "e9fdefa18d7b",
+      "path": "embergen/pages/references/settings.html",
+      "start": 28631,
+      "end": 28705,
+      "line": 370,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Amount of time that goes by before creating a new recovery autosave file.",
+      "source_text": " Amount of time that goes by before creating a new recovery autosave file."
+    },
+    {
+      "id": "718c6f105096",
+      "path": "embergen/pages/references/settings.html",
+      "start": 28730,
+      "end": 28744,
+      "line": 371,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Frame Limiter:",
+      "source_text": "Frame Limiter:"
+    },
+    {
+      "id": "59c8b774b1dc",
+      "path": "embergen/pages/references/settings.html",
+      "start": 28753,
+      "end": 28782,
+      "line": 371,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Maximum framerate of the UI.",
+      "source_text": " Maximum framerate of the UI."
+    },
+    {
+      "id": "d32a4c8a4d1f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 28807,
+      "end": 28830,
+      "line": 372,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Show Floating Viewport:",
+      "source_text": "Show Floating Viewport:"
+    },
+    {
+      "id": "b8164ec2bf1a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 28839,
+      "end": 28925,
+      "line": 372,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " With this checked, you’ll have a floating viewport window when using fullscreen mode ",
+      "source_text": " With this checked, you’ll have a floating viewport window when using fullscreen mode "
+    },
+    {
+      "id": "81ed05ede614",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29090,
+      "end": 29108,
+      "line": 372,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " on another panel.",
+      "source_text": " on another panel."
+    },
+    {
+      "id": "e00406c39b90",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29133,
+      "end": 29167,
+      "line": 373,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Create Key When Parameter Exposed:",
+      "source_text": "Create Key When Parameter Exposed:"
+    },
+    {
+      "id": "6c49ea7c72c3",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29176,
+      "end": 29304,
+      "line": 373,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, when settings a parameter to timeline animation, a key will be created with the current value at the current frame.",
+      "source_text": " If checked, when settings a parameter to timeline animation, a key will be created with the current value at the current frame."
+    },
+    {
+      "id": "d8cf2695f9de",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29329,
+      "end": 29363,
+      "line": 374,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Show Modulator Output On Timeline:",
+      "source_text": "Show Modulator Output On Timeline:"
+    },
+    {
+      "id": "3855543335a2",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29372,
+      "end": 29464,
+      "line": 374,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, a preview of the modulator is shown in the timeline. For example, when using a ",
+      "source_text": " If checked, a preview of the modulator is shown in the timeline. For example, when using a "
+    },
+    {
+      "id": "8891c4e5de3a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29468,
+      "end": 29483,
+      "line": 374,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Mod: Oscillator",
+      "source_text": "Mod: Oscillator"
+    },
+    {
+      "id": "2035526f93c1",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29488,
+      "end": 29501,
+      "line": 374,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " node with a ",
+      "source_text": " node with a "
+    },
+    {
+      "id": "20a702bf5ce9",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29505,
+      "end": 29509,
+      "line": 374,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Sine",
+      "source_text": "Sine"
+    },
+    {
+      "id": "f074ad96872a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29514,
+      "end": 29598,
+      "line": 374,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " waveform, you can now clearly see how the peaks and valleys relate to the timeline.",
+      "source_text": " waveform, you can now clearly see how the peaks and valleys relate to the timeline."
+    },
+    {
+      "id": "09e9dfd8e9d2",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29623,
+      "end": 29641,
+      "line": 375,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Manipulator scale:",
+      "source_text": "Manipulator scale:"
+    },
+    {
+      "id": "b01f56348a46",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29650,
+      "end": 29666,
+      "line": 375,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Scale the Move ",
+      "source_text": " Scale the Move "
+    },
+    {
+      "id": "870a4467b96d",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29821,
+      "end": 29830,
+      "line": 375,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ", Rotate ",
+      "source_text": ", Rotate "
+    },
+    {
+      "id": "2c5c8363a86e",
+      "path": "embergen/pages/references/settings.html",
+      "start": 29991,
+      "end": 30001,
+      "line": 375,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or Scale ",
+      "source_text": " or Scale "
+    },
+    {
+      "id": "90cce05d0ad7",
+      "path": "embergen/pages/references/settings.html",
+      "start": 30159,
+      "end": 30189,
+      "line": 375,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " manipulators in the viewport.",
+      "source_text": " manipulators in the viewport."
+    },
+    {
+      "id": "fcd30a57c4d7",
+      "path": "embergen/pages/references/settings.html",
+      "start": 30214,
+      "end": 30231,
+      "line": 376,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Template Project:",
+      "source_text": "Template Project:"
+    },
+    {
+      "id": "3bfd3e08393c",
+      "path": "embergen/pages/references/settings.html",
+      "start": 30240,
+      "end": 30320,
+      "line": 376,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Here you can set a custom default project. This project will then be used with ",
+      "source_text": " Here you can set a custom default project. This project will then be used with "
+    },
+    {
+      "id": "3c5144b7ebe2",
+      "path": "embergen/pages/references/settings.html",
+      "start": 30324,
+      "end": 30335,
+      "line": 376,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "File&gt;New",
+      "source_text": "File>New"
+    },
+    {
+      "id": "2f10e60bf9bc",
+      "path": "embergen/pages/references/settings.html",
+      "start": 30340,
+      "end": 30513,
+      "line": 376,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Project This project can’t be accidentally saved over since when saving the default project it will act as if it doesn’t have a file name yet and prompt you to specify one.",
+      "source_text": " Project This project can’t be accidentally saved over since when saving the default project it will act as if it doesn’t have a file name yet and prompt you to specify one."
+    },
+    {
+      "id": "b05eabdf18ee",
+      "path": "embergen/pages/references/settings.html",
+      "start": 30538,
+      "end": 30558,
+      "line": 377,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Post-Export Command:",
+      "source_text": "Post-Export Command:"
+    },
+    {
+      "id": "1104c5ae17bf",
+      "path": "embergen/pages/references/settings.html",
+      "start": 30567,
+      "end": 30716,
+      "line": 377,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " For example, When running an export overnight, you may want to close embergen when the export is finished to save power. This can be done by typing ",
+      "source_text": " For example, When running an export overnight, you may want to close embergen when the export is finished to save power. This can be done by typing "
+    },
+    {
+      "id": "6abc9171ad7f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 30796,
+      "end": 30816,
+      "line": 377,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in this text field.",
+      "source_text": " in this text field."
+    },
+    {
+      "id": "a9055748b187",
+      "path": "embergen/pages/references/settings.html",
+      "start": 30841,
+      "end": 30861,
+      "line": 378,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Enable MIDI support:",
+      "source_text": "Enable MIDI support:"
+    },
+    {
+      "id": "f29c06317cb0",
+      "path": "embergen/pages/references/settings.html",
+      "start": 30870,
+      "end": 30928,
+      "line": 378,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This needs to be checked to be able to use the MIDI node.",
+      "source_text": " This needs to be checked to be able to use the MIDI node."
+    },
+    {
+      "id": "826f99db7341",
+      "path": "embergen/pages/references/settings.html",
+      "start": 30953,
+      "end": 30966,
+      "line": 379,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Show Minimap:",
+      "source_text": "Show Minimap:"
+    },
+    {
+      "id": "e7a5155fb51a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 30975,
+      "end": 31013,
+      "line": 379,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Toggles the minimap in the nodegraph.",
+      "source_text": " Toggles the minimap in the nodegraph."
+    },
+    {
+      "id": "8c215075817c",
+      "path": "embergen/pages/references/settings.html",
+      "start": 31038,
+      "end": 31055,
+      "line": 380,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Minimap Location:",
+      "source_text": "Minimap Location:"
+    },
+    {
+      "id": "0423cbb1486f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 31064,
+      "end": 31152,
+      "line": 380,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Dropdown menu where you can pick the desired location for the minimap in the nodegraph.",
+      "source_text": " Dropdown menu where you can pick the desired location for the minimap in the nodegraph."
+    },
+    {
+      "id": "dfac0bcbadb5",
+      "path": "embergen/pages/references/settings.html",
+      "start": 31177,
+      "end": 31191,
+      "line": 381,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Minimap Scale:",
+      "source_text": "Minimap Scale:"
+    },
+    {
+      "id": "0f31c6a75946",
+      "path": "embergen/pages/references/settings.html",
+      "start": 31200,
+      "end": 31250,
+      "line": 381,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Controls the size of the minimap ranging between ",
+      "source_text": " Controls the size of the minimap ranging between "
+    },
+    {
+      "id": "6b64522032c9",
+      "path": "embergen/pages/references/settings.html",
+      "start": 31262,
+      "end": 31267,
+      "line": 381,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "a821c4172cf1",
+      "path": "embergen/pages/references/settings.html",
+      "start": 31543,
+      "end": 31560,
+      "line": 385,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Viewport Quality",
+      "source_text": " Viewport Quality"
+    },
+    {
+      "id": "80cb8e6a6462",
+      "path": "embergen/pages/references/settings.html",
+      "start": 31765,
+      "end": 31847,
+      "line": 387,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This is where the settings for the three viewport quality options can be adjusted.",
+      "source_text": "This is where the settings for the three viewport quality options can be adjusted."
+    },
+    {
+      "id": "69972e7ff07c",
+      "path": "embergen/pages/references/settings.html",
+      "start": 32076,
+      "end": 32086,
+      "line": 390,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Shortcuts",
+      "source_text": " Shortcuts"
+    },
+    {
+      "id": "2dced4e94e11",
+      "path": "embergen/pages/references/settings.html",
+      "start": 32295,
+      "end": 32316,
+      "line": 393,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Search for a command.",
+      "source_text": "Search for a command."
+    },
+    {
+      "id": "87cf9d335b1a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 32333,
+      "end": 32341,
+      "line": 394,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Command.",
+      "source_text": "Command."
+    },
+    {
+      "id": "4839c1b3cad9",
+      "path": "embergen/pages/references/settings.html",
+      "start": 32358,
+      "end": 32375,
+      "line": 395,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Current key-bind.",
+      "source_text": "Current key-bind."
+    },
+    {
+      "id": "b64658b65a97",
+      "path": "embergen/pages/references/settings.html",
+      "start": 32547,
+      "end": 32580,
+      "line": 396,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Add a shortcut for this command.",
+      "source_text": " Add a shortcut for this command."
+    },
+    {
+      "id": "139522432646",
+      "path": "embergen/pages/references/settings.html",
+      "start": 32745,
+      "end": 32776,
+      "line": 397,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Reset the shortcut to default.",
+      "source_text": " Reset the shortcut to default."
+    },
+    {
+      "id": "7f83f876d5c7",
+      "path": "embergen/pages/references/settings.html",
+      "start": 32944,
+      "end": 32983,
+      "line": 398,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Remove all shortcuts for this command.",
+      "source_text": " Remove all shortcuts for this command."
+    },
+    {
+      "id": "ecd3b5517503",
+      "path": "embergen/pages/references/settings.html",
+      "start": 33000,
+      "end": 33102,
+      "line": 399,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "This will prompt a window to ask you if you want the reset all the keyboard shortcuts to the defaults.",
+      "source_text": "This will prompt a window to ask you if you want the reset all the keyboard shortcuts to the defaults."
+    },
+    {
+      "id": "fd4631b5cc94",
+      "path": "embergen/pages/references/settings.html",
+      "start": 33346,
+      "end": 33353,
+      "line": 403,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Camera",
+      "source_text": " Camera"
+    },
+    {
+      "id": "b18818f95ef1",
+      "path": "embergen/pages/references/settings.html",
+      "start": 33559,
+      "end": 33575,
+      "line": 406,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Control Mapping:",
+      "source_text": "Control Mapping:"
+    },
+    {
+      "id": "2e12ddaedf7b",
+      "path": "embergen/pages/references/settings.html",
+      "start": 33584,
+      "end": 33745,
+      "line": 406,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Dropdown menu of different control mapping types. This is useful when you are used to another type of camera control like Blender or Maya (Industry Compatible).",
+      "source_text": " Dropdown menu of different control mapping types. This is useful when you are used to another type of camera control like Blender or Maya (Industry Compatible)."
+    },
+    {
+      "id": "20d8bfec75c8",
+      "path": "embergen/pages/references/settings.html",
+      "start": 33806,
+      "end": 33865,
+      "line": 407,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Minimal angle in degrees to turn the camera when rotating.",
+      "source_text": " Minimal angle in degrees to turn the camera when rotating."
+    },
+    {
+      "id": "430d17c29309",
+      "path": "embergen/pages/references/settings.html",
+      "start": 33890,
+      "end": 33907,
+      "line": 408,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Invert Direction:",
+      "source_text": "Invert Direction:"
+    },
+    {
+      "id": "caa9371f8ab3",
+      "path": "embergen/pages/references/settings.html",
+      "start": 33916,
+      "end": 34000,
+      "line": 408,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Checking the Mouse-Y box will invert the controls for vertical orbiting the camera.",
+      "source_text": " Checking the Mouse-Y box will invert the controls for vertical orbiting the camera."
+    },
+    {
+      "id": "9ed92a7a28b7",
+      "path": "embergen/pages/references/settings.html",
+      "start": 34025,
+      "end": 34035,
+      "line": 409,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Zoom Axis:",
+      "source_text": "Zoom Axis:"
+    },
+    {
+      "id": "175da90233c9",
+      "path": "embergen/pages/references/settings.html",
+      "start": 34044,
+      "end": 34102,
+      "line": 409,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Zoom moving your mouse either horizontally or vertically.",
+      "source_text": " Zoom moving your mouse either horizontally or vertically."
+    },
+    {
+      "id": "a269e68a70bd",
+      "path": "embergen/pages/references/settings.html",
+      "start": 34127,
+      "end": 34149,
+      "line": 410,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Invert Zoom Direction:",
+      "source_text": "Invert Zoom Direction:"
+    },
+    {
+      "id": "5ce411e0af59",
+      "path": "embergen/pages/references/settings.html",
+      "start": 34158,
+      "end": 34225,
+      "line": 410,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Invert the zoom controls for either the mouse or the scroll wheel.",
+      "source_text": " Invert the zoom controls for either the mouse or the scroll wheel."
+    },
+    {
+      "id": "d70083dc58a9",
+      "path": "embergen/pages/references/settings.html",
+      "start": 34250,
+      "end": 34267,
+      "line": 411,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Reset To Default:",
+      "source_text": "Reset To Default:"
+    },
+    {
+      "id": "5d16cb58f688",
+      "path": "embergen/pages/references/settings.html",
+      "start": 34276,
+      "end": 34305,
+      "line": 411,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set all the controls in the ",
+      "source_text": " Set all the controls in the "
+    },
+    {
+      "id": "1b7cbba238f7",
+      "path": "embergen/pages/references/settings.html",
+      "start": 34309,
+      "end": 34315,
+      "line": 411,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "a66a0c8552b6",
+      "path": "embergen/pages/references/settings.html",
+      "start": 34320,
+      "end": 34341,
+      "line": 411,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " tab back to default.",
+      "source_text": " tab back to default."
+    },
+    {
+      "id": "d9c01594dafa",
+      "path": "embergen/pages/references/settings.html",
+      "start": 34618,
+      "end": 34633,
+      "line": 415,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " User Variables",
+      "source_text": " User Variables"
+    },
+    {
+      "id": "b953d97e8e15",
+      "path": "embergen/pages/references/settings.html",
+      "start": 34740,
+      "end": 34820,
+      "line": 416,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Custom variables can be used in export node file paths to improve your workflow.",
+      "source_text": "Custom variables can be used in export node file paths to improve your workflow."
+    },
+    {
+      "id": "90fe6bc8739d",
+      "path": "embergen/pages/references/settings.html",
+      "start": 34891,
+      "end": 35173,
+      "line": 420,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "For example, if you have a lot of export nodes for separate capture types and you want to change something in the filename for all of them. If all the filenames have a user variable you can just change its value here to change it in all the filenames instead of doing it one by one.",
+      "source_text": "For example, if you have a lot of export nodes for separate capture types and you want to change something in the filename for all of them. If all the filenames have a user variable you can just change its value here to change it in all the filenames instead of doing it one by one."
+    },
+    {
+      "id": "eac53f813e4f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 35297,
+      "end": 35311,
+      "line": 423,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Variable name.",
+      "source_text": "Variable name."
+    },
+    {
+      "id": "fc7493550406",
+      "path": "embergen/pages/references/settings.html",
+      "start": 35328,
+      "end": 35343,
+      "line": 424,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Variable value.",
+      "source_text": "Variable value."
+    },
+    {
+      "id": "c263a2a91c6d",
+      "path": "embergen/pages/references/settings.html",
+      "start": 35511,
+      "end": 35528,
+      "line": 425,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Remove variable.",
+      "source_text": " Remove variable."
+    },
+    {
+      "id": "b099402e3983",
+      "path": "embergen/pages/references/settings.html",
+      "start": 35545,
+      "end": 35564,
+      "line": 426,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Add a new variable.",
+      "source_text": "Add a new variable."
+    },
+    {
+      "id": "9ef2090ddfaf",
+      "path": "embergen/pages/references/settings.html",
+      "start": 35942,
+      "end": 35946,
+      "line": 441,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "95a7b2101cb5",
+      "path": "embergen/pages/references/settings.html",
+      "start": 36012,
+      "end": 36021,
+      "line": 443,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "5dd1e0b66097",
+      "path": "embergen/pages/references/settings.html",
+      "start": 36397,
+      "end": 36405,
+      "line": 451,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "53dde470485a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 36488,
+      "end": 36502,
+      "line": 454,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "2b0e3bcb85aa",
+      "path": "embergen/pages/references/settings.html",
+      "start": 36688,
+      "end": 36748,
+      "line": 461,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "ab2d60dd4cf3",
+      "path": "embergen/pages/references/settings.html",
+      "start": 36754,
+      "end": 36777,
+      "line": 463,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "53e13e229928",
+      "path": "embergen/pages/references/settings.html",
+      "start": 36815,
+      "end": 36821,
+      "line": 464,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "ffb22bf3561b",
+      "path": "embergen/pages/references/settings.html",
+      "start": 36825,
+      "end": 36830,
+      "line": 464,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "3d7a2887dc8a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 36880,
+      "end": 36890,
+      "line": 464,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "b64af26d9ca4",
+      "path": "embergen/pages/references/settings.html",
+      "start": 36894,
+      "end": 36922,
+      "line": 464,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "4ec509b4bd22",
+      "path": "embergen/pages/references/settings.html",
+      "start": 36966,
+      "end": 36970,
+      "line": 466,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "ee3a4acd599f",
+      "path": "embergen/pages/references/settings.html",
+      "start": 37287,
+      "end": 37323,
+      "line": 481,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "27c63537c43a",
+      "path": "embergen/pages/references/settings.html",
+      "start": 37480,
+      "end": 37488,
+      "line": 488,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "eefaa384c088",
+      "path": "embergen/pages/references/settings.html",
+      "start": 37556,
+      "end": 37572,
+      "line": 489,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Project Settings",
+      "source_text": "Project Settings"
+    },
+    {
+      "id": "f9bab5d03afa",
+      "path": "embergen/pages/references/settings.html",
+      "start": 37643,
+      "end": 37651,
+      "line": 490,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " General",
+      "source_text": " General"
+    },
+    {
+      "id": "20d011d3fa63",
+      "path": "embergen/pages/references/settings.html",
+      "start": 37725,
+      "end": 37734,
+      "line": 491,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Renderer",
+      "source_text": " Renderer"
+    },
+    {
+      "id": "d21e7c84f77e",
+      "path": "embergen/pages/references/settings.html",
+      "start": 37802,
+      "end": 37808,
+      "line": 492,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Notes",
+      "source_text": " Notes"
+    },
+    {
+      "id": "46d16eadfabc",
+      "path": "embergen/pages/references/settings.html",
+      "start": 37884,
+      "end": 37894,
+      "line": 493,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Thumbnail",
+      "source_text": " Thumbnail"
+    },
+    {
+      "id": "d5e82d7cd5f3",
+      "path": "embergen/pages/references/settings.html",
+      "start": 37970,
+      "end": 37981,
+      "line": 496,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Preferences",
+      "source_text": "Preferences"
+    },
+    {
+      "id": "f7cc606817fc",
+      "path": "embergen/pages/references/settings.html",
+      "start": 38036,
+      "end": 38044,
+      "line": 497,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " General",
+      "source_text": " General"
+    },
+    {
+      "id": "a3d8a0c1f35c",
+      "path": "embergen/pages/references/settings.html",
+      "start": 38134,
+      "end": 38151,
+      "line": 498,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Viewport Quality",
+      "source_text": " Viewport Quality"
+    },
+    {
+      "id": "598aa6317691",
+      "path": "embergen/pages/references/settings.html",
+      "start": 38227,
+      "end": 38237,
+      "line": 499,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Shortcuts",
+      "source_text": " Shortcuts"
+    },
+    {
+      "id": "0245ae7367b9",
+      "path": "embergen/pages/references/settings.html",
+      "start": 38315,
+      "end": 38322,
+      "line": 500,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Camera",
+      "source_text": " Camera"
+    },
+    {
+      "id": "8b618fdcac79",
+      "path": "embergen/pages/references/settings.html",
+      "start": 38403,
+      "end": 38418,
+      "line": 501,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " User Variables",
+      "source_text": " User Variables"
+    }
+  ]
+}

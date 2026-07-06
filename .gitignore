@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+__pycache__/
+
+# Local dependency cache used by the layout audit script.
+.codex-layout-deps/
+node_modules/
+
+# Local server/runtime scratch files.
+*.log
+*.pid

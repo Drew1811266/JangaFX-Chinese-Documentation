@@ -1,0 +1,1036 @@
+{
+  "path": "embergen/pages/references/How-To Guides/palettes.html",
+  "segment_count": 103,
+  "segments": [
+    {
+      "id": "fac1f5cf8280",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 708,
+      "end": 740,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Palettes - JangaFX Documentation",
+      "source_text": "Palettes - JangaFX Documentation"
+    },
+    {
+      "id": "888931602a26",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 5330,
+      "end": 5353,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "0928b1cd00ec",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 5448,
+      "end": 5478,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "3bdc334b2d30",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 5674,
+      "end": 5704,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "2babfa63eab7",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 5895,
+      "end": 5916,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "471ac24f62f4",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 6109,
+      "end": 6147,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "a91bddf04e87",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 6537,
+      "end": 6569,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "1a9da764694d",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 7613,
+      "end": 7635,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "ec03f56e32ff",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 7824,
+      "end": 7856,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "67bdcdd52c8b",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 8044,
+      "end": 8059,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "aa2accdd385f",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 8164,
+      "end": 8174,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "35e01971c060",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 8363,
+      "end": 8395,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "518deb0a27fa",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 8577,
+      "end": 8591,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "fb80faa1736b",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 8678,
+      "end": 8686,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "74f8b2191f55",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 8774,
+      "end": 8783,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "44644abb6f6d",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 8885,
+      "end": 8898,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "96774decdd24",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 9087,
+      "end": 9119,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "caba5ae997c2",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 9299,
+      "end": 9312,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "d944f78ec374",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 9409,
+      "end": 9428,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "0db9211685cb",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 9509,
+      "end": 9514,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "e7b1cdbb8a44",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 9597,
+      "end": 9604,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "5baab4cc71fc",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 9684,
+      "end": 9688,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "19d0bb3a495a",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 9780,
+      "end": 9800,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "faebd501c87a",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 9885,
+      "end": 9894,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "1e630793fe0a",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 9981,
+      "end": 9993,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "50cee3ed248c",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 10078,
+      "end": 10096,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "415431203ea2",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 10188,
+      "end": 10204,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "77e8ab171b80",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 10301,
+      "end": 10322,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "1ec4f875beba",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 10423,
+      "end": 10431,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "bf603f261314",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 10516,
+      "end": 10526,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "2e3e09db8aab",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 10615,
+      "end": 10628,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "d18016ac040d",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 10737,
+      "end": 10740,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "5bba07509116",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 10867,
+      "end": 10889,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "6d6656871334",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 11067,
+      "end": 11099,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "bcdc3e5f653b",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 11292,
+      "end": 11307,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "51dff0fb76c8",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 11439,
+      "end": 11449,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "5e6185dbed52",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 11627,
+      "end": 11659,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "2a3f2cc80d56",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 11860,
+      "end": 11874,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "160a3e8944db",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 11996,
+      "end": 12004,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "a7a60621046d",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 12127,
+      "end": 12136,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "a0fd9591fae8",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 12284,
+      "end": 12297,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "e138eac838b3",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 12475,
+      "end": 12507,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "4deae0dbd946",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 12723,
+      "end": 12734,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "2c8d8ad424bc",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 12885,
+      "end": 12904,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "69cadf5d01ac",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 13039,
+      "end": 13044,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "f2d9412eb22d",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 13181,
+      "end": 13188,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "372843b59b04",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 13322,
+      "end": 13326,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "7221eca9d035",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 13472,
+      "end": 13492,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "8d270f610d12",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 13635,
+      "end": 13648,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "3ef2d6509781",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 13789,
+      "end": 13801,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "43d731c36bf0",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 13940,
+      "end": 13958,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "5c4c487c192e",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 14104,
+      "end": 14120,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "868dac573be0",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 14271,
+      "end": 14292,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "e242dc5e643b",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 14430,
+      "end": 14438,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "6adacba6f9fe",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 14581,
+      "end": 14594,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "dabb936b6026",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 14735,
+      "end": 14746,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "03166484209b",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 14876,
+      "end": 14879,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "43b828e3b91c",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 14992,
+      "end": 15013,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "9d466c47f4ce",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 15113,
+      "end": 15133,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "d1dc308d0585",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 15236,
+      "end": 15258,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "041bc7e5acfc",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 15671,
+      "end": 15682,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "59f36e76cfc3",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 15902,
+      "end": 15940,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "b39bef78f6b6",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 16359,
+      "end": 16391,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "406dffb0f67d",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 16571,
+      "end": 16579,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "6e92fdcd39ba",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 16666,
+      "end": 16745,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Palettes are temporary windows that can be opened to quickly find or do things.",
+      "source_text": "Palettes are temporary windows that can be opened to quickly find or do things."
+    },
+    {
+      "id": "8f275c49860c",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 16753,
+      "end": 16774,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "There are 3 palettes:",
+      "source_text": "There are 3 palettes:"
+    },
+    {
+      "id": "6554669978c4",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 16814,
+      "end": 16830,
+      "line": 260,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Command Palette:",
+      "source_text": "Command Palette:"
+    },
+    {
+      "id": "1e00032f293a",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 16846,
+      "end": 16859,
+      "line": 260,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + Return",
+      "source_text": "Ctrl + Return"
+    },
+    {
+      "id": "4e67420438ad",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 16866,
+      "end": 16922,
+      "line": 260,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " This will pop up a list of all available commands like ",
+      "source_text": " This will pop up a list of all available commands like "
+    },
+    {
+      "id": "01d6e24d703a",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 16926,
+      "end": 16938,
+      "line": 260,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Center Graph",
+      "source_text": "Center Graph"
+    },
+    {
+      "id": "2092d0f59a10",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 16943,
+      "end": 16947,
+      "line": 260,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "93500c1124f7",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 16951,
+      "end": 16955,
+      "line": 260,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Undo",
+      "source_text": "Undo"
+    },
+    {
+      "id": "a1aa89f1e9a9",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 16985,
+      "end": 17003,
+      "line": 261,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Parameter Palette:",
+      "source_text": "Parameter Palette:"
+    },
+    {
+      "id": "071490f0674b",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17019,
+      "end": 17027,
+      "line": 261,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + P",
+      "source_text": "Ctrl + P"
+    },
+    {
+      "id": "a79acf6302c9",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17034,
+      "end": 17092,
+      "line": 261,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " This will pop up a list of all available parameters like ",
+      "source_text": " This will pop up a list of all available parameters like "
+    },
+    {
+      "id": "af4632b3d7a1",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17096,
+      "end": 17104,
+      "line": 261,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Buoyancy",
+      "source_text": "Buoyancy"
+    },
+    {
+      "id": "50446e563a9a",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17109,
+      "end": 17113,
+      "line": 261,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "3002423f7e9a",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17117,
+      "end": 17126,
+      "line": 261,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "AO active",
+      "source_text": "AO active"
+    },
+    {
+      "id": "8c94e2a9c90b",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17131,
+      "end": 17188,
+      "line": 261,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " which can be very useful for quickly finding parameters.",
+      "source_text": " which can be very useful for quickly finding parameters."
+    },
+    {
+      "id": "c60b342673fa",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17213,
+      "end": 17229,
+      "line": 262,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Project Palette:",
+      "source_text": "Project Palette:"
+    },
+    {
+      "id": "7f2a38ae27b7",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17245,
+      "end": 17261,
+      "line": 262,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + Shift + O",
+      "source_text": "Ctrl + Shift + O"
+    },
+    {
+      "id": "60151a481fff",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17268,
+      "end": 17440,
+      "line": 262,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " This will pop up a list of the last 100 opened EmberGen presets which can be very useful for finding a recently opened preset that can be stored anywhere on your computer.",
+      "source_text": " This will pop up a list of the last 100 opened EmberGen presets which can be very useful for finding a recently opened preset that can be stored anywhere on your computer."
+    },
+    {
+      "id": "a88c3ee53594",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17459,
+      "end": 17635,
+      "line": 264,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Each one of these palettes has a search bar where you can start typing what you are looking for and the list will change based on that. To clear the text field you can use the ",
+      "source_text": "Each one of these palettes has a search bar where you can start typing what you are looking for and the list will change based on that. To clear the text field you can use the "
+    },
+    {
+      "id": "a6a49b700b92",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17799,
+      "end": 17818,
+      "line": 264,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " icon on the right.",
+      "source_text": " icon on the right."
+    },
+    {
+      "id": "6712cf413e16",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17826,
+      "end": 17913,
+      "line": 265,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "You can select a list item by hovering over it with your mouse or using the arrow keys.",
+      "source_text": "You can select a list item by hovering over it with your mouse or using the arrow keys."
+    },
+    {
+      "id": "84c5066dfdc3",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 17921,
+      "end": 17961,
+      "line": 266,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The list items can be executed by using ",
+      "source_text": "The list items can be executed by using "
+    },
+    {
+      "id": "402f460aeea8",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 18120,
+      "end": 18130,
+      "line": 266,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " click or ",
+      "source_text": " click or "
+    },
+    {
+      "id": "68033fa483d3",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 18136,
+      "end": 18142,
+      "line": 266,
+      "parent_path": "div/article/section/p/cite",
+      "source_raw": "Return",
+      "source_text": "Return"
+    },
+    {
+      "id": "0a49a2734cd1",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 18157,
+      "end": 18217,
+      "line": 267,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "To close a palette, you can either use a command, click the ",
+      "source_text": "To close a palette, you can either use a command, click the "
+    },
+    {
+      "id": "0dac590ffe17",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 18223,
+      "end": 18226,
+      "line": 267,
+      "parent_path": "div/article/section/p/cite",
+      "source_raw": "Esc",
+      "source_text": "Esc"
+    },
+    {
+      "id": "290d9bbe3bdf",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 18233,
+      "end": 18241,
+      "line": 267,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " key or ",
+      "source_text": " key or "
+    },
+    {
+      "id": "eb43feb5c52b",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 18400,
+      "end": 18421,
+      "line": 267,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " click outside of it.",
+      "source_text": " click outside of it."
+    },
+    {
+      "id": "ee50d15bd01d",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 18767,
+      "end": 18771,
+      "line": 279,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "03fdb1d13b17",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 18837,
+      "end": 18847,
+      "line": 281,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "da54ae61cc70",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 19232,
+      "end": 19240,
+      "line": 289,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "88c218563a27",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 19323,
+      "end": 19344,
+      "line": 292,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "3b592f4b0b00",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 19530,
+      "end": 19590,
+      "line": 299,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "e78afaf104c0",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 19596,
+      "end": 19619,
+      "line": 301,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "de1261154a19",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 19657,
+      "end": 19663,
+      "line": 302,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "1a379f8ded2c",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 19667,
+      "end": 19672,
+      "line": 302,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "ba5917f3549a",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 19722,
+      "end": 19732,
+      "line": 302,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "cc97d903484c",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 19736,
+      "end": 19764,
+      "line": 302,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "8dd71c09d07e",
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "start": 19808,
+      "end": 19812,
+      "line": 304,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

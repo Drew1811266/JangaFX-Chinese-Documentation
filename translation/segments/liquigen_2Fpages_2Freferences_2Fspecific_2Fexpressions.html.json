@@ -1,0 +1,1016 @@
+{
+  "path": "liquigen/pages/references/specific/expressions.html",
+  "segment_count": 101,
+  "segments": [
+    {
+      "id": "aa4a83be1674",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 565,
+      "end": 600,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Expressions - JangaFX Documentation",
+      "source_text": "Expressions - JangaFX Documentation"
+    },
+    {
+      "id": "9f829dab1c2b",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 5190,
+      "end": 5213,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "b21896ee2a50",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 5308,
+      "end": 5338,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "27dd613f27bc",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 5534,
+      "end": 5564,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "3070db5fe775",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 5755,
+      "end": 5776,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "e8e8fd9f0cc2",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 5969,
+      "end": 6007,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "b6d824b35615",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 6390,
+      "end": 6422,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "4635f8ae6be5",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 7454,
+      "end": 7476,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "d06cdb75c883",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 7654,
+      "end": 7686,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "f50bd7afffec",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 7879,
+      "end": 7894,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "960477a4d806",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 8026,
+      "end": 8036,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "e3c1179cfc73",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 8214,
+      "end": 8246,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "0a224f0ce416",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 8447,
+      "end": 8461,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "139f0b7492b5",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 8583,
+      "end": 8591,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "49cf3095524f",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 8714,
+      "end": 8723,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "7ce69f6cd496",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 8871,
+      "end": 8884,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "aed011138541",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 9062,
+      "end": 9094,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "45690172625e",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 9312,
+      "end": 9325,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "0be72026b501",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 9476,
+      "end": 9495,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "896e1995a780",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 9630,
+      "end": 9635,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "0c09c674667d",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 9772,
+      "end": 9779,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "19de816a0b79",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 9913,
+      "end": 9917,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "2121b441daa3",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 10063,
+      "end": 10083,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "19e530ffa13a",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 10222,
+      "end": 10231,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "6159a2bd853d",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 10372,
+      "end": 10384,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "f9b3505710ed",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 10523,
+      "end": 10541,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "76685b54742d",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 10687,
+      "end": 10703,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "55129f29d651",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 10854,
+      "end": 10875,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "b8cbd312d6b5",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 11013,
+      "end": 11021,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "ff3600a95370",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 11160,
+      "end": 11170,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "16418deec41a",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 11313,
+      "end": 11326,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "beb8740f65ea",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 11456,
+      "end": 11459,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "aab51f052070",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 11574,
+      "end": 11596,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "366d812b6cf9",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 11774,
+      "end": 11806,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "0b49670f89dd",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 11978,
+      "end": 11993,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "3e29fc2c661d",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 12090,
+      "end": 12100,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "c9cc84c7bb31",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 12278,
+      "end": 12310,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "74e3cc959cc6",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 12476,
+      "end": 12490,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "0982fe25edf2",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 12577,
+      "end": 12585,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "d1b33b5b86ee",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 12673,
+      "end": 12682,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "8359f0643221",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 12795,
+      "end": 12808,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "cfb873098f25",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 12986,
+      "end": 13018,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "a25d12478931",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 13199,
+      "end": 13210,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "cb686a66ca5e",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 13326,
+      "end": 13345,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "ba632438f044",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 13445,
+      "end": 13450,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "f040edc60abe",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 13552,
+      "end": 13559,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "1d3e66b72b9d",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 13658,
+      "end": 13662,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "737930e65dd2",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 13773,
+      "end": 13793,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "558b37e259b5",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 13901,
+      "end": 13914,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "8dba302d790f",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 14020,
+      "end": 14032,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "cb19d20a4da2",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 14136,
+      "end": 14154,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "b6db23fe7dcf",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 14265,
+      "end": 14281,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "d7c3c9b5559b",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 14397,
+      "end": 14418,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "ba0963c55dc7",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 14521,
+      "end": 14529,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "62f0913a82d0",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 14637,
+      "end": 14650,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "a6f45c0f9338",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 14756,
+      "end": 14767,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "c5a29be71dbf",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 14876,
+      "end": 14879,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "16d711082451",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 14992,
+      "end": 15013,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "06f43d7ee83b",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 15113,
+      "end": 15133,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "9f112c0e1227",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 15236,
+      "end": 15258,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "ba4a04534711",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 15671,
+      "end": 15682,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "cd1d078e9022",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 15902,
+      "end": 15940,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "712803e7afea",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 16352,
+      "end": 16384,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "35e680a4aec9",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 16589,
+      "end": 16600,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "d5adf43c315e",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 17026,
+      "end": 17100,
+      "line": 264,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "3bc716fcc08d",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 17127,
+      "end": 17248,
+      "line": 268,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "JangaFX software has the option to add expressions and use math in most places where you can type. For example, when you ",
+      "source_text": "JangaFX software has the option to add expressions and use math in most places where you can type. For example, when you "
+    },
+    {
+      "id": "c21c016b88fd",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 17407,
+      "end": 17435,
+      "line": 268,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " click on a parameter value.",
+      "source_text": " click on a parameter value."
+    },
+    {
+      "id": "941fede78481",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 17443,
+      "end": 17477,
+      "line": 269,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "This is especcially useful in the ",
+      "source_text": "This is especcially useful in the "
+    },
+    {
+      "id": "c0088f420c95",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 17508,
+      "end": 17524,
+      "line": 269,
+      "parent_path": "div/article/section/p/span",
+      "source_raw": "curveExpressions",
+      "source_text": "curveExpressions"
+    },
+    {
+      "id": "9a48764cf5aa",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 17531,
+      "end": 17540,
+      "line": 269,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " section.",
+      "source_text": " section."
+    },
+    {
+      "id": "bb1c182ec24f",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 17548,
+      "end": 17611,
+      "line": 270,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The following is a comprehensive list on all available options.",
+      "source_text": "The following is a comprehensive list on all available options."
+    },
+    {
+      "id": "342dadeeb2d2",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 17645,
+      "end": 17654,
+      "line": 272,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Operators",
+      "source_text": "Operators"
+    },
+    {
+      "id": "4ca31e7c0beb",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 17766,
+      "end": 17771,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Add: ",
+      "source_text": "Add: "
+    },
+    {
+      "id": "a153bef74c0e",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 17864,
+      "end": 17869,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Sub: ",
+      "source_text": "Sub: "
+    },
+    {
+      "id": "4035552c4a9f",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 17962,
+      "end": 17967,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Mul: ",
+      "source_text": "Mul: "
+    },
+    {
+      "id": "7d34839003cd",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 18060,
+      "end": 18065,
+      "line": 277,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Quo: ",
+      "source_text": "Quo: "
+    },
+    {
+      "id": "924ad5a078eb",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 18158,
+      "end": 18163,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Rem: ",
+      "source_text": "Rem: "
+    },
+    {
+      "id": "a0cd80f7aecc",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 18256,
+      "end": 18261,
+      "line": 279,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Pow: ",
+      "source_text": "Pow: "
+    },
+    {
+      "id": "a8d7411562fb",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 18565,
+      "end": 18572,
+      "line": 282,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Comma: ",
+      "source_text": "Comma: "
+    },
+    {
+      "id": "221dc5aa8be7",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 18704,
+      "end": 18713,
+      "line": 286,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Constants",
+      "source_text": "Constants"
+    },
+    {
+      "id": "fa21c4c4ffa7",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 20112,
+      "end": 20121,
+      "line": 295,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Functions",
+      "source_text": "Functions"
+    },
+    {
+      "id": "ea98d8f96afe",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 20235,
+      "end": 20246,
+      "line": 297,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "0 arguments",
+      "source_text": "0 arguments"
+    },
+    {
+      "id": "8313856d25e5",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 20791,
+      "end": 20801,
+      "line": 306,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "1 argument",
+      "source_text": "1 argument"
+    },
+    {
+      "id": "9c567e98bd62",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 23933,
+      "end": 23944,
+      "line": 342,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "2 arguments",
+      "source_text": "2 arguments"
+    },
+    {
+      "id": "5ab536c2a0d0",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 24673,
+      "end": 24684,
+      "line": 353,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "3 arguments",
+      "source_text": "3 arguments"
+    },
+    {
+      "id": "f24ffe263a52",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 25541,
+      "end": 25601,
+      "line": 375,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "b21c2d687752",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 25607,
+      "end": 25630,
+      "line": 377,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "fa675e85e0f1",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 25668,
+      "end": 25674,
+      "line": 378,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "d642090055d8",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 25678,
+      "end": 25683,
+      "line": 378,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "9935f02abb9b",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 25733,
+      "end": 25743,
+      "line": 378,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "a3714378193b",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 25747,
+      "end": 25775,
+      "line": 378,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "f7fcdd20cc6a",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 25819,
+      "end": 25823,
+      "line": 380,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "211bd374aa71",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 26140,
+      "end": 26176,
+      "line": 395,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "76175c0dbf7c",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 26333,
+      "end": 26344,
+      "line": 402,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "8f1936cd4cc7",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 26405,
+      "end": 26414,
+      "line": 403,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Operators",
+      "source_text": "Operators"
+    },
+    {
+      "id": "ffc7d31fc33f",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 26476,
+      "end": 26485,
+      "line": 404,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Constants",
+      "source_text": "Constants"
+    },
+    {
+      "id": "d1912ec91389",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 26547,
+      "end": 26556,
+      "line": 405,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Functions",
+      "source_text": "Functions"
+    },
+    {
+      "id": "bfd39a9da23b",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 26617,
+      "end": 26628,
+      "line": 406,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "0 arguments",
+      "source_text": "0 arguments"
+    },
+    {
+      "id": "0cdc8d17a369",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 26689,
+      "end": 26699,
+      "line": 407,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "1 argument",
+      "source_text": "1 argument"
+    },
+    {
+      "id": "dd26aed4d86d",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 26755,
+      "end": 26766,
+      "line": 408,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "2 arguments",
+      "source_text": "2 arguments"
+    },
+    {
+      "id": "ec4a195b3900",
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "start": 26822,
+      "end": 26833,
+      "line": 409,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "3 arguments",
+      "source_text": "3 arguments"
+    }
+  ]
+}

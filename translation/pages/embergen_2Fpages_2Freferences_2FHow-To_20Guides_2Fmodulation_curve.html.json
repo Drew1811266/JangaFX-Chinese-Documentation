@@ -1,0 +1,1567 @@
+{
+  "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "515f833dfad6",
+      "source": "Modulation Curve - JangaFX Documentation",
+      "target": "调制曲线 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "87c7e916eefd",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "0d9d52bf290d",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "f33c5c9d19e0",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "66fa8181cc09",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "cc960623a430",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "8e54b7d87103",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "65dbbd8abc0d",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "6fd4c7f428e7",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "5fe96503c488",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "a94bfa2dc852",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "75c014e5a60d",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "a9922b5a35d6",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "f51520fff1da",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "50b9ea5ffafc",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "64924d137d25",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "b11686c757a6",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "398122ff2236",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "0674e372ef78",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "cf4f67e43343",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "0d31317a35b1",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "7f7c595fbf1b",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "5105df5e527e",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "b9ea1f4c2bfb",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "8f263b742602",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "920a7932b49a",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "c04720aa40c1",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "31c8bbea7232",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "9ab249e5104b",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "0108a2767fb1",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "a849917f92f1",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "277e3a3c1fd0",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "1d0240170711",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "66149169a505",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "d6b3d92dbc08",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "7dee82204557",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "36a7c0b55b1f",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "c2de01d8068e",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "ac7fd34e89e7",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "5c06642f22fe",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "780780668776",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "3dd29bc6aaaf",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "32149c1372bf",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "47e440eeeca2",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "0e3ead6a7834",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "9f67988a4cf5",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "604f6cbc02e9",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "49784018e37a",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "8e186a38096d",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "1cae82680acf",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "653eeb2a39c5",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "8fa8c51e431d",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "d86c08e9ecdf",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "444b224f5202",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "ec77f6f7eeac",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "94a095164673",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "bf245aae3155",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "08125a515d40",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "df722ea7eb94",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "63d88c195090",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "d3875ceffad1",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "748390a46496",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "b83ca654305b",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "a32a4fe9ec74",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "a7a482b5ee7f",
+      "source": "Modulation curves are used to map values based on two axis.",
+      "target": "调制曲线用于基于两个轴映射数值。",
+      "note": ""
+    },
+    {
+      "id": "dd98f2a6b4e4",
+      "source": "Curve Editing",
+      "target": "曲线编辑",
+      "note": ""
+    },
+    {
+      "id": "32074956f301",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "040f169e2b90",
+      "source": "For more precise editing you can click the ",
+      "target": "如需更精确地编辑，可以单击曲线旁边的 ",
+      "note": ""
+    },
+    {
+      "id": "76dea1d30bf9",
+      "source": " icon next to the curve to open a bigger ",
+      "target": " 图标，打开更大的 ",
+      "note": ""
+    },
+    {
+      "id": "48ce47c672e6",
+      "source": "Remapping curve",
+      "target": "Remapping curve",
+      "note": ""
+    },
+    {
+      "id": "bec5b38a31cf",
+      "source": " window. This window can be scaled by ",
+      "target": " 窗口。可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "8ed06e1d2c3b",
+      "source": " clicking and dragging the corners and the window can be closed by clicking the ",
+      "target": " 单击并拖动窗口角来缩放此窗口，也可以单击右上角的 ",
+      "note": ""
+    },
+    {
+      "id": "e1c4b3b7b9f7",
+      "source": " icon in the top right corner or the ",
+      "target": " 图标，或属性面板中曲线旁边的 ",
+      "note": ""
+    },
+    {
+      "id": "29fe65ecb42d",
+      "source": " icon next to the curve in the properties panel.",
+      "target": " 图标来关闭窗口。",
+      "note": ""
+    },
+    {
+      "id": "52586151d528",
+      "source": "Double ",
+      "target": "双击",
+      "note": ""
+    },
+    {
+      "id": "13c22ab6729c",
+      "source": " click anywhere on the graph to insert another curve point.",
+      "target": " 图表中的任意位置，可插入另一个曲线点。",
+      "note": ""
+    },
+    {
+      "id": "7146297de7d3",
+      "source": " click and drag on a curve point to move it.",
+      "target": " 单击并拖动曲线点即可移动它。",
+      "note": ""
+    },
+    {
+      "id": "838ddfd28939",
+      "source": "Select a curve point by ",
+      "target": "通过 ",
+      "note": ""
+    },
+    {
+      "id": "ab06b677e568",
+      "source": " clicking on it.",
+      "target": " 单击来选择曲线点。",
+      "note": ""
+    },
+    {
+      "id": "65320f92cd82",
+      "source": "Box-select curve points by ",
+      "target": "通过 ",
+      "note": ""
+    },
+    {
+      "id": "0673dd4ddc60",
+      "source": " clicking and dragging.",
+      "target": " 单击并拖动来框选曲线点。",
+      "note": ""
+    },
+    {
+      "id": "f8f18df94539",
+      "source": "Add or subtract from your curve point selection by using ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "f062a30b69a5",
+      "source": "Ctrl",
+      "target": "Ctrl",
+      "note": ""
+    },
+    {
+      "id": "84397f751904",
+      "source": " clicking.",
+      "target": " 单击，可以在当前曲线点选择中添加或移除点。",
+      "note": ""
+    },
+    {
+      "id": "1b02ac04b4ed",
+      "source": "Select all curve points by pressing ",
+      "target": "按下 ",
+      "note": ""
+    },
+    {
+      "id": "c184b4ce9ff7",
+      "source": "Ctrl + A",
+      "target": "Ctrl + A",
+      "note": ""
+    },
+    {
+      "id": "c46b9e67768f",
+      "source": "Delete selected curve points by using the ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "c98e13c7c263",
+      "source": "Delete",
+      "target": "Delete",
+      "note": ""
+    },
+    {
+      "id": "756f36d2f15d",
+      "source": " key. Or use the right-click menu of the point and select ",
+      "target": " 键可删除选中的曲线点。也可以使用该点的右键菜单并选择 ",
+      "note": ""
+    },
+    {
+      "id": "2cd7be57bd58",
+      "source": "Delete",
+      "target": "Delete",
+      "note": ""
+    },
+    {
+      "id": "cbcbf5901232",
+      "source": "Use the ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "c1eb5566e823",
+      "source": " button or the right-click menu on the graph to select ",
+      "target": " 按钮，或在图表右键菜单中选择 ",
+      "note": ""
+    },
+    {
+      "id": "ba1d2f73a45f",
+      "source": "Flip Horizontally",
+      "target": "Flip Horizontally",
+      "note": ""
+    },
+    {
+      "id": "b624f451885a",
+      "source": " to flip all the curve points horizontally in the graph.",
+      "target": "，可将图表中的所有曲线点水平翻转。",
+      "note": ""
+    },
+    {
+      "id": "781564412534",
+      "source": "Use the ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "8dcbbef792b6",
+      "source": " button or the right-click menu on the graph to select ",
+      "target": " 按钮，或在图表右键菜单中选择 ",
+      "note": ""
+    },
+    {
+      "id": "537468a6a9a6",
+      "source": "Flip Vertically",
+      "target": "Flip Vertically",
+      "note": ""
+    },
+    {
+      "id": "011a4be5bca9",
+      "source": " to flip all the curve points vertically in the graph.",
+      "target": "，可将图表中的所有曲线点垂直翻转。",
+      "note": ""
+    },
+    {
+      "id": "8f60ef238b97",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "0fbc178652a3",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "c7679f628ded",
+      "source": "Interpolation Mode",
+      "target": "Interpolation Mode（插值模式）",
+      "note": ""
+    },
+    {
+      "id": "e239e0f36e7a",
+      "source": " defines the method of interpolating the values from one curve point to another.",
+      "target": "”定义从一个曲线点到另一个曲线点时数值的插值方法。",
+      "note": ""
+    },
+    {
+      "id": "0176d64103ba",
+      "source": "You can change the Interpolation Mode of the curve points in the right-click menu.",
+      "target": "可以在右键菜单中更改曲线点的 Interpolation Mode（插值模式）。",
+      "note": ""
+    },
+    {
+      "id": "2dd56fc1051c",
+      "source": "Note that you can mix different interpolation modes on different curve points.",
+      "target": "注意，可以在不同曲线点上混用不同插值模式。",
+      "note": ""
+    },
+    {
+      "id": "a8414bcf999c",
+      "source": "The interpolation mode of the first (or left) curve point will be used between two curve points with different interpolation modes.",
+      "target": "当两个曲线点使用不同插值模式时，将使用第一个（或左侧）曲线点的插值模式来计算它们之间的变化。",
+      "note": ""
+    },
+    {
+      "id": "0a930307a0fc",
+      "source": "There are a few options:",
+      "target": "可用选项如下：",
+      "note": ""
+    },
+    {
+      "id": "305c99f31b65",
+      "source": "Bézier",
+      "target": "Bézier",
+      "note": "translation memory"
+    },
+    {
+      "id": "b4ebb127306c",
+      "source": " will interpolate the values based on the bézier handles. When using this mode you can see the bézier handles when selecting a single curve point. You can change the interpolation by ",
+      "target": " 会根据 Bézier 手柄对数值进行插值。使用此模式时，选中单个曲线点后可以看到 Bézier 手柄。可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "9f4493443469",
+      "source": "LMB",
+      "target": "LMB",
+      "note": ""
+    },
+    {
+      "id": "4e16f73c7481",
+      "source": " and dragging the dots at the end of the bézier handles. A flat part of the curve means the values change slowly and a steep part of the curve means the values change quickly.",
+      "target": " 并拖动 Bézier 手柄末端的点来调整插值。曲线平缓的部分表示数值变化较慢，曲线陡峭的部分表示数值变化较快。",
+      "note": ""
+    },
+    {
+      "id": "d36e348d28a4",
+      "source": "Smooth",
+      "target": "Smooth",
+      "note": ""
+    },
+    {
+      "id": "95206bf7ff60",
+      "source": " will generate a smooth line from one curve point to another. This avoids having hard transitions.",
+      "target": " 会在一个曲线点到另一个曲线点之间生成平滑曲线，避免生硬过渡。",
+      "note": ""
+    },
+    {
+      "id": "9f5e87ddb923",
+      "source": "Linear",
+      "target": "Linear",
+      "note": ""
+    },
+    {
+      "id": "de79e5bcb6f1",
+      "source": " Values move linearly from one curve point to another. This is useful for getting very predictable results, but can result in robotic looking transitions.",
+      "target": " 数值会从一个曲线点线性移动到另一个曲线点。这有助于获得非常可预测的结果，但也可能产生机械感较强的过渡。",
+      "note": ""
+    },
+    {
+      "id": "b6f8167e968f",
+      "source": "Constant",
+      "target": "Constant",
+      "note": ""
+    },
+    {
+      "id": "bd71f75c83c0",
+      "source": " Values stay constant until the next curve point is reached. This results in jumping values.",
+      "target": " 数值会保持恒定，直到到达下一个曲线点。因此数值会出现跳变。",
+      "note": ""
+    },
+    {
+      "id": "3dff6d1ecf05",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "f87785129516",
+      "source": "When using the ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "d195224d81e3",
+      "source": "Bézier",
+      "target": "Bézier",
+      "note": "translation memory"
+    },
+    {
+      "id": "9cf9e266b4ac",
+      "source": " mode, there are a few handle types you can use also found in the right-click menu.",
+      "target": " 模式时，可以使用几种手柄类型；它们同样位于右键菜单中。",
+      "note": ""
+    },
+    {
+      "id": "1f784118b609",
+      "source": "Aligned",
+      "target": "Aligned",
+      "note": ""
+    },
+    {
+      "id": "88e53fa7f4c3",
+      "source": " The handles can be moved freely and can have any direction and length. For this type, one handle is always in the inverted direction and has the same length as the other one.",
+      "target": " 手柄可以自由移动，方向和长度都不受限制。对于此类型，一个手柄始终位于另一个手柄的反方向，并且长度相同。",
+      "note": ""
+    },
+    {
+      "id": "9c19a2f69e43",
+      "source": "Free",
+      "target": "Free",
+      "note": ""
+    },
+    {
+      "id": "6f8fd7ca42d2",
+      "source": " The handles can be moved in any way separate from each other.",
+      "target": " 两侧手柄可以彼此独立地任意移动。",
+      "note": ""
+    },
+    {
+      "id": "b693f8177df1",
+      "source": "Auto Clamped",
+      "target": "Auto Clamped",
+      "note": ""
+    },
+    {
+      "id": "a10dcc1cc373",
+      "source": " This is the default behavior. For this type, the handles can never go beyond the previous or next curve point. Note that when changing the handles the type will be set to Aligned.",
+      "target": " 这是默认行为。对于此类型，手柄绝不会越过前一个或后一个曲线点。请注意，修改手柄后，类型会被设置为 Aligned。",
+      "note": ""
+    },
+    {
+      "id": "1866c89a6554",
+      "source": "Auto Vectored",
+      "target": "Auto Vectored",
+      "note": ""
+    },
+    {
+      "id": "af763e66cdf8",
+      "source": " This will point the left handle towards the previous curve point and the right handle towards the next curve point. Note that when changing the handles the type will be set to Free.",
+      "target": " 这会让左侧手柄指向前一个曲线点，右侧手柄指向后一个曲线点。请注意，修改手柄后，类型会被设置为 Free。",
+      "note": ""
+    },
+    {
+      "id": "c98d16a39abc",
+      "source": "You can always reset the bezier handles to default for the selected curve points by clicking on ",
+      "target": "始终可以点击 ",
+      "note": ""
+    },
+    {
+      "id": "939e3d6fbb81",
+      "source": "Reset Handle",
+      "target": "Reset Handle",
+      "note": ""
+    },
+    {
+      "id": "c785efa59dda",
+      "source": " in the right-click menu.",
+      "target": "（位于右键菜单中），将所选曲线点的 Bézier 手柄重置为默认值。",
+      "note": ""
+    },
+    {
+      "id": "377e5617d114",
+      "source": "Curve Presets",
+      "target": "曲线预设",
+      "note": ""
+    },
+    {
+      "id": "223fa67f3726",
+      "source": "When clicking one of the curve preset buttons below the graph the curve will be overwritten to that setup.",
+      "target": "单击图表下方的任一曲线预设按钮时，曲线会被覆盖为该预设形状。",
+      "note": ""
+    },
+    {
+      "id": "588718a00c12",
+      "source": "You can still freely edit the curve after selecting a preset.",
+      "target": "选择预设后，仍然可以自由编辑曲线。",
+      "note": ""
+    },
+    {
+      "id": "670bb29329c8",
+      "source": "These presets are useful because they can quickly set up common curves for you or give you a useful starting point.",
+      "target": "这些预设很有用，因为它们可以快速建立常见曲线，或提供一个实用的起点。",
+      "note": ""
+    },
+    {
+      "id": "38458d2189d5",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "bd4417150622",
+      "source": " Set the graph to a two-point curve with both points at the maximum value.",
+      "target": " 将图表设置为两个点都位于最大值的两点曲线。",
+      "note": ""
+    },
+    {
+      "id": "68194f7a7ca0",
+      "source": " Set the graph to a two-point curve with both points at the minimum value.",
+      "target": " 将图表设置为两个点都位于最小值的两点曲线。",
+      "note": ""
+    },
+    {
+      "id": "f5b892bfd703",
+      "source": " Set the graph to a two-point curve with the first point at the minimum value and the second point at the maximum value.",
+      "target": " 将图表设置为第一个点位于最小值、第二个点位于最大值的两点曲线。",
+      "note": ""
+    },
+    {
+      "id": "1327323e3790",
+      "source": " Set the graph to a two-point curve with the first point at the maximum value and the second point at the minimum value.",
+      "target": " 将图表设置为第一个点位于最大值、第二个点位于最小值的两点曲线。",
+      "note": ""
+    },
+    {
+      "id": "fa145e201783",
+      "source": " Set the graph to a three-point curve with the first point at the minimum value, the second at the maximum value, and the third at the minimum value.",
+      "target": " 将图表设置为第一个点位于最小值、第二个点位于最大值、第三个点位于最小值的三点曲线。",
+      "note": ""
+    },
+    {
+      "id": "ed7244092819",
+      "source": " Set the graph to a three-point curve with the first point at the maximum value, the second at the minimum value, and the third at the maximum value.",
+      "target": " 将图表设置为第一个点位于最大值、第二个点位于最小值、第三个点位于最大值的三点曲线。",
+      "note": ""
+    },
+    {
+      "id": "4a1656bc6706",
+      "source": " These are the same as the last four but using a ",
+      "target": " 这些与前四个相同，但使用 ",
+      "note": ""
+    },
+    {
+      "id": "4a05d178a960",
+      "source": "Bézier",
+      "target": "Bézier",
+      "note": "translation memory"
+    },
+    {
+      "id": "8061f3c147e0",
+      "source": " interpolation with the ",
+      "target": " 插值，并使用 ",
+      "note": ""
+    },
+    {
+      "id": "534e0dc4c667",
+      "source": "Free",
+      "target": "Free",
+      "note": ""
+    },
+    {
+      "id": "35867dc1ad21",
+      "source": " handle type instead of the ",
+      "target": " 手柄类型，而不是 ",
+      "note": ""
+    },
+    {
+      "id": "e49db48b2cdd",
+      "source": "Linear",
+      "target": "Linear",
+      "note": ""
+    },
+    {
+      "id": "a127bb9609d5",
+      "source": " interpolation giving smoother transitions from point to point.",
+      "target": " 插值，从而获得点到点之间更平滑的过渡。",
+      "note": ""
+    },
+    {
+      "id": "93cd647dd0f7",
+      "source": "Saving and Loading Curves",
+      "target": "保存和加载曲线",
+      "note": ""
+    },
+    {
+      "id": "528e957b8a44",
+      "source": "Any modulation curve can be saved to your hard drive for later use!",
+      "target": "任何调制曲线都可以保存到硬盘，供以后使用！",
+      "note": ""
+    },
+    {
+      "id": "a6d0afae4b9e",
+      "source": "When you use a specific custom curve often, you can save it and load it into any project.",
+      "target": "如果经常使用某条特定的自定义曲线，可以将其保存，并在任意项目中加载。",
+      "note": ""
+    },
+    {
+      "id": "5b02aec6afdc",
+      "source": "Loaded curves can still be edited in the modulation curve editor so you can also use them as a starting point or custom preset.",
+      "target": "加载后的曲线仍然可以在调制曲线编辑器中编辑，因此也可以将其作为起点或自定义预设。",
+      "note": ""
+    },
+    {
+      "id": "571fd6013e09",
+      "source": "Save or load a modulation curve by ",
+      "target": "要保存或加载调制曲线，可在图表中 ",
+      "note": ""
+    },
+    {
+      "id": "c6fc7ddf5bcb",
+      "source": " clicking in the graph and selecting ",
+      "target": " 单击并选择 ",
+      "note": ""
+    },
+    {
+      "id": "0a7ad4069cda",
+      "source": "Save…",
+      "target": "Save…",
+      "note": ""
+    },
+    {
+      "id": "93602c276ea2",
+      "source": " or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "35c01c5aadf4",
+      "source": "Load…",
+      "target": "Load…",
+      "note": ""
+    },
+    {
+      "id": "fa0b34d17569",
+      "source": "A file browser will pop up where you can navigate to the folder you want to save your curve to or load your curve from.",
+      "target": "文件浏览器会弹出，你可以导航到想要保存曲线或加载曲线的文件夹。",
+      "note": ""
+    },
+    {
+      "id": "cdf349a0724f",
+      "source": "To save a curve, provide a filename and use the ",
+      "target": "要保存曲线，请提供文件名并使用文件浏览器中的 ",
+      "note": ""
+    },
+    {
+      "id": "1e8ae4b6b684",
+      "source": "Save",
+      "target": "Save",
+      "note": ""
+    },
+    {
+      "id": "d919423f03d4",
+      "source": " button in the file browser.",
+      "target": " 按钮。",
+      "note": ""
+    },
+    {
+      "id": "b40ab67cd877",
+      "source": "The ",
+      "target": "保存时会自动添加 ",
+      "note": ""
+    },
+    {
+      "id": "e01aed9489a1",
+      "source": ".jfxcurve",
+      "target": ".jfxcurve",
+      "note": ""
+    },
+    {
+      "id": "6bc366ec6772",
+      "source": " extension will be added automatically and your custom curve file will be saved to your hard drive.",
+      "target": " 扩展名，并将你的自定义曲线文件保存到硬盘。",
+      "note": ""
+    },
+    {
+      "id": "4459ebb113ff",
+      "source": "To load a curve, select a file with the ",
+      "target": "要加载曲线，请在文件浏览器中选择带有 ",
+      "note": ""
+    },
+    {
+      "id": "f048c476fc3f",
+      "source": ".jfxcurve",
+      "target": ".jfxcurve",
+      "note": ""
+    },
+    {
+      "id": "d353f4511fa2",
+      "source": " extension in the file browser and use the ",
+      "target": " 扩展名的文件，并使用 ",
+      "note": ""
+    },
+    {
+      "id": "72297a4ac516",
+      "source": "Open",
+      "target": "Open",
+      "note": ""
+    },
+    {
+      "id": "7bc9977c957d",
+      "source": " button.",
+      "target": " 按钮。",
+      "note": ""
+    },
+    {
+      "id": "0809bebcfe4c",
+      "source": "If you decide not to load or save a curve use the ",
+      "target": "如果决定不加载或保存曲线，请使用文件浏览器中的 ",
+      "note": ""
+    },
+    {
+      "id": "6e3b137641e6",
+      "source": "Cancel",
+      "target": "Cancel",
+      "note": ""
+    },
+    {
+      "id": "4f5cacdd05f7",
+      "source": " button in the file browser.",
+      "target": " 按钮。",
+      "note": ""
+    },
+    {
+      "id": "05127306833a",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "d83df461eee0",
+      "source": "Curve Generator",
+      "target": "Curve Generator",
+      "note": ""
+    },
+    {
+      "id": "960ea9a7508e",
+      "source": "Another way to create modulation curves is to make them procedually using the ",
+      "target": "另一种创建调制曲线的方法，是使用 ",
+      "note": ""
+    },
+    {
+      "id": "2cbcfc96787c",
+      "source": "Curve Generator",
+      "target": "Curve Generator 以程序化方式生成它们",
+      "note": ""
+    },
+    {
+      "id": "7431532e758e",
+      "source": "To open the ",
+      "target": "要打开 ",
+      "note": ""
+    },
+    {
+      "id": "a68c5ea98c47",
+      "source": "Curve Generator",
+      "target": "Curve Generator",
+      "note": ""
+    },
+    {
+      "id": "fe78650d2a58",
+      "source": " click within the graph and select ",
+      "target": "，请在图表中单击并选择 ",
+      "note": ""
+    },
+    {
+      "id": "31652310f41a",
+      "source": "Curve Generator…",
+      "target": "Curve Generator…",
+      "note": ""
+    },
+    {
+      "id": "41d30460bc77",
+      "source": " from the context menu.",
+      "target": "（位于上下文菜单中）。",
+      "note": ""
+    },
+    {
+      "id": "9bb1f2809217",
+      "source": "With the ",
+      "target": "打开 ",
+      "note": ""
+    },
+    {
+      "id": "a493c8ecf796",
+      "source": "Curve Generator",
+      "target": "Curve Generator",
+      "note": ""
+    },
+    {
+      "id": "b65ea3d5e54c",
+      "source": " window opened the curve is now controlled by the generator indicated with the visual glow over the graph.",
+      "target": " 窗口后，曲线会由生成器控制；图表上的发光效果会提示这一状态。",
+      "note": ""
+    },
+    {
+      "id": "3ca921f9e96b",
+      "source": "Let’s look at the options for controlling our curve:",
+      "target": "来看一下用于控制曲线的选项：",
+      "note": ""
+    },
+    {
+      "id": "daa81e23a291",
+      "source": "Resolution:",
+      "target": "Resolution：",
+      "note": ""
+    },
+    {
+      "id": "ca648b816e01",
+      "source": " Specifies the amount of points used to build the curve. More points can create more detailed curves, less points can make the curve easier to edit afterwards.",
+      "target": " 指定用于构建曲线的点数量。更多点可以创建更细致的曲线；更少点则让曲线之后更容易编辑。",
+      "note": ""
+    },
+    {
+      "id": "36e8ed807c26",
+      "source": "Seed:",
+      "target": "Seed：",
+      "note": ""
+    },
+    {
+      "id": "0e4fee0682ab",
+      "source": " Different numbers give different random changes when using the ",
+      "target": " 使用 ",
+      "note": ""
+    },
+    {
+      "id": "fe9366892a1d",
+      "source": " parameter and will drop different curve points when using the ",
+      "target": " 参数时，不同数字会产生不同随机变化；使用 ",
+      "note": ""
+    },
+    {
+      "id": "0f7153b24bf3",
+      "source": "Drop Chance",
+      "target": "Drop Chance",
+      "note": ""
+    },
+    {
+      "id": "5802b6f8c1e4",
+      "source": " parameter.",
+      "target": " 参数。",
+      "note": ""
+    },
+    {
+      "id": "99994805c2c8",
+      "source": "Note that the next four parameters are split into two columns both controlling a different waveform!\nThe right column doesn’t affect the curve by default as the ",
+      "target": "请注意，接下来的四个参数被分为两列，分别控制不同的波形！\n默认情况下，右侧列不会影响曲线，因为该波形的 ",
+      "note": ""
+    },
+    {
+      "id": "f6763008baa4",
+      "source": "Gain",
+      "target": "Gain",
+      "note": ""
+    },
+    {
+      "id": "936d35358c0d",
+      "source": " parameter for that waveform is set to 0%!",
+      "target": " 参数设置为 0%！",
+      "note": ""
+    },
+    {
+      "id": "49319b989556",
+      "source": "Waveform:",
+      "target": "Waveform：",
+      "note": ""
+    },
+    {
+      "id": "48a555aa4897",
+      "source": " Type of function to determine the curve shape.",
+      "target": " 决定曲线形状的函数类型。",
+      "note": ""
+    },
+    {
+      "id": "3b1afbbae775",
+      "source": "Sine: Sinewave, smooth oscillation up and down.",
+      "target": "Sine：正弦波，平滑地上下振荡。",
+      "note": ""
+    },
+    {
+      "id": "7e1192ede26c",
+      "source": "Saw: Oscillation over a modulo curve, the value will abruptly reset to the same value every cycle.",
+      "target": "Saw：沿取模曲线振荡，数值会在每个周期突然重置为同一个值。",
+      "note": ""
+    },
+    {
+      "id": "3860d348f801",
+      "source": "Pulse: Abruptly switches from a top value to a bottom value back and forth.",
+      "target": "Pulse：在顶部值和底部值之间来回突然切换。",
+      "note": ""
+    },
+    {
+      "id": "5f14f5bd53c3",
+      "source": "Frequency:",
+      "target": "Frequency：",
+      "note": ""
+    },
+    {
+      "id": "cf1e7ab5f82b",
+      "source": " Amount of waveform cycles within the 0% to 100% range.",
+      "target": " 0% 到 100% 范围内的波形周期数量。",
+      "note": ""
+    },
+    {
+      "id": "40dfcef8276a",
+      "source": "Phase:",
+      "target": "Phase：",
+      "note": ""
+    },
+    {
+      "id": "8c1d1b478b62",
+      "source": " Phase of the funtion. You can use this to move your waveform horizontaly.",
+      "target": " 函数的相位。可以用它水平移动波形。",
+      "note": ""
+    },
+    {
+      "id": "8e657676fd07",
+      "source": "Gain:",
+      "target": "Gain：",
+      "note": ""
+    },
+    {
+      "id": "6395549f117d",
+      "source": " Waveform intensity. At 100% the waveform will oscillate from 0% to 100% using the whole graph, at 0% the waveform will oscillate from 50% to 50% turning in to a straight line (these values can be offset by using the ",
+      "target": " 波形强度。100% 时，波形会使用整个图表在 0% 到 100% 之间振荡；0% 时，波形会从 50% 振荡到 50%，变成一条直线（这些值可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "bfb4045d9535",
+      "source": "Offset parameter",
+      "target": "Offset parameter",
+      "note": ""
+    },
+    {
+      "id": "e49f756dc0db",
+      "source": "). Using the ",
+      "target": " 偏移）。使用 ",
+      "note": ""
+    },
+    {
+      "id": "8fab87a3e86b",
+      "source": "Gain",
+      "target": "Gain",
+      "note": ""
+    },
+    {
+      "id": "d5f53a103795",
+      "source": " parameter is like scaling your waveform in the vertical axis. This parameter is also used to mix the two different waveforms together.",
+      "target": " 参数就像在垂直轴上缩放波形。此参数也用于将两个不同波形混合在一起。",
+      "note": ""
+    },
+    {
+      "id": "8d708fd84e77",
+      "source": " Varies the position of the curve points. Note that this isn’t related to the waveform and affects all curvepoints. The left slider will randomly move the curve points horizontally over the graph, and the right slider will move the curve points vertically over the graph. Higher percentages result in the curve points moving further from their original positions, 100% will randomly move the curve points within a range of 0 to 100%. This parameter is useful to add some organic variation to the mathematically smooth shapes of the waveforms. To get a different randomization of the positions you can use a different value in the ",
+      "target": " 改变曲线点的位置。请注意，这与波形无关，并会影响所有曲线点。左侧滑块会在图表上随机水平移动曲线点，右侧滑块会随机垂直移动曲线点。百分比越高，曲线点离原始位置越远；100% 会在 0 到 100% 的范围内随机移动曲线点。此参数可为数学上平滑的波形形状添加一些有机变化。若要获得不同的位置随机化结果，可以在 ",
+      "note": ""
+    },
+    {
+      "id": "fb92566a60eb",
+      "source": "Seed",
+      "target": "Seed",
+      "note": ""
+    },
+    {
+      "id": "db9b9f64164e",
+      "source": " parameter.",
+      "target": " 参数。",
+      "note": ""
+    },
+    {
+      "id": "75acc66b35d0",
+      "source": "Drop Chance:",
+      "target": "Drop Chance：",
+      "note": ""
+    },
+    {
+      "id": "39bc966b3563",
+      "source": " The chance in percentage of the curve points being removed from the curve. This is useful to distribute the detail more randomly over the curve creating a more organic-looking curve. 0% means no curve points will be dropped 100% means all curve points will be dropped basically removing the curve. Different curve points will be dropped when using different values in the ",
+      "target": " 曲线点从曲线中被移除的百分比概率。它有助于在曲线上更随机地分布细节，从而创建更自然的曲线。0% 表示不会删除任何曲线点，100% 表示所有曲线点都会被删除，基本等同于移除曲线。使用不同的 ",
+      "note": ""
+    },
+    {
+      "id": "73d05ee05d03",
+      "source": "Seed",
+      "target": "Seed",
+      "note": ""
+    },
+    {
+      "id": "6cc3ffad0e89",
+      "source": " parameter.",
+      "target": " 参数。",
+      "note": ""
+    },
+    {
+      "id": "a9c97eaa4a8d",
+      "source": "Offset:",
+      "target": "Offset：",
+      "note": ""
+    },
+    {
+      "id": "29217407e6a0",
+      "source": " Offsets the vertical position of the whole curve. This can be used to move the modulation curve vertically. Curve point positions will be clipped within the 0% to 100% range.",
+      "target": " 偏移整条曲线的垂直位置。可用于垂直移动调制曲线。曲线点位置会被限制在 0% 到 100% 范围内。",
+      "note": ""
+    },
+    {
+      "id": "0ed8fdedf51f",
+      "source": "Attenuation:",
+      "target": "Attenuation：",
+      "note": ""
+    },
+    {
+      "id": "6d912f62a399",
+      "source": " Intensity of the modulation curve. This can be used to scale the whole curve vertically. For example, ",
+      "target": " 调制曲线的强度。可用于垂直缩放整条曲线。例如，",
+      "note": ""
+    },
+    {
+      "id": "6c0e1c4a2fb4",
+      "source": "-100% will flip the curve vertically.",
+      "target": "-100% 会垂直翻转曲线。",
+      "note": ""
+    },
+    {
+      "id": "f94545eb3c59",
+      "source": "Apply Immediately:",
+      "target": "Apply Immediately：",
+      "note": ""
+    },
+    {
+      "id": "2b2d67c6935d",
+      "source": " If this checkbox is checked, all changes made in the ",
+      "target": " 如果勾选此复选框，在 ",
+      "note": ""
+    },
+    {
+      "id": "4e4595795b94",
+      "source": "Curve Generator",
+      "target": "Curve Generator",
+      "note": ""
+    },
+    {
+      "id": "960616fb8228",
+      "source": " are immediately applied to the modulation curve so you can see the results in the viewport. If not checked, you can see the curve you’re creating in the graph but its effects won’t immediately be applied to your project whenever you change a parameter in the ",
+      "target": " 中所做的所有更改都会立即应用到调制曲线，因此可以在视口中看到结果。如果未勾选，你可以在图表中看到正在创建的曲线，但每次在 ",
+      "note": ""
+    },
+    {
+      "id": "396707d7708b",
+      "source": "Curve Generator",
+      "target": "Curve Generator",
+      "note": ""
+    },
+    {
+      "id": "70683e91dc91",
+      "source": " and if you click the ",
+      "target": " 中更改参数时，它的效果不会立即应用到项目；如果单击 ",
+      "note": ""
+    },
+    {
+      "id": "18128d1d8566",
+      "source": " in the top right corner of the ",
+      "target": "（位于 ",
+      "note": ""
+    },
+    {
+      "id": "58bbf8ed00ac",
+      "source": "Curve Generator",
+      "target": "Curve Generator",
+      "note": ""
+    },
+    {
+      "id": "3c7322c82b76",
+      "source": " you would still have the modulation curve you started with before opening the ",
+      "target": " 的右上角），则仍会保留打开 ",
+      "note": ""
+    },
+    {
+      "id": "306b39806d9b",
+      "source": "Curve Generator",
+      "target": "Curve Generator",
+      "note": ""
+    },
+    {
+      "id": "c7d9765bd8d1",
+      "source": " window.",
+      "target": " 窗口前最初的调制曲线。",
+      "note": ""
+    },
+    {
+      "id": "61346775a266",
+      "source": "Reset:",
+      "target": "Reset：",
+      "note": ""
+    },
+    {
+      "id": "58ae42454067",
+      "source": " Sets all parameters in the ",
+      "target": " 将 ",
+      "note": ""
+    },
+    {
+      "id": "15151fc2569b",
+      "source": "Curve Generator",
+      "target": "Curve Generator",
+      "note": ""
+    },
+    {
+      "id": "aed66dd7926d",
+      "source": " to their default values creating a basic sinewave curve.",
+      "target": " 中的所有参数设置为默认值，创建一条基础正弦波曲线。",
+      "note": ""
+    },
+    {
+      "id": "d568e822b9da",
+      "source": "Apply:",
+      "target": "Apply：",
+      "note": ""
+    },
+    {
+      "id": "b6ce253a98d7",
+      "source": " Applies the generated curve to the modulation curve in your project and closes the ",
+      "target": " 将生成的曲线应用到项目中的调制曲线，并关闭 ",
+      "note": ""
+    },
+    {
+      "id": "e94ee61a66e4",
+      "source": "Curve Generator",
+      "target": "Curve Generator",
+      "note": ""
+    },
+    {
+      "id": "4bd26aa3827b",
+      "source": " window.",
+      "target": " 窗口。",
+      "note": ""
+    },
+    {
+      "id": "29f033210926",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c72ded5cc2d5",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "3300bbd53d48",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "53c13c2873cc",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "573c389773ba",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "9b69bd8cf35e",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "2b44e63faec5",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "82d541300166",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "e13b8e5c6bba",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4290cf6230f3",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "9a7937b909fb",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c9dd9123022b",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "dc3e374b6ec3",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "450a2567c911",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "38714faf229a",
+      "source": "Curve Editing",
+      "target": "曲线编辑",
+      "note": ""
+    },
+    {
+      "id": "82e67eb9a7b9",
+      "source": "Curve Presets",
+      "target": "曲线预设",
+      "note": ""
+    },
+    {
+      "id": "0d68ab502256",
+      "source": "Saving and Loading Curves",
+      "target": "保存和加载曲线",
+      "note": ""
+    },
+    {
+      "id": "d3eddb2a9401",
+      "source": "Curve Generator",
+      "target": "Curve Generator",
+      "note": ""
+    }
+  ],
+  "updated_at": "2026-07-03T10:37:19Z"
+}

@@ -1,0 +1,1405 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "5295e6b5e96b",
+      "source": "Modulating Parameters - JangaFX Documentation",
+      "target": "调制参数 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "2173edb0b65e",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "121e20847b34",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "cea6f6901585",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "29229c3ff3bc",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "480049eab551",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "a3c5b9afd7a2",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "fd023440d3a9",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "047a434ae9b2",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "e928d3e775dc",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "ae8322c809d2",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "4afe8885d07c",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "7c6d093738fe",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "386e4343b5dc",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "9abaf6776de8",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "492ecf9eacbe",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "1f00eaf7ba6c",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "dab781a5165e",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "cb34230aeb6f",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "d45ff9a07f32",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "85aa213c7026",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "cc061de7a8f7",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "80fc228f444f",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "3b5df38f9228",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "ccbce6712a03",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "d6276c99dea8",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "1ec97c34f833",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "c7431b0ee0fd",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "0cfd227f9b9a",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "cd682e66a269",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "a4a526c1b0eb",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "bfb495d843be",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "a1cf57e414ae",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "11e25972df64",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "8e280aea88a8",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "81e892fbe336",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "41f6fbed263f",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "b21641454ea4",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "df6f0c41657c",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "279c976f26e8",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "7263472f6876",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "9485001dbcf2",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "2131592b76d8",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "c14572b98f7e",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "72a234294f50",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "fbd60db930bc",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "5a6dc4476db6",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "dc303ee592f0",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "0eb6c3777693",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "f8b50cc1131b",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "69daa39eae29",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "93b57b8c77d2",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "0fcb1d75820d",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "330afa955a98",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "1c5492964018",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "2cf177bff1da",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "b2a312c09ed5",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "e926ede8f95e",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "614a984a5aab",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "c83bec3f0227",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "8de0a5397462",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "3bb964cbbd2e",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "8b3a08f63bc4",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "f241202f30d1",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "ca30613b9219",
+      "source": "Most parameters in Embergen can be controlled by an external modulation node.",
+      "target": "大多数参数都可以由外部调制节点控制。",
+      "note": ""
+    },
+    {
+      "id": "13477b51b1df",
+      "source": "How to modulate a parameter",
+      "target": "如何调制参数",
+      "note": ""
+    },
+    {
+      "id": "3cb85dff882f",
+      "source": "Let’s say we want a sphere to continuously move up and down. This can be done by hand using keyframes, but you can also use an ",
+      "target": "假设我们想让球体持续上下移动。这可以用关键帧手动完成，但也可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "0dfaaa607e6a",
+      "source": "Mod: Oscillator",
+      "target": "Mod: Oscillator",
+      "note": "translation memory"
+    },
+    {
+      "id": "5297891ee996",
+      "source": " node.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "bc1b1811826f",
+      "source": "Set the override state for the ",
+      "target": "将 ",
+      "note": ""
+    },
+    {
+      "id": "a33cb117ed14",
+      "source": "Position",
+      "target": "Position",
+      "note": ""
+    },
+    {
+      "id": "3efd2d5b5916",
+      "source": " parameter to ",
+      "target": " 参数的覆盖状态设置为 ",
+      "note": ""
+    },
+    {
+      "id": "93074979fb05",
+      "source": "Pin Override",
+      "target": "Pin Override",
+      "note": ""
+    },
+    {
+      "id": "63bffab85be9",
+      "source": " by ",
+      "target": "，方法是 ",
+      "note": ""
+    },
+    {
+      "id": "27763784b6c5",
+      "source": " clicking on the icon next to it.",
+      "target": " 单击其旁边的图标。",
+      "note": ""
+    },
+    {
+      "id": "b35ed8521bfa",
+      "source": "Connect an ",
+      "target": "将 ",
+      "note": ""
+    },
+    {
+      "id": "4abc2e7c076a",
+      "source": "Mod: Oscillator",
+      "target": "Mod: Oscillator",
+      "note": "translation memory"
+    },
+    {
+      "id": "296eff02852c",
+      "source": " node to the now exposed pin on the left side.",
+      "target": " 节点连接到左侧现在暴露出来的引脚。",
+      "note": ""
+    },
+    {
+      "id": "3bf1c8d19993",
+      "source": "Set ",
+      "target": "将 ",
+      "note": ""
+    },
+    {
+      "id": "a19343253c91",
+      "source": "Waveform X",
+      "target": "Waveform X",
+      "note": ""
+    },
+    {
+      "id": "ef2cd54360f6",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c17148e38658",
+      "source": " to None so only the Z-position will oscillate.",
+      "target": " 设置为 None，这样只有 Z 位置会振荡。",
+      "note": ""
+    },
+    {
+      "id": "ddf7d96de066",
+      "source": "Adjust the settings in the oscillator node to your liking.",
+      "target": "根据需要调整 Oscillator 节点中的设置。",
+      "note": ""
+    },
+    {
+      "id": "4dd6c9b46516",
+      "source": "Node Details",
+      "target": "Node Details（节点详情）",
+      "note": ""
+    },
+    {
+      "id": "db80b39c3f6c",
+      "source": "Let’s have a look at the Node Details for the Oscillator.",
+      "target": "来看一下 Oscillator 的 Node Details（节点详情）。",
+      "note": ""
+    },
+    {
+      "id": "8dac4b8e6cd6",
+      "source": "Output",
+      "target": "输出",
+      "note": ""
+    },
+    {
+      "id": "753f7fb56a44",
+      "source": "Signal:",
+      "target": "Signal：",
+      "note": ""
+    },
+    {
+      "id": "fd6507df2f4d",
+      "source": " Visual representation of the created waveform.",
+      "target": " 所创建波形的可视化表示。",
+      "note": ""
+    },
+    {
+      "id": "cd7d83707019",
+      "source": "Below the ",
+      "target": "在 ",
+      "note": ""
+    },
+    {
+      "id": "1a9089cec116",
+      "source": "Signal",
+      "target": "Signal",
+      "note": ""
+    },
+    {
+      "id": "e6a9347cc4ec",
+      "source": " display is a list of all parameters that are connected to the ",
+      "target": " 显示区下方，是所有连接到 ",
+      "note": ""
+    },
+    {
+      "id": "de00f9386c5e",
+      "source": "Mod: Oscillator",
+      "target": "Mod: Oscillator",
+      "note": "translation memory"
+    },
+    {
+      "id": "244efcc417f6",
+      "source": " node.",
+      "target": " 节点的参数列表。",
+      "note": ""
+    },
+    {
+      "id": "9fc8638030db",
+      "source": "The parameters are represented with range sliders for each component.",
+      "target": "这些参数会以每个分量一个范围滑块的形式表示。",
+      "note": ""
+    },
+    {
+      "id": "371a09187310",
+      "source": "Here, ",
+      "target": "这里，",
+      "note": ""
+    },
+    {
+      "id": "6e4f92b7b2f5",
+      "source": "Volume flow rate",
+      "target": "Volume flow rate",
+      "note": ""
+    },
+    {
+      "id": "90e20bb93469",
+      "source": " only has one component and therefore has only one range slider and will be controlled by the ",
+      "target": " 只有一个分量，因此只有一个范围滑块，并且只会由 ",
+      "note": ""
+    },
+    {
+      "id": "6bff257120e4",
+      "source": "Waveform X",
+      "target": "Waveform X",
+      "note": ""
+    },
+    {
+      "id": "2fcba17a9aec",
+      "source": " only.",
+      "target": " 控制。",
+      "note": ""
+    },
+    {
+      "id": "482a0c22f67a",
+      "source": "These range sliders can be used to control the way in which the parameter values are mapped to the waveform. The ",
+      "target": "这些范围滑块可用于控制参数值映射到波形的方式。范围滑块中的 ",
+      "note": ""
+    },
+    {
+      "id": "a7d24b8b350b",
+      "source": "min",
+      "target": "min",
+      "note": ""
+    },
+    {
+      "id": "583d3db883a1",
+      "source": " value in the range slider is the lowest possible value for the parameter and the ",
+      "target": " 值是该参数可能的最低值，",
+      "note": ""
+    },
+    {
+      "id": "6b61d965499f",
+      "source": "max",
+      "target": "max",
+      "note": ""
+    },
+    {
+      "id": "aff68ac38c4c",
+      "source": " value the highest.",
+      "target": " 值是最高值。",
+      "note": ""
+    },
+    {
+      "id": "869613f32e42",
+      "source": "For example, when using a default sine wave the parameter value will oscillate smoothly up and down within the value range set by the range slider. Here, the ",
+      "target": "例如，使用默认正弦波时，参数值会在范围滑块设定的值域内平滑上下振荡。这里，",
+      "note": ""
+    },
+    {
+      "id": "1fb1883e1dd8",
+      "source": "Position",
+      "target": "Position",
+      "note": ""
+    },
+    {
+      "id": "c279303cc061",
+      "source": " parameters can oscillate between ",
+      "target": " 参数可以在 ",
+      "note": ""
+    },
+    {
+      "id": "3974946bf2d6",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "422f3f3a6de2",
+      "source": " meters and the ",
+      "target": " 米之间振荡，而 ",
+      "note": ""
+    },
+    {
+      "id": "fbe63ac183e6",
+      "source": "Fuel rate",
+      "target": "Fuel rate",
+      "note": ""
+    },
+    {
+      "id": "7e16f1ec67f8",
+      "source": " can oscillate between a rate of ",
+      "target": " 可以在 ",
+      "note": ""
+    },
+    {
+      "id": "236e869a9a27",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "2832fe64778b",
+      "source": " percent per second.",
+      "target": " 百分比/秒的速率之间振荡。",
+      "note": ""
+    },
+    {
+      "id": "2b8ef774b841",
+      "source": "For more information on how to use range sliders, please check out our ",
+      "target": "更多关于范围滑块的用法，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "d38d6b9199ae",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "04ad778eb4a6",
+      "source": " page!",
+      "target": " 页面！",
+      "note": ""
+    },
+    {
+      "id": "6da09dbd47bd",
+      "source": "Main",
+      "target": "Main（主要）",
+      "note": ""
+    },
+    {
+      "id": "b9a0dea035fd",
+      "source": "Custom Waveform:",
+      "target": "Custom Waveform：",
+      "note": ""
+    },
+    {
+      "id": "589fd169690c",
+      "source": " This graph is only visible when selecting ",
+      "target": " 只有在选择 ",
+      "note": ""
+    },
+    {
+      "id": "aa436320e917",
+      "source": "Custom",
+      "target": "Custom",
+      "note": ""
+    },
+    {
+      "id": "284ef893284b",
+      "source": " in one of the ",
+      "target": "（位于某个 ",
+      "note": ""
+    },
+    {
+      "id": "55cc148d5f98",
+      "source": "Wavefrom",
+      "target": "Waveform",
+      "note": ""
+    },
+    {
+      "id": "bb327970440b",
+      "source": " dropdown menus. This option allows for creating any waveform you can think of. The ",
+      "target": " 下拉菜单中）时，此图表才可见。此选项允许创建你能想到的任意波形。右键菜单中的 ",
+      "note": ""
+    },
+    {
+      "id": "950dff9d558c",
+      "source": "Curve Generator…",
+      "target": "Curve Generator…",
+      "note": ""
+    },
+    {
+      "id": "0f9cb06809a2",
+      "source": " in the ",
+      "target": "（",
+      "note": ""
+    },
+    {
+      "id": "2a810cd44b18",
+      "source": " right-click-menu can be very useful to make things like a jittered sine wave. For more information on how to use modulation curves please check out our ",
+      "target": "）对于制作抖动正弦波之类的内容非常有用。更多关于调制曲线用法的信息，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "00d54b60c87b",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "9004487c5c1f",
+      "source": " page!",
+      "target": " 页面！",
+      "note": ""
+    },
+    {
+      "id": "229ebcab4128",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "2a4faf8b2e52",
+      "source": "Waveform X,Y,Z:",
+      "target": "Waveform X,Y,Z：",
+      "note": ""
+    },
+    {
+      "id": "093136578daf",
+      "source": " This dropdown menu holds the different types of waveforms which will determine the pattern in which the values oscillate.",
+      "target": " 此下拉菜单包含不同类型的波形，它们决定数值振荡的模式。",
+      "note": ""
+    },
+    {
+      "id": "de2c8ec457a0",
+      "source": "Frequency time unit:",
+      "target": "Frequency time unit：",
+      "note": ""
+    },
+    {
+      "id": "176017320165",
+      "source": " The time unit the ",
+      "target": " 指定 ",
+      "note": ""
+    },
+    {
+      "id": "f0f3e46e743f",
+      "source": "Frequency",
+      "target": "Frequency",
+      "note": ""
+    },
+    {
+      "id": "7a8b82ccf576",
+      "source": " parameter should use. This can be either a free standing frequency by using Hz or Seconds, or the function of the current project’s settings by using Frames or Loop Divisions.",
+      "target": " 参数应使用的时间单位。可以使用 Hz（赫兹）或 Seconds（秒）作为独立频率，也可以使用 Frames（帧）或 Loop Divisions（循环分段），让它根据当前项目设置工作。",
+      "note": ""
+    },
+    {
+      "id": "7061b3042e24",
+      "source": "Hz:",
+      "target": "Hz：",
+      "note": ""
+    },
+    {
+      "id": "40a4f81acf49",
+      "source": " The ",
+      "target": " 该 ",
+      "note": ""
+    },
+    {
+      "id": "dc8dac0d9751",
+      "source": "Frequency",
+      "target": "Frequency",
+      "note": ""
+    },
+    {
+      "id": "0bac75b1388b",
+      "source": " parameter sets the amount of pattern cycles per second.",
+      "target": " 参数设置每秒的模式周期数量。",
+      "note": ""
+    },
+    {
+      "id": "7747ea97d9a5",
+      "source": "Seconds:",
+      "target": "Seconds：",
+      "note": ""
+    },
+    {
+      "id": "d861a8dc81b1",
+      "source": " The ",
+      "target": " 该 ",
+      "note": ""
+    },
+    {
+      "id": "462fc221deb2",
+      "source": "Frequency",
+      "target": "Frequency",
+      "note": ""
+    },
+    {
+      "id": "f4d2e304c4d7",
+      "source": " parameter sets the amount of seconds a pattern cycle takes.",
+      "target": " 参数设置一个模式周期所需的秒数。",
+      "note": ""
+    },
+    {
+      "id": "46eb64f499b0",
+      "source": "Frames:",
+      "target": "Frames：",
+      "note": ""
+    },
+    {
+      "id": "cb389ac756c2",
+      "source": " The ",
+      "target": " 该 ",
+      "note": ""
+    },
+    {
+      "id": "c71a5b623ecf",
+      "source": "Frequency",
+      "target": "Frequency",
+      "note": ""
+    },
+    {
+      "id": "a3a58fe28be0",
+      "source": " parameter sets the amount of frames a pattern cycle takes.",
+      "target": " 参数设置一个模式周期所需的帧数。",
+      "note": ""
+    },
+    {
+      "id": "4392b0c25227",
+      "source": "Loop Divisions:",
+      "target": "Loop Divisions：",
+      "note": ""
+    },
+    {
+      "id": "fad26147e141",
+      "source": " The ",
+      "target": " 该 ",
+      "note": ""
+    },
+    {
+      "id": "d624b9ba13bf",
+      "source": "Frequency",
+      "target": "Frequency",
+      "note": ""
+    },
+    {
+      "id": "53387a8bad8e",
+      "source": " parameter sets the amount of pattern cycles within the time span of the loop region. The loop region can be revealed by pressing ",
+      "target": " 参数设置循环区域时间跨度内的模式周期数量。可按 ",
+      "note": ""
+    },
+    {
+      "id": "1021937f7441",
+      "source": " or the ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "ffb079963547",
+      "source": " button in the ",
+      "target": " 按钮，在 ",
+      "note": ""
+    },
+    {
+      "id": "fd8f2e21f3df",
+      "source": "Timeline",
+      "target": "Timeline",
+      "note": ""
+    },
+    {
+      "id": "bb6f33527f79",
+      "source": " section.",
+      "target": " 区域显示循环区域。",
+      "note": ""
+    },
+    {
+      "id": "bdad5f5b16f2",
+      "source": "Frequency:",
+      "target": "Frequency：",
+      "note": ""
+    },
+    {
+      "id": "634827157357",
+      "source": " Number of times per time unit the pattern is repeated. Higher values will make the values change faster.",
+      "target": " 模式在每个时间单位内重复的次数。值越高，数值变化越快。",
+      "note": ""
+    },
+    {
+      "id": "e29c147832b8",
+      "source": "Base:",
+      "target": "Base：",
+      "note": ""
+    },
+    {
+      "id": "c73b93768b1e",
+      "source": " Offset the values. Adding or subtracting.",
+      "target": " 偏移数值，可以增加或减少。",
+      "note": ""
+    },
+    {
+      "id": "4dc091c452e9",
+      "source": "Phase:",
+      "target": "Phase：",
+      "note": ""
+    },
+    {
+      "id": "f754e8ddb89e",
+      "source": " Temporal offset of the waveform.",
+      "target": " 波形的时间偏移。",
+      "note": ""
+    },
+    {
+      "id": "2a8b8119f2c6",
+      "source": "Amount:",
+      "target": "Amount：",
+      "note": ""
+    },
+    {
+      "id": "0360bad73139",
+      "source": " Intensity of the waveform. Higher values will have the oscillated values deviate further from the base.",
+      "target": " 波形强度。值越高，振荡后的数值偏离基础值越远。",
+      "note": ""
+    },
+    {
+      "id": "ed4d82318c18",
+      "source": "Attenuation:",
+      "target": "Attenuation：",
+      "note": ""
+    },
+    {
+      "id": "d5097f38679e",
+      "source": " Intensity multiplier for all the waveforms.",
+      "target": " 所有波形的强度乘数。",
+      "note": ""
+    },
+    {
+      "id": "cebb243fcd78",
+      "source": "Other Modulators",
+      "target": "其他调制器",
+      "note": ""
+    },
+    {
+      "id": "e2616f6ba4da",
+      "source": "All the modulator nodes work with three values to represent the ",
+      "target": "所有调制器节点都使用三个值来表示 ",
+      "note": ""
+    },
+    {
+      "id": "a012f3951148",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "44fb188c4cd3",
+      "source": " axis.",
+      "target": " 轴。",
+      "note": ""
+    },
+    {
+      "id": "30be4c0a6f49",
+      "source": "When modulating a parameter with a single value the ",
+      "target": "调制单值参数时，只会使用 ",
+      "note": ""
+    },
+    {
+      "id": "f5843f0fb6f8",
+      "source": " or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "7192feadaefe",
+      "source": " output is used only.",
+      "target": " 输出。",
+      "note": ""
+    },
+    {
+      "id": "2963341572a8",
+      "source": "When modulating a color parameter ",
+      "target": "调制颜色参数时，",
+      "note": ""
+    },
+    {
+      "id": "2253dfdc9e82",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "6c09222b780b",
+      "source": " will represent ",
+      "target": " 将代表 ",
+      "note": ""
+    },
+    {
+      "id": "dc0adc418570",
+      "source": "Red",
+      "target": "Red",
+      "note": ""
+    },
+    {
+      "id": "bbc77933ec7a",
+      "source": "Green",
+      "target": "Green",
+      "note": ""
+    },
+    {
+      "id": "44a216f0cee3",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c0810c0bd41f",
+      "source": "Blue",
+      "target": "Blue",
+      "note": ""
+    },
+    {
+      "id": "30ca385cb4fe",
+      "source": " Constant",
+      "target": " Constant（常量）",
+      "note": ""
+    },
+    {
+      "id": "071e5239284e",
+      "source": "Generates a signal with values that don’t change over time.",
+      "target": "生成一个数值不会随时间变化的信号。",
+      "note": ""
+    },
+    {
+      "id": "fbe0392203a2",
+      "source": "This can be useful for when you want to control multiple parameters with the same slider.",
+      "target": "当你想用同一个滑块控制多个参数时，这会很有用。",
+      "note": ""
+    },
+    {
+      "id": "cb4cde6f94e0",
+      "source": "This modulator is unique as it has the ",
+      "target": "此调制器比较特殊，因为它具有 ",
+      "note": ""
+    },
+    {
+      "id": "84ed46ac5648",
+      "source": "Mode",
+      "target": "Mode",
+      "note": ""
+    },
+    {
+      "id": "8a4534bbb694",
+      "source": " dropdown parameter to select the most suitable type of control.",
+      "target": " 下拉参数，可用于选择最合适的控制类型。",
+      "note": ""
+    },
+    {
+      "id": "523586a44c27",
+      "source": " Oscillator",
+      "target": " Oscillator（振荡器）",
+      "note": ""
+    },
+    {
+      "id": "c6401003b916",
+      "source": "Generates a signal where the values change over a specified waveform.",
+      "target": "生成一个数值会沿指定波形变化的信号。",
+      "note": ""
+    },
+    {
+      "id": "42037fe5b2d8",
+      "source": "This can be useful to add some turbulence into your project by having parameters deviate from their base value in a ,for example, random way.",
+      "target": "这可用于向项目中添加一些扰动，例如让参数以随机方式偏离其基础值。",
+      "note": ""
+    },
+    {
+      "id": "26fc5bd54b77",
+      "source": " Cycle",
+      "target": " Cycle（循环）",
+      "note": ""
+    },
+    {
+      "id": "f53e5ae4a544",
+      "source": "A version of the saw waveform. Repeats a linear value change from ",
+      "target": "锯齿波形的一种版本。会重复执行从 ",
+      "note": ""
+    },
+    {
+      "id": "8b5aa778caf6",
+      "source": " to ",
+      "target": " 到 ",
+      "note": ""
+    },
+    {
+      "id": "545f8322a014",
+      "source": "This is used to get something continuously rotating.",
+      "target": "这用于让某些内容持续旋转。",
+      "note": ""
+    },
+    {
+      "id": "3fbb0f9264ba",
+      "source": " Combine",
+      "target": " Combine（组合）",
+      "note": ""
+    },
+    {
+      "id": "60736e640a60",
+      "source": "This node doesn’t generate a signal, but combines multiple signals in a specified mathematical way.",
+      "target": "此节点不会生成信号，而是以指定的数学方式组合多个信号。",
+      "note": ""
+    },
+    {
+      "id": "a452b3bc4d93",
+      "source": " Math",
+      "target": " Math（数学）",
+      "note": ""
+    },
+    {
+      "id": "1b18a69c2134",
+      "source": "This node has a text field where you can write you own math expressions to generate a signal.",
+      "target": "此节点有一个文本字段，你可以在其中编写自己的数学表达式来生成信号。",
+      "note": ""
+    },
+    {
+      "id": "1232bad9c8ee",
+      "source": " Time Shift",
+      "target": " Time Shift（时间偏移）",
+      "note": ""
+    },
+    {
+      "id": "08841c829aaa",
+      "source": "Doesn’t generate a signal, but does a temporal offset on the incoming signal.",
+      "target": "不会生成信号，而是对传入信号进行时间偏移。",
+      "note": ""
+    },
+    {
+      "id": "8c53e2a30075",
+      "source": " ADSR",
+      "target": " ADSR",
+      "note": ""
+    },
+    {
+      "id": "73bc24ed4a3c",
+      "source": "The ADSR Node allows you to map a specific parameter to an ADSR Envelope.",
+      "target": "ADSR 节点允许将特定参数映射到 ADSR 包络。",
+      "note": ""
+    },
+    {
+      "id": "a4c492fd9b96",
+      "source": "ADSR stands for Attack, Decay, Sustain, Release. Once the ADSR node ",
+      "target": "ADSR 代表 Attack（起音）、Decay（衰减）、Sustain（延音）、Release（释音）。ADSR 节点的 ",
+      "note": ""
+    },
+    {
+      "id": "84a595343b46",
+      "source": "Active",
+      "target": "Active",
+      "note": ""
+    },
+    {
+      "id": "a02b69d08b74",
+      "source": " checkbox is on, the envelope will be engaged, starting with the ‘attack’. Attack is the amount of time it takes for the base value of the assigned parameter to reach its peak value, dictated by the Amount %. Decay is the duration of time it takes to get from the peak value to the Sustain value. Sustain is the percentage inbetween the Base and Amount value, and this value will remain the same until the ADSR node is innactive. Once the Active binary is turned off, you will ‘release’ the envelope. Release is the time it takes for the Sustain value to return to the Base value.",
+      "target": " 复选框开启后，包络会被触发，并从 attack（起音）开始。Attack（起音）是指定参数的基础值到达峰值所需的时间，峰值由 Amount % 决定。Decay（衰减）是从峰值到 Sustain（延音）值所需的时间。Sustain（延音）是 Base 与 Amount 值之间的百分比；该值会保持不变，直到 ADSR 节点变为非活动状态。Active 二值开关关闭后，包络会进入 release（释音）。Release（释音）是 Sustain（延音）值返回 Base 值所需的时间。",
+      "note": ""
+    },
+    {
+      "id": "a15fe5cc051c",
+      "source": "This node is especcially useful in combination with the MIDI node.",
+      "target": "此节点与 MIDI 节点结合使用时尤其有用。",
+      "note": ""
+    },
+    {
+      "id": "04b7fac21bb9",
+      "source": " MIDI",
+      "target": " MIDI",
+      "note": ""
+    },
+    {
+      "id": "09e9811cd157",
+      "source": "Generates a signal based on pressing buttons on a MIDI controller like a keyboard.",
+      "target": "根据键盘等 MIDI 控制器上的按键操作生成信号。",
+      "note": ""
+    },
+    {
+      "id": "22c4cbec857c",
+      "source": "To use this you first need to check ",
+      "target": "要使用此功能，需要先勾选 ",
+      "note": ""
+    },
+    {
+      "id": "16b0b95e9d5c",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "dea0ee876057",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "1dc304ad0140",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "7a0ac8cdeb89",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "ccd14876f3d3",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "5b523e1fea8a",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "7aa47a17df37",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "f3f6de284b31",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "e450e3f073d7",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "e64e3f77e281",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "62fbac23c208",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "0f9cb090ad44",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "1df960068547",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "114ee5bb937d",
+      "source": "How to modulate a parameter",
+      "target": "如何调制参数",
+      "note": ""
+    },
+    {
+      "id": "e2051087216a",
+      "source": "Node Details",
+      "target": "Node Details（节点详情）",
+      "note": ""
+    },
+    {
+      "id": "63c2a8522ae6",
+      "source": "Output",
+      "target": "输出",
+      "note": ""
+    },
+    {
+      "id": "9113b6b85c3c",
+      "source": "Main",
+      "target": "Main（主要）",
+      "note": ""
+    },
+    {
+      "id": "40a4fff5c7f3",
+      "source": "Other Modulators",
+      "target": "其他调制器",
+      "note": ""
+    },
+    {
+      "id": "fa1b724888e9",
+      "source": " Constant",
+      "target": " Constant（常量）",
+      "note": ""
+    },
+    {
+      "id": "d93f9d1d5a67",
+      "source": " Oscillator",
+      "target": " Oscillator（振荡器）",
+      "note": ""
+    },
+    {
+      "id": "ff056e28eeb8",
+      "source": " Cycle",
+      "target": " Cycle（循环）",
+      "note": ""
+    },
+    {
+      "id": "8ceedc61ef8c",
+      "source": " Combine",
+      "target": " Combine（组合）",
+      "note": ""
+    },
+    {
+      "id": "694aef0e9620",
+      "source": " Math",
+      "target": " Math（数学）",
+      "note": ""
+    },
+    {
+      "id": "73d265f533a2",
+      "source": " Time Shift",
+      "target": " Time Shift（时间偏移）",
+      "note": ""
+    },
+    {
+      "id": "4076f94e0df2",
+      "source": " ADSR",
+      "target": " ADSR",
+      "note": ""
+    },
+    {
+      "id": "9ee79306cc3e",
+      "source": " MIDI",
+      "target": " MIDI",
+      "note": ""
+    }
+  ],
+  "updated_at": "2026-07-03T10:40:14Z"
+}

@@ -1,0 +1,1698 @@
+{
+  "path": "embergen/pages/references/settings.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "f8e06f03a8dd",
+      "source": "Settings - JangaFX Documentation",
+      "target": "设置 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "decd02b328e4",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "b751544f5d8e",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "8131dd1c2a5a",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "c012ce741141",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "7b1fa381db2a",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "9bcbbd3bae43",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "579581e70b2d",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "9bae8eb01198",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "4a5cd5c45bf7",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "025989b62333",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "1e954bbbf2ee",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "7f4545cab480",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "9a7036f73a66",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "cd59c977e826",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "6601fccffbd7",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "d0f0bc56b7b3",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "24e5001a142f",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "c45329b0c8ea",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "f94a3ddc2234",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "753a65ee4d57",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "515271f06d70",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "d16b7041fb7b",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "a0000a40447f",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "51650d154b8a",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "2416f87784b5",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "3152afa8d0d9",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "caf66443acb1",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "e42d82a896cc",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "891ee629cc7b",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "aa9ba0b4e567",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "ebf46b01f4cb",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "a90ff32fa9bf",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "c949ac6d3977",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "5b1fa2fc0db7",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "176aae1861e4",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "beeb0ad94945",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "b66969549b35",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "1fe8a27bef47",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "a6ee3a089366",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "4541273874b6",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "c91790b6b952",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "9650de8f3da5",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "e035764a3814",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "1e7c7e526447",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "a77cd6fa7630",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "292e3ae352b6",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "65c889327eb8",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "824acf253d21",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "85b174039f74",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "e6edc64fe22d",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "22d753f5edce",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "76117c76eb4e",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "d4e0d44ec5ce",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "fc9201061dff",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "620be1385bcf",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "0e5cda87c44d",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "ae1a249be148",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "656fb9c1da6f",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "4ea8085a7c5c",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "4795d247e30c",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "e711415ece2c",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "4921919e8efe",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "4f3a2e91e057",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "23ddcda82fef",
+      "source": "Project Settings",
+      "target": "Project Settings（项目设置）",
+      "note": ""
+    },
+    {
+      "id": "e7b8edef49d0",
+      "source": " General",
+      "target": " 常规",
+      "note": ""
+    },
+    {
+      "id": "93f5e64d7162",
+      "source": "Tags",
+      "target": "Tags：",
+      "note": ""
+    },
+    {
+      "id": "7c5f42e51a85",
+      "source": " These tags can be used for browsing presets in the ",
+      "target": " 这些标签可用于在 ",
+      "note": ""
+    },
+    {
+      "id": "6930dbf91207",
+      "source": "presets",
+      "target": "presets",
+      "note": ""
+    },
+    {
+      "id": "87ca735fc8e6",
+      "source": " section of the ",
+      "target": " 部分浏览预设，该部分位于 ",
+      "note": ""
+    },
+    {
+      "id": "3652d6039f1d",
+      "source": " project manager. (presets are ",
+      "target": " 项目管理器中。（预设是 ",
+      "note": ""
+    },
+    {
+      "id": "a7e08fd57187",
+      "source": ".ember",
+      "target": ".ember",
+      "note": ""
+    },
+    {
+      "id": "b368a18d72d7",
+      "source": " files stored in the ",
+      "target": " 文件，存储在安装目录的 ",
+      "note": ""
+    },
+    {
+      "id": "30ba5f2e9859",
+      "source": "presets",
+      "target": "presets",
+      "note": ""
+    },
+    {
+      "id": "7beea5a5380b",
+      "source": " folder in your install directory) You can use the following tags: ",
+      "target": " 文件夹中。）可以使用以下标签：",
+      "note": ""
+    },
+    {
+      "id": "36ed9d5b863b",
+      "source": "Fire & Smoke, Fire, Smoke, Explosion, Magic, Particles,8 GB,24 GB",
+      "target": "Fire & Smoke, Fire, Smoke, Explosion, Magic, Particles, 8 GB, 24 GB",
+      "note": ""
+    },
+    {
+      "id": "25f6721f8930",
+      "source": "Save Read-Only Copy",
+      "target": "Save Read-Only Copy：",
+      "note": ""
+    },
+    {
+      "id": "53ab4b7e2ddb",
+      "source": " will open a file browser to specify the name and location of where you want to save your project as a read-only copy.",
+      "target": " 会打开文件浏览器，用于指定要将项目保存为只读副本的名称和位置。",
+      "note": ""
+    },
+    {
+      "id": "4e4d5494a47c",
+      "source": "This project file will function as a normal project file but when trying to save it you’ll be prompted with this message.",
+      "target": "此项目文件会像普通项目文件一样工作，但当你尝试保存它时，会弹出此提示消息。",
+      "note": ""
+    },
+    {
+      "id": "b88072e24a32",
+      "source": "Auto-Favorite Changed Parameters:",
+      "target": "Auto-Favorite Changed Parameters（自动收藏已更改参数）：",
+      "note": ""
+    },
+    {
+      "id": "330be0fcdeda",
+      "source": " This will favorite all parameters that are changed compared to either the last time you saved your file, the default preset, or another project file which you can browse for using the ",
+      "target": " 这会收藏与上次保存文件、默认预设或另一个项目文件相比发生变化的所有参数；另一个项目文件可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "aa227fcf60ec",
+      "source": "Load",
+      "target": "Load",
+      "note": ""
+    },
+    {
+      "id": "31c5fc9e07d0",
+      "source": " button.",
+      "target": " 按钮浏览选择。",
+      "note": ""
+    },
+    {
+      "id": "2e0e6fa71343",
+      "source": "This can be helpful for quickly getting a list of the most important parameters of your project!",
+      "target": "这有助于快速得到项目中最重要参数的列表！",
+      "note": ""
+    },
+    {
+      "id": "568fc0c0d3f1",
+      "source": "Randomize All Seeds",
+      "target": "Randomize All Seeds：",
+      "note": ""
+    },
+    {
+      "id": "b93630d1aed6",
+      "source": " The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "72f5c71fe047",
+      "source": "Randomize",
+      "target": "Randomize",
+      "note": ""
+    },
+    {
+      "id": "93d46eb1648f",
+      "source": " button will randomize all parameters with ",
+      "target": "”按钮会随机化所有启用了 ",
+      "note": ""
+    },
+    {
+      "id": "09ff87a135dc",
+      "source": "Randomize Override",
+      "target": "Randomize Override",
+      "note": ""
+    },
+    {
+      "id": "e643807e104e",
+      "source": " enabled (by default all ",
+      "target": " 的参数（默认情况下包括所有 ",
+      "note": ""
+    },
+    {
+      "id": "a93b44e4cb64",
+      "source": "Seed",
+      "target": "Seed",
+      "note": ""
+    },
+    {
+      "id": "3b64bec2d873",
+      "source": " parameters). This will give a different variation of your project. For more information about randomization check our ",
+      "target": " 参数）。这会为项目生成一个不同变体。关于随机化的更多信息，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "ba2cd67683bf",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "e704f87104fe",
+      "source": " section!",
+      "target": " 部分！",
+      "note": ""
+    },
+    {
+      "id": "6e874d44025b",
+      "source": " Renderer",
+      "target": " 渲染器",
+      "note": ""
+    },
+    {
+      "id": "395820136f21",
+      "source": "Search for a setting.",
+      "target": "搜索设置。",
+      "note": ""
+    },
+    {
+      "id": "7cbaf855a983",
+      "source": "Close ",
+      "target": "关闭 ",
+      "note": ""
+    },
+    {
+      "id": "e2267d65fbc4",
+      "source": "Project Settings",
+      "target": "Project Settings",
+      "note": ""
+    },
+    {
+      "id": "ed394c17b2c1",
+      "source": " panel.",
+      "target": " 面板。",
+      "note": ""
+    },
+    {
+      "id": "1ac2a741c004",
+      "source": "Settings category, use the ",
+      "target": "设置类别，使用 ",
+      "note": ""
+    },
+    {
+      "id": "8cf1b5596ec9",
+      "source": " icon to open or collapse this category.",
+      "target": " 图标打开或折叠此类别。",
+      "note": ""
+    },
+    {
+      "id": "5516e17b50f1",
+      "source": "Setting",
+      "target": "设置项",
+      "note": ""
+    },
+    {
+      "id": "99e95f8f717b",
+      "source": "Setting value, all of these can be adjusted.",
+      "target": "设置值，所有这些值都可以调整。",
+      "note": ""
+    },
+    {
+      "id": "53c4689fb2d6",
+      "source": "This will prompt a window to ask you if you want to reset the project settings.",
+      "target": "这会弹出一个窗口，询问你是否要重置项目设置。",
+      "note": ""
+    },
+    {
+      "id": "622e07f6ec38",
+      "source": "Confirm",
+      "target": "Confirm",
+      "note": ""
+    },
+    {
+      "id": "d54cc5a463eb",
+      "source": " will reset ",
+      "target": " 会将 ",
+      "note": ""
+    },
+    {
+      "id": "4c9676a276d1",
+      "source": "all",
+      "target": "所有",
+      "note": ""
+    },
+    {
+      "id": "ca4b6b3a1af3",
+      "source": " the project settings to default.",
+      "target": " 项目设置重置为默认值。",
+      "note": ""
+    },
+    {
+      "id": "b507aa32d1e3",
+      "source": " Notes",
+      "target": " 备注",
+      "note": ""
+    },
+    {
+      "id": "966735bde3f9",
+      "source": "Textfield for typing your note.",
+      "target": "用于输入备注的文本字段。",
+      "note": ""
+    },
+    {
+      "id": "d3ecee6dc288",
+      "source": "This will open the note window (",
+      "target": "这会打开备注窗口（",
+      "note": ""
+    },
+    {
+      "id": "5d71ffbb13e6",
+      "source": "With this checked, the note window will show when opening the project file you’ve set the note in.",
+      "target": "勾选后，打开设置了备注的项目文件时会显示备注窗口。",
+      "note": ""
+    },
+    {
+      "id": "f183fa11730e",
+      "source": "Project Notes",
+      "target": "Project Notes",
+      "note": ""
+    },
+    {
+      "id": "0827874edd56",
+      "source": " window",
+      "target": " 窗口",
+      "note": ""
+    },
+    {
+      "id": "f1b637d8e926",
+      "source": "Note text.",
+      "target": "备注文本。",
+      "note": ""
+    },
+    {
+      "id": "8ce75058a3f8",
+      "source": " Thumbnail",
+      "target": " 缩略图",
+      "note": ""
+    },
+    {
+      "id": "4878e369aced",
+      "source": "A thumbnail is an image or video to show with the preset in the ",
+      "target": "缩略图是与预设一起显示在 ",
+      "note": ""
+    },
+    {
+      "id": "211cd2e5d2c9",
+      "source": " Home Screen.",
+      "target": " Home Screen 上的图像或视频。",
+      "note": ""
+    },
+    {
+      "id": "825b57d1dc4f",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4db3f9e01dc2",
+      "source": "These have to be ",
+      "target": "这些必须是 ",
+      "note": ""
+    },
+    {
+      "id": "b09631326898",
+      "source": "PNG flipbooks",
+      "target": "PNG 翻页序列",
+      "note": ""
+    },
+    {
+      "id": "aed7dcad58cc",
+      "source": " with a maximum size of 4009 pixels in both dimentions.",
+      "target": "，并且两个维度的最大尺寸为 4009 像素。",
+      "note": ""
+    },
+    {
+      "id": "804453ddd8df",
+      "source": "for more information about flipbooks, please check out our ",
+      "target": "关于翻页序列的更多信息，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "a435dc805795",
+      "source": "Export",
+      "target": "Export",
+      "note": ""
+    },
+    {
+      "id": "f95cc225f8b7",
+      "source": " section.",
+      "target": " 部分。",
+      "note": ""
+    },
+    {
+      "id": "e66d2e59b862",
+      "source": "When displayed on the Home Screen, a crossfade will be automatically added to the looping point of the thumbnail unless the flipbook is shorter than 41 frames.",
+      "target": "当显示在 Home Screen 上时，除非翻页序列少于 41 帧，否则缩略图循环点会自动添加交叉淡化。",
+      "note": ""
+    },
+    {
+      "id": "23ffe5ad1554",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "e29d2556d9ea",
+      "source": "Preview",
+      "target": "Preview：",
+      "note": ""
+    },
+    {
+      "id": "8cd59b89930a",
+      "source": " Preview of the thumbnail if you have one. You can ",
+      "target": " 如果有缩略图，这里会显示缩略图预览。你可以 ",
+      "note": ""
+    },
+    {
+      "id": "eaf8788a1f5b",
+      "source": " click on the ",
+      "target": " 单击 ",
+      "note": ""
+    },
+    {
+      "id": "fee4bbf416f9",
+      "source": " and select ",
+      "target": " 并在提示中选择 ",
+      "note": ""
+    },
+    {
+      "id": "1d67f56d7c2f",
+      "source": "Clear",
+      "target": "Clear",
+      "note": ""
+    },
+    {
+      "id": "de6e18f3340c",
+      "source": " in the prompt to remove the current thumbnail.",
+      "target": " 来移除当前缩略图。",
+      "note": ""
+    },
+    {
+      "id": "c1d92b5cddea",
+      "source": "Capture",
+      "target": "Capture：",
+      "note": ""
+    },
+    {
+      "id": "df3392ba6209",
+      "source": " Here you can select the ",
+      "target": " 这里可以在左侧下拉菜单中选择要从中导出翻页序列的 ",
+      "note": ""
+    },
+    {
+      "id": "a662d01f3f67",
+      "source": "Render",
+      "target": "Render",
+      "note": ""
+    },
+    {
+      "id": "cb145f276ccf",
+      "source": " node you want to export the flipbook from in the left dropdown menu and select the capture type you want to export in the right dropdown menu. Note that the capture types only show up if they are mapped in the ",
+      "target": " 节点，并在右侧下拉菜单中选择要导出的捕获类型。请注意，只有在 ",
+      "note": ""
+    },
+    {
+      "id": "59dabe60dc1a",
+      "source": "Capture Types",
+      "target": "Capture Types",
+      "note": ""
+    },
+    {
+      "id": "01ce7aa788c3",
+      "source": " tab of the ",
+      "target": " 选项卡中映射了捕获类型时，它们才会显示；该选项卡属于 ",
+      "note": ""
+    },
+    {
+      "id": "fc6e6a61272f",
+      "source": "Render",
+      "target": "Render",
+      "note": ""
+    },
+    {
+      "id": "2a8323a62743",
+      "source": " node.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "31c896136f9d",
+      "source": "Capture",
+      "target": "Capture：",
+      "note": ""
+    },
+    {
+      "id": "268aaabaf7f7",
+      "source": " This button will start the capturing of the thumbnail with the specified settings.",
+      "target": " 此按钮会使用指定设置开始捕获缩略图。",
+      "note": ""
+    },
+    {
+      "id": "bef7d934cae3",
+      "source": "Import File",
+      "target": "Import File：",
+      "note": ""
+    },
+    {
+      "id": "fd82d16cdfa0",
+      "source": " When clicking the ",
+      "target": " 单击 ",
+      "note": ""
+    },
+    {
+      "id": "145c108757ce",
+      "source": "Import",
+      "target": "Import",
+      "note": ""
+    },
+    {
+      "id": "268c65e93f97",
+      "source": " button, a file browser will pop up where you can look for a ",
+      "target": " 按钮时，会弹出文件浏览器，你可以在其中查找 ",
+      "note": ""
+    },
+    {
+      "id": "3c59439945e0",
+      "source": "png",
+      "target": "png",
+      "note": ""
+    },
+    {
+      "id": "86797036bbd2",
+      "source": " file to be used as a flipbook or static image for the thumbnail.",
+      "target": " 文件，用作缩略图的翻页序列或静态图像。",
+      "note": ""
+    },
+    {
+      "id": "30c17b223944",
+      "source": " Here you can setup the amount of columns and rows for your flipbook. The maximum number of frames is defined by multiplying these two numbers.",
+      "target": " 这里可以设置翻页序列的列数和行数。最大帧数由这两个数相乘得出。",
+      "note": ""
+    },
+    {
+      "id": "e56689636954",
+      "source": "If columns and rows are set to 1, you will be using a static png as your thumbnail and the following parameters won’t appear.",
+      "target": "如果列数和行数都设为 1，就会使用静态 png 作为缩略图，并且以下参数不会出现。",
+      "note": ""
+    },
+    {
+      "id": "3f49d1a76767",
+      "source": "Frame Count",
+      "target": "Frame Count：",
+      "note": ""
+    },
+    {
+      "id": "f75da6840b25",
+      "source": " The amount of frames used for the thumbnail.",
+      "target": " 缩略图使用的帧数。",
+      "note": ""
+    },
+    {
+      "id": "ada63f21fad1",
+      "source": "Frame Rate",
+      "target": "Frame Rate：",
+      "note": ""
+    },
+    {
+      "id": "0501ec95a1bd",
+      "source": " The number of frames per second used to play the thumbnail. Higher values will “speed up” the video.",
+      "target": " 播放缩略图时使用的每秒帧数。值越高，视频播放越“快”。",
+      "note": ""
+    },
+    {
+      "id": "34aecffc48bd",
+      "source": "Preferences",
+      "target": "首选项",
+      "note": ""
+    },
+    {
+      "id": "90663f04207a",
+      "source": " General",
+      "target": " 常规",
+      "note": ""
+    },
+    {
+      "id": "4bcd8130b90a",
+      "source": "UI Scale:",
+      "target": "UI Scale：",
+      "note": ""
+    },
+    {
+      "id": "e73625747d80",
+      "source": " Set a scale for all the text and icons in the UI. This can be helpful when you have trouble reading small letters.",
+      "target": " 设置 UI 中所有文本和图标的缩放比例。当你难以阅读小字号文本时，这会很有用。",
+      "note": ""
+    },
+    {
+      "id": "8b93377158e0",
+      "source": "Vsync:",
+      "target": "Vsync：",
+      "note": ""
+    },
+    {
+      "id": "26eec0819961",
+      "source": " Synchronise the UI framerate to the refresh rate of your monitor.",
+      "target": " 将 UI 帧率同步到显示器刷新率。",
+      "note": ""
+    },
+    {
+      "id": "f2d5e417963d",
+      "source": "Unlit:",
+      "target": "Unlit：",
+      "note": ""
+    },
+    {
+      "id": "e16cc0ed6038",
+      "source": " Toggle Unlit mode. This mode is used to temporarily minimize the shading to improve performance.",
+      "target": " 切换 Unlit 模式。此模式用于临时简化着色以提高性能。",
+      "note": ""
+    },
+    {
+      "id": "21599771f27e",
+      "source": "Smooth UI:",
+      "target": "Smooth UI：",
+      "note": ""
+    },
+    {
+      "id": "d39e153b8666",
+      "source": " With this checked the UI will be more responsive. It does slightly lower the performance of the simulation and is currently experimental which can give unexpected problems.",
+      "target": " 勾选后 UI 会更加响应迅速。它会略微降低模拟性能，目前仍处于实验阶段，可能出现意外问题。",
+      "note": ""
+    },
+    {
+      "id": "5499c1a0cf2f",
+      "source": "Play Project On Load:",
+      "target": "Play Project On Load：",
+      "note": ""
+    },
+    {
+      "id": "05242325097d",
+      "source": " If checked, presets will start simulating when opened. Otherwise, presets stay pauses until started.",
+      "target": " 如果勾选，预设打开后会开始模拟。否则，预设会保持暂停，直到手动启动。",
+      "note": ""
+    },
+    {
+      "id": "63043aafd273",
+      "source": "Export Warning On Overwrite:",
+      "target": "Export Warning On Overwrite：",
+      "note": ""
+    },
+    {
+      "id": "1d0c2d1d566a",
+      "source": " If checked, a warning will pop up when trying to export something that would overwrite something else. for example, if you try to export a flipbook with the same name, extention, and target directory as an already existing flipbook. ",
+      "target": " 如果勾选，当导出会覆盖其他内容时会弹出警告。例如，如果尝试导出与现有翻页序列具有相同名称、扩展名和目标目录的翻页序列。",
+      "note": ""
+    },
+    {
+      "id": "5545b58a130c",
+      "source": "Disable Warning",
+      "target": "Disable Warning",
+      "note": ""
+    },
+    {
+      "id": "cb434ad0bc78",
+      "source": " will uncheck this parameter, ",
+      "target": " 会取消勾选此参数，",
+      "note": ""
+    },
+    {
+      "id": "a98cf1be48fe",
+      "source": "Cancel",
+      "target": "Cancel",
+      "note": ""
+    },
+    {
+      "id": "a2db8ba8c3bf",
+      "source": " will cancel the export so that no files will be overwritten, and ",
+      "target": " 会取消导出，因此不会覆盖任何文件，而 ",
+      "note": ""
+    },
+    {
+      "id": "0eaeb205a2af",
+      "source": "Overwrite",
+      "target": "Overwrite",
+      "note": ""
+    },
+    {
+      "id": "0ee05bdf8924",
+      "source": " will continue the export overwriting the files.",
+      "target": " 会继续导出并覆盖文件。",
+      "note": ""
+    },
+    {
+      "id": "a87ad478de97",
+      "source": "UI Layout",
+      "target": "UI Layout：",
+      "note": ""
+    },
+    {
+      "id": "ef4d93bab6c0",
+      "source": " Set the layout of the four main panels. This can be useful to quickly reset your layout to the default if you made a lot of changes by moving and scaling these windows.",
+      "target": " 设置四个主面板的布局。如果你移动和缩放这些窗口做了许多更改，这可以用于快速将布局重置为默认状态。",
+      "note": ""
+    },
+    {
+      "id": "26a9058652ab",
+      "source": "Graph Background Grid Type:",
+      "target": "Graph Background Grid Type：",
+      "note": ""
+    },
+    {
+      "id": "cc2c3f7359bb",
+      "source": " Set the background grid type of the node graph.",
+      "target": " 设置节点图的背景网格类型。",
+      "note": ""
+    },
+    {
+      "id": "a90d585cb444",
+      "source": "Mouse Compatibility Mode:",
+      "target": "Mouse Compatibility Mode：",
+      "note": ""
+    },
+    {
+      "id": "62cf8eb9dda9",
+      "source": " If checked, the hiding and warping of the cursor when interacting with the viewport is disabled. This can be useful with remote desktop.",
+      "target": " 如果勾选，与视口交互时会禁用光标隐藏和光标跳转。这对远程桌面很有用。",
+      "note": ""
+    },
+    {
+      "id": "4b3bc37f93e8",
+      "source": "Middle-Click Emulation:",
+      "target": "Middle-Click Emulation：",
+      "note": ""
+    },
+    {
+      "id": "d397c2a81c4e",
+      "source": " If checked, ",
+      "target": " 如果勾选，",
+      "note": ""
+    },
+    {
+      "id": "c7739a7077da",
+      "source": "alt",
+      "target": "alt",
+      "note": ""
+    },
+    {
+      "id": "b5a0467ba1a6",
+      "source": " is remapped to represent ",
+      "target": " 左键会被重映射为 ",
+      "note": ""
+    },
+    {
+      "id": "498a44240541",
+      "source": " this can be useful when working on a trackpad.",
+      "target": " 中键点击；这在使用触控板工作时很有用。",
+      "note": ""
+    },
+    {
+      "id": "9817adcab565",
+      "source": "Scroll-Wheel Emulation:",
+      "target": "Scroll-Wheel Emulation：",
+      "note": ""
+    },
+    {
+      "id": "864c6da83502",
+      "source": " Causes ",
+      "target": " 会让中键",
+      "note": ""
+    },
+    {
+      "id": "6e81457fb83f",
+      "source": " clicking and dragging to act as scroll events when using a tablet like a wacom. This enables you to zoom in and out in the node graph in a similar way to Nuke.",
+      "target": " 左键单击并拖动在使用 Wacom 等数位板时作为滚动事件。这让你可以用类似 Nuke 的方式在节点图中缩放。",
+      "note": ""
+    },
+    {
+      "id": "e05526f5354c",
+      "source": "Max Undo History:",
+      "target": "Max Undo History：",
+      "note": ""
+    },
+    {
+      "id": "b2eaa402e633",
+      "source": " Amount of actions you can roll back using the undo command.",
+      "target": " 可通过撤销命令回滚的操作数量。",
+      "note": ""
+    },
+    {
+      "id": "eb5d80d611c4",
+      "source": "Recovery Autosave Interval:",
+      "target": "Recovery Autosave Interval：",
+      "note": ""
+    },
+    {
+      "id": "e9fdefa18d7b",
+      "source": " Amount of time that goes by before creating a new recovery autosave file.",
+      "target": " 创建新的恢复自动保存文件之前经过的时间。",
+      "note": ""
+    },
+    {
+      "id": "718c6f105096",
+      "source": "Frame Limiter:",
+      "target": "Frame Limiter：",
+      "note": ""
+    },
+    {
+      "id": "59c8b774b1dc",
+      "source": " Maximum framerate of the UI.",
+      "target": " UI 的最大帧率。",
+      "note": ""
+    },
+    {
+      "id": "d32a4c8a4d1f",
+      "source": "Show Floating Viewport:",
+      "target": "Show Floating Viewport（显示浮动视口）：",
+      "note": ""
+    },
+    {
+      "id": "b8164ec2bf1a",
+      "source": " With this checked, you’ll have a floating viewport window when using fullscreen mode ",
+      "target": " 勾选后，在全屏模式下使用另一个面板时，会显示一个浮动视口窗口 ",
+      "note": ""
+    },
+    {
+      "id": "81ed05ede614",
+      "source": " on another panel.",
+      "target": "。",
+      "note": ""
+    },
+    {
+      "id": "e00406c39b90",
+      "source": "Create Key When Parameter Exposed:",
+      "target": "Create Key When Parameter Exposed（参数公开时创建关键帧）：",
+      "note": ""
+    },
+    {
+      "id": "6c49ea7c72c3",
+      "source": " If checked, when settings a parameter to timeline animation, a key will be created with the current value at the current frame.",
+      "target": " 如果勾选，当将参数设为时间轴动画时，会在当前帧使用当前值创建一个关键帧。",
+      "note": ""
+    },
+    {
+      "id": "d8cf2695f9de",
+      "source": "Show Modulator Output On Timeline:",
+      "target": "Show Modulator Output On Timeline：",
+      "note": ""
+    },
+    {
+      "id": "3855543335a2",
+      "source": " If checked, a preview of the modulator is shown in the timeline. For example, when using a ",
+      "target": " 如果勾选，调制器预览会显示在时间轴中。例如，当使用 ",
+      "note": ""
+    },
+    {
+      "id": "8891c4e5de3a",
+      "source": "Mod: Oscillator",
+      "target": "Mod: Oscillator",
+      "note": "translation memory"
+    },
+    {
+      "id": "2035526f93c1",
+      "source": " node with a ",
+      "target": " 节点并使用 ",
+      "note": ""
+    },
+    {
+      "id": "20a702bf5ce9",
+      "source": "Sine",
+      "target": "Sine",
+      "note": ""
+    },
+    {
+      "id": "f074ad96872a",
+      "source": " waveform, you can now clearly see how the peaks and valleys relate to the timeline.",
+      "target": " 波形时，现在可以清楚看到峰值和谷值与时间轴的对应关系。",
+      "note": ""
+    },
+    {
+      "id": "09e9dfd8e9d2",
+      "source": "Manipulator scale:",
+      "target": "Manipulator scale：",
+      "note": ""
+    },
+    {
+      "id": "b01f56348a46",
+      "source": " Scale the Move ",
+      "target": " 缩放视口中的 Move ",
+      "note": ""
+    },
+    {
+      "id": "870a4467b96d",
+      "source": ", Rotate ",
+      "target": "、Rotate ",
+      "note": ""
+    },
+    {
+      "id": "2c5c8363a86e",
+      "source": " or Scale ",
+      "target": " 或 Scale ",
+      "note": ""
+    },
+    {
+      "id": "90cce05d0ad7",
+      "source": " manipulators in the viewport.",
+      "target": " 操纵器。",
+      "note": ""
+    },
+    {
+      "id": "fcd30a57c4d7",
+      "source": "Template Project:",
+      "target": "Template Project：",
+      "note": ""
+    },
+    {
+      "id": "3bfd3e08393c",
+      "source": " Here you can set a custom default project. This project will then be used with ",
+      "target": " 这里可以设置自定义默认项目。之后此项目会与 ",
+      "note": ""
+    },
+    {
+      "id": "3c5144b7ebe2",
+      "source": "File>New",
+      "target": "File > New",
+      "note": ""
+    },
+    {
+      "id": "2f10e60bf9bc",
+      "source": " Project This project can’t be accidentally saved over since when saving the default project it will act as if it doesn’t have a file name yet and prompt you to specify one.",
+      "target": " Project 一起使用。此项目不会被意外覆盖，因为保存默认项目时，它会表现得像还没有文件名，并提示你指定一个文件名。",
+      "note": ""
+    },
+    {
+      "id": "b05eabdf18ee",
+      "source": "Post-Export Command:",
+      "target": "Post-Export Command：",
+      "note": ""
+    },
+    {
+      "id": "1104c5ae17bf",
+      "source": " For example, When running an export overnight, you may want to close embergen when the export is finished to save power. This can be done by typing ",
+      "target": " 例如，当整夜运行导出时，可能希望导出完成后关闭 EmberGen 以节省电力。这可以通过在此文本字段中输入 ",
+      "note": ""
+    },
+    {
+      "id": "6abc9171ad7f",
+      "source": " in this text field.",
+      "target": " 来实现。",
+      "note": ""
+    },
+    {
+      "id": "a9055748b187",
+      "source": "Enable MIDI support:",
+      "target": "Enable MIDI support：",
+      "note": ""
+    },
+    {
+      "id": "f29c06317cb0",
+      "source": " This needs to be checked to be able to use the MIDI node.",
+      "target": " 需要勾选此项才能使用 MIDI 节点。",
+      "note": ""
+    },
+    {
+      "id": "826f99db7341",
+      "source": "Show Minimap:",
+      "target": "Show Minimap：",
+      "note": ""
+    },
+    {
+      "id": "e7a5155fb51a",
+      "source": " Toggles the minimap in the nodegraph.",
+      "target": " 切换节点图中的小地图。",
+      "note": ""
+    },
+    {
+      "id": "8c215075817c",
+      "source": "Minimap Location:",
+      "target": "Minimap Location：",
+      "note": ""
+    },
+    {
+      "id": "0423cbb1486f",
+      "source": " Dropdown menu where you can pick the desired location for the minimap in the nodegraph.",
+      "target": " 下拉菜单，可选择小地图在节点图中的位置。",
+      "note": ""
+    },
+    {
+      "id": "dfac0bcbadb5",
+      "source": "Minimap Scale:",
+      "target": "Minimap Scale：",
+      "note": ""
+    },
+    {
+      "id": "0f31c6a75946",
+      "source": " Controls the size of the minimap ranging between ",
+      "target": " 控制小地图大小，范围从 ",
+      "note": ""
+    },
+    {
+      "id": "6b64522032c9",
+      "source": " and ",
+      "target": " 到 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "a821c4172cf1",
+      "source": " Viewport Quality",
+      "target": " 视口质量",
+      "note": ""
+    },
+    {
+      "id": "80cb8e6a6462",
+      "source": "This is where the settings for the three viewport quality options can be adjusted.",
+      "target": "这里可以调整三个视口质量选项的设置。",
+      "note": ""
+    },
+    {
+      "id": "69972e7ff07c",
+      "source": " Shortcuts",
+      "target": " 快捷键",
+      "note": ""
+    },
+    {
+      "id": "2dced4e94e11",
+      "source": "Search for a command.",
+      "target": "搜索命令。",
+      "note": ""
+    },
+    {
+      "id": "87cf9d335b1a",
+      "source": "Command.",
+      "target": "命令。",
+      "note": ""
+    },
+    {
+      "id": "4839c1b3cad9",
+      "source": "Current key-bind.",
+      "target": "当前按键绑定。",
+      "note": ""
+    },
+    {
+      "id": "b64658b65a97",
+      "source": " Add a shortcut for this command.",
+      "target": " 为此命令添加快捷键。",
+      "note": ""
+    },
+    {
+      "id": "139522432646",
+      "source": " Reset the shortcut to default.",
+      "target": " 将快捷键重置为默认值。",
+      "note": ""
+    },
+    {
+      "id": "7f83f876d5c7",
+      "source": " Remove all shortcuts for this command.",
+      "target": " 移除此命令的所有快捷键。",
+      "note": ""
+    },
+    {
+      "id": "ecd3b5517503",
+      "source": "This will prompt a window to ask you if you want the reset all the keyboard shortcuts to the defaults.",
+      "target": "这会弹出一个窗口，询问你是否要将所有键盘快捷键重置为默认值。",
+      "note": ""
+    },
+    {
+      "id": "fd4631b5cc94",
+      "source": " Camera",
+      "target": " 摄像机",
+      "note": ""
+    },
+    {
+      "id": "b18818f95ef1",
+      "source": "Control Mapping:",
+      "target": "Control Mapping：",
+      "note": ""
+    },
+    {
+      "id": "2e12ddaedf7b",
+      "source": " Dropdown menu of different control mapping types. This is useful when you are used to another type of camera control like Blender or Maya (Industry Compatible).",
+      "target": " 不同控制映射类型的下拉菜单。当你习惯另一种摄像机控制方式（例如 Blender 或 Maya 的 Industry Compatible（行业兼容））时，这会很有用。",
+      "note": ""
+    },
+    {
+      "id": "20d8bfec75c8",
+      "source": " Minimal angle in degrees to turn the camera when rotating.",
+      "target": " 摄像机旋转时的最小转动角度（度）。",
+      "note": ""
+    },
+    {
+      "id": "430d17c29309",
+      "source": "Invert Direction:",
+      "target": "Invert Direction：",
+      "note": ""
+    },
+    {
+      "id": "caa9371f8ab3",
+      "source": " Checking the Mouse-Y box will invert the controls for vertical orbiting the camera.",
+      "target": " 勾选 Mouse-Y 复选框会反转摄像机垂直环绕控制。",
+      "note": ""
+    },
+    {
+      "id": "9ed92a7a28b7",
+      "source": "Zoom Axis:",
+      "target": "Zoom Axis：",
+      "note": ""
+    },
+    {
+      "id": "175da90233c9",
+      "source": " Zoom moving your mouse either horizontally or vertically.",
+      "target": " 通过水平或垂直移动鼠标进行缩放。",
+      "note": ""
+    },
+    {
+      "id": "a269e68a70bd",
+      "source": "Invert Zoom Direction:",
+      "target": "Invert Zoom Direction：",
+      "note": ""
+    },
+    {
+      "id": "5ce411e0af59",
+      "source": " Invert the zoom controls for either the mouse or the scroll wheel.",
+      "target": " 反转鼠标或滚轮的缩放控制。",
+      "note": ""
+    },
+    {
+      "id": "d70083dc58a9",
+      "source": "Reset To Default:",
+      "target": "Reset To Default：",
+      "note": ""
+    },
+    {
+      "id": "5d16cb58f688",
+      "source": " Set all the controls in the ",
+      "target": " 将 ",
+      "note": ""
+    },
+    {
+      "id": "1b7cbba238f7",
+      "source": "Camera",
+      "target": "Camera",
+      "note": ""
+    },
+    {
+      "id": "a66a0c8552b6",
+      "source": " tab back to default.",
+      "target": " 选项卡中的所有控制恢复默认。",
+      "note": ""
+    },
+    {
+      "id": "d9c01594dafa",
+      "source": " User Variables",
+      "target": " 用户变量",
+      "note": ""
+    },
+    {
+      "id": "b953d97e8e15",
+      "source": "Custom variables can be used in export node file paths to improve your workflow.",
+      "target": "自定义变量可用于导出节点文件路径，以改进工作流程。",
+      "note": ""
+    },
+    {
+      "id": "90fe6bc8739d",
+      "source": "For example, if you have a lot of export nodes for separate capture types and you want to change something in the filename for all of them. If all the filenames have a user variable you can just change its value here to change it in all the filenames instead of doing it one by one.",
+      "target": "例如，如果你有很多用于不同捕获类型的导出节点，并想修改所有文件名中的某一部分；如果所有文件名都包含用户变量，只需在这里更改变量值，就能一次性改变所有文件名，而不必逐个修改。",
+      "note": ""
+    },
+    {
+      "id": "eac53f813e4f",
+      "source": "Variable name.",
+      "target": "变量名称。",
+      "note": ""
+    },
+    {
+      "id": "fc7493550406",
+      "source": "Variable value.",
+      "target": "变量值。",
+      "note": ""
+    },
+    {
+      "id": "c263a2a91c6d",
+      "source": " Remove variable.",
+      "target": " 移除变量。",
+      "note": ""
+    },
+    {
+      "id": "b099402e3983",
+      "source": "Add a new variable.",
+      "target": "添加新变量。",
+      "note": ""
+    },
+    {
+      "id": "9ef2090ddfaf",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "95a7b2101cb5",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "5dd1e0b66097",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "53dde470485a",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "2b0e3bcb85aa",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "ab2d60dd4cf3",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "53e13e229928",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "ffb22bf3561b",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "3d7a2887dc8a",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "b64af26d9ca4",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4ec509b4bd22",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "ee3a4acd599f",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "27c63537c43a",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "eefaa384c088",
+      "source": "Project Settings",
+      "target": "Project Settings（项目设置）",
+      "note": ""
+    },
+    {
+      "id": "f9bab5d03afa",
+      "source": " General",
+      "target": "常规",
+      "note": ""
+    },
+    {
+      "id": "20d011d3fa63",
+      "source": " Renderer",
+      "target": "渲染器",
+      "note": ""
+    },
+    {
+      "id": "d21e7c84f77e",
+      "source": " Notes",
+      "target": "备注",
+      "note": ""
+    },
+    {
+      "id": "46d16eadfabc",
+      "source": " Thumbnail",
+      "target": "缩略图",
+      "note": ""
+    },
+    {
+      "id": "d5e82d7cd5f3",
+      "source": "Preferences",
+      "target": "首选项",
+      "note": ""
+    },
+    {
+      "id": "f7cc606817fc",
+      "source": " General",
+      "target": "常规",
+      "note": ""
+    },
+    {
+      "id": "a3d8a0c1f35c",
+      "source": " Viewport Quality",
+      "target": "视口质量",
+      "note": ""
+    },
+    {
+      "id": "598aa6317691",
+      "source": " Shortcuts",
+      "target": "快捷键",
+      "note": ""
+    },
+    {
+      "id": "0245ae7367b9",
+      "source": " Camera",
+      "target": "摄像机",
+      "note": ""
+    },
+    {
+      "id": "8b618fdcac79",
+      "source": " User Variables",
+      "target": "用户变量",
+      "note": ""
+    }
+  ]
+}

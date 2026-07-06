@@ -1,0 +1,5666 @@
+{
+  "path": "liquigen/pages/getting_started.html",
+  "segment_count": 566,
+  "segments": [
+    {
+      "id": "ff8b5865736b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 685,
+      "end": 724,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Getting Started - JangaFX Documentation",
+      "source_text": "Getting Started - JangaFX Documentation"
+    },
+    {
+      "id": "6435f95644e6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 5290,
+      "end": 5313,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "ebca998f8f61",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 5408,
+      "end": 5438,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "b5218d9b183a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 5634,
+      "end": 5664,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "43e8460e579d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 5849,
+      "end": 5870,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "283d9d1f1144",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 6063,
+      "end": 6101,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "f035e61d3f63",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 6484,
+      "end": 6516,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "6bee2816590f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 7534,
+      "end": 7556,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "ef8992d97eeb",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 7734,
+      "end": 7766,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "b2a36075f2fb",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 7953,
+      "end": 7968,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "3a8f35024560",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 8094,
+      "end": 8104,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "651158e668d1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 8282,
+      "end": 8314,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "54368c2aa223",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 8509,
+      "end": 8523,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "b294a09dc0cf",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 8639,
+      "end": 8647,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "deea558f8ff8",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 8764,
+      "end": 8773,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "57980eea3026",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 8915,
+      "end": 8928,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "2b6e0f1bbd66",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 9106,
+      "end": 9138,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "510c82b5701c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 9350,
+      "end": 9363,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "35387da182ea",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 9508,
+      "end": 9527,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "b8d3a8e4ba55",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 9656,
+      "end": 9661,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "d2490079b04b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 9792,
+      "end": 9799,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "1bffd390e6a9",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 9927,
+      "end": 9931,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "2ad6ec83524e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 10071,
+      "end": 10091,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "54dffe287a3c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 10224,
+      "end": 10233,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "178d6000b565",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 10368,
+      "end": 10380,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "52ddedfeb0fd",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 10513,
+      "end": 10531,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "46d1ae832f7f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 10671,
+      "end": 10687,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "bba34cc25c78",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 10832,
+      "end": 10853,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "2e29e999e11b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 10985,
+      "end": 10993,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "f6f4ea0acb0f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 11126,
+      "end": 11136,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "0f4160b83f22",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 11273,
+      "end": 11286,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "67fd61b0a530",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 11410,
+      "end": 11413,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "46ed6488a321",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 11530,
+      "end": 11552,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "83c491c09ffc",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 11741,
+      "end": 11773,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "ea955cc0693f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 11965,
+      "end": 11980,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "f1046b392411",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 12085,
+      "end": 12095,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "10dc965fd58f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 12273,
+      "end": 12305,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "d5a754543ae0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 12479,
+      "end": 12493,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "d1a76a9b7733",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 12588,
+      "end": 12596,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "4fad5dc28507",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 12692,
+      "end": 12701,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "d22f32b5be62",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 12822,
+      "end": 12835,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "196dbcc14d1a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 13013,
+      "end": 13045,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "ecc0d9612613",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 13234,
+      "end": 13245,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "5e4db4508281",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 13369,
+      "end": 13388,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "ea01f01928da",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 13496,
+      "end": 13501,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "87088a2e107b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 13611,
+      "end": 13618,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "febe564e99f3",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 13725,
+      "end": 13729,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "394379466cf9",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 13848,
+      "end": 13868,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "17f25499e13c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 13984,
+      "end": 13997,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "8d1acfb7a8d1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 14111,
+      "end": 14123,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "5a05b619a124",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 14235,
+      "end": 14253,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "aef6109c9684",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 14372,
+      "end": 14388,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "6d9f9817b354",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 14512,
+      "end": 14533,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "004943207da8",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 14644,
+      "end": 14652,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "40c647570c55",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 14768,
+      "end": 14781,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "2e7b2c5015d4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 14895,
+      "end": 14906,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "c47263987511",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 15009,
+      "end": 15012,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "7dac778b6887",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 15119,
+      "end": 15140,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "863e00b032fd",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 15234,
+      "end": 15254,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "1d93d00b0af1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 15351,
+      "end": 15373,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "9d78585ecf39",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 15786,
+      "end": 15797,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "c1e32d19e92b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 16017,
+      "end": 16055,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "5b949297c9d4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 16467,
+      "end": 16499,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "f35e3ecc2a66",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 16686,
+      "end": 16701,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "50fb6faf05d1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 16831,
+      "end": 16850,
+      "line": 258,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Installing LiquiGen",
+      "source_text": "Installing LiquiGen"
+    },
+    {
+      "id": "36d00b8fc0e6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 16973,
+      "end": 16981,
+      "line": 260,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Download",
+      "source_text": "Download"
+    },
+    {
+      "id": "27a0769b3c36",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 17068,
+      "end": 17104,
+      "line": 261,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you have a license already go to ",
+      "source_text": "If you have a license already go to "
+    },
+    {
+      "id": "142c4f258342",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 17248,
+      "end": 17357,
+      "line": 262,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Specify your desired release on the left (latest by default) and click the blue download button on the right.",
+      "source_text": "Specify your desired release on the left (latest by default) and click the blue download button on the right."
+    },
+    {
+      "id": "743e337f6430",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 17365,
+      "end": 17389,
+      "line": 263,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "To get your trial go to ",
+      "source_text": "To get your trial go to "
+    },
+    {
+      "id": "9beb399996a5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 17744,
+      "end": 17778,
+      "line": 265,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "There you’ll be greeted by a form!",
+      "source_text": "There you’ll be greeted by a form!"
+    },
+    {
+      "id": "42c0c3743b8b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 17786,
+      "end": 17904,
+      "line": 266,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Your e-mail address and the second checkbox (which allows us to store the information given in the form) are required.",
+      "source_text": "Your e-mail address and the second checkbox (which allows us to store the information given in the form) are required."
+    },
+    {
+      "id": "2b9df3305d28",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 17912,
+      "end": 18014,
+      "line": 267,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "After filling out the form, pick your operating system at the bottom (Windows or Linux) and click the ",
+      "source_text": "After filling out the form, pick your operating system at the bottom (Windows or Linux) and click the "
+    },
+    {
+      "id": "6ac3db9b5d94",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18018,
+      "end": 18035,
+      "line": 267,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Download LiquiGen",
+      "source_text": "Download LiquiGen"
+    },
+    {
+      "id": "d9d7b5e5588d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18040,
+      "end": 18048,
+      "line": 267,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " button.",
+      "source_text": " button."
+    },
+    {
+      "id": "3de0cf042406",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18056,
+      "end": 18060,
+      "line": 268,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "151d806bb676",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18064,
+      "end": 18083,
+      "line": 268,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "liquigen-latest.exe",
+      "source_text": "liquigen-latest.exe"
+    },
+    {
+      "id": "792478275a47",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18088,
+      "end": 18132,
+      "line": 268,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " file will be downloaded to your hard drive.",
+      "source_text": " file will be downloaded to your hard drive."
+    },
+    {
+      "id": "20c9e86a0ac7",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18178,
+      "end": 18188,
+      "line": 271,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Installing",
+      "source_text": "Installing"
+    },
+    {
+      "id": "3ecb5d51c98b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18301,
+      "end": 18318,
+      "line": 273,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Double click the ",
+      "source_text": "Double click the "
+    },
+    {
+      "id": "47af54c2cf0d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18322,
+      "end": 18326,
+      "line": 273,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".exe",
+      "source_text": ".exe"
+    },
+    {
+      "id": "8793869efe37",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18331,
+      "end": 18337,
+      "line": 273,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file.",
+      "source_text": " file."
+    },
+    {
+      "id": "c96b73c6e447",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18354,
+      "end": 18375,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Accept the agreement.",
+      "source_text": "Accept the agreement."
+    },
+    {
+      "id": "d3cf4ad4e113",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18392,
+      "end": 18398,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Click ",
+      "source_text": "Click "
+    },
+    {
+      "id": "7a4aedea3003",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18402,
+      "end": 18406,
+      "line": 275,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "88b2dd37e3a6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18417,
+      "end": 18421,
+      "line": 275,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "a1b50bd109d8",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18432,
+      "end": 18439,
+      "line": 275,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Install",
+      "source_text": "Install"
+    },
+    {
+      "id": "ba6365094f3a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18450,
+      "end": 18456,
+      "line": 275,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Finish",
+      "source_text": "Finish"
+    },
+    {
+      "id": "80d1873c2ebe",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18478,
+      "end": 18490,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If you left ",
+      "source_text": "If you left "
+    },
+    {
+      "id": "a4175c546aa2",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18494,
+      "end": 18509,
+      "line": 276,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Launch LiquiGen",
+      "source_text": "Launch LiquiGen"
+    },
+    {
+      "id": "7231bdc36e67",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18514,
+      "end": 18558,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " checked, the software will boot right away!",
+      "source_text": " checked, the software will boot right away!"
+    },
+    {
+      "id": "e72435e04694",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18575,
+      "end": 18592,
+      "line": 277,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If you unchecked ",
+      "source_text": "If you unchecked "
+    },
+    {
+      "id": "580789fbdfc9",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18596,
+      "end": 18611,
+      "line": 277,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Launch LiquiGen",
+      "source_text": "Launch LiquiGen"
+    },
+    {
+      "id": "451088edc2bb",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18616,
+      "end": 18688,
+      "line": 277,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " you can launch the software by double-clicking on the desktop shortcut.",
+      "source_text": " you can launch the software by double-clicking on the desktop shortcut."
+    },
+    {
+      "id": "8862418106a2",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18705,
+      "end": 18727,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If you also unchecked ",
+      "source_text": "If you also unchecked "
+    },
+    {
+      "id": "fcba9dce10af",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18731,
+      "end": 18756,
+      "line": 278,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Create a desktop shortcut",
+      "source_text": "Create a desktop shortcut"
+    },
+    {
+      "id": "dda41c3e8e9f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18761,
+      "end": 18812,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " you can launch LiquiGen by double-clicking on the ",
+      "source_text": " you can launch LiquiGen by double-clicking on the "
+    },
+    {
+      "id": "9404169f9655",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18816,
+      "end": 18828,
+      "line": 278,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "LiquiGen.exe",
+      "source_text": "LiquiGen.exe"
+    },
+    {
+      "id": "b5ef9b13bce5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18833,
+      "end": 18846,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file in the ",
+      "source_text": " file in the "
+    },
+    {
+      "id": "327270ef2520",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18850,
+      "end": 18858,
+      "line": 278,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "LiquiGen",
+      "source_text": "LiquiGen"
+    },
+    {
+      "id": "d6b6db15e09f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 18863,
+      "end": 18888,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " folder usually found in ",
+      "source_text": " folder usually found in "
+    },
+    {
+      "id": "ffb982661e3a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19019,
+      "end": 19028,
+      "line": 283,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Licensing",
+      "source_text": "Licensing"
+    },
+    {
+      "id": "bd696d28b7a3",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19346,
+      "end": 19402,
+      "line": 286,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "After installation is complete, run liquigen and in the ",
+      "source_text": "After installation is complete, run liquigen and in the "
+    },
+    {
+      "id": "41203b66b5de",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19406,
+      "end": 19410,
+      "line": 286,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Help",
+      "source_text": "Help"
+    },
+    {
+      "id": "73d3072f89ca",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19415,
+      "end": 19428,
+      "line": 286,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " menu, click ",
+      "source_text": " menu, click "
+    },
+    {
+      "id": "108bc25af652",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19432,
+      "end": 19448,
+      "line": 286,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "License Manager…",
+      "source_text": "License Manager…"
+    },
+    {
+      "id": "de68621885b3",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19453,
+      "end": 19467,
+      "line": 286,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to launch it.",
+      "source_text": " to launch it."
+    },
+    {
+      "id": "70e0005766c3",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19484,
+      "end": 19558,
+      "line": 287,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Within this license manager, enter your license key in the ‘Key’ text box.",
+      "source_text": "Within this license manager, enter your license key in the ‘Key’ text box."
+    },
+    {
+      "id": "e2cc0b76a6f0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19575,
+      "end": 19590,
+      "line": 288,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Then press the ",
+      "source_text": "Then press the "
+    },
+    {
+      "id": "5cb18e727668",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19594,
+      "end": 19606,
+      "line": 288,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Activate Key",
+      "source_text": "Activate Key"
+    },
+    {
+      "id": "023d66dae614",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19611,
+      "end": 19653,
+      "line": 288,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button. The status text will change from ",
+      "source_text": " button. The status text will change from "
+    },
+    {
+      "id": "06efe60dcc55",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19657,
+      "end": 19668,
+      "line": 288,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Deactivated",
+      "source_text": "Deactivated"
+    },
+    {
+      "id": "83d6821fc3d1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19673,
+      "end": 19677,
+      "line": 288,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to ",
+      "source_text": " to "
+    },
+    {
+      "id": "21027dc7ce02",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19681,
+      "end": 19690,
+      "line": 288,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Activated",
+      "source_text": "Activated"
+    },
+    {
+      "id": "75c91a00faf1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19695,
+      "end": 19738,
+      "line": 288,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " if the license was activated successfully.",
+      "source_text": " if the license was activated successfully."
+    },
+    {
+      "id": "7af1a98c2d49",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19755,
+      "end": 19868,
+      "line": 289,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If any errors occur they will appear in yellow on the right. If you cannot get your key to activate, email us at ",
+      "source_text": "If any errors occur they will appear in yellow on the right. If you cannot get your key to activate, email us at "
+    },
+    {
+      "id": "0670f58634ee",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19950,
+      "end": 19957,
+      "line": 289,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "support",
+      "source_text": "support"
+    },
+    {
+      "id": "6aa817d69e03",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 19975,
+      "end": 19982,
+      "line": 289,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "jangafx",
+      "source_text": "jangafx"
+    },
+    {
+      "id": "1808fade5c9c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 20000,
+      "end": 20003,
+      "line": 289,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "com",
+      "source_text": "com"
+    },
+    {
+      "id": "e4c623852cc5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 20007,
+      "end": 20023,
+      "line": 289,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " using the blue ",
+      "source_text": " using the blue "
+    },
+    {
+      "id": "86160b3ac7cd",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 20027,
+      "end": 20042,
+      "line": 289,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Contact Support",
+      "source_text": "Contact Support"
+    },
+    {
+      "id": "d92d14ff11f6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 20047,
+      "end": 20111,
+      "line": 289,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button in the top right corner with a screenshot of the errors.",
+      "source_text": " button in the top right corner with a screenshot of the errors."
+    },
+    {
+      "id": "2727d9731999",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 20130,
+      "end": 20192,
+      "line": 291,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "If you don’t have a license key you can purchase one from our ",
+      "source_text": "If you don’t have a license key you can purchase one from our "
+    },
+    {
+      "id": "9a5e30d34c5b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 20266,
+      "end": 20293,
+      "line": 291,
+      "parent_path": "article/section/section/p/a",
+      "source_raw": "pricing page on our website",
+      "source_text": "pricing page on our website"
+    },
+    {
+      "id": "4994ff217f68",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 20297,
+      "end": 20359,
+      "line": 291,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": ". You can go there using the blue “Purchase A License” button!",
+      "source_text": ". You can go there using the blue “Purchase A License” button!"
+    },
+    {
+      "id": "8af23e350aeb",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 20747,
+      "end": 20821,
+      "line": 302,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "2283222260dd",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 20890,
+      "end": 20904,
+      "line": 308,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Using LiquiGen",
+      "source_text": "Using LiquiGen"
+    },
+    {
+      "id": "2f75f1278547",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 20997,
+      "end": 21017,
+      "line": 309,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Welcome to liquigen!",
+      "source_text": "Welcome to liquigen!"
+    },
+    {
+      "id": "c1cf25c99c8a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 21025,
+      "end": 21158,
+      "line": 310,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "In this section, you will learn the basics of our software to get started making amazing liquid simulations for your games or movies.",
+      "source_text": "In this section, you will learn the basics of our software to get started making amazing liquid simulations for your games or movies."
+    },
+    {
+      "id": "58dbc6254e7b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 21231,
+      "end": 21246,
+      "line": 312,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Project Manager",
+      "source_text": "Project Manager"
+    },
+    {
+      "id": "64e67acd0ae8",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 21553,
+      "end": 21681,
+      "line": 315,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "When you first open the software you’ll see the project manager. You can always get to or leave this screen using the home icon ",
+      "source_text": "When you first open the software you’ll see the project manager. You can always get to or leave this screen using the home icon "
+    },
+    {
+      "id": "653d2201373d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 21830,
+      "end": 21854,
+      "line": 315,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the top left corner.",
+      "source_text": " in the top left corner."
+    },
+    {
+      "id": "5d2724d24da5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 21871,
+      "end": 21987,
+      "line": 316,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The Project Manager is where you can quickly get to presets or your project files by picking a category on the left.",
+      "source_text": "The Project Manager is where you can quickly get to presets or your project files by picking a category on the left."
+    },
+    {
+      "id": "c76912da1672",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22004,
+      "end": 22017,
+      "line": 317,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Presets are, ",
+      "source_text": "Presets are, "
+    },
+    {
+      "id": "001161a2bdbf",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22021,
+      "end": 22030,
+      "line": 317,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".liquigen",
+      "source_text": ".liquigen"
+    },
+    {
+      "id": "8e9574f7c9de",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22035,
+      "end": 22084,
+      "line": 317,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ", read-only, project files shipped with liquigen.",
+      "source_text": ", read-only, project files shipped with liquigen."
+    },
+    {
+      "id": "53c03ea1b121",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22092,
+      "end": 22203,
+      "line": 318,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "They can serve as a nice starting point for the simulations you want to create or as a reference to learn from.",
+      "source_text": "They can serve as a nice starting point for the simulations you want to create or as a reference to learn from."
+    },
+    {
+      "id": "b77739125ecd",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22229,
+      "end": 22362,
+      "line": 320,
+      "parent_path": "ul/li/blockquote/div/p",
+      "source_raw": "When not using a preset, make sure you start from the correct scale template to get to your desired results the best and easiest way!",
+      "source_text": "When not using a preset, make sure you start from the correct scale template to get to your desired results the best and easiest way!"
+    },
+    {
+      "id": "e6430e6ba1de",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22390,
+      "end": 22482,
+      "line": 322,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Presets are stored in the presets folders within the LiquiGen installation folder. (usually ",
+      "source_text": "Presets are stored in the presets folders within the LiquiGen installation folder. (usually "
+    },
+    {
+      "id": "f3ca4b6065c4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22543,
+      "end": 22607,
+      "line": 324,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Note that there is no difference between a preset and any other ",
+      "source_text": "Note that there is no difference between a preset and any other "
+    },
+    {
+      "id": "624a3b5f9d04",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22611,
+      "end": 22620,
+      "line": 324,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".liquigen",
+      "source_text": ".liquigen"
+    },
+    {
+      "id": "0bbe712b63d6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22625,
+      "end": 22631,
+      "line": 324,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file.",
+      "source_text": " file."
+    },
+    {
+      "id": "8ac1f1bf71b4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22648,
+      "end": 22717,
+      "line": 325,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If you can’t find the project you are looking for, you can click the ",
+      "source_text": "If you can’t find the project you are looking for, you can click the "
+    },
+    {
+      "id": "2a101fcff897",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22721,
+      "end": 22733,
+      "line": 325,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Open Project",
+      "source_text": "Open Project"
+    },
+    {
+      "id": "d13484a6beaa",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22738,
+      "end": 22774,
+      "line": 325,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button to manually search for your ",
+      "source_text": " button to manually search for your "
+    },
+    {
+      "id": "b37ae29970c6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22778,
+      "end": 22787,
+      "line": 325,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".liquigen",
+      "source_text": ".liquigen"
+    },
+    {
+      "id": "d337657fc0d0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22792,
+      "end": 22821,
+      "line": 325,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file using the file browser.",
+      "source_text": " file using the file browser."
+    },
+    {
+      "id": "4b69c914c0b0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22842,
+      "end": 22853,
+      "line": 326,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "New Project",
+      "source_text": "New Project"
+    },
+    {
+      "id": "7a44058434ae",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 22858,
+      "end": 23005,
+      "line": 326,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will load the default preset. Like any preset everything about this can be altered so don’t worry if it doesn’t look like what you are aiming for.",
+      "source_text": " will load the default preset. Like any preset everything about this can be altered so don’t worry if it doesn’t look like what you are aiming for."
+    },
+    {
+      "id": "568a01605ce5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 23022,
+      "end": 23053,
+      "line": 327,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "You can save your presets with ",
+      "source_text": "You can save your presets with "
+    },
+    {
+      "id": "fb1699e7c282",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 23059,
+      "end": 23065,
+      "line": 327,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl+S",
+      "source_text": "Ctrl+S"
+    },
+    {
+      "id": "957674b42fbe",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 23072,
+      "end": 23088,
+      "line": 327,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or by going to ",
+      "source_text": " or by going to "
+    },
+    {
+      "id": "db556dcae3f9",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 23092,
+      "end": 23106,
+      "line": 327,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "File &gt; Save",
+      "source_text": "File > Save"
+    },
+    {
+      "id": "662a2311dad0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 23172,
+      "end": 23186,
+      "line": 331,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "a7f3033d372f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 23303,
+      "end": 23348,
+      "line": 333,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Let’s have a look at the main user interface!",
+      "source_text": "Let’s have a look at the main user interface!"
+    },
+    {
+      "id": "15ba51fee64b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 23365,
+      "end": 23493,
+      "line": 334,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "As you can see it is subdivided into four sections, the viewport, the timeline editor, the node editor and the properties panel.",
+      "source_text": "As you can see it is subdivided into four sections, the viewport, the timeline editor, the node editor and the properties panel."
+    },
+    {
+      "id": "090e7e6d0531",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 23510,
+      "end": 23569,
+      "line": 335,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "All of these can be scaled to your liking, by holding down ",
+      "source_text": "All of these can be scaled to your liking, by holding down "
+    },
+    {
+      "id": "44a804d3d750",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 23716,
+      "end": 23794,
+      "line": 335,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and dragging the edges of the section, or viewed full screen by clicking the ",
+      "source_text": " and dragging the edges of the section, or viewed full screen by clicking the "
+    },
+    {
+      "id": "2fbf61c2f865",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 23798,
+      "end": 23828,
+      "line": 335,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Toggle panel fullscreen button",
+      "source_text": "Toggle panel fullscreen button"
+    },
+    {
+      "id": "e4d7ed81bc10",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 23993,
+      "end": 24034,
+      "line": 335,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the top right corner of each section.",
+      "source_text": " in the top right corner of each section."
+    },
+    {
+      "id": "cd8994ba32bc",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24089,
+      "end": 24097,
+      "line": 339,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Viewport",
+      "source_text": "Viewport"
+    },
+    {
+      "id": "194c0dbc7fd5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24368,
+      "end": 24460,
+      "line": 341,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This is where you can view your simulations, shapes, forces or anything that’s in the scene.",
+      "source_text": "This is where you can view your simulations, shapes, forces or anything that’s in the scene."
+    },
+    {
+      "id": "72b21fb1dad1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24468,
+      "end": 24515,
+      "line": 342,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "You can move the camera around by holding down ",
+      "source_text": "You can move the camera around by holding down "
+    },
+    {
+      "id": "c14c9a36bb85",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24662,
+      "end": 24692,
+      "line": 342,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " in the viewport and pressing ",
+      "source_text": " in the viewport and pressing "
+    },
+    {
+      "id": "f6439d1dc1ba",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24698,
+      "end": 24701,
+      "line": 342,
+      "parent_path": "section/section/section/p/cite",
+      "source_raw": "Alt",
+      "source_text": "Alt"
+    },
+    {
+      "id": "a411d1678bee",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24708,
+      "end": 24717,
+      "line": 342,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " to pan, ",
+      "source_text": " to pan, "
+    },
+    {
+      "id": "d26f4490d91b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24723,
+      "end": 24727,
+      "line": 342,
+      "parent_path": "section/section/section/p/cite",
+      "source_raw": "Ctrl",
+      "source_text": "Ctrl"
+    },
+    {
+      "id": "d39b03c5cd96",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24734,
+      "end": 24747,
+      "line": 342,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " to zoom and ",
+      "source_text": " to zoom and "
+    },
+    {
+      "id": "6e25595d2b05",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24753,
+      "end": 24758,
+      "line": 342,
+      "parent_path": "section/section/section/p/cite",
+      "source_raw": "Shift",
+      "source_text": "Shift"
+    },
+    {
+      "id": "a927534e62bd",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24765,
+      "end": 24774,
+      "line": 342,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " to tilt.",
+      "source_text": " to tilt."
+    },
+    {
+      "id": "530b379d063d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24782,
+      "end": 24851,
+      "line": 343,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you are used to another control scheme, in the top menu bar go to ",
+      "source_text": "If you are used to another control scheme, in the top menu bar go to "
+    },
+    {
+      "id": "6accdecb937a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24855,
+      "end": 24878,
+      "line": 343,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Settings&gt;Preferences",
+      "source_text": "Settings>Preferences"
+    },
+    {
+      "id": "d64aca54ce77",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24883,
+      "end": 24896,
+      "line": 343,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " then in the ",
+      "source_text": " then in the "
+    },
+    {
+      "id": "2a0df108bfe0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24900,
+      "end": 24906,
+      "line": 343,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "2bfd21eb46af",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24911,
+      "end": 24939,
+      "line": 343,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " section you can change the ",
+      "source_text": " section you can change the "
+    },
+    {
+      "id": "bef8e3102813",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24943,
+      "end": 24958,
+      "line": 343,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Control Mapping",
+      "source_text": "Control Mapping"
+    },
+    {
+      "id": "d3f488a86ce7",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24963,
+      "end": 24979,
+      "line": 343,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " to your liking.",
+      "source_text": " to your liking."
+    },
+    {
+      "id": "6e66dcf555a6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 24987,
+      "end": 25065,
+      "line": 344,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "On the top of the viewport, you will find a couple of tabs and dropdown menus:",
+      "source_text": "On the top of the viewport, you will find a couple of tabs and dropdown menus:"
+    },
+    {
+      "id": "061be005592c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25090,
+      "end": 25095,
+      "line": 346,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Scene",
+      "source_text": "Scene"
+    },
+    {
+      "id": "630bbc2a9259",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25104,
+      "end": 25169,
+      "line": 346,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is the default tab where you can view and manipulate everything.",
+      "source_text": " is the default tab where you can view and manipulate everything."
+    },
+    {
+      "id": "7f39a0633094",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25194,
+      "end": 25200,
+      "line": 347,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Render",
+      "source_text": "Render"
+    },
+    {
+      "id": "c959ec3b929b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25209,
+      "end": 25265,
+      "line": 347,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is the tab where you can preview what will be exported.",
+      "source_text": " is the tab where you can preview what will be exported."
+    },
+    {
+      "id": "e40f585e7cb9",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25290,
+      "end": 25296,
+      "line": 348,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Export",
+      "source_text": "Export"
+    },
+    {
+      "id": "fadb7b0f6cf6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25305,
+      "end": 25357,
+      "line": 348,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is the tab where the exported images can be viewed.",
+      "source_text": " is the tab where the exported images can be viewed."
+    },
+    {
+      "id": "1662ae89be30",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25374,
+      "end": 25392,
+      "line": 349,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Right next to the ",
+      "source_text": "Right next to the "
+    },
+    {
+      "id": "90a5e402738a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25396,
+      "end": 25402,
+      "line": 349,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Export",
+      "source_text": "Export"
+    },
+    {
+      "id": "4fbb661f10ad",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25407,
+      "end": 25445,
+      "line": 349,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " tab is a dropdown menu to select the ",
+      "source_text": " tab is a dropdown menu to select the "
+    },
+    {
+      "id": "922e06ba573b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25600,
+      "end": 25633,
+      "line": 349,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " camera you want to look through.",
+      "source_text": " camera you want to look through."
+    },
+    {
+      "id": "1a292458d35d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25650,
+      "end": 25654,
+      "line": 350,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "3397c9bb9a61",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25820,
+      "end": 25824,
+      "line": 350,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "View",
+      "source_text": "View"
+    },
+    {
+      "id": "2f434b87d6c2",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25833,
+      "end": 25911,
+      "line": 350,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " dropdown menu will give you a list of things to show or hide in the viewport.",
+      "source_text": " dropdown menu will give you a list of things to show or hide in the viewport."
+    },
+    {
+      "id": "193e5f7cc48e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 25919,
+      "end": 26010,
+      "line": 351,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If you are missing or annoyed by something in the viewport this is the first place to look!",
+      "source_text": "If you are missing or annoyed by something in the viewport this is the first place to look!"
+    },
+    {
+      "id": "633fe1212828",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 26073,
+      "end": 26088,
+      "line": 356,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Timeline Editor",
+      "source_text": "Timeline Editor"
+    },
+    {
+      "id": "b3154c3b9e46",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 26401,
+      "end": 26453,
+      "line": 358,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This is where time is visualized from left to right.",
+      "source_text": "This is where time is visualized from left to right."
+    },
+    {
+      "id": "053831ec3778",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 26485,
+      "end": 26493,
+      "line": 360,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "You can ",
+      "source_text": "You can "
+    },
+    {
+      "id": "5ad5849991bf",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 26501,
+      "end": 26505,
+      "line": 360,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "play",
+      "source_text": "play"
+    },
+    {
+      "id": "8b728516c0d6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 26514,
+      "end": 26518,
+      "line": 360,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "e00b3ed1b26e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 26526,
+      "end": 26531,
+      "line": 360,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "pause",
+      "source_text": "pause"
+    },
+    {
+      "id": "4de7d07a5597",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 26540,
+      "end": 26562,
+      "line": 360,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " the simulation using ",
+      "source_text": " the simulation using "
+    },
+    {
+      "id": "7ced12b2c8a6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 26709,
+      "end": 26713,
+      "line": 360,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "6d4463cb4193",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 26721,
+      "end": 26729,
+      "line": 360,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "spacebar",
+      "source_text": "spacebar"
+    },
+    {
+      "id": "745ee3a30f48",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 26755,
+      "end": 26763,
+      "line": 361,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "You can ",
+      "source_text": "You can "
+    },
+    {
+      "id": "5b6376ece605",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 26771,
+      "end": 26776,
+      "line": 361,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "reset",
+      "source_text": "reset"
+    },
+    {
+      "id": "6971df0f570a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 26785,
+      "end": 26849,
+      "line": 361,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " the simulation (revert to the beginning of the timeline) using ",
+      "source_text": " the simulation (revert to the beginning of the timeline) using "
+    },
+    {
+      "id": "bffc28e9a03d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 27009,
+      "end": 27013,
+      "line": 361,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "002949d896dd",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 27050,
+      "end": 27152,
+      "line": 363,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you forget a shortcut you can hover your mouse over a button to see its shortcut key.\nOr go to the ",
+      "source_text": "If you forget a shortcut you can hover your mouse over a button to see its shortcut key.\nOr go to the "
+    },
+    {
+      "id": "68a2d802cc47",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 27160,
+      "end": 27169,
+      "line": 364,
+      "parent_path": "section/section/section/p/strong",
+      "source_raw": "Shortcuts",
+      "source_text": "Shortcuts"
+    },
+    {
+      "id": "5ca585bbe742",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 27178,
+      "end": 27190,
+      "line": 364,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " section in ",
+      "source_text": " section in "
+    },
+    {
+      "id": "ae34ac31cd69",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 27194,
+      "end": 27217,
+      "line": 364,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Settings&gt;Preferences",
+      "source_text": "Settings>Preferences"
+    },
+    {
+      "id": "c400a7fe4404",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 27231,
+      "end": 27347,
+      "line": 365,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "When playing from the start you can see a blue line moving. This indicates what the current time on the timeline is.",
+      "source_text": "When playing from the start you can see a blue line moving. This indicates what the current time on the timeline is."
+    },
+    {
+      "id": "8e7a7074abac",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 27355,
+      "end": 27536,
+      "line": 366,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The numbers next to the buttons show the current time in frames and seconds.\nWhen clicking on the left one of these, the timeline will toggle from showing frames or showing seconds.",
+      "source_text": "The numbers next to the buttons show the current time in frames and seconds.\nWhen clicking on the left one of these, the timeline will toggle from showing frames or showing seconds."
+    },
+    {
+      "id": "8a1cec66d230",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 27544,
+      "end": 27671,
+      "line": 368,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Note that a simulation always calculates from one frame to the next. This means you can’t play it backward or scrub through it.",
+      "source_text": "Note that a simulation always calculates from one frame to the next. This means you can’t play it backward or scrub through it."
+    },
+    {
+      "id": "f0573e29b726",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 27717,
+      "end": 27727,
+      "line": 371,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Node Graph",
+      "source_text": "Node Graph"
+    },
+    {
+      "id": "80f24e8fb590",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 28003,
+      "end": 28074,
+      "line": 373,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This is where the building blocks to create the simulation are managed.",
+      "source_text": "This is where the building blocks to create the simulation are managed."
+    },
+    {
+      "id": "998ea9c5a7f4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 28082,
+      "end": 28268,
+      "line": 374,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The separate modules you see are called nodes. You can think of these as little machines with their own unique tasks. The machines combined are the factory that produces the end product.",
+      "source_text": "The separate modules you see are called nodes. You can think of these as little machines with their own unique tasks. The machines combined are the factory that produces the end product."
+    },
+    {
+      "id": "32738ac69520",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 28276,
+      "end": 28349,
+      "line": 375,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The nodes are connected with wires passing data from one node to another.",
+      "source_text": "The nodes are connected with wires passing data from one node to another."
+    },
+    {
+      "id": "3abb6a582ead",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 28357,
+      "end": 28400,
+      "line": 376,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "To navigate around the Node Graph hold the ",
+      "source_text": "To navigate around the Node Graph hold the "
+    },
+    {
+      "id": "de8c427d81a9",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 28553,
+      "end": 28619,
+      "line": 376,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " button and drag. You can use the scroll wheel to zoom in and out.",
+      "source_text": " button and drag. You can use the scroll wheel to zoom in and out."
+    },
+    {
+      "id": "ecaf2fe5d703",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 28627,
+      "end": 28659,
+      "line": 377,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you get lost you can use the ",
+      "source_text": "If you get lost you can use the "
+    },
+    {
+      "id": "0968fa8fce0b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 28819,
+      "end": 28881,
+      "line": 377,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " button in the top right corner to recenter the nodes and the ",
+      "source_text": " button in the top right corner to recenter the nodes and the "
+    },
+    {
+      "id": "f1e6fbacb335",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 29050,
+      "end": 29076,
+      "line": 377,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " button to reset the zoom.",
+      "source_text": " button to reset the zoom."
+    },
+    {
+      "id": "f6e42aca49be",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 29412,
+      "end": 29486,
+      "line": 385,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "a6719fd3add7",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 29537,
+      "end": 29556,
+      "line": 390,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Select a node with ",
+      "source_text": "Select a node with "
+    },
+    {
+      "id": "abe2310b5dc0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 29720,
+      "end": 29753,
+      "line": 391,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Box select a node by holding the ",
+      "source_text": "Box select a node by holding the "
+    },
+    {
+      "id": "8091f37e5bca",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 29900,
+      "end": 29937,
+      "line": 391,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and dragging a box around the nodes.",
+      "source_text": " and dragging a box around the nodes."
+    },
+    {
+      "id": "244ec889a6de",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 29954,
+      "end": 30006,
+      "line": 392,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Delete a node by selecting it and then pressing the ",
+      "source_text": "Delete a node by selecting it and then pressing the "
+    },
+    {
+      "id": "d3d84e3cf70e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30012,
+      "end": 30018,
+      "line": 392,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "180d5159f35a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30025,
+      "end": 30030,
+      "line": 392,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " key.",
+      "source_text": " key."
+    },
+    {
+      "id": "94306ae16a27",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30047,
+      "end": 30073,
+      "line": 393,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Copy and paste nodes with ",
+      "source_text": "Copy and paste nodes with "
+    },
+    {
+      "id": "8c67926caf89",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30079,
+      "end": 30087,
+      "line": 393,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + C",
+      "source_text": "Ctrl + C"
+    },
+    {
+      "id": "4114acdb800a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30094,
+      "end": 30099,
+      "line": 393,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "6336a83c79de",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30105,
+      "end": 30113,
+      "line": 393,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + V",
+      "source_text": "Ctrl + V"
+    },
+    {
+      "id": "51df51927ca1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30138,
+      "end": 30164,
+      "line": 394,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Move nodes by holding the ",
+      "source_text": "Move nodes by holding the "
+    },
+    {
+      "id": "f974e78917f1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30170,
+      "end": 30187,
+      "line": 394,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Left Mouse Button",
+      "source_text": "Left Mouse Button"
+    },
+    {
+      "id": "b095662dc4c4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30194,
+      "end": 30208,
+      "line": 394,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and dragging.",
+      "source_text": " and dragging."
+    },
+    {
+      "id": "0a52bc81901a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30225,
+      "end": 30264,
+      "line": 395,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Disable a node using the on/off button ",
+      "source_text": "Disable a node using the on/off button "
+    },
+    {
+      "id": "959e8374eed4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30424,
+      "end": 30461,
+      "line": 395,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the top right corner of the node.",
+      "source_text": " in the top right corner of the node."
+    },
+    {
+      "id": "50b3805b7f7a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30478,
+      "end": 30495,
+      "line": 396,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Connect nodes by ",
+      "source_text": "Connect nodes by "
+    },
+    {
+      "id": "6f7e380c6f00",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30642,
+      "end": 30761,
+      "line": 396,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking and dragging from the connection pins on the sides of the nodes. Or by selecting multiple nodes and pressing ",
+      "source_text": " clicking and dragging from the connection pins on the sides of the nodes. Or by selecting multiple nodes and pressing "
+    },
+    {
+      "id": "a7d4d7655326",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30767,
+      "end": 30775,
+      "line": 396,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + L",
+      "source_text": "Ctrl + L"
+    },
+    {
+      "id": "dfd717940c49",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30799,
+      "end": 30886,
+      "line": 397,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The connection pins always state the node or node category it needs to be connected to.",
+      "source_text": "The connection pins always state the node or node category it needs to be connected to."
+    },
+    {
+      "id": "5027e9ef55ee",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 30903,
+      "end": 31142,
+      "line": 398,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Create a node by right-clicking in the node graph and selecting a node from the menu. Or by dragging from a connection pin to somewhere in the node graph. This way you’ll get a menu with all the nodes available for that type of connection.",
+      "source_text": "Create a node by right-clicking in the node graph and selecting a node from the menu. Or by dragging from a connection pin to somewhere in the node graph. This way you’ll get a menu with all the nodes available for that type of connection."
+    },
+    {
+      "id": "c7eec0548202",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 31205,
+      "end": 31221,
+      "line": 402,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Properties Panel",
+      "source_text": "Properties Panel"
+    },
+    {
+      "id": "1c9750549c03",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 31524,
+      "end": 31636,
+      "line": 404,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This is where the settings are for the selected node. (Or multiple nodes when selecting nodes of the same type.)",
+      "source_text": "This is where the settings are for the selected node. (Or multiple nodes when selecting nodes of the same type.)"
+    },
+    {
+      "id": "f4d80085806c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 31676,
+      "end": 31689,
+      "line": 406,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Node Details:",
+      "source_text": "Node Details:"
+    },
+    {
+      "id": "20f4faad4d61",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 31698,
+      "end": 31755,
+      "line": 406,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This tab shows all the parameters for the selected node.",
+      "source_text": " This tab shows all the parameters for the selected node."
+    },
+    {
+      "id": "3248a1c51498",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 31772,
+      "end": 31835,
+      "line": 407,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Every node has its own array of tabs organizing the parameters.",
+      "source_text": "Every node has its own array of tabs organizing the parameters."
+    },
+    {
+      "id": "c162374efe6a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 31852,
+      "end": 31966,
+      "line": 408,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "When looking for a specific parameter, you can easily find it using the Parameter Palette which opens by pressing ",
+      "source_text": "When looking for a specific parameter, you can easily find it using the Parameter Palette which opens by pressing "
+    },
+    {
+      "id": "1067b1aa2b79",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 31972,
+      "end": 31980,
+      "line": 408,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + P",
+      "source_text": "Ctrl + P"
+    },
+    {
+      "id": "ba5d33e867ff",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 32004,
+      "end": 32047,
+      "line": 409,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "You can change a parameter by either using ",
+      "source_text": "You can change a parameter by either using "
+    },
+    {
+      "id": "65f32969389a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 32194,
+      "end": 32245,
+      "line": 409,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " on the value, typing in a new value, and pressing ",
+      "source_text": " on the value, typing in a new value, and pressing "
+    },
+    {
+      "id": "f1dcfaa22c4a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 32251,
+      "end": 32256,
+      "line": 409,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Enter",
+      "source_text": "Enter"
+    },
+    {
+      "id": "d9e3c2d45cad",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 32263,
+      "end": 32306,
+      "line": 409,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or clicking and dragging the value slider.",
+      "source_text": " or clicking and dragging the value slider."
+    },
+    {
+      "id": "57baedfc7b9e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 32657,
+      "end": 32731,
+      "line": 418,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "5fccc5f2702d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 32782,
+      "end": 32874,
+      "line": 423,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "You can also apply math within these text boxes. For example, typing 4*7/2+6-2 and pressing ",
+      "source_text": "You can also apply math within these text boxes. For example, typing 4*7/2+6-2 and pressing "
+    },
+    {
+      "id": "94049691a101",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 32880,
+      "end": 32885,
+      "line": 423,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Enter",
+      "source_text": "Enter"
+    },
+    {
+      "id": "24ea03ee9cc5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 32892,
+      "end": 33021,
+      "line": 423,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will put a value of 18 in the parameter. This can be helpful for quickly multiplying a value or reducing it by half for example.",
+      "source_text": " will put a value of 18 in the parameter. This can be helpful for quickly multiplying a value or reducing it by half for example."
+    },
+    {
+      "id": "e7783b40e29f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 33038,
+      "end": 33136,
+      "line": 424,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Some parameters aren’t values but dropdown menus which can be opened by clicking on them with the ",
+      "source_text": "Some parameters aren’t values but dropdown menus which can be opened by clicking on them with the "
+    },
+    {
+      "id": "f56cf610c8ac",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 33283,
+      "end": 33327,
+      "line": 424,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ". Then you can pick an option from the menu.",
+      "source_text": ". Then you can pick an option from the menu."
+    },
+    {
+      "id": "5c9ebd2adadc",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 33344,
+      "end": 33408,
+      "line": 425,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "There are also check boxes that can be simply clicked on or off.",
+      "source_text": "There are also check boxes that can be simply clicked on or off."
+    },
+    {
+      "id": "c5a37a4ebfe8",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 33425,
+      "end": 33540,
+      "line": 426,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Try leaving your cursor on a parameter name. This will show a text box with information on what the parameter does!",
+      "source_text": "Try leaving your cursor on a parameter name. This will show a text box with information on what the parameter does!"
+    },
+    {
+      "id": "126d9d0f8a21",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 33557,
+      "end": 33573,
+      "line": 427,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The revert icon ",
+      "source_text": "The revert icon "
+    },
+    {
+      "id": "02b8bbaccb17",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 33723,
+      "end": 33806,
+      "line": 427,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " on the right side of the parameters will reset the parameter to its default value.",
+      "source_text": " on the right side of the parameters will reset the parameter to its default value."
+    },
+    {
+      "id": "020bf64e1285",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 33831,
+      "end": 33841,
+      "line": 428,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Favorites:",
+      "source_text": "Favorites:"
+    },
+    {
+      "id": "3def7ae785c1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 33850,
+      "end": 34002,
+      "line": 428,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This tab shows all the parameters that are marked as favorites. You can do this with any parameter from the Node Details tab by checking the star icon ",
+      "source_text": " This tab shows all the parameters that are marked as favorites. You can do this with any parameter from the Node Details tab by checking the star icon "
+    },
+    {
+      "id": "60aaa6e4564a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 34148,
+      "end": 34166,
+      "line": 428,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " right next to it.",
+      "source_text": " right next to it."
+    },
+    {
+      "id": "bf9f5a6d80e5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 34191,
+      "end": 34200,
+      "line": 429,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Timeline:",
+      "source_text": "Timeline:"
+    },
+    {
+      "id": "c6adb5eae24f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 34209,
+      "end": 34308,
+      "line": 429,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This tab shows all the parameters with keyframing enabled. To learn about keyframes check out our ",
+      "source_text": " This tab shows all the parameters with keyframing enabled. To learn about keyframes check out our "
+    },
+    {
+      "id": "7297f4c9afbb",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 34416,
+      "end": 34434,
+      "line": 429,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "845ff3d56422",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 34445,
+      "end": 34451,
+      "line": 429,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " page.",
+      "source_text": " page."
+    },
+    {
+      "id": "153230fcf5ad",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 34476,
+      "end": 34487,
+      "line": 430,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Randomized:",
+      "source_text": "Randomized:"
+    },
+    {
+      "id": "acbf27746d27",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 34496,
+      "end": 34673,
+      "line": 430,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " In this tab you can see and adjust the parameters selected for randomization. This can be used to create variations of your simulation. To choose a parameter for randomization ",
+      "source_text": " In this tab you can see and adjust the parameters selected for randomization. This can be used to create variations of your simulation. To choose a parameter for randomization "
+    },
+    {
+      "id": "82612f68682b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 34679,
+      "end": 34684,
+      "line": 430,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Shift",
+      "source_text": "Shift"
+    },
+    {
+      "id": "fbda8e2e8c7e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 34841,
+      "end": 34855,
+      "line": 430,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " click on the ",
+      "source_text": " click on the "
+    },
+    {
+      "id": "17fd1fb7dc3f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 35015,
+      "end": 35076,
+      "line": 430,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon on the left. Randomized parameters are marked with the ",
+      "source_text": " icon on the left. Randomized parameters are marked with the "
+    },
+    {
+      "id": "7fb66709103b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 35234,
+      "end": 35277,
+      "line": 430,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon.  For more information check out our ",
+      "source_text": " icon.  For more information check out our "
+    },
+    {
+      "id": "fcd9c941ff0d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 35421,
+      "end": 35434,
+      "line": 430,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "2453920ad229",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 35445,
+      "end": 35454,
+      "line": 430,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " section!",
+      "source_text": " section!"
+    },
+    {
+      "id": "1e6c00fda873",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 35554,
+      "end": 35564,
+      "line": 434,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "f4ed0a73a9fd",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 35984,
+      "end": 36058,
+      "line": 442,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "1088a17067b8",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 36166,
+      "end": 36520,
+      "line": 450,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": "The first thing to note when simulating is that you want to work in a realistic scale. You can see the scale of things by looking at the  measurements indicated on the groundplane. Make sure you’re not simulating a 10cm long whale or a 100m tall bucket if you want things to look right. To get a good starting point, you can pick a scale template in the ",
+      "source_text": "The first thing to note when simulating is that you want to work in a realistic scale. You can see the scale of things by looking at the  measurements indicated on the groundplane. Make sure you’re not simulating a 10cm long whale or a 100m tall bucket if you want things to look right. To get a good starting point, you can pick a scale template in the "
+    },
+    {
+      "id": "a058213296f7",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 36599,
+      "end": 36614,
+      "line": 450,
+      "parent_path": "blockquote/div/p/a/span",
+      "source_raw": "Project Manager",
+      "source_text": "Project Manager"
+    },
+    {
+      "id": "714f10fbf96e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 36654,
+      "end": 36777,
+      "line": 452,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "In LiquiGen, liquids are simulated using a “hybrid solver, “ meaning particles and voxels are used to simulate the results.",
+      "source_text": "In LiquiGen, liquids are simulated using a “hybrid solver, “ meaning particles and voxels are used to simulate the results."
+    },
+    {
+      "id": "b975587f0c74",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 36785,
+      "end": 36893,
+      "line": 453,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Particles are points in 3D space and voxels are like three-dimensional pixels dividing 3D space into a grid.",
+      "source_text": "Particles are points in 3D space and voxels are like three-dimensional pixels dividing 3D space into a grid."
+    },
+    {
+      "id": "b87eda030df3",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 36901,
+      "end": 37085,
+      "line": 454,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The liquid is made up of particles that go through a process called “meshing” to produce the liquid mesh which is then rendered using a liquid shader to appear like (by default) water.",
+      "source_text": "The liquid is made up of particles that go through a process called “meshing” to produce the liquid mesh which is then rendered using a liquid shader to appear like (by default) water."
+    },
+    {
+      "id": "62f99c12711b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37093,
+      "end": 37100,
+      "line": 455,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "In the ",
+      "source_text": "In the "
+    },
+    {
+      "id": "4a1f4e2cabeb",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37262,
+      "end": 37272,
+      "line": 455,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "51d74303be56",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37277,
+      "end": 37350,
+      "line": 455,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " node, the liquid appearance is specified by tweaking the meshing in the ",
+      "source_text": " node, the liquid appearance is specified by tweaking the meshing in the "
+    },
+    {
+      "id": "f1564edd756b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37354,
+      "end": 37358,
+      "line": 455,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Mesh",
+      "source_text": "Mesh"
+    },
+    {
+      "id": "87285e09c3e1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37363,
+      "end": 37400,
+      "line": 455,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " tab, and the shader settings in the ",
+      "source_text": " tab, and the shader settings in the "
+    },
+    {
+      "id": "55df799f3187",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37404,
+      "end": 37421,
+      "line": 455,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Liquid Appearance",
+      "source_text": "Liquid Appearance"
+    },
+    {
+      "id": "b8accc0eb2ef",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37426,
+      "end": 37431,
+      "line": 455,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "8d2fb6006d94",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37439,
+      "end": 37496,
+      "line": 456,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "To see the particles instead of the liquid mesh open the ",
+      "source_text": "To see the particles instead of the liquid mesh open the "
+    },
+    {
+      "id": "aed92c257ab2",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37500,
+      "end": 37511,
+      "line": 456,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "98ea5adfa243",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37516,
+      "end": 37539,
+      "line": 456,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " panel by clicking the ",
+      "source_text": " panel by clicking the "
+    },
+    {
+      "id": "0b2800c4e764",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37699,
+      "end": 37757,
+      "line": 456,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " icon in the top right corner of the viewport and uncheck ",
+      "source_text": " icon in the top right corner of the viewport and uncheck "
+    },
+    {
+      "id": "527a3601dc9c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37922,
+      "end": 37933,
+      "line": 456,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Liquid Mesh",
+      "source_text": "Liquid Mesh"
+    },
+    {
+      "id": "1dcb438b540c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 37938,
+      "end": 37949,
+      "line": 456,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " and check ",
+      "source_text": " and check "
+    },
+    {
+      "id": "d8956d875597",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 38129,
+      "end": 38145,
+      "line": 456,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Liquid Particles",
+      "source_text": "Liquid Particles"
+    },
+    {
+      "id": "52b097159013",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 38484,
+      "end": 38558,
+      "line": 464,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "534606cab844",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 38585,
+      "end": 38933,
+      "line": 468,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The particles define the liquid, if the particles move the liquid moves. The voxels the particles move through calculate and store the velocities, pressure, divergence, and force fields informing the particles where to move. The particles are like chess pieces that can be anywhere on the board but get specific directions within specific checkers.",
+      "source_text": "The particles define the liquid, if the particles move the liquid moves. The voxels the particles move through calculate and store the velocities, pressure, divergence, and force fields informing the particles where to move. The particles are like chess pieces that can be anywhere on the board but get specific directions within specific checkers."
+    },
+    {
+      "id": "72b0629678bf",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 38941,
+      "end": 39318,
+      "line": 469,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "LiquiGen is a sparse solver. The amount of voxels is not fixed. Voxels and particles will be created and destroyed based on where the liquid is. This means the solver doesn’t waste computing resources in regions with no liquid to simulate. When it comes to memory, however, the solver needs to know how many particles and voxels it can use at a maximum which is defined in the ",
+      "source_text": "LiquiGen is a sparse solver. The amount of voxels is not fixed. Voxels and particles will be created and destroyed based on where the liquid is. This means the solver doesn’t waste computing resources in regions with no liquid to simulate. When it comes to memory, however, the solver needs to know how many particles and voxels it can use at a maximum which is defined in the "
+    },
+    {
+      "id": "8d21e09b384f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 39480,
+      "end": 39490,
+      "line": 469,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "4fed76d967fe",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 39495,
+      "end": 39508,
+      "line": 469,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " node in the ",
+      "source_text": " node in the "
+    },
+    {
+      "id": "e8c113763f46",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 39512,
+      "end": 39521,
+      "line": 469,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Resources",
+      "source_text": "Resources"
+    },
+    {
+      "id": "edcacf5fa7e6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 39526,
+      "end": 39531,
+      "line": 469,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "8d275bfaf5a4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 39539,
+      "end": 39568,
+      "line": 470,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The voxel size, found in the ",
+      "source_text": "The voxel size, found in the "
+    },
+    {
+      "id": "25697cc5af71",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 39730,
+      "end": 39740,
+      "line": 470,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "eae7fe0e3f53",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 39745,
+      "end": 39758,
+      "line": 470,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " node in the ",
+      "source_text": " node in the "
+    },
+    {
+      "id": "4aff5b1dd323",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 39762,
+      "end": 39772,
+      "line": 470,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "43b54fdd8954",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 39777,
+      "end": 40034,
+      "line": 470,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " tab, determines the size of the smallest possible detail in your simulation and therefore directly affects the realism and level of detail in the simulation. It also directly affects the simulation speed as more voxels and particles take longer to compute.",
+      "source_text": " tab, determines the size of the smallest possible detail in your simulation and therefore directly affects the realism and level of detail in the simulation. It also directly affects the simulation speed as more voxels and particles take longer to compute."
+    },
+    {
+      "id": "b75c07ffa025",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 40351,
+      "end": 40425,
+      "line": 478,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "17b74cb0ea5e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 40492,
+      "end": 40504,
+      "line": 484,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Transforming",
+      "source_text": "Transforming"
+    },
+    {
+      "id": "c64c06135f71",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 40924,
+      "end": 40998,
+      "line": 492,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "1c3b3c3ebe45",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 41025,
+      "end": 41152,
+      "line": 496,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Most object/nodes can be moved around in the scene using the position, rotation, or scale parameters or using the manipulators.",
+      "source_text": "Most object/nodes can be moved around in the scene using the position, rotation, or scale parameters or using the manipulators."
+    },
+    {
+      "id": "1864efe453ed",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 41160,
+      "end": 41233,
+      "line": 497,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "A manipulator will pop up in the viewport when selecting a moveable node.",
+      "source_text": "A manipulator will pop up in the viewport when selecting a moveable node."
+    },
+    {
+      "id": "5fc66f25b46d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 41241,
+      "end": 41299,
+      "line": 498,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "There are three manipulators, translate, rotate and scale.",
+      "source_text": "There are three manipulators, translate, rotate and scale."
+    },
+    {
+      "id": "7434a1eed318",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 41307,
+      "end": 41345,
+      "line": 499,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "They can be selected with the hotkeys ",
+      "source_text": "They can be selected with the hotkeys "
+    },
+    {
+      "id": "8ba6515e0378",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 41349,
+      "end": 41360,
+      "line": 499,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Q, W, and E",
+      "source_text": "Q, W, and E"
+    },
+    {
+      "id": "d81bf954bbbf",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 41365,
+      "end": 41513,
+      "line": 499,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " or with the manipulator switcher in the top left corner of the viewport. (if you don’t see the manipulator switcher, make sure it’s checked in the ",
+      "source_text": " or with the manipulator switcher in the top left corner of the viewport. (if you don’t see the manipulator switcher, make sure it’s checked in the "
+    },
+    {
+      "id": "d51618ea999a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 41670,
+      "end": 41691,
+      "line": 499,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " View dropdown menu.)",
+      "source_text": " View dropdown menu.)"
+    },
+    {
+      "id": "d512e77f2b36",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 41699,
+      "end": 41740,
+      "line": 500,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "To control the manipulator handles, hold ",
+      "source_text": "To control the manipulator handles, hold "
+    },
+    {
+      "id": "938d6c2c79d0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 41887,
+      "end": 41897,
+      "line": 500,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " and drag.",
+      "source_text": " and drag."
+    },
+    {
+      "id": "ec492bdbcbc2",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 41938,
+      "end": 41943,
+      "line": 503,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Nodes",
+      "source_text": "Nodes"
+    },
+    {
+      "id": "0bfd554fe29c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 42027,
+      "end": 42088,
+      "line": 504,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Let’s have a look at what the most important nodes are doing.",
+      "source_text": "Let’s have a look at what the most important nodes are doing."
+    },
+    {
+      "id": "fc5e699c8228",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 42409,
+      "end": 42483,
+      "line": 512,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "e7e9d35f5392",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 42679,
+      "end": 42686,
+      "line": 517,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Shapes",
+      "source_text": " Shapes"
+    },
+    {
+      "id": "10363eb3c6ca",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 42779,
+      "end": 42968,
+      "line": 518,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Shapes can be plugged into different types of nodes and serve all sorts of different purposes, being the emission source, a collision object, a drainage object, or a mask for a force field.",
+      "source_text": "Shapes can be plugged into different types of nodes and serve all sorts of different purposes, being the emission source, a collision object, a drainage object, or a mask for a force field."
+    },
+    {
+      "id": "247bfcad7a46",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 42976,
+      "end": 42980,
+      "line": 519,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "d214effab2af",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43123,
+      "end": 43139,
+      "line": 519,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Shape: Primitive",
+      "source_text": "Shape: Primitive"
+    },
+    {
+      "id": "ad721b14ed86",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43144,
+      "end": 43196,
+      "line": 519,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "  node has a lot of options for basic shapes in the ",
+      "source_text": "  node has a lot of options for basic shapes in the "
+    },
+    {
+      "id": "e44e57719ef1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43200,
+      "end": 43204,
+      "line": 519,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Type",
+      "source_text": "Type"
+    },
+    {
+      "id": "804f2729462c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43209,
+      "end": 43224,
+      "line": 519,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " dropdown menu.",
+      "source_text": " dropdown menu."
+    },
+    {
+      "id": "bdd3e8232146",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43232,
+      "end": 43297,
+      "line": 520,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "If you want to use a custom 3D model as a shape, you can use the ",
+      "source_text": "If you want to use a custom 3D model as a shape, you can use the "
+    },
+    {
+      "id": "8278d2845349",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43452,
+      "end": 43458,
+      "line": 520,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "2c345f54375a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43463,
+      "end": 43469,
+      "line": 520,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "4d32a4f68e75",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43675,
+      "end": 43683,
+      "line": 523,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Emitter",
+      "source_text": " Emitter"
+    },
+    {
+      "id": "8cd32e688f72",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43784,
+      "end": 43788,
+      "line": 524,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "47c1c862906a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43792,
+      "end": 43799,
+      "line": 524,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Emitter",
+      "source_text": "Emitter"
+    },
+    {
+      "id": "4c675cc78be6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43804,
+      "end": 43854,
+      "line": 524,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node is where the liquid particles are generated.",
+      "source_text": " node is where the liquid particles are generated."
+    },
+    {
+      "id": "6fdbbe12f41e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43862,
+      "end": 43923,
+      "line": 525,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The amount of particles is multiplied by a couple of factors:",
+      "source_text": "The amount of particles is multiplied by a couple of factors:"
+    },
+    {
+      "id": "21cd18565756",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 43963,
+      "end": 43998,
+      "line": 527,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "The shape plugged into the emitter:",
+      "source_text": "The shape plugged into the emitter:"
+    },
+    {
+      "id": "4ea67114e6a4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 44007,
+      "end": 44093,
+      "line": 527,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This defines where the particles can spawn. Bigger shapes emit more liquid particles.",
+      "source_text": " This defines where the particles can spawn. Bigger shapes emit more liquid particles."
+    },
+    {
+      "id": "20a8dc789bbd",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 44118,
+      "end": 44139,
+      "line": 528,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "The emitter settings:",
+      "source_text": "The emitter settings:"
+    },
+    {
+      "id": "8a8c11f6c79d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 44148,
+      "end": 44180,
+      "line": 528,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " For example, try adjusting the ",
+      "source_text": " For example, try adjusting the "
+    },
+    {
+      "id": "32379506fb13",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 44184,
+      "end": 44210,
+      "line": 528,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Volume flow rate parameter",
+      "source_text": "Volume flow rate parameter"
+    },
+    {
+      "id": "082665645f83",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 44215,
+      "end": 44223,
+      "line": 528,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the ",
+      "source_text": " in the "
+    },
+    {
+      "id": "07d63160a075",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 44227,
+      "end": 44235,
+      "line": 528,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Behavior",
+      "source_text": "Behavior"
+    },
+    {
+      "id": "f36b1ed051d6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 44240,
+      "end": 44322,
+      "line": 528,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " tab. Higher values give a stronger flow of liquid as it generates more particles.",
+      "source_text": " tab. Higher values give a stronger flow of liquid as it generates more particles."
+    },
+    {
+      "id": "ba5f3a81ab69",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 44347,
+      "end": 44362,
+      "line": 529,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "The voxel size:",
+      "source_text": "The voxel size:"
+    },
+    {
+      "id": "3c1264d896fa",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 44371,
+      "end": 44524,
+      "line": 529,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The particle density is derived from the voxel size. A smaller voxel size will result in more voxels fitting into the emission shape and more particles.",
+      "source_text": " The particle density is derived from the voxel size. A smaller voxel size will result in more voxels fitting into the emission shape and more particles."
+    },
+    {
+      "id": "58a6f2ea6844",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 44959,
+      "end": 44968,
+      "line": 534,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Collider",
+      "source_text": " Collider"
+    },
+    {
+      "id": "f02d8276c5d9",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 45071,
+      "end": 45149,
+      "line": 535,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This will make the liquid collide with the shape that’s plugged into the node.",
+      "source_text": "This will make the liquid collide with the shape that’s plugged into the node."
+    },
+    {
+      "id": "770cc7f84322",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 45157,
+      "end": 45215,
+      "line": 536,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "For example, if you want water to pour over a sphere, the ",
+      "source_text": "For example, if you want water to pour over a sphere, the "
+    },
+    {
+      "id": "2db5b87f5637",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 45360,
+      "end": 45401,
+      "line": 536,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " sphere shape needs to be connected to a ",
+      "source_text": " sphere shape needs to be connected to a "
+    },
+    {
+      "id": "0ce36fd9be80",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 45405,
+      "end": 45413,
+      "line": 536,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Collider",
+      "source_text": "Collider"
+    },
+    {
+      "id": "a9e8db860072",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 45418,
+      "end": 45459,
+      "line": 536,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node which needs to be connected to the ",
+      "source_text": " node which needs to be connected to the "
+    },
+    {
+      "id": "566b94a4d534",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 45621,
+      "end": 45631,
+      "line": 536,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "3dde62f2eba2",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 45636,
+      "end": 45642,
+      "line": 536,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "8ee2b41f0c65",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 45854,
+      "end": 45860,
+      "line": 539,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Force",
+      "source_text": " Force"
+    },
+    {
+      "id": "16cb0523de36",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 45958,
+      "end": 46041,
+      "line": 540,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This is a category of nodes that will alter the movement of liquid. For example, a ",
+      "source_text": "This is a category of nodes that will alter the movement of liquid. For example, a "
+    },
+    {
+      "id": "7c6878bd646c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 46207,
+      "end": 46224,
+      "line": 540,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Force: Turbulence",
+      "source_text": "Force: Turbulence"
+    },
+    {
+      "id": "40df31486fb3",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 46229,
+      "end": 46328,
+      "line": 540,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node will add a lot of random velocities to the simulation to make the liquid look more turbulent.",
+      "source_text": " node will add a lot of random velocities to the simulation to make the liquid look more turbulent."
+    },
+    {
+      "id": "7e201b287bb5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 46659,
+      "end": 46733,
+      "line": 548,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "394a0843c2e2",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 46760,
+      "end": 46800,
+      "line": 552,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Force nodes need to be plugged into the ",
+      "source_text": "Force nodes need to be plugged into the "
+    },
+    {
+      "id": "bbaa7c142593",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 46962,
+      "end": 46972,
+      "line": 552,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "785efeeaa780",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 46977,
+      "end": 47008,
+      "line": 552,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node to affect the simulation.",
+      "source_text": " node to affect the simulation."
+    },
+    {
+      "id": "2f5ba67384dc",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 47016,
+      "end": 47127,
+      "line": 553,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "If you want a force to only be applied in a certain area, you can mask its effect by connecting a shape to the ",
+      "source_text": "If you want a force to only be applied in a certain area, you can mask its effect by connecting a shape to the "
+    },
+    {
+      "id": "10cd6e0adff1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 47131,
+      "end": 47142,
+      "line": 553,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Mask Shapes",
+      "source_text": "Mask Shapes"
+    },
+    {
+      "id": "da4b99ad729b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 47147,
+      "end": 47188,
+      "line": 553,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " input pin on the left of the force node.",
+      "source_text": " input pin on the left of the force node."
+    },
+    {
+      "id": "084e70e54a83",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 47196,
+      "end": 47222,
+      "line": 554,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The default preset uses a ",
+      "source_text": "The default preset uses a "
+    },
+    {
+      "id": "9835dace53f1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 47386,
+      "end": 47401,
+      "line": 554,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Force: Constant",
+      "source_text": "Force: Constant"
+    },
+    {
+      "id": "37cf974732bc",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 47406,
+      "end": 47522,
+      "line": 554,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node as the gravity force pulling the liquid down. Try changing its parameters or turning it off to see its effect!",
+      "source_text": " node as the gravity force pulling the liquid down. Try changing its parameters or turning it off to see its effect!"
+    },
+    {
+      "id": "21f53044a0bf",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 47710,
+      "end": 47716,
+      "line": 557,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Drain",
+      "source_text": " Drain"
+    },
+    {
+      "id": "42a7c7921e50",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 48117,
+      "end": 48191,
+      "line": 565,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "0aab816b4c95",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 48218,
+      "end": 48300,
+      "line": 569,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This node will remove all liquid particles within the shape plugged into the node.",
+      "source_text": "This node will remove all liquid particles within the shape plugged into the node."
+    },
+    {
+      "id": "a830a2a5fb56",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 48308,
+      "end": 48464,
+      "line": 570,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This can be useful for saving resources by removing unnecessary liquid particles, such as particles that are not visible to the 3D camera you intend to use.",
+      "source_text": "This can be useful for saving resources by removing unnecessary liquid particles, such as particles that are not visible to the 3D camera you intend to use."
+    },
+    {
+      "id": "4a6e19a3778a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 48472,
+      "end": 48512,
+      "line": 571,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Another use case is, of course, a drain!",
+      "source_text": "Another use case is, of course, a drain!"
+    },
+    {
+      "id": "bf97c62b8fb7",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 48730,
+      "end": 48741,
+      "line": 574,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Simulation",
+      "source_text": " Simulation"
+    },
+    {
+      "id": "ea4c051fd9a9",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 48845,
+      "end": 48964,
+      "line": 575,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This is where most global settings are found.\nFor example, you can change the physical properties of the liquid in the ",
+      "source_text": "This is where most global settings are found.\nFor example, you can change the physical properties of the liquid in the "
+    },
+    {
+      "id": "b713f2c06606",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 48968,
+      "end": 48978,
+      "line": 576,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "81f02c9e15bf",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 48983,
+      "end": 49011,
+      "line": 576,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab and the shading in the ",
+      "source_text": " tab and the shading in the "
+    },
+    {
+      "id": "b19d0cf40392",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 49015,
+      "end": 49032,
+      "line": 576,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Liquid Appearance",
+      "source_text": "Liquid Appearance"
+    },
+    {
+      "id": "595ee2160b19",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 49037,
+      "end": 49095,
+      "line": 576,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab to simulate other liquids like honey, slime, or milk.",
+      "source_text": " tab to simulate other liquids like honey, slime, or milk."
+    },
+    {
+      "id": "d4cfde4558a4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 49103,
+      "end": 49141,
+      "line": 577,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "There can only be one simulation node.",
+      "source_text": "There can only be one simulation node."
+    },
+    {
+      "id": "1f1e0e86ab8c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 49149,
+      "end": 49256,
+      "line": 578,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Multiple Emitters, Forces, Drains, and Colliders can be connected to the pins on the left side of the node.",
+      "source_text": "Multiple Emitters, Forces, Drains, and Colliders can be connected to the pins on the left side of the node."
+    },
+    {
+      "id": "a9815b8ea76a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 49580,
+      "end": 49654,
+      "line": 586,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "f15ea53bddda",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 49870,
+      "end": 49876,
+      "line": 592,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Light",
+      "source_text": " Light"
+    },
+    {
+      "id": "be6d0efcd702",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 50295,
+      "end": 50369,
+      "line": 600,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "3689e5c479f0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 50396,
+      "end": 50463,
+      "line": 604,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "A category of nodes that, as the name suggests, light up the scene.",
+      "source_text": "A category of nodes that, as the name suggests, light up the scene."
+    },
+    {
+      "id": "6b03a544f583",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 50471,
+      "end": 50530,
+      "line": 605,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Try adjusting the intensity parameters to see what they do!",
+      "source_text": "Try adjusting the intensity parameters to see what they do!"
+    },
+    {
+      "id": "ca8dec0bb5e4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 50538,
+      "end": 50578,
+      "line": 606,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Light nodes need to be connected to the ",
+      "source_text": "Light nodes need to be connected to the "
+    },
+    {
+      "id": "a7a9cc993bc6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 50582,
+      "end": 50588,
+      "line": 606,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Lights",
+      "source_text": "Lights"
+    },
+    {
+      "id": "d21503d79273",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 50593,
+      "end": 50611,
+      "line": 606,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " input pin on the ",
+      "source_text": " input pin on the "
+    },
+    {
+      "id": "283f181a4519",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 50758,
+      "end": 50763,
+      "line": 606,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Scene",
+      "source_text": "Scene"
+    },
+    {
+      "id": "d9a8acf057d3",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 50768,
+      "end": 50774,
+      "line": 606,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "d3d9de07b796",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 50963,
+      "end": 50968,
+      "line": 608,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Point",
+      "source_text": "Point"
+    },
+    {
+      "id": "733206baefa2",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 50977,
+      "end": 51054,
+      "line": 608,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is like a light bulb and will emit light from one adjustable point in space.",
+      "source_text": " is like a light bulb and will emit light from one adjustable point in space."
+    },
+    {
+      "id": "3bb22ad95971",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 51246,
+      "end": 51257,
+      "line": 609,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Directional",
+      "source_text": "Directional"
+    },
+    {
+      "id": "200711fc8608",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 51266,
+      "end": 51398,
+      "line": 609,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Emits parallel light rays from one angle (like the sun). If you want to use this light as a sun light, you should plug it into the ",
+      "source_text": " Emits parallel light rays from one angle (like the sun). If you want to use this light as a sun light, you should plug it into the "
+    },
+    {
+      "id": "377cdc301f24",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 51402,
+      "end": 51405,
+      "line": 609,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Sun",
+      "source_text": "Sun"
+    },
+    {
+      "id": "563928c6ae53",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 51410,
+      "end": 51428,
+      "line": 609,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " input pin on the ",
+      "source_text": " input pin on the "
+    },
+    {
+      "id": "33f31329b056",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 51569,
+      "end": 51575,
+      "line": 609,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Skybox",
+      "source_text": "Skybox"
+    },
+    {
+      "id": "95dffd2e5797",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 51580,
+      "end": 51586,
+      "line": 609,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "92d3c53a1813",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 51772,
+      "end": 51776,
+      "line": 610,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Area",
+      "source_text": "Area"
+    },
+    {
+      "id": "ef9d6d47ff69",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 51785,
+      "end": 51857,
+      "line": 610,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is like a light panel emitting light from an adjustable plane in space.",
+      "source_text": " is like a light panel emitting light from an adjustable plane in space."
+    },
+    {
+      "id": "3404b2575cd5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 52054,
+      "end": 52061,
+      "line": 614,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Skybox",
+      "source_text": " Skybox"
+    },
+    {
+      "id": "e821910ccffb",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 52476,
+      "end": 52550,
+      "line": 622,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "abf11d335c6a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 52577,
+      "end": 52651,
+      "line": 626,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This controls the type of sky in your scene. There are a few options here:",
+      "source_text": "This controls the type of sky in your scene. There are a few options here:"
+    },
+    {
+      "id": "2cf1dc805e85",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 52691,
+      "end": 52695,
+      "line": 628,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "None",
+      "source_text": "None"
+    },
+    {
+      "id": "81ea61c9a06f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 52704,
+      "end": 52759,
+      "line": 628,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will turn the sky off resulting in a black background.",
+      "source_text": " will turn the sky off resulting in a black background."
+    },
+    {
+      "id": "a713dcba399e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 52784,
+      "end": 52794,
+      "line": 629,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Atmosphere",
+      "source_text": "Atmosphere"
+    },
+    {
+      "id": "4a8b0ed1abc0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 52803,
+      "end": 52929,
+      "line": 629,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is the most advanced one mimicking a real sky. The angle of the connected sun (directional) light will affect the sky colors.",
+      "source_text": " is the most advanced one mimicking a real sky. The angle of the connected sun (directional) light will affect the sky colors."
+    },
+    {
+      "id": "7ef46796f253",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 52954,
+      "end": 52958,
+      "line": 630,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "HDRI",
+      "source_text": "HDRI"
+    },
+    {
+      "id": "c7b6af8d9d63",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 52967,
+      "end": 53020,
+      "line": 630,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will let you import an HDRI map to light your scene.",
+      "source_text": " will let you import an HDRI map to light your scene."
+    },
+    {
+      "id": "442a2e0a8866",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 53229,
+      "end": 53236,
+      "line": 634,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Ground",
+      "source_text": " Ground"
+    },
+    {
+      "id": "9692f00c03aa",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 53332,
+      "end": 53416,
+      "line": 635,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This is where all the settings are related to the ground plane you see in the scene.",
+      "source_text": "This is where all the settings are related to the ground plane you see in the scene."
+    },
+    {
+      "id": "cf4979eff5ed",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 53748,
+      "end": 53822,
+      "line": 643,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "813b86c8f9b8",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 53849,
+      "end": 53873,
+      "line": 647,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "By default, it’s set to ",
+      "source_text": "By default, it’s set to "
+    },
+    {
+      "id": "7177142a33f0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 53877,
+      "end": 53882,
+      "line": 647,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Units",
+      "source_text": "Units"
+    },
+    {
+      "id": "d1900e82ca79",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 53887,
+      "end": 53941,
+      "line": 647,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " so you can see what type of scale you are working on.",
+      "source_text": " so you can see what type of scale you are working on."
+    },
+    {
+      "id": "20f9a44fb31f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 53949,
+      "end": 54036,
+      "line": 648,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Note that the liquid always collides with the ground, even when the node is turned off!",
+      "source_text": "Note that the liquid always collides with the ground, even when the node is turned off!"
+    },
+    {
+      "id": "e61eb3eaea74",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 54229,
+      "end": 54235,
+      "line": 651,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Scene",
+      "source_text": " Scene"
+    },
+    {
+      "id": "afb6198811b7",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 54329,
+      "end": 54413,
+      "line": 652,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This node serves as the hub to which all the elements of the 3D scene are connected.",
+      "source_text": "This node serves as the hub to which all the elements of the 3D scene are connected."
+    },
+    {
+      "id": "8e7e3c70a12c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 54615,
+      "end": 54622,
+      "line": 655,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Render",
+      "source_text": " Render"
+    },
+    {
+      "id": "8cf4ffb3e413",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 55048,
+      "end": 55122,
+      "line": 663,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "b83a970bc865",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 55149,
+      "end": 55237,
+      "line": 667,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Rendering is when the 3D elements in your scene are turned into an image on your screen.",
+      "source_text": "Rendering is when the 3D elements in your scene are turned into an image on your screen."
+    },
+    {
+      "id": "2ddff24c4808",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 55245,
+      "end": 55298,
+      "line": 668,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The settings for this process are found in this node.",
+      "source_text": "The settings for this process are found in this node."
+    },
+    {
+      "id": "55ae7bfbb508",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 55306,
+      "end": 55375,
+      "line": 669,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Liquigen has two rendering modes, the Rasterizer and the Path Tracer:",
+      "source_text": "Liquigen has two rendering modes, the Rasterizer and the Path Tracer:"
+    },
+    {
+      "id": "d09710fc8989",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 55415,
+      "end": 55426,
+      "line": 671,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Rasterizer:",
+      "source_text": "Rasterizer:"
+    },
+    {
+      "id": "b331974c0a92",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 55435,
+      "end": 55519,
+      "line": 671,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " A real-time rendering method with simplified graphics. This one is used by default.",
+      "source_text": " A real-time rendering method with simplified graphics. This one is used by default."
+    },
+    {
+      "id": "c9ea4e7b8b88",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 55544,
+      "end": 55556,
+      "line": 672,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Path Tracer:",
+      "source_text": "Path Tracer:"
+    },
+    {
+      "id": "a4ffe666e0e8",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 55565,
+      "end": 55822,
+      "line": 672,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " A more physically based rendering method that simulates the light rays giving a more realistic result. This method takes longer to render and is usually only enabled once you’re happy with the simulation and want to export realistic images out of LiquiGen.",
+      "source_text": " A more physically based rendering method that simulates the light rays giving a more realistic result. This method takes longer to render and is usually only enabled once you’re happy with the simulation and want to export realistic images out of LiquiGen."
+    },
+    {
+      "id": "cd8560b8d5d0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 55841,
+      "end": 55895,
+      "line": 674,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The Path Tracer can be turned on and off by selecting ",
+      "source_text": "The Path Tracer can be turned on and off by selecting "
+    },
+    {
+      "id": "33b6da914584",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 55899,
+      "end": 55911,
+      "line": 674,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Path Tracing",
+      "source_text": "Path Tracing"
+    },
+    {
+      "id": "cb0d6be45dd9",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 55916,
+      "end": 55924,
+      "line": 674,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " in the ",
+      "source_text": " in the "
+    },
+    {
+      "id": "d4bc5ed8f40d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 56086,
+      "end": 56090,
+      "line": 674,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "View",
+      "source_text": "View"
+    },
+    {
+      "id": "eec6628ec656",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 56095,
+      "end": 56142,
+      "line": 674,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " dropdown menu in the Viewport. Or by pressing ",
+      "source_text": " dropdown menu in the Viewport. Or by pressing "
+    },
+    {
+      "id": "27dacc90e9e5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 56148,
+      "end": 56156,
+      "line": 674,
+      "parent_path": "section/section/section/p/cite",
+      "source_raw": "Ctrl + T",
+      "source_text": "Ctrl + T"
+    },
+    {
+      "id": "6a019ccf2ded",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 56171,
+      "end": 56231,
+      "line": 675,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Turning the Path Tracer off means turning the Rasterizer on.",
+      "source_text": "Turning the Path Tracer off means turning the Rasterizer on."
+    },
+    {
+      "id": "f01a163d97c8",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 56457,
+      "end": 56471,
+      "line": 678,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Export: Image",
+      "source_text": " Export: Image"
+    },
+    {
+      "id": "d5b3664b315b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 56900,
+      "end": 56974,
+      "line": 686,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "999ff68b8696",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57001,
+      "end": 57231,
+      "line": 690,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This node lets you export your scene to image files and holds all the related export settings for that like what part of the simulation to export, what renderpasses to export, which rendering mode to use, and how to render shapes.",
+      "source_text": "This node lets you export your scene to image files and holds all the related export settings for that like what part of the simulation to export, what renderpasses to export, which rendering mode to use, and how to render shapes."
+    },
+    {
+      "id": "097fa7432ea5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57239,
+      "end": 57270,
+      "line": 691,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "You can export your scene to a ",
+      "source_text": "You can export your scene to a "
+    },
+    {
+      "id": "259c4c42bbba",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57274,
+      "end": 57282,
+      "line": 691,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Flipbook",
+      "source_text": "Flipbook"
+    },
+    {
+      "id": "44324ccfb258",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57287,
+      "end": 57293,
+      "line": 691,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " or a ",
+      "source_text": " or a "
+    },
+    {
+      "id": "fe4b76434f1c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57297,
+      "end": 57305,
+      "line": 691,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Sequence",
+      "source_text": "Sequence"
+    },
+    {
+      "id": "bb6641068141",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57347,
+      "end": 57355,
+      "line": 693,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Flipbook",
+      "source_text": "Flipbook"
+    },
+    {
+      "id": "91459da2d66c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57360,
+      "end": 57453,
+      "line": 693,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is a format used in games to get all frames into one image texture which is more performant.",
+      "source_text": " is a format used in games to get all frames into one image texture which is more performant."
+    },
+    {
+      "id": "6f1c8b10c02d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57474,
+      "end": 57482,
+      "line": 694,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Sequence",
+      "source_text": "Sequence"
+    },
+    {
+      "id": "51c007ed40bb",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57487,
+      "end": 57584,
+      "line": 694,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " allows you to export a sequence of image files, which is useful for VFX or for creating a video.",
+      "source_text": " allows you to export a sequence of image files, which is useful for VFX or for creating a video."
+    },
+    {
+      "id": "69758a3af173",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57603,
+      "end": 57705,
+      "line": 696,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "To export, you need to specify where you want the image files to be stored on your computer using the ",
+      "source_text": "To export, you need to specify where you want the image files to be stored on your computer using the "
+    },
+    {
+      "id": "70a4bea6dbd4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57709,
+      "end": 57718,
+      "line": 696,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Directory",
+      "source_text": "Directory"
+    },
+    {
+      "id": "d01559541a09",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57723,
+      "end": 57741,
+      "line": 696,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "8e664c707302",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57745,
+      "end": 57751,
+      "line": 696,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Export",
+      "source_text": "Export"
+    },
+    {
+      "id": "d60c92b86bca",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57756,
+      "end": 57781,
+      "line": 696,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab then click the blue ",
+      "source_text": " tab then click the blue "
+    },
+    {
+      "id": "79f52d40a143",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57785,
+      "end": 57795,
+      "line": 696,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Export Now",
+      "source_text": "Export Now"
+    },
+    {
+      "id": "0e517b3a6d56",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57800,
+      "end": 57808,
+      "line": 696,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " button.",
+      "source_text": " button."
+    },
+    {
+      "id": "76bc38cd07ec",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57816,
+      "end": 57917,
+      "line": 697,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "You can create multiple export nodes and do multiple exports at once by selecting them and selecting ",
+      "source_text": "You can create multiple export nodes and do multiple exports at once by selecting them and selecting "
+    },
+    {
+      "id": "00d173e4fe5a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57921,
+      "end": 57936,
+      "line": 697,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Export Selected",
+      "source_text": "Export Selected"
+    },
+    {
+      "id": "220fe7f1d14c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 57941,
+      "end": 57986,
+      "line": 697,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " from the right-click menu in the Node Graph.",
+      "source_text": " from the right-click menu in the Node Graph."
+    },
+    {
+      "id": "e2fec386ac53",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 58184,
+      "end": 58191,
+      "line": 700,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Camera",
+      "source_text": " Camera"
+    },
+    {
+      "id": "3e2307de9559",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 58605,
+      "end": 58679,
+      "line": 708,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "298208d1b5d3",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 58706,
+      "end": 58767,
+      "line": 712,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This is what you’re looking through when rendering the scene.",
+      "source_text": "This is what you’re looking through when rendering the scene."
+    },
+    {
+      "id": "67f2b003c307",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 58775,
+      "end": 58819,
+      "line": 713,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "You can use a camera by selecting it in the ",
+      "source_text": "You can use a camera by selecting it in the "
+    },
+    {
+      "id": "04ae3037c18e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 58974,
+      "end": 59040,
+      "line": 713,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " camera dropdown menu on top of the viewport. Or by selecting the ",
+      "source_text": " camera dropdown menu on top of the viewport. Or by selecting the "
+    },
+    {
+      "id": "40e77d980609",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59044,
+      "end": 59050,
+      "line": 713,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "676efbb398ee",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59055,
+      "end": 59078,
+      "line": 713,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node and clicking the ",
+      "source_text": " node and clicking the "
+    },
+    {
+      "id": "6ef177cb40f1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59082,
+      "end": 59090,
+      "line": 713,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Activate",
+      "source_text": "Activate"
+    },
+    {
+      "id": "45fb3567e251",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59095,
+      "end": 59110,
+      "line": 713,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " button in the ",
+      "source_text": " button in the "
+    },
+    {
+      "id": "dff6a3ba6571",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59114,
+      "end": 59121,
+      "line": 713,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "General",
+      "source_text": "General"
+    },
+    {
+      "id": "9e8b411249ea",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59126,
+      "end": 59131,
+      "line": 713,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "f1d4f2f0fc49",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59139,
+      "end": 59146,
+      "line": 714,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "In the ",
+      "source_text": "In the "
+    },
+    {
+      "id": "fffa0a63a46e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59150,
+      "end": 59159,
+      "line": 714,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Transform",
+      "source_text": "Transform"
+    },
+    {
+      "id": "52d2f7921753",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59164,
+      "end": 59319,
+      "line": 714,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab, you can specify the position and rotation of the camera. But you can also do this by navigating around the viewport when looking through your camera.",
+      "source_text": " tab, you can specify the position and rotation of the camera. But you can also do this by navigating around the viewport when looking through your camera."
+    },
+    {
+      "id": "f62eaa0619e6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59327,
+      "end": 59379,
+      "line": 715,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "When you are happy with the camera position you can ",
+      "source_text": "When you are happy with the camera position you can "
+    },
+    {
+      "id": "ca72410a0016",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59387,
+      "end": 59391,
+      "line": 715,
+      "parent_path": "section/section/section/p/strong",
+      "source_raw": "lock",
+      "source_text": "lock"
+    },
+    {
+      "id": "a8390be88557",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59400,
+      "end": 59419,
+      "line": 715,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " the camera in the ",
+      "source_text": " the camera in the "
+    },
+    {
+      "id": "efe4b7dd8863",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59423,
+      "end": 59430,
+      "line": 715,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "General",
+      "source_text": "General"
+    },
+    {
+      "id": "4c19569b0a57",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59435,
+      "end": 59474,
+      "line": 715,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab so you can’t accidentally move it.",
+      "source_text": " tab so you can’t accidentally move it."
+    },
+    {
+      "id": "b5451aae4efb",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59482,
+      "end": 59486,
+      "line": 716,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "681b8883ef61",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59490,
+      "end": 59508,
+      "line": 716,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Display Resolution",
+      "source_text": "Display Resolution"
+    },
+    {
+      "id": "b408292afc5b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59513,
+      "end": 59531,
+      "line": 716,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "f844e2dae179",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59535,
+      "end": 59542,
+      "line": 716,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Display",
+      "source_text": "Display"
+    },
+    {
+      "id": "bbd30828ea42",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59547,
+      "end": 59694,
+      "line": 716,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab specifies the aspect ratio of the camera. You can visually see this in the viewport. Don’t forget to set this to the same aspect ratio as the ",
+      "source_text": " tab specifies the aspect ratio of the camera. You can visually see this in the viewport. Don’t forget to set this to the same aspect ratio as the "
+    },
+    {
+      "id": "885d2d72aa46",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59858,
+      "end": 59871,
+      "line": 716,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Export: Image",
+      "source_text": "Export: Image"
+    },
+    {
+      "id": "d155aac692c0",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59876,
+      "end": 59905,
+      "line": 716,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node to get correct results.",
+      "source_text": " node to get correct results."
+    },
+    {
+      "id": "d7112648dc66",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59913,
+      "end": 59917,
+      "line": 717,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "623edfa2027e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59921,
+      "end": 59934,
+      "line": 717,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Field Of View",
+      "source_text": "Field Of View"
+    },
+    {
+      "id": "c2c6eeef8a68",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59939,
+      "end": 59957,
+      "line": 717,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "9f286a2bbd9e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59961,
+      "end": 59968,
+      "line": 717,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Display",
+      "source_text": "Display"
+    },
+    {
+      "id": "643c0e78aa66",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 59973,
+      "end": 60092,
+      "line": 717,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab will specify the angle at which objects are visible to the camera. Adjusting this is like zooming with a telelens.",
+      "source_text": " tab will specify the angle at which objects are visible to the camera. Adjusting this is like zooming with a telelens."
+    },
+    {
+      "id": "5e979eab9bc4",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 60118,
+      "end": 60146,
+      "line": 719,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": "The camera  selected in the ",
+      "source_text": "The camera  selected in the "
+    },
+    {
+      "id": "9c1477d4a2d3",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 60150,
+      "end": 60156,
+      "line": 719,
+      "parent_path": "section/blockquote/div/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "9e368be3bfaf",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 60161,
+      "end": 60173,
+      "line": 719,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " tab in the ",
+      "source_text": " tab in the "
+    },
+    {
+      "id": "458d8ac3a399",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 60337,
+      "end": 60350,
+      "line": 719,
+      "parent_path": "section/blockquote/div/p/em",
+      "source_raw": "Export: Image",
+      "source_text": "Export: Image"
+    },
+    {
+      "id": "6b04e9582ebf",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 60355,
+      "end": 60404,
+      "line": 719,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " node deternines the viewed angle for the export.",
+      "source_text": " node deternines the viewed angle for the export."
+    },
+    {
+      "id": "a69b0bc7b586",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 60645,
+      "end": 60658,
+      "line": 723,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Export: Mesh",
+      "source_text": " Export: Mesh"
+    },
+    {
+      "id": "08c9f848f800",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 60763,
+      "end": 60878,
+      "line": 724,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "With this node, you can export your liquid mesh as a 3D file format for use in other software like Maya or Blender.",
+      "source_text": "With this node, you can export your liquid mesh as a 3D file format for use in other software like Maya or Blender."
+    },
+    {
+      "id": "4f2d09a4e0af",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 60904,
+      "end": 60908,
+      "line": 726,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "ba6aadf848d1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 61067,
+      "end": 61131,
+      "line": 726,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " Export: Mesh node needs to be connected to the Mesh pin of the ",
+      "source_text": " Export: Mesh node needs to be connected to the Mesh pin of the "
+    },
+    {
+      "id": "837d9165531b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 61288,
+      "end": 61305,
+      "line": 726,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " Simulation node.",
+      "source_text": " Simulation node."
+    },
+    {
+      "id": "2de17b875692",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 61643,
+      "end": 61717,
+      "line": 735,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "882d0831d130",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 61793,
+      "end": 61803,
+      "line": 742,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Continuing",
+      "source_text": "Continuing"
+    },
+    {
+      "id": "d9cd0c54ff51",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 61892,
+      "end": 61952,
+      "line": 743,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "You should now have a basic overview of how to use LiquiGen.",
+      "source_text": "You should now have a basic overview of how to use LiquiGen."
+    },
+    {
+      "id": "aa45823d5cb6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 61960,
+      "end": 62001,
+      "line": 744,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you want more specific information on ",
+      "source_text": "If you want more specific information on "
+    },
+    {
+      "id": "58899eab8537",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 62099,
+      "end": 62104,
+      "line": 744,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "nodes",
+      "source_text": "nodes"
+    },
+    {
+      "id": "7d53999c1629",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 62148,
+      "end": 62162,
+      "line": 744,
+      "parent_path": "section/section/section/p/span",
+      "source_raw": "user interface",
+      "source_text": "user interface"
+    },
+    {
+      "id": "43192f216e9b",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 62289,
+      "end": 62297,
+      "line": 744,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "settings",
+      "source_text": "settings"
+    },
+    {
+      "id": "f451090e3010",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 62308,
+      "end": 62363,
+      "line": 744,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": ",  or how to do particular things please check out our ",
+      "source_text": ",  or how to do particular things please check out our "
+    },
+    {
+      "id": "b0c04a0a4629",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 62459,
+      "end": 62469,
+      "line": 744,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "33f5b843d9c5",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 62480,
+      "end": 62486,
+      "line": 744,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " page.",
+      "source_text": " page."
+    },
+    {
+      "id": "501c31c7d8d1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 62694,
+      "end": 62712,
+      "line": 746,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you’re new the ",
+      "source_text": "If you’re new the "
+    },
+    {
+      "id": "822a6214056a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 62716,
+      "end": 62721,
+      "line": 746,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Learn",
+      "source_text": "Learn"
+    },
+    {
+      "id": "c9d03bb8b9bb",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 62726,
+      "end": 62762,
+      "line": 746,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " tab in the Project Manager and our ",
+      "source_text": " tab in the Project Manager and our "
+    },
+    {
+      "id": "b2e4c56d3837",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 62836,
+      "end": 62851,
+      "line": 746,
+      "parent_path": "section/section/section/p/a",
+      "source_raw": "YouTube channel",
+      "source_text": "YouTube channel"
+    },
+    {
+      "id": "760e287625d3",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 62855,
+      "end": 62881,
+      "line": 746,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " are good places to visit.",
+      "source_text": " are good places to visit."
+    },
+    {
+      "id": "72a1b47b89cd",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 62889,
+      "end": 63001,
+      "line": 747,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "You can also learn a lot by opening the presets shipped with LiquiGen and having a look at how they were set up.",
+      "source_text": "You can also learn a lot by opening the presets shipped with LiquiGen and having a look at how they were set up."
+    },
+    {
+      "id": "0e6c832d385d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 63009,
+      "end": 63183,
+      "line": 748,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Another great way of learning is to just try everything out! Since LiquiGen simulates so fast it’s often easy to see what a certain parameter does by just changing its value.",
+      "source_text": "Another great way of learning is to just try everything out! Since LiquiGen simulates so fast it’s often easy to see what a certain parameter does by just changing its value."
+    },
+    {
+      "id": "0c4b42534835",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 63191,
+      "end": 63290,
+      "line": 749,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Don’t forget you can leave your cursor on any parameter name to get an explanation of what it does.",
+      "source_text": "Don’t forget you can leave your cursor on any parameter name to get an explanation of what it does."
+    },
+    {
+      "id": "d26d78501e71",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 63298,
+      "end": 63376,
+      "line": 750,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you want to showcase something or ask for help, don’t hesitate to join our ",
+      "source_text": "If you want to showcase something or ask for help, don’t hesitate to join our "
+    },
+    {
+      "id": "410dba4a9ee2",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 63448,
+      "end": 63462,
+      "line": 750,
+      "parent_path": "section/section/section/p/a",
+      "source_raw": "discord server",
+      "source_text": "discord server"
+    },
+    {
+      "id": "6a279ca0d318",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 63474,
+      "end": 63502,
+      "line": 751,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Good luck learning LiquiGen,",
+      "source_text": "Good luck learning LiquiGen,"
+    },
+    {
+      "id": "75dd29a2f540",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 63510,
+      "end": 63561,
+      "line": 752,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "we can’t wait to see your splashingly epic results!",
+      "source_text": "we can’t wait to see your splashingly epic results!"
+    },
+    {
+      "id": "74c7766f525a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 63870,
+      "end": 63944,
+      "line": 760,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "c40761b2c535",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 64255,
+      "end": 64259,
+      "line": 776,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "1d1ff51843f9",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 64325,
+      "end": 64335,
+      "line": 778,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "7cf99e8a6785",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 64707,
+      "end": 64715,
+      "line": 786,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "c68f2fae1eaf",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 64798,
+      "end": 64820,
+      "line": 789,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "47e7f1753498",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 65006,
+      "end": 65066,
+      "line": 796,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "c5df38c9caac",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 65072,
+      "end": 65095,
+      "line": 798,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "588c61aee4da",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 65133,
+      "end": 65139,
+      "line": 799,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "673b58a3f994",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 65143,
+      "end": 65148,
+      "line": 799,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "86dc95709f3d",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 65198,
+      "end": 65208,
+      "line": 799,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "6ad27b7bee19",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 65212,
+      "end": 65240,
+      "line": 799,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "272ec59b5df6",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 65284,
+      "end": 65288,
+      "line": 801,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "5c46d1e80396",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 65605,
+      "end": 65641,
+      "line": 816,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "f81fc5c18eff",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 65798,
+      "end": 65813,
+      "line": 823,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "22f0e2673d61",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 65884,
+      "end": 65903,
+      "line": 824,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Installing LiquiGen",
+      "source_text": "Installing LiquiGen"
+    },
+    {
+      "id": "352f89e70c04",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 65963,
+      "end": 65971,
+      "line": 825,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Download",
+      "source_text": "Download"
+    },
+    {
+      "id": "883eecde4d36",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66034,
+      "end": 66044,
+      "line": 826,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Installing",
+      "source_text": "Installing"
+    },
+    {
+      "id": "28bb16b80437",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66118,
+      "end": 66127,
+      "line": 829,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Licensing",
+      "source_text": "Licensing"
+    },
+    {
+      "id": "a62e42035168",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66194,
+      "end": 66208,
+      "line": 830,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Using LiquiGen",
+      "source_text": "Using LiquiGen"
+    },
+    {
+      "id": "3155dc308923",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66275,
+      "end": 66290,
+      "line": 831,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Project Manager",
+      "source_text": "Project Manager"
+    },
+    {
+      "id": "8de5d05280dc",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66357,
+      "end": 66371,
+      "line": 832,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "9b9db6775ad1",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66432,
+      "end": 66440,
+      "line": 833,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Viewport",
+      "source_text": "Viewport"
+    },
+    {
+      "id": "087bec8d0189",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66508,
+      "end": 66523,
+      "line": 834,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Timeline Editor",
+      "source_text": "Timeline Editor"
+    },
+    {
+      "id": "4067d7c6dad8",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66586,
+      "end": 66596,
+      "line": 835,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node Graph",
+      "source_text": "Node Graph"
+    },
+    {
+      "id": "1cdb6ac0e294",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66665,
+      "end": 66681,
+      "line": 836,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Properties Panel",
+      "source_text": "Properties Panel"
+    },
+    {
+      "id": "a7c2ec2d03ca",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66744,
+      "end": 66754,
+      "line": 837,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "89f4ff3af142",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66819,
+      "end": 66831,
+      "line": 838,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Transforming",
+      "source_text": "Transforming"
+    },
+    {
+      "id": "0e797ec80324",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66889,
+      "end": 66894,
+      "line": 839,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Nodes",
+      "source_text": "Nodes"
+    },
+    {
+      "id": "1f5cfaa788ff",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 66960,
+      "end": 66967,
+      "line": 840,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Shapes",
+      "source_text": " Shapes"
+    },
+    {
+      "id": "a96895ba2d7f",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 67042,
+      "end": 67050,
+      "line": 841,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Emitter",
+      "source_text": " Emitter"
+    },
+    {
+      "id": "6ecd6063a999",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 67127,
+      "end": 67136,
+      "line": 842,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Collider",
+      "source_text": " Collider"
+    },
+    {
+      "id": "d5534e8beb19",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 67208,
+      "end": 67214,
+      "line": 843,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Force",
+      "source_text": " Force"
+    },
+    {
+      "id": "ebf963aa39c9",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 67282,
+      "end": 67288,
+      "line": 844,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Drain",
+      "source_text": " Drain"
+    },
+    {
+      "id": "e98af2f90d80",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 67366,
+      "end": 67377,
+      "line": 845,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Simulation",
+      "source_text": " Simulation"
+    },
+    {
+      "id": "4fd396a07825",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 67446,
+      "end": 67452,
+      "line": 846,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Light",
+      "source_text": " Light"
+    },
+    {
+      "id": "6d8d10c595cb",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 67519,
+      "end": 67526,
+      "line": 847,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Skybox",
+      "source_text": " Skybox"
+    },
+    {
+      "id": "247eafd9d560",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 67596,
+      "end": 67603,
+      "line": 848,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Ground",
+      "source_text": " Ground"
+    },
+    {
+      "id": "55a4563c2499",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 67671,
+      "end": 67677,
+      "line": 849,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Scene",
+      "source_text": " Scene"
+    },
+    {
+      "id": "5dfbd875768e",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 67747,
+      "end": 67754,
+      "line": 850,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Render",
+      "source_text": " Render"
+    },
+    {
+      "id": "8c93c163d33c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 67838,
+      "end": 67852,
+      "line": 851,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Export: Image",
+      "source_text": " Export: Image"
+    },
+    {
+      "id": "4413337e425a",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 67922,
+      "end": 67929,
+      "line": 852,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Camera",
+      "source_text": " Camera"
+    },
+    {
+      "id": "24a7481e2a3c",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 68008,
+      "end": 68021,
+      "line": 853,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Export: Mesh",
+      "source_text": " Export: Mesh"
+    },
+    {
+      "id": "da7e06655220",
+      "path": "liquigen/pages/getting_started.html",
+      "start": 68096,
+      "end": 68106,
+      "line": 856,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Continuing",
+      "source_text": "Continuing"
+    }
+  ]
+}

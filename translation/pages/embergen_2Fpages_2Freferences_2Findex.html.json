@@ -1,0 +1,726 @@
+{
+  "path": "embergen/pages/references/index.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "673b01b8dedd",
+      "source": "References - JangaFX Documentation",
+      "target": "参考 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "e4817e9c4c91",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "67194adf19c7",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "0d1607048af6",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "57f2483927c4",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "725aad2efc50",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "3b08235ba22f",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "fcaea13e5164",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "e2259e874200",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "e2441bb2c997",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "8048f608a9a1",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "e49de418ace3",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "7fa89a6cc7f7",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "8b13af883208",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "f6ca99ebac4b",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "58b15789ab42",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "03cf600edb78",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "b9987453b28f",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "57858b89f29f",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "0b74046c7837",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "575fab612d6e",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "56cf93128c04",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "6734bdb64fe9",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "96125fae7798",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "9fc03beabfb1",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "95cee7f52960",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "ec6202860d9f",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "f0d3bbba1ef2",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "f030a7deb650",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "cf1fddf63de7",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "ad256e946372",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "845f6ff27018",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "4e9257c1a953",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "e8d1c1d3a99e",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "d2aec03cceff",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "295dd0082bb5",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "0afd63475c28",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "49ef6f1062ab",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "82d4c446a4ac",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "aeaaeb26769f",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "70fd650f3fc1",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "fb6d344f7692",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "ed529da099b0",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "01fb9fa57345",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "9be023750ddc",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "3b489365f176",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "f1dd8623d0b2",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "aa6e9b131b5c",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "05205df86168",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "153a5eee71c5",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "217e4d0c66dc",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "b1b9efced9c7",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "016e6e0a241b",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "87574753c289",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "6da3e6fb4993",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "d65cab13b934",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "26b8716fd26b",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "78257d8d7668",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "637dddad74a7",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "6aaed9128c3f",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "d5a681e0a8b2",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "ef945cdc7446",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "e08999f89e01",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "20b5da9aa2e0",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "e56b3c7b39c3",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "59a5d3731a9c",
+      "source": "Here you’ll documentation on every aspect of EmberGen.",
+      "target": "这里包含 EmberGen 各方面的文档。",
+      "note": ""
+    },
+    {
+      "id": "e8b407a17eb7",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "39d00b505699",
+      "source": "Menubar",
+      "target": "菜单栏",
+      "note": ""
+    },
+    {
+      "id": "2393712918d5",
+      "source": "Viewport",
+      "target": "视口",
+      "note": ""
+    },
+    {
+      "id": "05fe122d19ad",
+      "source": "Node Graph",
+      "target": "节点图",
+      "note": ""
+    },
+    {
+      "id": "81fcf68e883a",
+      "source": "Timeline Editor",
+      "target": "时间轴编辑器",
+      "note": ""
+    },
+    {
+      "id": "e1123e4a2192",
+      "source": "Properties Panel",
+      "target": "属性面板",
+      "note": ""
+    },
+    {
+      "id": "f1575b2ca0c4",
+      "source": "Project Manager",
+      "target": "项目管理器",
+      "note": ""
+    },
+    {
+      "id": "39c5dab027bc",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "560caa645213",
+      "source": "Project Settings",
+      "target": "项目设置",
+      "note": ""
+    },
+    {
+      "id": "10b067374b99",
+      "source": "Preferences",
+      "target": "首选项",
+      "note": ""
+    },
+    {
+      "id": "e9d44e9b0abd",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "1c8bb858a3dd",
+      "source": "Camera ",
+      "target": "摄像机 ",
+      "note": ""
+    },
+    {
+      "id": "5f36e9b42cf9",
+      "source": "Collider ",
+      "target": "碰撞体 ",
+      "note": ""
+    },
+    {
+      "id": "6cdbdcb3ebda",
+      "source": "Collider ",
+      "target": "碰撞体 ",
+      "note": ""
+    },
+    {
+      "id": "f17d61956348",
+      "source": "Color ",
+      "target": "颜色 ",
+      "note": ""
+    },
+    {
+      "id": "d86fae1a2a5d",
+      "source": "Emitter ",
+      "target": "发射器 ",
+      "note": ""
+    },
+    {
+      "id": "bfc898656854",
+      "source": "Export ",
+      "target": "导出 ",
+      "note": ""
+    },
+    {
+      "id": "6791a0c8d061",
+      "source": "Forces ",
+      "target": "力 ",
+      "note": ""
+    },
+    {
+      "id": "47ae3b7b56c0",
+      "source": "Ground ",
+      "target": "地面 ",
+      "note": ""
+    },
+    {
+      "id": "69dc36ca1fc7",
+      "source": "Import ",
+      "target": "导入 ",
+      "note": ""
+    },
+    {
+      "id": "cafd3f585859",
+      "source": "Light ",
+      "target": "灯光 ",
+      "note": ""
+    },
+    {
+      "id": "5684b9f8e24e",
+      "source": "Modulators ",
+      "target": "调制器 ",
+      "note": ""
+    },
+    {
+      "id": "559e25395e51",
+      "source": "Scene ",
+      "target": "场景 ",
+      "note": ""
+    },
+    {
+      "id": "dddadd03a165",
+      "source": "Shading ",
+      "target": "着色 ",
+      "note": ""
+    },
+    {
+      "id": "78408ee55a69",
+      "source": "Shapes ",
+      "target": "形状 ",
+      "note": ""
+    },
+    {
+      "id": "ccc836f301f5",
+      "source": "Simulation ",
+      "target": "模拟 ",
+      "note": ""
+    },
+    {
+      "id": "ffd5b42cd45f",
+      "source": "Skybox ",
+      "target": "天空盒 ",
+      "note": ""
+    },
+    {
+      "id": "5b12c9519703",
+      "source": "Volume Processing ",
+      "target": "体积处理 ",
+      "note": ""
+    },
+    {
+      "id": "2c292df1473a",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "ae3de3cf725f",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "f9253f087e61",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "22b41d7ae068",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "11f36a9eaa1e",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "d42826752704",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "11de144d7e0c",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "1713d05c89ea",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "07a5bb74a8b4",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "6cb15ac7ebcd",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "417451de0cc9",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "dad058a2cffe",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "4231eb661ea8",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "33442539dee4",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "0ad129a8a27b",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "17b66ba36466",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "4aaaee754bcf",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "ed7e5d35bd42",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "5faaa87c79fe",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "f0f833bf9cea",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "f412e0b337ca",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "7712dc5d53b2",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "7e2bbe63ab7a",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "9951f265c815",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "fb1fecc716c4",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c4b98e166f31",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    }
+  ]
+}

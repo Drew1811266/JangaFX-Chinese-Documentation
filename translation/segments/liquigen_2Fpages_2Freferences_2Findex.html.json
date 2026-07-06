@@ -1,0 +1,1216 @@
+{
+  "path": "liquigen/pages/references/index.html",
+  "segment_count": 121,
+  "segments": [
+    {
+      "id": "018c741fe494",
+      "path": "liquigen/pages/references/index.html",
+      "start": 697,
+      "end": 731,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "References - JangaFX Documentation",
+      "source_text": "References - JangaFX Documentation"
+    },
+    {
+      "id": "14f380f10179",
+      "path": "liquigen/pages/references/index.html",
+      "start": 5309,
+      "end": 5332,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "9e6d7dd81c5d",
+      "path": "liquigen/pages/references/index.html",
+      "start": 5427,
+      "end": 5457,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "dd68ae181771",
+      "path": "liquigen/pages/references/index.html",
+      "start": 5653,
+      "end": 5683,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "1a04ef68138b",
+      "path": "liquigen/pages/references/index.html",
+      "start": 5871,
+      "end": 5892,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "08c286f33db1",
+      "path": "liquigen/pages/references/index.html",
+      "start": 6085,
+      "end": 6123,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "ac8379b308c3",
+      "path": "liquigen/pages/references/index.html",
+      "start": 6513,
+      "end": 6545,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "917ff01c72a8",
+      "path": "liquigen/pages/references/index.html",
+      "start": 7578,
+      "end": 7600,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "c7ac85542a20",
+      "path": "liquigen/pages/references/index.html",
+      "start": 7778,
+      "end": 7810,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "913cc49bb0b9",
+      "path": "liquigen/pages/references/index.html",
+      "start": 8000,
+      "end": 8015,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "2e7bd751f606",
+      "path": "liquigen/pages/references/index.html",
+      "start": 8144,
+      "end": 8154,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "c595bbe15702",
+      "path": "liquigen/pages/references/index.html",
+      "start": 8332,
+      "end": 8364,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "867156ee62c3",
+      "path": "liquigen/pages/references/index.html",
+      "start": 8562,
+      "end": 8576,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "cf73aa43e998",
+      "path": "liquigen/pages/references/index.html",
+      "start": 8695,
+      "end": 8703,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "fec4c1c83bbf",
+      "path": "liquigen/pages/references/index.html",
+      "start": 8823,
+      "end": 8832,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "55015d2daeab",
+      "path": "liquigen/pages/references/index.html",
+      "start": 8977,
+      "end": 8990,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "f5cceece72e1",
+      "path": "liquigen/pages/references/index.html",
+      "start": 9168,
+      "end": 9200,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "01910abf45b6",
+      "path": "liquigen/pages/references/index.html",
+      "start": 9415,
+      "end": 9428,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "60e2ef5849ac",
+      "path": "liquigen/pages/references/index.html",
+      "start": 9576,
+      "end": 9595,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "abe87887781d",
+      "path": "liquigen/pages/references/index.html",
+      "start": 9727,
+      "end": 9732,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "9d11b4b8a91d",
+      "path": "liquigen/pages/references/index.html",
+      "start": 9866,
+      "end": 9873,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "db6fb65f146e",
+      "path": "liquigen/pages/references/index.html",
+      "start": 10004,
+      "end": 10008,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "fc66cba909c0",
+      "path": "liquigen/pages/references/index.html",
+      "start": 10151,
+      "end": 10171,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "3098d12d7427",
+      "path": "liquigen/pages/references/index.html",
+      "start": 10307,
+      "end": 10316,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "8312bc51405c",
+      "path": "liquigen/pages/references/index.html",
+      "start": 10454,
+      "end": 10466,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "e4c7c8753466",
+      "path": "liquigen/pages/references/index.html",
+      "start": 10602,
+      "end": 10620,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "8317fd0162b5",
+      "path": "liquigen/pages/references/index.html",
+      "start": 10763,
+      "end": 10779,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "3b7364bde48b",
+      "path": "liquigen/pages/references/index.html",
+      "start": 10927,
+      "end": 10948,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "c61988060da0",
+      "path": "liquigen/pages/references/index.html",
+      "start": 11083,
+      "end": 11091,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "259080009694",
+      "path": "liquigen/pages/references/index.html",
+      "start": 11227,
+      "end": 11237,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "67fc86f7eab0",
+      "path": "liquigen/pages/references/index.html",
+      "start": 11377,
+      "end": 11390,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "2fc3e9b2558c",
+      "path": "liquigen/pages/references/index.html",
+      "start": 11517,
+      "end": 11520,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "44d13821f242",
+      "path": "liquigen/pages/references/index.html",
+      "start": 11640,
+      "end": 11662,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "a582fd615559",
+      "path": "liquigen/pages/references/index.html",
+      "start": 11851,
+      "end": 11883,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "e0b7173430aa",
+      "path": "liquigen/pages/references/index.html",
+      "start": 12068,
+      "end": 12083,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "7d8e69c8bb23",
+      "path": "liquigen/pages/references/index.html",
+      "start": 12197,
+      "end": 12207,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "ff45b916a5fb",
+      "path": "liquigen/pages/references/index.html",
+      "start": 12396,
+      "end": 12428,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "f0f79ca3564f",
+      "path": "liquigen/pages/references/index.html",
+      "start": 12591,
+      "end": 12605,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "c84274c8ea6e",
+      "path": "liquigen/pages/references/index.html",
+      "start": 12689,
+      "end": 12697,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "35878fe0364f",
+      "path": "liquigen/pages/references/index.html",
+      "start": 12782,
+      "end": 12791,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "df28999943fc",
+      "path": "liquigen/pages/references/index.html",
+      "start": 12901,
+      "end": 12914,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "6f7f8459aa5b",
+      "path": "liquigen/pages/references/index.html",
+      "start": 13092,
+      "end": 13124,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "1fe068d36d03",
+      "path": "liquigen/pages/references/index.html",
+      "start": 13302,
+      "end": 13313,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "f0bd147a269e",
+      "path": "liquigen/pages/references/index.html",
+      "start": 13426,
+      "end": 13445,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "b76cb0542cd3",
+      "path": "liquigen/pages/references/index.html",
+      "start": 13542,
+      "end": 13547,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "ad95ecf4f020",
+      "path": "liquigen/pages/references/index.html",
+      "start": 13646,
+      "end": 13653,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "d8cc51af52da",
+      "path": "liquigen/pages/references/index.html",
+      "start": 13749,
+      "end": 13753,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "8f75235a27bf",
+      "path": "liquigen/pages/references/index.html",
+      "start": 13861,
+      "end": 13881,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "1f38c76caf37",
+      "path": "liquigen/pages/references/index.html",
+      "start": 13986,
+      "end": 13999,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "867a281147db",
+      "path": "liquigen/pages/references/index.html",
+      "start": 14102,
+      "end": 14114,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "0b7c98c9cd3f",
+      "path": "liquigen/pages/references/index.html",
+      "start": 14215,
+      "end": 14233,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "20aa87e93ae4",
+      "path": "liquigen/pages/references/index.html",
+      "start": 14341,
+      "end": 14357,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "fffc78b33c11",
+      "path": "liquigen/pages/references/index.html",
+      "start": 14470,
+      "end": 14491,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "37b3800e4b39",
+      "path": "liquigen/pages/references/index.html",
+      "start": 14591,
+      "end": 14599,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "812ba489cc83",
+      "path": "liquigen/pages/references/index.html",
+      "start": 14704,
+      "end": 14717,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "eba41a2d8175",
+      "path": "liquigen/pages/references/index.html",
+      "start": 14820,
+      "end": 14831,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "bae93e79d386",
+      "path": "liquigen/pages/references/index.html",
+      "start": 14937,
+      "end": 14940,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "b20c0afaa668",
+      "path": "liquigen/pages/references/index.html",
+      "start": 15050,
+      "end": 15071,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "d997f2c5e337",
+      "path": "liquigen/pages/references/index.html",
+      "start": 15168,
+      "end": 15188,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "c13e10fa151b",
+      "path": "liquigen/pages/references/index.html",
+      "start": 15288,
+      "end": 15310,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "30c0f421a074",
+      "path": "liquigen/pages/references/index.html",
+      "start": 15723,
+      "end": 15734,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "ad26508e9913",
+      "path": "liquigen/pages/references/index.html",
+      "start": 15954,
+      "end": 15992,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "278fee4f7e79",
+      "path": "liquigen/pages/references/index.html",
+      "start": 16411,
+      "end": 16443,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "5b492ba25346",
+      "path": "liquigen/pages/references/index.html",
+      "start": 16914,
+      "end": 16988,
+      "line": 262,
+      "parent_path": "div/article/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "123002588c09",
+      "path": "liquigen/pages/references/index.html",
+      "start": 17035,
+      "end": 17045,
+      "line": 267,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "6470fdee577f",
+      "path": "liquigen/pages/references/index.html",
+      "start": 17127,
+      "end": 17181,
+      "line": 268,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Here you’ll documentation on every aspect of LiquiGen.",
+      "source_text": "Here you’ll documentation on every aspect of LiquiGen."
+    },
+    {
+      "id": "bed6718899af",
+      "path": "liquigen/pages/references/index.html",
+      "start": 17308,
+      "end": 17322,
+      "line": 271,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "0d10b9f41680",
+      "path": "liquigen/pages/references/index.html",
+      "start": 17417,
+      "end": 17424,
+      "line": 272,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Menubar",
+      "source_text": "Menubar"
+    },
+    {
+      "id": "4c290c0ab92f",
+      "path": "liquigen/pages/references/index.html",
+      "start": 17521,
+      "end": 17529,
+      "line": 273,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Viewport",
+      "source_text": "Viewport"
+    },
+    {
+      "id": "a2c2c923942a",
+      "path": "liquigen/pages/references/index.html",
+      "start": 17628,
+      "end": 17638,
+      "line": 274,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node Graph",
+      "source_text": "Node Graph"
+    },
+    {
+      "id": "811212823fe7",
+      "path": "liquigen/pages/references/index.html",
+      "start": 17742,
+      "end": 17757,
+      "line": 275,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Timeline Editor",
+      "source_text": "Timeline Editor"
+    },
+    {
+      "id": "0ab6297419e8",
+      "path": "liquigen/pages/references/index.html",
+      "start": 17862,
+      "end": 17878,
+      "line": 276,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Properties Panel",
+      "source_text": "Properties Panel"
+    },
+    {
+      "id": "db438c6aff7c",
+      "path": "liquigen/pages/references/index.html",
+      "start": 17982,
+      "end": 17997,
+      "line": 277,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Project Manager",
+      "source_text": "Project Manager"
+    },
+    {
+      "id": "ace77dfce518",
+      "path": "liquigen/pages/references/index.html",
+      "start": 18093,
+      "end": 18101,
+      "line": 280,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "b8d19f353984",
+      "path": "liquigen/pages/references/index.html",
+      "start": 18201,
+      "end": 18217,
+      "line": 281,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Project Settings",
+      "source_text": "Project Settings"
+    },
+    {
+      "id": "1e81e7c46607",
+      "path": "liquigen/pages/references/index.html",
+      "start": 18313,
+      "end": 18324,
+      "line": 282,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Preferences",
+      "source_text": "Preferences"
+    },
+    {
+      "id": "b8a4239262b2",
+      "path": "liquigen/pages/references/index.html",
+      "start": 18421,
+      "end": 18430,
+      "line": 285,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "3696b32bda89",
+      "path": "liquigen/pages/references/index.html",
+      "start": 18544,
+      "end": 18561,
+      "line": 286,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Shape: Primitive ",
+      "source_text": "Shape: Primitive "
+    },
+    {
+      "id": "e9c2b75536c1",
+      "path": "liquigen/pages/references/index.html",
+      "start": 18672,
+      "end": 18683,
+      "line": 287,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Appearance",
+      "source_text": " Appearance"
+    },
+    {
+      "id": "e9abec3fb751",
+      "path": "liquigen/pages/references/index.html",
+      "start": 18790,
+      "end": 18799,
+      "line": 288,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Collider",
+      "source_text": " Collider"
+    },
+    {
+      "id": "07bec0adb112",
+      "path": "liquigen/pages/references/index.html",
+      "start": 18900,
+      "end": 18906,
+      "line": 289,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Drain",
+      "source_text": " Drain"
+    },
+    {
+      "id": "5fb19cb9293c",
+      "path": "liquigen/pages/references/index.html",
+      "start": 19014,
+      "end": 19022,
+      "line": 290,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Emitter",
+      "source_text": " Emitter"
+    },
+    {
+      "id": "03a6d4c841f3",
+      "path": "liquigen/pages/references/index.html",
+      "start": 19128,
+      "end": 19135,
+      "line": 291,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Forces",
+      "source_text": " Forces"
+    },
+    {
+      "id": "bf208b403e91",
+      "path": "liquigen/pages/references/index.html",
+      "start": 19237,
+      "end": 19243,
+      "line": 292,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Light",
+      "source_text": " Light"
+    },
+    {
+      "id": "b8eb99d388b6",
+      "path": "liquigen/pages/references/index.html",
+      "start": 19352,
+      "end": 19363,
+      "line": 293,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Whitewater",
+      "source_text": " Whitewater"
+    },
+    {
+      "id": "e875c2e526bf",
+      "path": "liquigen/pages/references/index.html",
+      "start": 19466,
+      "end": 19473,
+      "line": 294,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera ",
+      "source_text": "Camera "
+    },
+    {
+      "id": "7abed5b7e44d",
+      "path": "liquigen/pages/references/index.html",
+      "start": 19576,
+      "end": 19583,
+      "line": 295,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Import",
+      "source_text": " Import"
+    },
+    {
+      "id": "e1262c0fe602",
+      "path": "liquigen/pages/references/index.html",
+      "start": 19695,
+      "end": 19702,
+      "line": 296,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Export",
+      "source_text": " Export"
+    },
+    {
+      "id": "6355e1375859",
+      "path": "liquigen/pages/references/index.html",
+      "start": 19813,
+      "end": 19824,
+      "line": 297,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulators ",
+      "source_text": "Modulators "
+    },
+    {
+      "id": "a2dc0f8ba460",
+      "path": "liquigen/pages/references/index.html",
+      "start": 19930,
+      "end": 19936,
+      "line": 298,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Color",
+      "source_text": " Color"
+    },
+    {
+      "id": "53bd67fe322a",
+      "path": "liquigen/pages/references/index.html",
+      "start": 20036,
+      "end": 20043,
+      "line": 299,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Skybox",
+      "source_text": " Skybox"
+    },
+    {
+      "id": "73f4c2028050",
+      "path": "liquigen/pages/references/index.html",
+      "start": 20146,
+      "end": 20153,
+      "line": 300,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Ground",
+      "source_text": " Ground"
+    },
+    {
+      "id": "d057bba28605",
+      "path": "liquigen/pages/references/index.html",
+      "start": 20254,
+      "end": 20260,
+      "line": 301,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Scene",
+      "source_text": " Scene"
+    },
+    {
+      "id": "a1e8ec8f93c7",
+      "path": "liquigen/pages/references/index.html",
+      "start": 20371,
+      "end": 20382,
+      "line": 302,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Simulation",
+      "source_text": " Simulation"
+    },
+    {
+      "id": "d3863e157f3a",
+      "path": "liquigen/pages/references/index.html",
+      "start": 20485,
+      "end": 20492,
+      "line": 303,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Render",
+      "source_text": " Render"
+    },
+    {
+      "id": "9fc95d793b98",
+      "path": "liquigen/pages/references/index.html",
+      "start": 20601,
+      "end": 20614,
+      "line": 306,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "f770e74d32ef",
+      "path": "liquigen/pages/references/index.html",
+      "start": 20716,
+      "end": 20727,
+      "line": 307,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "af0478b6716b",
+      "path": "liquigen/pages/references/index.html",
+      "start": 20840,
+      "end": 20859,
+      "line": 308,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "c6cc441cbd6e",
+      "path": "liquigen/pages/references/index.html",
+      "start": 20956,
+      "end": 20961,
+      "line": 309,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "2c06ffed5051",
+      "path": "liquigen/pages/references/index.html",
+      "start": 21060,
+      "end": 21067,
+      "line": 310,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "444dcb204f81",
+      "path": "liquigen/pages/references/index.html",
+      "start": 21163,
+      "end": 21167,
+      "line": 311,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "74c5450b3485",
+      "path": "liquigen/pages/references/index.html",
+      "start": 21275,
+      "end": 21295,
+      "line": 312,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "5c2924994e7e",
+      "path": "liquigen/pages/references/index.html",
+      "start": 21400,
+      "end": 21413,
+      "line": 313,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "6799d790fa90",
+      "path": "liquigen/pages/references/index.html",
+      "start": 21516,
+      "end": 21528,
+      "line": 314,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "9ed8501b1a85",
+      "path": "liquigen/pages/references/index.html",
+      "start": 21629,
+      "end": 21647,
+      "line": 315,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "9a4c404af75a",
+      "path": "liquigen/pages/references/index.html",
+      "start": 21755,
+      "end": 21771,
+      "line": 316,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "cbdad8990b92",
+      "path": "liquigen/pages/references/index.html",
+      "start": 21884,
+      "end": 21905,
+      "line": 317,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "7e0c17b2ca28",
+      "path": "liquigen/pages/references/index.html",
+      "start": 22005,
+      "end": 22013,
+      "line": 318,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "1048d8e3ee0c",
+      "path": "liquigen/pages/references/index.html",
+      "start": 22118,
+      "end": 22131,
+      "line": 319,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "f785c7f2c806",
+      "path": "liquigen/pages/references/index.html",
+      "start": 22234,
+      "end": 22245,
+      "line": 320,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "1dd28ffc76c6",
+      "path": "liquigen/pages/references/index.html",
+      "start": 22541,
+      "end": 22545,
+      "line": 335,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "87330ef64ec8",
+      "path": "liquigen/pages/references/index.html",
+      "start": 22611,
+      "end": 22625,
+      "line": 337,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "1ef26e021c58",
+      "path": "liquigen/pages/references/index.html",
+      "start": 23007,
+      "end": 23015,
+      "line": 345,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "b74e19ae7c12",
+      "path": "liquigen/pages/references/index.html",
+      "start": 23098,
+      "end": 23113,
+      "line": 348,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "8aed305ce7d2",
+      "path": "liquigen/pages/references/index.html",
+      "start": 23299,
+      "end": 23359,
+      "line": 355,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "ed3a4c29ce64",
+      "path": "liquigen/pages/references/index.html",
+      "start": 23365,
+      "end": 23388,
+      "line": 357,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "d88685522f43",
+      "path": "liquigen/pages/references/index.html",
+      "start": 23426,
+      "end": 23432,
+      "line": 358,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "c99b50d6bdb5",
+      "path": "liquigen/pages/references/index.html",
+      "start": 23436,
+      "end": 23441,
+      "line": 358,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "3fb374ab2e9e",
+      "path": "liquigen/pages/references/index.html",
+      "start": 23491,
+      "end": 23501,
+      "line": 358,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "363827ea1619",
+      "path": "liquigen/pages/references/index.html",
+      "start": 23505,
+      "end": 23533,
+      "line": 358,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "ef9ec98f29ac",
+      "path": "liquigen/pages/references/index.html",
+      "start": 23577,
+      "end": 23581,
+      "line": 360,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

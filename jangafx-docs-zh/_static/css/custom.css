@@ -1,0 +1,39 @@
+:root {
+    --color-janga-blue: #0093fe;
+    --page-width: 60em;
+}
+
+.main > .content {
+    width: var(--page-width);
+}
+
+.sidebar-drawer {
+    width: calc(50% - (var(--page-width)/2));
+}
+
+cite {
+    background: var(--color-janga-blue);
+    padding: 1px 5px 1px 5px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+    font-style: normal;
+}
+
+.float-left {
+    float: left;
+    margin-right: 5px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 5px;
+}
+
+h4 {
+    text-transform: none;
+    font-weight: 500;
+    font-size: 1.07rem;
+}
+

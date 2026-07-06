@@ -1,0 +1,624 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/palettes.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "4ea3bd643f81",
+      "source": "Palettes - JangaFX Documentation",
+      "target": "快捷面板 - JangaFX 文档",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "651c049513b8",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "b3d2fb506f03",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "c37d258e8bdf",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "6ab9e9c758cc",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "3b6f8d680c82",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "649c577c9080",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "08ed72684f81",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "59638a6d7649",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "8f7a2bde2d32",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "12fe875286cc",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "b97e1ee7957a",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "1c624f06817c",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "5c9cb8593b7e",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "fe24782a8cd5",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "e229c7e024e8",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "3d0ce4f8d8fc",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "e6611c7f9c79",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "46c610ac85cf",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "7eb414344d05",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "861f12b58b85",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "04b952b22e0c",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "d8e840349ec4",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "fdd4704b7af4",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "9abafa3a13a0",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "9f69b5b62945",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "0f1c0fef4881",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "eeb8caed1aa8",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "87e6e23bc448",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "06f424a3b391",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "4c7fda7cbe17",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "92a796d05ba5",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "329a7f552ef0",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "c65491a0d8b8",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "0d5d2fba8a71",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "97102d75387e",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "f5fa28ef7cf1",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "89a5c12f3866",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "87cded801fad",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "4012c7c03b96",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "c2b06ff88c07",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "896a2d857bfa",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "45bf40b986b5",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "a44669b495b9",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "b05a4764f055",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "eb6c1e92c76f",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "faf0acf60ca6",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "19e0c19c4e12",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "9af802c00fc2",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "957298dbde53",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "3efedc311a50",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "7b22c45cfd4a",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "2838335d316d",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "dec7b5ea5aea",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "155cc8c0ae5f",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "eac602451b1e",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "fde4a05b4352",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "fc6dee447be0",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "7e3f669f82fa",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "814b673aa20c",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "52c73f15da9e",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "d292373b95e3",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "1835de2770bb",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "8847be7edf42",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "4520e6985fad",
+      "source": "Palettes are temporary windows that can be opened to quickly find or do things.",
+      "target": "快捷面板是可临时打开的窗口，用于快速查找或执行操作。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "584ce6199dd5",
+      "source": "There are 3 palettes:",
+      "target": "共有 3 种快捷面板：",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "8cc786524bdd",
+      "source": "Command Palette:",
+      "target": "Command Palette（命令面板）：",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "d21b4901b022",
+      "source": "Ctrl + Return",
+      "target": "Ctrl + Return",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "d0fb891315dd",
+      "source": " This will pop up a list of all available commands like ",
+      "target": " 这会弹出所有可用命令的列表，例如 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "c25d76168562",
+      "source": "Center Graph",
+      "target": "Center Graph",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "fe503f9e9894",
+      "source": " or ",
+      "target": " 或 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "ae4300e1d69a",
+      "source": "Undo",
+      "target": "Undo",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "0ca5a2fb19ef",
+      "source": "Parameter Palette:",
+      "target": "Parameter Palette（参数面板）：",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "2ebd3e088766",
+      "source": "Ctrl + P",
+      "target": "Ctrl + P",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "a63f05f504ba",
+      "source": " This will pop up a list of all available parameters like ",
+      "target": " 这会弹出所有可用参数的列表，例如 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "36e8be176d2e",
+      "source": "Stickiness",
+      "target": "Stickiness",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "887610d0d5f9",
+      "source": " or ",
+      "target": " 或 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "b8e774d0ced8",
+      "source": "Index of refraction",
+      "target": "Index of refraction",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "408d6097e940",
+      "source": " which can be very useful for quickly finding parameters.",
+      "target": "，这对快速查找参数很有用。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "a0d1ed1b7727",
+      "source": "Project Palette:",
+      "target": "Project Palette（项目面板）：",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "a93b8f95f168",
+      "source": "Ctrl + Shift + O",
+      "target": "Ctrl + Shift + O",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "fb1ba0d83c26",
+      "source": " This will pop up a list of the last 100 opened LiquiGen presets which can be very useful for finding a recently opened preset that can be stored anywhere on your computer.",
+      "target": " 这会弹出最近打开的 100 个 LiquiGen 预设列表。对于查找最近打开过的预设很有用，因为这些预设可以存放在电脑上的任意位置。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "ae6b7f3b1183",
+      "source": "Each one of these palettes has a search bar where you can start typing what you are looking for and the list will change based on that. To clear the text field you can use the ",
+      "target": "每个快捷面板都有搜索栏。你可以开始输入要查找的内容，列表会据此变化。若要清空文本字段，可以使用右侧的 ",
+      "note": "stage 3A audit fix"
+    },
+    {
+      "id": "6db0442c0f7c",
+      "source": " icon on the right.",
+      "target": " 图标。",
+      "note": "stage 3A audit fix"
+    },
+    {
+      "id": "31e4700a26ba",
+      "source": "You can select a list item by hovering over it with your mouse or using the arrow keys.",
+      "target": "可以将鼠标悬停在列表项上，或使用方向键来选择列表项。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "317914d411f6",
+      "source": "The list items can be executed by using ",
+      "target": "执行列表项时，可以使用 ",
+      "note": "stage 3A audit fix"
+    },
+    {
+      "id": "8cfd95d79b04",
+      "source": " click or ",
+      "target": " 单击或 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "d04c5354da08",
+      "source": "Return",
+      "target": "Return",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "2c2d9a190e3f",
+      "source": "To close a palette, you can either use a command, click the ",
+      "target": "若要关闭快捷面板，可以使用命令、按 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "748d85ad9ed2",
+      "source": "Esc",
+      "target": "Esc",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "9dc0ba0afc38",
+      "source": " key or ",
+      "target": " 键，或 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "66ed033878ce",
+      "source": " click outside of it.",
+      "target": " 在其外部单击。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "90a741bc7680",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "eb5809bbf5f5",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "2c15a820552a",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "b9c9c1875728",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "94bdf23c5412",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "f7dcba8ac9c9",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4589d587a05e",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "ad7f05b3556f",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "8f1906fc2e90",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "86cd27eeef23",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c72fe22c94cf",
+      "source": "Furo",
+      "target": "Furo",
+      "note": "stage 3A translation"
+    }
+  ]
+}

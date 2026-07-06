@@ -1,0 +1,660 @@
+{
+  "path": "embergen/pages/references/How-To Guides/comment.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "a5ac04562b25",
+      "source": "Comment - JangaFX Documentation",
+      "target": "注释 - JangaFX 文档",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "442e1a15da01",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "e0df5e83d827",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "982dac0e3362",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "ec55fe2ef271",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "4ee61f3400c3",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "8201016301b8",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "b524d237eb09",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "9fb3a0c96bee",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "0690b23e1e18",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "a27998a57b75",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "23964bae236d",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "17d396219bb0",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "c2f5a7aece18",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "9e2e18067801",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "e008b811a22c",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "f64fc05cc326",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "20c76340151c",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "65a0fedca935",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "d78c01e09fb0",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "82864d78301c",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "83fa092ea91e",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "1212f0a4a8ae",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "07b62a52977b",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "29dd2d729f40",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "c2496130b2f3",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "31a400402d46",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "066955956b93",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "288b704de029",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "193a6789f56f",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "c87fcec559ee",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "b5697b0a8801",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "3b12a5d37228",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "5cf1d4802518",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "46a2baeca1b1",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "370b19e9bf1f",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "878af794633c",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "2279248d3f26",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "f009ee72d566",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "f2770b310f7b",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "76bbd428b502",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "416ace1579b4",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "21fded767b1e",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "9a7c321355da",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "42f9c408d06a",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "2ba0732da2b4",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "afc876f12fee",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "e57a56e6bbf8",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "98e0939c5c42",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "0a219a8562c0",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "8c44408180b8",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "19cee5009990",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "f49b525906a6",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "da5a571c6091",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "bf489546207c",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "201f64222812",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "38c3f2d098cc",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "91f611711992",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "0563cb5fbadc",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "eb2f65ea16c7",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "cbc520b73af9",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "6a263638c303",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "cc75f132bdd7",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "91d50e8040fd",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "e223baf6dcf4",
+      "source": "Comments can be used to organize your node graph and assign helpful descriptions to collections of nodes.",
+      "target": "注释可用于整理节点图，并为一组节点添加有用的说明。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "09cf2be701dc",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "7645103156b6",
+      "source": "To create a comment press ",
+      "target": "若要创建注释，请按 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "2dcc9ba1c2dc",
+      "source": " or ",
+      "target": " 或 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "0f4145e4c816",
+      "source": "Ctrl + G",
+      "target": "Ctrl + G",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "e45614e67854",
+      "source": "You can also ",
+      "target": "你也可以",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "7eb25a9dcc15",
+      "source": " click on one or more nodes and select ",
+      "target": " 右键单击一个或多个节点，然后选择 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "a0256547fce7",
+      "source": "Create Comment",
+      "target": "Create Comment",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "ab5ba01a4102",
+      "source": " in the context menu.",
+      "target": "（位于上下文菜单）。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "35885c35055b",
+      "source": "When one or more nodes are selected, the comment will fit around the selected nodes.",
+      "target": "选中一个或多个节点时，注释会贴合所选节点的范围。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "f8f0c3202e31",
+      "source": "When there are no nodes selected, the comment can be drawn in the node graph to specify its size and location.",
+      "target": "没有选中节点时，可以在节点图中绘制注释，以指定它的大小和位置。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "972aa9f678f8",
+      "source": "After creating a comment a text input field will appear. Here, the comment text can be set. When you’re done typing, you can press ",
+      "target": "创建注释后会出现文本输入字段，你可以在这里设置注释文本。输入完成后，可以按 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "19c122abbeab",
+      "source": "Enter",
+      "target": "Enter",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "335772d267c1",
+      "source": " or the blue checkmark button next to the text field to set the comment text.",
+      "target": "，或点击文本字段旁边的蓝色对勾按钮来设置注释文本。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "dc794596d166",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c6594209452f",
+      "source": "Comments can be moved around in the Node Graph putting your cursor on the comment header and using ",
+      "target": "若要在节点图中移动注释，请将光标放到注释标题上，然后使用 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "90bca44b057d",
+      "source": " and dragging.",
+      "target": " 并拖动。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "44f9b0d2c86e",
+      "source": "Comments can be resized by putting your cursor on one of the corners of the comment and using ",
+      "target": "若要调整注释大小，请将光标放到注释的某个角上，然后使用 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "76d97f575ba3",
+      "source": " and dragging.",
+      "target": " 并拖动。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "edbdebe00576",
+      "source": "When using ",
+      "target": "使用 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "fe39c93629e2",
+      "source": " on the comment header, a context menu with the following options will pop up.",
+      "target": " 操作注释标题时，会弹出包含以下选项的上下文菜单。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "dfa9d169e5da",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "588fb50e2deb",
+      "source": "Set Comment Text:",
+      "target": "Set Comment Text:",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "11b00ef056a1",
+      "source": " This can also be done by double ",
+      "target": " 也可以通过双击 ",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "d64b8077639b",
+      "source": " clicking on the comment header.",
+      "target": " 注释标题来完成。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "16484dbae24d",
+      "source": "Select Content:",
+      "target": "Select Content:",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "0ae1ecfde369",
+      "source": " This will select all the nodes within the comment box. Note: A node is only considered the content of the comment when it’s fully within the comment box.",
+      "target": " 这会选择注释框内的所有节点。注意：只有完全位于注释框内的节点，才会被视为该注释的内容。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "222971faf60b",
+      "source": "Set Color:",
+      "target": "Set Color:",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "2b6ba5ea1268",
+      "source": " When hovering your cursor over this option, a color pallet will appear to the right of it. Here you can ",
+      "target": " 将光标悬停在此选项上时，右侧会出现一个色板。你可以 ",
+      "note": "stage 3A audit fix"
+    },
+    {
+      "id": "48d72ad2ae58",
+      "source": " click on the color you want the comment to have.",
+      "target": " 点击希望该注释使用的颜色。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "ceabba91a66c",
+      "source": "Tidy Up:",
+      "target": "Tidy Up:",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "6815830e00f1",
+      "source": " This will refit the comment perfectly around its content. When nodes are selected, it will also try to align them nicely.",
+      "target": " 这会让注释重新贴合其内容。选中节点时，它也会尝试将这些节点整齐对齐。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "16a38e2c6968",
+      "source": "Delete:",
+      "target": "Delete:",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "1d4e3d3c2c87",
+      "source": " Delete the comment. This won’t delete all its content if those nodes aren’t selected. Note: This is the normal delete command for the Node Graph so it will also delete all selected nodes.",
+      "target": " 删除注释。如果这些节点没有被选中，这不会删除注释中的所有内容。注意：这是节点图的常规删除命令，因此也会删除所有已选节点。",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "8698a479585a",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "92a368f063f0",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "c25fa4716eb6",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "25e7e65c6caa",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "7a00ebd5f540",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "6d9a9830a0a7",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "77c5e1090c1e",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "daf2bcc508ae",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "94ddadf147f4",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": "stage 3A translation"
+    },
+    {
+      "id": "dd981bfca62c",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "dabcfe999d83",
+      "source": "Furo",
+      "target": "Furo",
+      "note": "stage 3A translation"
+    }
+  ]
+}

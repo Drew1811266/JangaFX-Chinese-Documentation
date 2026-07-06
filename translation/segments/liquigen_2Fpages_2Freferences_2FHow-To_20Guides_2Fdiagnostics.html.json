@@ -1,0 +1,3906 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+  "segment_count": 390,
+  "segments": [
+    {
+      "id": "d7dacc163f3a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 705,
+      "end": 740,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Diagnostics - JangaFX Documentation",
+      "source_text": "Diagnostics - JangaFX Documentation"
+    },
+    {
+      "id": "8c0e4f637f04",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 5330,
+      "end": 5353,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "e829dc38cfb2",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 5448,
+      "end": 5478,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "3bbe97c6282e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 5674,
+      "end": 5704,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "4945de26fe56",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 5895,
+      "end": 5916,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "48aa183b2b53",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 6109,
+      "end": 6147,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "f8bc8518803f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 6530,
+      "end": 6562,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "f4b3b2b361a5",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 7610,
+      "end": 7632,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "a2839ec425d8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 7810,
+      "end": 7842,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "5c02c62e12b2",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 8035,
+      "end": 8050,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "4a951da25e8b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 8182,
+      "end": 8192,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "341a4bf951e4",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 8370,
+      "end": 8402,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "fab2af704c43",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 8603,
+      "end": 8617,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "30a03f5a5c3e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 8739,
+      "end": 8747,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "b3704766bd22",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 8870,
+      "end": 8879,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "17fafc0b2cb8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 9027,
+      "end": 9040,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "f85f6062f202",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 9218,
+      "end": 9250,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "816433a75ca1",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 9468,
+      "end": 9481,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "02e618928601",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 9632,
+      "end": 9651,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "0cccf784d1ad",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 9786,
+      "end": 9791,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "d8787027b6a4",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 9928,
+      "end": 9935,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "50d6017915a0",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 10069,
+      "end": 10073,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "3e14570135b2",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 10219,
+      "end": 10239,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "7428d62f996f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 10378,
+      "end": 10387,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "d4dff4795eb7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 10528,
+      "end": 10540,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "a5c3ce17e2ed",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 10679,
+      "end": 10697,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "bb9a5406822f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 10843,
+      "end": 10859,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "c01590f62ed6",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 11010,
+      "end": 11031,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "ebaa550b1c65",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 11169,
+      "end": 11177,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "d592a2b30731",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 11316,
+      "end": 11326,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "4e8cea3cc326",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 11469,
+      "end": 11482,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "4dcb054ff063",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 11612,
+      "end": 11615,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "31f65e9388bc",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 11738,
+      "end": 11760,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "4a2623ba5b1c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 11949,
+      "end": 11981,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "44b48180999e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 12169,
+      "end": 12184,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "4f163f828473",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 12289,
+      "end": 12299,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "c7710e283302",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 12488,
+      "end": 12520,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "da81e8fd6a88",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 12702,
+      "end": 12716,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "a14390b85c54",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 12803,
+      "end": 12811,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "191132aec15b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 12899,
+      "end": 12908,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "1ee9dabfd4ec",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 13010,
+      "end": 13023,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "00c58119b470",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 13212,
+      "end": 13244,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "ecdb01b8ae9a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 13436,
+      "end": 13447,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "fec11c8f6dc6",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 13544,
+      "end": 13563,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "52b1fe200868",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 13644,
+      "end": 13649,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "b47d077641ab",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 13732,
+      "end": 13739,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "2f848023f4fa",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 13819,
+      "end": 13823,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "d0834c7eb5d6",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 13915,
+      "end": 13935,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "a7dbcf4afc8f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 14024,
+      "end": 14037,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "9ed7b20505ff",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 14124,
+      "end": 14136,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "2333bba82222",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 14221,
+      "end": 14239,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "59b1591e6850",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 14331,
+      "end": 14347,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "64007c45dabf",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 14444,
+      "end": 14465,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "6d62f61f9b72",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 14549,
+      "end": 14557,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "7092b1b56ab3",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 14646,
+      "end": 14659,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "0283a96b9161",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 14746,
+      "end": 14757,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "f8825477a674",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 14866,
+      "end": 14869,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "54b958ce9c5a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 14982,
+      "end": 15003,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "c9cce1a345cd",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 15103,
+      "end": 15123,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "1f3224051fe4",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 15226,
+      "end": 15248,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "a6be0002ddab",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 15661,
+      "end": 15672,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "61ed5c32c5b5",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 15892,
+      "end": 15930,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "7757be59cf83",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 16342,
+      "end": 16374,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "51dd0bf55bad",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 16867,
+      "end": 16941,
+      "line": 262,
+      "parent_path": "div/article/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "ce766a832f93",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 17018,
+      "end": 17029,
+      "line": 267,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "65186b00bdb1",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 17119,
+      "end": 17304,
+      "line": 268,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The diagnostics panel contains options for visualising various elements of the simulation. This aids in understanding and adjusting particle, mesh, and force behaviors within the scene.",
+      "source_text": "The diagnostics panel contains options for visualising various elements of the simulation. This aids in understanding and adjusting particle, mesh, and force behaviors within the scene."
+    },
+    {
+      "id": "814153c6f3e7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 17484,
+      "end": 17581,
+      "line": 269,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " Toggles the diagnostics settings panel, adding or removing it on the right side of the viewport.",
+      "source_text": " Toggles the diagnostics settings panel, adding or removing it on the right side of the viewport."
+    },
+    {
+      "id": "ff12d8721bd6",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 18041,
+      "end": 18115,
+      "line": 282,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "0c26fe3bfa36",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 18259,
+      "end": 18265,
+      "line": 291,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Liquid",
+      "source_text": "Liquid"
+    },
+    {
+      "id": "907b8ce33c73",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 18350,
+      "end": 18426,
+      "line": 292,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "This tab deals with the visualization of different properties of the liquid.",
+      "source_text": "This tab deals with the visualization of different properties of the liquid."
+    },
+    {
+      "id": "02d23e9cf349",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 18623,
+      "end": 18635,
+      "line": 295,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Liquid Mesh:",
+      "source_text": "Liquid Mesh:"
+    },
+    {
+      "id": "337440da3c16",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 18644,
+      "end": 18776,
+      "line": 295,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " Show or hide the liquid mesh in the viewport. Show or hide the visualization settings for the liquid mesh in the diagnostics panel.",
+      "source_text": " Show or hide the liquid mesh in the viewport. Show or hide the visualization settings for the liquid mesh in the diagnostics panel."
+    },
+    {
+      "id": "02cdf83b4d39",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 18797,
+      "end": 18871,
+      "line": 296,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Realistic:\nUtilize the standard shading established within the node graph.",
+      "source_text": "Realistic:\nUtilize the standard shading established within the node graph."
+    },
+    {
+      "id": "ccbcd3e00c91",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 18888,
+      "end": 18902,
+      "line": 298,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Field Shading:",
+      "source_text": "Field Shading:"
+    },
+    {
+      "id": "4a8c4e60cc94",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 18916,
+      "end": 18984,
+      "line": 300,
+      "parent_path": "dd/ul/li/dl/dt",
+      "source_raw": "Non-refractive shading colored to display certain liquid attributes.",
+      "source_text": "Non-refractive shading colored to display certain liquid attributes."
+    },
+    {
+      "id": "bbd4dff199f7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19005,
+      "end": 19017,
+      "line": 301,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Main Liquid:",
+      "source_text": "Main Liquid:"
+    },
+    {
+      "id": "f9f932118a85",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19031,
+      "end": 19070,
+      "line": 303,
+      "parent_path": "dd/ul/li/dl/dt",
+      "source_raw": "Show information about the main liquid.",
+      "source_text": "Show information about the main liquid."
+    },
+    {
+      "id": "b2eb30cfb10e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19091,
+      "end": 19101,
+      "line": 304,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Triangles:",
+      "source_text": "Triangles:"
+    },
+    {
+      "id": "3aee7abd65d4",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19109,
+      "end": 19159,
+      "line": 305,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Clearly shows all the polygons of the liquid mesh.",
+      "source_text": "Clearly shows all the polygons of the liquid mesh."
+    },
+    {
+      "id": "9df4eb441792",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19167,
+      "end": 19289,
+      "line": 306,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "If you see big triangles from the desired camera distance, you might want to increase the mesh resolution by lowering the ",
+      "source_text": "If you see big triangles from the desired camera distance, you might want to increase the mesh resolution by lowering the "
+    },
+    {
+      "id": "b20807a77120",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19293,
+      "end": 19303,
+      "line": 306,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Voxel size",
+      "source_text": "Voxel size"
+    },
+    {
+      "id": "7d73b277ebe8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19308,
+      "end": 19326,
+      "line": 306,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "b40da9121cf7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19500,
+      "end": 19510,
+      "line": 306,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "368d69c49f1e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19515,
+      "end": 19739,
+      "line": 306,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " node to get a more detailed and smooth liquid mesh. If the mesh looks like a colored noise from the desired camera distance because the triangles are so small, you might want to increase your voxel size to gain performance.",
+      "source_text": " node to get a more detailed and smooth liquid mesh. If the mesh looks like a colored noise from the desired camera distance because the triangles are so small, you might want to increase your voxel size to gain performance."
+    },
+    {
+      "id": "891170b58248",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19781,
+      "end": 19792,
+      "line": 312,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Whitewater:",
+      "source_text": "Whitewater:"
+    },
+    {
+      "id": "1e3460167a54",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19806,
+      "end": 19840,
+      "line": 314,
+      "parent_path": "dd/ul/li/dl/dt",
+      "source_raw": "Show information about whitewater.",
+      "source_text": "Show information about whitewater."
+    },
+    {
+      "id": "00a632219c0b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19861,
+      "end": 19873,
+      "line": 315,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Trapped Air:",
+      "source_text": "Trapped Air:"
+    },
+    {
+      "id": "59e01b7aa7b6",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19881,
+      "end": 19976,
+      "line": 316,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Displays what parts of the liquid are considered trapped air (this is where bubbles can spawn).",
+      "source_text": "Displays what parts of the liquid are considered trapped air (this is where bubbles can spawn)."
+    },
+    {
+      "id": "b3c5c6617a35",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 19996,
+      "end": 20089,
+      "line": 319,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": "Trapped air is indicated with yellow and transitions from cyan to purple for non-trapped air.",
+      "source_text": "Trapped air is indicated with yellow and transitions from cyan to purple for non-trapped air."
+    },
+    {
+      "id": "c6555d311134",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20097,
+      "end": 20148,
+      "line": 320,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": "This visualization is used in combination with the ",
+      "source_text": "This visualization is used in combination with the "
+    },
+    {
+      "id": "879d1d73d37a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20152,
+      "end": 20170,
+      "line": 320,
+      "parent_path": "li/dl/dd/p/em",
+      "source_raw": "Trapped air: Range",
+      "source_text": "Trapped air: Range"
+    },
+    {
+      "id": "c72bd37724f1",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20175,
+      "end": 20180,
+      "line": 320,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "185668a2c1f7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20184,
+      "end": 20206,
+      "line": 320,
+      "parent_path": "li/dl/dd/p/em",
+      "source_raw": "Trapped air: Max Depth",
+      "source_text": "Trapped air: Max Depth"
+    },
+    {
+      "id": "ff954edeb92e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20211,
+      "end": 20229,
+      "line": 320,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "02b9b23e6a8c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20233,
+      "end": 20239,
+      "line": 320,
+      "parent_path": "li/dl/dd/p/em",
+      "source_raw": "Source",
+      "source_text": "Source"
+    },
+    {
+      "id": "79cab1c35cb1",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20244,
+      "end": 20256,
+      "line": 320,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "25808396ba0e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20414,
+      "end": 20424,
+      "line": 320,
+      "parent_path": "li/dl/dd/p/em",
+      "source_raw": "Whitewater",
+      "source_text": "Whitewater"
+    },
+    {
+      "id": "71883291423f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20429,
+      "end": 20488,
+      "line": 320,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": " node to define where the bubbles may spawn.\n* Wave Crests:",
+      "source_text": " node to define where the bubbles may spawn.\n* Wave Crests:"
+    },
+    {
+      "id": "25180d1bf0f8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20496,
+      "end": 20598,
+      "line": 322,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": "Displays what parts of the liquid are considered wave crests (this is where foam particles can spawn).",
+      "source_text": "Displays what parts of the liquid are considered wave crests (this is where foam particles can spawn)."
+    },
+    {
+      "id": "6da340581731",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20606,
+      "end": 20727,
+      "line": 323,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": "Wave crests are indicated with yellow and transition from cyan to purple for parts that aren’t considered as wave crests.",
+      "source_text": "Wave crests are indicated with yellow and transition from cyan to purple for parts that aren’t considered as wave crests."
+    },
+    {
+      "id": "3cb55def3093",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20735,
+      "end": 20786,
+      "line": 324,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": "This visualization is used in combination with the ",
+      "source_text": "This visualization is used in combination with the "
+    },
+    {
+      "id": "12936c261561",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20790,
+      "end": 20807,
+      "line": 324,
+      "parent_path": "li/dl/dd/p/em",
+      "source_raw": "Wave crest: Range",
+      "source_text": "Wave crest: Range"
+    },
+    {
+      "id": "fff264f4fc3c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20812,
+      "end": 20830,
+      "line": 324,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "008e8725ea45",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20834,
+      "end": 20840,
+      "line": 324,
+      "parent_path": "li/dl/dd/p/em",
+      "source_raw": "Source",
+      "source_text": "Source"
+    },
+    {
+      "id": "b74a3b5f6952",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 20845,
+      "end": 20857,
+      "line": 324,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "390939e4f70e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21015,
+      "end": 21025,
+      "line": 324,
+      "parent_path": "li/dl/dd/p/em",
+      "source_raw": "Whitewater",
+      "source_text": "Whitewater"
+    },
+    {
+      "id": "a2087afa986c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21030,
+      "end": 21067,
+      "line": 324,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": " node to define where foam may spawn.",
+      "source_text": " node to define where foam may spawn."
+    },
+    {
+      "id": "16ab2984d17e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21129,
+      "end": 21142,
+      "line": 332,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Show Normals:",
+      "source_text": "Show Normals:"
+    },
+    {
+      "id": "eb25f386d218",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21151,
+      "end": 21247,
+      "line": 332,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Show normal indicator lines for every vertex. The colors represent the direction of the normal.",
+      "source_text": " Show normal indicator lines for every vertex. The colors represent the direction of the normal."
+    },
+    {
+      "id": "48060e16ec23",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21266,
+      "end": 21381,
+      "line": 334,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": "Red indicates the normal is pointing in the X or -X direction, green indicates Y or -Y, and blue indicates Z or -Z.",
+      "source_text": "Red indicates the normal is pointing in the X or -X direction, green indicates Y or -Y, and blue indicates Z or -Z."
+    },
+    {
+      "id": "16fb4823167e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21389,
+      "end": 21590,
+      "line": 335,
+      "parent_path": "ul/li/dl/dd/p",
+      "source_raw": "The colors are blended for directions between axes. For example, a normal pointing between the X and Z axes appears purple. Showing normals helps with seeing the smoothness or any issues with the mesh.",
+      "source_text": "The colors are blended for directions between axes. For example, a normal pointing between the X and Z axes appears purple. Showing normals helps with seeing the smoothness or any issues with the mesh."
+    },
+    {
+      "id": "7c4616ee6530",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21619,
+      "end": 21662,
+      "line": 337,
+      "parent_path": "li/dl/dd/dl/dt",
+      "source_raw": "For example, it’s useful when tweaking the ",
+      "source_text": "For example, it’s useful when tweaking the "
+    },
+    {
+      "id": "f986e7f60cbb",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21666,
+      "end": 21679,
+      "line": 337,
+      "parent_path": "dl/dd/dl/dt/em",
+      "source_raw": "SDF smoothing",
+      "source_text": "SDF smoothing"
+    },
+    {
+      "id": "0377e7d27b3f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21684,
+      "end": 21702,
+      "line": 337,
+      "parent_path": "li/dl/dd/dl/dt",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "ba4fd67208ad",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21706,
+      "end": 21710,
+      "line": 337,
+      "parent_path": "dl/dd/dl/dt/em",
+      "source_raw": "Mesh",
+      "source_text": "Mesh"
+    },
+    {
+      "id": "c020dc6c70b3",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21715,
+      "end": 21727,
+      "line": 337,
+      "parent_path": "li/dl/dd/dl/dt",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "f8d1981f69f2",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21901,
+      "end": 21911,
+      "line": 337,
+      "parent_path": "dl/dd/dl/dt/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "bad02221d0a8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21916,
+      "end": 21922,
+      "line": 337,
+      "parent_path": "li/dl/dd/dl/dt",
+      "source_raw": " node!",
+      "source_text": " node!"
+    },
+    {
+      "id": "9d95872b5fc7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21966,
+      "end": 21971,
+      "line": 338,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Size:",
+      "source_text": "Size:"
+    },
+    {
+      "id": "6f41cc83653e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 21980,
+      "end": 22033,
+      "line": 338,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Display size (length) of the normal indicator lines.",
+      "source_text": " Display size (length) of the normal indicator lines."
+    },
+    {
+      "id": "4c4f762fe441",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 22296,
+      "end": 22313,
+      "line": 346,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Liquid Particles:",
+      "source_text": "Liquid Particles:"
+    },
+    {
+      "id": "9aa75c3993de",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 22322,
+      "end": 22486,
+      "line": 346,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " Show or hide the liquid particles in the viewport. Show or hide the visualization settings for the liquid particles in the diagnostics panel. You may want to turn ",
+      "source_text": " Show or hide the liquid particles in the viewport. Show or hide the visualization settings for the liquid particles in the diagnostics panel. You may want to turn "
+    },
+    {
+      "id": "dbe3acdda850",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 22656,
+      "end": 22667,
+      "line": 346,
+      "parent_path": "ul/li/dl/dt/em",
+      "source_raw": "Liquid Mesh",
+      "source_text": "Liquid Mesh"
+    },
+    {
+      "id": "a94cefeabfd9",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 22672,
+      "end": 22773,
+      "line": 346,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " off to better see the particles. For more information on what liquid particles are please check our ",
+      "source_text": " off to better see the particles. For more information on what liquid particles are please check our "
+    },
+    {
+      "id": "87aab60d8a0a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 22873,
+      "end": 22913,
+      "line": 346,
+      "parent_path": "li/dl/dt/a/span",
+      "source_raw": "Getting Started With LiquiGen Simulation",
+      "source_text": "Getting Started With LiquiGen Simulation"
+    },
+    {
+      "id": "62f4148a3e6c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 22924,
+      "end": 22933,
+      "line": 346,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " section!",
+      "source_text": " section!"
+    },
+    {
+      "id": "0e7cf18dfec0",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 22977,
+      "end": 22984,
+      "line": 347,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Sizing:",
+      "source_text": "Sizing:"
+    },
+    {
+      "id": "9895f3408992",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 22998,
+      "end": 23004,
+      "line": 347,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Voxels",
+      "source_text": "Voxels"
+    },
+    {
+      "id": "ccf4f6b2c2ad",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 23009,
+      "end": 23095,
+      "line": 347,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " will render the particles as shaded spheres with their size based on the voxel size. ",
+      "source_text": " will render the particles as shaded spheres with their size based on the voxel size. "
+    },
+    {
+      "id": "16358ce7ae92",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 23099,
+      "end": 23105,
+      "line": 347,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Pixels",
+      "source_text": "Pixels"
+    },
+    {
+      "id": "92fe0cdba996",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 23110,
+      "end": 23215,
+      "line": 347,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " will render the particles as non-shaded squares with their size based on the pixel size of your monitor.",
+      "source_text": " will render the particles as non-shaded squares with their size based on the pixel size of your monitor."
+    },
+    {
+      "id": "ecacd337a889",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 23240,
+      "end": 23245,
+      "line": 348,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Size:",
+      "source_text": "Size:"
+    },
+    {
+      "id": "a95766d82757",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 23254,
+      "end": 23313,
+      "line": 348,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Display size of the particles in the viewport. When using ",
+      "source_text": " Display size of the particles in the viewport. When using "
+    },
+    {
+      "id": "d2a9d16bcd4b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 23317,
+      "end": 23323,
+      "line": 348,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Voxels",
+      "source_text": "Voxels"
+    },
+    {
+      "id": "bca5b31af530",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 23328,
+      "end": 23396,
+      "line": 348,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " as sizing, 3 means the width of a particle is 3 voxels. When using ",
+      "source_text": " as sizing, 3 means the width of a particle is 3 voxels. When using "
+    },
+    {
+      "id": "f07f05b90e4d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 23400,
+      "end": 23406,
+      "line": 348,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Pixels",
+      "source_text": "Pixels"
+    },
+    {
+      "id": "a2da8b5d4308",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 23411,
+      "end": 23467,
+      "line": 348,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " as sizing, 3 means the width of a particle is 3 pixels.",
+      "source_text": " as sizing, 3 means the width of a particle is 3 pixels."
+    },
+    {
+      "id": "5495d4416f17",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 23847,
+      "end": 23921,
+      "line": 361,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "0e5fe8fd2171",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 23966,
+      "end": 23976,
+      "line": 367,
+      "parent_path": "ul/li/ul/li/p",
+      "source_raw": "Realistic:",
+      "source_text": "Realistic:"
+    },
+    {
+      "id": "874804d451a9",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 23984,
+      "end": 24035,
+      "line": 368,
+      "parent_path": "ul/li/ul/li/p",
+      "source_raw": "Renders the particles as spheres using the liquids ",
+      "source_text": "Renders the particles as spheres using the liquids "
+    },
+    {
+      "id": "dfd98be60f58",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 24039,
+      "end": 24045,
+      "line": 368,
+      "parent_path": "li/ul/li/p/em",
+      "source_raw": "Albedo",
+      "source_text": "Albedo"
+    },
+    {
+      "id": "236c02c4719e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 24050,
+      "end": 24057,
+      "line": 368,
+      "parent_path": "ul/li/ul/li/p",
+      "source_raw": " color.",
+      "source_text": " color."
+    },
+    {
+      "id": "3b13566d2959",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 24387,
+      "end": 24401,
+      "line": 385,
+      "parent_path": "ul/li/ul/li/p",
+      "source_raw": "Field Shading:",
+      "source_text": "Field Shading:"
+    },
+    {
+      "id": "323a431b42b1",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 24415,
+      "end": 24495,
+      "line": 387,
+      "parent_path": "li/ul/li/dl/dt",
+      "source_raw": "Renders the particles as spheres colored to display certain particle attributes.",
+      "source_text": "Renders the particles as spheres colored to display certain particle attributes."
+    },
+    {
+      "id": "7b21b27d5c08",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 24516,
+      "end": 24526,
+      "line": 388,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Unique ID:",
+      "source_text": "Unique ID:"
+    },
+    {
+      "id": "5ae36dc16fe2",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 24534,
+      "end": 24654,
+      "line": 389,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Colors are mapped based on the particle ID which is a new integer number that is assigned to each particle when spawned.",
+      "source_text": "Colors are mapped based on the particle ID which is a new integer number that is assigned to each particle when spawned."
+    },
+    {
+      "id": "6f1829512c80",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 24662,
+      "end": 24784,
+      "line": 390,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Each number is only used once per simulation, so died or drained particles still count when setting up a good remap range!",
+      "source_text": "Each number is only used once per simulation, so died or drained particles still count when setting up a good remap range!"
+    },
+    {
+      "id": "34a80d898b32",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 24969,
+      "end": 24978,
+      "line": 400,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Velocity:",
+      "source_text": "Velocity:"
+    },
+    {
+      "id": "6e0d1c7b2990",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 24986,
+      "end": 25032,
+      "line": 401,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Colors are mapped based on the particle speed.",
+      "source_text": "Colors are mapped based on the particle speed."
+    },
+    {
+      "id": "e5e92b23066e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 25372,
+      "end": 25383,
+      "line": 416,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Stickiness:",
+      "source_text": "Stickiness:"
+    },
+    {
+      "id": "5ac531dd1203",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 25391,
+      "end": 25479,
+      "line": 417,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Colors are mapped based on the stickiness of the particles. Stickiness is set using the ",
+      "source_text": "Colors are mapped based on the stickiness of the particles. Stickiness is set using the "
+    },
+    {
+      "id": "fc23983d0a6c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 25483,
+      "end": 25493,
+      "line": 417,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Stickiness",
+      "source_text": "Stickiness"
+    },
+    {
+      "id": "91b05d7264d1",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 25498,
+      "end": 25522,
+      "line": 417,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter found in the ",
+      "source_text": " parameter found in the "
+    },
+    {
+      "id": "e1098acd7563",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 25526,
+      "end": 25535,
+      "line": 417,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Behaviour",
+      "source_text": "Behaviour"
+    },
+    {
+      "id": "f4cfbcd1cd48",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 25540,
+      "end": 25552,
+      "line": 417,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "6f0d68973b5e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 25717,
+      "end": 25724,
+      "line": 417,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Emitter",
+      "source_text": "Emitter"
+    },
+    {
+      "id": "eaf610f7b130",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 25729,
+      "end": 25735,
+      "line": 417,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "989cc5f7dcd8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 25982,
+      "end": 25986,
+      "line": 429,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Age:",
+      "source_text": "Age:"
+    },
+    {
+      "id": "e8d1175b5164",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 25994,
+      "end": 26330,
+      "line": 430,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Colors are mapped based on the particle age. The age starts counting in seconds from the moment a particle is spawned. You can see the current time in seconds in the timeline editor next to the frame count for reference. The amount in seconds is the amount of frames (or simulation steps) divided by the step rate which is setup in the ",
+      "source_text": "Colors are mapped based on the particle age. The age starts counting in seconds from the moment a particle is spawned. You can see the current time in seconds in the timeline editor next to the frame count for reference. The amount in seconds is the amount of frames (or simulation steps) divided by the step rate which is setup in the "
+    },
+    {
+      "id": "cc7d7344fc18",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 26334,
+      "end": 26344,
+      "line": 430,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "47bad51700e4",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 26349,
+      "end": 26361,
+      "line": 430,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "4e80e94179e0",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 26535,
+      "end": 26545,
+      "line": 430,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "430366da3bc3",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 26550,
+      "end": 26596,
+      "line": 430,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " node. This option is only available when the ",
+      "source_text": " node. This option is only available when the "
+    },
+    {
+      "id": "e7e34f77a196",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 26600,
+      "end": 26626,
+      "line": 430,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Simulate particle lifetime",
+      "source_text": "Simulate particle lifetime"
+    },
+    {
+      "id": "8dd65ea9c445",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 26631,
+      "end": 26649,
+      "line": 430,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "59055b7e8aab",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 26653,
+      "end": 26661,
+      "line": 430,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Lifetime",
+      "source_text": "Lifetime"
+    },
+    {
+      "id": "4a97b0f5183c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 26666,
+      "end": 26678,
+      "line": 430,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "a45b229598c7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 26852,
+      "end": 26862,
+      "line": 430,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "8408df9c78db",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 26867,
+      "end": 26884,
+      "line": 430,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " node is checked!",
+      "source_text": " node is checked!"
+    },
+    {
+      "id": "ddeadeba4a1c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27038,
+      "end": 27048,
+      "line": 439,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Viscosity:",
+      "source_text": "Viscosity:"
+    },
+    {
+      "id": "8f4b3b28c807",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27056,
+      "end": 27142,
+      "line": 440,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Colors are mapped based on the viscosity of the particles. Viscosity is set using the ",
+      "source_text": "Colors are mapped based on the viscosity of the particles. Viscosity is set using the "
+    },
+    {
+      "id": "c9e1fab2978d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27146,
+      "end": 27175,
+      "line": 440,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Dynamic viscosity coefficient",
+      "source_text": "Dynamic viscosity coefficient"
+    },
+    {
+      "id": "559dba596d2f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27180,
+      "end": 27204,
+      "line": 440,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter found in the ",
+      "source_text": " parameter found in the "
+    },
+    {
+      "id": "637070f9a70b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27208,
+      "end": 27217,
+      "line": 440,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Behaviour",
+      "source_text": "Behaviour"
+    },
+    {
+      "id": "8c8492364f15",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27222,
+      "end": 27234,
+      "line": 440,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "8002cd1f1ecb",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27399,
+      "end": 27406,
+      "line": 440,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Emitter",
+      "source_text": "Emitter"
+    },
+    {
+      "id": "784af9bdccbb",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27411,
+      "end": 27457,
+      "line": 440,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " node. This option is only available when the ",
+      "source_text": " node. This option is only available when the "
+    },
+    {
+      "id": "d1ff3564e6a8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27461,
+      "end": 27479,
+      "line": 440,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Simulate viscosity",
+      "source_text": "Simulate viscosity"
+    },
+    {
+      "id": "46a6a19cdc8b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27484,
+      "end": 27502,
+      "line": 440,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "a96779e4c685",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27506,
+      "end": 27515,
+      "line": 440,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Viscosity",
+      "source_text": "Viscosity"
+    },
+    {
+      "id": "4afcd0ae95d6",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27520,
+      "end": 27532,
+      "line": 440,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "47910da552ea",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27706,
+      "end": 27716,
+      "line": 440,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "a85851c90711",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27721,
+      "end": 27738,
+      "line": 440,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " node is checked!",
+      "source_text": " node is checked!"
+    },
+    {
+      "id": "a692169ce31a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27907,
+      "end": 27969,
+      "line": 449,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "The Color Gradient assigns color values based on the selected ",
+      "source_text": "The Color Gradient assigns color values based on the selected "
+    },
+    {
+      "id": "83cfe8be4f30",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27973,
+      "end": 27986,
+      "line": 449,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Field Shading",
+      "source_text": "Field Shading"
+    },
+    {
+      "id": "969691ab5854",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 27991,
+      "end": 28257,
+      "line": 449,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " method (Unique ID, Velocity, or Age). Color values are assigned from low values on the left to high values on the right. Each Field Shading method stores its own color gradient settings. For more information on how to use color gradients, please have a look at our ",
+      "source_text": " method (Unique ID, Velocity, or Age). Color values are assigned from low values on the left to high values on the right. Each Field Shading method stores its own color gradient settings. For more information on how to use color gradients, please have a look at our "
+    },
+    {
+      "id": "75ea7ff1ce02",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 28357,
+      "end": 28373,
+      "line": 449,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": " Color: Gradient",
+      "source_text": " Color: Gradient"
+    },
+    {
+      "id": "b6e299628ff9",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 28384,
+      "end": 28393,
+      "line": 449,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " section!",
+      "source_text": " section!"
+    },
+    {
+      "id": "7fab5841e9cc",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 28418,
+      "end": 28430,
+      "line": 450,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Remap Range:",
+      "source_text": "Remap Range:"
+    },
+    {
+      "id": "9a3b8c1e501a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 28439,
+      "end": 28667,
+      "line": 450,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " This range slider sets up the value range between which the gradient colors will be mapped. For the most informative results, the minimum value is kept at 0 and the maximum value is set to the number of particles (found in the ",
+      "source_text": " This range slider sets up the value range between which the gradient colors will be mapped. For the most informative results, the minimum value is kept at 0 and the maximum value is set to the number of particles (found in the "
+    },
+    {
+      "id": "08381ef6d53d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 28671,
+      "end": 28676,
+      "line": 450,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Stats",
+      "source_text": "Stats"
+    },
+    {
+      "id": "33dd8cad6968",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 28681,
+      "end": 28698,
+      "line": 450,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " panel under the ",
+      "source_text": " panel under the "
+    },
+    {
+      "id": "72bfb9344bd5",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 28872,
+      "end": 28876,
+      "line": 450,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "View",
+      "source_text": "View"
+    },
+    {
+      "id": "b94dd5f64820",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 28881,
+      "end": 28901,
+      "line": 450,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " dropdown menu) for ",
+      "source_text": " dropdown menu) for "
+    },
+    {
+      "id": "0696e14a0138",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 28905,
+      "end": 28914,
+      "line": 450,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Unique ID",
+      "source_text": "Unique ID"
+    },
+    {
+      "id": "2c1519d6721b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 28919,
+      "end": 28962,
+      "line": 450,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": ", to the highest particle speed in m/s for ",
+      "source_text": ", to the highest particle speed in m/s for "
+    },
+    {
+      "id": "0ca826a318ca",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 28966,
+      "end": 28974,
+      "line": 450,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Velocity",
+      "source_text": "Velocity"
+    },
+    {
+      "id": "85b73f096532",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 28979,
+      "end": 29028,
+      "line": 450,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": ", and to the highest particle age in seconds for ",
+      "source_text": ", and to the highest particle age in seconds for "
+    },
+    {
+      "id": "39293aaa08b7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 29032,
+      "end": 29035,
+      "line": 450,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Age",
+      "source_text": "Age"
+    },
+    {
+      "id": "af8d3934f4e9",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 29040,
+      "end": 29118,
+      "line": 450,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": ". For more information on how to use range sliders, please have a look at our ",
+      "source_text": ". For more information on how to use range sliders, please have a look at our "
+    },
+    {
+      "id": "8882774ca54d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 29222,
+      "end": 29234,
+      "line": 450,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "9e77436fff03",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 29245,
+      "end": 29254,
+      "line": 450,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " section!",
+      "source_text": " section!"
+    },
+    {
+      "id": "a6757a8dcd60",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 29516,
+      "end": 29537,
+      "line": 457,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Whitewater Particles:",
+      "source_text": "Whitewater Particles:"
+    },
+    {
+      "id": "c71dd57c982f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 29546,
+      "end": 29601,
+      "line": 457,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Show or hide the whitewater particles in the viewport.",
+      "source_text": " Show or hide the whitewater particles in the viewport."
+    },
+    {
+      "id": "4d45fb1257a5",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 29935,
+      "end": 30009,
+      "line": 466,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "82957c191251",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 30370,
+      "end": 30444,
+      "line": 477,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "d47f2ec860be",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 30505,
+      "end": 30511,
+      "line": 483,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Models",
+      "source_text": "Models"
+    },
+    {
+      "id": "1704fec2cd87",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 30596,
+      "end": 30653,
+      "line": 484,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "This tab deals with the visualization of imported models.",
+      "source_text": "This tab deals with the visualization of imported models."
+    },
+    {
+      "id": "abe823a7c808",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 30693,
+      "end": 30702,
+      "line": 486,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Show SDF:",
+      "source_text": "Show SDF:"
+    },
+    {
+      "id": "4b1b6bdf2cbb",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 30711,
+      "end": 31097,
+      "line": 486,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, the SDF of the imported model will be shown instead of the polygon rendering. The SDF (sine distance field) is the voxelized version of the model LiquiGen uses for the simulation. It can be useful to preview this as you can see if the model is properly represented in the simulation. If not, you can lower the absolute voxel size or increase the relative resolution in the ",
+      "source_text": " If checked, the SDF of the imported model will be shown instead of the polygon rendering. The SDF (sine distance field) is the voxelized version of the model LiquiGen uses for the simulation. It can be useful to preview this as you can see if the model is properly represented in the simulation. If not, you can lower the absolute voxel size or increase the relative resolution in the "
+    },
+    {
+      "id": "4af8b4064fa8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 31101,
+      "end": 31106,
+      "line": 486,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Asset",
+      "source_text": "Asset"
+    },
+    {
+      "id": "891e1ecd508e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 31111,
+      "end": 31123,
+      "line": 486,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "d19c35c99f86",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 31292,
+      "end": 31298,
+      "line": 486,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "a0e8050ec1cb",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 31303,
+      "end": 31309,
+      "line": 486,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "5b4c1849b22b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 31362,
+      "end": 31368,
+      "line": 490,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Forces",
+      "source_text": "Forces"
+    },
+    {
+      "id": "4879f5984c4c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 31797,
+      "end": 31871,
+      "line": 498,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "64186b308c9e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 31898,
+      "end": 31961,
+      "line": 502,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "This tab deals with the visualization of any forces created by ",
+      "source_text": "This tab deals with the visualization of any forces created by "
+    },
+    {
+      "id": "2aab9104eecc",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32135,
+      "end": 32140,
+      "line": 502,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Force",
+      "source_text": "Force"
+    },
+    {
+      "id": "cf165f8c0aea",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32145,
+      "end": 32165,
+      "line": 502,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " nodes in the scene.",
+      "source_text": " nodes in the scene."
+    },
+    {
+      "id": "a51339a5b483",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32173,
+      "end": 32177,
+      "line": 503,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "06db9ff94ba8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32181,
+      "end": 32187,
+      "line": 503,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Forces",
+      "source_text": "Forces"
+    },
+    {
+      "id": "e5a8eb09adb4",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32192,
+      "end": 32236,
+      "line": 503,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " section selects which forces are displayed.",
+      "source_text": " section selects which forces are displayed."
+    },
+    {
+      "id": "30d6a26ed684",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32244,
+      "end": 32248,
+      "line": 504,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "000e17078ae5",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32252,
+      "end": 32261,
+      "line": 504,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Transform",
+      "source_text": "Transform"
+    },
+    {
+      "id": "2aaacc909f84",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32266,
+      "end": 32377,
+      "line": 504,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " section sets the dimensions and position of the visualization box in which the force velocities are displayed.",
+      "source_text": " section sets the dimensions and position of the visualization box in which the force velocities are displayed."
+    },
+    {
+      "id": "7e2fbcaa3168",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32385,
+      "end": 32389,
+      "line": 505,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "d5b3e11109b2",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32393,
+      "end": 32397,
+      "line": 505,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "View",
+      "source_text": "View"
+    },
+    {
+      "id": "ffba179738d4",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32402,
+      "end": 32471,
+      "line": 505,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " section sets how the arrows are placed within the visualization box.",
+      "source_text": " section sets how the arrows are placed within the visualization box."
+    },
+    {
+      "id": "235c715f83a7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32479,
+      "end": 32483,
+      "line": 506,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "76af22c1eb08",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32487,
+      "end": 32492,
+      "line": 506,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Arrow",
+      "source_text": "Arrow"
+    },
+    {
+      "id": "d3dd69c1158e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32497,
+      "end": 32540,
+      "line": 506,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " section sets how the arrows are displayed.",
+      "source_text": " section sets how the arrows are displayed."
+    },
+    {
+      "id": "64968dff9a1d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32565,
+      "end": 32572,
+      "line": 508,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Forces:",
+      "source_text": "Forces:"
+    },
+    {
+      "id": "fd1ed69451ae",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32589,
+      "end": 32790,
+      "line": 509,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "List of all forces. Select a force from the list to display it in the viewport. Multiple forces can be displayed simultaneously with arrows indicating the direction of the combined velocities. Use the ",
+      "source_text": "List of all forces. Select a force from the list to display it in the viewport. Multiple forces can be displayed simultaneously with arrows indicating the direction of the combined velocities. Use the "
+    },
+    {
+      "id": "93b0defa21d1",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32794,
+      "end": 32804,
+      "line": 509,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Select All",
+      "source_text": "Select All"
+    },
+    {
+      "id": "d4928770fe23",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 32809,
+      "end": 32865,
+      "line": 509,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " checkbox to select or deselect all forces at once. The ",
+      "source_text": " checkbox to select or deselect all forces at once. The "
+    },
+    {
+      "id": "af1a23e28779",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 33032,
+      "end": 33235,
+      "line": 509,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " search box filters the list to only display forces with names containing the search term. To prevent forces from appearing in the visualization when their nodes are disconnected or disabled, enable the ",
+      "source_text": " search box filters the list to only display forces with names containing the search term. To prevent forces from appearing in the visualization when their nodes are disconnected or disabled, enable the "
+    },
+    {
+      "id": "46ec3c4eb93c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 33239,
+      "end": 33261,
+      "line": 509,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Ignore disabled forces",
+      "source_text": "Ignore disabled forces"
+    },
+    {
+      "id": "190cb472e03f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 33266,
+      "end": 33276,
+      "line": 509,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " checkbox.",
+      "source_text": " checkbox."
+    },
+    {
+      "id": "7b7f34b6e328",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 33627,
+      "end": 33701,
+      "line": 519,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "4d427bccb328",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 33844,
+      "end": 33849,
+      "line": 528,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "View:",
+      "source_text": "View:"
+    },
+    {
+      "id": "179f59603c8f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 33908,
+      "end": 33920,
+      "line": 530,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Visual mode:",
+      "source_text": "Visual mode:"
+    },
+    {
+      "id": "f12f38ed3219",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 33950,
+      "end": 34134,
+      "line": 531,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "2D: One layer of arrows is visible on a plane (slice). This can give clearer visualization of a force as the arrows don’t overlap as they do in a 3D grid. With this mode selected, the ",
+      "source_text": "2D: One layer of arrows is visible on a plane (slice). This can give clearer visualization of a force as the arrows don’t overlap as they do in a 3D grid. With this mode selected, the "
+    },
+    {
+      "id": "9b5ff5d7a198",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 34138,
+      "end": 34143,
+      "line": 531,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Slice",
+      "source_text": "Slice"
+    },
+    {
+      "id": "ed9c02f4ace7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 34148,
+      "end": 34252,
+      "line": 531,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameters appear on the bottom of the diagnostics panel to specify the axis and position of the plane.",
+      "source_text": " parameters appear on the bottom of the diagnostics panel to specify the axis and position of the plane."
+    },
+    {
+      "id": "bab34ac1bfed",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 34269,
+      "end": 34415,
+      "line": 532,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "3D: A grid of arrows is visible pointing in the velocity directions in 3D-space. This can give clearer visualization of the velocity orientations.",
+      "source_text": "3D: A grid of arrows is visible pointing in the velocity directions in 3D-space. This can give clearer visualization of the velocity orientations."
+    },
+    {
+      "id": "bca716978c6d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 34464,
+      "end": 34473,
+      "line": 537,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Sparsity:",
+      "source_text": "Sparsity:"
+    },
+    {
+      "id": "0defd0dc85dd",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 34482,
+      "end": 34516,
+      "line": 537,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Density of visualization arrows. ",
+      "source_text": " Density of visualization arrows. "
+    },
+    {
+      "id": "1c8501ac2c5f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 34527,
+      "end": 34559,
+      "line": 537,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " means each voxel has an arrow, ",
+      "source_text": " means each voxel has an arrow, "
+    },
+    {
+      "id": "b64521cd9277",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 34570,
+      "end": 34609,
+      "line": 537,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " means every eighth voxel has an arrow.",
+      "source_text": " means every eighth voxel has an arrow."
+    },
+    {
+      "id": "cdf5675d7104",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 34634,
+      "end": 34645,
+      "line": 538,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Hide Empty:",
+      "source_text": "Hide Empty:"
+    },
+    {
+      "id": "46f734116487",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 34654,
+      "end": 34811,
+      "line": 538,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " If checked, arrows are only shown within the simulation tiles. This can give clearer visualization as the force velocities are only shown around the liquid.",
+      "source_text": " If checked, arrows are only shown within the simulation tiles. This can give clearer visualization as the force velocities are only shown around the liquid."
+    },
+    {
+      "id": "ac97be630f5f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 35317,
+      "end": 35391,
+      "line": 556,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "11f53f999a2e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 35471,
+      "end": 35477,
+      "line": 562,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Arrow:",
+      "source_text": "Arrow:"
+    },
+    {
+      "id": "2f69761aba61",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 35515,
+      "end": 35520,
+      "line": 563,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Type:",
+      "source_text": "Type:"
+    },
+    {
+      "id": "a2cddca336ee",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 35529,
+      "end": 35543,
+      "line": 563,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Pick between ",
+      "source_text": " Pick between "
+    },
+    {
+      "id": "532f3d3918fe",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 35706,
+      "end": 35743,
+      "line": 563,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " 2D arrows made up of thin lines and ",
+      "source_text": " 2D arrows made up of thin lines and "
+    },
+    {
+      "id": "dc6f20376099",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 35907,
+      "end": 35963,
+      "line": 563,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " 3D arrows made up of 3D shapes. The latter reveals the ",
+      "source_text": " 3D arrows made up of 3D shapes. The latter reveals the "
+    },
+    {
+      "id": "37d59fb103b7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 35967,
+      "end": 35976,
+      "line": 563,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Thickness",
+      "source_text": "Thickness"
+    },
+    {
+      "id": "00b4a7cd2b60",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 35981,
+      "end": 35998,
+      "line": 563,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter below.",
+      "source_text": " parameter below."
+    },
+    {
+      "id": "0dbeacdc4c7c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 36044,
+      "end": 36051,
+      "line": 565,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Source:",
+      "source_text": "Source:"
+    },
+    {
+      "id": "1e97af1b69cd",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 36060,
+      "end": 36088,
+      "line": 565,
+      "parent_path": "dd/ul/li/dl/dt",
+      "source_raw": " Color source of the arrows.",
+      "source_text": " Color source of the arrows."
+    },
+    {
+      "id": "769520a3ec54",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 36109,
+      "end": 36164,
+      "line": 566,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Constant: Sets the color of all arrows to a light blue.",
+      "source_text": "Constant: Sets the color of all arrows to a light blue."
+    },
+    {
+      "id": "32f4f12c58e7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 36181,
+      "end": 36496,
+      "line": 567,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Direction: Sets the arrow color based on its direction. The colors are mapped like a color wheel from red in the X axis, green in the Y axis, cyan in the -X axis, to magenta in the -Y axis. Up and down goes from blue in the Z axis to yellow in the -Z axis. The color hues shift gradually between all the directions.",
+      "source_text": "Direction: Sets the arrow color based on its direction. The colors are mapped like a color wheel from red in the X axis, green in the Y axis, cyan in the -X axis, to magenta in the -Y axis. Up and down goes from blue in the Z axis to yellow in the -Z axis. The color hues shift gradually between all the directions."
+    },
+    {
+      "id": "9932d450de84",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 36513,
+      "end": 36582,
+      "line": 568,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Value: Sets the arrow color based on a velocity range setup with the ",
+      "source_text": "Value: Sets the arrow color based on a velocity range setup with the "
+    },
+    {
+      "id": "9925e7f6f0d7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 36598,
+      "end": 36714,
+      "line": 568,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter from blue in areas with a low force strenth to cyan to yellow to red in areas with a high force strength.",
+      "source_text": " parameter from blue in areas with a low force strenth to cyan to yellow to red in areas with a high force strength."
+    },
+    {
+      "id": "aedfe72d25fc",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 36763,
+      "end": 36773,
+      "line": 573,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Normalize:",
+      "source_text": "Normalize:"
+    },
+    {
+      "id": "69802cf1ce2a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 36782,
+      "end": 36904,
+      "line": 573,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " A value of 1 makes all the arrows the same size, a value of 0 scales the arrows based on a velocity range setup with the ",
+      "source_text": " A value of 1 makes all the arrows the same size, a value of 0 scales the arrows based on a velocity range setup with the "
+    },
+    {
+      "id": "f0b448970d30",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 36920,
+      "end": 36931,
+      "line": 573,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter.",
+      "source_text": " parameter."
+    },
+    {
+      "id": "88a0655fd661",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 36956,
+      "end": 36961,
+      "line": 574,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Size:",
+      "source_text": "Size:"
+    },
+    {
+      "id": "441d10bd02bc",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 36970,
+      "end": 37033,
+      "line": 574,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Sets the size of the arrows. Higher values mean larger arrows.",
+      "source_text": " Sets the size of the arrows. Higher values mean larger arrows."
+    },
+    {
+      "id": "18f583901173",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 37058,
+      "end": 37068,
+      "line": 575,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Thickness:",
+      "source_text": "Thickness:"
+    },
+    {
+      "id": "bd54a57cff56",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 37077,
+      "end": 37104,
+      "line": 575,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Only shows when using the ",
+      "source_text": " Only shows when using the "
+    },
+    {
+      "id": "add6d3d41609",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 37268,
+      "end": 37310,
+      "line": 575,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " 3D arrow option. Thickness of the arrows.",
+      "source_text": " 3D arrow option. Thickness of the arrows."
+    },
+    {
+      "id": "9dccd2aa393d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 37352,
+      "end": 37430,
+      "line": 576,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Set the minimum and maximum velocities for mapping the arrow scale and color.",
+      "source_text": " Set the minimum and maximum velocities for mapping the arrow scale and color."
+    },
+    {
+      "id": "561fb2a58d69",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 37500,
+      "end": 37510,
+      "line": 582,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Transform:",
+      "source_text": "Transform:"
+    },
+    {
+      "id": "db3ae006e14e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 37548,
+      "end": 37557,
+      "line": 583,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Position:",
+      "source_text": "Position:"
+    },
+    {
+      "id": "4d4defe4fef8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 37566,
+      "end": 37613,
+      "line": 583,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Position of the visualization box in 3D space.",
+      "source_text": " Position of the visualization box in 3D space."
+    },
+    {
+      "id": "4d063053f03e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 37638,
+      "end": 37643,
+      "line": 584,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Size:",
+      "source_text": "Size:"
+    },
+    {
+      "id": "986ab0b30997",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 37652,
+      "end": 37707,
+      "line": 584,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Dimensions of the visualization box in all three axis.",
+      "source_text": " Dimensions of the visualization box in all three axis."
+    },
+    {
+      "id": "2cc51e39e283",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 38094,
+      "end": 38168,
+      "line": 597,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "b5f79e0aa24b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 38248,
+      "end": 38254,
+      "line": 603,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Slice:",
+      "source_text": "Slice:"
+    },
+    {
+      "id": "51f55c181714",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 38263,
+      "end": 38294,
+      "line": 603,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " This section appears when the ",
+      "source_text": " This section appears when the "
+    },
+    {
+      "id": "b5ac888e11ac",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 38298,
+      "end": 38309,
+      "line": 603,
+      "parent_path": "ul/li/dl/dt/em",
+      "source_raw": "Visual mode",
+      "source_text": "Visual mode"
+    },
+    {
+      "id": "23319ff63961",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 38314,
+      "end": 38325,
+      "line": 603,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " is set to ",
+      "source_text": " is set to "
+    },
+    {
+      "id": "d3dc254313d7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 38336,
+      "end": 38459,
+      "line": 603,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " to specify the axis and position of the visualization slice. The slice is the tansparent grey plane containing the arrows.",
+      "source_text": " to specify the axis and position of the visualization slice. The slice is the tansparent grey plane containing the arrows."
+    },
+    {
+      "id": "25ae39cc480d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 38488,
+      "end": 38499,
+      "line": 604,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Slice Axis:",
+      "source_text": "Slice Axis:"
+    },
+    {
+      "id": "cbbf9fb62062",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 38508,
+      "end": 38567,
+      "line": 604,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Specify if the slice is oriented along the X,Y, or Z axis.",
+      "source_text": " Specify if the slice is oriented along the X,Y, or Z axis."
+    },
+    {
+      "id": "931960fe28a3",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 38592,
+      "end": 38605,
+      "line": 605,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Slice offset:",
+      "source_text": "Slice offset:"
+    },
+    {
+      "id": "763f1e7da75e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 38614,
+      "end": 38792,
+      "line": 605,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Specify the slice position in the force visualization box. 0 means all the way at the negative side of the slice axis 1 means all the way at the positive side of the slice axis.",
+      "source_text": " Specify the slice position in the force visualization box. 0 means all the way at the negative side of the slice axis 1 means all the way at the positive side of the slice axis."
+    },
+    {
+      "id": "b2f22f64a581",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 38871,
+      "end": 38879,
+      "line": 613,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Velocity",
+      "source_text": "Velocity"
+    },
+    {
+      "id": "abe13d0fec2a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 38966,
+      "end": 39036,
+      "line": 614,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "This tab deals with the visualization of the velocities of the liquid.",
+      "source_text": "This tab deals with the visualization of the velocities of the liquid."
+    },
+    {
+      "id": "ddc91f48be71",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 39389,
+      "end": 39463,
+      "line": 622,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "91761f42f042",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 39513,
+      "end": 39518,
+      "line": 628,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "View:",
+      "source_text": "View:"
+    },
+    {
+      "id": "7f696289e83a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 39527,
+      "end": 39572,
+      "line": 628,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " Sets how the arrows are placed in the scene.",
+      "source_text": " Sets how the arrows are placed in the scene."
+    },
+    {
+      "id": "e8918b2ea67e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 39637,
+      "end": 39649,
+      "line": 630,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Visual type:",
+      "source_text": "Visual type:"
+    },
+    {
+      "id": "5c7885ebd269",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 39679,
+      "end": 39714,
+      "line": 631,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Field: Arrows are placed in a grid.",
+      "source_text": "Field: Arrows are placed in a grid."
+    },
+    {
+      "id": "2ffab06af2b2",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 39731,
+      "end": 39791,
+      "line": 632,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Liquid Particles: Arrows are placed on the liquid particles.",
+      "source_text": "Liquid Particles: Arrows are placed on the liquid particles."
+    },
+    {
+      "id": "93bc0d14bf54",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 39808,
+      "end": 39876,
+      "line": 633,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Whitewater Particles: Arrows are placed on the whitewater particles.",
+      "source_text": "Whitewater Particles: Arrows are placed on the whitewater particles."
+    },
+    {
+      "id": "548809d7502d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40035,
+      "end": 40047,
+      "line": 644,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Visual mode:",
+      "source_text": "Visual mode:"
+    },
+    {
+      "id": "f0817234300b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40077,
+      "end": 40250,
+      "line": 645,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "2D: One layer of arrows is visible on a plane (slice). This can give clearer visualization as the arrows don’t overlap as they do in a 3D grid. With this mode selected, the ",
+      "source_text": "2D: One layer of arrows is visible on a plane (slice). This can give clearer visualization as the arrows don’t overlap as they do in a 3D grid. With this mode selected, the "
+    },
+    {
+      "id": "1ecdc4726d44",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40254,
+      "end": 40263,
+      "line": 645,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Transform",
+      "source_text": "Transform"
+    },
+    {
+      "id": "d3f4f1ba6024",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40268,
+      "end": 40273,
+      "line": 645,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "51529c9c251f",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40277,
+      "end": 40282,
+      "line": 645,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Slice",
+      "source_text": "Slice"
+    },
+    {
+      "id": "7ec302fa7f9b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40287,
+      "end": 40396,
+      "line": 645,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " sections appear on the bottom of the diagnostics panel to specify the size, axis, and position of the plane.",
+      "source_text": " sections appear on the bottom of the diagnostics panel to specify the size, axis, and position of the plane."
+    },
+    {
+      "id": "9255997ab0ee",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40413,
+      "end": 40559,
+      "line": 646,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "3D: A grid of arrows is visible pointing in the velocity directions in 3D-space. This can give clearer visualization of the velocity orientations.",
+      "source_text": "3D: A grid of arrows is visible pointing in the velocity directions in 3D-space. This can give clearer visualization of the velocity orientations."
+    },
+    {
+      "id": "b3705ad2ecf5",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40697,
+      "end": 40706,
+      "line": 656,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Sparsity:",
+      "source_text": "Sparsity:"
+    },
+    {
+      "id": "1210606d20ed",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40715,
+      "end": 40749,
+      "line": 656,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Density of visualization arrows. ",
+      "source_text": " Density of visualization arrows. "
+    },
+    {
+      "id": "558c3a937b3e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40760,
+      "end": 40792,
+      "line": 656,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " means each voxel has an arrow, ",
+      "source_text": " means each voxel has an arrow, "
+    },
+    {
+      "id": "504736d2cf1c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40803,
+      "end": 40854,
+      "line": 656,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " means every eighth voxel has an arrow. When using ",
+      "source_text": " means every eighth voxel has an arrow. When using "
+    },
+    {
+      "id": "6400e2254882",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40858,
+      "end": 40874,
+      "line": 656,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Liquid Particles",
+      "source_text": "Liquid Particles"
+    },
+    {
+      "id": "7ce76d813974",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40879,
+      "end": 40883,
+      "line": 656,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "750a334c4dbe",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40887,
+      "end": 40907,
+      "line": 656,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Whitewater Particles",
+      "source_text": "Whitewater Particles"
+    },
+    {
+      "id": "7a90c1e63962",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40912,
+      "end": 40933,
+      "line": 656,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " as the visual type, ",
+      "source_text": " as the visual type, "
+    },
+    {
+      "id": "3b9f3d3cbeb5",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40944,
+      "end": 40980,
+      "line": 656,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " means every particle has an arrow, ",
+      "source_text": " means every particle has an arrow, "
+    },
+    {
+      "id": "f2b8cf0d93b6",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40984,
+      "end": 40988,
+      "line": 656,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "X512",
+      "source_text": "X512"
+    },
+    {
+      "id": "347d30edf985",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 40993,
+      "end": 41034,
+      "line": 656,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " means every 512th particle has an arrow.",
+      "source_text": " means every 512th particle has an arrow."
+    },
+    {
+      "id": "796e48fa0fb8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 41517,
+      "end": 41591,
+      "line": 673,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "34e0e0337c4a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 41641,
+      "end": 41647,
+      "line": 679,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Arrow:",
+      "source_text": "Arrow:"
+    },
+    {
+      "id": "0500af7bd9e7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 41685,
+      "end": 41690,
+      "line": 680,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Type:",
+      "source_text": "Type:"
+    },
+    {
+      "id": "c508e2b98b3c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 41699,
+      "end": 41713,
+      "line": 680,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Pick between ",
+      "source_text": " Pick between "
+    },
+    {
+      "id": "82cabe54960d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 41876,
+      "end": 41913,
+      "line": 680,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " 2D arrows made up of thin lines and ",
+      "source_text": " 2D arrows made up of thin lines and "
+    },
+    {
+      "id": "ee1d32d30bcc",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42077,
+      "end": 42133,
+      "line": 680,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " 3D arrows made up of 3D shapes. The latter reveals the ",
+      "source_text": " 3D arrows made up of 3D shapes. The latter reveals the "
+    },
+    {
+      "id": "6694a4138729",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42137,
+      "end": 42146,
+      "line": 680,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Thickness",
+      "source_text": "Thickness"
+    },
+    {
+      "id": "a479dff79e04",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42151,
+      "end": 42168,
+      "line": 680,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter below.",
+      "source_text": " parameter below."
+    },
+    {
+      "id": "d4619a029c41",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42199,
+      "end": 42206,
+      "line": 682,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Source:",
+      "source_text": "Source:"
+    },
+    {
+      "id": "d6c324905f43",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42215,
+      "end": 42243,
+      "line": 682,
+      "parent_path": "dd/ul/li/dl/dt",
+      "source_raw": " Color source of the arrows.",
+      "source_text": " Color source of the arrows."
+    },
+    {
+      "id": "54439f55bd13",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42264,
+      "end": 42273,
+      "line": 683,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Constant:",
+      "source_text": "Constant:"
+    },
+    {
+      "id": "a522440bd51d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42281,
+      "end": 42326,
+      "line": 684,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Sets the color of all arrows to a light blue.",
+      "source_text": "Sets the color of all arrows to a light blue."
+    },
+    {
+      "id": "768babb360e7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42344,
+      "end": 42354,
+      "line": 686,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Direction:",
+      "source_text": "Direction:"
+    },
+    {
+      "id": "0755687a55d5",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42362,
+      "end": 42666,
+      "line": 687,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Sets the arrow color based on its direction. The colors are mapped like a color wheel from red in the X axis, green in the Y axis, cyan in the -X axis, to magenta in the -Y axis. Up and down goes from blue in the Z axis to yellow in the -Z axis. The color hues shift gradually between all the directions.",
+      "source_text": "Sets the arrow color based on its direction. The colors are mapped like a color wheel from red in the X axis, green in the Y axis, cyan in the -X axis, to magenta in the -Y axis. Up and down goes from blue in the Z axis to yellow in the -Z axis. The color hues shift gradually between all the directions."
+    },
+    {
+      "id": "f78c821cd002",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42684,
+      "end": 42690,
+      "line": 689,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Value:",
+      "source_text": "Value:"
+    },
+    {
+      "id": "2219900b9b6b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42698,
+      "end": 42760,
+      "line": 690,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Sets the arrow color based on a velocity range setup with the ",
+      "source_text": "Sets the arrow color based on a velocity range setup with the "
+    },
+    {
+      "id": "7e30c0823177",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42776,
+      "end": 42877,
+      "line": 690,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter from blue in areas with low velocity to cyan to yellow to red in areas with high velocity.",
+      "source_text": " parameter from blue in areas with low velocity to cyan to yellow to red in areas with high velocity."
+    },
+    {
+      "id": "821fef14de26",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42927,
+      "end": 42937,
+      "line": 696,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Normalize:",
+      "source_text": "Normalize:"
+    },
+    {
+      "id": "ea2d12eaac66",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 42946,
+      "end": 43068,
+      "line": 696,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " A value of 1 makes all the arrows the same size, a value of 0 scales the arrows based on a velocity range setup with the ",
+      "source_text": " A value of 1 makes all the arrows the same size, a value of 0 scales the arrows based on a velocity range setup with the "
+    },
+    {
+      "id": "c6958c886b60",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 43084,
+      "end": 43095,
+      "line": 696,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter.",
+      "source_text": " parameter."
+    },
+    {
+      "id": "f4cf09055d58",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 43120,
+      "end": 43125,
+      "line": 697,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Size:",
+      "source_text": "Size:"
+    },
+    {
+      "id": "3f82c22728f2",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 43134,
+      "end": 43197,
+      "line": 697,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Sets the size of the arrows. Higher values mean larger arrows.",
+      "source_text": " Sets the size of the arrows. Higher values mean larger arrows."
+    },
+    {
+      "id": "33aec4e51ddb",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 43222,
+      "end": 43232,
+      "line": 698,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Thickness:",
+      "source_text": "Thickness:"
+    },
+    {
+      "id": "64fc6f63f92d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 43241,
+      "end": 43268,
+      "line": 698,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Only shows when using the ",
+      "source_text": " Only shows when using the "
+    },
+    {
+      "id": "d7dc410aa500",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 43432,
+      "end": 43474,
+      "line": 698,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " 3D arrow option. Thickness of the arrows.",
+      "source_text": " 3D arrow option. Thickness of the arrows."
+    },
+    {
+      "id": "8143896d2f3a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 43516,
+      "end": 43594,
+      "line": 699,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Set the minimum and maximum velocities for mapping the arrow scale and color.",
+      "source_text": " Set the minimum and maximum velocities for mapping the arrow scale and color."
+    },
+    {
+      "id": "2430abd7f086",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 43637,
+      "end": 43676,
+      "line": 705,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The following sections appear when the ",
+      "source_text": "The following sections appear when the "
+    },
+    {
+      "id": "2bc852e3a482",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 43680,
+      "end": 43691,
+      "line": 705,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Visual mode",
+      "source_text": "Visual mode"
+    },
+    {
+      "id": "97ea8339b769",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 43696,
+      "end": 43707,
+      "line": 705,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " is set to ",
+      "source_text": " is set to "
+    },
+    {
+      "id": "0167f74d0168",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 43718,
+      "end": 43848,
+      "line": 705,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " to specify the axis, size, and position of the visualization slice. The slice is the tansparent grey plane containing the arrows.",
+      "source_text": " to specify the axis, size, and position of the visualization slice. The slice is the tansparent grey plane containing the arrows."
+    },
+    {
+      "id": "52eab69b2f00",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 44332,
+      "end": 44406,
+      "line": 718,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "a8dbc3b960d3",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 44486,
+      "end": 44496,
+      "line": 724,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Transform:",
+      "source_text": "Transform:"
+    },
+    {
+      "id": "7ec7a9eab4d5",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 44534,
+      "end": 44543,
+      "line": 725,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Position:",
+      "source_text": "Position:"
+    },
+    {
+      "id": "e3e752ab00ec",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 44552,
+      "end": 44599,
+      "line": 725,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Position of the visualization box in 3D space.",
+      "source_text": " Position of the visualization box in 3D space."
+    },
+    {
+      "id": "571e5da23858",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 44624,
+      "end": 44629,
+      "line": 726,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Size:",
+      "source_text": "Size:"
+    },
+    {
+      "id": "319124f5240e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 44638,
+      "end": 44693,
+      "line": 726,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Dimensions of the visualization box in all three axis.",
+      "source_text": " Dimensions of the visualization box in all three axis."
+    },
+    {
+      "id": "20733ba89098",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 44763,
+      "end": 44769,
+      "line": 732,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Slice:",
+      "source_text": "Slice:"
+    },
+    {
+      "id": "75636b7775af",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 44778,
+      "end": 44809,
+      "line": 732,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " This section appears when the ",
+      "source_text": " This section appears when the "
+    },
+    {
+      "id": "af22d1e39de7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 44813,
+      "end": 44824,
+      "line": 732,
+      "parent_path": "ul/li/dl/dt/em",
+      "source_raw": "Visual mode",
+      "source_text": "Visual mode"
+    },
+    {
+      "id": "a88e59009542",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 44829,
+      "end": 44840,
+      "line": 732,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " is set to ",
+      "source_text": " is set to "
+    },
+    {
+      "id": "348140b43c1b",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 44851,
+      "end": 44974,
+      "line": 732,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " to specify the axis and position of the visualization slice. The slice is the tansparent grey plane containing the arrows.",
+      "source_text": " to specify the axis and position of the visualization slice. The slice is the tansparent grey plane containing the arrows."
+    },
+    {
+      "id": "4ce773bc1a73",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 45003,
+      "end": 45014,
+      "line": 733,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Slice Axis:",
+      "source_text": "Slice Axis:"
+    },
+    {
+      "id": "78497d5df56d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 45023,
+      "end": 45082,
+      "line": 733,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Specify if the slice is oriented along the X,Y, or Z axis.",
+      "source_text": " Specify if the slice is oriented along the X,Y, or Z axis."
+    },
+    {
+      "id": "3161d00084d7",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 45107,
+      "end": 45120,
+      "line": 734,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Slice offset:",
+      "source_text": "Slice offset:"
+    },
+    {
+      "id": "ebbbe062a111",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 45129,
+      "end": 45310,
+      "line": 734,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Specify the slice position in the velocity visualization box. 0 means all the way at the negative side of the slice axis 1 means all the way at the positive side of the slice axis.",
+      "source_text": " Specify the slice position in the velocity visualization box. 0 means all the way at the negative side of the slice axis 1 means all the way at the positive side of the slice axis."
+    },
+    {
+      "id": "aa0877399dec",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 45387,
+      "end": 45393,
+      "line": 742,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Domain",
+      "source_text": "Domain"
+    },
+    {
+      "id": "1de7283c8142",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 45478,
+      "end": 45551,
+      "line": 743,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "This tab deals with displaying the area where the simulation takes place.",
+      "source_text": "This tab deals with displaying the area where the simulation takes place."
+    },
+    {
+      "id": "93d736b1bf21",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 45890,
+      "end": 45964,
+      "line": 751,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "fcd2dc410d4d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 46023,
+      "end": 46036,
+      "line": 756,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Bounding Box:",
+      "source_text": "Bounding Box:"
+    },
+    {
+      "id": "a2144f9b77c2",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 46045,
+      "end": 46324,
+      "line": 756,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Shows a purple wireframe box displaying the smallest box to fit around all active voxels. It is similar to the bounding box you see with non-sparse solvers but here, the box shrinks and grows based on the simulation and the empty space within it doesn’t take computer resources.",
+      "source_text": " Shows a purple wireframe box displaying the smallest box to fit around all active voxels. It is similar to the bounding box you see with non-sparse solvers but here, the box shrinks and grows based on the simulation and the empty space within it doesn’t take computer resources."
+    },
+    {
+      "id": "0cc7fb771707",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 46370,
+      "end": 46376,
+      "line": 758,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Tiles:",
+      "source_text": "Tiles:"
+    },
+    {
+      "id": "6cff44985d2c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 46385,
+      "end": 46465,
+      "line": 758,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " A tile is a box of 8 voxels cubed. The simulation takes place within the tiles.",
+      "source_text": " A tile is a box of 8 voxels cubed. The simulation takes place within the tiles."
+    },
+    {
+      "id": "dabe7b4aff31",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 46494,
+      "end": 46506,
+      "line": 759,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Main Liquid:",
+      "source_text": "Main Liquid:"
+    },
+    {
+      "id": "2d14c01b9bfa",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 46515,
+      "end": 46593,
+      "line": 759,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Shows the simulation tiles for the liquid particles as green wireframe boxes.",
+      "source_text": " Shows the simulation tiles for the liquid particles as green wireframe boxes."
+    },
+    {
+      "id": "3fb506db1346",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 46618,
+      "end": 46629,
+      "line": 760,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Whitewater:",
+      "source_text": "Whitewater:"
+    },
+    {
+      "id": "32c0efb3fc7e",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 46638,
+      "end": 46720,
+      "line": 760,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Shows the simulation tiles for the whitewater particles as white wireframe boxes.",
+      "source_text": " Shows the simulation tiles for the whitewater particles as white wireframe boxes."
+    },
+    {
+      "id": "559e6cf4137a",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 47041,
+      "end": 47045,
+      "line": 777,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "c7ba39e150a9",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 47111,
+      "end": 47130,
+      "line": 779,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "7898ee000e41",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 47499,
+      "end": 47507,
+      "line": 787,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "6ee754a25ee5",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 47590,
+      "end": 47603,
+      "line": 790,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "fb811bb39b6c",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 47789,
+      "end": 47849,
+      "line": 797,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "5cf1a682c557",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 47855,
+      "end": 47878,
+      "line": 799,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "877b21e49112",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 47916,
+      "end": 47922,
+      "line": 800,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "90573d1b14bf",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 47926,
+      "end": 47931,
+      "line": 800,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "b9281df5d246",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 47981,
+      "end": 47991,
+      "line": 800,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "4b38bed2c8f8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 47995,
+      "end": 48023,
+      "line": 800,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "2b0088f0df4d",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 48067,
+      "end": 48071,
+      "line": 802,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "c724571c1851",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 48388,
+      "end": 48424,
+      "line": 817,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "6973749497b8",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 48581,
+      "end": 48592,
+      "line": 824,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "41f6f72bd646",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 48650,
+      "end": 48656,
+      "line": 825,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Liquid",
+      "source_text": "Liquid"
+    },
+    {
+      "id": "9f2e6056e909",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 48715,
+      "end": 48721,
+      "line": 826,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Models",
+      "source_text": "Models"
+    },
+    {
+      "id": "6e6e8ea054fb",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 48780,
+      "end": 48786,
+      "line": 827,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Forces",
+      "source_text": "Forces"
+    },
+    {
+      "id": "8923cde8a832",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 48847,
+      "end": 48855,
+      "line": 828,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Velocity",
+      "source_text": "Velocity"
+    },
+    {
+      "id": "38bbc22cf919",
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "start": 48914,
+      "end": 48920,
+      "line": 829,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Domain",
+      "source_text": "Domain"
+    }
+  ]
+}

@@ -1,0 +1,916 @@
+{
+  "path": "index.html",
+  "segment_count": 91,
+  "segments": [
+    {
+      "id": "f57af86e8b4c",
+      "path": "index.html",
+      "start": 606,
+      "end": 627,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "37a71687fa6e",
+      "path": "index.html",
+      "start": 5169,
+      "end": 5192,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "0a7da3a7cce4",
+      "path": "index.html",
+      "start": 5287,
+      "end": 5317,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "bd9e8af62c50",
+      "path": "index.html",
+      "start": 5513,
+      "end": 5543,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "6ff3af1b98a5",
+      "path": "index.html",
+      "start": 5713,
+      "end": 5734,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "0cceaa708285",
+      "path": "index.html",
+      "start": 5927,
+      "end": 5965,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "826ae899343c",
+      "path": "index.html",
+      "start": 6355,
+      "end": 6387,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "4ba793458a3d",
+      "path": "index.html",
+      "start": 7350,
+      "end": 7372,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "b135df9b87b8",
+      "path": "index.html",
+      "start": 7550,
+      "end": 7582,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "42458ceb302b",
+      "path": "index.html",
+      "start": 7763,
+      "end": 7778,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "ed3e74e4bedb",
+      "path": "index.html",
+      "start": 7898,
+      "end": 7908,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "c056b71392b0",
+      "path": "index.html",
+      "start": 8086,
+      "end": 8118,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "329a727d4dd5",
+      "path": "index.html",
+      "start": 8307,
+      "end": 8321,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "df62ab1f4f70",
+      "path": "index.html",
+      "start": 8431,
+      "end": 8439,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "144f9284722e",
+      "path": "index.html",
+      "start": 8550,
+      "end": 8559,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "fe5dea7b4b5c",
+      "path": "index.html",
+      "start": 8695,
+      "end": 8708,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "f96e7a5b7c6b",
+      "path": "index.html",
+      "start": 8886,
+      "end": 8918,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "ed39bb9eddae",
+      "path": "index.html",
+      "start": 9124,
+      "end": 9137,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "50efb4ab15e7",
+      "path": "index.html",
+      "start": 9276,
+      "end": 9295,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "57bfc72044f5",
+      "path": "index.html",
+      "start": 9418,
+      "end": 9423,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "3cf066d6289d",
+      "path": "index.html",
+      "start": 9548,
+      "end": 9555,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "cd939392ae84",
+      "path": "index.html",
+      "start": 9677,
+      "end": 9681,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "2be79a98ea32",
+      "path": "index.html",
+      "start": 9815,
+      "end": 9835,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "1e36cff16730",
+      "path": "index.html",
+      "start": 9962,
+      "end": 9971,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "65303c69abba",
+      "path": "index.html",
+      "start": 10100,
+      "end": 10112,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "d03c4126532a",
+      "path": "index.html",
+      "start": 10239,
+      "end": 10257,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "1340ce6cb5f7",
+      "path": "index.html",
+      "start": 10391,
+      "end": 10407,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "cd19c2f5f8ea",
+      "path": "index.html",
+      "start": 10546,
+      "end": 10567,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "dcf401a17314",
+      "path": "index.html",
+      "start": 10693,
+      "end": 10701,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "67e6a2159d9d",
+      "path": "index.html",
+      "start": 10828,
+      "end": 10838,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "17ed98a1d27f",
+      "path": "index.html",
+      "start": 10969,
+      "end": 10982,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "6211a0121e63",
+      "path": "index.html",
+      "start": 11100,
+      "end": 11103,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "16dd9a0f2900",
+      "path": "index.html",
+      "start": 11218,
+      "end": 11240,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "faba0d6c3267",
+      "path": "index.html",
+      "start": 11418,
+      "end": 11450,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "5d332c423d51",
+      "path": "index.html",
+      "start": 11631,
+      "end": 11646,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "3377d70702ca",
+      "path": "index.html",
+      "start": 11766,
+      "end": 11776,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "41f64c7f6106",
+      "path": "index.html",
+      "start": 11954,
+      "end": 11986,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "f94d99d67111",
+      "path": "index.html",
+      "start": 12175,
+      "end": 12189,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "407e8c2556b7",
+      "path": "index.html",
+      "start": 12299,
+      "end": 12307,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "246e442ee35f",
+      "path": "index.html",
+      "start": 12418,
+      "end": 12427,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "6441e38c14db",
+      "path": "index.html",
+      "start": 12563,
+      "end": 12576,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "4f2121889dca",
+      "path": "index.html",
+      "start": 12754,
+      "end": 12786,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "44a737155e8c",
+      "path": "index.html",
+      "start": 12990,
+      "end": 13001,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "dcf88cf3945c",
+      "path": "index.html",
+      "start": 13140,
+      "end": 13159,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "5f97410f12eb",
+      "path": "index.html",
+      "start": 13282,
+      "end": 13287,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "3de9a3e15fe5",
+      "path": "index.html",
+      "start": 13412,
+      "end": 13419,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "2cd9f23919a7",
+      "path": "index.html",
+      "start": 13541,
+      "end": 13545,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "202727fb8225",
+      "path": "index.html",
+      "start": 13679,
+      "end": 13699,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "c11b15621067",
+      "path": "index.html",
+      "start": 13830,
+      "end": 13843,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "12abde74e5f7",
+      "path": "index.html",
+      "start": 13972,
+      "end": 13984,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "deb0bb42e9e0",
+      "path": "index.html",
+      "start": 14111,
+      "end": 14129,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "e5caaba1da24",
+      "path": "index.html",
+      "start": 14263,
+      "end": 14279,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "d71e552b8a85",
+      "path": "index.html",
+      "start": 14418,
+      "end": 14439,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "1a66d7cd6db5",
+      "path": "index.html",
+      "start": 14565,
+      "end": 14573,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "c1a9ae1e6578",
+      "path": "index.html",
+      "start": 14704,
+      "end": 14717,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "61adcf680fdc",
+      "path": "index.html",
+      "start": 14846,
+      "end": 14857,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "8dc251ed45ff",
+      "path": "index.html",
+      "start": 14975,
+      "end": 14978,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "658c7fde463e",
+      "path": "index.html",
+      "start": 15079,
+      "end": 15100,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "13d649c26b2f",
+      "path": "index.html",
+      "start": 15188,
+      "end": 15208,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "6185f6a0c539",
+      "path": "index.html",
+      "start": 15299,
+      "end": 15321,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "afd761c9badc",
+      "path": "index.html",
+      "start": 15734,
+      "end": 15745,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "986b947f559b",
+      "path": "index.html",
+      "start": 15965,
+      "end": 16003,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "3da45ac51b5e",
+      "path": "index.html",
+      "start": 16422,
+      "end": 16454,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "43f2b59886ae",
+      "path": "index.html",
+      "start": 16679,
+      "end": 16686,
+      "line": 258,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Welcome",
+      "source_text": "Welcome"
+    },
+    {
+      "id": "3f1cadd0c501",
+      "path": "index.html",
+      "start": 16772,
+      "end": 16933,
+      "line": 259,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Welcome to the official JangaFX documentation site! Here, you’ll find resources and guides to help you get the most out of our tools and enhance your experience.",
+      "source_text": "Welcome to the official JangaFX documentation site! Here, you’ll find resources and guides to help you get the most out of our tools and enhance your experience."
+    },
+    {
+      "id": "b183f500c852",
+      "path": "index.html",
+      "start": 16966,
+      "end": 16974,
+      "line": 261,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Discover",
+      "source_text": "Discover"
+    },
+    {
+      "id": "3af2afea221e",
+      "path": "index.html",
+      "start": 17086,
+      "end": 17094,
+      "line": 263,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "EmberGen",
+      "source_text": "EmberGen"
+    },
+    {
+      "id": "7a160614a79f",
+      "path": "index.html",
+      "start": 17181,
+      "end": 17526,
+      "line": 264,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "EmberGen is a real-time volumetric fluid simulation tool that can instantly simulate, render, and export flipbooks, image sequences, and VDB volumes. With EmberGen, you can create anything: from fire and smoke to explosions and magic wisps. EmberGen gives you the creative freedom to iterate on your simulations in milliseconds instead of hours.",
+      "source_text": "EmberGen is a real-time volumetric fluid simulation tool that can instantly simulate, render, and export flipbooks, image sequences, and VDB volumes. With EmberGen, you can create anything: from fire and smoke to explosions and magic wisps. EmberGen gives you the creative freedom to iterate on your simulations in milliseconds instead of hours."
+    },
+    {
+      "id": "ffd7719cbbaa",
+      "path": "index.html",
+      "start": 17534,
+      "end": 17577,
+      "line": 265,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Start learning to use EmberGen right here: ",
+      "source_text": "Start learning to use EmberGen right here: "
+    },
+    {
+      "id": "2e8b9a0bc039",
+      "path": "index.html",
+      "start": 17669,
+      "end": 17691,
+      "line": 265,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "2bf027eca9d8",
+      "path": "index.html",
+      "start": 17746,
+      "end": 17754,
+      "line": 268,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "LiquiGen",
+      "source_text": "LiquiGen"
+    },
+    {
+      "id": "15c3a2c2357b",
+      "path": "index.html",
+      "start": 17841,
+      "end": 18034,
+      "line": 269,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "LiquiGen is our latest major innovation for simulating real-time liquids. Generate flipbooks, image sequences, and alembic caches easily. Simulate foam, spray, and bubbles with precise control.",
+      "source_text": "LiquiGen is our latest major innovation for simulating real-time liquids. Generate flipbooks, image sequences, and alembic caches easily. Simulate foam, spray, and bubbles with precise control."
+    },
+    {
+      "id": "a3b8bbe8e47d",
+      "path": "index.html",
+      "start": 18042,
+      "end": 18085,
+      "line": 270,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Start learning to use LiquiGen right here: ",
+      "source_text": "Start learning to use LiquiGen right here: "
+    },
+    {
+      "id": "0a28273f0ff0",
+      "path": "index.html",
+      "start": 18177,
+      "end": 18199,
+      "line": 270,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "49b18c7361c3",
+      "path": "index.html",
+      "start": 18253,
+      "end": 18260,
+      "line": 273,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "IlluGen",
+      "source_text": "IlluGen"
+    },
+    {
+      "id": "4c5588415c3a",
+      "path": "index.html",
+      "start": 18346,
+      "end": 18814,
+      "line": 274,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "IlluGen is the only tool built specifically for real-time visual effects and tech art asset generation. It is a procedural node based tool that helps you generate both 2D and 3D assets. Assets such as tiling noise, normal maps, flowmaps, 3D FX meshes, caustics, masks, distortions, and more are easily generated here. With a full animation timeline, flipbook packing and unpacking, easy alpha channels, and more, IlluGen is the next big tool for Real-Time VFX Artists.",
+      "source_text": "IlluGen is the only tool built specifically for real-time visual effects and tech art asset generation. It is a procedural node based tool that helps you generate both 2D and 3D assets. Assets such as tiling noise, normal maps, flowmaps, 3D FX meshes, caustics, masks, distortions, and more are easily generated here. With a full animation timeline, flipbook packing and unpacking, easy alpha channels, and more, IlluGen is the next big tool for Real-Time VFX Artists."
+    },
+    {
+      "id": "e34c2881898a",
+      "path": "index.html",
+      "start": 18822,
+      "end": 18864,
+      "line": 275,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Start learning to use IlluGen right here: ",
+      "source_text": "Start learning to use IlluGen right here: "
+    },
+    {
+      "id": "8a05cff9e10b",
+      "path": "index.html",
+      "start": 18954,
+      "end": 18975,
+      "line": 275,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "ee2af688d38e",
+      "path": "index.html",
+      "start": 19028,
+      "end": 19034,
+      "line": 278,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "GeoGen",
+      "source_text": "GeoGen"
+    },
+    {
+      "id": "ff6529752efd",
+      "path": "index.html",
+      "start": 19119,
+      "end": 19446,
+      "line": 279,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "GeoGen is a fresh take on what terrain and planet generation can be, and with all of the incredible competition out there, we know that we have to take it to the next level. With modern node-based workflows, unique simulations, and workflow enhancements built with games in mind, GeoGen will be a powerful tool in your arsenal.",
+      "source_text": "GeoGen is a fresh take on what terrain and planet generation can be, and with all of the incredible competition out there, we know that we have to take it to the next level. With modern node-based workflows, unique simulations, and workflow enhancements built with games in mind, GeoGen will be a powerful tool in your arsenal."
+    },
+    {
+      "id": "b09c6078968a",
+      "path": "index.html",
+      "start": 19454,
+      "end": 19495,
+      "line": 280,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Start learning to use GeoGen right here: ",
+      "source_text": "Start learning to use GeoGen right here: "
+    },
+    {
+      "id": "f56a750ef2fb",
+      "path": "index.html",
+      "start": 19583,
+      "end": 19603,
+      "line": 280,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "054e4669a3b2",
+      "path": "index.html",
+      "start": 19904,
+      "end": 19908,
+      "line": 293,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "074185e88cb4",
+      "path": "index.html",
+      "start": 19974,
+      "end": 19996,
+      "line": 295,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "d5cff3b0e59d",
+      "path": "index.html",
+      "start": 20263,
+      "end": 20323,
+      "line": 303,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "65c01e5102ee",
+      "path": "index.html",
+      "start": 20329,
+      "end": 20352,
+      "line": 305,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "5ed48efcd47f",
+      "path": "index.html",
+      "start": 20390,
+      "end": 20396,
+      "line": 306,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "4b383acafb9f",
+      "path": "index.html",
+      "start": 20400,
+      "end": 20405,
+      "line": 306,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "e02e27eb9dac",
+      "path": "index.html",
+      "start": 20455,
+      "end": 20465,
+      "line": 306,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "018e7b16b5f7",
+      "path": "index.html",
+      "start": 20469,
+      "end": 20497,
+      "line": 306,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "68a108e3e085",
+      "path": "index.html",
+      "start": 20541,
+      "end": 20545,
+      "line": 308,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

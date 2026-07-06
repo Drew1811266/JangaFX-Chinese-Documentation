@@ -1,0 +1,2906 @@
+{
+  "path": "licensing/index.html",
+  "segment_count": 290,
+  "segments": [
+    {
+      "id": "baac90dd4f33",
+      "path": "licensing/index.html",
+      "start": 614,
+      "end": 660,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Floating License Guide - JangaFX Documentation",
+      "source_text": "Floating License Guide - JangaFX Documentation"
+    },
+    {
+      "id": "b9eaba314a03",
+      "path": "licensing/index.html",
+      "start": 5214,
+      "end": 5237,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "ee295bc17615",
+      "path": "licensing/index.html",
+      "start": 5332,
+      "end": 5362,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "3d7172097332",
+      "path": "licensing/index.html",
+      "start": 5558,
+      "end": 5588,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "41153e06c0f4",
+      "path": "licensing/index.html",
+      "start": 5770,
+      "end": 5791,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "f2c8deeeae19",
+      "path": "licensing/index.html",
+      "start": 5984,
+      "end": 6022,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "b13717ef8d45",
+      "path": "licensing/index.html",
+      "start": 6405,
+      "end": 6437,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "546f2c03e40b",
+      "path": "licensing/index.html",
+      "start": 7440,
+      "end": 7462,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "0a09b639d24f",
+      "path": "licensing/index.html",
+      "start": 7640,
+      "end": 7672,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "48455e2ab0de",
+      "path": "licensing/index.html",
+      "start": 7856,
+      "end": 7871,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "1b6a478e42c5",
+      "path": "licensing/index.html",
+      "start": 7994,
+      "end": 8004,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "da7e36cbc590",
+      "path": "licensing/index.html",
+      "start": 8182,
+      "end": 8214,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "c9232343fba5",
+      "path": "licensing/index.html",
+      "start": 8406,
+      "end": 8420,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "1ddfaf9be1d0",
+      "path": "licensing/index.html",
+      "start": 8533,
+      "end": 8541,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "da77f4073455",
+      "path": "licensing/index.html",
+      "start": 8655,
+      "end": 8664,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "3ee08de55b74",
+      "path": "licensing/index.html",
+      "start": 8803,
+      "end": 8816,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "a37d45424587",
+      "path": "licensing/index.html",
+      "start": 8994,
+      "end": 9026,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "c8d89c453b62",
+      "path": "licensing/index.html",
+      "start": 9235,
+      "end": 9248,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "ca772876f69f",
+      "path": "licensing/index.html",
+      "start": 9390,
+      "end": 9409,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "cc86af0f33b9",
+      "path": "licensing/index.html",
+      "start": 9535,
+      "end": 9540,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "c9d8a2d9c82b",
+      "path": "licensing/index.html",
+      "start": 9668,
+      "end": 9675,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "5cd3a0b65652",
+      "path": "licensing/index.html",
+      "start": 9800,
+      "end": 9804,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "72b62c7875da",
+      "path": "licensing/index.html",
+      "start": 9941,
+      "end": 9961,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "e6e94548cd80",
+      "path": "licensing/index.html",
+      "start": 10091,
+      "end": 10100,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "661713c65da8",
+      "path": "licensing/index.html",
+      "start": 10232,
+      "end": 10244,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "79d6f9639a56",
+      "path": "licensing/index.html",
+      "start": 10374,
+      "end": 10392,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "090f0ab1093b",
+      "path": "licensing/index.html",
+      "start": 10529,
+      "end": 10545,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "aca36d1e0ca4",
+      "path": "licensing/index.html",
+      "start": 10687,
+      "end": 10708,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "d7cb0586ae78",
+      "path": "licensing/index.html",
+      "start": 10837,
+      "end": 10845,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "93fb378755d3",
+      "path": "licensing/index.html",
+      "start": 10975,
+      "end": 10985,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "9bfbc7a5dc93",
+      "path": "licensing/index.html",
+      "start": 11119,
+      "end": 11132,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "aa81097f7405",
+      "path": "licensing/index.html",
+      "start": 11253,
+      "end": 11256,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "e2cf93ab8c54",
+      "path": "licensing/index.html",
+      "start": 11374,
+      "end": 11396,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "54e9897616cc",
+      "path": "licensing/index.html",
+      "start": 11574,
+      "end": 11606,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "bf4bc14b156b",
+      "path": "licensing/index.html",
+      "start": 11790,
+      "end": 11805,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "ede42eaf7159",
+      "path": "licensing/index.html",
+      "start": 11928,
+      "end": 11938,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "830a6bdccce3",
+      "path": "licensing/index.html",
+      "start": 12116,
+      "end": 12148,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "f66bf7329b3d",
+      "path": "licensing/index.html",
+      "start": 12340,
+      "end": 12354,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "0d39d0fde031",
+      "path": "licensing/index.html",
+      "start": 12467,
+      "end": 12475,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "157173b6a322",
+      "path": "licensing/index.html",
+      "start": 12589,
+      "end": 12598,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "e581af543214",
+      "path": "licensing/index.html",
+      "start": 12737,
+      "end": 12750,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "7f8d29248d6f",
+      "path": "licensing/index.html",
+      "start": 12928,
+      "end": 12960,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "2de15a52f966",
+      "path": "licensing/index.html",
+      "start": 13167,
+      "end": 13178,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "1033c5c57456",
+      "path": "licensing/index.html",
+      "start": 13320,
+      "end": 13339,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "a7427f2df934",
+      "path": "licensing/index.html",
+      "start": 13465,
+      "end": 13470,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "09e187bbba23",
+      "path": "licensing/index.html",
+      "start": 13598,
+      "end": 13605,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "2c316cecaaba",
+      "path": "licensing/index.html",
+      "start": 13730,
+      "end": 13734,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "57bfe36d8682",
+      "path": "licensing/index.html",
+      "start": 13871,
+      "end": 13891,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "975eec80048d",
+      "path": "licensing/index.html",
+      "start": 14025,
+      "end": 14038,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "ec361d2ac76e",
+      "path": "licensing/index.html",
+      "start": 14170,
+      "end": 14182,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "0ea0aeff9902",
+      "path": "licensing/index.html",
+      "start": 14312,
+      "end": 14330,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "6c2855fa8bc5",
+      "path": "licensing/index.html",
+      "start": 14467,
+      "end": 14483,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "5a040839a882",
+      "path": "licensing/index.html",
+      "start": 14625,
+      "end": 14646,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "eb9d1a0b2e9f",
+      "path": "licensing/index.html",
+      "start": 14775,
+      "end": 14783,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "c95086f35cc8",
+      "path": "licensing/index.html",
+      "start": 14917,
+      "end": 14930,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "fc3396ef52d1",
+      "path": "licensing/index.html",
+      "start": 15062,
+      "end": 15073,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "798a438ebb5b",
+      "path": "licensing/index.html",
+      "start": 15194,
+      "end": 15197,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "b00651418730",
+      "path": "licensing/index.html",
+      "start": 15301,
+      "end": 15322,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "4bb0d34c19ac",
+      "path": "licensing/index.html",
+      "start": 15413,
+      "end": 15433,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "adb82eea2961",
+      "path": "licensing/index.html",
+      "start": 15534,
+      "end": 15556,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "fe37fb246bae",
+      "path": "licensing/index.html",
+      "start": 15969,
+      "end": 15980,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "7c08b27f3053",
+      "path": "licensing/index.html",
+      "start": 16200,
+      "end": 16238,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "d5e73dc8d670",
+      "path": "licensing/index.html",
+      "start": 16650,
+      "end": 16682,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "8576df2e69b8",
+      "path": "licensing/index.html",
+      "start": 16904,
+      "end": 16926,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "f79ca046c63c",
+      "path": "licensing/index.html",
+      "start": 17067,
+      "end": 17090,
+      "line": 258,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "JangaFX Floating Server",
+      "source_text": "JangaFX Floating Server"
+    },
+    {
+      "id": "c7dd730ab360",
+      "path": "licensing/index.html",
+      "start": 17252,
+      "end": 17261,
+      "line": 260,
+      "parent_path": "article/section/section/div/p",
+      "source_raw": "Important",
+      "source_text": "Important"
+    },
+    {
+      "id": "b7b80d90563b",
+      "path": "licensing/index.html",
+      "start": 17269,
+      "end": 17399,
+      "line": 261,
+      "parent_path": "article/section/section/div/p",
+      "source_raw": "This guide will work for EmberGen 1.2.7 and above, LiquiGen 1.0.6 and above, GeoGen 0.5.4-beta and above, IlluGen 1.1.2 and above.",
+      "source_text": "This guide will work for EmberGen 1.2.7 and above, LiquiGen 1.0.6 and above, GeoGen 0.5.4-beta and above, IlluGen 1.1.2 and above."
+    },
+    {
+      "id": "c7e51ae7c9d1",
+      "path": "licensing/index.html",
+      "start": 17407,
+      "end": 17482,
+      "line": 262,
+      "parent_path": "article/section/section/div/p",
+      "source_raw": "If you are running a version below any of those specified, please refer to ",
+      "source_text": "If you are running a version below any of those specified, please refer to "
+    },
+    {
+      "id": "b3cf7a11e16b",
+      "path": "licensing/index.html",
+      "start": 17557,
+      "end": 17579,
+      "line": 262,
+      "parent_path": "section/div/p/a/span",
+      "source_raw": "Legacy Floating Server",
+      "source_text": "Legacy Floating Server"
+    },
+    {
+      "id": "eb7351284708",
+      "path": "licensing/index.html",
+      "start": 17630,
+      "end": 17638,
+      "line": 265,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Download",
+      "source_text": "Download"
+    },
+    {
+      "id": "f1ed9b1f02a9",
+      "path": "licensing/index.html",
+      "start": 17856,
+      "end": 17864,
+      "line": 269,
+      "parent_path": "table/thead/tr/th/p",
+      "source_raw": "Software",
+      "source_text": "Software"
+    },
+    {
+      "id": "b0f357a12e19",
+      "path": "licensing/index.html",
+      "start": 17894,
+      "end": 17901,
+      "line": 270,
+      "parent_path": "table/thead/tr/th/p",
+      "source_raw": "Version",
+      "source_text": "Version"
+    },
+    {
+      "id": "ee5d2c23fbc8",
+      "path": "licensing/index.html",
+      "start": 17931,
+      "end": 17944,
+      "line": 271,
+      "parent_path": "table/thead/tr/th/p",
+      "source_raw": "Download link",
+      "source_text": "Download link"
+    },
+    {
+      "id": "6a6ce47f7f5f",
+      "path": "licensing/index.html",
+      "start": 18005,
+      "end": 18013,
+      "line": 275,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "EmberGen",
+      "source_text": "EmberGen"
+    },
+    {
+      "id": "8d0cc4f18b11",
+      "path": "licensing/index.html",
+      "start": 18030,
+      "end": 18044,
+      "line": 276,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "1.2.7 or above",
+      "source_text": "1.2.7 or above"
+    },
+    {
+      "id": "10a7d657baf2",
+      "path": "licensing/index.html",
+      "start": 18378,
+      "end": 18397,
+      "line": 277,
+      "parent_path": "tbody/tr/td/p/a",
+      "source_raw": "Mac (Apple Silicon)",
+      "source_text": "Mac (Apple Silicon)"
+    },
+    {
+      "id": "dfee1fe1d92a",
+      "path": "licensing/index.html",
+      "start": 18444,
+      "end": 18452,
+      "line": 279,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "LiquiGen",
+      "source_text": "LiquiGen"
+    },
+    {
+      "id": "a9f50eb6d5a6",
+      "path": "licensing/index.html",
+      "start": 18469,
+      "end": 18483,
+      "line": 280,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "1.0.6 or above",
+      "source_text": "1.0.6 or above"
+    },
+    {
+      "id": "e6a976fd041f",
+      "path": "licensing/index.html",
+      "start": 18527,
+      "end": 18534,
+      "line": 282,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "IlluGen",
+      "source_text": "IlluGen"
+    },
+    {
+      "id": "fc2b10bd1b1c",
+      "path": "licensing/index.html",
+      "start": 18551,
+      "end": 18565,
+      "line": 283,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "1.1.2 or above",
+      "source_text": "1.1.2 or above"
+    },
+    {
+      "id": "c6e9e25f530e",
+      "path": "licensing/index.html",
+      "start": 18608,
+      "end": 18614,
+      "line": 285,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "GeoGen",
+      "source_text": "GeoGen"
+    },
+    {
+      "id": "70ce909e98ca",
+      "path": "licensing/index.html",
+      "start": 18631,
+      "end": 18650,
+      "line": 286,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "0.5.4-beta or above",
+      "source_text": "0.5.4-beta or above"
+    },
+    {
+      "id": "f040e64450ed",
+      "path": "licensing/index.html",
+      "start": 18730,
+      "end": 18738,
+      "line": 293,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Overview",
+      "source_text": "Overview"
+    },
+    {
+      "id": "e7b21b26e177",
+      "path": "licensing/index.html",
+      "start": 18825,
+      "end": 19176,
+      "line": 294,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The floating license server is a program that can hand out leases to clients running JangaFX products.\nA lease is a license that is acquired for the duration of a user session or until the user manually releases\nthe lease. The floating server needs to be activated using a floating license that permits the server to hand out\na given number of leases.",
+      "source_text": "The floating license server is a program that can hand out leases to clients running JangaFX products.\nA lease is a license that is acquired for the duration of a user session or until the user manually releases\nthe lease. The floating server needs to be activated using a floating license that permits the server to hand out\na given number of leases."
+    },
+    {
+      "id": "eff71d3cfcd4",
+      "path": "licensing/index.html",
+      "start": 19232,
+      "end": 19252,
+      "line": 300,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Launching the Server",
+      "source_text": "Launching the Server"
+    },
+    {
+      "id": "6616f4cb3729",
+      "path": "licensing/index.html",
+      "start": 19351,
+      "end": 19487,
+      "line": 301,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The server is a command line program that requires some arguments for configuration. On Windows, you can use the Windows command prompt ",
+      "source_text": "The server is a command line program that requires some arguments for configuration. On Windows, you can use the Windows command prompt "
+    },
+    {
+      "id": "350aeba28da3",
+      "path": "licensing/index.html",
+      "start": 19565,
+      "end": 19614,
+      "line": 301,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "\nand on Linux pretty much any shell program like ",
+      "source_text": "\nand on Linux pretty much any shell program like "
+    },
+    {
+      "id": "4f51bc371f38",
+      "path": "licensing/index.html",
+      "start": 19702,
+      "end": 19752,
+      "line": 303,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "In the following, anything within angled brackets ",
+      "source_text": "In the following, anything within angled brackets "
+    },
+    {
+      "id": "a0d59b1793bf",
+      "path": "licensing/index.html",
+      "start": 19838,
+      "end": 19892,
+      "line": 303,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " is a placeholder and anything within square brackets ",
+      "source_text": " is a placeholder and anything within square brackets "
+    },
+    {
+      "id": "1211d8397141",
+      "path": "licensing/index.html",
+      "start": 19972,
+      "end": 20028,
+      "line": 303,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " is optional and may be omitted.\nThree consecutive dots ",
+      "source_text": " is optional and may be omitted.\nThree consecutive dots "
+    },
+    {
+      "id": "110cb1a91fc1",
+      "path": "licensing/index.html",
+      "start": 20106,
+      "end": 20173,
+      "line": 304,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " indicate that an argument may be used multiple times.\nParentheses ",
+      "source_text": " indicate that an argument may be used multiple times.\nParentheses "
+    },
+    {
+      "id": "ef65dd9b63db",
+      "path": "licensing/index.html",
+      "start": 20250,
+      "end": 20305,
+      "line": 305,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " are used for grouping and are not part of the command.",
+      "source_text": " are used for grouping and are not part of the command."
+    },
+    {
+      "id": "dc1fa6ca0f57",
+      "path": "licensing/index.html",
+      "start": 20313,
+      "end": 20332,
+      "line": 306,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "For example, given ",
+      "source_text": "For example, given "
+    },
+    {
+      "id": "68cc2e548b5f",
+      "path": "licensing/index.html",
+      "start": 20483,
+      "end": 20518,
+      "line": 306,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": ", the following versions are valid:",
+      "source_text": ", the following versions are valid:"
+    },
+    {
+      "id": "54967d8c5f6b",
+      "path": "licensing/index.html",
+      "start": 21002,
+      "end": 21056,
+      "line": 312,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The program can be launched in several different ways:",
+      "source_text": "The program can be launched in several different ways:"
+    },
+    {
+      "id": "63a71777cc55",
+      "path": "licensing/index.html",
+      "start": 21192,
+      "end": 21198,
+      "line": 314,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " (see ",
+      "source_text": " (see "
+    },
+    {
+      "id": "d0b687825986",
+      "path": "licensing/index.html",
+      "start": 21277,
+      "end": 21284,
+      "line": 314,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Options",
+      "source_text": "Options"
+    },
+    {
+      "id": "cc82b031195c",
+      "path": "licensing/index.html",
+      "start": 21304,
+      "end": 21369,
+      "line": 315,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Launch the server with the options described in the next section.",
+      "source_text": "Launch the server with the options described in the next section."
+    },
+    {
+      "id": "f9ac91b77551",
+      "path": "licensing/index.html",
+      "start": 21582,
+      "end": 21615,
+      "line": 318,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Deactivate the specified product.",
+      "source_text": "Deactivate the specified product."
+    },
+    {
+      "id": "0cb8b7ee722c",
+      "path": "licensing/index.html",
+      "start": 21882,
+      "end": 22020,
+      "line": 321,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Use this for offline activation and deactivation. This allows the floating server to run on a machine\nwithout an internet connection. The ",
+      "source_text": "Use this for offline activation and deactivation. This allows the floating server to run on a machine\nwithout an internet connection. The "
+    },
+    {
+      "id": "dfb0e714dec4",
+      "path": "licensing/index.html",
+      "start": 22109,
+      "end": 22166,
+      "line": 322,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " command generates an “activation file” at the specified ",
+      "source_text": " command generates an “activation file” at the specified "
+    },
+    {
+      "id": "b207a06ef639",
+      "path": "licensing/index.html",
+      "start": 22253,
+      "end": 22281,
+      "line": 322,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ".\nThis file can be uploaded ",
+      "source_text": ".\nThis file can be uploaded "
+    },
+    {
+      "id": "359d77a78033",
+      "path": "licensing/index.html",
+      "start": 22356,
+      "end": 22360,
+      "line": 323,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "here",
+      "source_text": "here"
+    },
+    {
+      "id": "80d1d8aea3c2",
+      "path": "licensing/index.html",
+      "start": 22364,
+      "end": 22455,
+      "line": 323,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to obtain an “activation response”.\nThe path to the response file can then be used in the ",
+      "source_text": " to obtain an “activation response”.\nThe path to the response file can then be used in the "
+    },
+    {
+      "id": "7330b968426c",
+      "path": "licensing/index.html",
+      "start": 22547,
+      "end": 22603,
+      "line": 324,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " option when running the server on order to activate it.",
+      "source_text": " option when running the server on order to activate it."
+    },
+    {
+      "id": "a4d9fbdf94fb",
+      "path": "licensing/index.html",
+      "start": 22872,
+      "end": 22926,
+      "line": 327,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Generates a “deactivation file” which can be uploaded ",
+      "source_text": "Generates a “deactivation file” which can be uploaded "
+    },
+    {
+      "id": "60f724fa0525",
+      "path": "licensing/index.html",
+      "start": 23001,
+      "end": 23005,
+      "line": 327,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "here",
+      "source_text": "here"
+    },
+    {
+      "id": "3590757f1795",
+      "path": "licensing/index.html",
+      "start": 23009,
+      "end": 23109,
+      "line": 327,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ".\nThere is no response file in this case and the server is deactivated immediately after the upload.",
+      "source_text": ".\nThere is no response file in this case and the server is deactivated immediately after the upload."
+    },
+    {
+      "id": "20acc2ecaee2",
+      "path": "licensing/index.html",
+      "start": 23287,
+      "end": 23293,
+      "line": 330,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " (see ",
+      "source_text": " (see "
+    },
+    {
+      "id": "a93eaa4a479b",
+      "path": "licensing/index.html",
+      "start": 23365,
+      "end": 23393,
+      "line": 330,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Running as a Windows Service",
+      "source_text": "Running as a Windows Service"
+    },
+    {
+      "id": "a42a2fcfbc43",
+      "path": "licensing/index.html",
+      "start": 23492,
+      "end": 23499,
+      "line": 334,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Options",
+      "source_text": "Options"
+    },
+    {
+      "id": "e96d6fccd5d3",
+      "path": "licensing/index.html",
+      "start": 23585,
+      "end": 23598,
+      "line": 335,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "At least one ",
+      "source_text": "At least one "
+    },
+    {
+      "id": "b24c7688d15a",
+      "path": "licensing/index.html",
+      "start": 23682,
+      "end": 23686,
+      "line": 335,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "7a1de993e057",
+      "path": "licensing/index.html",
+      "start": 23778,
+      "end": 23830,
+      "line": 335,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " option is required. All other options are optional.",
+      "source_text": " option is required. All other options are optional."
+    },
+    {
+      "id": "3a23d3c66a36",
+      "path": "licensing/index.html",
+      "start": 24066,
+      "end": 24072,
+      "line": 343,
+      "parent_path": "table/thead/tr/th/p",
+      "source_raw": "Option",
+      "source_text": "Option"
+    },
+    {
+      "id": "8fc57f699deb",
+      "path": "licensing/index.html",
+      "start": 24102,
+      "end": 24113,
+      "line": 344,
+      "parent_path": "table/thead/tr/th/p",
+      "source_raw": "Description",
+      "source_text": "Description"
+    },
+    {
+      "id": "7ca657f53fce",
+      "path": "licensing/index.html",
+      "start": 24318,
+      "end": 24355,
+      "line": 349,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "IPv4 address to listen on. (Default: ",
+      "source_text": "IPv4 address to listen on. (Default: "
+    },
+    {
+      "id": "2f2329b6bfa1",
+      "path": "licensing/index.html",
+      "start": 24437,
+      "end": 24517,
+      "line": 349,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": ")\nThis option can be used multiple times to bind to multiple network interfaces.",
+      "source_text": ")\nThis option can be used multiple times to bind to multiple network interfaces."
+    },
+    {
+      "id": "d3f5871108be",
+      "path": "licensing/index.html",
+      "start": 24725,
+      "end": 24758,
+      "line": 353,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "UDP port to listen on. (Default: ",
+      "source_text": "UDP port to listen on. (Default: "
+    },
+    {
+      "id": "3faa1afc0697",
+      "path": "licensing/index.html",
+      "start": 24837,
+      "end": 25045,
+      "line": 353,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": ")\nOptionally, a limit on the number of leases handed out on this port can be specified.\nThis option can be used multiple times to listen on multiple ports with potentially different lease limits on each port.",
+      "source_text": ")\nOptionally, a limit on the number of leases handed out on this port can be specified.\nThis option can be used multiple times to listen on multiple ports with potentially different lease limits on each port."
+    },
+    {
+      "id": "36be268c3359",
+      "path": "licensing/index.html",
+      "start": 25233,
+      "end": 25292,
+      "line": 358,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "The maximum number of connections to the server. (Default: ",
+      "source_text": "The maximum number of connections to the server. (Default: "
+    },
+    {
+      "id": "efdf3e3a7a0f",
+      "path": "licensing/index.html",
+      "start": 25566,
+      "end": 25682,
+      "line": 361,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "The name of the product to activate and the license key separated by a colon. The following product names are valid:",
+      "source_text": "The name of the product to activate and the license key separated by a colon. The following product names are valid:"
+    },
+    {
+      "id": "cc3d6fce503d",
+      "path": "licensing/index.html",
+      "start": 26313,
+      "end": 26406,
+      "line": 370,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "This option can be used multiple times to activate and hand out leases for multiple products.",
+      "source_text": "This option can be used multiple times to activate and hand out leases for multiple products."
+    },
+    {
+      "id": "e61744a46284",
+      "path": "licensing/index.html",
+      "start": 26610,
+      "end": 26655,
+      "line": 374,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "The path to an activation file obtained from ",
+      "source_text": "The path to an activation file obtained from "
+    },
+    {
+      "id": "b75d7f7ae700",
+      "path": "licensing/index.html",
+      "start": 26763,
+      "end": 26947,
+      "line": 374,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": " after uploading an activation request.\nThe license key is separated by a colon from path.\nThis option can be used multiple times to activate and hand out leases for multiple products.",
+      "source_text": " after uploading an activation request.\nThe license key is separated by a colon from path.\nThis option can be used multiple times to activate and hand out leases for multiple products."
+    },
+    {
+      "id": "0b1b5b324f26",
+      "path": "licensing/index.html",
+      "start": 27130,
+      "end": 27310,
+      "line": 379,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "The path to a file where the server will record log messages. If omitted, the server writes to standard output unless running as a service on Windows where\nthe default log file is ",
+      "source_text": "The path to a file where the server will record log messages. If omitted, the server writes to standard output unless running as a service on Windows where\nthe default log file is "
+    },
+    {
+      "id": "303f5e5d292d",
+      "path": "licensing/index.html",
+      "start": 27392,
+      "end": 27433,
+      "line": 380,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": " in the same directory as the executable.",
+      "source_text": " in the same directory as the executable."
+    },
+    {
+      "id": "1386d23d2666",
+      "path": "licensing/index.html",
+      "start": 27559,
+      "end": 27587,
+      "line": 387,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Running as a Windows Service",
+      "source_text": "Running as a Windows Service"
+    },
+    {
+      "id": "fa381e5158ac",
+      "path": "licensing/index.html",
+      "start": 27694,
+      "end": 27781,
+      "line": 388,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "On Windows, the license server can be run in the background as a Windows service named ",
+      "source_text": "On Windows, the license server can be run in the background as a Windows service named "
+    },
+    {
+      "id": "8af20d6c3689",
+      "path": "licensing/index.html",
+      "start": 27887,
+      "end": 27893,
+      "line": 388,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": ". The ",
+      "source_text": ". The "
+    },
+    {
+      "id": "232eb013863f",
+      "path": "licensing/index.html",
+      "start": 27975,
+      "end": 28148,
+      "line": 388,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " subcommand is used to manage this service.\nWhen running as a service, the log file can be used to inspect the activity of the server. By default, this will be a file named ",
+      "source_text": " subcommand is used to manage this service.\nWhen running as a service, the log file can be used to inspect the activity of the server. By default, this will be a file named "
+    },
+    {
+      "id": "649052ccd152",
+      "path": "licensing/index.html",
+      "start": 28230,
+      "end": 28271,
+      "line": 389,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " in the same directory as the executable.",
+      "source_text": " in the same directory as the executable."
+    },
+    {
+      "id": "a1aba31b5150",
+      "path": "licensing/index.html",
+      "start": 28473,
+      "end": 28479,
+      "line": 391,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " (see ",
+      "source_text": " (see "
+    },
+    {
+      "id": "695d41ab98ff",
+      "path": "licensing/index.html",
+      "start": 28558,
+      "end": 28565,
+      "line": 391,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Options",
+      "source_text": "Options"
+    },
+    {
+      "id": "e442c29a8ff6",
+      "path": "licensing/index.html",
+      "start": 28585,
+      "end": 29015,
+      "line": 392,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "This command will install the service to run with the provided options. These are the same options used to run the server directly.\nThe installed service will expect the executable to be located at the same path it was at the time of installation. If you move the executable\nto a different directory, you will need to uninstall and reinstall the service to update its path. The service will be configured to run on system startup.",
+      "source_text": "This command will install the service to run with the provided options. These are the same options used to run the server directly.\nThe installed service will expect the executable to be located at the same path it was at the time of installation. If you move the executable\nto a different directory, you will need to uninstall and reinstall the service to update its path. The service will be configured to run on system startup."
+    },
+    {
+      "id": "74432075396c",
+      "path": "licensing/index.html",
+      "start": 29187,
+      "end": 29341,
+      "line": 397,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Uninstall the service. If you would like to change the options used when the service was installed, you will have to first uninstall the existing service.",
+      "source_text": "Uninstall the service. If you would like to change the options used when the service was installed, you will have to first uninstall the existing service."
+    },
+    {
+      "id": "cc7ae251aeaf",
+      "path": "licensing/index.html",
+      "start": 29509,
+      "end": 29556,
+      "line": 400,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Starts the installed service in the background.",
+      "source_text": "Starts the installed service in the background."
+    },
+    {
+      "id": "f5e560a2fb22",
+      "path": "licensing/index.html",
+      "start": 29723,
+      "end": 29750,
+      "line": 403,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Stop the installed service.",
+      "source_text": "Stop the installed service."
+    },
+    {
+      "id": "51e9e312da95",
+      "path": "licensing/index.html",
+      "start": 29919,
+      "end": 29951,
+      "line": 406,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Check if the service is running.",
+      "source_text": "Check if the service is running."
+    },
+    {
+      "id": "e9fda542de2d",
+      "path": "licensing/index.html",
+      "start": 30034,
+      "end": 30058,
+      "line": 412,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Client quick start guide",
+      "source_text": "Client quick start guide"
+    },
+    {
+      "id": "2f01d49277dd",
+      "path": "licensing/index.html",
+      "start": 30216,
+      "end": 30220,
+      "line": 414,
+      "parent_path": "article/section/section/div/p",
+      "source_raw": "Hint",
+      "source_text": "Hint"
+    },
+    {
+      "id": "b6e35fcb5106",
+      "path": "licensing/index.html",
+      "start": 30228,
+      "end": 30285,
+      "line": 415,
+      "parent_path": "article/section/section/div/p",
+      "source_raw": "To open the License Manager in your software navigate as ",
+      "source_text": "To open the License Manager in your software navigate as "
+    },
+    {
+      "id": "b20c0e6326eb",
+      "path": "licensing/index.html",
+      "start": 30499,
+      "end": 30503,
+      "line": 418,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "d677daeef878",
+      "path": "licensing/index.html",
+      "start": 30507,
+      "end": 30522,
+      "line": 418,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "License Manager",
+      "source_text": "License Manager"
+    },
+    {
+      "id": "8ed42970b20f",
+      "path": "licensing/index.html",
+      "start": 30527,
+      "end": 30629,
+      "line": 418,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " allows connecting/disconnecting to the license server as well as acquiring/dropping a lease on demand",
+      "source_text": " allows connecting/disconnecting to the license server as well as acquiring/dropping a lease on demand"
+    },
+    {
+      "id": "5cfbc2209f26",
+      "path": "licensing/index.html",
+      "start": 30667,
+      "end": 30677,
+      "line": 420,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": "Using the ",
+      "source_text": "Using the "
+    },
+    {
+      "id": "e13b6759d879",
+      "path": "licensing/index.html",
+      "start": 30681,
+      "end": 30696,
+      "line": 420,
+      "parent_path": "ul/li/dl/dt/em",
+      "source_raw": "License Manager",
+      "source_text": "License Manager"
+    },
+    {
+      "id": "ad937a4fb7ac",
+      "path": "licensing/index.html",
+      "start": 30722,
+      "end": 30805,
+      "line": 421,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Enter server details under the tab for your license type, and connect to the server",
+      "source_text": "Enter server details under the tab for your license type, and connect to the server"
+    },
+    {
+      "id": "68d2db745797",
+      "path": "licensing/index.html",
+      "start": 30822,
+      "end": 30898,
+      "line": 422,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "After connecting to the server, you can safely close the license manager tab",
+      "source_text": "After connecting to the server, you can safely close the license manager tab"
+    },
+    {
+      "id": "af187df644ba",
+      "path": "licensing/index.html",
+      "start": 30915,
+      "end": 30993,
+      "line": 423,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "The software will automatically acquire a lease after connecting to the server",
+      "source_text": "The software will automatically acquire a lease after connecting to the server"
+    },
+    {
+      "id": "6f1920b9087d",
+      "path": "licensing/index.html",
+      "start": 31010,
+      "end": 31062,
+      "line": 424,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "The software will automatically drop a lease on exit",
+      "source_text": "The software will automatically drop a lease on exit"
+    },
+    {
+      "id": "bba5ba1e4a4f",
+      "path": "licensing/index.html",
+      "start": 31079,
+      "end": 31144,
+      "line": 425,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "You can manually acquire and drop leases from the license manager",
+      "source_text": "You can manually acquire and drop leases from the license manager"
+    },
+    {
+      "id": "26f1f24e7b83",
+      "path": "licensing/index.html",
+      "start": 31206,
+      "end": 31235,
+      "line": 431,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": "Using an environment variable",
+      "source_text": "Using an environment variable"
+    },
+    {
+      "id": "109873ca5ab8",
+      "path": "licensing/index.html",
+      "start": 31277,
+      "end": 31352,
+      "line": 433,
+      "parent_path": "dd/ul/li/dl/dt",
+      "source_raw": "Create an environment variable with the appropriate name and server details",
+      "source_text": "Create an environment variable with the appropriate name and server details"
+    },
+    {
+      "id": "13bac9cdb93f",
+      "path": "licensing/index.html",
+      "start": 31394,
+      "end": 31429,
+      "line": 435,
+      "parent_path": "dd/ul/li/dl/dt",
+      "source_raw": "Name according to your product key:",
+      "source_text": "Name according to your product key:"
+    },
+    {
+      "id": "eeeb421b7364",
+      "path": "licensing/index.html",
+      "start": 31450,
+      "end": 31457,
+      "line": 436,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Suite: ",
+      "source_text": "Suite: "
+    },
+    {
+      "id": "6a6047be0466",
+      "path": "licensing/index.html",
+      "start": 31569,
+      "end": 31579,
+      "line": 437,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "EmberGen: ",
+      "source_text": "EmberGen: "
+    },
+    {
+      "id": "75f9b4275fe8",
+      "path": "licensing/index.html",
+      "start": 31694,
+      "end": 31704,
+      "line": 438,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "LiquiGen: ",
+      "source_text": "LiquiGen: "
+    },
+    {
+      "id": "90e8b6b2ed82",
+      "path": "licensing/index.html",
+      "start": 31819,
+      "end": 31828,
+      "line": 439,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "IlluGen: ",
+      "source_text": "IlluGen: "
+    },
+    {
+      "id": "54438a784b56",
+      "path": "licensing/index.html",
+      "start": 31942,
+      "end": 31950,
+      "line": 440,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "GeoGen: ",
+      "source_text": "GeoGen: "
+    },
+    {
+      "id": "57a4ebfdcd26",
+      "path": "licensing/index.html",
+      "start": 32087,
+      "end": 32094,
+      "line": 445,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Value: ",
+      "source_text": "Value: "
+    },
+    {
+      "id": "e7d032726d04",
+      "path": "licensing/index.html",
+      "start": 32189,
+      "end": 32193,
+      "line": 445,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "572999fecc86",
+      "path": "licensing/index.html",
+      "start": 32302,
+      "end": 32384,
+      "line": 446,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "The software will automatically acquire a lease if the environment variable is set",
+      "source_text": "The software will automatically acquire a lease if the environment variable is set"
+    },
+    {
+      "id": "9410a0d16271",
+      "path": "licensing/index.html",
+      "start": 32401,
+      "end": 32453,
+      "line": 447,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "The software will automatically drop a lease on exit",
+      "source_text": "The software will automatically drop a lease on exit"
+    },
+    {
+      "id": "f15505ec1c31",
+      "path": "licensing/index.html",
+      "start": 32539,
+      "end": 32568,
+      "line": 457,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": "Additional lease information:",
+      "source_text": "Additional lease information:"
+    },
+    {
+      "id": "2c69b58c4437",
+      "path": "licensing/index.html",
+      "start": 32589,
+      "end": 32731,
+      "line": 458,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "A lease that is not dropped due to a crash or disconnect from the server can be re-acquired and extended by the same machine upon reconnecting",
+      "source_text": "A lease that is not dropped due to a crash or disconnect from the server can be re-acquired and extended by the same machine upon reconnecting"
+    },
+    {
+      "id": "2588c797ca2e",
+      "path": "licensing/index.html",
+      "start": 32748,
+      "end": 32879,
+      "line": 459,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "A lease that is not dropped due to a crash or disconnect from the server cannot be used by anyone else until the lease time is over",
+      "source_text": "A lease that is not dropped due to a crash or disconnect from the server cannot be used by anyone else until the lease time is over"
+    },
+    {
+      "id": "9345c730c023",
+      "path": "licensing/index.html",
+      "start": 32896,
+      "end": 32968,
+      "line": 460,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Leases cannot be “borrowed” (used offline, for extended periods of time)",
+      "source_text": "Leases cannot be “borrowed” (used offline, for extended periods of time)"
+    },
+    {
+      "id": "3ce1e3214c0f",
+      "path": "licensing/index.html",
+      "start": 33090,
+      "end": 33112,
+      "line": 468,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Legacy Floating Server",
+      "source_text": "Legacy Floating Server"
+    },
+    {
+      "id": "530c8c1e1967",
+      "path": "licensing/index.html",
+      "start": 33233,
+      "end": 33241,
+      "line": 470,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Download",
+      "source_text": "Download"
+    },
+    {
+      "id": "ddc79a1f99b7",
+      "path": "licensing/index.html",
+      "start": 33454,
+      "end": 33462,
+      "line": 474,
+      "parent_path": "table/thead/tr/th/p",
+      "source_raw": "Software",
+      "source_text": "Software"
+    },
+    {
+      "id": "25a0bfc1902a",
+      "path": "licensing/index.html",
+      "start": 33492,
+      "end": 33499,
+      "line": 475,
+      "parent_path": "table/thead/tr/th/p",
+      "source_raw": "Version",
+      "source_text": "Version"
+    },
+    {
+      "id": "7de6ec024194",
+      "path": "licensing/index.html",
+      "start": 33529,
+      "end": 33542,
+      "line": 476,
+      "parent_path": "table/thead/tr/th/p",
+      "source_raw": "Download link",
+      "source_text": "Download link"
+    },
+    {
+      "id": "9878b1ae75d4",
+      "path": "licensing/index.html",
+      "start": 33603,
+      "end": 33611,
+      "line": 480,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "EmberGen",
+      "source_text": "EmberGen"
+    },
+    {
+      "id": "2e3277983f3e",
+      "path": "licensing/index.html",
+      "start": 33628,
+      "end": 33642,
+      "line": 481,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "1.2.6 or below",
+      "source_text": "1.2.6 or below"
+    },
+    {
+      "id": "8a0dfff48d0c",
+      "path": "licensing/index.html",
+      "start": 33755,
+      "end": 33778,
+      "line": 482,
+      "parent_path": "tbody/tr/td/p/a",
+      "source_raw": "Windows / Linux / MacOS",
+      "source_text": "Windows / Linux / MacOS"
+    },
+    {
+      "id": "43e754304afb",
+      "path": "licensing/index.html",
+      "start": 33825,
+      "end": 33833,
+      "line": 484,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "LiquiGen",
+      "source_text": "LiquiGen"
+    },
+    {
+      "id": "d0797e4f7219",
+      "path": "licensing/index.html",
+      "start": 33850,
+      "end": 33864,
+      "line": 485,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "1.0.5 or below",
+      "source_text": "1.0.5 or below"
+    },
+    {
+      "id": "d695fb65df4e",
+      "path": "licensing/index.html",
+      "start": 33977,
+      "end": 34000,
+      "line": 486,
+      "parent_path": "tbody/tr/td/p/a",
+      "source_raw": "Windows / Linux / MacOS",
+      "source_text": "Windows / Linux / MacOS"
+    },
+    {
+      "id": "de095a286be7",
+      "path": "licensing/index.html",
+      "start": 34048,
+      "end": 34055,
+      "line": 488,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "IlluGen",
+      "source_text": "IlluGen"
+    },
+    {
+      "id": "3947a42e886c",
+      "path": "licensing/index.html",
+      "start": 34072,
+      "end": 34086,
+      "line": 489,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "1.1.1 or below",
+      "source_text": "1.1.1 or below"
+    },
+    {
+      "id": "b6e39d1e3dff",
+      "path": "licensing/index.html",
+      "start": 34198,
+      "end": 34221,
+      "line": 490,
+      "parent_path": "tbody/tr/td/p/a",
+      "source_raw": "Windows / Linux / MacOS",
+      "source_text": "Windows / Linux / MacOS"
+    },
+    {
+      "id": "b723b25ace85",
+      "path": "licensing/index.html",
+      "start": 34268,
+      "end": 34274,
+      "line": 492,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "GeoGen",
+      "source_text": "GeoGen"
+    },
+    {
+      "id": "df8e4236ac23",
+      "path": "licensing/index.html",
+      "start": 34291,
+      "end": 34310,
+      "line": 493,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "0.5.3-beta or below",
+      "source_text": "0.5.3-beta or below"
+    },
+    {
+      "id": "47c72cbee116",
+      "path": "licensing/index.html",
+      "start": 34421,
+      "end": 34444,
+      "line": 494,
+      "parent_path": "tbody/tr/td/p/a",
+      "source_raw": "Windows / Linux / MacOS",
+      "source_text": "Windows / Linux / MacOS"
+    },
+    {
+      "id": "64bffe8400f6",
+      "path": "licensing/index.html",
+      "start": 34492,
+      "end": 34507,
+      "line": 496,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "Elemental Suite",
+      "source_text": "Elemental Suite"
+    },
+    {
+      "id": "cfa1f82da1d0",
+      "path": "licensing/index.html",
+      "start": 34524,
+      "end": 34533,
+      "line": 497,
+      "parent_path": "table/tbody/tr/td/p",
+      "source_raw": "see above",
+      "source_text": "see above"
+    },
+    {
+      "id": "6acf06a3e023",
+      "path": "licensing/index.html",
+      "start": 34643,
+      "end": 34666,
+      "line": 498,
+      "parent_path": "tbody/tr/td/p/a",
+      "source_raw": "Windows / Linux / MacOS",
+      "source_text": "Windows / Linux / MacOS"
+    },
+    {
+      "id": "1f316367ce82",
+      "path": "licensing/index.html",
+      "start": 34759,
+      "end": 34776,
+      "line": 505,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Quick start guide",
+      "source_text": "Quick start guide"
+    },
+    {
+      "id": "6c1a11b3045f",
+      "path": "licensing/index.html",
+      "start": 34925,
+      "end": 34934,
+      "line": 508,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Activate:",
+      "source_text": "Activate:"
+    },
+    {
+      "id": "00dcf9036e5f",
+      "path": "licensing/index.html",
+      "start": 35180,
+      "end": 35237,
+      "line": 509,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Online activation uses port 80 (HTTP) or port 443 (HTTPS)",
+      "source_text": "Online activation uses port 80 (HTTP) or port 443 (HTTPS)"
+    },
+    {
+      "id": "dc4bc11a3e09",
+      "path": "licensing/index.html",
+      "start": 35254,
+      "end": 35306,
+      "line": 510,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "For offline activation, see Offline activation below",
+      "source_text": "For offline activation, see Offline activation below"
+    },
+    {
+      "id": "00c8541697d6",
+      "path": "licensing/index.html",
+      "start": 35355,
+      "end": 35366,
+      "line": 515,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Deactivate:",
+      "source_text": "Deactivate:"
+    },
+    {
+      "id": "2f4efb81f448",
+      "path": "licensing/index.html",
+      "start": 35555,
+      "end": 35561,
+      "line": 517,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Start:",
+      "source_text": "Start:"
+    },
+    {
+      "id": "8f31c9364125",
+      "path": "licensing/index.html",
+      "start": 35726,
+      "end": 35780,
+      "line": 518,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "This will run the server without installing a service.",
+      "source_text": "This will run the server without installing a service."
+    },
+    {
+      "id": "af1a68d9fc10",
+      "path": "licensing/index.html",
+      "start": 35850,
+      "end": 35858,
+      "line": 524,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Install:",
+      "source_text": "Install:"
+    },
+    {
+      "id": "e33b56b157fb",
+      "path": "licensing/index.html",
+      "start": 36021,
+      "end": 36065,
+      "line": 525,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "This also starts the Windows service, named ",
+      "source_text": "This also starts the Windows service, named "
+    },
+    {
+      "id": "3d9a79b6f4d3",
+      "path": "licensing/index.html",
+      "start": 36069,
+      "end": 36090,
+      "line": 525,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "TurboFloatServer-5260",
+      "source_text": "TurboFloatServer-5260"
+    },
+    {
+      "id": "0a21210d26c9",
+      "path": "licensing/index.html",
+      "start": 36101,
+      "end": 36122,
+      "line": 525,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "TurboFloatServer-6575",
+      "source_text": "TurboFloatServer-6575"
+    },
+    {
+      "id": "232f99a28e48",
+      "path": "licensing/index.html",
+      "start": 36127,
+      "end": 36132,
+      "line": 525,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": ", or ",
+      "source_text": ", or "
+    },
+    {
+      "id": "6dd52591beb6",
+      "path": "licensing/index.html",
+      "start": 36136,
+      "end": 36157,
+      "line": 525,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "TurboFloatServer-6576",
+      "source_text": "TurboFloatServer-6576"
+    },
+    {
+      "id": "66e8aa9e3531",
+      "path": "licensing/index.html",
+      "start": 36179,
+      "end": 36213,
+      "line": 526,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "This will require admin privileges",
+      "source_text": "This will require admin privileges"
+    },
+    {
+      "id": "b79b7e9b71d6",
+      "path": "licensing/index.html",
+      "start": 36283,
+      "end": 36293,
+      "line": 532,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Uninstall:",
+      "source_text": "Uninstall:"
+    },
+    {
+      "id": "6dc8dfbefd93",
+      "path": "licensing/index.html",
+      "start": 36454,
+      "end": 36482,
+      "line": 533,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "May require admin privileges",
+      "source_text": "May require admin privileges"
+    },
+    {
+      "id": "abdc9d842f17",
+      "path": "licensing/index.html",
+      "start": 36552,
+      "end": 36562,
+      "line": 539,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Configure:",
+      "source_text": "Configure:"
+    },
+    {
+      "id": "f05106e4b14d",
+      "path": "licensing/index.html",
+      "start": 36702,
+      "end": 36779,
+      "line": 540,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Connection port, thread count, lease length, logs, grace periods, and proxies",
+      "source_text": "Connection port, thread count, lease length, logs, grace periods, and proxies"
+    },
+    {
+      "id": "6598858e1e97",
+      "path": "licensing/index.html",
+      "start": 36796,
+      "end": 36878,
+      "line": 541,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "The server will listen for lease requests on the configured port (default port 13)",
+      "source_text": "The server will listen for lease requests on the configured port (default port 13)"
+    },
+    {
+      "id": "36f2178e8af0",
+      "path": "licensing/index.html",
+      "start": 36967,
+      "end": 36985,
+      "line": 549,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Offline activation",
+      "source_text": "Offline activation"
+    },
+    {
+      "id": "5741f7402d16",
+      "path": "licensing/index.html",
+      "start": 37082,
+      "end": 37135,
+      "line": 550,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you need offline activation, please contact us at ",
+      "source_text": "If you need offline activation, please contact us at "
+    },
+    {
+      "id": "94531b9643d7",
+      "path": "licensing/index.html",
+      "start": 37217,
+      "end": 37224,
+      "line": 550,
+      "parent_path": "section/section/section/p/a",
+      "source_raw": "support",
+      "source_text": "support"
+    },
+    {
+      "id": "815d87a8489a",
+      "path": "licensing/index.html",
+      "start": 37242,
+      "end": 37249,
+      "line": 550,
+      "parent_path": "section/section/section/p/a",
+      "source_raw": "jangafx",
+      "source_text": "jangafx"
+    },
+    {
+      "id": "81e677e2ccfe",
+      "path": "licensing/index.html",
+      "start": 37267,
+      "end": 37270,
+      "line": 550,
+      "parent_path": "section/section/section/p/a",
+      "source_raw": "com",
+      "source_text": "com"
+    },
+    {
+      "id": "f0c5c8d8dd44",
+      "path": "licensing/index.html",
+      "start": 37274,
+      "end": 37302,
+      "line": 550,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " and follow the steps below.",
+      "source_text": " and follow the steps below."
+    },
+    {
+      "id": "bc8e163ee8a5",
+      "path": "licensing/index.html",
+      "start": 37310,
+      "end": 37412,
+      "line": 551,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "There are two steps to offline activation. You will send an activation request and receive a response:",
+      "source_text": "There are two steps to offline activation. You will send an activation request and receive a response:"
+    },
+    {
+      "id": "3156b17f1990",
+      "path": "licensing/index.html",
+      "start": 37451,
+      "end": 37484,
+      "line": 553,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Generating the activation request",
+      "source_text": "Generating the activation request"
+    },
+    {
+      "id": "88daef70718a",
+      "path": "licensing/index.html",
+      "start": 37516,
+      "end": 37588,
+      "line": 555,
+      "parent_path": "ol/li/ul/li/p",
+      "source_raw": "Pass in the product key and location for the activation request XML file",
+      "source_text": "Pass in the product key and location for the activation request XML file"
+    },
+    {
+      "id": "8631cbdca7e9",
+      "path": "licensing/index.html",
+      "start": 37884,
+      "end": 38042,
+      "line": 559,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Using the activation response\n* After submitting the activation request to us and receiving the activation response, you can activate the TurboFloat Server\n* ",
+      "source_text": "Using the activation response\n* After submitting the activation request to us and receiving the activation response, you can activate the TurboFloat Server\n* "
+    },
+    {
+      "id": "86c4e43d3138",
+      "path": "licensing/index.html",
+      "start": 38298,
+      "end": 38302,
+      "line": 565,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Logs",
+      "source_text": "Logs"
+    },
+    {
+      "id": "184ddff622f6",
+      "path": "licensing/index.html",
+      "start": 38409,
+      "end": 38464,
+      "line": 567,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Detailed logs about connections and leases go into the ",
+      "source_text": "Detailed logs about connections and leases go into the "
+    },
+    {
+      "id": "1e87c54bca9c",
+      "path": "licensing/index.html",
+      "start": 38468,
+      "end": 38479,
+      "line": 567,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "tfs-log.txt",
+      "source_text": "tfs-log.txt"
+    },
+    {
+      "id": "b8c36729dbcc",
+      "path": "licensing/index.html",
+      "start": 38484,
+      "end": 38489,
+      "line": 567,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file",
+      "source_text": " file"
+    },
+    {
+      "id": "def593982ada",
+      "path": "licensing/index.html",
+      "start": 38506,
+      "end": 38535,
+      "line": 568,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Running the server using the ",
+      "source_text": "Running the server using the "
+    },
+    {
+      "id": "f45eab254ec3",
+      "path": "licensing/index.html",
+      "start": 38612,
+      "end": 38667,
+      "line": 568,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " flag, will show these messages directly in the console",
+      "source_text": " flag, will show these messages directly in the console"
+    },
+    {
+      "id": "e6907f87bbcf",
+      "path": "licensing/index.html",
+      "start": 38705,
+      "end": 38747,
+      "line": 570,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": "You can configure the log level using the ",
+      "source_text": "You can configure the log level using the "
+    },
+    {
+      "id": "354b37ce78a1",
+      "path": "licensing/index.html",
+      "start": 38751,
+      "end": 38778,
+      "line": 570,
+      "parent_path": "ul/li/dl/dt/em",
+      "source_raw": "TurboFloatServer-config.xml",
+      "source_text": "TurboFloatServer-config.xml"
+    },
+    {
+      "id": "25bf9347d6a3",
+      "path": "licensing/index.html",
+      "start": 38783,
+      "end": 38802,
+      "line": 570,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " configuration file",
+      "source_text": " configuration file"
+    },
+    {
+      "id": "e63a6e978992",
+      "path": "licensing/index.html",
+      "start": 38831,
+      "end": 38844,
+      "line": 571,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "notification:",
+      "source_text": "notification:"
+    },
+    {
+      "id": "215d1722769c",
+      "path": "licensing/index.html",
+      "start": 38853,
+      "end": 39033,
+      "line": 571,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " records when leases are created, removed, expired, and other nonessential, but possibly interesting information. This level also includes all other level outputs (warning, error).",
+      "source_text": " records when leases are created, removed, expired, and other nonessential, but possibly interesting information. This level also includes all other level outputs (warning, error)."
+    },
+    {
+      "id": "71d6805148d2",
+      "path": "licensing/index.html",
+      "start": 39058,
+      "end": 39066,
+      "line": 572,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "warning:",
+      "source_text": "warning:"
+    },
+    {
+      "id": "ac5c7827e71b",
+      "path": "licensing/index.html",
+      "start": 39075,
+      "end": 39227,
+      "line": 572,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " records things that are wrong with your configuration or other things that need to be fixed. This level also includes the next level of output (error).",
+      "source_text": " records things that are wrong with your configuration or other things that need to be fixed. This level also includes the next level of output (error)."
+    },
+    {
+      "id": "9820ab96cc4c",
+      "path": "licensing/index.html",
+      "start": 39252,
+      "end": 39258,
+      "line": 573,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "error:",
+      "source_text": "error:"
+    },
+    {
+      "id": "e861b48a4dae",
+      "path": "licensing/index.html",
+      "start": 39267,
+      "end": 39413,
+      "line": 573,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " records when TurboFloat Server fails to do things it needs to do. For example, failures to load configuration data, failure to process data, etc.",
+      "source_text": " records when TurboFloat Server fails to do things it needs to do. For example, failures to load configuration data, failure to process data, etc."
+    },
+    {
+      "id": "a80a037f4c2b",
+      "path": "licensing/index.html",
+      "start": 39438,
+      "end": 39443,
+      "line": 574,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "none:",
+      "source_text": "none:"
+    },
+    {
+      "id": "629f5db817af",
+      "path": "licensing/index.html",
+      "start": 39452,
+      "end": 39480,
+      "line": 574,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " No log file will be written",
+      "source_text": " No log file will be written"
+    },
+    {
+      "id": "8c127fb3ad5b",
+      "path": "licensing/index.html",
+      "start": 39590,
+      "end": 39605,
+      "line": 583,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Troubleshooting",
+      "source_text": "Troubleshooting"
+    },
+    {
+      "id": "1eeee1a26f2d",
+      "path": "licensing/index.html",
+      "start": 39699,
+      "end": 39769,
+      "line": 584,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "For detailed information, and instructions for other platforms, visit ",
+      "source_text": "For detailed information, and instructions for other platforms, visit "
+    },
+    {
+      "id": "d94cc870c291",
+      "path": "licensing/index.html",
+      "start": 39913,
+      "end": 40018,
+      "line": 585,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If the information below doesn’t solve your problem, and you require any further support, please contact ",
+      "source_text": "If the information below doesn’t solve your problem, and you require any further support, please contact "
+    },
+    {
+      "id": "cf3e6a54e88f",
+      "path": "licensing/index.html",
+      "start": 40100,
+      "end": 40107,
+      "line": 585,
+      "parent_path": "section/section/section/p/a",
+      "source_raw": "support",
+      "source_text": "support"
+    },
+    {
+      "id": "4d76c162f160",
+      "path": "licensing/index.html",
+      "start": 40125,
+      "end": 40132,
+      "line": 585,
+      "parent_path": "section/section/section/p/a",
+      "source_raw": "jangafx",
+      "source_text": "jangafx"
+    },
+    {
+      "id": "2f5a53bfe5b6",
+      "path": "licensing/index.html",
+      "start": 40150,
+      "end": 40153,
+      "line": 585,
+      "parent_path": "section/section/section/p/a",
+      "source_raw": "com",
+      "source_text": "com"
+    },
+    {
+      "id": "d0a700d0bd0e",
+      "path": "licensing/index.html",
+      "start": 40240,
+      "end": 40294,
+      "line": 587,
+      "parent_path": "section/section/section/h4/em",
+      "source_raw": "The software can’t acquire or maintain an active lease",
+      "source_text": "The software can’t acquire or maintain an active lease"
+    },
+    {
+      "id": "fa484a8d0861",
+      "path": "licensing/index.html",
+      "start": 40432,
+      "end": 40686,
+      "line": 588,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "If the license manager has connected to the license server, but the lease status in the license manager and in the software don’t match, you will need to close both the software and the license manager. Afterwards, reopen the software to acquire a lease.",
+      "source_text": "If the license manager has connected to the license server, but the lease status in the license manager and in the software don’t match, you will need to close both the software and the license manager. Afterwards, reopen the software to acquire a lease."
+    },
+    {
+      "id": "7e333a7cb4a9",
+      "path": "licensing/index.html",
+      "start": 40694,
+      "end": 40868,
+      "line": 589,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Also, make sure that if you are trying to use the license manager to connect to the server, there are no environment variables named as described prior in this documentation.",
+      "source_text": "Also, make sure that if you are trying to use the license manager to connect to the server, there are no environment variables named as described prior in this documentation."
+    },
+    {
+      "id": "7dcdab940566",
+      "path": "licensing/index.html",
+      "start": 40946,
+      "end": 40984,
+      "line": 592,
+      "parent_path": "section/section/section/h4/em",
+      "source_raw": "Error connecting to the license server",
+      "source_text": "Error connecting to the license server"
+    },
+    {
+      "id": "5da1afe6693d",
+      "path": "licensing/index.html",
+      "start": 41106,
+      "end": 41283,
+      "line": 593,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Some networks may be configured to block port 13. If you’re having trouble connecting to the license server, try to change this port to something that is allowed on your server.",
+      "source_text": "Some networks may be configured to block port 13. If you’re having trouble connecting to the license server, try to change this port to something that is allowed on your server."
+    },
+    {
+      "id": "6f5d876e0c00",
+      "path": "licensing/index.html",
+      "start": 41344,
+      "end": 41365,
+      "line": 596,
+      "parent_path": "section/section/section/h4/em",
+      "source_raw": "Using different paths",
+      "source_text": "Using different paths"
+    },
+    {
+      "id": "b852ee2bcb6e",
+      "path": "licensing/index.html",
+      "start": 41498,
+      "end": 41518,
+      "line": 598,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "TurboFloatServer.exe",
+      "source_text": "TurboFloatServer.exe"
+    },
+    {
+      "id": "b662608a0beb",
+      "path": "licensing/index.html",
+      "start": 41523,
+      "end": 41532,
+      "line": 598,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " assumes ",
+      "source_text": " assumes "
+    },
+    {
+      "id": "6ae50b21ccdc",
+      "path": "licensing/index.html",
+      "start": 41536,
+      "end": 41553,
+      "line": 598,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "TurboActivate.dat",
+      "source_text": "TurboActivate.dat"
+    },
+    {
+      "id": "b89e1cb3a10b",
+      "path": "licensing/index.html",
+      "start": 41558,
+      "end": 41563,
+      "line": 598,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "c785f2224caa",
+      "path": "licensing/index.html",
+      "start": 41567,
+      "end": 41594,
+      "line": 598,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "TurboFloatServer-config.xml",
+      "source_text": "TurboFloatServer-config.xml"
+    },
+    {
+      "id": "c1ac1de2012f",
+      "path": "licensing/index.html",
+      "start": 41599,
+      "end": 41638,
+      "line": 598,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " are located with the server executable",
+      "source_text": " are located with the server executable"
+    },
+    {
+      "id": "e3b80f227e09",
+      "path": "licensing/index.html",
+      "start": 41676,
+      "end": 41680,
+      "line": 600,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": "Use ",
+      "source_text": "Use "
+    },
+    {
+      "id": "2038c879c5aa",
+      "path": "licensing/index.html",
+      "start": 41761,
+      "end": 41766,
+      "line": 600,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "ad8c9718d332",
+      "path": "licensing/index.html",
+      "start": 41848,
+      "end": 41870,
+      "line": 600,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " to pass custom paths:",
+      "source_text": " to pass custom paths:"
+    },
+    {
+      "id": "990c378cf6bb",
+      "path": "licensing/index.html",
+      "start": 42287,
+      "end": 42317,
+      "line": 609,
+      "parent_path": "section/section/section/h4/em",
+      "source_raw": "Failed to uninstall the server",
+      "source_text": "Failed to uninstall the server"
+    },
+    {
+      "id": "c5879b3239e5",
+      "path": "licensing/index.html",
+      "start": 42431,
+      "end": 42526,
+      "line": 610,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "In case of error message:\n* Failed to remove this service from the Windows Firewall. 0x80070057",
+      "source_text": "In case of error message:\n* Failed to remove this service from the Windows Firewall. 0x80070057"
+    },
+    {
+      "id": "30b5126d80f5",
+      "path": "licensing/index.html",
+      "start": 42534,
+      "end": 42632,
+      "line": 612,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Try manually deleting the firewall rules in Windows Defender before trying to uninstall once more.",
+      "source_text": "Try manually deleting the firewall rules in Windows Defender before trying to uninstall once more."
+    },
+    {
+      "id": "8f977f267907",
+      "path": "licensing/index.html",
+      "start": 42640,
+      "end": 42665,
+      "line": 613,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The rules will be named: ",
+      "source_text": "The rules will be named: "
+    },
+    {
+      "id": "f28d08009fd0",
+      "path": "licensing/index.html",
+      "start": 42884,
+      "end": 42891,
+      "line": 613,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " where ",
+      "source_text": " where "
+    },
+    {
+      "id": "2f0d60be8cc6",
+      "path": "licensing/index.html",
+      "start": 42982,
+      "end": 42990,
+      "line": 613,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " can be ",
+      "source_text": " can be "
+    },
+    {
+      "id": "fa1558fc35ea",
+      "path": "licensing/index.html",
+      "start": 43242,
+      "end": 43246,
+      "line": 613,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "72a2ff4ae340",
+      "path": "licensing/index.html",
+      "start": 43728,
+      "end": 43736,
+      "line": 629,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "c5cb6eaa0251",
+      "path": "licensing/index.html",
+      "start": 43819,
+      "end": 43839,
+      "line": 632,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "cc47e38eac11",
+      "path": "licensing/index.html",
+      "start": 44025,
+      "end": 44085,
+      "line": 639,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "e652524cfe95",
+      "path": "licensing/index.html",
+      "start": 44091,
+      "end": 44114,
+      "line": 641,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "c5e7771dfe72",
+      "path": "licensing/index.html",
+      "start": 44152,
+      "end": 44158,
+      "line": 642,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "12ce19157575",
+      "path": "licensing/index.html",
+      "start": 44162,
+      "end": 44167,
+      "line": 642,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "67b99426efbc",
+      "path": "licensing/index.html",
+      "start": 44217,
+      "end": 44227,
+      "line": 642,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "90a3e9437b38",
+      "path": "licensing/index.html",
+      "start": 44231,
+      "end": 44259,
+      "line": 642,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "fa26480f232a",
+      "path": "licensing/index.html",
+      "start": 44303,
+      "end": 44307,
+      "line": 644,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "c22292cb8a46",
+      "path": "licensing/index.html",
+      "start": 44624,
+      "end": 44660,
+      "line": 659,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "8afe834d5270",
+      "path": "licensing/index.html",
+      "start": 44817,
+      "end": 44839,
+      "line": 666,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "423d523d71fb",
+      "path": "licensing/index.html",
+      "start": 44914,
+      "end": 44937,
+      "line": 667,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "JangaFX Floating Server",
+      "source_text": "JangaFX Floating Server"
+    },
+    {
+      "id": "97bc077a9b21",
+      "path": "licensing/index.html",
+      "start": 44997,
+      "end": 45005,
+      "line": 668,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Download",
+      "source_text": "Download"
+    },
+    {
+      "id": "62503d9ad41b",
+      "path": "licensing/index.html",
+      "start": 45066,
+      "end": 45074,
+      "line": 669,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Overview",
+      "source_text": "Overview"
+    },
+    {
+      "id": "1d0e657e0923",
+      "path": "licensing/index.html",
+      "start": 45147,
+      "end": 45167,
+      "line": 670,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Launching the Server",
+      "source_text": "Launching the Server"
+    },
+    {
+      "id": "e15bec62ac46",
+      "path": "licensing/index.html",
+      "start": 45227,
+      "end": 45234,
+      "line": 671,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Options",
+      "source_text": "Options"
+    },
+    {
+      "id": "c5014d82a05c",
+      "path": "licensing/index.html",
+      "start": 45315,
+      "end": 45343,
+      "line": 672,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Running as a Windows Service",
+      "source_text": "Running as a Windows Service"
+    },
+    {
+      "id": "5f79268f1cfe",
+      "path": "licensing/index.html",
+      "start": 45432,
+      "end": 45456,
+      "line": 675,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Client quick start guide",
+      "source_text": "Client quick start guide"
+    },
+    {
+      "id": "2653fce63b8f",
+      "path": "licensing/index.html",
+      "start": 45531,
+      "end": 45553,
+      "line": 676,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Legacy Floating Server",
+      "source_text": "Legacy Floating Server"
+    },
+    {
+      "id": "2982e2733edb",
+      "path": "licensing/index.html",
+      "start": 45608,
+      "end": 45616,
+      "line": 677,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Download",
+      "source_text": "Download"
+    },
+    {
+      "id": "a785d63a2116",
+      "path": "licensing/index.html",
+      "start": 45686,
+      "end": 45703,
+      "line": 678,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Quick start guide",
+      "source_text": "Quick start guide"
+    },
+    {
+      "id": "0cef8ad16bf2",
+      "path": "licensing/index.html",
+      "start": 45774,
+      "end": 45792,
+      "line": 679,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Offline activation",
+      "source_text": "Offline activation"
+    },
+    {
+      "id": "b55f663cf1e3",
+      "path": "licensing/index.html",
+      "start": 45849,
+      "end": 45853,
+      "line": 680,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Logs",
+      "source_text": "Logs"
+    },
+    {
+      "id": "7c166f445b5f",
+      "path": "licensing/index.html",
+      "start": 45921,
+      "end": 45936,
+      "line": 681,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Troubleshooting",
+      "source_text": "Troubleshooting"
+    },
+    {
+      "id": "75e2d933d8f7",
+      "path": "licensing/index.html",
+      "start": 46046,
+      "end": 46100,
+      "line": 682,
+      "parent_path": "li/ul/li/a/em",
+      "source_raw": "The software can’t acquire or maintain an active lease",
+      "source_text": "The software can’t acquire or maintain an active lease"
+    },
+    {
+      "id": "31a245aacc84",
+      "path": "licensing/index.html",
+      "start": 46200,
+      "end": 46238,
+      "line": 683,
+      "parent_path": "li/ul/li/a/em",
+      "source_raw": "Error connecting to the license server",
+      "source_text": "Error connecting to the license server"
+    },
+    {
+      "id": "aa2a2d2ed274",
+      "path": "licensing/index.html",
+      "start": 46321,
+      "end": 46342,
+      "line": 684,
+      "parent_path": "li/ul/li/a/em",
+      "source_raw": "Using different paths",
+      "source_text": "Using different paths"
+    },
+    {
+      "id": "0a90b57275e5",
+      "path": "licensing/index.html",
+      "start": 46434,
+      "end": 46464,
+      "line": 685,
+      "parent_path": "li/ul/li/a/em",
+      "source_raw": "Failed to uninstall the server",
+      "source_text": "Failed to uninstall the server"
+    }
+  ]
+}

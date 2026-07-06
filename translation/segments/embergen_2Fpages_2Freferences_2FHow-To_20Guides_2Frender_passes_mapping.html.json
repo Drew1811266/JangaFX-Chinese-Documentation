@@ -1,0 +1,1196 @@
+{
+  "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+  "segment_count": 119,
+  "segments": [
+    {
+      "id": "b618a672b888",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 683,
+      "end": 726,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Render Pass Mapping - JangaFX Documentation",
+      "source_text": "Render Pass Mapping - JangaFX Documentation"
+    },
+    {
+      "id": "2c5f3fec09dc",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 5316,
+      "end": 5339,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "dc9dcc4656a0",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 5434,
+      "end": 5464,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "143c267c202a",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 5660,
+      "end": 5690,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "c23f64454dd9",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 5881,
+      "end": 5902,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "9ba08f1c49d2",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 6095,
+      "end": 6133,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "b6048bc0141d",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 6523,
+      "end": 6555,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "e6ec3c33ea09",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 7599,
+      "end": 7621,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "f79f0769edae",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 7810,
+      "end": 7842,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "eda8a33740b4",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8030,
+      "end": 8045,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "2e5181927615",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8150,
+      "end": 8160,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "d0d6af689d1f",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8349,
+      "end": 8381,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "54fdbf62d27f",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8563,
+      "end": 8577,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "fbb116c87cbe",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8664,
+      "end": 8672,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "12ee156bca9e",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8760,
+      "end": 8769,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "b1599a5365ba",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8871,
+      "end": 8884,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "4e983a93f5cf",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9073,
+      "end": 9105,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "03657513bf7c",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9285,
+      "end": 9298,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "8455eba24667",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9399,
+      "end": 9418,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "05db0e6ea7e6",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9499,
+      "end": 9504,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "2a3527430929",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9587,
+      "end": 9594,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "54b7c8aefe63",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9674,
+      "end": 9678,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "d71469015b18",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9770,
+      "end": 9790,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "9c9e1c8a1ff8",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9875,
+      "end": 9884,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "a9107773a385",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9971,
+      "end": 9983,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "1020178df704",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10068,
+      "end": 10086,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "e6ccdd4e9a74",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10178,
+      "end": 10194,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "9ae6c11268c6",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10291,
+      "end": 10312,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "83a698507a0b",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10396,
+      "end": 10404,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "8c82e76825f4",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10489,
+      "end": 10499,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "6709d67aa102",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10588,
+      "end": 10601,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "eed9b57e11b3",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10710,
+      "end": 10713,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "5501fa969131",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10840,
+      "end": 10862,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "d689218ee68d",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 11040,
+      "end": 11072,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "95e65250fe00",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 11265,
+      "end": 11280,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "c7d2ddb92058",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 11412,
+      "end": 11422,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "4f791062c56e",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 11600,
+      "end": 11632,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "bdac52e24a6c",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 11833,
+      "end": 11847,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "01b5a38a4345",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 11969,
+      "end": 11977,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "207085080bc3",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 12100,
+      "end": 12109,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "639e329eb449",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 12257,
+      "end": 12270,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "68a5a67c3a27",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 12448,
+      "end": 12480,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "769c50a42255",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 12696,
+      "end": 12707,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "233a3a6a8d90",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 12858,
+      "end": 12877,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "70af3db7a8c5",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13012,
+      "end": 13017,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "8d04d451df13",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13154,
+      "end": 13161,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "dafa0255f99a",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13295,
+      "end": 13299,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "ee05bdf0cb04",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13445,
+      "end": 13465,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "f4ba3c45e2df",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13608,
+      "end": 13621,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "2c0ddc1ea713",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13762,
+      "end": 13774,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "1234ed528a5b",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13913,
+      "end": 13931,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "cfd81b7bb31f",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14077,
+      "end": 14093,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "91229cb49199",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14244,
+      "end": 14265,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "4b6ed4c9dac0",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14403,
+      "end": 14411,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "2546256f3bff",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14554,
+      "end": 14567,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "7c3609378558",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14708,
+      "end": 14719,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "f302f625a1be",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14849,
+      "end": 14852,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "c61759e2eace",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14965,
+      "end": 14986,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "bbc403b5479f",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 15086,
+      "end": 15106,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "f87823fcd1bb",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 15209,
+      "end": 15231,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "2154e5d2d400",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 15644,
+      "end": 15655,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "ba2241fc3d1e",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 15875,
+      "end": 15913,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "6330e7a8ee1c",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16332,
+      "end": 16364,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "b30012325e33",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16593,
+      "end": 16612,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "e9155d18f162",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16805,
+      "end": 16818,
+      "line": 257,
+      "parent_path": "article/section/p/a/span",
+      "source_raw": "Render Passes",
+      "source_text": "Render Passes"
+    },
+    {
+      "id": "352709c940f9",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16829,
+      "end": 16921,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " can be exported to seperate files or to layers within a Multi Layer or Multi Part exr file.",
+      "source_text": " can be exported to seperate files or to layers within a Multi Layer or Multi Part exr file."
+    },
+    {
+      "id": "6a4548b3c60b",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16929,
+      "end": 16960,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "To set this up you can use the ",
+      "source_text": "To set this up you can use the "
+    },
+    {
+      "id": "e2f99e710555",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16964,
+      "end": 16971,
+      "line": 258,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Mapping",
+      "source_text": "Mapping"
+    },
+    {
+      "id": "b30e775a5ed2",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16976,
+      "end": 16992,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " section in the ",
+      "source_text": " section in the "
+    },
+    {
+      "id": "be80b04fa9f1",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16996,
+      "end": 17009,
+      "line": 258,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Render Passes",
+      "source_text": "Render Passes"
+    },
+    {
+      "id": "72c5bdc41b5c",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17014,
+      "end": 17026,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "790009bdf78c",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17030,
+      "end": 17036,
+      "line": 258,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Render",
+      "source_text": "Render"
+    },
+    {
+      "id": "a9d3348caffe",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17041,
+      "end": 17084,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node which will be explained on this page.",
+      "source_text": " node which will be explained on this page."
+    },
+    {
+      "id": "93f217593b8f",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17209,
+      "end": 17213,
+      "line": 261,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "ee791a38424c",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17217,
+      "end": 17223,
+      "line": 261,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Source",
+      "source_text": "Source"
+    },
+    {
+      "id": "1707bb018d9a",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17228,
+      "end": 17310,
+      "line": 261,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " column holds all the nodes which can be set to one of our build in render passes.",
+      "source_text": " column holds all the nodes which can be set to one of our build in render passes."
+    },
+    {
+      "id": "aeb725430ef1",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17327,
+      "end": 17344,
+      "line": 262,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "The nodes in the ",
+      "source_text": "The nodes in the "
+    },
+    {
+      "id": "70d0fa220c9f",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17348,
+      "end": 17359,
+      "line": 262,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Destination",
+      "source_text": "Destination"
+    },
+    {
+      "id": "1c8b55628f6f",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17364,
+      "end": 17537,
+      "line": 262,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " column represent each render pass to be exported. Depending on the render settings, each node is exported to a seperate layer in a exr file or to a seperate image sequence.",
+      "source_text": " column represent each render pass to be exported. Depending on the render settings, each node is exported to a seperate layer in a exr file or to a seperate image sequence."
+    },
+    {
+      "id": "010ad4895695",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17713,
+      "end": 17743,
+      "line": 263,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " Hide or show channel mapping.",
+      "source_text": " Hide or show channel mapping."
+    },
+    {
+      "id": "81da88a94fd6",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17929,
+      "end": 17954,
+      "line": 264,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " Reorder Render Pass. By ",
+      "source_text": " Reorder Render Pass. By "
+    },
+    {
+      "id": "6861a2542ea4",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 18113,
+      "end": 18408,
+      "line": 264,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " clicking and dragging this icon, you can move the render pass to a different position in the list. The new position of the render pass is indicated with a blue line while dragging. This can be useful to move a specific render pass to the top as the top one shows in the preview while exporting.",
+      "source_text": " clicking and dragging this icon, you can move the render pass to a different position in the list. The new position of the render pass is indicated with a blue line while dragging. This can be useful to move a specific render pass to the top as the top one shows in the preview while exporting."
+    },
+    {
+      "id": "ca9830be4eb4",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 18425,
+      "end": 18553,
+      "line": 265,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Render passes dropdown menu. When clicking on this, a dropdown menu appears where you can pick a render pass to set the node to.",
+      "source_text": "Render passes dropdown menu. When clicking on this, a dropdown menu appears where you can pick a render pass to set the node to."
+    },
+    {
+      "id": "d6b91c9bb28c",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 18570,
+      "end": 18612,
+      "line": 266,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Set the background color of a render pass.",
+      "source_text": "Set the background color of a render pass."
+    },
+    {
+      "id": "50d21341bcfe",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 18970,
+      "end": 19044,
+      "line": 275,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "0477abf6bb11",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 19260,
+      "end": 19293,
+      "line": 280,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " Some render passes will have an ",
+      "source_text": " Some render passes will have an "
+    },
+    {
+      "id": "ec0ca64519bd",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 19297,
+      "end": 19321,
+      "line": 280,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "HDR (High Dynamic Range)",
+      "source_text": "HDR (High Dynamic Range)"
+    },
+    {
+      "id": "bf39b68c5660",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 19326,
+      "end": 19512,
+      "line": 280,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " toggle button next to their name. When this is enabled, tonemapping is bypassed and the full range of colors can be exported. Note that only the exr file format supports this correctly.",
+      "source_text": " toggle button next to their name. When this is enabled, tonemapping is bypassed and the full range of colors can be exported. Note that only the exr file format supports this correctly."
+    },
+    {
+      "id": "d34e2abc8eff",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 19529,
+      "end": 19687,
+      "line": 281,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Render pass output name. This box displays the name given to the render pass. When left untouched, this name is inherited from the incoming render pass. When ",
+      "source_text": "Render pass output name. This box displays the name given to the render pass. When left untouched, this name is inherited from the incoming render pass. When "
+    },
+    {
+      "id": "c37b3a5f305f",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 19846,
+      "end": 19936,
+      "line": 281,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " clicking within this box, you can set the ouput name to something custom by typing it in.",
+      "source_text": " clicking within this box, you can set the ouput name to something custom by typing it in."
+    },
+    {
+      "id": "d17d65ddf292",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 19953,
+      "end": 20195,
+      "line": 282,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Channel dropdown menu. Here, you can pick the amount of channels for the destination render pass. This can be useful to make sure you’re not using empty channels or to add more channels to be connected to sources from different render passes.",
+      "source_text": "Channel dropdown menu. Here, you can pick the amount of channels for the destination render pass. This can be useful to make sure you’re not using empty channels or to add more channels to be connected to sources from different render passes."
+    },
+    {
+      "id": "924bd74a8ddc",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20369,
+      "end": 20391,
+      "line": 283,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " Remove a render pass.",
+      "source_text": " Remove a render pass."
+    },
+    {
+      "id": "c41092c1342f",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20408,
+      "end": 20476,
+      "line": 284,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Source channels labels. Shows the names of the source channels like ",
+      "source_text": "Source channels labels. Shows the names of the source channels like "
+    },
+    {
+      "id": "e7ae33c10259",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20480,
+      "end": 20494,
+      "line": 284,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Red,Green,Blue",
+      "source_text": "Red,Green,Blue"
+    },
+    {
+      "id": "e53fe32da308",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20506,
+      "end": 20520,
+      "line": 284,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Top,Left,Right",
+      "source_text": "Top,Left,Right"
+    },
+    {
+      "id": "a2be40464267",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20531,
+      "end": 20535,
+      "line": 284,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Mask",
+      "source_text": "Mask"
+    },
+    {
+      "id": "162c82135348",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20540,
+      "end": 20545,
+      "line": 284,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": ", or ",
+      "source_text": ", or "
+    },
+    {
+      "id": "7372df1f4cd6",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20549,
+      "end": 20554,
+      "line": 284,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Alpha",
+      "source_text": "Alpha"
+    },
+    {
+      "id": "36fe1f2dcee9",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20577,
+      "end": 20597,
+      "line": 285,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Source output pins. ",
+      "source_text": "Source output pins. "
+    },
+    {
+      "id": "70028adb6316",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20756,
+      "end": 20853,
+      "line": 285,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " click and drag from this pin to a destination input pin to map these channels to each other. By ",
+      "source_text": " click and drag from this pin to a destination input pin to map these channels to each other. By "
+    },
+    {
+      "id": "634fc30c0c94",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 21012,
+      "end": 21080,
+      "line": 285,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " double clicking on this pin you can remove all connections from it.",
+      "source_text": " double clicking on this pin you can remove all connections from it."
+    },
+    {
+      "id": "5fbc989904ab",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 21097,
+      "end": 21398,
+      "line": 286,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Connection line. Represents a connection between a source and a destination channel. When connected, the lines are grey. When being dragged, the lines are blue. When being dragged far enough to be released and connected, the lines are green. When about to being removed/overwritten, the lines are red.",
+      "source_text": "Connection line. Represents a connection between a source and a destination channel. When connected, the lines are grey. When being dragged, the lines are blue. When being dragged far enough to be released and connected, the lines are green. When about to being removed/overwritten, the lines are red."
+    },
+    {
+      "id": "80153330f546",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 21415,
+      "end": 21439,
+      "line": 287,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Destination input pins. ",
+      "source_text": "Destination input pins. "
+    },
+    {
+      "id": "bcf00d8e0171",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 21598,
+      "end": 21691,
+      "line": 287,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " click and drag from this pin to a source output pin to map these channels to each other. By ",
+      "source_text": " click and drag from this pin to a source output pin to map these channels to each other. By "
+    },
+    {
+      "id": "284bd0d13166",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 21850,
+      "end": 21918,
+      "line": 287,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " double clicking on this pin you can remove all connections from it.",
+      "source_text": " double clicking on this pin you can remove all connections from it."
+    },
+    {
+      "id": "8252c837bc12",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 21935,
+      "end": 22008,
+      "line": 288,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Destination channels labels. Shows the names of the destination channels.",
+      "source_text": "Destination channels labels. Shows the names of the destination channels."
+    },
+    {
+      "id": "5ff6bf84cd49",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 22191,
+      "end": 22207,
+      "line": 289,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Add Render Pass:",
+      "source_text": "Add Render Pass:"
+    },
+    {
+      "id": "95b8bf193f6e",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 22212,
+      "end": 22343,
+      "line": 289,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " Clicking this will open a dropdown menu where you can search for a render pass to add to the list of render passes to be exported.",
+      "source_text": " Clicking this will open a dropdown menu where you can search for a render pass to add to the list of render passes to be exported."
+    },
+    {
+      "id": "fbd6d07b754e",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 22613,
+      "end": 22617,
+      "line": 301,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "131e893744ec",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 22683,
+      "end": 22688,
+      "line": 303,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "e0a7a4a658b5",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23065,
+      "end": 23073,
+      "line": 311,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "8df59ada8569",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23156,
+      "end": 23169,
+      "line": 314,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "f91062b7cd44",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23355,
+      "end": 23415,
+      "line": 321,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "46a5f767ce3f",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23421,
+      "end": 23444,
+      "line": 323,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "6e5257006b03",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23482,
+      "end": 23488,
+      "line": 324,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "5676dd921ab2",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23492,
+      "end": 23497,
+      "line": 324,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "985bf0f5b7e9",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23547,
+      "end": 23557,
+      "line": 324,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "e0fa20d2185a",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23561,
+      "end": 23589,
+      "line": 324,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "ed9352961ab7",
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23633,
+      "end": 23637,
+      "line": 326,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

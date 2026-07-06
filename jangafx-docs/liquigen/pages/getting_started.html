@@ -1,0 +1,880 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../genindex.html" /><link rel="search" title="Search" href="../../search.html" /><link rel="next" title="References" href="references/index.html" /><link rel="prev" title="LiquiGen Documentation" href="../index.html" />
+
+    <link rel="shortcut icon" href="../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>Getting Started - JangaFX Documentation</title>
+      <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../index.html"><div class="brand">JangaFX Documentation</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../embergen/index.html">EmberGen Documentation</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../embergen/pages/getting_started.html">Getting Started</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../embergen/pages/references/index.html">References</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../embergen/pages/references/ui_reference.html">User Interface</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../embergen/pages/references/settings.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../embergen/pages/references/node_list.html">Node List</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/index.html">How-To Guides</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/camera_import.html">Camera Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/render_passes_mapping.html">Render Pass Mapping</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/color.html">Color</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/comment.html">Comment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/note.html">Note</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/import_animation.html">FBX, OBJ, ABC Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/histogram.html">Histogram</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/rangeSlider.html">Range Slider</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/animation.html">Keyframe Animation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/modulation_curve.html">Modulation Curve</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/modulating_parameters.html">Modulating Parameters</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/palettes.html">Palettes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/exportVDB.html">VDB Export</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/randomization.html">Randomization</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../embergen/pages/FAQ.html">FAQ</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current has-children"><a class="reference internal" href="../index.html">LiquiGen Documentation</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2 current current-page"><a class="current reference internal" href="#">Getting Started</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="references/index.html">References</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="references/ui_reference.html">User Interface</a></li>
+<li class="toctree-l3"><a class="reference internal" href="references/settings.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="references/node_list.html">Node List</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="references/How-To%20Guides/index.html">How-To Guides</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/diagnostics.html">Diagnostics</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/render_passes_mapping.html">Render Pass Mapping</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/color.html">Color</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/comment.html">Comment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/note.html">Note</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/import_animation.html">FBX, OBJ, ABC Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/camera_import.html">Camera Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/rangeSlider.html">Range Slider</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/animation.html">Keyframe Animation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/modulation_curve.html">Modulation Curve</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/modulating_parameters.html">Modulating Parameters</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/palettes.html">Palettes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/randomization.html">Randomization</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/expressions.html">Expressions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="FAQ.html">FAQ</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../illugen/index.html">IlluGen Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../geogen/index.html">GeoGen Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../licensing/index.html">Floating License Guide</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <section id="getting-started">
+<h1>Getting Started<a class="headerlink" href="#getting-started" title="Permalink to this heading">#</a></h1>
+<section id="installing-liquigen">
+<h2>Installing LiquiGen<a class="headerlink" href="#installing-liquigen" title="Permalink to this heading">#</a></h2>
+<section id="download">
+<h3>Download<a class="headerlink" href="#download" title="Permalink to this heading">#</a></h3>
+<p>If you have a license already go to <a class="reference external" href="https://jangafx.com/software/liquigen/download/">https://jangafx.com/software/liquigen/download/</a></p>
+<p>Specify your desired release on the left (latest by default) and click the blue download button on the right.</p>
+<p>To get your trial go to <a class="reference external" href="https://jangafx.com/software/liquigen/try">https://jangafx.com/software/liquigen/try</a></p>
+<a class="reference internal image-reference" href="../../_images/downloadForm2_LG.png"><img alt="downloadForm" class="align-right" src="../../_images/downloadForm2_LG.png" style="width: 265.05px; height: 326.25px;" /></a>
+<p>There you’ll be greeted by a form!</p>
+<p>Your e-mail address and the second checkbox (which allows us to store the information given in the form) are required.</p>
+<p>After filling out the form, pick your operating system at the bottom (Windows or Linux) and click the <em>Download LiquiGen</em> button.</p>
+<p>The <em>liquigen-latest.exe</em> file will be downloaded to your hard drive.</p>
+</section>
+<section id="installing">
+<h3>Installing<a class="headerlink" href="#installing" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Double click the <em>.exe</em> file.</p></li>
+<li><p>Accept the agreement.</p></li>
+<li><p>Click <em>Next</em>, <em>Next</em>, <em>Install</em>, <em>Finish</em></p></li>
+<li><p>If you left <em>Launch LiquiGen</em> checked, the software will boot right away!</p></li>
+<li><p>If you unchecked <em>Launch LiquiGen</em> you can launch the software by double-clicking on the desktop shortcut.</p></li>
+<li><p>If you also unchecked <em>Create a desktop shortcut</em> you can launch LiquiGen by double-clicking on the <em>LiquiGen.exe</em> file in the <em>LiquiGen</em> folder usually found in <em>C:/Program Files/JangaFX</em></p></li>
+</ul>
+</section>
+</section>
+<section id="licensing">
+<span id="licensingref"></span><h2>Licensing<a class="headerlink" href="#licensing" title="Permalink to this heading">#</a></h2>
+<a class="reference internal image-reference" href="../../_images/licenseManager_LG.png"><img alt="licenseManager" class="align-right" src="../../_images/licenseManager_LG.png" style="width: 500px;" /></a>
+<ul class="simple">
+<li><p>After installation is complete, run liquigen and in the <em>Help</em> menu, click <em>License Manager…</em> to launch it.</p></li>
+<li><p>Within this license manager, enter your license key in the ‘Key’ text box.</p></li>
+<li><p>Then press the <em>Activate Key</em> button. The status text will change from <em>Deactivated</em> to <em>Activated</em> if the license was activated successfully.</p></li>
+<li><p>If any errors occur they will appear in yellow on the right. If you cannot get your key to activate, email us at <a class="reference external" href="mailto:support&#37;&#52;&#48;jangafx&#46;com">support<span>&#64;</span>jangafx<span>&#46;</span>com</a> using the blue <em>Contact Support</em> button in the top right corner with a screenshot of the errors.</p></li>
+</ul>
+<p>If you don’t have a license key you can purchase one from our <a class="reference external" href="https://jangafx.com/software/pricing">pricing page on our website</a>. You can go there using the blue “Purchase A License” button!</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="225.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/hose_vs_hose_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    </section>
+<section id="using-liquigen">
+<h2>Using LiquiGen<a class="headerlink" href="#using-liquigen" title="Permalink to this heading">#</a></h2>
+<p>Welcome to liquigen!</p>
+<p>In this section, you will learn the basics of our software to get started making amazing liquid simulations for your games or movies.</p>
+<section id="project-manager">
+<span id="projectmanager"></span><h3>Project Manager<a class="headerlink" href="#project-manager" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../_images/projectManager_4.png"><img alt="projectManager" class="align-right" src="../../_images/projectManager_4.png" style="width: 450px;" /></a>
+<ul>
+<li><p>When you first open the software you’ll see the project manager. You can always get to or leave this screen using the home icon <a class="reference internal" href="../../_images/icon_home.svg"><img alt="home Icon" height="14" src="../../_images/icon_home.svg" width="14" /></a> in the top left corner.</p></li>
+<li><p>The Project Manager is where you can quickly get to presets or your project files by picking a category on the left.</p></li>
+<li><p>Presets are, <em>.liquigen</em>, read-only, project files shipped with liquigen.</p>
+<p>They can serve as a nice starting point for the simulations you want to create or as a reference to learn from.</p>
+<blockquote>
+<div><p>When not using a preset, make sure you start from the correct scale template to get to your desired results the best and easiest way!</p>
+</div></blockquote>
+<p>Presets are stored in the presets folders within the LiquiGen installation folder. (usually <em>C:/Program Files/JangaFX/liquigen</em>)</p>
+</li>
+<li><p>Note that there is no difference between a preset and any other <em>.liquigen</em> file.</p></li>
+<li><p>If you can’t find the project you are looking for, you can click the <em>Open Project</em> button to manually search for your <em>.liquigen</em> file using the file browser.</p></li>
+<li><p><em>New Project</em> will load the default preset. Like any preset everything about this can be altered so don’t worry if it doesn’t look like what you are aiming for.</p></li>
+<li><p>You can save your presets with <cite>Ctrl+S</cite> or by going to <em>File &gt; Save</em></p></li>
+</ul>
+</section>
+<section id="user-interface">
+<h3>User Interface<a class="headerlink" href="#user-interface" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Let’s have a look at the main user interface!</p></li>
+<li><p>As you can see it is subdivided into four sections, the viewport, the timeline editor, the node editor and the properties panel.</p></li>
+<li><p>All of these can be scaled to your liking, by holding down <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> and dragging the edges of the section, or viewed full screen by clicking the <em>Toggle panel fullscreen button</em> <a class="reference internal" href="../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../_images/full_screen.svg" width="12" /></a> in the top right corner of each section.</p></li>
+</ul>
+</section>
+<section id="viewport">
+<h3>Viewport<a class="headerlink" href="#viewport" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../_images/viewport1.png"><img alt="viewport" class="align-right" src="../../_images/viewport1.png" style="width: 400px;" /></a>
+<p>This is where you can view your simulations, shapes, forces or anything that’s in the scene.</p>
+<p>You can move the camera around by holding down <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> in the viewport and pressing <cite>Alt</cite> to pan, <cite>Ctrl</cite> to zoom and <cite>Shift</cite> to tilt.</p>
+<p>If you are used to another control scheme, in the top menu bar go to <em>Settings&gt;Preferences</em> then in the <em>Camera</em> section you can change the <em>Control Mapping</em> to your liking.</p>
+<p>On the top of the viewport, you will find a couple of tabs and dropdown menus:</p>
+<ul>
+<li><p><strong>Scene</strong> is the default tab where you can view and manipulate everything.</p></li>
+<li><p><strong>Render</strong> is the tab where you can preview what will be exported.</p></li>
+<li><p><strong>Export</strong> is the tab where the exported images can be viewed.</p></li>
+<li><p>Right next to the <em>Export</em> tab is a dropdown menu to select the <a class="reference internal" href="../../_images/icon_camera.svg"><img alt="camera icon" height="12" src="../../_images/icon_camera.svg" width="12" /></a> camera you want to look through.</p></li>
+<li><p>The <a class="reference internal" href="../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../_images/icon_viewport.svg" width="12" /></a> <strong>View</strong> dropdown menu will give you a list of things to show or hide in the viewport.</p>
+<p>If you are missing or annoyed by something in the viewport this is the first place to look!</p>
+</li>
+</ul>
+</section>
+<section id="timeline-editor">
+<h3>Timeline Editor<a class="headerlink" href="#timeline-editor" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../_images/timelineEditor2.png"><img alt="timeline editor getting started" class="align-right" src="../../_images/timelineEditor2.png" style="width: 500px;" /></a>
+<p>This is where time is visualized from left to right.</p>
+<ul class="simple">
+<li><p>You can <strong>play</strong> or <strong>pause</strong> the simulation using <a class="reference internal" href="../../_images/icon_play.svg"><img alt="play Icon" height="8" src="../../_images/icon_play.svg" width="8" /></a> or <strong>spacebar</strong></p></li>
+<li><p>You can <strong>reset</strong> the simulation (revert to the beginning of the timeline) using <a class="reference internal" href="../../_images/icon_reset_sim.svg"><img alt="reset Icon" height="11" src="../../_images/icon_reset_sim.svg" width="11" /></a> or <strong>r</strong></p></li>
+</ul>
+<p>If you forget a shortcut you can hover your mouse over a button to see its shortcut key.
+Or go to the <strong>Shortcuts</strong> section in <em>Settings&gt;Preferences</em>.</p>
+<p>When playing from the start you can see a blue line moving. This indicates what the current time on the timeline is.</p>
+<p>The numbers next to the buttons show the current time in frames and seconds.
+When clicking on the left one of these, the timeline will toggle from showing frames or showing seconds.</p>
+<p>Note that a simulation always calculates from one frame to the next. This means you can’t play it backward or scrub through it.</p>
+</section>
+<section id="node-graph">
+<h3>Node Graph<a class="headerlink" href="#node-graph" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../_images/nodeGraph1.png"><img alt="nodegraph" class="align-right" src="../../_images/nodeGraph1.png" style="width: 500px;" /></a>
+<p>This is where the building blocks to create the simulation are managed.</p>
+<p>The separate modules you see are called nodes. You can think of these as little machines with their own unique tasks. The machines combined are the factory that produces the end product.</p>
+<p>The nodes are connected with wires passing data from one node to another.</p>
+<p>To navigate around the Node Graph hold the <a class="reference internal" href="../../_images/middle.svg"><img alt="middle mouse button" height="18" src="../../_images/middle.svg" width="18" /></a> button and drag. You can use the scroll wheel to zoom in and out.</p>
+<p>If you get lost you can use the <a class="reference internal" href="../../_images/fit_to_view.svg"><img alt="fit To View Icon" height="12" src="../../_images/fit_to_view.svg" width="12" /></a> button in the top right corner to recenter the nodes and the <a class="reference internal" href="../../_images/100percent_view.svg"><img alt="zoom Default Icon" height="12" src="../../_images/100percent_view.svg" width="12" /></a> button to reset the zoom.</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="405.53235908141966" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/nodeGraph_LG2.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><p>Select a node with <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a></p></li>
+<li><p>Box select a node by holding the <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> and dragging a box around the nodes.</p></li>
+<li><p>Delete a node by selecting it and then pressing the <cite>Delete</cite> key.</p></li>
+<li><p>Copy and paste nodes with <cite>Ctrl + C</cite> and <cite>Ctrl + V</cite>.</p></li>
+<li><p>Move nodes by holding the <cite>Left Mouse Button</cite> and dragging.</p></li>
+<li><p>Disable a node using the on/off button <a class="reference internal" href="../../_images/node_toggle.svg"><img alt="node toggle icon" height="14" src="../../_images/node_toggle.svg" width="14" /></a> in the top right corner of the node.</p></li>
+<li><p>Connect nodes by <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> clicking and dragging from the connection pins on the sides of the nodes. Or by selecting multiple nodes and pressing <cite>Ctrl + L</cite></p></li>
+<li><p>The connection pins always state the node or node category it needs to be connected to.</p></li>
+<li><p>Create a node by right-clicking in the node graph and selecting a node from the menu. Or by dragging from a connection pin to somewhere in the node graph. This way you’ll get a menu with all the nodes available for that type of connection.</p></li>
+</ul>
+</section>
+<section id="properties-panel">
+<h3>Properties Panel<a class="headerlink" href="#properties-panel" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../_images/propertiesPanel_2.png"><img alt="properties panel" class="align-right" src="../../_images/propertiesPanel_2.png" style="width: 400px;" /></a>
+<p>This is where the settings are for the selected node. (Or multiple nodes when selecting nodes of the same type.)</p>
+<ul class="simple">
+<li><p><strong>Node Details:</strong> This tab shows all the parameters for the selected node.</p></li>
+<li><p>Every node has its own array of tabs organizing the parameters.</p></li>
+<li><p>When looking for a specific parameter, you can easily find it using the Parameter Palette which opens by pressing <cite>Ctrl + P</cite></p></li>
+<li><p>You can change a parameter by either using <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> on the value, typing in a new value, and pressing <cite>Enter</cite> or clicking and dragging the value slider.</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="70.87378640776699" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/propertiesPanel_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><p>You can also apply math within these text boxes. For example, typing 4*7/2+6-2 and pressing <cite>Enter</cite> will put a value of 18 in the parameter. This can be helpful for quickly multiplying a value or reducing it by half for example.</p></li>
+<li><p>Some parameters aren’t values but dropdown menus which can be opened by clicking on them with the <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a>. Then you can pick an option from the menu.</p></li>
+<li><p>There are also check boxes that can be simply clicked on or off.</p></li>
+<li><p>Try leaving your cursor on a parameter name. This will show a text box with information on what the parameter does!</p></li>
+<li><p>The revert icon <a class="reference internal" href="../../_images/icon_reset.svg"><img alt="favorite" height="12" src="../../_images/icon_reset.svg" width="13" /></a> on the right side of the parameters will reset the parameter to its default value.</p></li>
+<li><p><strong>Favorites:</strong> This tab shows all the parameters that are marked as favorites. You can do this with any parameter from the Node Details tab by checking the star icon <a class="reference internal" href="../../_images/favorite.svg"><img alt="favorite" height="16" src="../../_images/favorite.svg" width="16" /></a> right next to it.</p></li>
+<li><p><strong>Timeline:</strong> This tab shows all the parameters with keyframing enabled. To learn about keyframes check out our <a class="reference internal" href="references/specific/animation.html#animation"><span class="std std-ref">Keyframe Animation</span></a> page.</p></li>
+<li><p><strong>Randomized:</strong> In this tab you can see and adjust the parameters selected for randomization. This can be used to create variations of your simulation. To choose a parameter for randomization <cite>Shift</cite> + <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> click on the <a class="reference internal" href="../../_images/cycler_none.svg"><img alt="cycler none icon" height="14" src="../../_images/cycler_none.svg" width="14" /></a> icon on the left. Randomized parameters are marked with the <a class="reference internal" href="../../_images/random_LG.svg"><img alt="cycler random icon" height="14" src="../../_images/random_LG.svg" width="14" /></a> icon.  For more information check out our <a class="reference internal" href="../../embergen/pages/references/How-To%20Guides/randomization.html#randomization"><span class="std std-ref">Randomization</span></a> section!</p></li>
+</ul>
+<span class="target" id="voxelsref"></span></section>
+<section id="simulation">
+<h3>Simulation<a class="headerlink" href="#simulation" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="570.7516339869281" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/particles_mesh_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <div class="line-block">
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><p>The first thing to note when simulating is that you want to work in a realistic scale. You can see the scale of things by looking at the  measurements indicated on the groundplane. Make sure you’re not simulating a 10cm long whale or a 100m tall bucket if you want things to look right. To get a good starting point, you can pick a scale template in the <a class="reference internal" href="#projectmanager"><span class="std std-ref">Project Manager</span></a>!</p>
+</div></blockquote>
+<p>In LiquiGen, liquids are simulated using a “hybrid solver, “ meaning particles and voxels are used to simulate the results.</p>
+<p>Particles are points in 3D space and voxels are like three-dimensional pixels dividing 3D space into a grid.</p>
+<p>The liquid is made up of particles that go through a process called “meshing” to produce the liquid mesh which is then rendered using a liquid shader to appear like (by default) water.</p>
+<p>In the <a class="reference internal" href="../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node, the liquid appearance is specified by tweaking the meshing in the <em>Mesh</em> tab, and the shader settings in the <em>Liquid Appearance</em> tab.</p>
+<p>To see the particles instead of the liquid mesh open the <em>Diagnostics</em> panel by clicking the <a class="reference internal" href="../../_images/diagnostics.svg"><img alt="diagnostics icon" height="13" src="../../_images/diagnostics.svg" width="13" /></a> icon in the top right corner of the viewport and uncheck <a class="reference internal" href="../../_images/liquid_mesh.svg"><img alt="liquid mesh icon" height="12" src="../../_images/liquid_mesh.svg" width="12" /></a> <em>Liquid Mesh</em> and check <a class="reference internal" href="../../_images/liquid_particles.svg"><img alt="liquid particles icon" height="12" src="../../_images/liquid_particles.svg" width="12" /></a> <em>Liquid Particles</em>.</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="320.50925925925924" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/waterTrack.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>The particles define the liquid, if the particles move the liquid moves. The voxels the particles move through calculate and store the velocities, pressure, divergence, and force fields informing the particles where to move. The particles are like chess pieces that can be anywhere on the board but get specific directions within specific checkers.</p>
+<p>LiquiGen is a sparse solver. The amount of voxels is not fixed. Voxels and particles will be created and destroyed based on where the liquid is. This means the solver doesn’t waste computing resources in regions with no liquid to simulate. When it comes to memory, however, the solver needs to know how many particles and voxels it can use at a maximum which is defined in the <a class="reference internal" href="../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node in the <em>Resources</em> tab.</p>
+<p>The voxel size, found in the <a class="reference internal" href="../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node in the <em>Simulation</em> tab, determines the size of the smallest possible detail in your simulation and therefore directly affects the realism and level of detail in the simulation. It also directly affects the simulation speed as more voxels and particles take longer to compute.</p>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="700" height="233.33333333333331" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/voxelSize_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    </section>
+<section id="transforming">
+<h3>Transforming<a class="headerlink" href="#transforming" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="335.2490421455939" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/transforming_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>Most object/nodes can be moved around in the scene using the position, rotation, or scale parameters or using the manipulators.</p>
+<p>A manipulator will pop up in the viewport when selecting a moveable node.</p>
+<p>There are three manipulators, translate, rotate and scale.</p>
+<p>They can be selected with the hotkeys <em>Q, W, and E</em> or with the manipulator switcher in the top left corner of the viewport. (if you don’t see the manipulator switcher, make sure it’s checked in the <a class="reference internal" href="../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../_images/icon_viewport.svg" width="12" /></a> View dropdown menu.)</p>
+<p>To control the manipulator handles, hold <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> and drag.</p>
+</section>
+<section id="nodes">
+<h3>Nodes<a class="headerlink" href="#nodes" title="Permalink to this heading">#</a></h3>
+<p>Let’s have a look at what the most important nodes are doing.</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="525.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/shapeUsages.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <section id="boxicon-shapes">
+<h4><a class="reference internal" href="../../_images/cube.svg"><img alt="box Icon" height="22" src="../../_images/cube.svg" width="22" /></a> Shapes<a class="headerlink" href="#boxicon-shapes" title="Permalink to this heading">#</a></h4>
+<p>Shapes can be plugged into different types of nodes and serve all sorts of different purposes, being the emission source, a collision object, a drainage object, or a mask for a force field.</p>
+<p>The <a class="reference internal" href="../../_images/cube.svg"><img alt="box Icon" height="22" src="../../_images/cube.svg" width="22" /></a> <em>Shape: Primitive</em>  node has a lot of options for basic shapes in the <em>Type</em> dropdown menu.</p>
+<p>If you want to use a custom 3D model as a shape, you can use the <a class="reference internal" href="../../_images/import.svg"><img alt="import node icon" height="18" src="../../_images/import.svg" width="18" /></a> <em>Import</em> node.</p>
+</section>
+<section id="emitterlg-icon-emitter">
+<h4><a class="reference internal" href="../../_images/emitter.svg"><img alt="emitter icon" height="18" src="../../_images/emitter.svg" width="19" /></a> Emitter<a class="headerlink" href="#emitterlg-icon-emitter" title="Permalink to this heading">#</a></h4>
+<p>The <em>Emitter</em> node is where the liquid particles are generated.</p>
+<p>The amount of particles is multiplied by a couple of factors:</p>
+<ul class="simple">
+<li><p><strong>The shape plugged into the emitter:</strong> This defines where the particles can spawn. Bigger shapes emit more liquid particles.</p></li>
+<li><p><strong>The emitter settings:</strong> For example, try adjusting the <em>Volume flow rate parameter</em> in the <em>Behavior</em> tab. Higher values give a stronger flow of liquid as it generates more particles.</p></li>
+<li><p><strong>The voxel size:</strong> The particle density is derived from the voxel size. A smaller voxel size will result in more voxels fitting into the emission shape and more particles.</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../_images/shapesInNodegraph.png"><img alt="shapes in nodegraph" class="align-right" src="../../_images/shapesInNodegraph.png" style="width: 500px;" /></a>
+</section>
+<section id="colliderlg-icon-collider">
+<h4><a class="reference internal" href="../../_images/collider1.svg"><img alt="collider icon" height="18" src="../../_images/collider1.svg" width="19" /></a> Collider<a class="headerlink" href="#colliderlg-icon-collider" title="Permalink to this heading">#</a></h4>
+<p>This will make the liquid collide with the shape that’s plugged into the node.</p>
+<p>For example, if you want water to pour over a sphere, the <a class="reference internal" href="../../_images/sphere.svg"><img alt="sphere Icon" height="22" src="../../_images/sphere.svg" width="22" /></a> sphere shape needs to be connected to a <em>Collider</em> node which needs to be connected to the <a class="reference internal" href="../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node.</p>
+</section>
+<section id="forceslg-icon-force">
+<h4><a class="reference internal" href="../../_images/forces_group.svg"><img alt="forces icon" height="18" src="../../_images/forces_group.svg" width="19" /></a> Force<a class="headerlink" href="#forceslg-icon-force" title="Permalink to this heading">#</a></h4>
+<p>This is a category of nodes that will alter the movement of liquid. For example, a <a class="reference internal" href="../../_images/turbulence.svg"><img alt="constant force icon" height="18" src="../../_images/turbulence.svg" width="19" /></a> <em>Force: Turbulence</em> node will add a lot of random velocities to the simulation to make the liquid look more turbulent.</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="227.2" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/turbulenceShowcase_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>Force nodes need to be plugged into the <a class="reference internal" href="../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node to affect the simulation.</p>
+<p>If you want a force to only be applied in a certain area, you can mask its effect by connecting a shape to the <em>Mask Shapes</em> input pin on the left of the force node.</p>
+<p>The default preset uses a <a class="reference internal" href="../../_images/constant1.svg"><img alt="constant force icon" height="18" src="../../_images/constant1.svg" width="19" /></a> <em>Force: Constant</em> node as the gravity force pulling the liquid down. Try changing its parameters or turning it off to see its effect!</p>
+</section>
+<section id="drainicon-drain">
+<h4><a class="reference internal" href="../../_images/drain.svg"><img alt="drain" height="18" src="../../_images/drain.svg" width="19" /></a> Drain<a class="headerlink" href="#drainicon-drain" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="200.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/drain.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>This node will remove all liquid particles within the shape plugged into the node.</p>
+<p>This can be useful for saving resources by removing unnecessary liquid particles, such as particles that are not visible to the 3D camera you intend to use.</p>
+<p>Another use case is, of course, a drain!</p>
+</section>
+<section id="simulationicon-simulation">
+<h4><a class="reference internal" href="../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../_images/simulation.svg" width="22" /></a> Simulation<a class="headerlink" href="#simulationicon-simulation" title="Permalink to this heading">#</a></h4>
+<p>This is where most global settings are found.
+For example, you can change the physical properties of the liquid in the <em>Simulation</em> tab and the shading in the <em>Liquid Appearance</em> tab to simulate other liquids like honey, slime, or milk.</p>
+<p>There can only be one simulation node.</p>
+<p>Multiple Emitters, Forces, Drains, and Colliders can be connected to the pins on the left side of the node.</p>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="700" height="311.1111111111111" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/simulationOptions_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    </section>
+<section id="lightsicon-light">
+<h4><a class="reference internal" href="../../_images/lights.svg"><img alt="lights icon" height="18" src="../../_images/lights.svg" width="18" /></a> Light<a class="headerlink" href="#lightsicon-light" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="250" height="255.75447570332483" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/lights_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>A category of nodes that, as the name suggests, light up the scene.</p>
+<p>Try adjusting the intensity parameters to see what they do!</p>
+<p>Light nodes need to be connected to the <em>Lights</em> input pin on the <a class="reference internal" href="../../_images/scene.svg"><img alt="scene icon" height="18" src="../../_images/scene.svg" width="18" /></a> <em>Scene</em> node.</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="../../_images/point.svg"><img alt="point light icon" height="18" src="../../_images/point.svg" width="18" /></a> <strong>Point</strong> is like a light bulb and will emit light from one adjustable point in space.</p></li>
+<li><p><a class="reference internal" href="../../_images/directional.svg"><img alt="directional light icon" height="22" src="../../_images/directional.svg" width="22" /></a> <strong>Directional</strong> Emits parallel light rays from one angle (like the sun). If you want to use this light as a sun light, you should plug it into the <em>Sun</em> input pin on the <a class="reference internal" href="../../_images/sky.svg"><img alt="sky icon" height="22" src="../../_images/sky.svg" width="22" /></a> <em>Skybox</em> node.</p></li>
+<li><p><a class="reference internal" href="../../_images/light_area.svg"><img alt="ambient light icon" height="18" src="../../_images/light_area.svg" width="19" /></a> <strong>Area</strong> is like a light panel emitting light from an adjustable plane in space.</p></li>
+</ul>
+</section>
+<section id="skyicon-skybox">
+<h4><a class="reference internal" href="../../_images/sky.svg"><img alt="sky icon" height="22" src="../../_images/sky.svg" width="22" /></a> Skybox<a class="headerlink" href="#skyicon-skybox" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="250" height="221.078431372549" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/skybox_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>This controls the type of sky in your scene. There are a few options here:</p>
+<ul class="simple">
+<li><p><strong>None</strong> will turn the sky off resulting in a black background.</p></li>
+<li><p><strong>Atmosphere</strong> is the most advanced one mimicking a real sky. The angle of the connected sun (directional) light will affect the sky colors.</p></li>
+<li><p><strong>HDRI</strong> will let you import an HDRI map to light your scene.</p></li>
+</ul>
+</section>
+<section id="groundicon-ground">
+<h4><a class="reference internal" href="../../_images/ground.svg"><img alt="ground icon" height="22" src="../../_images/ground.svg" width="22" /></a> Ground<a class="headerlink" href="#groundicon-ground" title="Permalink to this heading">#</a></h4>
+<p>This is where all the settings are related to the ground plane you see in the scene.</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="171.17647058823528" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/Ground_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>By default, it’s set to <em>Units</em> so you can see what type of scale you are working on.</p>
+<p>Note that the liquid always collides with the ground, even when the node is turned off!</p>
+</section>
+<section id="sceneicon-scene">
+<h4><a class="reference internal" href="../../_images/scene.svg"><img alt="scene icon" height="18" src="../../_images/scene.svg" width="18" /></a> Scene<a class="headerlink" href="#sceneicon-scene" title="Permalink to this heading">#</a></h4>
+<p>This node serves as the hub to which all the elements of the 3D scene are connected.</p>
+</section>
+<section id="rendericon-render">
+<h4><a class="reference internal" href="../../_images/renderer.svg"><img alt="render icon" height="18" src="../../_images/renderer.svg" width="18" /></a> Render<a class="headerlink" href="#rendericon-render" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="300.42075736325387" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/renderMethod_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>Rendering is when the 3D elements in your scene are turned into an image on your screen.</p>
+<p>The settings for this process are found in this node.</p>
+<p>Liquigen has two rendering modes, the Rasterizer and the Path Tracer:</p>
+<ul class="simple">
+<li><p><strong>Rasterizer:</strong> A real-time rendering method with simplified graphics. This one is used by default.</p></li>
+<li><p><strong>Path Tracer:</strong> A more physically based rendering method that simulates the light rays giving a more realistic result. This method takes longer to render and is usually only enabled once you’re happy with the simulation and want to export realistic images out of LiquiGen.</p></li>
+</ul>
+<p>The Path Tracer can be turned on and off by selecting <em>Path Tracing</em> in the <a class="reference internal" href="../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../_images/icon_viewport.svg" width="12" /></a> <em>View</em> dropdown menu in the Viewport. Or by pressing <cite>Ctrl + T</cite></p>
+<p>Turning the Path Tracer off means turning the Rasterizer on.</p>
+</section>
+<section id="exportimagelg-icon-export-image">
+<h4><a class="reference internal" href="../../_images/export_img.svg"><img alt="export image icon" height="18" src="../../_images/export_img.svg" width="19" /></a> Export: Image<a class="headerlink" href="#exportimagelg-icon-export-image" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="300.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/renderpasses_LG_2.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>This node lets you export your scene to image files and holds all the related export settings for that like what part of the simulation to export, what renderpasses to export, which rendering mode to use, and how to render shapes.</p>
+<p>You can export your scene to a <em>Flipbook</em> or a <em>Sequence</em>:</p>
+<ul class="simple">
+<li><p><em>Flipbook</em> is a format used in games to get all frames into one image texture which is more performant.</p></li>
+<li><p><em>Sequence</em> allows you to export a sequence of image files, which is useful for VFX or for creating a video.</p></li>
+</ul>
+<p>To export, you need to specify where you want the image files to be stored on your computer using the <em>Directory</em> parameter in the <em>Export</em> tab then click the blue <em>Export Now</em> button.</p>
+<p>You can create multiple export nodes and do multiple exports at once by selecting them and selecting <em>Export Selected</em> from the right-click menu in the Node Graph.</p>
+</section>
+<section id="cameraicon-camera">
+<h4><a class="reference internal" href="../../_images/camera.svg"><img alt="camera icon" height="18" src="../../_images/camera.svg" width="18" /></a> Camera<a class="headerlink" href="#cameraicon-camera" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="300.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/field_of_view_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>This is what you’re looking through when rendering the scene.</p>
+<p>You can use a camera by selecting it in the <a class="reference internal" href="../../_images/icon_camera.svg"><img alt="camera icon" height="12" src="../../_images/icon_camera.svg" width="12" /></a> camera dropdown menu on top of the viewport. Or by selecting the <em>Camera</em> node and clicking the <em>Activate</em> button in the <em>General</em> tab.</p>
+<p>In the <em>Transform</em> tab, you can specify the position and rotation of the camera. But you can also do this by navigating around the viewport when looking through your camera.</p>
+<p>When you are happy with the camera position you can <strong>lock</strong> the camera in the <em>General</em> tab so you can’t accidentally move it.</p>
+<p>The <em>Display Resolution</em> parameter in the <em>Display</em> tab specifies the aspect ratio of the camera. You can visually see this in the viewport. Don’t forget to set this to the same aspect ratio as the <a class="reference internal" href="../../_images/export_img.svg"><img alt="export image icon" height="18" src="../../_images/export_img.svg" width="19" /></a> <em>Export: Image</em> node to get correct results.</p>
+<p>The <em>Field Of View</em> parameter in the <em>Display</em> tab will specify the angle at which objects are visible to the camera. Adjusting this is like zooming with a telelens.</p>
+<blockquote>
+<div><p>The camera  selected in the <em>Camera</em> tab in the <a class="reference internal" href="../../_images/export_img.svg"><img alt="export image icon" height="18" src="../../_images/export_img.svg" width="19" /></a> <em>Export: Image</em> node deternines the viewed angle for the export.</p>
+</div></blockquote>
+</section>
+<section id="exportmeshicon-export-mesh">
+<h4><a class="reference internal" href="../../_images/export_mesh.svg"><img alt="export VDB icon" height="18" src="../../_images/export_mesh.svg" width="20" /></a> Export: Mesh<a class="headerlink" href="#exportmeshicon-export-mesh" title="Permalink to this heading">#</a></h4>
+<p>With this node, you can export your liquid mesh as a 3D file format for use in other software like Maya or Blender.</p>
+<blockquote>
+<div><p>The <a class="reference internal" href="../../_images/export_mesh.svg"><img alt="export VDB icon" height="18" src="../../_images/export_mesh.svg" width="20" /></a> Export: Mesh node needs to be connected to the Mesh pin of the <a class="reference internal" href="../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../_images/simulation.svg" width="22" /></a> Simulation node.</p>
+</div></blockquote>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     >
+        <video class="lazy" preload="none" width="400" height="284.2105263157895" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/exportMesh_LG_2.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    </section>
+</section>
+<section id="continuing">
+<h3>Continuing<a class="headerlink" href="#continuing" title="Permalink to this heading">#</a></h3>
+<p>You should now have a basic overview of how to use LiquiGen.</p>
+<p>If you want more specific information on <a class="reference internal" href="references/node_list.html#nodelist"><span class="std std-ref">nodes</span></a>, <span class="xref std std-ref">user interface</span>, <a class="reference internal" href="../../embergen/pages/references/settings.html#settings"><span class="std std-ref">settings</span></a>,  or how to do particular things please check out our <a class="reference internal" href="references/index.html#references"><span class="std std-ref">References</span></a> page.</p>
+<a class="reference internal image-reference" href="../../_images/LearnSection_LG.png"><img alt="learnsection" class="align-right" src="../../_images/LearnSection_LG.png" style="width: 300px;" /></a>
+<p>If you’re new the <em>Learn</em> tab in the Project Manager and our <a class="reference external" href="https://www.youtube.com/&#64;jangafx">YouTube channel</a> are good places to visit.</p>
+<p>You can also learn a lot by opening the presets shipped with LiquiGen and having a look at how they were set up.</p>
+<p>Another great way of learning is to just try everything out! Since LiquiGen simulates so fast it’s often easy to see what a certain parameter does by just changing its value.</p>
+<p>Don’t forget you can leave your cursor on any parameter name to get an explanation of what it does.</p>
+<p>If you want to showcase something or ask for help, don’t hesitate to join our <a class="reference external" href="https://discord.com/invite/TNPjT2C">discord server</a></p>
+<p>Good luck learning LiquiGen,</p>
+<p>we can’t wait to see your splashingly epic results!</p>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="800" height="416.6666666666667" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/diver.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    </section>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="references/index.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">References</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="../index.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">LiquiGen Documentation</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                Copyright &#169; 2026, JangaFX
+            </div>
+            Made with <a href="https://www.sphinx-doc.org/">Sphinx</a> and <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Getting Started</a><ul>
+<li><a class="reference internal" href="#installing-liquigen">Installing LiquiGen</a><ul>
+<li><a class="reference internal" href="#download">Download</a></li>
+<li><a class="reference internal" href="#installing">Installing</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#licensing">Licensing</a></li>
+<li><a class="reference internal" href="#using-liquigen">Using LiquiGen</a><ul>
+<li><a class="reference internal" href="#project-manager">Project Manager</a></li>
+<li><a class="reference internal" href="#user-interface">User Interface</a></li>
+<li><a class="reference internal" href="#viewport">Viewport</a></li>
+<li><a class="reference internal" href="#timeline-editor">Timeline Editor</a></li>
+<li><a class="reference internal" href="#node-graph">Node Graph</a></li>
+<li><a class="reference internal" href="#properties-panel">Properties Panel</a></li>
+<li><a class="reference internal" href="#simulation">Simulation</a></li>
+<li><a class="reference internal" href="#transforming">Transforming</a></li>
+<li><a class="reference internal" href="#nodes">Nodes</a><ul>
+<li><a class="reference internal" href="#boxicon-shapes"> Shapes</a></li>
+<li><a class="reference internal" href="#emitterlg-icon-emitter"> Emitter</a></li>
+<li><a class="reference internal" href="#colliderlg-icon-collider"> Collider</a></li>
+<li><a class="reference internal" href="#forceslg-icon-force"> Force</a></li>
+<li><a class="reference internal" href="#drainicon-drain"> Drain</a></li>
+<li><a class="reference internal" href="#simulationicon-simulation"> Simulation</a></li>
+<li><a class="reference internal" href="#lightsicon-light"> Light</a></li>
+<li><a class="reference internal" href="#skyicon-skybox"> Skybox</a></li>
+<li><a class="reference internal" href="#groundicon-ground"> Ground</a></li>
+<li><a class="reference internal" href="#sceneicon-scene"> Scene</a></li>
+<li><a class="reference internal" href="#rendericon-render"> Render</a></li>
+<li><a class="reference internal" href="#exportimagelg-icon-export-image"> Export: Image</a></li>
+<li><a class="reference internal" href="#cameraicon-camera"> Camera</a></li>
+<li><a class="reference internal" href="#exportmeshicon-export-mesh"> Export: Mesh</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#continuing">Continuing</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/sphinx_highlight.js"></script>
+    <script src="../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../_static/js/ga.js"></script>
+    <script src="../../_static/js/yall.min.js"></script>
+    <script src="../../_static/js/loadLibraries.js"></script>
+    <script src="../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

@@ -1,0 +1,2466 @@
+{
+  "path": "liquigen/pages/references/specific/color.html",
+  "segment_count": 246,
+  "segments": [
+    {
+      "id": "dd8599273af7",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 565,
+      "end": 594,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Color - JangaFX Documentation",
+      "source_text": "Color - JangaFX Documentation"
+    },
+    {
+      "id": "e2d3f6428e41",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 5184,
+      "end": 5207,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "50593a09f11f",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 5302,
+      "end": 5332,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "1dea43c22f28",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 5528,
+      "end": 5558,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "69fc1688554f",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 5749,
+      "end": 5770,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "4f17c2d477fc",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 5963,
+      "end": 6001,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "3f0abdb034ff",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 6384,
+      "end": 6416,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "890c9b3b82b0",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 7448,
+      "end": 7470,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "c027c2d8d15d",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 7648,
+      "end": 7680,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "593ea8f89006",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 7873,
+      "end": 7888,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "e6720f3315c9",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 8020,
+      "end": 8030,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "919715b61f21",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 8208,
+      "end": 8240,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "3ea747452023",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 8441,
+      "end": 8455,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "60842ae90cfb",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 8577,
+      "end": 8585,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "a9cb964767d0",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 8708,
+      "end": 8717,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "eaab01280d27",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 8865,
+      "end": 8878,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "af713f857964",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 9056,
+      "end": 9088,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "53a5480d6681",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 9306,
+      "end": 9319,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "4b7e3afca02c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 9470,
+      "end": 9489,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "d13e654349fb",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 9624,
+      "end": 9629,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "78d6ae298748",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 9766,
+      "end": 9773,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "f7cf5c8256af",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 9907,
+      "end": 9911,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "2e18e2b6f207",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 10057,
+      "end": 10077,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "efa6a0e35dd9",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 10216,
+      "end": 10225,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "d378bb6c7c6c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 10366,
+      "end": 10378,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "19e4c92a4176",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 10517,
+      "end": 10535,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "9b810642892e",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 10681,
+      "end": 10697,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "107eca9160e1",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 10848,
+      "end": 10869,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "af69d159180a",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 11007,
+      "end": 11015,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "2ec9fc2faaef",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 11154,
+      "end": 11164,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "b26798fa87a9",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 11307,
+      "end": 11320,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "3a2fff1cb9d5",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 11450,
+      "end": 11453,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "6dc5d6714688",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 11568,
+      "end": 11590,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "7b22c52b3226",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 11768,
+      "end": 11800,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "eaede8ca9df7",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 11972,
+      "end": 11987,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "2b8aaed31c90",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 12084,
+      "end": 12094,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "a6fbc4710e92",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 12272,
+      "end": 12304,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "48fd6f23d96e",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 12470,
+      "end": 12484,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "086f8e6632fd",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 12571,
+      "end": 12579,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "0974ca5b3393",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 12667,
+      "end": 12676,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "7ee83786b43f",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 12789,
+      "end": 12802,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "bdb9ef117ec8",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 12980,
+      "end": 13012,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "8f681803ada5",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 13193,
+      "end": 13204,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "c4cc3c7291d3",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 13320,
+      "end": 13339,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "bae28a40688c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 13439,
+      "end": 13444,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "79d7031143cb",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 13546,
+      "end": 13553,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "2f21a1eda3df",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 13652,
+      "end": 13656,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "18b89d486d02",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 13767,
+      "end": 13787,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "e697df16e048",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 13895,
+      "end": 13908,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "ccd2dd7c64f0",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 14014,
+      "end": 14026,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "6bd3ea913ac6",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 14130,
+      "end": 14148,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "13d9d6f3fc58",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 14259,
+      "end": 14275,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "376742378811",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 14391,
+      "end": 14412,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "dd806648ed4f",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 14515,
+      "end": 14523,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "e6dca86b31f9",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 14631,
+      "end": 14644,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "9e200f695d15",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 14750,
+      "end": 14761,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "b9561dbf4efe",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 14870,
+      "end": 14873,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "c5589bf1e11d",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 14986,
+      "end": 15007,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "059b25cf861d",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 15107,
+      "end": 15127,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "ab78b9583e73",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 15230,
+      "end": 15252,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "d7fbb5c0f704",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 15665,
+      "end": 15676,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "fde902d0fe16",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 15896,
+      "end": 15934,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "52bbbf3fe41a",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 16346,
+      "end": 16378,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "6941a21f1074",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 16582,
+      "end": 16587,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "8371dc41d8d3",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 16671,
+      "end": 16724,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Color is a category of nodes outputting color values.",
+      "source_text": "Color is a category of nodes outputting color values."
+    },
+    {
+      "id": "b652cd1e7d41",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 16941,
+      "end": 16953,
+      "line": 259,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": " Color Nodes",
+      "source_text": " Color Nodes"
+    },
+    {
+      "id": "4350aaf62cdf",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 17260,
+      "end": 17276,
+      "line": 261,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Color: Constant",
+      "source_text": " Color: Constant"
+    },
+    {
+      "id": "3099144217bc",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 17379,
+      "end": 17408,
+      "line": 262,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Outputs a single color value.",
+      "source_text": "Outputs a single color value."
+    },
+    {
+      "id": "65f8db40bdfc",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 17416,
+      "end": 17424,
+      "line": 263,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "You can ",
+      "source_text": "You can "
+    },
+    {
+      "id": "06ca48e3f825",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 17583,
+      "end": 17637,
+      "line": 263,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " click on the colored square to open the Color Picker.",
+      "source_text": " click on the colored square to open the Color Picker."
+    },
+    {
+      "id": "9c1e21a651c1",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 17674,
+      "end": 17686,
+      "line": 265,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": "Color Picker",
+      "source_text": "Color Picker"
+    },
+    {
+      "id": "91591b0a0510",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 18065,
+      "end": 18085,
+      "line": 268,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Color picker. Hold ",
+      "source_text": " Color picker. Hold "
+    },
+    {
+      "id": "b369bd0b619a",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 18244,
+      "end": 18354,
+      "line": 268,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " and drag to select a color anywhere on the screen. This will select colors even from outside the application!",
+      "source_text": " and drag to select a color anywhere on the screen. This will select colors even from outside the application!"
+    },
+    {
+      "id": "eeb6ea15c2d5",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 18525,
+      "end": 18577,
+      "line": 269,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Resets the color to the default for that parameter.",
+      "source_text": " Resets the color to the default for that parameter."
+    },
+    {
+      "id": "c3bc4e6d6c38",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 18758,
+      "end": 18910,
+      "line": 270,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Closes the color picker. The color will remain at whatever is selected in the color picker. You can also click outside of the color picker to close it.",
+      "source_text": " Closes the color picker. The color will remain at whatever is selected in the color picker. You can also click outside of the color picker to close it."
+    },
+    {
+      "id": "d452df0f8fc8",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 18927,
+      "end": 19006,
+      "line": 271,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Hue ring. Visualizes all the hues. The selected hue is indicated with a circle ",
+      "source_text": "Hue ring. Visualizes all the hues. The selected hue is indicated with a circle "
+    },
+    {
+      "id": "d2e57c452041",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 19024,
+      "end": 19033,
+      "line": 271,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " You can ",
+      "source_text": " You can "
+    },
+    {
+      "id": "7debf107a965",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 19192,
+      "end": 19256,
+      "line": 271,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " click or click and drag anywhere on the circle to select a hue.",
+      "source_text": " click or click and drag anywhere on the circle to select a hue."
+    },
+    {
+      "id": "6f396191061d",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 19273,
+      "end": 19426,
+      "line": 272,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Brightness and saturation triangle. The three corners represent white, black, and a fully saturated color. The selected value is indicated with a circle ",
+      "source_text": "Brightness and saturation triangle. The three corners represent white, black, and a fully saturated color. The selected value is indicated with a circle "
+    },
+    {
+      "id": "ca836524e047",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 19444,
+      "end": 19453,
+      "line": 272,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " You can ",
+      "source_text": " You can "
+    },
+    {
+      "id": "dc4015c9d177",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 19612,
+      "end": 19680,
+      "line": 272,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " click or click and drag anywhere on the triangle to select a color.",
+      "source_text": " click or click and drag anywhere on the triangle to select a color."
+    },
+    {
+      "id": "13bef6ba7faa",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 19740,
+      "end": 19753,
+      "line": 275,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Current Color",
+      "source_text": "Current Color"
+    },
+    {
+      "id": "e17002adc98a",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 19770,
+      "end": 19848,
+      "line": 276,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "HEX code. Here, you can type in a hexadecimal code to get a specific color by ",
+      "source_text": "HEX code. Here, you can type in a hexadecimal code to get a specific color by "
+    },
+    {
+      "id": "bf5fc37154fd",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 20007,
+      "end": 20035,
+      "line": 276,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " clicking in the text field.",
+      "source_text": " clicking in the text field."
+    },
+    {
+      "id": "0967d7ed7470",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 20052,
+      "end": 20168,
+      "line": 277,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "RGB Mode. This will set the sliders to represent the color in Red, Green, and Blue values. All mapped from 0 to 255.",
+      "source_text": "RGB Mode. This will set the sliders to represent the color in Red, Green, and Blue values. All mapped from 0 to 255."
+    },
+    {
+      "id": "119845891c02",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 20185,
+      "end": 20275,
+      "line": 278,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "HSV Mode. This will set the sliders to represent the color in Hue, Saturation, and Value. ",
+      "source_text": "HSV Mode. This will set the sliders to represent the color in Hue, Saturation, and Value. "
+    },
+    {
+      "id": "307d2e245079",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 20279,
+      "end": 20282,
+      "line": 278,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Hue",
+      "source_text": "Hue"
+    },
+    {
+      "id": "ae779ba6616e",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 20287,
+      "end": 20607,
+      "line": 278,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " is mapped circular from 0 to 360 degrees starting and ending with red, using this slider you can see the circle in the Hue ring turning. Saturation and Value are mapped from 0% to 100% ,saturation from grayscale to fully saturated and value from black to whatever is the brightest color based on the hue and saturation.",
+      "source_text": " is mapped circular from 0 to 360 degrees starting and ending with red, using this slider you can see the circle in the Hue ring turning. Saturation and Value are mapped from 0% to 100% ,saturation from grayscale to fully saturated and value from black to whatever is the brightest color based on the hue and saturation."
+    },
+    {
+      "id": "39d54b83d5a7",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 20624,
+      "end": 20702,
+      "line": 279,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Channel Values. These represent the numerical value of the slider next to it. ",
+      "source_text": "Channel Values. These represent the numerical value of the slider next to it. "
+    },
+    {
+      "id": "18d3e9193e72",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 20861,
+      "end": 20916,
+      "line": 279,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " click within the text box to type in a value manually.",
+      "source_text": " click within the text box to type in a value manually."
+    },
+    {
+      "id": "61b3cad46c61",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 20933,
+      "end": 21086,
+      "line": 280,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Channel Sliders. These sliders can be used to change the color. The gradients on the sliders represent what the selected color would be if the indicator ",
+      "source_text": "Channel Sliders. These sliders can be used to change the color. The gradients on the sliders represent what the selected color would be if the indicator "
+    },
+    {
+      "id": "8bb8691c6196",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 21105,
+      "end": 21143,
+      "line": 280,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " was placed on that position. You can ",
+      "source_text": " was placed on that position. You can "
+    },
+    {
+      "id": "83ea22f5b633",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 21302,
+      "end": 21368,
+      "line": 280,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " click or click and drag anywhere on the slider to select a color.",
+      "source_text": " click or click and drag anywhere on the slider to select a color."
+    },
+    {
+      "id": "2c1915a5c1b2",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 21429,
+      "end": 21445,
+      "line": 283,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Swatch Dropdown.",
+      "source_text": "Swatch Dropdown."
+    },
+    {
+      "id": "69a736433289",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 21514,
+      "end": 21526,
+      "line": 287,
+      "parent_path": "div/ul/li/p/strong",
+      "source_raw": "Saved Colors",
+      "source_text": "Saved Colors"
+    },
+    {
+      "id": "3ff3e3a6f343",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 21535,
+      "end": 21568,
+      "line": 287,
+      "parent_path": "blockquote/div/ul/li/p",
+      "source_raw": " Holds a palette of saved colors ",
+      "source_text": " Holds a palette of saved colors "
+    },
+    {
+      "id": "d19cd9c19509",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 21587,
+      "end": 21630,
+      "line": 287,
+      "parent_path": "blockquote/div/ul/li/p",
+      "source_raw": " You can save the selected color using the ",
+      "source_text": " You can save the selected color using the "
+    },
+    {
+      "id": "2aa541adab6f",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 21791,
+      "end": 21797,
+      "line": 287,
+      "parent_path": "blockquote/div/ul/li/p",
+      "source_raw": " icon ",
+      "source_text": " icon "
+    },
+    {
+      "id": "f6370ecc98da",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 21816,
+      "end": 21850,
+      "line": 287,
+      "parent_path": "blockquote/div/ul/li/p",
+      "source_raw": ". You can remove a saved color by ",
+      "source_text": ". You can remove a saved color by "
+    },
+    {
+      "id": "cfeabffe5b8f",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 22012,
+      "end": 22043,
+      "line": 287,
+      "parent_path": "blockquote/div/ul/li/p",
+      "source_raw": " clicking on one and selecting ",
+      "source_text": " clicking on one and selecting "
+    },
+    {
+      "id": "9b54fe6bbea2",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 22047,
+      "end": 22053,
+      "line": 287,
+      "parent_path": "div/ul/li/p/em",
+      "source_raw": "Remove",
+      "source_text": "Remove"
+    },
+    {
+      "id": "5034c073acfe",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 22104,
+      "end": 22117,
+      "line": 288,
+      "parent_path": "div/ul/li/p/strong",
+      "source_raw": "Recent Colors",
+      "source_text": "Recent Colors"
+    },
+    {
+      "id": "b9dfaf387c90",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 22126,
+      "end": 22406,
+      "line": 288,
+      "parent_path": "blockquote/div/ul/li/p",
+      "source_raw": " Holds a palette of the last 9 colors used. When the color picker is closed, the selected color will be stored as the most recent color all the way to the right in the Recent Colors palette moving all the other colors one spot to the left and discarting the first one on the left.",
+      "source_text": " Holds a palette of the last 9 colors used. When the color picker is closed, the selected color will be stored as the most recent color all the way to the right in the Recent Colors palette moving all the other colors one spot to the left and discarting the first one on the left."
+    },
+    {
+      "id": "601cce50401f",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 22717,
+      "end": 22733,
+      "line": 294,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Color: Gradient",
+      "source_text": " Color: Gradient"
+    },
+    {
+      "id": "5df582f6bcb0",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 22871,
+      "end": 22897,
+      "line": 296,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Interpolation Color Space:",
+      "source_text": "Interpolation Color Space:"
+    },
+    {
+      "id": "58fb80985d8c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 22906,
+      "end": 23017,
+      "line": 296,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " A dropdown menu with different methods of interpolating color from one point in the color gradient to another.",
+      "source_text": " A dropdown menu with different methods of interpolating color from one point in the color gradient to another."
+    },
+    {
+      "id": "0a1028ba9dff",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 23348,
+      "end": 23422,
+      "line": 305,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "16e45c71952e",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 23502,
+      "end": 23517,
+      "line": 311,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Color Gradient:",
+      "source_text": "Color Gradient:"
+    },
+    {
+      "id": "e2aeb1f5c313",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 23526,
+      "end": 23553,
+      "line": 311,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " Creates a range of colors.",
+      "source_text": " Creates a range of colors."
+    },
+    {
+      "id": "e5b9b8f05950",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 23574,
+      "end": 23589,
+      "line": 312,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Add a point by ",
+      "source_text": "Add a point by "
+    },
+    {
+      "id": "fef220b65eeb",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 23748,
+      "end": 23774,
+      "line": 312,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " clicking on the gradient.",
+      "source_text": " clicking on the gradient."
+    },
+    {
+      "id": "986ce420c121",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 23791,
+      "end": 23812,
+      "line": 313,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Move a point holding ",
+      "source_text": "Move a point holding "
+    },
+    {
+      "id": "9132a797f515",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 23971,
+      "end": 23985,
+      "line": 313,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " and dragging.",
+      "source_text": " and dragging."
+    },
+    {
+      "id": "5bace0445ea6",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 24002,
+      "end": 24038,
+      "line": 314,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Remove a point by selecting it with ",
+      "source_text": "Remove a point by selecting it with "
+    },
+    {
+      "id": "ef46600cc455",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 24197,
+      "end": 24211,
+      "line": 314,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " and pressing ",
+      "source_text": " and pressing "
+    },
+    {
+      "id": "b6d91185f50a",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 24217,
+      "end": 24223,
+      "line": 314,
+      "parent_path": "dd/ul/li/p/cite",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "ee3198fe0aec",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 24230,
+      "end": 24237,
+      "line": 314,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " or by ",
+      "source_text": " or by "
+    },
+    {
+      "id": "afea96434e47",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 24399,
+      "end": 24429,
+      "line": 314,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " clicking on it and selecting ",
+      "source_text": " clicking on it and selecting "
+    },
+    {
+      "id": "f53445a6fca6",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 24433,
+      "end": 24439,
+      "line": 314,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "1e8862ca1a11",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 24462,
+      "end": 24507,
+      "line": 315,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Edit the color of a point by double-clicking ",
+      "source_text": "Edit the color of a point by double-clicking "
+    },
+    {
+      "id": "e94a29976f7a",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 24666,
+      "end": 24679,
+      "line": 315,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " on it or by ",
+      "source_text": " on it or by "
+    },
+    {
+      "id": "e721826c3458",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 24841,
+      "end": 24871,
+      "line": 315,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " clicking on it and selecting ",
+      "source_text": " clicking on it and selecting "
+    },
+    {
+      "id": "29a03b6a67d7",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 24875,
+      "end": 24887,
+      "line": 315,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Change Color",
+      "source_text": "Change Color"
+    },
+    {
+      "id": "17020da4fd70",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 24910,
+      "end": 24918,
+      "line": 316,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Use the ",
+      "source_text": "Use the "
+    },
+    {
+      "id": "f66bd188ed4d",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 25103,
+      "end": 25120,
+      "line": 316,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " color picker to ",
+      "source_text": " color picker to "
+    },
+    {
+      "id": "0a8ee7541d77",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 25279,
+      "end": 25361,
+      "line": 316,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " click and drag over any application to source its colors for creating a gradient.",
+      "source_text": " click and drag over any application to source its colors for creating a gradient."
+    },
+    {
+      "id": "fbe12b47d7bc",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 25710,
+      "end": 25784,
+      "line": 329,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "4b0875e1016f",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 26217,
+      "end": 26291,
+      "line": 343,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "e2ab448182fa",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 26339,
+      "end": 26390,
+      "line": 348,
+      "parent_path": "section/section/section/dl/dt",
+      "source_raw": "The color gradient context menu can be accessed by ",
+      "source_text": "The color gradient context menu can be accessed by "
+    },
+    {
+      "id": "f3eba57f616c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 26552,
+      "end": 26623,
+      "line": 348,
+      "parent_path": "section/section/section/dl/dt",
+      "source_raw": " clicking anywhere on the color gradient and has the following options:",
+      "source_text": " clicking anywhere on the color gradient and has the following options:"
+    },
+    {
+      "id": "f23b0ba18b96",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 26663,
+      "end": 26668,
+      "line": 349,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Copy:",
+      "source_text": "Copy:"
+    },
+    {
+      "id": "c9075922f607",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 26673,
+      "end": 26741,
+      "line": 349,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Copy the color gradient (all points and interpolation color space).",
+      "source_text": " Copy the color gradient (all points and interpolation color space)."
+    },
+    {
+      "id": "80d7fde5f4e0",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 26762,
+      "end": 26768,
+      "line": 350,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Paste:",
+      "source_text": "Paste:"
+    },
+    {
+      "id": "fcfe29cf6966",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 26773,
+      "end": 26877,
+      "line": 350,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Paste the color gradient. This will overwrite everything and replace it with the copied color gradient.",
+      "source_text": " Paste the color gradient. This will overwrite everything and replace it with the copied color gradient."
+    },
+    {
+      "id": "ba12add8b956",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 26898,
+      "end": 26904,
+      "line": 351,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Reset:",
+      "source_text": "Reset:"
+    },
+    {
+      "id": "6a5506f8154d",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 26909,
+      "end": 26986,
+      "line": 351,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Resets the color gradient back to a two-point black to white color gradient.",
+      "source_text": " Resets the color gradient back to a two-point black to white color gradient."
+    },
+    {
+      "id": "56ce9613c74b",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27007,
+      "end": 27025,
+      "line": 352,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Sort By Luminance:",
+      "source_text": "Sort By Luminance:"
+    },
+    {
+      "id": "e772a969ca10",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27030,
+      "end": 27091,
+      "line": 352,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Rearranges all points based on luminance from dark to light.",
+      "source_text": " Rearranges all points based on luminance from dark to light."
+    },
+    {
+      "id": "2f431757bd99",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27112,
+      "end": 27124,
+      "line": 353,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Sort By Hue:",
+      "source_text": "Sort By Hue:"
+    },
+    {
+      "id": "8cad98b91e43",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27129,
+      "end": 27187,
+      "line": 353,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Rearranges all points based on hue from 0 to 360 degrees.",
+      "source_text": " Rearranges all points based on hue from 0 to 360 degrees."
+    },
+    {
+      "id": "5ad05b10c209",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27208,
+      "end": 27227,
+      "line": 354,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Sort by Saturation:",
+      "source_text": "Sort by Saturation:"
+    },
+    {
+      "id": "826675addf70",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27232,
+      "end": 27314,
+      "line": 354,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Rearranges all points based on saturation from low saturation to high saturation.",
+      "source_text": " Rearranges all points based on saturation from low saturation to high saturation."
+    },
+    {
+      "id": "3d8f5a4fc7ae",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27335,
+      "end": 27354,
+      "line": 355,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Equally Distribute:",
+      "source_text": "Equally Distribute:"
+    },
+    {
+      "id": "1900ebbe8b85",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27359,
+      "end": 27426,
+      "line": 355,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Rearranges all points to be evenly spaced over the color gradient.",
+      "source_text": " Rearranges all points to be evenly spaced over the color gradient."
+    },
+    {
+      "id": "8c03aae75165",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27447,
+      "end": 27455,
+      "line": 356,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Shuffle:",
+      "source_text": "Shuffle:"
+    },
+    {
+      "id": "d45ecf91326d",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27460,
+      "end": 27548,
+      "line": 356,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Randomly rearranges all points. This option gives a random result every time it’s used.",
+      "source_text": " Randomly rearranges all points. This option gives a random result every time it’s used."
+    },
+    {
+      "id": "fc21fc557719",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27569,
+      "end": 27577,
+      "line": 357,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Reverse:",
+      "source_text": "Reverse:"
+    },
+    {
+      "id": "5c64a624af68",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27582,
+      "end": 27659,
+      "line": 357,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Rearranges all points backwards putting the last point first and vice versa.",
+      "source_text": " Rearranges all points backwards putting the last point first and vice versa."
+    },
+    {
+      "id": "9d9e185d23a2",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27929,
+      "end": 27951,
+      "line": 363,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Color Gradient Presets",
+      "source_text": "Color Gradient Presets"
+    },
+    {
+      "id": "79b7a8a16390",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 27979,
+      "end": 28008,
+      "line": 365,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Clicking the button with the ",
+      "source_text": "Clicking the button with the "
+    },
+    {
+      "id": "0baa18c5497e",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 28179,
+      "end": 28300,
+      "line": 365,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " icon will open the gradient presets window.\nHere, you can organize, update, import, and export all your color gradients!",
+      "source_text": " icon will open the gradient presets window.\nHere, you can organize, update, import, and export all your color gradients!"
+    },
+    {
+      "id": "238bcf63a0c8",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 28329,
+      "end": 28422,
+      "line": 368,
+      "parent_path": "section/section/section/dl/dt",
+      "source_raw": "The section on the left is a list of categories or folders that can contain gradient presets:",
+      "source_text": "The section on the left is a list of categories or folders that can contain gradient presets:"
+    },
+    {
+      "id": "028657454537",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 28611,
+      "end": 28614,
+      "line": 369,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "All",
+      "source_text": "All"
+    },
+    {
+      "id": "cf506498e72c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 28619,
+      "end": 28656,
+      "line": 369,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " contains all saved gradient presets.",
+      "source_text": " contains all saved gradient presets."
+    },
+    {
+      "id": "7e545f7c00cf",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 28843,
+      "end": 28852,
+      "line": 370,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Favorites",
+      "source_text": "Favorites"
+    },
+    {
+      "id": "7731067e3bfa",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 28857,
+      "end": 28930,
+      "line": 370,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " contains all presets marked as favorite by toggling the star icon on it.",
+      "source_text": " contains all presets marked as favorite by toggling the star icon on it."
+    },
+    {
+      "id": "9705284d3e1d",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 29118,
+      "end": 29127,
+      "line": 371,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Ungrouped",
+      "source_text": "Ungrouped"
+    },
+    {
+      "id": "acc0d7590d7b",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 29132,
+      "end": 29263,
+      "line": 371,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " contains all presets that are not within a folder. A preset will end up in ungrouped if it’s either moved there or added when the ",
+      "source_text": " contains all presets that are not within a folder. A preset will end up in ungrouped if it’s either moved there or added when the "
+    },
+    {
+      "id": "ed79f333dd69",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 29416,
+      "end": 29419,
+      "line": 371,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "All",
+      "source_text": "All"
+    },
+    {
+      "id": "148d677e5bed",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 29596,
+      "end": 29605,
+      "line": 371,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Favorites",
+      "source_text": "Favorites"
+    },
+    {
+      "id": "6c8ec042c2e2",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 29610,
+      "end": 29615,
+      "line": 371,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": ", or ",
+      "source_text": ", or "
+    },
+    {
+      "id": "6367b4103cb1",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 29786,
+      "end": 29795,
+      "line": 371,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Ungrouped",
+      "source_text": "Ungrouped"
+    },
+    {
+      "id": "f2a08bf7d11a",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 29800,
+      "end": 29822,
+      "line": 371,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " category is selected.",
+      "source_text": " category is selected."
+    },
+    {
+      "id": "cc3dbf434fd3",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 30003,
+      "end": 30010,
+      "line": 372,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Folders",
+      "source_text": "Folders"
+    },
+    {
+      "id": "8c54c42b5cb4",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 30015,
+      "end": 30096,
+      "line": 372,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " can be created by the user to organise gradient presets. This is done using the ",
+      "source_text": " can be created by the user to organise gradient presets. This is done using the "
+    },
+    {
+      "id": "69510c86993e",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 30265,
+      "end": 30411,
+      "line": 372,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " button in the bottom right corner. If a folder is selected, newly added presets will be put in that folder. You can rename or delete a folder by ",
+      "source_text": " button in the bottom right corner. If a folder is selected, newly added presets will be put in that folder. You can rename or delete a folder by "
+    },
+    {
+      "id": "4ca2e3d054b3",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 30573,
+      "end": 30603,
+      "line": 372,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " clicking on it and selecting ",
+      "source_text": " clicking on it and selecting "
+    },
+    {
+      "id": "94ecabcc2837",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 30607,
+      "end": 30613,
+      "line": 372,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Rename",
+      "source_text": "Rename"
+    },
+    {
+      "id": "5f1388fc180b",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 30618,
+      "end": 30622,
+      "line": 372,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "d284303845c3",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 30626,
+      "end": 30632,
+      "line": 372,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "75f30138524f",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 30637,
+      "end": 30680,
+      "line": 372,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": ". You can also move the folder position by ",
+      "source_text": ". You can also move the folder position by "
+    },
+    {
+      "id": "a0363831c8b7",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 30839,
+      "end": 30865,
+      "line": 372,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " clicking and dragging it.",
+      "source_text": " clicking and dragging it."
+    },
+    {
+      "id": "5b9ee2a30605",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 30891,
+      "end": 30952,
+      "line": 375,
+      "parent_path": "section/section/section/dl/dt",
+      "source_raw": "The section on the right is a list of color gradient presets:",
+      "source_text": "The section on the right is a list of color gradient presets:"
+    },
+    {
+      "id": "943df49333a2",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 30988,
+      "end": 31023,
+      "line": 376,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "The active preset is marked with a ",
+      "source_text": "The active preset is marked with a "
+    },
+    {
+      "id": "f99a004d3105",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 31183,
+      "end": 31205,
+      "line": 376,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " grey dot next to the ",
+      "source_text": " grey dot next to the "
+    },
+    {
+      "id": "1ccefa6f5d8c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 31370,
+      "end": 31376,
+      "line": 376,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " icon.",
+      "source_text": " icon."
+    },
+    {
+      "id": "1725a04aa87f",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 31393,
+      "end": 31397,
+      "line": 377,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "d4272ee551ad",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 31562,
+      "end": 31627,
+      "line": 377,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " icon can be toggled to favorite or unfavorite a gradient preset.",
+      "source_text": " icon can be toggled to favorite or unfavorite a gradient preset."
+    },
+    {
+      "id": "3a0b3f8ed23e",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 31803,
+      "end": 31880,
+      "line": 378,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Clicking on a gradient preset will apply it to the color gradient parameter.",
+      "source_text": " Clicking on a gradient preset will apply it to the color gradient parameter."
+    },
+    {
+      "id": "429a9f9b456d",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 31903,
+      "end": 31908,
+      "line": 379,
+      "parent_path": "dd/ul/li/p/cite",
+      "source_raw": "Shift",
+      "source_text": "Shift"
+    },
+    {
+      "id": "ec193c2666cf",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 32077,
+      "end": 32198,
+      "line": 379,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " clicking on a gradient preset will apply it to the color gradient parameter without closing the gradient presets window.",
+      "source_text": " clicking on a gradient preset will apply it to the color gradient parameter without closing the gradient presets window."
+    },
+    {
+      "id": "3f0e525767f0",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 32215,
+      "end": 32223,
+      "line": 380,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "You can ",
+      "source_text": "You can "
+    },
+    {
+      "id": "12ea157c346c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 32382,
+      "end": 32463,
+      "line": 380,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " click and drag a gradient preset to move it to a different position in the list.",
+      "source_text": " click and drag a gradient preset to move it to a different position in the list."
+    },
+    {
+      "id": "cfed86e3742b",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 32489,
+      "end": 32581,
+      "line": 383,
+      "parent_path": "section/section/section/dl/dt",
+      "source_raw": "The context menu which appears when clicking on a gradient preset has the following options:",
+      "source_text": "The context menu which appears when clicking on a gradient preset has the following options:"
+    },
+    {
+      "id": "51cbee982306",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 32779,
+      "end": 32786,
+      "line": 384,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Rename:",
+      "source_text": "Rename:"
+    },
+    {
+      "id": "2883e2d7a86d",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 32791,
+      "end": 32849,
+      "line": 384,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Allows you to type in a new name for the gradient preset.",
+      "source_text": " Allows you to type in a new name for the gradient preset."
+    },
+    {
+      "id": "ff2da1a38367",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 33225,
+      "end": 33236,
+      "line": 385,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Unfavorite:",
+      "source_text": "Unfavorite:"
+    },
+    {
+      "id": "c857b4d3fff0",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 33241,
+      "end": 33303,
+      "line": 385,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Toggles if the gradient preset is favorite or not. Using the ",
+      "source_text": " Toggles if the gradient preset is favorite or not. Using the "
+    },
+    {
+      "id": "1f348b189db9",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 33468,
+      "end": 33517,
+      "line": 385,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " icon on the gradient preset does the same thing.",
+      "source_text": " icon on the gradient preset does the same thing."
+    },
+    {
+      "id": "3d4e7cc796df",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 33698,
+      "end": 33705,
+      "line": 386,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Update:",
+      "source_text": "Update:"
+    },
+    {
+      "id": "fcf659bc0625",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 33710,
+      "end": 33784,
+      "line": 386,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Overwrites the gradient preset with the current color gradient parameter.",
+      "source_text": " Overwrites the gradient preset with the current color gradient parameter."
+    },
+    {
+      "id": "44716291082e",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 33966,
+      "end": 33975,
+      "line": 387,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Move To…:",
+      "source_text": "Move To…:"
+    },
+    {
+      "id": "d8b7b4e5743c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 33980,
+      "end": 34036,
+      "line": 387,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Let’s you put a gradient preset into a specific folder.",
+      "source_text": " Let’s you put a gradient preset into a specific folder."
+    },
+    {
+      "id": "03104e81f2a3",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 34215,
+      "end": 34223,
+      "line": 388,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Export…:",
+      "source_text": "Export…:"
+    },
+    {
+      "id": "003eae50bf37",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 34228,
+      "end": 34277,
+      "line": 388,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Opens a file browser to store the gradient as a ",
+      "source_text": " Opens a file browser to store the gradient as a "
+    },
+    {
+      "id": "33262e5a4c43",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 34281,
+      "end": 34303,
+      "line": 388,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "JangaFX Color Gradient",
+      "source_text": "JangaFX Color Gradient"
+    },
+    {
+      "id": "6e7ec201fab1",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 34313,
+      "end": 34321,
+      "line": 388,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "(.jfxcg)",
+      "source_text": "(.jfxcg)"
+    },
+    {
+      "id": "075ed7714498",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 34326,
+      "end": 34354,
+      "line": 388,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " file in a desired location ",
+      "source_text": " file in a desired location "
+    },
+    {
+      "id": "4ec52d8dde02",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 34358,
+      "end": 34427,
+      "line": 388,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "(Note that the Interpolation Color Space is also saved in the preset)",
+      "source_text": "(Note that the Interpolation Color Space is also saved in the preset)"
+    },
+    {
+      "id": "78a7066dfe69",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 34432,
+      "end": 34441,
+      "line": 388,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " or as a ",
+      "source_text": " or as a "
+    },
+    {
+      "id": "0a4435a94628",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 34445,
+      "end": 34449,
+      "line": 388,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": ".png",
+      "source_text": ".png"
+    },
+    {
+      "id": "2ea7f1658154",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 34454,
+      "end": 34644,
+      "line": 388,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " file that can be loaded into most software and used as, for example, a color input for another shader. The image resolution is 512 by 12 pixels meaning 512 different colors could be stored.",
+      "source_text": " file that can be loaded into most software and used as, for example, a color input for another shader. The image resolution is 512 by 12 pixels meaning 512 different colors could be stored."
+    },
+    {
+      "id": "9395640fff3d",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 34825,
+      "end": 34832,
+      "line": 389,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Delete:",
+      "source_text": "Delete:"
+    },
+    {
+      "id": "7c7881b6e60e",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 34837,
+      "end": 34899,
+      "line": 389,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Removes the gradient preset completely. This can’t be undone!",
+      "source_text": " Removes the gradient preset completely. This can’t be undone!"
+    },
+    {
+      "id": "ed2562be3458",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 34930,
+      "end": 34934,
+      "line": 393,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "ea75faf753ae",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 35091,
+      "end": 35263,
+      "line": 393,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " search function on the top lets you search for gradient presets based on their names. It always searches through all the presets regardless of which folder they belong to.",
+      "source_text": " search function on the top lets you search for gradient presets based on their names. It always searches through all the presets regardless of which folder they belong to."
+    },
+    {
+      "id": "3cd40033aa1c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 35292,
+      "end": 35346,
+      "line": 395,
+      "parent_path": "section/section/section/dl/dt",
+      "source_raw": "The bottom of the window also has a couple of options:",
+      "source_text": "The bottom of the window also has a couple of options:"
+    },
+    {
+      "id": "9af27e136c11",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 35532,
+      "end": 35678,
+      "line": 396,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Adds the current color gradient parameter as a gradient preset and puts you into rename mode immediately to give your new gradient preset a name.",
+      "source_text": " Adds the current color gradient parameter as a gradient preset and puts you into rename mode immediately to give your new gradient preset a name."
+    },
+    {
+      "id": "5408ca6e731b",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 35864,
+      "end": 35987,
+      "line": 397,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Adds a new folder to the gradient presets window and puts you into rename mode immediately to give your new folder a name.",
+      "source_text": " Adds a new folder to the gradient presets window and puts you into rename mode immediately to give your new folder a name."
+    },
+    {
+      "id": "1a79705701af",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 36163,
+      "end": 36210,
+      "line": 398,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Opens the file browser where you can select a ",
+      "source_text": " Opens the file browser where you can select a "
+    },
+    {
+      "id": "b067c3c4be18",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 36214,
+      "end": 36245,
+      "line": 398,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "JangaFX Color Gradient (.jfxcg)",
+      "source_text": "JangaFX Color Gradient (.jfxcg)"
+    },
+    {
+      "id": "aa39aa47f16c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 36250,
+      "end": 36323,
+      "line": 398,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " file to be added as a gradient preset into the gradient presets window. ",
+      "source_text": " file to be added as a gradient preset into the gradient presets window. "
+    },
+    {
+      "id": "435bb16fc863",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 36327,
+      "end": 36361,
+      "line": 398,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Embergen Color Gradient (.embercg)",
+      "source_text": "Embergen Color Gradient (.embercg)"
+    },
+    {
+      "id": "69157f810939",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 36366,
+      "end": 36445,
+      "line": 398,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " files are the old format but can also be imported for backwards compatibility.",
+      "source_text": " files are the old format but can also be imported for backwards compatibility."
+    },
+    {
+      "id": "bc1b5cbbaa80",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 36722,
+      "end": 36737,
+      "line": 404,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Color Selector",
+      "source_text": " Color Selector"
+    },
+    {
+      "id": "2cd2b0906adc",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 36848,
+      "end": 36878,
+      "line": 405,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Outputs a single color from a ",
+      "source_text": "Outputs a single color from a "
+    },
+    {
+      "id": "5ed774d767ef",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 36882,
+      "end": 36896,
+      "line": 405,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Color Gradient",
+      "source_text": "Color Gradient"
+    },
+    {
+      "id": "0d53d6084029",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 36901,
+      "end": 36953,
+      "line": 405,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " node based on a specified position on the gradient.",
+      "source_text": " node based on a specified position on the gradient."
+    },
+    {
+      "id": "bb28bcbd00f0",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 37022,
+      "end": 37044,
+      "line": 409,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Connecting Color Nodes",
+      "source_text": "Connecting Color Nodes"
+    },
+    {
+      "id": "00de3c8ede58",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 37145,
+      "end": 37194,
+      "line": 410,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Color nodes can be connected to color parameters.",
+      "source_text": "Color nodes can be connected to color parameters."
+    },
+    {
+      "id": "618cecf89f41",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 37202,
+      "end": 37272,
+      "line": 411,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The color of this parameter will then be controlled in the color node.",
+      "source_text": "The color of this parameter will then be controlled in the color node."
+    },
+    {
+      "id": "47ac93f1246a",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 37280,
+      "end": 37345,
+      "line": 412,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "A color parameter is recognized by the colored square next to it.",
+      "source_text": "A color parameter is recognized by the colored square next to it."
+    },
+    {
+      "id": "ed774eb3313e",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 37416,
+      "end": 37500,
+      "line": 416,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The following are some examples of parameters that can be controlled by color nodes:",
+      "source_text": "The following are some examples of parameters that can be controlled by color nodes:"
+    },
+    {
+      "id": "48a19ae953a5",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 37729,
+      "end": 37788,
+      "line": 418,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "To expose a color parameter pin for connecting a color node",
+      "source_text": "To expose a color parameter pin for connecting a color node"
+    },
+    {
+      "id": "d6cbdefc0bed",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 37907,
+      "end": 37945,
+      "line": 420,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "you have to set the override state to ",
+      "source_text": "you have to set the override state to "
+    },
+    {
+      "id": "0b9b38ee872b",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 37949,
+      "end": 37961,
+      "line": 420,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Pin Override",
+      "source_text": "Pin Override"
+    },
+    {
+      "id": "cfdff16b4830",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 37966,
+      "end": 37970,
+      "line": 420,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " by ",
+      "source_text": " by "
+    },
+    {
+      "id": "99bc986e5340",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 38129,
+      "end": 38170,
+      "line": 420,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " clicking the icon next to the parameter.",
+      "source_text": " clicking the icon next to the parameter."
+    },
+    {
+      "id": "cc5f5992f83b",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 38178,
+      "end": 38245,
+      "line": 421,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "A color parameter can also have two squares next to it as with the ",
+      "source_text": "A color parameter can also have two squares next to it as with the "
+    },
+    {
+      "id": "cd617578a067",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 38411,
+      "end": 38426,
+      "line": 421,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Color: Constant",
+      "source_text": "Color: Constant"
+    },
+    {
+      "id": "d7c169d3692d",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 38431,
+      "end": 38499,
+      "line": 421,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " node. This means that the parameter also supports an alpha channel.",
+      "source_text": " node. This means that the parameter also supports an alpha channel."
+    },
+    {
+      "id": "0593ebf7bc9b",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 38765,
+      "end": 38825,
+      "line": 435,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "7ca4790c07f0",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 38831,
+      "end": 38854,
+      "line": 437,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "4fcf8ca927b2",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 38892,
+      "end": 38898,
+      "line": 438,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "a25613ca1204",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 38902,
+      "end": 38907,
+      "line": 438,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "62f13a59ce4c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 38957,
+      "end": 38967,
+      "line": 438,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "2a97f3c03967",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 38971,
+      "end": 38999,
+      "line": 438,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "f6fcee06f425",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 39043,
+      "end": 39047,
+      "line": 440,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "dabd0d04dac3",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 39364,
+      "end": 39400,
+      "line": 455,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "797fb6d9e8c6",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 39557,
+      "end": 39562,
+      "line": 462,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "c51ccb434942",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 39640,
+      "end": 39652,
+      "line": 463,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Color Nodes",
+      "source_text": " Color Nodes"
+    },
+    {
+      "id": "02886c368d43",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 39728,
+      "end": 39744,
+      "line": 464,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Color: Constant",
+      "source_text": " Color: Constant"
+    },
+    {
+      "id": "8afd3af980d9",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 39808,
+      "end": 39820,
+      "line": 465,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color Picker",
+      "source_text": "Color Picker"
+    },
+    {
+      "id": "3c8e732e5d6c",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 39912,
+      "end": 39928,
+      "line": 468,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Color: Gradient",
+      "source_text": " Color: Gradient"
+    },
+    {
+      "id": "a843c2cdddd8",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 40013,
+      "end": 40028,
+      "line": 469,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Color Selector",
+      "source_text": " Color Selector"
+    },
+    {
+      "id": "889ce77f5886",
+      "path": "liquigen/pages/references/specific/color.html",
+      "start": 40115,
+      "end": 40137,
+      "line": 472,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Connecting Color Nodes",
+      "source_text": "Connecting Color Nodes"
+    }
+  ]
+}

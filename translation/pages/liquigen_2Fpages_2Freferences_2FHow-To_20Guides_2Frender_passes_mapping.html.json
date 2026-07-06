@@ -1,0 +1,709 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "15ef96239cc1",
+      "source": "Render Pass Mapping - JangaFX Documentation",
+      "target": "渲染通道映射 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "5461a05e94cf",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "6175f78e1cba",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "d6b7baa2e255",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "4495a8b2932f",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "1ec736503d14",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "0bf288a6c340",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "b10348b2dbbf",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "e66f101e3b31",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "efbe66a0ed3c",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "2cf76fdb6cad",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "4bd749b0c982",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "b021cc658bba",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "77256b7d8408",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "ac73e505324c",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "a095810ce3dd",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "c8ef4812fc13",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "99a1e91db1a3",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "c304a73d32c7",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "503d6be4c510",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "8de9f3cd25cb",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "5d2b1b153cea",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "044273239c15",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "f115a3095648",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "1b717bfc91fb",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "58a6d44f6866",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "3f87e6a1123f",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "885340783d1a",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "a71ec3fa705b",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "324e082573d2",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "6d2bc9563019",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "0bcb8afc5d57",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "77fc226b3ac8",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "1be3649ebb6c",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "aeb94c6bd639",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "eb30104b243f",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "da86fa401d5e",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "25697065bdc3",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "b80d184c5a17",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "f5daf19ae985",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "e87355e618c6",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "99cd63ebfc66",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "96e593fbd3fc",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "56b4e195b1dd",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "513b6f9ae74c",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "55cd47eb21a8",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "1e5443d65376",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "11339e00f1b5",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "66c694f9d79b",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "4962dec8a35c",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "d3a35a64023d",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "7ee18b0d6c3f",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "8d0a5fd8e186",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "39ebaa978b43",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "50e430eb2a1e",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "6bab43e34c1e",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "cd3e53e20bc0",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "d87318c25e09",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "f23a95d5453a",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "7a3dabd00597",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "e3fad420d3fe",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "52b1978fae52",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "7c6cfa95ba84",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "8512b693ffd5",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "a82b84c05072",
+      "source": "Render Passes",
+      "target": "Render Passes（渲染通道）",
+      "note": ""
+    },
+    {
+      "id": "899c39d7b2dd",
+      "source": " can be exported to seperate files or to layers within a Multi Layer or Multi Part exr file.",
+      "target": " 可以导出为独立文件，也可以导出到 Multi Layer（多层）或 Multi Part（多 Part）EXR 文件中的图层。",
+      "note": ""
+    },
+    {
+      "id": "3f32265e14ec",
+      "source": "To set this up you can use the ",
+      "target": "要设置这一点，可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "fa3fd77e107e",
+      "source": "Mapping",
+      "target": "Mapping",
+      "note": ""
+    },
+    {
+      "id": "6aa8e1fae209",
+      "source": " section in the ",
+      "target": " 区域，它位于 ",
+      "note": ""
+    },
+    {
+      "id": "23c4137019ae",
+      "source": "Render Passes",
+      "target": "Render Passes（渲染通道）",
+      "note": ""
+    },
+    {
+      "id": "5e10450d3b87",
+      "source": " tab of the ",
+      "target": " 选项卡中，属于 ",
+      "note": ""
+    },
+    {
+      "id": "13a91dee259a",
+      "source": "Render",
+      "target": "Render",
+      "note": ""
+    },
+    {
+      "id": "794e7add1ea2",
+      "source": " node which will be explained on this page.",
+      "target": " 节点；本页会对此进行说明。",
+      "note": ""
+    },
+    {
+      "id": "f0cbaba299fc",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "690f7f33b25e",
+      "source": "Source",
+      "target": "Source",
+      "note": ""
+    },
+    {
+      "id": "4ba5f500cfcd",
+      "source": " column holds all the nodes which can be set to one of our build in render passes.",
+      "target": "”列包含所有可设置为内置渲染通道之一的节点。",
+      "note": ""
+    },
+    {
+      "id": "b304617bdee9",
+      "source": "The nodes in the ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "d70705440e16",
+      "source": "Destination",
+      "target": "Destination",
+      "note": ""
+    },
+    {
+      "id": "330eb4004a32",
+      "source": " column represent each render pass to be exported. Depending on the render settings, each node is exported to a seperate layer in a exr file or to a seperate image sequence.",
+      "target": "”列中的节点代表要导出的各个渲染通道。根据渲染设置，每个节点会导出到 EXR 文件中的独立图层，或导出为独立图像序列。",
+      "note": ""
+    },
+    {
+      "id": "bbbc7d0edcf5",
+      "source": " Hide or show channel mapping.",
+      "target": " 隐藏或显示通道映射。",
+      "note": ""
+    },
+    {
+      "id": "9fac4274a7ba",
+      "source": " Reorder Render Pass. By ",
+      "target": "重新排序渲染通道。通过",
+      "note": ""
+    },
+    {
+      "id": "d89074cb8d3d",
+      "source": " clicking and dragging this icon, you can move the render pass to a different position in the list. The new position of the render pass is indicated with a blue line while dragging. This can be useful to move a specific render pass to the top as the top one shows in the preview while exporting.",
+      "target": "单击并拖动此图标，可以将渲染通道移动到列表中的不同位置。拖动时，蓝线会指示渲染通道的新位置。这可用于将某个渲染通道移到顶部，因为导出时预览中会显示最顶部的渲染通道。",
+      "note": ""
+    },
+    {
+      "id": "e59cdde97a82",
+      "source": "Render passes dropdown menu. When clicking on this, a dropdown menu appears where you can pick a render pass to set the node to.",
+      "target": "渲染通道下拉菜单。单击后会出现下拉菜单，可在其中选择要将节点设置为的渲染通道。",
+      "note": ""
+    },
+    {
+      "id": "613b2888aef9",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "ef1968df1456",
+      "source": " Some render passes will have an ",
+      "target": " 某些渲染通道名称旁会有 ",
+      "note": ""
+    },
+    {
+      "id": "a3458dfab179",
+      "source": "RAW",
+      "target": "RAW",
+      "note": ""
+    },
+    {
+      "id": "8ade50e336ec",
+      "source": " toggle button next to their name. When this is enabled, tonemapping is bypassed and the full range of colors can be exported. Note that only the exr file format supports this correctly.",
+      "target": " 切换按钮。启用后会绕过色调映射，并可导出完整颜色范围。请注意，只有 EXR 文件格式能正确支持这一点。",
+      "note": ""
+    },
+    {
+      "id": "9740f26cd82b",
+      "source": "Render pass output name. This box displays the name given to the render pass. When left untouched, this name is inherited from the incoming render pass. When ",
+      "target": "渲染通道输出名称。此框显示分配给渲染通道的名称。如果未修改，此名称会继承自传入渲染通道。",
+      "note": ""
+    },
+    {
+      "id": "5cbb21b18efa",
+      "source": " clicking within this box, you can set the ouput name to something custom by typing it in.",
+      "target": "在此框中单击时，可以输入自定义输出名称。",
+      "note": ""
+    },
+    {
+      "id": "3901b8a2f2d8",
+      "source": "Channel dropdown menu. Here, you can pick the amount of channels for the destination render pass. This can be useful to make sure you’re not using empty channels or to add more channels to be connected to sources from different render passes.",
+      "target": "通道下拉菜单。这里可以选择目标渲染通道的通道数量。这有助于确保不使用空通道，或添加更多通道以连接来自不同渲染通道的源。",
+      "note": ""
+    },
+    {
+      "id": "0636eb0f85ed",
+      "source": " Remove a render pass.",
+      "target": " 移除渲染通道。",
+      "note": ""
+    },
+    {
+      "id": "5d4a0cbe6431",
+      "source": "Source channels labels. Shows the names of the source channels like ",
+      "target": "源通道标签。显示源通道名称，例如 ",
+      "note": ""
+    },
+    {
+      "id": "92f731233af5",
+      "source": "Red,Green,Blue",
+      "target": "Red、Green、Blue",
+      "note": ""
+    },
+    {
+      "id": "f690aa53c0aa",
+      "source": "Mask",
+      "target": "Mask",
+      "note": ""
+    },
+    {
+      "id": "59ba9e79b382",
+      "source": ", or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "82c4ea3c6be9",
+      "source": "Alpha",
+      "target": "Alpha",
+      "note": ""
+    },
+    {
+      "id": "5baba8ee9e9f",
+      "source": "Source output pins. ",
+      "target": "源输出引脚。",
+      "note": ""
+    },
+    {
+      "id": "3dee448b12c6",
+      "source": " click and drag from this pin to a destination input pin to map these channels to each other. By ",
+      "target": "从此引脚单击并拖动到目标输入引脚，可以将这些通道相互映射。通过",
+      "note": ""
+    },
+    {
+      "id": "e053a70c04c5",
+      "source": " double clicking on this pin you can remove all connections from it.",
+      "target": "双击此引脚，可以移除它的所有连接。",
+      "note": ""
+    },
+    {
+      "id": "fc46ea2ae941",
+      "source": "Connection line. Represents a connection between a source and a destination channel. When connected, the lines are grey. When being dragged, the lines are blue. When being dragged far enough to be released and connected, the lines are green. When about to being removed/overwritten, the lines are red.",
+      "target": "连接线。表示源通道与目标通道之间的连接。已连接时线条为灰色；拖动时为蓝色；拖动距离足够、即将释放并连接时为绿色；即将被移除或覆盖时为红色。",
+      "note": ""
+    },
+    {
+      "id": "30fc2c13b5ee",
+      "source": "Destination input pins. ",
+      "target": "目标输入引脚。",
+      "note": ""
+    },
+    {
+      "id": "4ea8939d0c17",
+      "source": " click and drag from this pin to a source output pin to map these channels to each other. By ",
+      "target": "从此引脚单击并拖动到源输出引脚，可以将这些通道相互映射。通过",
+      "note": ""
+    },
+    {
+      "id": "c102eceba3e6",
+      "source": " double clicking on this pin you can remove all connections from it.",
+      "target": "双击此引脚，可以移除它的所有连接。",
+      "note": ""
+    },
+    {
+      "id": "fbf5efe343b5",
+      "source": "Destination channels labels. Shows the names of the destination channels.",
+      "target": "目标通道标签。显示目标通道的名称。",
+      "note": ""
+    },
+    {
+      "id": "1a39516d1f63",
+      "source": "Add Render Pass:",
+      "target": "Add Render Pass：",
+      "note": ""
+    },
+    {
+      "id": "4c153eed1245",
+      "source": " Clicking this will open a dropdown menu where you can search for a render pass to add to the list of render passes to be exported.",
+      "target": " 单击此项会打开下拉菜单，可在其中搜索渲染通道并添加到待导出的渲染通道列表。",
+      "note": ""
+    },
+    {
+      "id": "8ef9b1e31e6e",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "706b3b0ccbe3",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "27b26e92d1cc",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "eb7ff6962f3a",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "a0c55c25a7de",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "af5197b762a1",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "bea10fc95298",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "f890c259c1d2",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "e0c01683ad5e",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "08536d82066b",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "2a57a98d838b",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    }
+  ],
+  "updated_at": "2026-07-03T10:45:43Z"
+}

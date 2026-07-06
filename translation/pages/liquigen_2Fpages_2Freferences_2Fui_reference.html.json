@@ -1,0 +1,4134 @@
+{
+  "path": "liquigen/pages/references/ui_reference.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "02a7e1da5cab",
+      "source": "User Interface - JangaFX Documentation",
+      "target": "用户界面 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "79fbc3f02a85",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "72311244f3eb",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "2121e7ee007a",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "debbc7f36620",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "06d8b1b6ef8b",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "1f92c5942add",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "7d28140a2e0d",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "5e5731521796",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "98eb69a35fea",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "2249bb8e908d",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "fedf05af5756",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "7947d866f734",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "8d2bd0ed0fb5",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "71371763b0c0",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "fd5e84c03d47",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "963350f35c7e",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "521d3bf9d82f",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "19fc69dbe536",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "0280caf6f797",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "08f95998b39b",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "40ea0e817e05",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "7463ac57c684",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "216080bada8f",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "a07a1454e306",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "ea5cc8d1e826",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "153175d520a8",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "58235e64c7a0",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "00b95a2c9d13",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "a80d826c865e",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "cc4d88861a5d",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "ace0791436d6",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "68d6d99f8665",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "33511987a125",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "01ff11d64df7",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "5b89208a3752",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "0782d364f526",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "e87b6dab06f9",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "171575b39a6f",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "57116ed1d428",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "2e44d3ebbb0e",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "c83ebf487f00",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "8c0f046cfd6d",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "78b430c4eca0",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "b1d205fbb7b0",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "77d15eafac5d",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "f9b25e448f6c",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "804818eccd4a",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "9fea6b3d6630",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "a20d73c5b9f4",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "6c2e69daf305",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "be5cbbd12360",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "9bc88b43170e",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "93be8316fb76",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "03ee56a099cd",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "56aef31baecf",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "3563485e29ec",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "65d28879e8b9",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "bf6b0a020b4c",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "313ad8625069",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "0e47858d5e37",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "89c1078a6fc3",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "2941cef22693",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "e96754ce606c",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "1aae3ffe1331",
+      "source": "On this page, you will find a description of all aspects of our user interface.",
+      "target": "本页会说明用户界面的各个方面。",
+      "note": ""
+    },
+    {
+      "id": "775424b64509",
+      "source": "Menubar",
+      "target": "菜单栏",
+      "note": ""
+    },
+    {
+      "id": "d5fe31370aaa",
+      "source": " Open or close project manager.",
+      "target": " 打开或关闭项目管理器。",
+      "note": ""
+    },
+    {
+      "id": "3baaeea48793",
+      "source": "File:",
+      "target": "File：",
+      "note": ""
+    },
+    {
+      "id": "57ff02c13a49",
+      "source": "New Project",
+      "target": "New Project",
+      "note": ""
+    },
+    {
+      "id": "d595903d246c",
+      "source": "Ctrl + N",
+      "target": "Ctrl + N",
+      "note": ""
+    },
+    {
+      "id": "6b63698785f9",
+      "source": ": Leave the current project and start from the default preset If the current project has unsaved changes it will prompt you to ask if you want to save or not.",
+      "target": "：离开当前项目，并从默认预设开始。如果当前项目有未保存的更改，会弹出提示询问是否保存。",
+      "note": ""
+    },
+    {
+      "id": "a24dbb2ba6ad",
+      "source": "Open Project",
+      "target": "Open Project",
+      "note": ""
+    },
+    {
+      "id": "5e1e5135b69e",
+      "source": "Ctrl + O",
+      "target": "Ctrl + O",
+      "note": ""
+    },
+    {
+      "id": "0cebc750279c",
+      "source": ": This will open a file browser so you can select a ",
+      "target": "：打开文件浏览器，以便选择要打开的 ",
+      "note": ""
+    },
+    {
+      "id": "1cc21860bf28",
+      "source": ".liquigen",
+      "target": ".liquigen",
+      "note": ""
+    },
+    {
+      "id": "ce8e5b03be46",
+      "source": " file to open.",
+      "target": " 文件。",
+      "note": ""
+    },
+    {
+      "id": "62c9fa2b3c58",
+      "source": "Recent Projects:",
+      "target": "Recent Projects：",
+      "note": ""
+    },
+    {
+      "id": "3c7900ca0cc1",
+      "source": "Ctrl + Shift + P",
+      "target": "Ctrl + Shift + P",
+      "note": ""
+    },
+    {
+      "id": "d76e7c279c89",
+      "source": " When hovering over this menu item it will open a menu to the right where you can pick a recently opened project.",
+      "target": " 将鼠标悬停在此菜单项上时，会在右侧打开一个菜单，可从中选择最近打开的项目。",
+      "note": ""
+    },
+    {
+      "id": "c9e96102a0e0",
+      "source": "Save",
+      "target": "Save",
+      "note": ""
+    },
+    {
+      "id": "16a0ec54fc3a",
+      "source": "Ctrl + S",
+      "target": "Ctrl + S",
+      "note": ""
+    },
+    {
+      "id": "27dcb5d44657",
+      "source": ": Save the project to update the ",
+      "target": "：保存项目以更新 ",
+      "note": ""
+    },
+    {
+      "id": "3ead06255d1f",
+      "source": ".liquigen",
+      "target": ".liquigen",
+      "note": ""
+    },
+    {
+      "id": "c2e5c3cb79a8",
+      "source": " file",
+      "target": " 文件",
+      "note": ""
+    },
+    {
+      "id": "ca99501b8716",
+      "source": "Save As…",
+      "target": "Save As…",
+      "note": ""
+    },
+    {
+      "id": "138a446584c0",
+      "source": "Ctrl + Shift + S",
+      "target": "Ctrl + Shift + S",
+      "note": ""
+    },
+    {
+      "id": "332879272b7e",
+      "source": ": This opens a file browser where you can define the filepath and filename of your project.",
+      "target": "：打开文件浏览器，可在其中定义项目的文件路径和文件名。",
+      "note": ""
+    },
+    {
+      "id": "c3fc74ad1578",
+      "source": "Increment and Save",
+      "target": "Increment and Save",
+      "note": ""
+    },
+    {
+      "id": "e4bb7b22ab33",
+      "source": "Alt + Shift + S",
+      "target": "Alt + Shift + S",
+      "note": ""
+    },
+    {
+      "id": "47412665eff5",
+      "source": " : Saves an incremented copy of your current project file next to your project file. So if you’re working in ",
+      "target": "：在项目文件旁边保存当前项目文件的递增副本。例如，如果当前正在处理 ",
+      "note": ""
+    },
+    {
+      "id": "dabc6b47228a",
+      "source": "myProject1.liquigen",
+      "target": "myProject1.liquigen",
+      "note": ""
+    },
+    {
+      "id": "358b533c51e0",
+      "source": ", your project will be saved as ",
+      "target": "，项目会被保存为 ",
+      "note": ""
+    },
+    {
+      "id": "a068c8bef087",
+      "source": "myProject2.liquigen",
+      "target": "myProject2.liquigen",
+      "note": ""
+    },
+    {
+      "id": "0db5502184e0",
+      "source": " in the same folder as ",
+      "target": "，并放在与 ",
+      "note": ""
+    },
+    {
+      "id": "e05f36b04f7d",
+      "source": "myProject1.liquigen",
+      "target": "myProject1.liquigen",
+      "note": ""
+    },
+    {
+      "id": "8432b05dac1d",
+      "source": " and you will automatically continue working in ",
+      "target": " 相同的文件夹中；你会自动继续在 ",
+      "note": ""
+    },
+    {
+      "id": "c6ecad3a0efc",
+      "source": "myProject2.liquigen",
+      "target": "myProject2.liquigen",
+      "note": ""
+    },
+    {
+      "id": "adc4b431de4e",
+      "source": ". Note that the project is saved ",
+      "target": " 文件中工作。请注意，项目是在递增",
+      "note": ""
+    },
+    {
+      "id": "7692d3e93008",
+      "source": "after",
+      "target": "之后",
+      "note": ""
+    },
+    {
+      "id": "1b56ee15b42c",
+      "source": " incrementing. If your project doesn’t end with a number, ",
+      "target": "保存的。如果项目名不是以数字结尾，第一次递增时会添加 ",
+      "note": ""
+    },
+    {
+      "id": "234696e6c110",
+      "source": " will be added to the first increment.",
+      "target": "。",
+      "note": ""
+    },
+    {
+      "id": "02aed4f03599",
+      "source": "Import…",
+      "target": "Import…",
+      "note": ""
+    },
+    {
+      "id": "919c2bc7c531",
+      "source": "Ctrl + Shift + I",
+      "target": "Ctrl + Shift + I",
+      "note": ""
+    },
+    {
+      "id": "6ad602b5c1e1",
+      "source": ": Opens the file browser so you can look for a ",
+      "target": "：打开文件浏览器，以便查找要导入项目的 ",
+      "note": ""
+    },
+    {
+      "id": "51ad56ac48e4",
+      "source": ".fbx,.obj",
+      "target": ".fbx、.obj",
+      "note": ""
+    },
+    {
+      "id": "c3796e6ad125",
+      "source": ", or ",
+      "target": "，或 ",
+      "note": ""
+    },
+    {
+      "id": "6688d8637408",
+      "source": ".abc",
+      "target": ".abc",
+      "note": ""
+    },
+    {
+      "id": "acb160659aa9",
+      "source": " file to import into your project. An ",
+      "target": " 文件。节点图中会使用指定资产创建一个 ",
+      "note": ""
+    },
+    {
+      "id": "7823be21750d",
+      "source": "Import",
+      "target": "Import",
+      "note": ""
+    },
+    {
+      "id": "b0db335e36d2",
+      "source": " node will be created in the node graph using the specified asset.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "2e27042880b0",
+      "source": "Export…:",
+      "target": "Export…：",
+      "note": ""
+    },
+    {
+      "id": "c5ce29734b71",
+      "source": " Instantly exports all ",
+      "target": " 立即导出项目中的所有 ",
+      "note": ""
+    },
+    {
+      "id": "60359596212e",
+      "source": "Export",
+      "target": "Export",
+      "note": ""
+    },
+    {
+      "id": "cd13c7a1577c",
+      "source": " nodes in the project.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "261e79d28e29",
+      "source": "Export Variations…:",
+      "target": "Export Variations…：",
+      "note": ""
+    },
+    {
+      "id": "fe735fb87338",
+      "source": " Opens the ",
+      "target": " 打开 ",
+      "note": ""
+    },
+    {
+      "id": "3bc653bc0947",
+      "source": "Export Variations",
+      "target": "Export Variations",
+      "note": ""
+    },
+    {
+      "id": "a4ff0f3addfd",
+      "source": " window for when you want to export a number of unique elements. For more information on this, please check out our ",
+      "target": " 窗口，用于导出多个独特元素。关于这一点的更多信息，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "efb79d4f07aa",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "b4069c473027",
+      "source": " page.",
+      "target": " 页面。",
+      "note": ""
+    },
+    {
+      "id": "fbfa0a3fa5a5",
+      "source": "Quit",
+      "target": "Quit",
+      "note": ""
+    },
+    {
+      "id": "ca13261792fe",
+      "source": "Ctrl + Q",
+      "target": "Ctrl + Q",
+      "note": ""
+    },
+    {
+      "id": "21a660efd259",
+      "source": ": Close LiquiGen",
+      "target": "：关闭 LiquiGen",
+      "note": ""
+    },
+    {
+      "id": "611f7ccef784",
+      "source": "Edit:",
+      "target": "Edit：",
+      "note": ""
+    },
+    {
+      "id": "12eda6306a41",
+      "source": "Undo",
+      "target": "Undo",
+      "note": ""
+    },
+    {
+      "id": "5841205996da",
+      "source": "Ctrl + Z",
+      "target": "Ctrl + Z",
+      "note": ""
+    },
+    {
+      "id": "8d0d961e2dee",
+      "source": ": Undo action.",
+      "target": "：撤销操作。",
+      "note": ""
+    },
+    {
+      "id": "525c23a9fec6",
+      "source": "This can be all sorts of things like changing a parameter or creating a node.",
+      "target": "这可以包括各种操作，例如更改参数或创建节点。",
+      "note": ""
+    },
+    {
+      "id": "21c1fcd5381b",
+      "source": "Redo",
+      "target": "Redo",
+      "note": ""
+    },
+    {
+      "id": "f41fb7af4a83",
+      "source": "Ctrl + Y",
+      "target": "Ctrl + Y",
+      "note": ""
+    },
+    {
+      "id": "68fbf6b1b8e3",
+      "source": " or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "4f0a547e1672",
+      "source": "Ctrl + Shift + Z",
+      "target": "Ctrl + Shift + Z",
+      "note": ""
+    },
+    {
+      "id": "cbb409b06ce5",
+      "source": ": Redo action.",
+      "target": "：重做操作。",
+      "note": ""
+    },
+    {
+      "id": "396177146d01",
+      "source": "Delete",
+      "target": "Delete",
+      "note": ""
+    },
+    {
+      "id": "540bfdbb2f1b",
+      "source": "Delete",
+      "target": "Delete",
+      "note": ""
+    },
+    {
+      "id": "7a48a16b4d86",
+      "source": " or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "5ecd6191ea83",
+      "source": "Backspace",
+      "target": "Backspace",
+      "note": ""
+    },
+    {
+      "id": "2d7aa742e546",
+      "source": ": You can delete, cut, copy and paste things like nodes or keyframes.",
+      "target": "：可以删除、剪切、复制和粘贴节点或关键帧等内容。",
+      "note": ""
+    },
+    {
+      "id": "b8fcb7dc18bd",
+      "source": "Cut",
+      "target": "Cut",
+      "note": ""
+    },
+    {
+      "id": "b58f28fe6abd",
+      "source": "Ctrl + X",
+      "target": "Ctrl + X",
+      "note": ""
+    },
+    {
+      "id": "ddf2cffe7bf6",
+      "source": "Copy",
+      "target": "Copy",
+      "note": ""
+    },
+    {
+      "id": "c1216f70d6c5",
+      "source": "Ctrl + C",
+      "target": "Ctrl + C",
+      "note": ""
+    },
+    {
+      "id": "074532c02a95",
+      "source": "Paste",
+      "target": "Paste",
+      "note": ""
+    },
+    {
+      "id": "091d26187469",
+      "source": "Ctrl + V",
+      "target": "Ctrl + V",
+      "note": ""
+    },
+    {
+      "id": "01bcbe549ecf",
+      "source": "Simulation:",
+      "target": "Simulation：",
+      "note": ""
+    },
+    {
+      "id": "a36068a27e02",
+      "source": "Hard Reset",
+      "target": "Hard Reset",
+      "note": ""
+    },
+    {
+      "id": "63bdb62c9474",
+      "source": "Ctrl + R",
+      "target": "Ctrl + R",
+      "note": ""
+    },
+    {
+      "id": "40296b05b58c",
+      "source": ": Restarts the simulation from the beginning.",
+      "target": "：从头重新开始模拟。",
+      "note": ""
+    },
+    {
+      "id": "ed4c02ef177b",
+      "source": "Reset",
+      "target": "Reset",
+      "note": ""
+    },
+    {
+      "id": "64c6ba7c1e56",
+      "source": ": Restarts the simulation from the beginning of the loop bounds, or from the beginning of the timeline if there is none.",
+      "target": "：从循环边界的开头重新开始模拟；如果没有循环边界，则从时间轴开头重新开始。",
+      "note": ""
+    },
+    {
+      "id": "9d219ce453da",
+      "source": "Step Once",
+      "target": "Step Once",
+      "note": ""
+    },
+    {
+      "id": "ebd7c73e515d",
+      "source": ": Move one frame forward in the simulation.",
+      "target": "：将模拟向前推进一帧。",
+      "note": ""
+    },
+    {
+      "id": "2cdc31fc5507",
+      "source": "Pause",
+      "target": "Pause",
+      "note": ""
+    },
+    {
+      "id": "14e6d6d7192f",
+      "source": "Space",
+      "target": "Space",
+      "note": ""
+    },
+    {
+      "id": "18d5b19b15a8",
+      "source": ": Play or pause the simulation.",
+      "target": "：播放或暂停模拟。",
+      "note": ""
+    },
+    {
+      "id": "af8d9fa09e63",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "117639a29dac",
+      "source": "Project Settings",
+      "target": "Project Settings",
+      "note": ""
+    },
+    {
+      "id": "2f560f5c4222",
+      "source": "Preferences",
+      "target": "Preferences",
+      "note": ""
+    },
+    {
+      "id": "3567745a98bd",
+      "source": "Account:",
+      "target": "Account：",
+      "note": ""
+    },
+    {
+      "id": "53ac944e5936",
+      "source": "Login…:",
+      "target": "Login…：",
+      "note": ""
+    },
+    {
+      "id": "7276d3357fef",
+      "source": " Opens the login window where you can log into your JangaFX account using your e-mail adress and password.",
+      "target": " 打开登录窗口，可使用电子邮件地址和密码登录 JangaFX 帐户。",
+      "note": ""
+    },
+    {
+      "id": "b3122e802daf",
+      "source": "When logged in, the following options are present in the ",
+      "target": "登录后，",
+      "note": ""
+    },
+    {
+      "id": "685ea01a28e0",
+      "source": "Account",
+      "target": "Account",
+      "note": ""
+    },
+    {
+      "id": "317f952e58e2",
+      "source": " dropdown menu:",
+      "target": " 下拉菜单中会出现以下选项：",
+      "note": ""
+    },
+    {
+      "id": "2b7f907fa789",
+      "source": "My Account",
+      "target": "My Account",
+      "note": ""
+    },
+    {
+      "id": "fa2271bb07fb",
+      "source": " : This will take you to our online account platform where you can manage your subscriptions and billing.",
+      "target": "：前往我们的在线帐户平台，可在那里管理订阅和账单。",
+      "note": ""
+    },
+    {
+      "id": "4c36df06da6c",
+      "source": "My Plans…:",
+      "target": "My Plans…：",
+      "note": ""
+    },
+    {
+      "id": "bef354797306",
+      "source": " Shows your active plans.",
+      "target": " 显示当前有效的计划。",
+      "note": ""
+    },
+    {
+      "id": "3bca30627f54",
+      "source": "Logout…:",
+      "target": "Logout…：",
+      "note": ""
+    },
+    {
+      "id": "b4ceeb871b68",
+      "source": " Logs you out of your JangaFX account. You can still use the software if you have an active license.",
+      "target": " 退出 JangaFX 帐户。只要有有效许可证，仍然可以使用软件。",
+      "note": ""
+    },
+    {
+      "id": "14de93d2fd82",
+      "source": "Help:",
+      "target": "Help：",
+      "note": ""
+    },
+    {
+      "id": "78688a2f7d33",
+      "source": "JangaFX.com…",
+      "target": "JangaFX.com…",
+      "note": ""
+    },
+    {
+      "id": "fe0722dc91f2",
+      "source": " : This will take you to the JangaFX website where you can see our products, preset marketplace, pricing page, and more!",
+      "target": "：前往 JangaFX 网站，可查看产品、预设市场、定价页面等内容！",
+      "note": ""
+    },
+    {
+      "id": "e945d944f768",
+      "source": "License Manager:",
+      "target": "License Manager：",
+      "note": ""
+    },
+    {
+      "id": "8281dd0d673c",
+      "source": " Opens the ",
+      "target": " 打开 ",
+      "note": ""
+    },
+    {
+      "id": "bbd81b48999d",
+      "source": "License Manager",
+      "target": "License Manager",
+      "note": ""
+    },
+    {
+      "id": "8ea1f6b2204d",
+      "source": " window. Please check our ",
+      "target": " 窗口。更多信息请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "f03c5dc26937",
+      "source": "Licensing",
+      "target": "许可",
+      "note": "translation memory"
+    },
+    {
+      "id": "e58f3e378b01",
+      "source": " section for more information.",
+      "target": " 部分。",
+      "note": ""
+    },
+    {
+      "id": "917a92edd6bc",
+      "source": "Release Notes…:",
+      "target": "Release Notes…：",
+      "note": ""
+    },
+    {
+      "id": "288a5fd60c54",
+      "source": " Opens a window containing a list of all the changes the developers made to recent LiquiGen versions.",
+      "target": " 打开一个窗口，列出开发者在近期 LiquiGen 版本中所做的所有更改。",
+      "note": ""
+    },
+    {
+      "id": "a3e349c7736a",
+      "source": "3rd Party Licenses…:",
+      "target": "3rd Party Licenses…：",
+      "note": ""
+    },
+    {
+      "id": "9c23c6fbbf5c",
+      "source": " Opens a window containing a list license notices of resources used to develop LiquiGen.",
+      "target": " 打开一个窗口，列出用于开发 LiquiGen 的资源的许可证声明。",
+      "note": ""
+    },
+    {
+      "id": "56f4c0b187ae",
+      "source": "About…:",
+      "target": "About…：",
+      "note": ""
+    },
+    {
+      "id": "9e36ad61dfb1",
+      "source": " Opens a window with our company statement and a brief summary on what LiquiGen can do.",
+      "target": " 打开一个窗口，其中包含公司声明，以及 LiquiGen 功能的简要概述。",
+      "note": ""
+    },
+    {
+      "id": "242c87983017",
+      "source": "Filename of the current project. ",
+      "target": "当前项目的文件名。",
+      "note": ""
+    },
+    {
+      "id": "180be493a2cd",
+      "source": "(Edited)",
+      "target": "(Edited)",
+      "note": ""
+    },
+    {
+      "id": "08fbeb92820d",
+      "source": " will be displayed behind it whenever you have unsaved changes. Nothing will show here when opening the default preset, but after making a change to it, it will display ",
+      "target": " 会在存在未保存更改时显示在文件名后面。打开默认预设时这里不会显示任何内容，但对其做出更改后，会显示 ",
+      "note": ""
+    },
+    {
+      "id": "f2607f81772b",
+      "source": "Untitled(Edited)",
+      "target": "Untitled(Edited)",
+      "note": ""
+    },
+    {
+      "id": "947edc57a231",
+      "source": ". A file browser will pop up to set the file name and location when trying to save an untitled file.",
+      "target": "。尝试保存未命名文件时，会弹出文件浏览器来设置文件名和位置。",
+      "note": ""
+    },
+    {
+      "id": "4c20c2a449ff",
+      "source": " Show project notes. Opens the ",
+      "target": " 显示项目备注。打开 ",
+      "note": ""
+    },
+    {
+      "id": "ae7d9db2b5df",
+      "source": "Project Notes",
+      "target": "Project Notes",
+      "note": ""
+    },
+    {
+      "id": "cb006e4147a9",
+      "source": " window. This icon only appears when notes are added to the project which can be done in ",
+      "target": " 窗口。只有在项目中添加备注时，此图标才会出现；可以在 ",
+      "note": ""
+    },
+    {
+      "id": "07c8d0a99e23",
+      "source": "Settings>Project Settings…>",
+      "target": "Settings > Project Settings… >",
+      "note": ""
+    },
+    {
+      "id": "52dcc5ef77f8",
+      "source": "Notes",
+      "target": "Notes 中完成。",
+      "note": ""
+    },
+    {
+      "id": "901865da2645",
+      "source": "Update Available:",
+      "target": "Update Available：",
+      "note": ""
+    },
+    {
+      "id": "d47d22d43e3a",
+      "source": " This button will show up when the software is not at the latest version. You can click on this button to start updating to the latest version. Click ",
+      "target": " 此按钮会在软件不是最新版本时显示。可以单击此按钮开始更新到最新版本。在弹出窗口中单击 ",
+      "note": ""
+    },
+    {
+      "id": "0b92b35b9393",
+      "source": "Update",
+      "target": "Update",
+      "note": ""
+    },
+    {
+      "id": "0e45f796ece0",
+      "source": " and then ",
+      "target": "，然后单击 ",
+      "note": ""
+    },
+    {
+      "id": "4b226cedb579",
+      "source": "Finish",
+      "target": "Finish",
+      "note": ""
+    },
+    {
+      "id": "05a4a7ad392e",
+      "source": " in the pop-up window to complete the updating process.",
+      "target": " 来完成更新流程。",
+      "note": ""
+    },
+    {
+      "id": "7e4c57d56e23",
+      "source": "ALPHA:",
+      "target": "ALPHA：",
+      "note": ""
+    },
+    {
+      "id": "74f69aeeebb8",
+      "source": " If this label is here, it means that the software is still in a very early version, many bugs and missing features are expected!",
+      "target": " 如果此标签出现在这里，表示软件仍处于非常早期版本，可能会有很多 bug 和缺失功能！",
+      "note": ""
+    },
+    {
+      "id": "e2bde6b802ad",
+      "source": "Minimize the LiquiGen window.",
+      "target": "最小化 LiquiGen 窗口。",
+      "note": ""
+    },
+    {
+      "id": "a8b91000e857",
+      "source": "Maximize the LiquiGen window.",
+      "target": "最大化 LiquiGen 窗口。",
+      "note": ""
+    },
+    {
+      "id": "9aaf3299db7b",
+      "source": "Close LiquiGen.",
+      "target": "关闭 LiquiGen。",
+      "note": ""
+    },
+    {
+      "id": "c6d4d6a6c4df",
+      "source": "Viewport",
+      "target": "视口",
+      "note": ""
+    },
+    {
+      "id": "2400692a67a0",
+      "source": "This is where you can view your simulations, shapes, forces or anything that’s in the scene.",
+      "target": "这里可以查看模拟、形状、力，或场景中的任何内容。",
+      "note": ""
+    },
+    {
+      "id": "bbbc553c392c",
+      "source": " Using ",
+      "target": " 使用 ",
+      "note": ""
+    },
+    {
+      "id": "174813391084",
+      "source": " dragging, you can use this icon to rearrange the UI layout by moving the 4 main sections.",
+      "target": "拖动，可以通过此图标移动 4 个主要区块来重新排列 UI 布局。",
+      "note": ""
+    },
+    {
+      "id": "da219f770cdc",
+      "source": "Scene",
+      "target": "Scene",
+      "note": ""
+    },
+    {
+      "id": "bbcaef3f9a2f",
+      "source": " is the default tab where you can view and manipulate everything.",
+      "target": " 是默认选项卡，可在其中查看和操作所有内容。",
+      "note": ""
+    },
+    {
+      "id": "8163b17d06f7",
+      "source": " Dropdown menu of the available cameras. Here, you can select which camera you want to look through.",
+      "target": " 可用摄像机的下拉菜单。在这里可以选择要透过哪台摄像机查看。",
+      "note": ""
+    },
+    {
+      "id": "da6553bf3f52",
+      "source": " Dropdown menu of all the things that can be hidden or viewed in the ",
+      "target": " 可在 ",
+      "note": ""
+    },
+    {
+      "id": "9c4a983fdd59",
+      "source": "Scene",
+      "target": "Scene",
+      "note": ""
+    },
+    {
+      "id": "1ab6a55c28b3",
+      "source": " tab.",
+      "target": " 选项卡中隐藏或显示的所有内容的下拉菜单。",
+      "note": ""
+    },
+    {
+      "id": "7ff51539abe9",
+      "source": "Path tracing",
+      "target": "Path tracing",
+      "note": ""
+    },
+    {
+      "id": "9ca73c8773f0",
+      "source": "Ctrl + T",
+      "target": "Ctrl + T",
+      "note": ""
+    },
+    {
+      "id": "e96c97bdd7d9",
+      "source": " Toggles path tracing mode in the viewport which is a more realistic way of rendering at the expense of time and performance.",
+      "target": " 切换视口中的路径追踪模式；它是一种更真实的渲染方式，但会牺牲时间和性能。",
+      "note": ""
+    },
+    {
+      "id": "1c7bf51115bd",
+      "source": "Shapes",
+      "target": "Shapes",
+      "note": ""
+    },
+    {
+      "id": "554f1216c13b",
+      "source": "Liquid Mesh",
+      "target": "Liquid Mesh",
+      "note": ""
+    },
+    {
+      "id": "b4921511c411",
+      "source": ") Show or hide the liquid in the viewport.",
+      "target": ") 显示或隐藏视口中的液体。",
+      "note": ""
+    },
+    {
+      "id": "be09d1417f38",
+      "source": "Whitewater",
+      "target": "Whitewater",
+      "note": ""
+    },
+    {
+      "id": "c253eb01ea0a",
+      "source": " Show or hide the white water in the viewport. (whitewater is not on by default and has to be setup using the ",
+      "target": " 显示或隐藏视口中的白水。（白水默认未启用，必须使用 ",
+      "note": ""
+    },
+    {
+      "id": "61a8b68b93f8",
+      "source": "Whitewater",
+      "target": "Whitewater",
+      "note": ""
+    },
+    {
+      "id": "fd31e41617f0",
+      "source": " node) White water is a collection of particles seperated in three elements:",
+      "target": " 节点设置）白水是由三种元素分开的粒子集合：",
+      "note": ""
+    },
+    {
+      "id": "4ef3c730f71a",
+      "source": " Spray: Represents the the small liquid particles around a water surface.",
+      "target": " Spray（飞溅）：表示水面周围的小型液体粒子。",
+      "note": ""
+    },
+    {
+      "id": "c79dc022fc07",
+      "source": " Foam: Represents the bubbles on top of a water surface.",
+      "target": " Foam（泡沫）：表示水面顶部的气泡。",
+      "note": ""
+    },
+    {
+      "id": "69409920bea0",
+      "source": " Bubbles: Represents the bubbles inside the liquid.",
+      "target": " Bubbles（气泡）：表示液体内部的气泡。",
+      "note": ""
+    },
+    {
+      "id": "013618efcf92",
+      "source": "Manipulator Switcher",
+      "target": "Manipulator Switcher",
+      "note": ""
+    },
+    {
+      "id": "1157027887f8",
+      "source": " This shows the Move ",
+      "target": " 这会显示 Move ",
+      "note": ""
+    },
+    {
+      "id": "6a5cd15a17dd",
+      "source": "), Rotate ",
+      "target": "), Rotate ",
+      "note": ""
+    },
+    {
+      "id": "153ef9be70ed",
+      "source": "), and Scale ",
+      "target": ") 和 Scale ",
+      "note": ""
+    },
+    {
+      "id": "2ec19883762b",
+      "source": ") buttons.",
+      "target": ") 按钮。",
+      "note": ""
+    },
+    {
+      "id": "aa2da62ba36a",
+      "source": "Camera Gizmo",
+      "target": "Camera Gizmo",
+      "note": ""
+    },
+    {
+      "id": "319ca5546077",
+      "source": ") Visual representation of the viewport orientation of the active camera. You can ",
+      "target": ") 活动摄像机视口方向的可视化表示。可以",
+      "note": ""
+    },
+    {
+      "id": "95af2a00f1a7",
+      "source": " click on the dots to orient the view to that axis. Or ",
+      "target": "单击圆点，将视图定向到该轴。也可以",
+      "note": ""
+    },
+    {
+      "id": "67a3821d60bb",
+      "source": " click and drag the sphere to rotate the view.",
+      "target": "单击并拖动球体来旋转视图。",
+      "note": ""
+    },
+    {
+      "id": "832201b58e97",
+      "source": "Stats",
+      "target": "Stats",
+      "note": ""
+    },
+    {
+      "id": "f153bcc94087",
+      "source": "Shift + S",
+      "target": "Shift + S",
+      "note": ""
+    },
+    {
+      "id": "f37b9c51ccdf",
+      "source": ") Statistics about the simulation that can be useful to manage computational and memory resources or to find issues. The stats using percentages can be useful to see if you need to lower (when seeing low percentages) or increase (when clipping to 100%) allocated resources.",
+      "target": ") 关于模拟的统计信息，可用于管理计算和内存资源，或查找问题。带百分比的统计信息可帮助判断是否需要降低（看到较低百分比时）或提高（接近 100% 裁切时）分配的资源。",
+      "note": ""
+    },
+    {
+      "id": "4e9eff5316da",
+      "source": "Time simulating:",
+      "target": "Time simulating：",
+      "note": ""
+    },
+    {
+      "id": "86e4482dbaf2",
+      "source": " The time the solver has been running since the last simulation reset. The number in parentheses is the speed at which the playback is running compared to the step rate. For example, if the step rate is 60Hz and the simulation is running at 60fps this value will be 1. The step rate can be found in the ",
+      "target": " 求解器自上次重置模拟以来运行的时间。括号中的数字表示播放速度相对于步进率的倍率。例如，如果步进率为 60Hz，模拟以 60fps 运行，则该值为 1。步进率可在 ",
+      "note": ""
+    },
+    {
+      "id": "bb1a50071da5",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "e29cb1b21d63",
+      "source": " tab of the ",
+      "target": " 选项卡中，属于 ",
+      "note": ""
+    },
+    {
+      "id": "4eb28be5f97d",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "1c2dd657d53f",
+      "source": " node.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "0551c31bd971",
+      "source": "VRAM in use:",
+      "target": "VRAM in use：",
+      "note": ""
+    },
+    {
+      "id": "abc019b87949",
+      "source": " The amount of VRAM currently used by the software in gigabytes. Higher end graphics cards have more VRAM and can do bigger simulations.",
+      "target": " 软件当前使用的 VRAM 数量，单位为 GB。高端显卡拥有更多 VRAM，可以运行更大的模拟。",
+      "note": ""
+    },
+    {
+      "id": "e7b313623cb4",
+      "source": "Num particles:",
+      "target": "Num particles：",
+      "note": ""
+    },
+    {
+      "id": "acaef83468bf",
+      "source": " Number of particles currently in the scene. The percentage is the amount of the maximum number of particles which you can specify in the ",
+      "target": " 场景中当前粒子数量。百分比表示相对于最大粒子数量的占比，最大粒子数可在 ",
+      "note": ""
+    },
+    {
+      "id": "2e8d096dd455",
+      "source": "Resources",
+      "target": "Resources",
+      "note": ""
+    },
+    {
+      "id": "0a7ed6e8ea33",
+      "source": " tab in the ",
+      "target": " 选项卡中，位于 ",
+      "note": ""
+    },
+    {
+      "id": "abec6fee1f6a",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "d8396b37f046",
+      "source": " node.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "af9994672350",
+      "source": "Num voxels:",
+      "target": "Num voxels：",
+      "note": ""
+    },
+    {
+      "id": "1ef2ca017ba8",
+      "source": " Number of voxels currently in the scene. The percentage is the amount of the maximum number of voxels which you can specify in the ",
+      "target": " 场景中当前体素数量。百分比表示相对于最大体素数量的占比，最大体素数可在 ",
+      "note": ""
+    },
+    {
+      "id": "08db1b83b6fc",
+      "source": "Resources",
+      "target": "Resources",
+      "note": ""
+    },
+    {
+      "id": "bf056f27e5aa",
+      "source": " tab in the ",
+      "target": " 选项卡中，位于 ",
+      "note": ""
+    },
+    {
+      "id": "43df4a4ab922",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "afc600265beb",
+      "source": " node. For more information on voxels, please check the ",
+      "target": " 节点中指定。有关体素的更多信息，请查看 ",
+      "note": ""
+    },
+    {
+      "id": "211c8e823088",
+      "source": "voxels",
+      "target": "体素",
+      "note": ""
+    },
+    {
+      "id": "a845aff3e7ae",
+      "source": " section.",
+      "target": " 章节。",
+      "note": ""
+    },
+    {
+      "id": "82136fccf15c",
+      "source": "Liquid vertices:",
+      "target": "Liquid vertices：",
+      "note": ""
+    },
+    {
+      "id": "0f7d1f713bbb",
+      "source": " Current number of vertices in the liquid mesh. The percentage is the amount of the maximum number of triangles times two. The maximum number of triangles can be specified in the ",
+      "target": " 液体网格中的当前顶点数。百分比表示相对于最大三角形数量两倍的占比。最大三角形数量可在 ",
+      "note": ""
+    },
+    {
+      "id": "1dadc5189eac",
+      "source": "Resources",
+      "target": "Resources",
+      "note": ""
+    },
+    {
+      "id": "3cd22cb90e0a",
+      "source": " tab in the ",
+      "target": " 选项卡中，位于 ",
+      "note": ""
+    },
+    {
+      "id": "6e85d788e443",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "b8aba21ab5c5",
+      "source": " node.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "eef574c2c03c",
+      "source": "Liquid triangles:",
+      "target": "Liquid triangles：",
+      "note": ""
+    },
+    {
+      "id": "c301df69a238",
+      "source": " Current number of triangles (polygons) in the liquid mesh. The percentage is the amount of the maximum number of triangles which you can specify in the ",
+      "target": " 液体网格中的当前三角形（多边形）数量。百分比表示相对于最大三角形数量的占比，最大三角形数量可在 ",
+      "note": ""
+    },
+    {
+      "id": "28985c603d8b",
+      "source": "Resources",
+      "target": "Resources",
+      "note": ""
+    },
+    {
+      "id": "546ce166531d",
+      "source": " tab in the ",
+      "target": " 选项卡中，位于 ",
+      "note": ""
+    },
+    {
+      "id": "0cb1e9ad86e3",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "1e5d030fc0a5",
+      "source": " node.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "a17816a208ee",
+      "source": "Whitewater parts:",
+      "target": "Whitewater parts（白水粒子）：",
+      "note": ""
+    },
+    {
+      "id": "9f7eb09c2b58",
+      "source": " Number of whitewater particles (16,17,18) currently in the scene. The percentage is the amount of the maximum number of particles which you can specify in the ",
+      "target": " 场景中当前白水粒子（16、17、18）数量。百分比表示相对于最大粒子数量的占比，最大粒子数可在 ",
+      "note": ""
+    },
+    {
+      "id": "f01c40e84a65",
+      "source": "Resources",
+      "target": "Resources",
+      "note": ""
+    },
+    {
+      "id": "e95a45660cd3",
+      "source": " tab in the ",
+      "target": " 选项卡中，位于 ",
+      "note": ""
+    },
+    {
+      "id": "5e72a2ab6a49",
+      "source": "Whitewater",
+      "target": "Whitewater",
+      "note": ""
+    },
+    {
+      "id": "ac219bb644f5",
+      "source": " node.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "78f4acf7ac37",
+      "source": "Projection Iters:",
+      "target": "Projection Iters：",
+      "note": ""
+    },
+    {
+      "id": "1356a2ad972a",
+      "source": " The amount of projection iterations. Projection is an algorithm that improves the volume conservation, the amount of iterations is the amount of times this algorithm is calculated, improving the accuracy of the simulation at the expense of simulation time. The percentage is the amount of the maximum number of iterations which can be specified using the ",
+      "target": " 投影迭代次数。Projection 是一种改善体积守恒的算法；迭代次数表示该算法计算的次数，可提高模拟精度，但会增加模拟时间。百分比表示相对于最大迭代次数的占比，该最大值可使用 ",
+      "note": ""
+    },
+    {
+      "id": "2cec5a6e62ce",
+      "source": "Projection: Max. Iterations",
+      "target": "Projection: Max. Iterations",
+      "note": ""
+    },
+    {
+      "id": "70e8d443ceaa",
+      "source": " parameter in the ",
+      "target": " 参数调整，该参数位于 ",
+      "note": ""
+    },
+    {
+      "id": "3b90455e3573",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "4fbe0334d7d8",
+      "source": " tab of the ",
+      "target": " 选项卡中，属于 ",
+      "note": ""
+    },
+    {
+      "id": "f8f2e8fc300c",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "55bfdedf9658",
+      "source": " node.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "30dc07645f08",
+      "source": "Max divergence:",
+      "target": "Max divergence（最大散度）：",
+      "note": ""
+    },
+    {
+      "id": "e544d500c99f",
+      "source": " Is the highest divergence value found in any voxel at the current timestep. Divergence is when the liquid increases or decreases volume. This can result in incorrect looking or unstable simulations. Millivoxel means one thousandth of a voxel. So a max divergence of 1 means that one or more liquid containing voxels in the simulation is either compressing to occupy 99.9% or 101.1% of a voxel. A max divergence of 1000 means that one or more liquid containing voxels is either added or removed (usually the latter) at the given timestep. Divergence can be lowered by lowering the ",
+      "target": " 当前时间步中任一体素内发现的最高 divergence（散度）值。散度指液体体积增加或减少，可能导致外观不正确或不稳定的模拟。Millivoxel 表示千分之一体素。因此，max divergence（最大散度）为 1 表示模拟中一个或多个含液体体素正在压缩到占据 99.9% 或 101.1% 的体素；max divergence（最大散度）为 1000 表示在给定时间步，一个或多个含液体体素被添加或移除（通常是后者）。可以通过降低 ",
+      "note": ""
+    },
+    {
+      "id": "c7c1f68ab233",
+      "source": "Projection: Target divergence",
+      "target": "Projection: Target divergence（投影：目标散度）",
+      "note": ""
+    },
+    {
+      "id": "2474fcead527",
+      "source": " and increasing the ",
+      "target": " 并提高 ",
+      "note": ""
+    },
+    {
+      "id": "3fc7f898530f",
+      "source": "Projection Max. iterations",
+      "target": "Projection Max. iterations",
+      "note": ""
+    },
+    {
+      "id": "db020a8e2c6f",
+      "source": " parameter in the ",
+      "target": " 参数调整，该参数位于 ",
+      "note": ""
+    },
+    {
+      "id": "ec346dda052d",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "b283b928717b",
+      "source": " tab of the ",
+      "target": " 选项卡中，属于 ",
+      "note": ""
+    },
+    {
+      "id": "41d4c456e5fb",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "0dc3e29fb14c",
+      "source": " node.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "d8bcef2500b1",
+      "source": " Toggles the diagnostics settings panel, adding or removing it on the right side of the viewport. This panel can be used to visualize all sorts of aspects about the simulation. For more information please check out the ",
+      "target": " 切换诊断设置面板，在视口右侧添加或移除它。此面板可用于可视化模拟的各种方面。更多信息请查看 ",
+      "note": ""
+    },
+    {
+      "id": "a6a695138f7d",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "772bc2bf1771",
+      "source": " section.",
+      "target": " 章节。",
+      "note": ""
+    },
+    {
+      "id": "3d44027ebb17",
+      "source": " Toggle panel fullscreen.",
+      "target": " 切换面板全屏。",
+      "note": ""
+    },
+    {
+      "id": "e4218565c5d5",
+      "source": "Sky:",
+      "target": "Sky：",
+      "note": ""
+    },
+    {
+      "id": "d36cb96e0d02",
+      "source": " These settings are controlled in the ",
+      "target": " 这些设置由 ",
+      "note": ""
+    },
+    {
+      "id": "0199a7fae059",
+      "source": "Skybox",
+      "target": "Skybox",
+      "note": ""
+    },
+    {
+      "id": "80407ede3691",
+      "source": " node. Documented ",
+      "target": " 节点控制，文档见",
+      "note": ""
+    },
+    {
+      "id": "83b801424abd",
+      "source": "here",
+      "target": "此处",
+      "note": "translation memory"
+    },
+    {
+      "id": "e45f4d92144e",
+      "source": "Ground:",
+      "target": "Ground：",
+      "note": ""
+    },
+    {
+      "id": "ee4512ad1f40",
+      "source": " These settings are controlled in the ",
+      "target": " 这些设置由 ",
+      "note": ""
+    },
+    {
+      "id": "f0abb12769b2",
+      "source": "Ground",
+      "target": "Ground",
+      "note": ""
+    },
+    {
+      "id": "a009a9114c8c",
+      "source": " node. Documented ",
+      "target": " 节点控制，文档见",
+      "note": ""
+    },
+    {
+      "id": "25a4e09f3f97",
+      "source": "here",
+      "target": "此处",
+      "note": "translation memory"
+    },
+    {
+      "id": "4aa1d839c379",
+      "source": "Manipulator",
+      "target": "Manipulator",
+      "note": ""
+    },
+    {
+      "id": "d6a67d67ec33",
+      "source": " This can be used to move things around in the viewport. There is a transform, rotate, and scale manipulator. These can be selected using the manipulator switcher in the top left corner (",
+      "target": " 可用于在视口中移动对象。有平移、旋转和缩放三种操纵器。可以使用左上角的操纵器切换器选择它们（",
+      "note": ""
+    },
+    {
+      "id": "ce20be736c20",
+      "source": ") unless it’s hidden in the ",
+      "target": "），除非它在 ",
+      "note": ""
+    },
+    {
+      "id": "70f3a316c1e4",
+      "source": "View",
+      "target": "View",
+      "note": ""
+    },
+    {
+      "id": "47d3a66616af",
+      "source": " dropdown menu (",
+      "target": " 下拉菜单中被隐藏（",
+      "note": ""
+    },
+    {
+      "id": "47d2e9398545",
+      "source": "). You can also press ",
+      "target": "）。也可以按 ",
+      "note": ""
+    },
+    {
+      "id": "ab792ec3bc1a",
+      "source": " for transform, ",
+      "target": " 进行平移，",
+      "note": ""
+    },
+    {
+      "id": "2d12ded1c0bb",
+      "source": " for rotate and ",
+      "target": " 进行旋转，",
+      "note": ""
+    },
+    {
+      "id": "7cf5879583b4",
+      "source": " for scale. If a manipulator type can’t be selected, it’s because that manipulation is not supported for the selected object. (for example, rotating a point light)",
+      "target": " 进行缩放。如果某种操纵器类型无法选择，是因为所选对象不支持该操作。（例如旋转点光源）",
+      "note": ""
+    },
+    {
+      "id": "9b832a0c3251",
+      "source": "Force Gizmo",
+      "target": "Force Gizmo",
+      "note": ""
+    },
+    {
+      "id": "7e7e7654dab6",
+      "source": " Most foces have a gizmo using light blue arrows showing the direction of the velocity injected by the force.",
+      "target": " 大多数力都有一个 Gizmo，可用浅蓝色箭头显示该力注入速度的方向。",
+      "note": ""
+    },
+    {
+      "id": "a249a72e6f64",
+      "source": "Inner Bound",
+      "target": "Inner Bound",
+      "note": ""
+    },
+    {
+      "id": "27f6fd7f3beb",
+      "source": " of the selected force. The transparent blue area of the inner bound shows the area where the force is at 100%. Bounds can be setup by setting the ",
+      "target": " 所选力的内部边界。内部边界的蓝色透明区域表示力保持 100% 的区域。可以通过将 ",
+      "note": ""
+    },
+    {
+      "id": "cf0b7165adde",
+      "source": "Falloff",
+      "target": "Falloff",
+      "note": ""
+    },
+    {
+      "id": "427df5905cfa",
+      "source": " parameter to anything but ",
+      "target": " 参数设置为 ",
+      "note": ""
+    },
+    {
+      "id": "02e0a0026883",
+      "source": "None",
+      "target": "None",
+      "note": ""
+    },
+    {
+      "id": "623dfe89049d",
+      "source": " in the ",
+      "target": " 以外的值来设置边界，该参数位于 ",
+      "note": ""
+    },
+    {
+      "id": "0a41a7788aca",
+      "source": "Behavior",
+      "target": "Behavior",
+      "note": ""
+    },
+    {
+      "id": "8fae8ac18ec9",
+      "source": " tab of certain force nodes.",
+      "target": " 选项卡中。",
+      "note": ""
+    },
+    {
+      "id": "78c6aad492f6",
+      "source": "Outer Bound",
+      "target": "Outer Bound",
+      "note": ""
+    },
+    {
+      "id": "1ea589e053fd",
+      "source": " of the selected force. The darkened area shows the transition area where the force goes from 100% on the inside to 100% minus the ",
+      "target": " 所选力的外部边界。加深显示的区域表示过渡区域：力从内部的 100% 过渡到外部的 100% 减去 ",
+      "note": ""
+    },
+    {
+      "id": "807072f5bf6d",
+      "source": "Falloff percent",
+      "target": "Falloff percent",
+      "note": ""
+    },
+    {
+      "id": "61b65b769237",
+      "source": " (so by default 0%) on the outside.",
+      "target": "（因此默认外侧为 0%）。",
+      "note": ""
+    },
+    {
+      "id": "3b93565a7dca",
+      "source": "Preview",
+      "target": "Preview",
+      "note": ""
+    },
+    {
+      "id": "f1caf4ec0a26",
+      "source": " is the tab where you can preview what will be exported.",
+      "target": " 是用于预览将要导出内容的选项卡。",
+      "note": ""
+    },
+    {
+      "id": "9c0a2feeeaae",
+      "source": "View",
+      "target": "View",
+      "note": ""
+    },
+    {
+      "id": "c4b51f6da8b0",
+      "source": " Dropdown where you can toggle the visibility of the stats.",
+      "target": " 下拉菜单，可切换统计信息的可见性。",
+      "note": ""
+    },
+    {
+      "id": "27a6ef5b6e4a",
+      "source": "Image export nodes dropdown menu. Here, you can select which ",
+      "target": "Image export nodes（图像导出节点）下拉菜单。在这里可以选择要预览的 ",
+      "note": ""
+    },
+    {
+      "id": "70843b5bf2cb",
+      "source": "Export: Image",
+      "target": "Export: Image",
+      "note": ""
+    },
+    {
+      "id": "65952299278e",
+      "source": " node you want to preview.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "927d838438a6",
+      "source": "Render passes dropdown menu. Here, you can select which ",
+      "target": "渲染通道下拉菜单。在这里可以选择要预览的 ",
+      "note": ""
+    },
+    {
+      "id": "4d3246e67860",
+      "source": "Render Pass",
+      "target": "Render Pass",
+      "note": ""
+    },
+    {
+      "id": "07c6d26f71eb",
+      "source": " you want to preview.",
+      "target": "。",
+      "note": ""
+    },
+    {
+      "id": "d1b17b03e17e",
+      "source": " No render pass mapping warning. Seeing this icon means that there is no render pass mapping setup in the ",
+      "target": " No render pass mapping（无渲染通道映射）警告。看到这个图标表示 ",
+      "note": ""
+    },
+    {
+      "id": "e3331059ac5a",
+      "source": "Export: Image",
+      "target": "Export: Image",
+      "note": ""
+    },
+    {
+      "id": "9be3ce8f4344",
+      "source": " node. You can click on this icon to automatically set one up.",
+      "target": " 节点中没有设置 render pass mapping（渲染通道映射）。可以单击此图标自动创建一个。",
+      "note": ""
+    },
+    {
+      "id": "5d3b69750f93",
+      "source": "Zoom in or out.",
+      "target": "放大或缩小。",
+      "note": ""
+    },
+    {
+      "id": "7c2e1ae820e2",
+      "source": "Zoom to fit the whole tab. Checking this will disable ",
+      "target": "缩放以适配整个选项卡。勾选后会禁用 ",
+      "note": ""
+    },
+    {
+      "id": "56761a8044ea",
+      "source": " Toggle render settings. This will show or hide the render settings (",
+      "target": " 切换渲染设置。它会显示或隐藏渲染设置 (",
+      "note": ""
+    },
+    {
+      "id": "9dfa4836a46a",
+      "source": "Render Settings",
+      "target": "Render Settings",
+      "note": ""
+    },
+    {
+      "id": "6bace58b4a68",
+      "source": " Set the zoom (",
+      "target": " 将缩放（",
+      "note": ""
+    },
+    {
+      "id": "44659a1919d3",
+      "source": ") back to 100%",
+      "target": "）重置为 100%",
+      "note": ""
+    },
+    {
+      "id": "258ea1185de2",
+      "source": "Toggle the crop gizmo.",
+      "target": "切换裁剪 Gizmo。",
+      "note": ""
+    },
+    {
+      "id": "73b5c001efb1",
+      "source": "Crop in the horizontal and vertical axis.",
+      "target": "在水平和垂直轴上裁剪。",
+      "note": ""
+    },
+    {
+      "id": "59db90ef277e",
+      "source": "Crop vertical.",
+      "target": "垂直裁剪。",
+      "note": ""
+    },
+    {
+      "id": "f64f374c7f70",
+      "source": "Crop horizontal.",
+      "target": "水平裁剪。",
+      "note": ""
+    },
+    {
+      "id": "4a394b875d94",
+      "source": "General render settings",
+      "target": "常规渲染设置",
+      "note": ""
+    },
+    {
+      "id": "ebb8513fbf79",
+      "source": "Render pass specific render settings.",
+      "target": "Render pass 专用渲染设置。",
+      "note": ""
+    },
+    {
+      "id": "152164d35f4f",
+      "source": "Export",
+      "target": "Export",
+      "note": ""
+    },
+    {
+      "id": "67203c3554d6",
+      "source": " is the tab Here you can View your exported flipbook or the last frame of your exported sequence. Exports are done using the ",
+      "target": " 是用于查看已导出的翻页序列或导出序列最后一帧的选项卡。导出通过 ",
+      "note": ""
+    },
+    {
+      "id": "a8d0540b0e38",
+      "source": "Export: Image",
+      "target": "Export: Image",
+      "note": ""
+    },
+    {
+      "id": "7adf2135c581",
+      "source": " node documented ",
+      "target": " 节点完成，文档见 ",
+      "note": ""
+    },
+    {
+      "id": "8cc0a35e7e91",
+      "source": "here",
+      "target": "此处",
+      "note": "translation memory"
+    },
+    {
+      "id": "31323ed82b97",
+      "source": "Channels. ",
+      "target": "Channels。",
+      "note": ""
+    },
+    {
+      "id": "2b5f8faac1b6",
+      "source": " click on any of these buttons to view the Red, Green, Blue, or Alpha channels individually, click on the channel again to go back to viewing Red, Green, and Blue together. ",
+      "target": " 单击这些按钮中的任意一个可单独查看 Red（红）、Green（绿）、Blue（蓝）或 Alpha（透明度）通道；再次单击该通道可回到同时查看 Red（红）、Green（绿）和 Blue（蓝）。",
+      "note": ""
+    },
+    {
+      "id": "b507ec40557b",
+      "source": "Ctrl",
+      "target": "Ctrl",
+      "note": ""
+    },
+    {
+      "id": "130360892fd8",
+      "source": " click on a channel to add or subtract it from the channel selection.",
+      "target": " 单击某个通道可将其加入通道选择或从中移除。",
+      "note": ""
+    },
+    {
+      "id": "a2c167373617",
+      "source": "render pass. A dropdown menu of the mapped render passes where you can select which render pass you want to view the export of.",
+      "target": "渲染通道。映射后的渲染通道下拉菜单，可选择要查看导出结果的渲染通道。",
+      "note": ""
+    },
+    {
+      "id": "541639438000",
+      "source": "Flipbook. Format used for games where all the frames are stored in one image. You will only see this if the ",
+      "target": "Flipbook（翻页序列）。一种用于游戏的格式，所有帧都存储在一张图像中。只有在满足以下条件时才会看到它：",
+      "note": ""
+    },
+    {
+      "id": "6e25769d5f82",
+      "source": "Export Mode",
+      "target": "Export Mode",
+      "note": ""
+    },
+    {
+      "id": "9ae678555f08",
+      "source": " in the ",
+      "target": " 位于 ",
+      "note": ""
+    },
+    {
+      "id": "fbea84fc9b09",
+      "source": "Export",
+      "target": "Export",
+      "note": ""
+    },
+    {
+      "id": "79cd5b45538c",
+      "source": " tab of the ",
+      "target": " 选项卡中，属于 ",
+      "note": ""
+    },
+    {
+      "id": "fc859efcec5c",
+      "source": "Export: Image",
+      "target": "Export: Image",
+      "note": ""
+    },
+    {
+      "id": "b649ecbfd5ac",
+      "source": " node was set to ",
+      "target": " 节点的设置，并被设置为 ",
+      "note": ""
+    },
+    {
+      "id": "ee4b3f1f971f",
+      "source": "Flipbook",
+      "target": "Flipbook",
+      "note": ""
+    },
+    {
+      "id": "dece35961529",
+      "source": "Export viewer. Shows the exported files.",
+      "target": "Export viewer。显示已导出的文件。",
+      "note": ""
+    },
+    {
+      "id": "6b837c678415",
+      "source": "Current Flipbook Frame, indicated with a thin light border. You can ",
+      "target": "Current Flipbook Frame（当前翻页序列帧），以细浅色边框标示。可以",
+      "note": ""
+    },
+    {
+      "id": "c5ae9fc2d1cf",
+      "source": " click on any frame to set it to the current frame.",
+      "target": "单击任意帧，将其设为当前帧。",
+      "note": ""
+    },
+    {
+      "id": "7c0d99498699",
+      "source": " Go To Start. Set the playhead to the beginning of the timeline. (the timeline in the Export tab)",
+      "target": " Go To Start（转到开头）。将播放头设到时间轴开头。（Export 选项卡中的时间轴）",
+      "note": ""
+    },
+    {
+      "id": "9994c19b4beb",
+      "source": " Go to the previous frame.",
+      "target": " 转到上一帧。",
+      "note": ""
+    },
+    {
+      "id": "967e95af8694",
+      "source": " Play or pause the export.",
+      "target": " 播放或暂停导出。",
+      "note": ""
+    },
+    {
+      "id": "99cb890cad81",
+      "source": " Go to the next frame.",
+      "target": " 转到下一帧。",
+      "note": ""
+    },
+    {
+      "id": "9f3464f37589",
+      "source": " Go To End. Set the playhead to the end of the timeline.",
+      "target": " Go To End（转到末尾）。将播放头设到时间轴末尾。",
+      "note": ""
+    },
+    {
+      "id": "d2ec7446f39e",
+      "source": " Loop. This will toggle if the export will restart playing from the beginning or stop when it reaches the last frame.",
+      "target": " Loop。切换导出播放到最后一帧时，是从开头重新播放，还是停止。",
+      "note": ""
+    },
+    {
+      "id": "7181be3858e9",
+      "source": " Skip Frame. This will toggle if the player will skip frames when necessary to keep up with the selected framerate or not.",
+      "target": " Skip Frame。切换播放器是否在必要时跳帧，以跟上所选帧率。",
+      "note": ""
+    },
+    {
+      "id": "e35d8199a051",
+      "source": "Current Frame. Displays the current playback frame. You can also ",
+      "target": "Current Frame。显示当前播放帧。也可以",
+      "note": ""
+    },
+    {
+      "id": "b7403f96fc17",
+      "source": " click within this box to set the current frame manually.",
+      "target": "在此框内单击以手动设置当前帧。",
+      "note": ""
+    },
+    {
+      "id": "6b793a4d6fb8",
+      "source": "Timeline. Horizontal representation of all the exported frame numbers.",
+      "target": "Timeline（时间轴）。所有已导出帧编号的水平表示。",
+      "note": ""
+    },
+    {
+      "id": "fc248c6ad85c",
+      "source": " Playhead. Sits at the current frame on the timeline. You can ",
+      "target": " Playhead。位于时间线上的当前帧位置。可以",
+      "note": ""
+    },
+    {
+      "id": "51e1ad55d4fc",
+      "source": " click and drag the playhead to move through the timeline viewing different frames.",
+      "target": "单击并拖动播放头，在时间线上移动并查看不同帧。",
+      "note": ""
+    },
+    {
+      "id": "5d374ba1fa48",
+      "source": "Frames Per Second. Fps at which the export is played back. The higher this number the more “sped up” the playback seems. Try setting this to your target framerate, 24 fps for when you are working on a movie for example. This way you can see what the speed in the final result will look like.",
+      "target": "Frames Per Second。导出播放时使用的 FPS。数值越高，回放看起来越“加速”。可尝试设为目标帧率，例如制作电影时使用 24 fps。这样可以看到最终结果中的速度效果。",
+      "note": ""
+    },
+    {
+      "id": "b1e35756e624",
+      "source": "Node Graph",
+      "target": "节点图",
+      "note": ""
+    },
+    {
+      "id": "2807a023eb7f",
+      "source": "This is where the building blocks to create the simulation are managed. You can think of it as if the wires represent data connecting one piece of the setup to the other.",
+      "target": "这里用于管理创建模拟的构建块。可以把连线理解为数据，它们把设置中的一个部分连接到另一个部分。",
+      "note": ""
+    },
+    {
+      "id": "79bffbdf5e7d",
+      "source": " Using ",
+      "target": " 使用 ",
+      "note": ""
+    },
+    {
+      "id": "f54f26690f4c",
+      "source": " dragging, you can use this icon to rearrange the UI layout by moving the 4 main sections.",
+      "target": "拖动，可以通过此图标移动 4 个主要区块来重新排列 UI 布局。",
+      "note": ""
+    },
+    {
+      "id": "979821990188",
+      "source": " Open search box. ",
+      "target": " 打开搜索框。",
+      "note": ""
+    },
+    {
+      "id": "337be0a0fb6b",
+      "source": " Clicking on this will open a search box where you can type a node name or a part of the name to quickly select that node.",
+      "target": " 单击它会打开搜索框，可以输入节点名称或名称的一部分来快速选择该节点。",
+      "note": ""
+    },
+    {
+      "id": "edadd8dc0889",
+      "source": " Toggle graph tree. (",
+      "target": " 切换 Graph Tree（图树）。(",
+      "note": ""
+    },
+    {
+      "id": "1670fdedb347",
+      "source": " Randomizes all parameters with randomization enabled. This can be a quick way to get a variation on an effect. For more information on randomization please look at our ",
+      "target": " 随机化所有已启用随机化的参数。这是快速获得效果变体的方法。有关随机化的更多信息，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "8685a0fda2d2",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "01b1b288edfa",
+      "source": " page!",
+      "target": " 页面！",
+      "note": ""
+    },
+    {
+      "id": "00528a894952",
+      "source": " Move view to center of nodes.",
+      "target": " 将视图移动到节点中心。",
+      "note": ""
+    },
+    {
+      "id": "4eb416475fe5",
+      "source": " Move view to center of selected nodes.",
+      "target": " 将视图移动到已选节点中心。",
+      "note": ""
+    },
+    {
+      "id": "114b5c2dbc32",
+      "source": " Reset zoom to default.",
+      "target": " 将缩放重置为默认值。",
+      "note": ""
+    },
+    {
+      "id": "c024fcddfe77",
+      "source": " Toggle panel fullscreen",
+      "target": " 切换面板全屏",
+      "note": ""
+    },
+    {
+      "id": "e44c9d8ecd53",
+      "source": "Graph Tree",
+      "target": "Graph Tree",
+      "note": ""
+    },
+    {
+      "id": "047ebe12e40f",
+      "source": " Here you’ll find all the nodes represented in a list. You can use the ",
+      "target": " 在这里会以列表形式显示所有节点。可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "7fcd4627e35c",
+      "source": " icon to get a dropdown menu of nodes that are connected to an input pin of the node. If you hover your mouse over a node name, you can click the ",
+      "target": " 图标打开一个下拉菜单，显示连接到该节点输入引脚的节点。如果将鼠标悬停在节点名称上，可以单击 ",
+      "note": ""
+    },
+    {
+      "id": "f509534b0cfc",
+      "source": " to select the node. This can be useful for quickly selecting nodes to get to its parameters without searching the node graph! You can also select multiple nodes by using ",
+      "target": " 来选择节点。这样无需在节点图中搜索，就能快速选择节点并查看其参数！也可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "6fc8e562a648",
+      "source": "Shift",
+      "target": "Shift",
+      "note": ""
+    },
+    {
+      "id": "59562a2c39ca",
+      "source": " Selected nodes are indicated with the ",
+      "target": " 多选节点。选中的节点会以 ",
+      "note": ""
+    },
+    {
+      "id": "c8d89af8546d",
+      "source": " icon.",
+      "target": " 图标表示。",
+      "note": ""
+    },
+    {
+      "id": "32929db329bd",
+      "source": "Node. Building block of the simulation. Selected nodes have a blue border.",
+      "target": "Node（节点）。模拟的构建块。选中的节点带有蓝色边框。",
+      "note": ""
+    },
+    {
+      "id": "151a4c26b04b",
+      "source": "Input pin",
+      "target": "输入引脚",
+      "note": ""
+    },
+    {
+      "id": "03c21d6eb2b2",
+      "source": "Connection wire",
+      "target": "连接线",
+      "note": ""
+    },
+    {
+      "id": "cd810f122e0f",
+      "source": "Output pin",
+      "target": "输出引脚",
+      "note": ""
+    },
+    {
+      "id": "af27fa31b345",
+      "source": " Toggles whether a node is enabled. ",
+      "target": " 切换节点是否启用。",
+      "note": ""
+    },
+    {
+      "id": "f4684ec55076",
+      "source": "Shift",
+      "target": "Shift",
+      "note": ""
+    },
+    {
+      "id": "a54677437bf8",
+      "source": " to toggle for all selected nodes.",
+      "target": " 可对所有已选节点切换。",
+      "note": ""
+    },
+    {
+      "id": "04f114a7a0b4",
+      "source": "Comment. Custom-named container for nodes useful for ordering and readability. You can create a comment by selecting ",
+      "target": "Comment。用于整理节点、提升可读性的自定义命名节点容器。可以通过选择 ",
+      "note": ""
+    },
+    {
+      "id": "eb2cf4e5ef5b",
+      "source": "Create Comment",
+      "target": "Create Comment",
+      "note": ""
+    },
+    {
+      "id": "b8e1445c185b",
+      "source": " in the ",
+      "target": " 来创建注释，该命令位于节点图的 ",
+      "note": ""
+    },
+    {
+      "id": "f9a0271c4e49",
+      "source": " menu of the node graph or by pressing ",
+      "target": " 菜单中；也可以按 ",
+      "note": ""
+    },
+    {
+      "id": "3b068a54d812",
+      "source": "Ctrl + G",
+      "target": "Ctrl + G",
+      "note": ""
+    },
+    {
+      "id": "2cccc4e28bb4",
+      "source": " For more information on comments please check our ",
+      "target": " 有关注释的更多信息，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "daabce5629eb",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "bd761529461e",
+      "source": " section!",
+      "target": " 章节！",
+      "note": ""
+    },
+    {
+      "id": "0ed69fdef00d",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "0ebee5da12db",
+      "source": "Note. Custom textbox that can be places around the node graph to provide extra information or aid memory. You can create a note by selecting ",
+      "target": "Note。可放置在节点图周围的自定义文本框，用于提供额外信息或辅助记忆。可以通过选择 ",
+      "note": ""
+    },
+    {
+      "id": "f0917247681e",
+      "source": "Create Note",
+      "target": "Create Note",
+      "note": ""
+    },
+    {
+      "id": "e90c136ad96a",
+      "source": " in the right-click menu of the node graph or by pressing ",
+      "target": " 来创建备注，该命令位于节点图右键菜单中；也可以按 ",
+      "note": ""
+    },
+    {
+      "id": "426f4769027e",
+      "source": "Ctrl + H",
+      "target": "Ctrl + H",
+      "note": ""
+    },
+    {
+      "id": "0e529e21b157",
+      "source": " For more information on comments please check our ",
+      "target": " 有关备注的更多信息，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "0a64cabfec8d",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "5bb8759df0e2",
+      "source": " section!",
+      "target": " 章节！",
+      "note": ""
+    },
+    {
+      "id": "83711180329b",
+      "source": "Minimap. Small overview of the whole node graph. The minimap can be enabled and adjusted in the ",
+      "target": "Minimap。整个节点图的小型概览。可以在 ",
+      "note": ""
+    },
+    {
+      "id": "736875023837",
+      "source": "Settings>Preferences…>",
+      "target": "Settings > Preferences… > ",
+      "note": ""
+    },
+    {
+      "id": "f700dd24cd99",
+      "source": "General",
+      "target": "General",
+      "note": ""
+    },
+    {
+      "id": "cb7e4b179672",
+      "source": " section.",
+      "target": " 部分启用和调整小地图。",
+      "note": ""
+    },
+    {
+      "id": "799fd0c66401",
+      "source": "Nodes are visualized by blocks colored based on their respective icons. Selected nodes have a white border.",
+      "target": "节点会显示为按各自图标着色的块。选中的节点带有白色边框。",
+      "note": ""
+    },
+    {
+      "id": "fa35098934d2",
+      "source": "Comments are visualized by rectangles below the nodes. Comments are colored based on the colors they have in the node graph.",
+      "target": "注释会显示为节点下方的矩形。注释颜色取决于它们在节点图中的颜色。",
+      "note": ""
+    },
+    {
+      "id": "f713e93ebc9b",
+      "source": "Visible node graph area. The white semi-transparent box indicates what section of the node graph is currently visible. Zooming in on the node graph will make this box smaller and zooming out will make it bigger. To move the visible section using the minimap you can ",
+      "target": "可见节点图区域。白色半透明框表示当前可见的节点图区域。放大节点图会让此框变小，缩小节点图会让它变大。要使用小地图移动可见区域，可以",
+      "note": ""
+    },
+    {
+      "id": "58509547e3c7",
+      "source": " click to jump to the desired area or ",
+      "target": "单击跳转到所需区域，或",
+      "note": ""
+    },
+    {
+      "id": "a5bbdb809308",
+      "source": " click and drag to move there.",
+      "target": "单击并拖动到该区域。",
+      "note": ""
+    },
+    {
+      "id": "9abe83f524b8",
+      "source": "Timeline Editor",
+      "target": "时间轴编辑器",
+      "note": ""
+    },
+    {
+      "id": "d02e3457ab0e",
+      "source": "This is where time is visualized from left to right.",
+      "target": "这里会从左到右显示时间。",
+      "note": ""
+    },
+    {
+      "id": "36bc3fd90725",
+      "source": "For a description of how to use this editor check out our ",
+      "target": "有关如何使用此编辑器的说明，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "464ee8a8b6a7",
+      "source": "Timeline Editor",
+      "target": "时间轴编辑器",
+      "note": ""
+    },
+    {
+      "id": "5d5edbf91144",
+      "source": " section.",
+      "target": " 章节。",
+      "note": ""
+    },
+    {
+      "id": "886bb09e6935",
+      "source": " Using ",
+      "target": " 使用 ",
+      "note": ""
+    },
+    {
+      "id": "999381e45a00",
+      "source": " dragging, you can use this icon to rearrange the UI layout by moving the 4 main sections.",
+      "target": "拖动，可以通过此图标移动 4 个主要区块来重新排列 UI 布局。",
+      "note": ""
+    },
+    {
+      "id": "9f2cab064b8f",
+      "source": " Snap keys to frames. With this turned on (indicated by the icon turning blue), keyframes can only be created on whole frame numbers and can only be moved whole frame numbers.",
+      "target": " Snap keys to frames（将关键帧吸附到帧）。启用后（图标变蓝表示已启用），关键帧只能创建在整数帧编号上，也只能移动到整数帧编号。",
+      "note": ""
+    },
+    {
+      "id": "f53bf63efd19",
+      "source": " Fit view to all keys",
+      "target": " Fit view to all keys（适配所有关键帧）",
+      "note": ""
+    },
+    {
+      "id": "e97a984f4a60",
+      "source": " Fit view to selected keys",
+      "target": " Fit view to selected keys（适配已选关键帧）",
+      "note": ""
+    },
+    {
+      "id": "058a448cf1b3",
+      "source": " Reset the vertical zoom to default in the ",
+      "target": " 将垂直缩放重置为默认值，作用于 ",
+      "note": ""
+    },
+    {
+      "id": "c343d11937c4",
+      "source": "Curve Editor",
+      "target": "Curve Editor",
+      "note": ""
+    },
+    {
+      "id": "424567cc2839",
+      "source": "Shift",
+      "target": "Shift",
+      "note": ""
+    },
+    {
+      "id": "7a0fdcaaa685",
+      "source": " click this icon to reset the horizontal zoom.",
+      "target": " 单击此图标可重置水平缩放。",
+      "note": ""
+    },
+    {
+      "id": "f431264a20c6",
+      "source": " Toggle panel fullscreen",
+      "target": " 切换面板全屏",
+      "note": ""
+    },
+    {
+      "id": "6871913e331a",
+      "source": "Reset",
+      "target": "Reset",
+      "note": ""
+    },
+    {
+      "id": "8823cf4c64be",
+      "source": " Reset the simulation to the beginning of the timeline.",
+      "target": " 将模拟重置到时间轴开头。",
+      "note": ""
+    },
+    {
+      "id": "7951e145b30f",
+      "source": " Move the playhead to the previous keyframe ",
+      "target": " 将播放头移动到上一个关键帧 ",
+      "note": ""
+    },
+    {
+      "id": "0e42948e2c2e",
+      "source": "Left",
+      "target": "Left",
+      "note": ""
+    },
+    {
+      "id": "a7d3cf86ada5",
+      "source": " Play or pause the simulation ",
+      "target": " 播放或暂停模拟 ",
+      "note": ""
+    },
+    {
+      "id": "7f213f2592a9",
+      "source": "Space",
+      "target": "Space",
+      "note": ""
+    },
+    {
+      "id": "96f575594396",
+      "source": " Move playhead to the next keyframe ",
+      "target": " 将播放头移动到下一个关键帧 ",
+      "note": ""
+    },
+    {
+      "id": "c0e077dda03f",
+      "source": "Right",
+      "target": "Right",
+      "note": ""
+    },
+    {
+      "id": "35e952e6e5d6",
+      "source": " Move to the next frame/simulation step ",
+      "target": " 移动到下一帧/模拟步 ",
+      "note": ""
+    },
+    {
+      "id": "cf86e60e20c9",
+      "source": "Toggle Loop",
+      "target": "Toggle Loop",
+      "note": ""
+    },
+    {
+      "id": "539f12685fcc",
+      "source": " When looping is on you’ll see the looping area represented in blue in the timeline editor. This blue bar can be moved around by ",
+      "target": " 启用循环后，时间轴编辑器中会以蓝色显示循环范围。可以通过",
+      "note": ""
+    },
+    {
+      "id": "03ccc09285ed",
+      "source": " clicking and dragging the middle or scaled by ",
+      "target": "单击并拖动中间部分来移动这条蓝色条，也可以通过",
+      "note": ""
+    },
+    {
+      "id": "ab5ae04dcdb9",
+      "source": " clicking and dragging the edges.",
+      "target": "单击并拖动边缘来缩放它。",
+      "note": ""
+    },
+    {
+      "id": "46b5c6fb2bac",
+      "source": "Toggle between displaying the timeline in seconds or frames. ",
+      "target": "切换时间轴以秒或帧显示。",
+      "note": ""
+    },
+    {
+      "id": "5a9007ca086f",
+      "source": "Shift + F",
+      "target": "Shift + F",
+      "note": ""
+    },
+    {
+      "id": "831c77550bad",
+      "source": "Scrollbar for the timeline.",
+      "target": "时间轴滚动条。",
+      "note": ""
+    },
+    {
+      "id": "56d2c24911b6",
+      "source": " Here you can search for a specific parameter in the list of animated parameters.",
+      "target": " 可在这里搜索动画参数列表中的特定参数。",
+      "note": ""
+    },
+    {
+      "id": "554fe348f23d",
+      "source": "Toggle Curve Editor",
+      "target": "Toggle Curve Editor（切换曲线编辑器）",
+      "note": ""
+    },
+    {
+      "id": "4e5ee7c02685",
+      "source": " For a description of how to use this editor check out our ",
+      "target": " 有关如何使用此编辑器的说明，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "0e2dad447067",
+      "source": "Curve Editor",
+      "target": "曲线编辑器",
+      "note": ""
+    },
+    {
+      "id": "7891f1c96770",
+      "source": " section.",
+      "target": " 章节。",
+      "note": ""
+    },
+    {
+      "id": "204ba0c18891",
+      "source": "Toggle Timeline Autokey",
+      "target": "Toggle Timeline Autokey（切换时间轴自动关键帧）",
+      "note": ""
+    },
+    {
+      "id": "2ec8f4b4e14a",
+      "source": " With this on a keyframe will be added at the playhead when changing the value of a parameter with keyframe animation enabled.",
+      "target": " 启用后，修改已启用关键帧动画的参数值时，会在播放头位置添加一个关键帧。",
+      "note": ""
+    },
+    {
+      "id": "3f9a6aadc1b3",
+      "source": "Toggle Timeline Recording",
+      "target": "Toggle Timeline Recording（切换时间轴录制）",
+      "note": ""
+    },
+    {
+      "id": "f48501dd5064",
+      "source": "Shift + R",
+      "target": "Shift + R",
+      "note": ""
+    },
+    {
+      "id": "c7f8d09058ac",
+      "source": " When you start the simulation with this button, all changes made to parameters with ",
+      "target": " 使用此按钮启动模拟时，所有对已启用 ",
+      "note": ""
+    },
+    {
+      "id": "7048909e36fc",
+      "source": "Timeline Override",
+      "target": "Timeline Override（时间轴覆盖）",
+      "note": ""
+    },
+    {
+      "id": "bbf36756f98d",
+      "source": " enabled will be translated to keyframes in real time.",
+      "target": " 的参数所做的更改都会实时转换为关键帧。",
+      "note": ""
+    },
+    {
+      "id": "9f0f906b7808",
+      "source": "Toggle Timeline Sync",
+      "target": "Toggle Timeline Sync（切换时间轴同步）",
+      "note": ""
+    },
+    {
+      "id": "a9d3e83ba157",
+      "source": " With this one the playhead is always at the same position as the stimulation time. So the blue line and the pink line can’t be split up when playing.",
+      "target": " 启用后，播放头始终与模拟时间位于同一位置。因此播放时蓝线和粉线不能分离。",
+      "note": ""
+    },
+    {
+      "id": "8b9d33b2bbac",
+      "source": "Toggle Follow Playhead",
+      "target": "Toggle Follow Playhead（切换跟随播放头）",
+      "note": ""
+    },
+    {
+      "id": "895fb3b5f1b5",
+      "source": " With this on, the timeline will be panned to always keep the playhead in the middle of the editor.",
+      "target": " 启用后，时间轴会自动平移，使播放头始终保持在编辑器中央。",
+      "note": ""
+    },
+    {
+      "id": "9cbe1fefa0b5",
+      "source": "Playhead",
+      "target": "Playhead",
+      "note": ""
+    },
+    {
+      "id": "d06378c08703",
+      "source": " Indicates the current time on the timeline.",
+      "target": " 指示时间轴上的当前时间。",
+      "note": ""
+    },
+    {
+      "id": "9211c2171404",
+      "source": "This indicates the current time the simulation is at.",
+      "target": "指示模拟当前所在时间。",
+      "note": ""
+    },
+    {
+      "id": "289c66f5b081",
+      "source": "Frame number.",
+      "target": "帧编号。",
+      "note": ""
+    },
+    {
+      "id": "6c4f0bad16c3",
+      "source": "Node with a parameter that has keyframe animation on it. You can use the ",
+      "target": "带有启用关键帧动画参数的节点。可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "6ae740cce4b2",
+      "source": " icon to hide or show the animated parameters.",
+      "target": " 图标隐藏或显示动画参数。",
+      "note": ""
+    },
+    {
+      "id": "7d2f0ea64efe",
+      "source": " Enable or disable the keyframe animation for the node. When disabling this the parameters of the node won’t change over time anymore but will keep the values they had when toggling this button off.",
+      "target": " 启用或禁用该节点的关键帧动画。禁用后，该节点的参数不再随时间变化，但会保持关闭此按钮时的值。",
+      "note": ""
+    },
+    {
+      "id": "8268f498c089",
+      "source": " Hide or Show the curves for all parameters of this node in the ",
+      "target": " 隐藏或显示此节点所有参数在 ",
+      "note": ""
+    },
+    {
+      "id": "b3fd62f77555",
+      "source": "Curve Editor",
+      "target": "Curve Editor 中的曲线",
+      "note": ""
+    },
+    {
+      "id": "a0aa6212463f",
+      "source": " Specify the curve continuation. Set the keyframe animation for this parameter to either ",
+      "target": " 指定曲线延续方式。将此参数的关键帧动画设为 ",
+      "note": ""
+    },
+    {
+      "id": "8efd01e941f6",
+      "source": "Play Once",
+      "target": "Play Once",
+      "note": ""
+    },
+    {
+      "id": "0f89659f0432",
+      "source": "Loop",
+      "target": "Loop",
+      "note": ""
+    },
+    {
+      "id": "b09366b8de7b",
+      "source": " (restart the animation at the end), or ",
+      "target": "（在末尾重新开始动画）或 ",
+      "note": ""
+    },
+    {
+      "id": "6eb7b433c34f",
+      "source": "Ping Pong",
+      "target": "Ping Pong",
+      "note": ""
+    },
+    {
+      "id": "8f454fb19e81",
+      "source": " (plays the animation forwards then backwards then forwards, and so on.)",
+      "target": "（先正向播放动画，再反向播放，再正向播放，如此往复。）",
+      "note": ""
+    },
+    {
+      "id": "8c4a8a0f70aa",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "f285883cdfab",
+      "source": "Parameter",
+      "target": "Parameter",
+      "note": ""
+    },
+    {
+      "id": "714dcd691093",
+      "source": " Here you can set the parameter value for the current frame.",
+      "target": " 可在这里设置当前帧的参数值。",
+      "note": ""
+    },
+    {
+      "id": "be20f22bbf04",
+      "source": " Enable or disable the keyframe animation for the parameter. When disabling this the parameter won’t change over time anymore but will keep the value it had when toggling this button off.",
+      "target": " 启用或禁用该参数的关键帧动画。禁用后，该参数不再随时间变化，但会保持关闭此按钮时的值。",
+      "note": ""
+    },
+    {
+      "id": "507cf4c82ad8",
+      "source": " Hide or Show the curves for this parameter in the ",
+      "target": " 隐藏或显示此参数在 ",
+      "note": ""
+    },
+    {
+      "id": "0b1dde060743",
+      "source": "Curve Editor",
+      "target": "Curve Editor 中的曲线",
+      "note": ""
+    },
+    {
+      "id": "f47f029b36bc",
+      "source": " Keyframe",
+      "target": " Keyframe",
+      "note": ""
+    },
+    {
+      "id": "38d00f9b0a52",
+      "source": " This button can be found on an ",
+      "target": " 此按钮可在 ",
+      "note": ""
+    },
+    {
+      "id": "79df1326b3f5",
+      "source": "Export",
+      "target": "Export",
+      "note": ""
+    },
+    {
+      "id": "e241311de04e",
+      "source": " node.",
+      "target": " 节点上找到。",
+      "note": ""
+    },
+    {
+      "id": "2f7b5ff0e916",
+      "source": "For an export node, this will toggle a different view where you can see and edit how the frames will be exported.",
+      "target": "对于 Export 节点，此按钮会切换到另一个视图，可在其中查看和编辑帧的导出方式。",
+      "note": ""
+    },
+    {
+      "id": "4720393f56f7",
+      "source": "Shows the duration of the sequence that will be exported.",
+      "target": "显示将要导出的序列时长。",
+      "note": ""
+    },
+    {
+      "id": "2f3d26c72332",
+      "source": "This indicates what part of the timeline will be exported. This bar can be moved around.",
+      "target": "指示时间轴中将要导出的部分。此条可以移动。",
+      "note": ""
+    },
+    {
+      "id": "fbd71c88c7fa",
+      "source": "Information on the controls of the editor. These will change to showing keyframe controls when hovering over a keyframe.",
+      "target": "编辑器控件的信息。将鼠标悬停在关键帧上时，这些信息会改为显示关键帧控件。",
+      "note": ""
+    },
+    {
+      "id": "08c49cdbef46",
+      "source": "Properties Panel",
+      "target": "属性面板",
+      "note": ""
+    },
+    {
+      "id": "21e65ba8a2e3",
+      "source": " Using ",
+      "target": " 使用 ",
+      "note": ""
+    },
+    {
+      "id": "b16f253cf079",
+      "source": " dragging, you can use this icon to rearrange the UI layout by moving the 4 main sections.",
+      "target": "拖动，可以通过此图标移动 4 个主要区块来重新排列 UI 布局。",
+      "note": ""
+    },
+    {
+      "id": "a715a541beb9",
+      "source": "Node Details:",
+      "target": "Node Details（节点详情）：",
+      "note": ""
+    },
+    {
+      "id": "fb27e65259aa",
+      "source": " This tab shows all the parameters for the selected node.",
+      "target": " 此选项卡显示所选节点的所有参数。",
+      "note": ""
+    },
+    {
+      "id": "5d167b3bcad8",
+      "source": "Favorites",
+      "target": "Favorites",
+      "note": ""
+    },
+    {
+      "id": "68c0f9edbaa5",
+      "source": " This tab shows all the parameters that are marked as favorites.",
+      "target": " 此选项卡显示所有标记为收藏的参数。",
+      "note": ""
+    },
+    {
+      "id": "257127fb0d69",
+      "source": "You can do this with any parameter from the Node Details tab by checking the star icon ",
+      "target": "可以在 Node Details（节点详情）选项卡中，对任意参数勾选其旁边的星形图标 ",
+      "note": ""
+    },
+    {
+      "id": "f198932412a3",
+      "source": " right next to it.",
+      "target": " 来完成此操作。",
+      "note": ""
+    },
+    {
+      "id": "fc63d7fc1e30",
+      "source": "Clear All",
+      "target": "Clear All",
+      "note": ""
+    },
+    {
+      "id": "750ce282aaab",
+      "source": " will remove all the items from the favorites list. All the star icons will be unchecked.",
+      "target": " 会从收藏列表中移除所有项目。所有星形图标都会取消勾选。",
+      "note": ""
+    },
+    {
+      "id": "7f0330352577",
+      "source": "In the menubar in ",
+      "target": "在菜单栏的 ",
+      "note": ""
+    },
+    {
+      "id": "8236a563b7b5",
+      "source": "Settings/Project Settings…",
+      "target": "Settings/Project Settings…",
+      "note": ""
+    },
+    {
+      "id": "335179702964",
+      "source": " You can also auto-favorite parameters based on the default, the last saved, or a loaded ",
+      "target": " 中，也可以根据默认值、上次保存状态或已加载的 ",
+      "note": ""
+    },
+    {
+      "id": "6f0473323e36",
+      "source": ".liquigen",
+      "target": ".liquigen",
+      "note": ""
+    },
+    {
+      "id": "4da752f2e31b",
+      "source": " file!",
+      "target": " 文件自动收藏参数！",
+      "note": ""
+    },
+    {
+      "id": "9d8c08e16606",
+      "source": "Timeline:",
+      "target": "Timeline：",
+      "note": ""
+    },
+    {
+      "id": "ca93e7dadf6e",
+      "source": " This tab shows all the parameters with keyframe animation enabled.",
+      "target": " 此选项卡显示所有已启用关键帧动画的参数。",
+      "note": ""
+    },
+    {
+      "id": "508f141e3d92",
+      "source": "Clear All",
+      "target": "Clear All",
+      "note": ""
+    },
+    {
+      "id": "8c54942c1a35",
+      "source": " will remove all the items from the list. ",
+      "target": " 会从列表中移除所有项目。",
+      "note": ""
+    },
+    {
+      "id": "1d24927dc8f7",
+      "source": "Note that this will remove all animation!",
+      "target": "注意，这会移除所有动画！",
+      "note": ""
+    },
+    {
+      "id": "fc40dfd616a6",
+      "source": "Keyframe animation on a parameter is enabled by setting the override state (",
+      "target": "参数上的关键帧动画通过将 override state（",
+      "note": ""
+    },
+    {
+      "id": "fd0679a26cb9",
+      "source": ") to ",
+      "target": "）设置为 ",
+      "note": ""
+    },
+    {
+      "id": "8090c2979d85",
+      "source": "Timeline Override",
+      "target": "Timeline Override（时间轴覆盖）来启用",
+      "note": ""
+    },
+    {
+      "id": "3edf7a39446e",
+      "source": "For more information on animation (timeline) please check out our ",
+      "target": "有关动画（时间轴）的更多信息，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "3052aa805e96",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "a72f3d12a79e",
+      "source": " section.",
+      "target": " 章节。",
+      "note": ""
+    },
+    {
+      "id": "3fb751282874",
+      "source": "Randomized:",
+      "target": "Randomized：",
+      "note": ""
+    },
+    {
+      "id": "bbabee26b354",
+      "source": " This tab contains all the parameters with randomization enabled which can be done by ",
+      "target": " 此选项卡包含所有已启用随机化的参数；可按住 ",
+      "note": ""
+    },
+    {
+      "id": "98c8ca491a35",
+      "source": "Shift",
+      "target": "Shift",
+      "note": ""
+    },
+    {
+      "id": "98321a6b9c91",
+      "source": " clicking one the override state cycler (",
+      "target": " 单击 override state cycler（覆盖状态循环器）来启用（",
+      "note": ""
+    },
+    {
+      "id": "024f117bfe51",
+      "source": "Randomize All",
+      "target": "Randomize All",
+      "note": ""
+    },
+    {
+      "id": "76ab74222371",
+      "source": " Will assign a new random value to all parameters in the ",
+      "target": " 会为 ",
+      "note": ""
+    },
+    {
+      "id": "cb8149ba821f",
+      "source": "Randomized",
+      "target": "Randomized",
+      "note": ""
+    },
+    {
+      "id": "1a4280da3a49",
+      "source": " tab.",
+      "target": " 选项卡中的所有参数分配新的随机值。",
+      "note": ""
+    },
+    {
+      "id": "3050e35df7c1",
+      "source": "The range sliders on the left side define the minimum and maximum between which the random value can be picked.\nThe field right next to this is the parameter value.\n",
+      "target": "左侧的范围滑块定义随机值可选取的最小值和最大值。右侧紧邻的字段是参数值。\n",
+      "note": ""
+    },
+    {
+      "id": "303b7e1edcd2",
+      "source": " Will randomize the parameter (instead of all of them).\nFor more information check out our ",
+      "target": " 会随机化该参数（而不是全部参数）。更多信息请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "4e0a477ef069",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "6857b5cacb93",
+      "source": " section!",
+      "target": " 章节！",
+      "note": ""
+    },
+    {
+      "id": "d1cf3fad2369",
+      "source": " This will open a search box to find the parameter you are looking for regardless of the tab you are in. You can use ",
+      "target": " 打开搜索框，用于查找所需参数，不受当前所在选项卡限制。可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "5d77519dd903",
+      "source": "Ctrl",
+      "target": "Ctrl",
+      "note": ""
+    },
+    {
+      "id": "87c359985272",
+      "source": " to open this function right away!",
+      "target": " 立即打开此功能！",
+      "note": ""
+    },
+    {
+      "id": "a17d5ccb94be",
+      "source": " Only show the parameters with keyframe animation regardless of the tab you are in. This is different from the timeline tab since this only shows animated parameters of the selected node instead of all nodes.",
+      "target": " 仅显示带关键帧动画的参数，不受当前选项卡限制。这不同于 Timeline（时间轴）选项卡，因为它只显示所选节点的动画参数，而不是所有节点的。",
+      "note": ""
+    },
+    {
+      "id": "ad737038d05a",
+      "source": " This will open a dropdown menu with the options to reset or randomize all parameters of the selected node or tab.",
+      "target": " 打开下拉菜单，其中包含重置或随机化所选节点或选项卡所有参数的选项。",
+      "note": ""
+    },
+    {
+      "id": "8b1fe7740c8a",
+      "source": " Toggle panel fullscreen",
+      "target": " 切换面板全屏",
+      "note": ""
+    },
+    {
+      "id": "7a33403a2e75",
+      "source": "Parameter tabs:",
+      "target": "Parameter tabs：",
+      "note": ""
+    },
+    {
+      "id": "fd67344085ec",
+      "source": " All nodes have their collection of parameter tabs sorting the parameters in easy-to-find categories.",
+      "target": " 所有节点都有自己的参数选项卡集合，用易于查找的类别对参数进行排序。",
+      "note": ""
+    },
+    {
+      "id": "d10c61d2e4f2",
+      "source": "Parameter tab divider. This visually divides the parameters of a certain tab in the list. You can hide or unhide the parameters of this tab by using the ",
+      "target": "Parameter tab divider。它在列表中以视觉方式分隔某个选项卡的参数。可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "fc6c8983d223",
+      "source": " icon.",
+      "target": " 图标隐藏或取消隐藏该选项卡的参数。",
+      "note": ""
+    },
+    {
+      "id": "f2bcc19c258b",
+      "source": "Parameter name:",
+      "target": "Parameter name：",
+      "note": ""
+    },
+    {
+      "id": "8a3daab58f80",
+      "source": " Hovering over this will show a description of what the parameter does.",
+      "target": " 将鼠标悬停在其上会显示该参数作用的说明。",
+      "note": ""
+    },
+    {
+      "id": "df35883ed705",
+      "source": "Checkbox:",
+      "target": "Checkbox：",
+      "note": ""
+    },
+    {
+      "id": "a1adf6181ab6",
+      "source": " This can set a parameter to on or off.",
+      "target": " 可将参数设为开启或关闭。",
+      "note": ""
+    },
+    {
+      "id": "52afbcc310f4",
+      "source": " Reset to the default value.",
+      "target": " 重置为默认值。",
+      "note": ""
+    },
+    {
+      "id": "3ff91c0b0581",
+      "source": "Mark as favorite:",
+      "target": "Mark as favorite：",
+      "note": ""
+    },
+    {
+      "id": "c5f80dbf99dd",
+      "source": " This will make the parameter appear in the favorites tab.",
+      "target": " 这会让参数显示在 Favorites 选项卡中。",
+      "note": ""
+    },
+    {
+      "id": "18fd0ea66275",
+      "source": "Parameter special info:",
+      "target": "Parameter special info：",
+      "note": ""
+    },
+    {
+      "id": "700078458a02",
+      "source": " Hovering your mouse over this icon will display secondary info about the parameters effect on the simulation. In LiquiGen, this icon can only be found next to a few parameters usually to notify the user that changing this parameter will reset the simulation.",
+      "target": " 将鼠标悬停在此图标上会显示参数对模拟影响的辅助信息。在 LiquiGen 中，此图标通常只出现在少数参数旁边，用于提醒用户修改该参数会重置模拟。",
+      "note": ""
+    },
+    {
+      "id": "3c7b5d5ade19",
+      "source": "Cycle Override State:",
+      "target": "Cycle Override State：",
+      "note": ""
+    },
+    {
+      "id": "4d3bacbefcb4",
+      "source": " Clicking on this will cycle through the different override states for the parameter.",
+      "target": " 单击它会在该参数的不同 override state 之间循环。",
+      "note": ""
+    },
+    {
+      "id": "75496a27f00a",
+      "source": "No Override:",
+      "target": "No Override：",
+      "note": ""
+    },
+    {
+      "id": "f366211cb7ed",
+      "source": " The parameter is only driven by the value put into the field, checkbox, or dropdown menu.",
+      "target": " 参数只由字段、复选框或下拉菜单中输入的值驱动。",
+      "note": ""
+    },
+    {
+      "id": "72fe8e2fb480",
+      "source": "Timeline Override:",
+      "target": "Timeline Override：",
+      "note": ""
+    },
+    {
+      "id": "05c63e59116d",
+      "source": " The parameter is driven by the keyframes and can vary over time. For more information please check out our ",
+      "target": " 参数由关键帧驱动，可以随时间变化。更多信息请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "7e806349412a",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "bca39e4b7f26",
+      "source": " section.",
+      "target": " 章节。",
+      "note": ""
+    },
+    {
+      "id": "b969ab53857d",
+      "source": "Pin Override:",
+      "target": "Pin Override：",
+      "note": ""
+    },
+    {
+      "id": "a0e44124d457",
+      "source": " The parameter is driven by an external node like an oscillator. The value can change over time based on a function. For more information check out our ",
+      "target": " 参数由外部节点驱动，例如 oscillator。其值可基于函数随时间变化。更多信息请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "a2c63f1e564e",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "05cc560f06fd",
+      "source": " section.",
+      "target": " 章节。",
+      "note": ""
+    },
+    {
+      "id": "34284d8200ce",
+      "source": "Randomize Override:",
+      "target": "Randomize Override：",
+      "note": ""
+    },
+    {
+      "id": "8d2812f537c8",
+      "source": "Shift",
+      "target": "Shift",
+      "note": ""
+    },
+    {
+      "id": "a49ec6fb31d9",
+      "source": " click. The parameter value can be randomized within the range specified in the ",
+      "target": " 单击。参数值可在 ",
+      "note": ""
+    },
+    {
+      "id": "efdce11fa00b",
+      "source": "Randomized",
+      "target": "Randomized",
+      "note": ""
+    },
+    {
+      "id": "9c776e1687b3",
+      "source": " tab. For more information check out our ",
+      "target": " 选项卡中指定的范围内随机化。更多信息请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "dda83d034e4e",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "11c70ac30776",
+      "source": " section.",
+      "target": " 章节。",
+      "note": ""
+    },
+    {
+      "id": "4b9b5e96c6e1",
+      "source": "Value Slider:",
+      "target": "Value Slider：",
+      "note": ""
+    },
+    {
+      "id": "43f9914fde14",
+      "source": " You can ",
+      "target": " 可以",
+      "note": ""
+    },
+    {
+      "id": "b00ddf33cfc1",
+      "source": " within this box to type in the value you want. Or ",
+      "target": "在此框内单击以输入所需值。也可以",
+      "note": ""
+    },
+    {
+      "id": "b569c5af6528",
+      "source": " and drag to change the value. You can also apply math within these text boxes. For example, typing 4*7/2+6-2 and pressing ",
+      "target": "单击并拖动来更改数值。还可以在这些文本框中使用数学表达式。例如输入 4*7/2+6-2 并按 ",
+      "note": ""
+    },
+    {
+      "id": "74390712afec",
+      "source": "Enter",
+      "target": "Enter",
+      "note": ""
+    },
+    {
+      "id": "a7760f36e9f8",
+      "source": " will put a value of 18 in the parameter. This can be helpful for quickly multiplying a value or reducing it by half for example.",
+      "target": " 会将参数值设为 18。这有助于快速将某个值相乘或减半等。",
+      "note": ""
+    },
+    {
+      "id": "e5e14f28846f",
+      "source": " This appears when a parameter value outside the default bounds is set by typing it in. Doing this will set the bounds to the new minimum or maximum value. You can click on the ",
+      "target": " 当通过手动输入设置了默认边界之外的参数值时，会出现此项。这样会把边界设为新的最小值或最大值。可以单击 ",
+      "note": ""
+    },
+    {
+      "id": "6db9c654fa7b",
+      "source": " icon to open the ",
+      "target": " 图标打开 ",
+      "note": ""
+    },
+    {
+      "id": "f06d323370df",
+      "source": "Set Parameter Bounds",
+      "target": "Set Parameter Bounds",
+      "note": ""
+    },
+    {
+      "id": "57880428806f",
+      "source": " window where you can set the minimum or maximum value using the text fields, reset them to the default indicated on the right by clicking on the ",
+      "target": " 窗口，在其中使用文本字段设置最小值或最大值；也可以单击 ",
+      "note": ""
+    },
+    {
+      "id": "9f19a35a6824",
+      "source": " icon, or reset both using the ",
+      "target": " 图标，将其重置为右侧显示的默认值；或使用 ",
+      "note": ""
+    },
+    {
+      "id": "ba3e3bfa00a1",
+      "source": "Reset Bounds",
+      "target": "Reset Bounds",
+      "note": ""
+    },
+    {
+      "id": "4afdd008b7c9",
+      "source": " button. If the ",
+      "target": " 按钮同时重置两者。如果出现该图标",
+      "note": ""
+    },
+    {
+      "id": "5afae9e5ebfb",
+      "source": " is present it means that the current parameter value is outside of the minimum or maximum bound and resetting that bound will result in the value being overwritten to the minimum or maximum value.",
+      "target": "，表示当前参数值超出最小或最大边界，重置该边界会导致该值被最小值或最大值覆盖。",
+      "note": ""
+    },
+    {
+      "id": "32b9a2232fa8",
+      "source": "The parameter bounds affect the range of the parameter slider, modulation and timeline controls.",
+      "target": "参数边界会影响参数滑块、调制控件和时间轴控件的范围。",
+      "note": ""
+    },
+    {
+      "id": "313656f494df",
+      "source": "Vertical scrollbar. You can use this to scroll through the list of parameters.",
+      "target": "垂直滚动条。可用它滚动参数列表。",
+      "note": ""
+    },
+    {
+      "id": "bbf988ea1b74",
+      "source": "Horizontal scrollbar.",
+      "target": "水平滚动条。",
+      "note": ""
+    },
+    {
+      "id": "e9b69685a8b4",
+      "source": "Current software version.",
+      "target": "当前软件版本。",
+      "note": ""
+    },
+    {
+      "id": "234a2e2a9a44",
+      "source": "To quickly jump to a parameter you can use ",
+      "target": "要快速跳转到参数，可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "2c2ae85421e6",
+      "source": "Ctrl + P",
+      "target": "Ctrl + P",
+      "note": ""
+    },
+    {
+      "id": "6ec2afae1851",
+      "source": "Project Manager",
+      "target": "项目管理器",
+      "note": ""
+    },
+    {
+      "id": "b6ff87ed262c",
+      "source": "Return to the normal user interface with the project you’re currently in. Clicking the ",
+      "target": "返回当前项目的常规用户界面。单击 ",
+      "note": ""
+    },
+    {
+      "id": "d44b953c982d",
+      "source": " icon will do the same thing.",
+      "target": " 图标也会执行相同操作。",
+      "note": ""
+    },
+    {
+      "id": "86c01eca04eb",
+      "source": "Minimize the LiquiGen window.",
+      "target": "最小化 LiquiGen 窗口。",
+      "note": ""
+    },
+    {
+      "id": "6047722c9aa7",
+      "source": "Maximize the LiquiGen window.",
+      "target": "最大化 LiquiGen 窗口。",
+      "note": ""
+    },
+    {
+      "id": "e1576653d822",
+      "source": "Close LiquiGen.",
+      "target": "关闭 LiquiGen。",
+      "note": ""
+    },
+    {
+      "id": "4461a7f48cd1",
+      "source": "JangaFX account. In this section, you can go to your JangaFX account which stores things like your licenses and plans.",
+      "target": "JangaFX account。在此部分，可以前往你的 JangaFX 账号，其中存储许可证和订阅方案等内容。",
+      "note": ""
+    },
+    {
+      "id": "b7b758a6ae0d",
+      "source": "Open the default preset.",
+      "target": "打开默认预设。",
+      "note": ""
+    },
+    {
+      "id": "fa5556d708bc",
+      "source": "This opens a file browser where you can look for a ",
+      "target": "这会打开文件浏览器，可在其中查找要打开的 ",
+      "note": ""
+    },
+    {
+      "id": "0c40ae5fc7ec",
+      "source": ".liquigen",
+      "target": ".liquigen",
+      "note": ""
+    },
+    {
+      "id": "c9243c35a37f",
+      "source": " file to open.",
+      "target": " 文件。",
+      "note": ""
+    },
+    {
+      "id": "8f18cd3d37d1",
+      "source": "Go to the Project Manager home page, which features the ",
+      "target": "前往 Project Manager 首页，其中包含 ",
+      "note": ""
+    },
+    {
+      "id": "92119ff22ee8",
+      "source": "Recent Projects",
+      "target": "Recent Projects",
+      "note": ""
+    },
+    {
+      "id": "e0dc044d409d",
+      "source": " section with a list of your most recent projects so you can continue working quickly, the ",
+      "target": " 部分，列出最近项目以便快速继续工作；还包含 ",
+      "note": ""
+    },
+    {
+      "id": "a875f9f18225",
+      "source": "Start From",
+      "target": "Start From",
+      "note": ""
+    },
+    {
+      "id": "7238f924c9e0",
+      "source": " section to select a good starting point closest to the scale of your intended simumation, and the ",
+      "target": " 部分，用于选择最接近目标模拟规模的良好起点；以及 ",
+      "note": ""
+    },
+    {
+      "id": "5d52886426c9",
+      "source": "What’s New",
+      "target": "What’s New",
+      "note": ""
+    },
+    {
+      "id": "4d945d4bd8cd",
+      "source": " section with our latest YouTube videos.",
+      "target": " 部分，其中包含最新 YouTube 视频。",
+      "note": ""
+    },
+    {
+      "id": "7a1314bdbd80",
+      "source": "Go to the learning section featuring our tutorials and recent live streams.",
+      "target": "前往学习部分，其中包含教程和近期直播。",
+      "note": ""
+    },
+    {
+      "id": "a268596d5cfe",
+      "source": "Go to the preset list containing a wide variety of presets to learn from or to use as a starting point for your effects.",
+      "target": "前往预设列表，其中包含多种预设，可用于学习或作为效果起点。",
+      "note": ""
+    },
+    {
+      "id": "4e6f168e4338",
+      "source": "Go to a full list of all the projects you’ve opened. Using the dropdown menu, you can sort your projects by filename, file creation date, or the latest file modification date. You can ",
+      "target": "前往所有已打开项目的完整列表。使用下拉菜单，可以按文件名、文件创建日期或最新文件修改日期排序项目。可以 ",
+      "note": ""
+    },
+    {
+      "id": "303db8328159",
+      "source": " click the ",
+      "target": " 单击 ",
+      "note": ""
+    },
+    {
+      "id": "17161611dc5e",
+      "source": " arrow to toggle the list between ascending or descending. You can also type a part of the filename in the search box to find the project file you’re looking for.",
+      "target": " 箭头，在升序和降序之间切换列表。也可以在搜索框中输入文件名的一部分来查找所需项目文件。",
+      "note": ""
+    },
+    {
+      "id": "8a03c6b1e15f",
+      "source": "Pro tip: You can drag a lot of .liquigen files into LiquiGen together (like a preset pack) and they will all conveniently show up in the projects list.",
+      "target": "专业提示：可以一次将大量 .liquigen 文件拖入 LiquiGen（例如一个 preset pack），它们都会方便地出现在项目列表中。",
+      "note": ""
+    },
+    {
+      "id": "bebbe42c475f",
+      "source": "List of latest JangaFX videos. Clicking on these thumbnails will redirect you to the video on youtube.",
+      "target": "最新 JangaFX 视频列表。单击这些缩略图会跳转到 YouTube 上的视频。",
+      "note": ""
+    },
+    {
+      "id": "9bfd5445989c",
+      "source": "Open the License Manager. For more information on licensing please go to our ",
+      "target": "打开 License Manager。有关许可的更多信息，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "e3f8349c6da1",
+      "source": "Licensing",
+      "target": "许可",
+      "note": "translation memory"
+    },
+    {
+      "id": "96e7354ed290",
+      "source": " section!",
+      "target": " 章节！",
+      "note": ""
+    },
+    {
+      "id": "043f275a140f",
+      "source": "Link to our ",
+      "target": "链接到我们的 ",
+      "note": ""
+    },
+    {
+      "id": "41faa99b3300",
+      "source": "discord server",
+      "target": "Discord 服务器",
+      "note": ""
+    },
+    {
+      "id": "01b12f93ebfa",
+      "source": " where you can get help, give feedback on the software, get early builds, or show off things you made.",
+      "target": "，你可以在那里获得帮助、反馈软件、获取 early builds，或展示你的作品。",
+      "note": ""
+    },
+    {
+      "id": "5291685c916c",
+      "source": "Link to our ",
+      "target": "链接到我们的 ",
+      "note": ""
+    },
+    {
+      "id": "7860f347d4b3",
+      "source": "forums",
+      "target": "论坛",
+      "note": ""
+    },
+    {
+      "id": "43d6840db926",
+      "source": "Links to the JangaFX social media pages.",
+      "target": "JangaFX 社交媒体页面链接。",
+      "note": ""
+    },
+    {
+      "id": "286b7e015b50",
+      "source": "Current software version.",
+      "target": "当前软件版本。",
+      "note": ""
+    },
+    {
+      "id": "0ebc10ce626d",
+      "source": "Preset categories. Currently not in use…",
+      "target": "预设类别。目前未使用…",
+      "note": ""
+    },
+    {
+      "id": "3defb4257a2e",
+      "source": "Search field where you can type the name or a part of the name to find the preset you are looking for.",
+      "target": "搜索字段，可输入名称或名称的一部分来查找所需预设。",
+      "note": ""
+    },
+    {
+      "id": "bd2ec66f1735",
+      "source": "Preset. A preset is a read-only LiquiGen project file that ships with the software. When in the ",
+      "target": "Preset。预设是随软件提供的只读 LiquiGen 项目文件。当位于 ",
+      "note": ""
+    },
+    {
+      "id": "e246e7195c8e",
+      "source": "My Projects",
+      "target": "My Projects",
+      "note": ""
+    },
+    {
+      "id": "c8e693fe4f14",
+      "source": " (11) section, this list contains project files you saved yourself.",
+      "target": "（11）部分时，此列表包含你自己保存的项目文件。",
+      "note": ""
+    },
+    {
+      "id": "55a2e4f75bba",
+      "source": "VRAM tag. This can be added to project files to mark if the simulation takes a lot of VRAM or not. Useful for when you don’t want to accidentally open a preset your computer can’t handle. To add a VRAM tag, go to ",
+      "target": "VRAM tag。可将其添加到项目文件中，用于标记模拟是否占用大量 VRAM。这有助于避免意外打开电脑无法承受的预设。要添加 VRAM 标签，请前往 ",
+      "note": ""
+    },
+    {
+      "id": "f744f12a4071",
+      "source": "Settings/Project Settings…",
+      "target": "Settings/Project Settings…",
+      "note": ""
+    },
+    {
+      "id": "188cfbfde7e9",
+      "source": " in the ",
+      "target": " 中的 ",
+      "note": ""
+    },
+    {
+      "id": "3abfbaa8e662",
+      "source": "Tags",
+      "target": "Tags",
+      "note": ""
+    },
+    {
+      "id": "457aac1118ac",
+      "source": " textbox type ",
+      "target": " 文本框，输入 ",
+      "note": ""
+    },
+    {
+      "id": "97a63da6d3b7",
+      "source": " or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "f1d5a4a0b6b8",
+      "source": " and hit ",
+      "target": "，然后按 ",
+      "note": ""
+    },
+    {
+      "id": "9702abb73367",
+      "source": "Enter",
+      "target": "Enter",
+      "note": ""
+    },
+    {
+      "id": "468a7794e950",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "b7001ca60bbc",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "daa20ab2d67b",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "6379a591b04c",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "7a4e32b3ece9",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "23381dfcded1",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "3c17af8299cf",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "f756b0683802",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4d9d94c809d0",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "5b42d54833e3",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "d4f98d544938",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "6fbf2c1f00ba",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "8c4e21d917f1",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "d0b523e4adab",
+      "source": "Menubar",
+      "target": "菜单栏",
+      "note": ""
+    },
+    {
+      "id": "50694a514e59",
+      "source": "Viewport",
+      "target": "视口",
+      "note": ""
+    },
+    {
+      "id": "3a196a933ab5",
+      "source": "Node Graph",
+      "target": "节点图",
+      "note": ""
+    },
+    {
+      "id": "35f717a88722",
+      "source": "Timeline Editor",
+      "target": "时间轴编辑器",
+      "note": ""
+    },
+    {
+      "id": "ffd6f47805cf",
+      "source": "Properties Panel",
+      "target": "属性面板",
+      "note": ""
+    },
+    {
+      "id": "d7538b85bc70",
+      "source": "Project Manager",
+      "target": "项目管理器",
+      "note": ""
+    }
+  ]
+}

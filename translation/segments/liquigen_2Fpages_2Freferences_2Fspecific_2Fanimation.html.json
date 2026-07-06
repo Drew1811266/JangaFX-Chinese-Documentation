@@ -1,0 +1,2806 @@
+{
+  "path": "liquigen/pages/references/specific/animation.html",
+  "segment_count": 280,
+  "segments": [
+    {
+      "id": "24eea4122b59",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 565,
+      "end": 607,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Keyframe Animation - JangaFX Documentation",
+      "source_text": "Keyframe Animation - JangaFX Documentation"
+    },
+    {
+      "id": "9e1f09220781",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 5197,
+      "end": 5220,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "7d7e1451787d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 5315,
+      "end": 5345,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "55a91afafea2",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 5541,
+      "end": 5571,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "cd3b9a9d57ab",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 5762,
+      "end": 5783,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "890fbcee963f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 5976,
+      "end": 6014,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "e21f984fa88b",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 6397,
+      "end": 6429,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "abac430cdf01",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 7461,
+      "end": 7483,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "cb3d5c190db2",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 7661,
+      "end": 7693,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "b3dcdf7152c7",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 7886,
+      "end": 7901,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "1945bb330629",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 8033,
+      "end": 8043,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "0e7f40e17211",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 8221,
+      "end": 8253,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "fb12ca8927d8",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 8454,
+      "end": 8468,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "c798f0c60ccd",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 8590,
+      "end": 8598,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "b0fc41b02c9a",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 8721,
+      "end": 8730,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "bc9d64ef58b3",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 8878,
+      "end": 8891,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "86e603dbb1d3",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 9069,
+      "end": 9101,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "376856f17ec7",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 9319,
+      "end": 9332,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "88086eb0fb31",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 9483,
+      "end": 9502,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "cda2ddb6b86e",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 9637,
+      "end": 9642,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "cf451514cf6f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 9779,
+      "end": 9786,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "e1ead2f64138",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 9920,
+      "end": 9924,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "3d84601d9c78",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 10070,
+      "end": 10090,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "622c40b7c4f7",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 10229,
+      "end": 10238,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "1fe0ea407194",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 10379,
+      "end": 10391,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "1f7539c6e99f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 10530,
+      "end": 10548,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "b2e6a95d391d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 10694,
+      "end": 10710,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "a76f3cfc8fc1",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 10861,
+      "end": 10882,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "7a298352267e",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 11020,
+      "end": 11028,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "b021ab8fb71d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 11167,
+      "end": 11177,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "cee96b2897cf",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 11320,
+      "end": 11333,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "d600f69162a4",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 11463,
+      "end": 11466,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "1e27addebdfb",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 11581,
+      "end": 11603,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "4d79dad648de",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 11781,
+      "end": 11813,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "583dc8abcdff",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 11985,
+      "end": 12000,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "97af2ee487b8",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 12097,
+      "end": 12107,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "aa04794bece9",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 12285,
+      "end": 12317,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "f6414f2cb22c",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 12483,
+      "end": 12497,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "ea2cee3d0341",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 12584,
+      "end": 12592,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "a3a5512d23c8",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 12680,
+      "end": 12689,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "660691a7c797",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 12802,
+      "end": 12815,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "c503f0eea87a",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 12993,
+      "end": 13025,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "7babff24fd91",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 13206,
+      "end": 13217,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "e9eb04f886fa",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 13333,
+      "end": 13352,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "8c910458712d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 13452,
+      "end": 13457,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "5863c1056b35",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 13559,
+      "end": 13566,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "1ac2f76f94ba",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 13665,
+      "end": 13669,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "91d787386cce",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 13780,
+      "end": 13800,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "e3b11244b7b8",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 13908,
+      "end": 13921,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "2a580628d3b1",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 14027,
+      "end": 14039,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "7a2e04deef99",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 14143,
+      "end": 14161,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "12e409081034",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 14272,
+      "end": 14288,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "27fb40f9b44f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 14404,
+      "end": 14425,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "ec9e6cfad63e",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 14528,
+      "end": 14536,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "916f45204ec4",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 14644,
+      "end": 14657,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "6596669c6b5f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 14763,
+      "end": 14774,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "4945ea429ef8",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 14883,
+      "end": 14886,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "315a71298557",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 14999,
+      "end": 15020,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "1683eda15825",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 15120,
+      "end": 15140,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "157d42a18500",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 15243,
+      "end": 15265,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "76ff01d08126",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 15678,
+      "end": 15689,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "3bc67195688a",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 15909,
+      "end": 15947,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "c9fa90249c6b",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 16359,
+      "end": 16391,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "0e7c87b7412a",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 16609,
+      "end": 16627,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "70987cb80f23",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 16758,
+      "end": 16775,
+      "line": 258,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Setting Keyframes",
+      "source_text": "Setting Keyframes"
+    },
+    {
+      "id": "da574c808716",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 16871,
+      "end": 16888,
+      "line": 259,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s get moving!",
+      "source_text": "Let’s get moving!"
+    },
+    {
+      "id": "19a8ebcbca69",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 17089,
+      "end": 17246,
+      "line": 261,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Most parameters in LiquiGen can have keyframe animation. This means you can set values on specific frames resulting in a parameter that can change over time.",
+      "source_text": "Most parameters in LiquiGen can have keyframe animation. This means you can set values on specific frames resulting in a parameter that can change over time."
+    },
+    {
+      "id": "aa781573fc0b",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 17254,
+      "end": 17303,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s say we want our sphere to move up and down.",
+      "source_text": "Let’s say we want our sphere to move up and down."
+    },
+    {
+      "id": "007c72f4029d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 17311,
+      "end": 17364,
+      "line": 263,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "That means we have to alter its Z-position over time.",
+      "source_text": "That means we have to alter its Z-position over time."
+    },
+    {
+      "id": "4ff018f596d0",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 17396,
+      "end": 17407,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Select the ",
+      "source_text": "Select the "
+    },
+    {
+      "id": "7f367a99de4b",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 17411,
+      "end": 17427,
+      "line": 265,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Shape: Primitive",
+      "source_text": "Shape: Primitive"
+    },
+    {
+      "id": "924bfc7168de",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 17432,
+      "end": 17451,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " node and find the ",
+      "source_text": " node and find the "
+    },
+    {
+      "id": "a5fa2127336e",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 17455,
+      "end": 17463,
+      "line": 265,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Position",
+      "source_text": "Position"
+    },
+    {
+      "id": "e223b3096cb8",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 17468,
+      "end": 17486,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "c5c09f0b4cfa",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 17490,
+      "end": 17502,
+      "line": 265,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Node Details",
+      "source_text": "Node Details"
+    },
+    {
+      "id": "28cbe11e5b4a",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 17507,
+      "end": 17512,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "a28efd50576a",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 17812,
+      "end": 17825,
+      "line": 269,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Click on the ",
+      "source_text": "Click on the "
+    },
+    {
+      "id": "cf7869beaa98",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 17986,
+      "end": 18052,
+      "line": 269,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " circle next to it to set the override state for the parameter to ",
+      "source_text": " circle next to it to set the override state for the parameter to "
+    },
+    {
+      "id": "238876b8d644",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 18223,
+      "end": 18240,
+      "line": 269,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Timeline Override",
+      "source_text": "Timeline Override"
+    },
+    {
+      "id": "e198d4f25256",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 18263,
+      "end": 18399,
+      "line": 270,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Clicking on the icon next to the parameter will cycle through the different types of override states. So if you now want to get back to ",
+      "source_text": "Clicking on the icon next to the parameter will cycle through the different types of override states. So if you now want to get back to "
+    },
+    {
+      "id": "0152cb4efaf0",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 18565,
+      "end": 18576,
+      "line": 270,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "No Override",
+      "source_text": "No Override"
+    },
+    {
+      "id": "cf1bbc355395",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 18581,
+      "end": 18629,
+      "line": 270,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ", for example, you have to click the icon twice.",
+      "source_text": ", for example, you have to click the icon twice."
+    },
+    {
+      "id": "dbce332ffa83",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 18848,
+      "end": 18909,
+      "line": 273,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "A couple of things happen when setting the override state to ",
+      "source_text": "A couple of things happen when setting the override state to "
+    },
+    {
+      "id": "84d0591ef1c5",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 18913,
+      "end": 18930,
+      "line": 273,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Timeline Override",
+      "source_text": "Timeline Override"
+    },
+    {
+      "id": "483757b768b1",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 18968,
+      "end": 19011,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The parameter shows up in the Timeline tab.",
+      "source_text": "The parameter shows up in the Timeline tab."
+    },
+    {
+      "id": "6be458e8a1e6",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 19244,
+      "end": 19290,
+      "line": 279,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The parameter shows up in the Timeline Editor.",
+      "source_text": "The parameter shows up in the Timeline Editor."
+    },
+    {
+      "id": "6902a4f11df2",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 19569,
+      "end": 19572,
+      "line": 283,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If ",
+      "source_text": "If "
+    },
+    {
+      "id": "95b1dac6c7cd",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 19576,
+      "end": 19609,
+      "line": 283,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Create Key When Parameter Exposed",
+      "source_text": "Create Key When Parameter Exposed"
+    },
+    {
+      "id": "17b7ca6a0153",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 19614,
+      "end": 19625,
+      "line": 283,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " (found in ",
+      "source_text": " (found in "
+    },
+    {
+      "id": "2d0bc65fa1ca",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 19629,
+      "end": 19658,
+      "line": 283,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Settings/Preferences…/General",
+      "source_text": "Settings/Preferences…/General"
+    },
+    {
+      "id": "1f1f94e71cbe",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 19663,
+      "end": 19738,
+      "line": 283,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ") is checked a keyframe with the current value appears at the blue playhead",
+      "source_text": ") is checked a keyframe with the current value appears at the blue playhead"
+    },
+    {
+      "id": "ce80230034ff",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 19998,
+      "end": 20051,
+      "line": 286,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s make our sphere go up and down using keyframes!",
+      "source_text": "Let’s make our sphere go up and down using keyframes!"
+    },
+    {
+      "id": "39a51e9542be",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 20398,
+      "end": 20472,
+      "line": 294,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "973efa1a6ad0",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 20539,
+      "end": 20565,
+      "line": 299,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "You can add a keyframe by ",
+      "source_text": "You can add a keyframe by "
+    },
+    {
+      "id": "4f6107bb88c6",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 20571,
+      "end": 20586,
+      "line": 299,
+      "parent_path": "section/section/div/div/cite",
+      "source_raw": "Double-Clicking",
+      "source_text": "Double-Clicking"
+    },
+    {
+      "id": "0ae0806818b1",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 20593,
+      "end": 20596,
+      "line": 299,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": " or",
+      "source_text": " or"
+    },
+    {
+      "id": "f8b5c9f50b54",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 20627,
+      "end": 20641,
+      "line": 300,
+      "parent_path": "section/section/div/div/cite",
+      "source_raw": "Shift-Clicking",
+      "source_text": "Shift-Clicking"
+    },
+    {
+      "id": "519a29bb6472",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 20648,
+      "end": 20655,
+      "line": 300,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": " in the",
+      "source_text": " in the"
+    },
+    {
+      "id": "d029dc0d8dd3",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 20684,
+      "end": 20699,
+      "line": 301,
+      "parent_path": "section/section/div/div/em",
+      "source_raw": "Timeline Editor",
+      "source_text": "Timeline Editor"
+    },
+    {
+      "id": "21d337b189aa",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 20722,
+      "end": 20805,
+      "line": 303,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "You can also set a keyframe by changing the parameter value in the Timeline Editor.",
+      "source_text": "You can also set a keyframe by changing the parameter value in the Timeline Editor."
+    },
+    {
+      "id": "56d902d257ee",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 20813,
+      "end": 20816,
+      "line": 304,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "If ",
+      "source_text": "If "
+    },
+    {
+      "id": "de24a6c133d9",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 20989,
+      "end": 21012,
+      "line": 304,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Toggle Timeline Autokey",
+      "source_text": "Toggle Timeline Autokey"
+    },
+    {
+      "id": "f74b98d710eb",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 21032,
+      "end": 21210,
+      "line": 304,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " is turned on, moving the sphere in the viewport or altering the value in the properties panel will set a keyframe with the new value on the frame specified by the blue playhead.",
+      "source_text": " is turned on, moving the sphere in the viewport or altering the value in the properties panel will set a keyframe with the new value on the frame specified by the blue playhead."
+    },
+    {
+      "id": "ef5588536e66",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 21218,
+      "end": 21221,
+      "line": 305,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "If ",
+      "source_text": "If "
+    },
+    {
+      "id": "11f121581dac",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 21225,
+      "end": 21244,
+      "line": 305,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Snap keys to frames",
+      "source_text": "Snap keys to frames"
+    },
+    {
+      "id": "37c3fb2d25eb",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 21411,
+      "end": 21544,
+      "line": 305,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " is enabled, the keyframes can only be placed on whole frame numbers. If not, the keyframes can be placed anywhere in between frames.",
+      "source_text": " is enabled, the keyframes can only be placed on whole frame numbers. If not, the keyframes can be placed anywhere in between frames."
+    },
+    {
+      "id": "1845c6f4d31f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 21552,
+      "end": 21598,
+      "line": 306,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "There we have it, a sphere moving up and down!",
+      "source_text": "There we have it, a sphere moving up and down!"
+    },
+    {
+      "id": "c41e660c91bd",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 21682,
+      "end": 21697,
+      "line": 309,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Timeline Editor",
+      "source_text": "Timeline Editor"
+    },
+    {
+      "id": "cc4275488edb",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 21825,
+      "end": 21842,
+      "line": 311,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Viewing Keyframes",
+      "source_text": "Viewing Keyframes"
+    },
+    {
+      "id": "507ea087ac1a",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 21938,
+      "end": 22059,
+      "line": 312,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "First, let’s fit the keyframes nicely in our timeline editor. You can do this by using the icons in the top right corner.",
+      "source_text": "First, let’s fit the keyframes nicely in our timeline editor. You can do this by using the icons in the top right corner."
+    },
+    {
+      "id": "3d806fec03db",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 22420,
+      "end": 22494,
+      "line": 320,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "4ef2637d48de",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 22717,
+      "end": 22787,
+      "line": 325,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Pan and zoom the timeline to perfectly fit all the keyframes in view.",
+      "source_text": " Pan and zoom the timeline to perfectly fit all the keyframes in view."
+    },
+    {
+      "id": "217f92071673",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 22979,
+      "end": 23054,
+      "line": 326,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Pan and zoom the timeline to perfectly fit the selected keyframes in view.",
+      "source_text": " Pan and zoom the timeline to perfectly fit the selected keyframes in view."
+    },
+    {
+      "id": "af55a8bdeaba",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 23252,
+      "end": 23320,
+      "line": 327,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Reset the vertical zoom to default in the Curve Editor. When using ",
+      "source_text": " Reset the vertical zoom to default in the Curve Editor. When using "
+    },
+    {
+      "id": "ab300b415ede",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 23326,
+      "end": 23331,
+      "line": 327,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Shift",
+      "source_text": "Shift"
+    },
+    {
+      "id": "153ae3daa636",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 23500,
+      "end": 23557,
+      "line": 327,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " click you can also reset the horizontal zoom to default!",
+      "source_text": " click you can also reset the horizontal zoom to default!"
+    },
+    {
+      "id": "25d73d06e0cd",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 23745,
+      "end": 23842,
+      "line": 328,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Toggle the panel to fullscreen if you want to edit your keyframes with the maximum screen space.",
+      "source_text": " Toggle the panel to fullscreen if you want to edit your keyframes with the maximum screen space."
+    },
+    {
+      "id": "31b4f5c938cf",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 23861,
+      "end": 23932,
+      "line": 330,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "You can manually move around the timeline using the following controls:",
+      "source_text": "You can manually move around the timeline using the following controls:"
+    },
+    {
+      "id": "745f5166c3a2",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 23972,
+      "end": 23988,
+      "line": 332,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Pan the timeline",
+      "source_text": "Pan the timeline"
+    },
+    {
+      "id": "1e3e3d5f25bf",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 23997,
+      "end": 24111,
+      "line": 332,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " by holding down the middle mouse button and dragging or by using the scrollbar at the top of the timeline editor.",
+      "source_text": " by holding down the middle mouse button and dragging or by using the scrollbar at the top of the timeline editor."
+    },
+    {
+      "id": "987bcd551500",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 24136,
+      "end": 24156,
+      "line": 333,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Zooming the timeline",
+      "source_text": "Zooming the timeline"
+    },
+    {
+      "id": "817d4fb42c6d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 24165,
+      "end": 24182,
+      "line": 333,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " by holding down ",
+      "source_text": " by holding down "
+    },
+    {
+      "id": "125f51e04c7e",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 24188,
+      "end": 24192,
+      "line": 333,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl",
+      "source_text": "Ctrl"
+    },
+    {
+      "id": "45b56d555ff6",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 24199,
+      "end": 24276,
+      "line": 333,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and scrolling. Note that the pivot for zooming is at your cursor’s location.",
+      "source_text": " and scrolling. Note that the pivot for zooming is at your cursor’s location."
+    },
+    {
+      "id": "7d60cf6e02fd",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 24340,
+      "end": 24357,
+      "line": 337,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Editing Keyframes",
+      "source_text": "Editing Keyframes"
+    },
+    {
+      "id": "131cf6fa286b",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 24453,
+      "end": 24570,
+      "line": 338,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Using the timeline editor you can edit your keyframes to your liking. Let’s have a look at the things we can do here.",
+      "source_text": "Using the timeline editor you can edit your keyframes to your liking. Let’s have a look at the things we can do here."
+    },
+    {
+      "id": "8d72c0bd2610",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 24932,
+      "end": 25006,
+      "line": 346,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "d59ed311c54b",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25065,
+      "end": 25082,
+      "line": 351,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Create a keyframe",
+      "source_text": "Create a keyframe"
+    },
+    {
+      "id": "08798327adc1",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25091,
+      "end": 25102,
+      "line": 351,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " by double ",
+      "source_text": " by double "
+    },
+    {
+      "id": "b03cc2328b30",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25261,
+      "end": 25274,
+      "line": 351,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking or ",
+      "source_text": " clicking or "
+    },
+    {
+      "id": "eda00b06f96a",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25280,
+      "end": 25285,
+      "line": 351,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "shift",
+      "source_text": "shift"
+    },
+    {
+      "id": "75ef6ee343f3",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25452,
+      "end": 25462,
+      "line": 351,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking.",
+      "source_text": " clicking."
+    },
+    {
+      "id": "c0c60990f317",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25487,
+      "end": 25508,
+      "line": 352,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Move keyframes around",
+      "source_text": "Move keyframes around"
+    },
+    {
+      "id": "e827b1a3ec69",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25517,
+      "end": 25521,
+      "line": 352,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " by ",
+      "source_text": " by "
+    },
+    {
+      "id": "370706116f7a",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25527,
+      "end": 25530,
+      "line": 352,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "LMB",
+      "source_text": "LMB"
+    },
+    {
+      "id": "413804b5c43e",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25537,
+      "end": 25555,
+      "line": 352,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and dragging. If ",
+      "source_text": " and dragging. If "
+    },
+    {
+      "id": "dad99a443e39",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25559,
+      "end": 25578,
+      "line": 352,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Snap keys to frames",
+      "source_text": "Snap keys to frames"
+    },
+    {
+      "id": "a61e7f5aa331",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25745,
+      "end": 25811,
+      "line": 352,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is enabled, keyframes will always move a whole frame at the time.",
+      "source_text": " is enabled, keyframes will always move a whole frame at the time."
+    },
+    {
+      "id": "0025c1d1439d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25836,
+      "end": 25865,
+      "line": 353,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Box-select multiple keyframes",
+      "source_text": "Box-select multiple keyframes"
+    },
+    {
+      "id": "d9c7f4156120",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25874,
+      "end": 25878,
+      "line": 353,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " by ",
+      "source_text": " by "
+    },
+    {
+      "id": "9867b1aecdc1",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25884,
+      "end": 25887,
+      "line": 353,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "LMB",
+      "source_text": "LMB"
+    },
+    {
+      "id": "1e1f9c624b4b",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25894,
+      "end": 25908,
+      "line": 353,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and dragging.",
+      "source_text": " and dragging."
+    },
+    {
+      "id": "c462e72d7c23",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25933,
+      "end": 25958,
+      "line": 354,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Select multiple keyframes",
+      "source_text": "Select multiple keyframes"
+    },
+    {
+      "id": "edf571fd946e",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25967,
+      "end": 25981,
+      "line": 354,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " holding down ",
+      "source_text": " holding down "
+    },
+    {
+      "id": "9d128b8b89cb",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 25987,
+      "end": 25997,
+      "line": 354,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + LMB",
+      "source_text": "Ctrl + LMB"
+    },
+    {
+      "id": "f90eede2ae86",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26030,
+      "end": 26050,
+      "line": 355,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Select all keyframes",
+      "source_text": "Select all keyframes"
+    },
+    {
+      "id": "269b54e4004e",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26059,
+      "end": 26065,
+      "line": 355,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " with ",
+      "source_text": " with "
+    },
+    {
+      "id": "b87ca08b9be2",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26071,
+      "end": 26079,
+      "line": 355,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + A",
+      "source_text": "Ctrl + A"
+    },
+    {
+      "id": "9dcb620acfb9",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26111,
+      "end": 26125,
+      "line": 356,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Copy keyframes",
+      "source_text": "Copy keyframes"
+    },
+    {
+      "id": "3057c706d026",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26134,
+      "end": 26164,
+      "line": 356,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " with the right-click menu or ",
+      "source_text": " with the right-click menu or "
+    },
+    {
+      "id": "27590d25abee",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26170,
+      "end": 26178,
+      "line": 356,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + C",
+      "source_text": "Ctrl + C"
+    },
+    {
+      "id": "b9914bc730da",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26210,
+      "end": 26223,
+      "line": 357,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Cut keyframes",
+      "source_text": "Cut keyframes"
+    },
+    {
+      "id": "75a6b6ba9f73",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26232,
+      "end": 26262,
+      "line": 357,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " with the right-click menu or ",
+      "source_text": " with the right-click menu or "
+    },
+    {
+      "id": "9e9d7f686d72",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26268,
+      "end": 26276,
+      "line": 357,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + X",
+      "source_text": "Ctrl + X"
+    },
+    {
+      "id": "80da40a42f03",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26308,
+      "end": 26323,
+      "line": 358,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Paste keyframes",
+      "source_text": "Paste keyframes"
+    },
+    {
+      "id": "4c931f5e4045",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26332,
+      "end": 26362,
+      "line": 358,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " with the right-click menu or ",
+      "source_text": " with the right-click menu or "
+    },
+    {
+      "id": "b69b680a6afd",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26368,
+      "end": 26376,
+      "line": 358,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + V",
+      "source_text": "Ctrl + V"
+    },
+    {
+      "id": "5e2691482137",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26408,
+      "end": 26424,
+      "line": 359,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Delete keyframes",
+      "source_text": "Delete keyframes"
+    },
+    {
+      "id": "248574767103",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26433,
+      "end": 26467,
+      "line": 359,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " with the right-click menu or the ",
+      "source_text": " with the right-click menu or the "
+    },
+    {
+      "id": "b024d3080771",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26473,
+      "end": 26479,
+      "line": 359,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "2ecd9749e427",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26486,
+      "end": 26491,
+      "line": 359,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " key.",
+      "source_text": " key."
+    },
+    {
+      "id": "7c88c7008f7b",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26516,
+      "end": 26545,
+      "line": 360,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Scale your keyframe animation",
+      "source_text": "Scale your keyframe animation"
+    },
+    {
+      "id": "f6fa8c8255e6",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26554,
+      "end": 26561,
+      "line": 360,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " using ",
+      "source_text": " using "
+    },
+    {
+      "id": "f4901ffaf29a",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26567,
+      "end": 26584,
+      "line": 360,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Shift + Alt + LMB",
+      "source_text": "Shift + Alt + LMB"
+    },
+    {
+      "id": "03b52b642ac3",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26591,
+      "end": 26698,
+      "line": 360,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " drag pivoting from the first keyframe. This can be helpful if you want to retime a part of your animation.",
+      "source_text": " drag pivoting from the first keyframe. This can be helpful if you want to retime a part of your animation."
+    },
+    {
+      "id": "33a61720988d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26744,
+      "end": 26762,
+      "line": 362,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Aligning keyframes",
+      "source_text": "Aligning keyframes"
+    },
+    {
+      "id": "9e8bf98b55dd",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26771,
+      "end": 26860,
+      "line": 362,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " left or right by right-clicking a selection of keyframes and picking an option from the ",
+      "source_text": " left or right by right-clicking a selection of keyframes and picking an option from the "
+    },
+    {
+      "id": "f99a6a3c29d6",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26864,
+      "end": 26869,
+      "line": 362,
+      "parent_path": "ul/li/dl/dt/em",
+      "source_raw": "Align",
+      "source_text": "Align"
+    },
+    {
+      "id": "3fc5bc8170ba",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 26874,
+      "end": 26982,
+      "line": 362,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " menu. When putting keyframes on multiple parameters aligning can help to tidy up and perfect your timeline.",
+      "source_text": " menu. When putting keyframes on multiple parameters aligning can help to tidy up and perfect your timeline."
+    },
+    {
+      "id": "954fe2c5e282",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 27003,
+      "end": 27083,
+      "line": 363,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Left will move all the selected keyframes to the position of the first keyframe.",
+      "source_text": "Left will move all the selected keyframes to the position of the first keyframe."
+    },
+    {
+      "id": "8c490873fdf6",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 27100,
+      "end": 27180,
+      "line": 364,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Right will move all the selected keyframes to the position of the last keyframe.",
+      "source_text": "Right will move all the selected keyframes to the position of the last keyframe."
+    },
+    {
+      "id": "335240e09cd8",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 27550,
+      "end": 27624,
+      "line": 377,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "3450446d31a7",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 27683,
+      "end": 27731,
+      "line": 382,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Snap keyframes to the nearest whole frame number",
+      "source_text": "Snap keyframes to the nearest whole frame number"
+    },
+    {
+      "id": "72cb7ffe82e4",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 27740,
+      "end": 27750,
+      "line": 382,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " with the ",
+      "source_text": " with the "
+    },
+    {
+      "id": "51902ecf8d77",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 27754,
+      "end": 27768,
+      "line": 382,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Snap To Frames",
+      "source_text": "Snap To Frames"
+    },
+    {
+      "id": "fb9151762b51",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 27773,
+      "end": 27805,
+      "line": 382,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " option in the right-click menu.",
+      "source_text": " option in the right-click menu."
+    },
+    {
+      "id": "f9aff70a9ac1",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 27905,
+      "end": 27917,
+      "line": 387,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Curve Editor",
+      "source_text": "Curve Editor"
+    },
+    {
+      "id": "a5fbebc12a5f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 28237,
+      "end": 28275,
+      "line": 389,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The Curve Editor can be toggled using ",
+      "source_text": "The Curve Editor can be toggled using "
+    },
+    {
+      "id": "49faad86b56a",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 28456,
+      "end": 28538,
+      "line": 390,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "This editor gives a visual representation of where the values are going over time.",
+      "source_text": "This editor gives a visual representation of where the values are going over time."
+    },
+    {
+      "id": "404f23696865",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 28546,
+      "end": 28658,
+      "line": 391,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "All the controls for the timeline editor apply here as well, but there are some extra things you can do and see.",
+      "source_text": "All the controls for the timeline editor apply here as well, but there are some extra things you can do and see."
+    },
+    {
+      "id": "41bd7108e251",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 28686,
+      "end": 28703,
+      "line": 393,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Viewing Keyframes",
+      "source_text": "Viewing Keyframes"
+    },
+    {
+      "id": "7b9942f16646",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 29136,
+      "end": 29210,
+      "line": 401,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "ce4519b51f99",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 29261,
+      "end": 29306,
+      "line": 406,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Zoom the timeline vertically by holding down ",
+      "source_text": "Zoom the timeline vertically by holding down "
+    },
+    {
+      "id": "334eed01b278",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 29312,
+      "end": 29324,
+      "line": 406,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + Shift",
+      "source_text": "Ctrl + Shift"
+    },
+    {
+      "id": "81a43d682758",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 29331,
+      "end": 29427,
+      "line": 406,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and scrolling. By zooming in vertically you can more clearly view smaller changes in the graph.",
+      "source_text": " and scrolling. By zooming in vertically you can more clearly view smaller changes in the graph."
+    },
+    {
+      "id": "200774a46def",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 29444,
+      "end": 29517,
+      "line": 407,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Zoom the timeline both horizontally and vertically using the scrollwheel ",
+      "source_text": "Zoom the timeline both horizontally and vertically using the scrollwheel "
+    },
+    {
+      "id": "e5ece1f85726",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 29699,
+      "end": 29742,
+      "line": 408,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Pan both horizontally and vertically using ",
+      "source_text": "Pan both horizontally and vertically using "
+    },
+    {
+      "id": "af3600bb274d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 29907,
+      "end": 29923,
+      "line": 408,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " click and drag.",
+      "source_text": " click and drag."
+    },
+    {
+      "id": "b5c71ee2ecb1",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 29940,
+      "end": 29990,
+      "line": 409,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "With multiple keyframes selected you can find the ",
+      "source_text": "With multiple keyframes selected you can find the "
+    },
+    {
+      "id": "6a1ead3cb594",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 29994,
+      "end": 30002,
+      "line": 409,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Fit View",
+      "source_text": "Fit View"
+    },
+    {
+      "id": "24b87467b631",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 30007,
+      "end": 30119,
+      "line": 409,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " options in the right-click menu to fit the selected keyframes to view either horizontally, vertically, or both.",
+      "source_text": " options in the right-click menu to fit the selected keyframes to view either horizontally, vertically, or both."
+    },
+    {
+      "id": "48b037199aee",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 30169,
+      "end": 30186,
+      "line": 413,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Editing Keyframes",
+      "source_text": "Editing Keyframes"
+    },
+    {
+      "id": "6484aa7dcb2f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 30589,
+      "end": 30663,
+      "line": 421,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "f7ba23e058aa",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 30714,
+      "end": 30789,
+      "line": 426,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Move one or more keyframes vertically (changing the keyframe values) using ",
+      "source_text": "Move one or more keyframes vertically (changing the keyframe values) using "
+    },
+    {
+      "id": "7a47c14b5420",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 30795,
+      "end": 30807,
+      "line": 426,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + Shift",
+      "source_text": "Ctrl + Shift"
+    },
+    {
+      "id": "a2781e9dd4bc",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 30976,
+      "end": 30999,
+      "line": 426,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking and dragging.",
+      "source_text": " clicking and dragging."
+    },
+    {
+      "id": "25f770ce23e3",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 31016,
+      "end": 31084,
+      "line": 427,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Freely move one or more keyframes vertically and horizontally using ",
+      "source_text": "Freely move one or more keyframes vertically and horizontally using "
+    },
+    {
+      "id": "b5ef8dc9fa2e",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 31243,
+      "end": 31266,
+      "line": 427,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking and dragging.",
+      "source_text": " clicking and dragging."
+    },
+    {
+      "id": "49da8f3c969c",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 31304,
+      "end": 31338,
+      "line": 429,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": "Two more options are added to the ",
+      "source_text": "Two more options are added to the "
+    },
+    {
+      "id": "2a2d83d224c5",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 31342,
+      "end": 31347,
+      "line": 429,
+      "parent_path": "ul/li/dl/dt/em",
+      "source_raw": "Align",
+      "source_text": "Align"
+    },
+    {
+      "id": "43533e93a716",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 31352,
+      "end": 31370,
+      "line": 429,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " right-click menu:",
+      "source_text": " right-click menu:"
+    },
+    {
+      "id": "bfe35ac37632",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 31399,
+      "end": 31402,
+      "line": 430,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Top",
+      "source_text": "Top"
+    },
+    {
+      "id": "0b7fa97e1d31",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 31411,
+      "end": 31509,
+      "line": 430,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " will move all the selected keyframes up to the same value as the keyframe with the highest value.",
+      "source_text": " will move all the selected keyframes up to the same value as the keyframe with the highest value."
+    },
+    {
+      "id": "3b656c5a6e27",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 31534,
+      "end": 31540,
+      "line": 431,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Bottom",
+      "source_text": "Bottom"
+    },
+    {
+      "id": "93652a41b727",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 31549,
+      "end": 31648,
+      "line": 431,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " will move all the selected keyframes down to the same value as the keyframe with the lowest value.",
+      "source_text": " will move all the selected keyframes down to the same value as the keyframe with the lowest value."
+    },
+    {
+      "id": "8285dfa4df2a",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 31737,
+      "end": 31755,
+      "line": 439,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Interpolation Mode",
+      "source_text": "Interpolation Mode"
+    },
+    {
+      "id": "b170b4b95dbb",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 32200,
+      "end": 32274,
+      "line": 447,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "a59edb0f47b6",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 32301,
+      "end": 32305,
+      "line": 451,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "b6361018917f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 32309,
+      "end": 32327,
+      "line": 451,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Interpolation Mode",
+      "source_text": "Interpolation Mode"
+    },
+    {
+      "id": "3b4ba4fa203c",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 32332,
+      "end": 32409,
+      "line": 451,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " defines the method of interpolating the values from one keyframe to another.",
+      "source_text": " defines the method of interpolating the values from one keyframe to another."
+    },
+    {
+      "id": "073c1aeacee4",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 32417,
+      "end": 32496,
+      "line": 452,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "You can change the Interpolation Mode of the keyframes in the right-click menu.",
+      "source_text": "You can change the Interpolation Mode of the keyframes in the right-click menu."
+    },
+    {
+      "id": "4506cc44fbe3",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 32548,
+      "end": 32623,
+      "line": 454,
+      "parent_path": "section/section/div/div/em",
+      "source_raw": "Note that you can mix different interpolation modes on different keyframes.",
+      "source_text": "Note that you can mix different interpolation modes on different keyframes."
+    },
+    {
+      "id": "69cd2196df09",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 32657,
+      "end": 32782,
+      "line": 455,
+      "parent_path": "section/section/div/div/em",
+      "source_raw": "The interpolation mode of the first (or left) keyframe will be used between two keyframes with different interpolation modes.",
+      "source_text": "The interpolation mode of the first (or left) keyframe will be used between two keyframes with different interpolation modes."
+    },
+    {
+      "id": "6eb0c3d8ca17",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 33145,
+      "end": 33219,
+      "line": 464,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "06031e9a2b1d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 33267,
+      "end": 33291,
+      "line": 469,
+      "parent_path": "section/section/section/dl/dt",
+      "source_raw": "There are a few options:",
+      "source_text": "There are a few options:"
+    },
+    {
+      "id": "7465292d6126",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 33335,
+      "end": 33343,
+      "line": 470,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Constant",
+      "source_text": "Constant"
+    },
+    {
+      "id": "7369f38477fa",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 33352,
+      "end": 33545,
+      "line": 470,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " will fully change the value when reaching a keyframe without any in-between values. This is the default for animating checkboxes and dropdown menus since they don’t have any in-between values.",
+      "source_text": " will fully change the value when reaching a keyframe without any in-between values. This is the default for animating checkboxes and dropdown menus since they don’t have any in-between values."
+    },
+    {
+      "id": "f802350ad984",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 33570,
+      "end": 33576,
+      "line": 471,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Linear",
+      "source_text": "Linear"
+    },
+    {
+      "id": "12c530abe09f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 33585,
+      "end": 33648,
+      "line": 471,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " will draw a straight line from one keyframe to another in the ",
+      "source_text": " will draw a straight line from one keyframe to another in the "
+    },
+    {
+      "id": "1d8c80bc26f8",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 33652,
+      "end": 33664,
+      "line": 471,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Curve Editor",
+      "source_text": "Curve Editor"
+    },
+    {
+      "id": "f2a8b214c301",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 33669,
+      "end": 33739,
+      "line": 471,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": ". Values will move from one keyframe to another with a constant speed.",
+      "source_text": ". Values will move from one keyframe to another with a constant speed."
+    },
+    {
+      "id": "3cfa77b9238c",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 33764,
+      "end": 33770,
+      "line": 472,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Smooth",
+      "source_text": "Smooth"
+    },
+    {
+      "id": "be40503bd3f1",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 33779,
+      "end": 33884,
+      "line": 472,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " will generate a smooth line from one keyframe to another. This avoids having hard transitions in values.",
+      "source_text": " will generate a smooth line from one keyframe to another. This avoids having hard transitions in values."
+    },
+    {
+      "id": "a2c4bd0533ae",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 33909,
+      "end": 33915,
+      "line": 473,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Bézier",
+      "source_text": "Bézier"
+    },
+    {
+      "id": "630ffab72b9d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 33924,
+      "end": 34104,
+      "line": 473,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " will interpolate the values based on the bézier handles. When using this mode you can see the bézier handles when selecting a single keyframe. You can change the interpolation by ",
+      "source_text": " will interpolate the values based on the bézier handles. When using this mode you can see the bézier handles when selecting a single keyframe. You can change the interpolation by "
+    },
+    {
+      "id": "62c4772b23d0",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 34110,
+      "end": 34113,
+      "line": 473,
+      "parent_path": "dd/ul/li/p/cite",
+      "source_raw": "LMB",
+      "source_text": "LMB"
+    },
+    {
+      "id": "a0a5d0d84b5e",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 34120,
+      "end": 34295,
+      "line": 473,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " and dragging the dots at the end of the bézier handles. A flat part of the curve means the values change slowly and a steep part of the curve means the values change quickly.",
+      "source_text": " and dragging the dots at the end of the bézier handles. A flat part of the curve means the values change slowly and a steep part of the curve means the values change quickly."
+    },
+    {
+      "id": "93c0368a2a39",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 34729,
+      "end": 34803,
+      "line": 487,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "86b3099c51ae",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 34836,
+      "end": 34851,
+      "line": 492,
+      "parent_path": "section/section/section/dl/dt",
+      "source_raw": "When using the ",
+      "source_text": "When using the "
+    },
+    {
+      "id": "03d0e14a9e7e",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 34855,
+      "end": 34861,
+      "line": 492,
+      "parent_path": "section/section/dl/dt/em",
+      "source_raw": "Bézier",
+      "source_text": "Bézier"
+    },
+    {
+      "id": "506b7a96bd5c",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 34866,
+      "end": 34949,
+      "line": 492,
+      "parent_path": "section/section/section/dl/dt",
+      "source_raw": " mode, there are a few handle types you can use also found in the right-click menu.",
+      "source_text": " mode, there are a few handle types you can use also found in the right-click menu."
+    },
+    {
+      "id": "1363729cb851",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 34978,
+      "end": 34985,
+      "line": 493,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Aligned",
+      "source_text": "Aligned"
+    },
+    {
+      "id": "a0703f885663",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 34994,
+      "end": 35169,
+      "line": 493,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " The handles can be moved freely and can have any direction and length. For this type, one handle is always in the inverted direction and has the same length as the other one.",
+      "source_text": " The handles can be moved freely and can have any direction and length. For this type, one handle is always in the inverted direction and has the same length as the other one."
+    },
+    {
+      "id": "90fbdc9d4a3f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 35194,
+      "end": 35198,
+      "line": 494,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Free",
+      "source_text": "Free"
+    },
+    {
+      "id": "41affb410e5c",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 35207,
+      "end": 35269,
+      "line": 494,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " The handles can be moved in any way separate from each other.",
+      "source_text": " The handles can be moved in any way separate from each other."
+    },
+    {
+      "id": "4d914c53c2dd",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 35294,
+      "end": 35306,
+      "line": 495,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Auto Clamped",
+      "source_text": "Auto Clamped"
+    },
+    {
+      "id": "67333c7a2adc",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 35315,
+      "end": 35492,
+      "line": 495,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " This is the default behavior. For this type, the handles can never go beyond the previous or next keyframe. Note that when changing the handles the type will be set to Aligned.",
+      "source_text": " This is the default behavior. For this type, the handles can never go beyond the previous or next keyframe. Note that when changing the handles the type will be set to Aligned."
+    },
+    {
+      "id": "0b7ce4545112",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 35517,
+      "end": 35530,
+      "line": 496,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Auto Vectored",
+      "source_text": "Auto Vectored"
+    },
+    {
+      "id": "583c48595908",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 35539,
+      "end": 35715,
+      "line": 496,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " This will point the left handle towards the previous keyframe and the right handle towards the next keyframe. Note that when changing the handles the type will be set to Free.",
+      "source_text": " This will point the left handle towards the previous keyframe and the right handle towards the next keyframe. Note that when changing the handles the type will be set to Free."
+    },
+    {
+      "id": "be7aad3089bb",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 35741,
+      "end": 35834,
+      "line": 498,
+      "parent_path": "ul/li/blockquote/div/p",
+      "source_raw": "You can always reset the bezier handles to default for the selected keyframes by clicking on ",
+      "source_text": "You can always reset the bezier handles to default for the selected keyframes by clicking on "
+    },
+    {
+      "id": "2272817fa2cd",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 35838,
+      "end": 35850,
+      "line": 498,
+      "parent_path": "li/blockquote/div/p/em",
+      "source_raw": "Reset Handle",
+      "source_text": "Reset Handle"
+    },
+    {
+      "id": "954e53e3e5a2",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 35855,
+      "end": 35880,
+      "line": 498,
+      "parent_path": "ul/li/blockquote/div/p",
+      "source_raw": " in the right-click menu.",
+      "source_text": " in the right-click menu."
+    },
+    {
+      "id": "35c7be77e3fa",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 35936,
+      "end": 36096,
+      "line": 504,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Note that you can also change all these settings in the Timeline Editor, but you won’t be able to see the effect it has on the curve or change the Bézier curve.",
+      "source_text": "Note that you can also change all these settings in the Timeline Editor, but you won’t be able to see the effect it has on the curve or change the Bézier curve."
+    },
+    {
+      "id": "bff3cbaee0c6",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 36166,
+      "end": 36184,
+      "line": 508,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Timeline Recording",
+      "source_text": "Timeline Recording"
+    },
+    {
+      "id": "c305862eb26f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 36522,
+      "end": 36701,
+      "line": 510,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Timeline recording allows you to turn your manual changes to a parameter into keyframes in real time.\nThis can be useful to animate things quickly or to just add that human touch!",
+      "source_text": "Timeline recording allows you to turn your manual changes to a parameter into keyframes in real time.\nThis can be useful to animate things quickly or to just add that human touch!"
+    },
+    {
+      "id": "b1c41e08028f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 36709,
+      "end": 36763,
+      "line": 512,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Making a timeline recording takes the following steps:",
+      "source_text": "Making a timeline recording takes the following steps:"
+    },
+    {
+      "id": "767210783da9",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 36795,
+      "end": 36824,
+      "line": 514,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Set the desired parameter to ",
+      "source_text": "Set the desired parameter to "
+    },
+    {
+      "id": "9ba3bf534247",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 36828,
+      "end": 36845,
+      "line": 514,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Timeline Override",
+      "source_text": "Timeline Override"
+    },
+    {
+      "id": "e3c4adfa28fd",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 36850,
+      "end": 36863,
+      "line": 514,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ". This means ",
+      "source_text": ". This means "
+    },
+    {
+      "id": "2f563b84ac87",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 37022,
+      "end": 37039,
+      "line": 514,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking on the ",
+      "source_text": " clicking on the "
+    },
+    {
+      "id": "8dff45b2714f",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 37200,
+      "end": 37235,
+      "line": 514,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " circle next to the parameter. The ",
+      "source_text": " circle next to the parameter. The "
+    },
+    {
+      "id": "29cbd3d1210c",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 37401,
+      "end": 37430,
+      "line": 514,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon will appear next to it.",
+      "source_text": " icon will appear next to it."
+    },
+    {
+      "id": "774837d64cbb",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 37673,
+      "end": 37683,
+      "line": 518,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Click the ",
+      "source_text": "Click the "
+    },
+    {
+      "id": "84aa0a31db13",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 37844,
+      "end": 37859,
+      "line": 518,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon or press ",
+      "source_text": " icon or press "
+    },
+    {
+      "id": "71243ddfc67d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 37865,
+      "end": 37874,
+      "line": 518,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Shift + R",
+      "source_text": "Shift + R"
+    },
+    {
+      "id": "f8eef69556bf",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 37881,
+      "end": 37905,
+      "line": 518,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to start the recording.",
+      "source_text": " to start the recording."
+    },
+    {
+      "id": "f5053bbb3925",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 37922,
+      "end": 37973,
+      "line": 519,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Make the parameter changes you want to be recorded.",
+      "source_text": "Make the parameter changes you want to be recorded."
+    },
+    {
+      "id": "a079ea49dae1",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 37990,
+      "end": 38016,
+      "line": 520,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "To stop recording, toggle ",
+      "source_text": "To stop recording, toggle "
+    },
+    {
+      "id": "2d599abd99cb",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 38177,
+      "end": 38204,
+      "line": 520,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " timeline recording again, ",
+      "source_text": " timeline recording again, "
+    },
+    {
+      "id": "ac6643ef526d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 38376,
+      "end": 38402,
+      "line": 520,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " reset the simulation, or ",
+      "source_text": " reset the simulation, or "
+    },
+    {
+      "id": "5eb0e87c09ea",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 38574,
+      "end": 38596,
+      "line": 520,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " pause the simulation.",
+      "source_text": " pause the simulation."
+    },
+    {
+      "id": "af15d8aa74f2",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 38936,
+      "end": 39010,
+      "line": 529,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "a2e9bf7b813c",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 39295,
+      "end": 39355,
+      "line": 546,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "b59e89cb91e0",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 39361,
+      "end": 39384,
+      "line": 548,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "6b5119bd0909",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 39422,
+      "end": 39428,
+      "line": 549,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "05f42bb217c9",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 39432,
+      "end": 39437,
+      "line": 549,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "65c1092663d9",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 39487,
+      "end": 39497,
+      "line": 549,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "4c4813521815",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 39501,
+      "end": 39529,
+      "line": 549,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "54187d5e6933",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 39573,
+      "end": 39577,
+      "line": 551,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "d20b9ab8fcbf",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 39894,
+      "end": 39930,
+      "line": 566,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "eeb0846d8d30",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 40087,
+      "end": 40105,
+      "line": 573,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "a0611161373d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 40174,
+      "end": 40191,
+      "line": 574,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Setting Keyframes",
+      "source_text": "Setting Keyframes"
+    },
+    {
+      "id": "606fe255f4c4",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 40259,
+      "end": 40274,
+      "line": 575,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Timeline Editor",
+      "source_text": "Timeline Editor"
+    },
+    {
+      "id": "45d8dd65d3f0",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 40343,
+      "end": 40360,
+      "line": 576,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Viewing Keyframes",
+      "source_text": "Viewing Keyframes"
+    },
+    {
+      "id": "ab2e4937929d",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 40430,
+      "end": 40447,
+      "line": 577,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Editing Keyframes",
+      "source_text": "Editing Keyframes"
+    },
+    {
+      "id": "cdaeb5b3c518",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 40524,
+      "end": 40536,
+      "line": 580,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Curve Editor",
+      "source_text": "Curve Editor"
+    },
+    {
+      "id": "f4ede328e410",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 40591,
+      "end": 40608,
+      "line": 581,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Viewing Keyframes",
+      "source_text": "Viewing Keyframes"
+    },
+    {
+      "id": "87ea0e382068",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 40664,
+      "end": 40681,
+      "line": 582,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Editing Keyframes",
+      "source_text": "Editing Keyframes"
+    },
+    {
+      "id": "1cee85083674",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 40752,
+      "end": 40770,
+      "line": 583,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Interpolation Mode",
+      "source_text": "Interpolation Mode"
+    },
+    {
+      "id": "7df21228553e",
+      "path": "liquigen/pages/references/specific/animation.html",
+      "start": 40853,
+      "end": 40871,
+      "line": 586,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Timeline Recording",
+      "source_text": "Timeline Recording"
+    }
+  ]
+}

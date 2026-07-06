@@ -1,0 +1,1966 @@
+{
+  "path": "embergen/pages/references/How-To Guides/color.html",
+  "segment_count": 196,
+  "segments": [
+    {
+      "id": "1140694a8c6d",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 701,
+      "end": 730,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Color - JangaFX Documentation",
+      "source_text": "Color - JangaFX Documentation"
+    },
+    {
+      "id": "58a62352cf65",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 5320,
+      "end": 5343,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "aed1eec5c90e",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 5438,
+      "end": 5468,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "d6eb34bb79a4",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 5664,
+      "end": 5694,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "ae1d8368fa8e",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 5885,
+      "end": 5906,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "2fb389e9bb17",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 6099,
+      "end": 6137,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "4f6109815d24",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 6520,
+      "end": 6552,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "30184e32e780",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 7596,
+      "end": 7618,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "3e694cf24184",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 7807,
+      "end": 7839,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "cb0349ccbd56",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 8027,
+      "end": 8042,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "2566b019e562",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 8147,
+      "end": 8157,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "46078dffbedc",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 8346,
+      "end": 8378,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "bb393fbe6471",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 8560,
+      "end": 8574,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "c1f755696756",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 8661,
+      "end": 8669,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "90ea81856151",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 8757,
+      "end": 8766,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "a961f7f2a1f2",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 8868,
+      "end": 8881,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "78dd14785b0e",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 9070,
+      "end": 9102,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "e6d1aeceb2f0",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 9282,
+      "end": 9295,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "c49ed9858e77",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 9392,
+      "end": 9411,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "b40b1b5df8f8",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 9512,
+      "end": 9517,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "d7961cd9a89b",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 9600,
+      "end": 9607,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "7f91da826de2",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 9687,
+      "end": 9691,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "24f2d557a938",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 9783,
+      "end": 9803,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "7dfe9a5a2554",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 9888,
+      "end": 9897,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "f580e3d447ae",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 9984,
+      "end": 9996,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "1638b87c57c6",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 10081,
+      "end": 10099,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "1cba74ea0896",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 10191,
+      "end": 10207,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "2aa0acffdc45",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 10304,
+      "end": 10325,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "3e07f1a6f7ef",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 10409,
+      "end": 10417,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "c25511b3f476",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 10502,
+      "end": 10512,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "7037c6674ebc",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 10601,
+      "end": 10614,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "79b70640312b",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 10723,
+      "end": 10726,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "cd443889d1c9",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 10853,
+      "end": 10875,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "fecb9ad35165",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 11053,
+      "end": 11085,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "c2779ca6cacd",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 11278,
+      "end": 11293,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "44643f4a2df5",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 11425,
+      "end": 11435,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "65aac4559477",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 11613,
+      "end": 11645,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "d9a440f6a03e",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 11846,
+      "end": 11860,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "300053f29f53",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 11982,
+      "end": 11990,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "0625bc829b4f",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 12113,
+      "end": 12122,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "9a514f654db9",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 12270,
+      "end": 12283,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "03f7188ef235",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 12461,
+      "end": 12493,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "15b4c0fd8547",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 12709,
+      "end": 12720,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "d0dea6bafb8b",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 12871,
+      "end": 12890,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "520cba15296c",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 13025,
+      "end": 13030,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "0fb2433e0c01",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 13167,
+      "end": 13174,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "5afc743ce9da",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 13308,
+      "end": 13312,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "93f83962f536",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 13458,
+      "end": 13478,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "9277e7c5e168",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 13621,
+      "end": 13634,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "d4fdad889901",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 13775,
+      "end": 13787,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "3a111030e05a",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 13926,
+      "end": 13944,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "1899b9ce1202",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 14090,
+      "end": 14106,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "3b8e3059c5bf",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 14257,
+      "end": 14278,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "f28d900149b9",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 14416,
+      "end": 14424,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "8628a5a13456",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 14567,
+      "end": 14580,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "4ff15b1032e3",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 14721,
+      "end": 14732,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "c4b9e71ec26b",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 14862,
+      "end": 14865,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "299a87ac5103",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 14978,
+      "end": 14999,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "17a2270798fe",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 15099,
+      "end": 15119,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "2fee10909ad2",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 15222,
+      "end": 15244,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "daa162c96658",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 15657,
+      "end": 15668,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "76e6e315e5c1",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 15888,
+      "end": 15926,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "1c7a937238b8",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 16338,
+      "end": 16370,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "b9e4853f12bb",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 16569,
+      "end": 16574,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "551dac0f62fc",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 16658,
+      "end": 16711,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Color is a category of nodes outputting color values.",
+      "source_text": "Color is a category of nodes outputting color values."
+    },
+    {
+      "id": "a2313ca6ec1f",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 16928,
+      "end": 16940,
+      "line": 259,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": " Color Nodes",
+      "source_text": " Color Nodes"
+    },
+    {
+      "id": "7d12d32d5da5",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 17247,
+      "end": 17263,
+      "line": 261,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Color: Constant",
+      "source_text": " Color: Constant"
+    },
+    {
+      "id": "655694d47423",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 17366,
+      "end": 17395,
+      "line": 262,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Outputs a single color value.",
+      "source_text": "Outputs a single color value."
+    },
+    {
+      "id": "3f0d4465e01c",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 17403,
+      "end": 17411,
+      "line": 263,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "You can ",
+      "source_text": "You can "
+    },
+    {
+      "id": "79475bcf74eb",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 17570,
+      "end": 17624,
+      "line": 263,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " click on the colored square to open the Color Picker.",
+      "source_text": " click on the colored square to open the Color Picker."
+    },
+    {
+      "id": "9d210f43bd1d",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 17661,
+      "end": 17673,
+      "line": 265,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": "Color Picker",
+      "source_text": "Color Picker"
+    },
+    {
+      "id": "f78e76c44b6a",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 18049,
+      "end": 18069,
+      "line": 268,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Color picker. Hold ",
+      "source_text": " Color picker. Hold "
+    },
+    {
+      "id": "60f41139bef3",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 18228,
+      "end": 18338,
+      "line": 268,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " and drag to select a color anywhere on the screen. This will select colors even from outside the application!",
+      "source_text": " and drag to select a color anywhere on the screen. This will select colors even from outside the application!"
+    },
+    {
+      "id": "1e8393e3a2b4",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 18509,
+      "end": 18561,
+      "line": 269,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Resets the color to the default for that parameter.",
+      "source_text": " Resets the color to the default for that parameter."
+    },
+    {
+      "id": "64e6b81e4f9b",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 18742,
+      "end": 18894,
+      "line": 270,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Closes the color picker. The color will remain at whatever is selected in the color picker. You can also click outside of the color picker to close it.",
+      "source_text": " Closes the color picker. The color will remain at whatever is selected in the color picker. You can also click outside of the color picker to close it."
+    },
+    {
+      "id": "d5c47f29b59f",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 18911,
+      "end": 18990,
+      "line": 271,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Hue ring. Visualizes all the hues. The selected hue is indicated with a circle ",
+      "source_text": "Hue ring. Visualizes all the hues. The selected hue is indicated with a circle "
+    },
+    {
+      "id": "ea60204ebdd6",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 19008,
+      "end": 19017,
+      "line": 271,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " You can ",
+      "source_text": " You can "
+    },
+    {
+      "id": "dda03d4b4969",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 19176,
+      "end": 19240,
+      "line": 271,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " click or click and drag anywhere on the circle to select a hue.",
+      "source_text": " click or click and drag anywhere on the circle to select a hue."
+    },
+    {
+      "id": "332a9bac3a4e",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 19257,
+      "end": 19410,
+      "line": 272,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Brightness and saturation triangle. The three corners represent white, black, and a fully saturated color. The selected value is indicated with a circle ",
+      "source_text": "Brightness and saturation triangle. The three corners represent white, black, and a fully saturated color. The selected value is indicated with a circle "
+    },
+    {
+      "id": "ba9202ab1bd6",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 19428,
+      "end": 19437,
+      "line": 272,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " You can ",
+      "source_text": " You can "
+    },
+    {
+      "id": "4cc792626b2d",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 19596,
+      "end": 19664,
+      "line": 272,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " click or click and drag anywhere on the triangle to select a color.",
+      "source_text": " click or click and drag anywhere on the triangle to select a color."
+    },
+    {
+      "id": "50d28f974f14",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 19724,
+      "end": 19737,
+      "line": 275,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Current Color",
+      "source_text": "Current Color"
+    },
+    {
+      "id": "8a72be6f0a21",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 19754,
+      "end": 19832,
+      "line": 276,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "HEX code. Here, you can type in a hexadecimal code to get a specific color by ",
+      "source_text": "HEX code. Here, you can type in a hexadecimal code to get a specific color by "
+    },
+    {
+      "id": "803e36e5b0a5",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 19991,
+      "end": 20019,
+      "line": 276,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " clicking in the text field.",
+      "source_text": " clicking in the text field."
+    },
+    {
+      "id": "e46e06873747",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 20036,
+      "end": 20152,
+      "line": 277,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "RGB Mode. This will set the sliders to represent the color in Red, Green, and Blue values. All mapped from 0 to 255.",
+      "source_text": "RGB Mode. This will set the sliders to represent the color in Red, Green, and Blue values. All mapped from 0 to 255."
+    },
+    {
+      "id": "fa289d6cd5f2",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 20169,
+      "end": 20259,
+      "line": 278,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "HSV Mode. This will set the sliders to represent the color in Hue, Saturation, and Value. ",
+      "source_text": "HSV Mode. This will set the sliders to represent the color in Hue, Saturation, and Value. "
+    },
+    {
+      "id": "444e8d3623a9",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 20263,
+      "end": 20266,
+      "line": 278,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Hue",
+      "source_text": "Hue"
+    },
+    {
+      "id": "6543832d349d",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 20271,
+      "end": 20591,
+      "line": 278,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " is mapped circular from 0 to 360 degrees starting and ending with red, using this slider you can see the circle in the Hue ring turning. Saturation and Value are mapped from 0% to 100% ,saturation from grayscale to fully saturated and value from black to whatever is the brightest color based on the hue and saturation.",
+      "source_text": " is mapped circular from 0 to 360 degrees starting and ending with red, using this slider you can see the circle in the Hue ring turning. Saturation and Value are mapped from 0% to 100% ,saturation from grayscale to fully saturated and value from black to whatever is the brightest color based on the hue and saturation."
+    },
+    {
+      "id": "506e07281b23",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 20608,
+      "end": 20686,
+      "line": 279,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Channel Values. These represent the numerical value of the slider next to it. ",
+      "source_text": "Channel Values. These represent the numerical value of the slider next to it. "
+    },
+    {
+      "id": "afb572a15898",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 20845,
+      "end": 20900,
+      "line": 279,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " click within the text box to type in a value manually.",
+      "source_text": " click within the text box to type in a value manually."
+    },
+    {
+      "id": "359eb04bb555",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 20917,
+      "end": 21070,
+      "line": 280,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Channel Sliders. These sliders can be used to change the color. The gradients on the sliders represent what the selected color would be if the indicator ",
+      "source_text": "Channel Sliders. These sliders can be used to change the color. The gradients on the sliders represent what the selected color would be if the indicator "
+    },
+    {
+      "id": "84c0c936c158",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 21089,
+      "end": 21127,
+      "line": 280,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " was placed on that position. You can ",
+      "source_text": " was placed on that position. You can "
+    },
+    {
+      "id": "61fcabd215a8",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 21286,
+      "end": 21352,
+      "line": 280,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " click or click and drag anywhere on the slider to select a color.",
+      "source_text": " click or click and drag anywhere on the slider to select a color."
+    },
+    {
+      "id": "1ba50bd7159d",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 21413,
+      "end": 21429,
+      "line": 283,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Swatch Dropdown.",
+      "source_text": "Swatch Dropdown."
+    },
+    {
+      "id": "3508773fc250",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 21498,
+      "end": 21510,
+      "line": 287,
+      "parent_path": "div/ul/li/p/strong",
+      "source_raw": "Saved Colors",
+      "source_text": "Saved Colors"
+    },
+    {
+      "id": "2747916c9c7e",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 21519,
+      "end": 21552,
+      "line": 287,
+      "parent_path": "blockquote/div/ul/li/p",
+      "source_raw": " Holds a palette of saved colors ",
+      "source_text": " Holds a palette of saved colors "
+    },
+    {
+      "id": "06b84e871e6c",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 21571,
+      "end": 21614,
+      "line": 287,
+      "parent_path": "blockquote/div/ul/li/p",
+      "source_raw": " You can save the selected color using the ",
+      "source_text": " You can save the selected color using the "
+    },
+    {
+      "id": "ad35813a4fdc",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 21775,
+      "end": 21781,
+      "line": 287,
+      "parent_path": "blockquote/div/ul/li/p",
+      "source_raw": " icon ",
+      "source_text": " icon "
+    },
+    {
+      "id": "8e7fe8fb4546",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 21800,
+      "end": 21834,
+      "line": 287,
+      "parent_path": "blockquote/div/ul/li/p",
+      "source_raw": ". You can remove a saved color by ",
+      "source_text": ". You can remove a saved color by "
+    },
+    {
+      "id": "2dec0c2d20d4",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 21996,
+      "end": 22027,
+      "line": 287,
+      "parent_path": "blockquote/div/ul/li/p",
+      "source_raw": " clicking on one and selecting ",
+      "source_text": " clicking on one and selecting "
+    },
+    {
+      "id": "b9b78f75bcf7",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 22031,
+      "end": 22037,
+      "line": 287,
+      "parent_path": "div/ul/li/p/em",
+      "source_raw": "Remove",
+      "source_text": "Remove"
+    },
+    {
+      "id": "1f28267335a2",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 22088,
+      "end": 22101,
+      "line": 288,
+      "parent_path": "div/ul/li/p/strong",
+      "source_raw": "Recent Colors",
+      "source_text": "Recent Colors"
+    },
+    {
+      "id": "2959889630f5",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 22110,
+      "end": 22390,
+      "line": 288,
+      "parent_path": "blockquote/div/ul/li/p",
+      "source_raw": " Holds a palette of the last 9 colors used. When the color picker is closed, the selected color will be stored as the most recent color all the way to the right in the Recent Colors palette moving all the other colors one spot to the left and discarting the first one on the left.",
+      "source_text": " Holds a palette of the last 9 colors used. When the color picker is closed, the selected color will be stored as the most recent color all the way to the right in the Recent Colors palette moving all the other colors one spot to the left and discarting the first one on the left."
+    },
+    {
+      "id": "5c0a8fdf0344",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 22669,
+      "end": 22685,
+      "line": 294,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Color: Gradient",
+      "source_text": " Color: Gradient"
+    },
+    {
+      "id": "1a18548a7fc2",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 22823,
+      "end": 22849,
+      "line": 296,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Interpolation Color Space:",
+      "source_text": "Interpolation Color Space:"
+    },
+    {
+      "id": "487f802b65e7",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 22858,
+      "end": 22969,
+      "line": 296,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " A dropdown menu with different methods of interpolating color from one point in the color gradient to another.",
+      "source_text": " A dropdown menu with different methods of interpolating color from one point in the color gradient to another."
+    },
+    {
+      "id": "f33f3c763d61",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 23300,
+      "end": 23374,
+      "line": 305,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "d023b60f8f5f",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 23454,
+      "end": 23469,
+      "line": 311,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Color Gradient:",
+      "source_text": "Color Gradient:"
+    },
+    {
+      "id": "a86da4899049",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 23478,
+      "end": 23505,
+      "line": 311,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " Creates a range of colors.",
+      "source_text": " Creates a range of colors."
+    },
+    {
+      "id": "02cc45e52fed",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 23526,
+      "end": 23541,
+      "line": 312,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Add a point by ",
+      "source_text": "Add a point by "
+    },
+    {
+      "id": "d7506fa974a8",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 23700,
+      "end": 23726,
+      "line": 312,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " clicking on the gradient.",
+      "source_text": " clicking on the gradient."
+    },
+    {
+      "id": "7f956154544b",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 23743,
+      "end": 23764,
+      "line": 313,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Move a point holding ",
+      "source_text": "Move a point holding "
+    },
+    {
+      "id": "6bedf7874e8b",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 23923,
+      "end": 23937,
+      "line": 313,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " and dragging.",
+      "source_text": " and dragging."
+    },
+    {
+      "id": "07d6554d4e59",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 23954,
+      "end": 23990,
+      "line": 314,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Remove a point by selecting it with ",
+      "source_text": "Remove a point by selecting it with "
+    },
+    {
+      "id": "73d939b8db50",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 24149,
+      "end": 24163,
+      "line": 314,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " and pressing ",
+      "source_text": " and pressing "
+    },
+    {
+      "id": "d67913920b79",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 24169,
+      "end": 24175,
+      "line": 314,
+      "parent_path": "dd/ul/li/p/cite",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "22ab4e6e9666",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 24199,
+      "end": 24244,
+      "line": 315,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Edit the color of a point by double-clicking ",
+      "source_text": "Edit the color of a point by double-clicking "
+    },
+    {
+      "id": "14ff51c7ec09",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 24403,
+      "end": 24410,
+      "line": 315,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " on it.",
+      "source_text": " on it."
+    },
+    {
+      "id": "0fb698211cf7",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 24427,
+      "end": 24435,
+      "line": 316,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Use the ",
+      "source_text": "Use the "
+    },
+    {
+      "id": "7406cfe4dbe4",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 24620,
+      "end": 24637,
+      "line": 316,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " color picker to ",
+      "source_text": " color picker to "
+    },
+    {
+      "id": "d82bdfedfb40",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 24796,
+      "end": 24878,
+      "line": 316,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " click and drag over any application to source its colors for creating a gradient.",
+      "source_text": " click and drag over any application to source its colors for creating a gradient."
+    },
+    {
+      "id": "b0a5bd7b0c41",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 25236,
+      "end": 25310,
+      "line": 329,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "5aad84f29d6b",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 25390,
+      "end": 25412,
+      "line": 335,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Color Gradient Presets",
+      "source_text": "Color Gradient Presets"
+    },
+    {
+      "id": "08c02f8c6c1d",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 25603,
+      "end": 25693,
+      "line": 336,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Save the current gradient as a preset which will appear as a selectable icon to the left.",
+      "source_text": " Save the current gradient as a preset which will appear as a selectable icon to the left."
+    },
+    {
+      "id": "955bb201358a",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 25710,
+      "end": 25751,
+      "line": 337,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "To remove a preset from the list you can ",
+      "source_text": "To remove a preset from the list you can "
+    },
+    {
+      "id": "a9d5fc5f32c8",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 25913,
+      "end": 25938,
+      "line": 337,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " click on one and select ",
+      "source_text": " click on one and select "
+    },
+    {
+      "id": "d31c5f1178c0",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 25942,
+      "end": 25948,
+      "line": 337,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "248576f878b2",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 25953,
+      "end": 25976,
+      "line": 337,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " from the context menu.",
+      "source_text": " from the context menu."
+    },
+    {
+      "id": "9b4b2842cd64",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26001,
+      "end": 26005,
+      "line": 338,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Load",
+      "source_text": "Load"
+    },
+    {
+      "id": "0b8e91a9848b",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26014,
+      "end": 26070,
+      "line": 338,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " This will open a file browser where you can look for a ",
+      "source_text": " This will open a file browser where you can look for a "
+    },
+    {
+      "id": "daf524eca094",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26074,
+      "end": 26082,
+      "line": 338,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": ".embercg",
+      "source_text": ".embercg"
+    },
+    {
+      "id": "40e62a6acfc1",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26087,
+      "end": 26121,
+      "line": 338,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " file to load in as your gradient.",
+      "source_text": " file to load in as your gradient."
+    },
+    {
+      "id": "0568eae692b0",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26146,
+      "end": 26152,
+      "line": 339,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Export",
+      "source_text": "Export"
+    },
+    {
+      "id": "75e2bb99a23f",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26168,
+      "end": 26176,
+      "line": 340,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "embercg:",
+      "source_text": "embercg:"
+    },
+    {
+      "id": "8162c90a80e2",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26181,
+      "end": 26238,
+      "line": 340,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Opens a file browser to store the current gradient as a ",
+      "source_text": " Opens a file browser to store the current gradient as a "
+    },
+    {
+      "id": "28f73aaf15ad",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26242,
+      "end": 26250,
+      "line": 340,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": ".embercg",
+      "source_text": ".embercg"
+    },
+    {
+      "id": "d50db6eb0df0",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26255,
+      "end": 26284,
+      "line": 340,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " file in a desired location. ",
+      "source_text": " file in a desired location. "
+    },
+    {
+      "id": "dd3dafca087b",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26288,
+      "end": 26355,
+      "line": 340,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Note that the Interpolation Color Space is also saved in the preset",
+      "source_text": "Note that the Interpolation Color Space is also saved in the preset"
+    },
+    {
+      "id": "181d0b66798c",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26367,
+      "end": 26371,
+      "line": 341,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "PNG:",
+      "source_text": "PNG:"
+    },
+    {
+      "id": "540d3a6d066d",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26376,
+      "end": 26433,
+      "line": 341,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Opens a file browser to store the current gradient as a ",
+      "source_text": " Opens a file browser to store the current gradient as a "
+    },
+    {
+      "id": "da9e439ba3c3",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26437,
+      "end": 26441,
+      "line": 341,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": ".png",
+      "source_text": ".png"
+    },
+    {
+      "id": "6c6c6bd24296",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 26446,
+      "end": 26678,
+      "line": 341,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " file in a desired location. This file format can be loaded into most software and used as, for example, a color input for another volume shader. The image resolution is 512 by 12 pixels meaning 512 different colors could be stored.",
+      "source_text": " file in a desired location. This file format can be loaded into most software and used as, for example, a color input for another volume shader. The image resolution is 512 by 12 pixels meaning 512 different colors could be stored."
+    },
+    {
+      "id": "30242395c0bf",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 27035,
+      "end": 27109,
+      "line": 354,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "636d3613e626",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 27382,
+      "end": 27397,
+      "line": 360,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Color Selector",
+      "source_text": " Color Selector"
+    },
+    {
+      "id": "ff5d28927fda",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 27508,
+      "end": 27538,
+      "line": 361,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Outputs a single color from a ",
+      "source_text": "Outputs a single color from a "
+    },
+    {
+      "id": "fc34ff1ec5c7",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 27542,
+      "end": 27556,
+      "line": 361,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Color Gradient",
+      "source_text": "Color Gradient"
+    },
+    {
+      "id": "57526aef80f8",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 27561,
+      "end": 27613,
+      "line": 361,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " node based on a specified position on the gradient.",
+      "source_text": " node based on a specified position on the gradient."
+    },
+    {
+      "id": "ba01fb4d3bc4",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 27682,
+      "end": 27704,
+      "line": 365,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Connecting Color Nodes",
+      "source_text": "Connecting Color Nodes"
+    },
+    {
+      "id": "baf0a3304033",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 27805,
+      "end": 27854,
+      "line": 366,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Color nodes can be connected to color parameters.",
+      "source_text": "Color nodes can be connected to color parameters."
+    },
+    {
+      "id": "c23eeb8587ac",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 27862,
+      "end": 27932,
+      "line": 367,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The color of this parameter will then be controlled in the color node.",
+      "source_text": "The color of this parameter will then be controlled in the color node."
+    },
+    {
+      "id": "9b1c7739fa1d",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 27940,
+      "end": 28005,
+      "line": 368,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "A color parameter is recognized by the colored square next to it.",
+      "source_text": "A color parameter is recognized by the colored square next to it."
+    },
+    {
+      "id": "1b19a461c624",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 28076,
+      "end": 28160,
+      "line": 372,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The following are some examples of parameters that can be controlled by color nodes:",
+      "source_text": "The following are some examples of parameters that can be controlled by color nodes:"
+    },
+    {
+      "id": "cfa67e656033",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 28383,
+      "end": 28442,
+      "line": 374,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "To expose a color parameter pin for connecting a color node",
+      "source_text": "To expose a color parameter pin for connecting a color node"
+    },
+    {
+      "id": "5f7f25e550ff",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 28561,
+      "end": 28599,
+      "line": 376,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "you have to set the override state to ",
+      "source_text": "you have to set the override state to "
+    },
+    {
+      "id": "af0fb6f43da3",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 28603,
+      "end": 28615,
+      "line": 376,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Pin Override",
+      "source_text": "Pin Override"
+    },
+    {
+      "id": "b9c396a91d1b",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 28620,
+      "end": 28624,
+      "line": 376,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " by ",
+      "source_text": " by "
+    },
+    {
+      "id": "67764968a174",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 28783,
+      "end": 28824,
+      "line": 376,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " clicking the icon next to the parameter.",
+      "source_text": " clicking the icon next to the parameter."
+    },
+    {
+      "id": "01db212138c8",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 28832,
+      "end": 28836,
+      "line": 377,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "dbad045622e3",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 28840,
+      "end": 28851,
+      "line": 377,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Smoke color",
+      "source_text": "Smoke color"
+    },
+    {
+      "id": "3a0665579f55",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 28856,
+      "end": 28865,
+      "line": 377,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " and the ",
+      "source_text": " and the "
+    },
+    {
+      "id": "351057cd9e16",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 28869,
+      "end": 28879,
+      "line": 377,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Fire color",
+      "source_text": "Fire color"
+    },
+    {
+      "id": "185dcd4d3b97",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 28884,
+      "end": 28899,
+      "line": 377,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " are different.",
+      "source_text": " are different."
+    },
+    {
+      "id": "32c4dc1c41cd",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 28907,
+      "end": 29033,
+      "line": 378,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Exposing the color parameter pin for these parameters works differently since it’s done by setting the dropdown menu above to ",
+      "source_text": "Exposing the color parameter pin for these parameters works differently since it’s done by setting the dropdown menu above to "
+    },
+    {
+      "id": "1698d0fc9115",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 29037,
+      "end": 29059,
+      "line": 378,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Exposed Color Gradient",
+      "source_text": "Exposed Color Gradient"
+    },
+    {
+      "id": "e5bfe4f63ddf",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 29073,
+      "end": 29115,
+      "line": 379,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "These parameters should be connected to a ",
+      "source_text": "These parameters should be connected to a "
+    },
+    {
+      "id": "556ac2478e1c",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 29119,
+      "end": 29133,
+      "line": 379,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Color Gradient",
+      "source_text": "Color Gradient"
+    },
+    {
+      "id": "9e6a193f48fa",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 29138,
+      "end": 29144,
+      "line": 379,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "f0fe7a6c1739",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 29152,
+      "end": 29271,
+      "line": 380,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The right side of the gradient represents the highest values for the smoke or fire and the left side the lowest values.",
+      "source_text": "The right side of the gradient represents the highest values for the smoke or fire and the left side the lowest values."
+    },
+    {
+      "id": "f46e948375a5",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 29279,
+      "end": 29361,
+      "line": 381,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "You can adjust the range in which the values are mapped to the gradient using the ",
+      "source_text": "You can adjust the range in which the values are mapped to the gradient using the "
+    },
+    {
+      "id": "6682ef6f344f",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 29365,
+      "end": 29385,
+      "line": 381,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Coloring remap range",
+      "source_text": "Coloring remap range"
+    },
+    {
+      "id": "f34e28a3101c",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 29390,
+      "end": 29614,
+      "line": 381,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " parameter in the shading node.\nThe histogram above it shows in what range the voxel densities live. To get a good mapping you usually start by fitting the range (black area) around the white bars by adjusting the max value.",
+      "source_text": " parameter in the shading node.\nThe histogram above it shows in what range the voxel densities live. To get a good mapping you usually start by fitting the range (black area) around the white bars by adjusting the max value."
+    },
+    {
+      "id": "730ad4594e1e",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 29686,
+      "end": 29765,
+      "line": 384,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "You can change the interpolation of the range with a gamma operation using the ",
+      "source_text": "You can change the interpolation of the range with a gamma operation using the "
+    },
+    {
+      "id": "81972b561f6e",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 29769,
+      "end": 29788,
+      "line": 384,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Coloring remap ramp",
+      "source_text": "Coloring remap ramp"
+    },
+    {
+      "id": "c443dee68644",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 29793,
+      "end": 29985,
+      "line": 384,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " parameter. Lower values will push the color more towards the right side of the inputted color gradient, and higher values will push the color more towards the left side of the color gradient.",
+      "source_text": " parameter. Lower values will push the color more towards the right side of the inputted color gradient, and higher values will push the color more towards the left side of the color gradient."
+    },
+    {
+      "id": "496e3344d327",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 29993,
+      "end": 30060,
+      "line": 385,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "A color parameter can also have two squares next to it as with the ",
+      "source_text": "A color parameter can also have two squares next to it as with the "
+    },
+    {
+      "id": "1bfdbd61ff4f",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 30226,
+      "end": 30241,
+      "line": 385,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Color: Constant",
+      "source_text": "Color: Constant"
+    },
+    {
+      "id": "4470a5ad84af",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 30246,
+      "end": 30314,
+      "line": 385,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " node. This means that the parameter also supports an alpha channel.",
+      "source_text": " node. This means that the parameter also supports an alpha channel."
+    },
+    {
+      "id": "272c2ae5bfc9",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 30586,
+      "end": 30590,
+      "line": 397,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "4439586cb6c9",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 30656,
+      "end": 30663,
+      "line": 399,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "5d514bdf3a44",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 31048,
+      "end": 31056,
+      "line": 407,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "3c58dc9c6941",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 31139,
+      "end": 31158,
+      "line": 410,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "ed70b0676790",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 31344,
+      "end": 31404,
+      "line": 417,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "4451df9c95fe",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 31410,
+      "end": 31433,
+      "line": 419,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "af07f2c61724",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 31471,
+      "end": 31477,
+      "line": 420,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "0d08b716c247",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 31481,
+      "end": 31486,
+      "line": 420,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "13e9807c036e",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 31536,
+      "end": 31546,
+      "line": 420,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "204ea12a10a2",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 31550,
+      "end": 31578,
+      "line": 420,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "d8e380416e01",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 31622,
+      "end": 31626,
+      "line": 422,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "682d768bc340",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 31943,
+      "end": 31979,
+      "line": 437,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "cf17449f6232",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 32136,
+      "end": 32141,
+      "line": 444,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "cd40fba861ba",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 32219,
+      "end": 32231,
+      "line": 445,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Color Nodes",
+      "source_text": " Color Nodes"
+    },
+    {
+      "id": "fc84ed30c226",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 32307,
+      "end": 32323,
+      "line": 446,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Color: Constant",
+      "source_text": " Color: Constant"
+    },
+    {
+      "id": "95715ff80f00",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 32387,
+      "end": 32399,
+      "line": 447,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color Picker",
+      "source_text": "Color Picker"
+    },
+    {
+      "id": "3edba362448e",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 32491,
+      "end": 32507,
+      "line": 450,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Color: Gradient",
+      "source_text": " Color: Gradient"
+    },
+    {
+      "id": "010f29f58733",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 32592,
+      "end": 32607,
+      "line": 451,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Color Selector",
+      "source_text": " Color Selector"
+    },
+    {
+      "id": "3e4ca94a5fe7",
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "start": 32694,
+      "end": 32716,
+      "line": 454,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Connecting Color Nodes",
+      "source_text": "Connecting Color Nodes"
+    }
+  ]
+}

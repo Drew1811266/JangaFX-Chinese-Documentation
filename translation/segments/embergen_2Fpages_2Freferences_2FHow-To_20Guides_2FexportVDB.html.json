@@ -1,0 +1,1446 @@
+{
+  "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+  "segment_count": 144,
+  "segments": [
+    {
+      "id": "017eda5a6a7e",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 689,
+      "end": 723,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "VDB Export - JangaFX Documentation",
+      "source_text": "VDB Export - JangaFX Documentation"
+    },
+    {
+      "id": "ad0930ea2130",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 5313,
+      "end": 5336,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "273d1c3f77aa",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 5431,
+      "end": 5461,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "b91e8243c71f",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 5657,
+      "end": 5687,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "3938ef5dda39",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 5878,
+      "end": 5899,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "ba248abd4f12",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 6092,
+      "end": 6130,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "14db0306f989",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 6513,
+      "end": 6545,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "421a7db66990",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 7589,
+      "end": 7611,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "0dde3968c42c",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 7800,
+      "end": 7832,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "401431bc4451",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 8020,
+      "end": 8035,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "bfa4b75ec58d",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 8140,
+      "end": 8150,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "35e7fc8d31e0",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 8339,
+      "end": 8371,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "92e87eadb409",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 8553,
+      "end": 8567,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "0a729f184ed1",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 8654,
+      "end": 8662,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "7a3e65ad2f14",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 8750,
+      "end": 8759,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "930ef37ddf7b",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 8861,
+      "end": 8874,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "7857d7bfb9f4",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 9063,
+      "end": 9095,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "0ba36bf7e878",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 9275,
+      "end": 9288,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "9b171b608b80",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 9385,
+      "end": 9404,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "5393390fea9a",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 9485,
+      "end": 9490,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "31b1125b181c",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 9573,
+      "end": 9580,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "82c0dd8aeba7",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 9660,
+      "end": 9664,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "8289fe4105a9",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 9756,
+      "end": 9776,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "f5efbf22b16c",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 9861,
+      "end": 9870,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "b82e2e95cf91",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 9957,
+      "end": 9969,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "2c9fd39196a2",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 10054,
+      "end": 10072,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "872c6fe780af",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 10164,
+      "end": 10180,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "64edc3aecc80",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 10277,
+      "end": 10298,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "b07a62cf9208",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 10382,
+      "end": 10390,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "2b707644e9c2",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 10491,
+      "end": 10501,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "5c02ee256fce",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 10590,
+      "end": 10603,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "845165856802",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 10712,
+      "end": 10715,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "5da4df0f1237",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 10842,
+      "end": 10864,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "d5bcaff5bdf2",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 11042,
+      "end": 11074,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "4c60a2a7f775",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 11267,
+      "end": 11282,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "a318bc7ed253",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 11414,
+      "end": 11424,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "d1e19c6b1f47",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 11602,
+      "end": 11634,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "9bad64187e8e",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 11835,
+      "end": 11849,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "5c4f5884b2e0",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 11971,
+      "end": 11979,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "752c7cdc02d8",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 12102,
+      "end": 12111,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "cc5bcd9e011f",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 12259,
+      "end": 12272,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "17fe21342c99",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 12450,
+      "end": 12482,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "672f516341b2",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 12698,
+      "end": 12709,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "ae22ff143d36",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 12860,
+      "end": 12879,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "e77f7d413eac",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 13014,
+      "end": 13019,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "d56f366ea587",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 13156,
+      "end": 13163,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "0e90fb43fd13",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 13297,
+      "end": 13301,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "9ddf34db954e",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 13447,
+      "end": 13467,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "f590f5e8888d",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 13610,
+      "end": 13623,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "6fdf7c563530",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 13764,
+      "end": 13776,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "e837681abb77",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 13915,
+      "end": 13933,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "18aa0c50b1e8",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 14079,
+      "end": 14095,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "804b93731f68",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 14246,
+      "end": 14267,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "5d7ad8c67e91",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 14405,
+      "end": 14413,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "f3cea45d86e6",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 14556,
+      "end": 14569,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "cfe78ac9cc3b",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 14710,
+      "end": 14721,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "0f6c1db080b0",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 14851,
+      "end": 14854,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "a3fbae16c9fa",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 14967,
+      "end": 14988,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "9e6978926ed8",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 15088,
+      "end": 15108,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "52e01b45d7de",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 15211,
+      "end": 15233,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "e83e5fab5e6b",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 15646,
+      "end": 15657,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "a467af77f894",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 15877,
+      "end": 15915,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "af24dd9e3d44",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 16327,
+      "end": 16359,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "583fa317721f",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 16572,
+      "end": 16582,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "5148c047cb56",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 16671,
+      "end": 16758,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "If you want to render your simulation in a different software you can export it to VDB.",
+      "source_text": "If you want to render your simulation in a different software you can export it to VDB."
+    },
+    {
+      "id": "9320eea08450",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 16766,
+      "end": 16829,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "This format can be read by other software like Maya or Blender.",
+      "source_text": "This format can be read by other software like Maya or Blender."
+    },
+    {
+      "id": "570d75beec2d",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 16837,
+      "end": 16877,
+      "line": 259,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "In Embergen VDBs are exported using the ",
+      "source_text": "In Embergen VDBs are exported using the "
+    },
+    {
+      "id": "182e85bb90a1",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17037,
+      "end": 17048,
+      "line": 259,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Export: VDB",
+      "source_text": "Export: VDB"
+    },
+    {
+      "id": "dd0977db1a23",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17053,
+      "end": 17059,
+      "line": 259,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "68758a6e75cf",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17067,
+      "end": 17101,
+      "line": 260,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "This Node can be connected to the ",
+      "source_text": "This Node can be connected to the "
+    },
+    {
+      "id": "9f5537e07302",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17105,
+      "end": 17108,
+      "line": 260,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "VDB",
+      "source_text": "VDB"
+    },
+    {
+      "id": "849b8bbe84db",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17113,
+      "end": 17153,
+      "line": 260,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " output pin of the Volume node.\n.. _vdb:",
+      "source_text": " output pin of the Volume node.\n.. _vdb:"
+    },
+    {
+      "id": "74e181d1edef",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17161,
+      "end": 17219,
+      "line": 262,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "This means that all the changes to the volume made in the ",
+      "source_text": "This means that all the changes to the volume made in the "
+    },
+    {
+      "id": "2cf4b51652a4",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17223,
+      "end": 17240,
+      "line": 262,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Volume Processing",
+      "source_text": "Volume Processing"
+    },
+    {
+      "id": "dd22697e36a6",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17245,
+      "end": 17417,
+      "line": 262,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node, like sharpening or Post Modulation will be in the VDB file. Other things that are computed in a later stage like shading and lighting are not stored in the VDB file.",
+      "source_text": " node, like sharpening or Post Modulation will be in the VDB file. Other things that are computed in a later stage like shading and lighting are not stored in the VDB file."
+    },
+    {
+      "id": "750832e7c548",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17425,
+      "end": 17429,
+      "line": 263,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "9e423f584af9",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17433,
+      "end": 17442,
+      "line": 263,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Transform",
+      "source_text": "Transform"
+    },
+    {
+      "id": "9d738aa9475b",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17447,
+      "end": 17482,
+      "line": 263,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " input pin can be connected to the ",
+      "source_text": " input pin can be connected to the "
+    },
+    {
+      "id": "af95a7e1e70c",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17486,
+      "end": 17495,
+      "line": 263,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Transform",
+      "source_text": "Transform"
+    },
+    {
+      "id": "e56cfdb07537",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17500,
+      "end": 17518,
+      "line": 263,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " output pin of an ",
+      "source_text": " output pin of an "
+    },
+    {
+      "id": "f449bc95f2b8",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17685,
+      "end": 17691,
+      "line": 263,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "acc36066d6cc",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17696,
+      "end": 17757,
+      "line": 263,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node. This will apply the inverted transform applied on the ",
+      "source_text": " node. This will apply the inverted transform applied on the "
+    },
+    {
+      "id": "e819ee6c842d",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17761,
+      "end": 17767,
+      "line": 263,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "fed47b4d5f3d",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 17772,
+      "end": 17906,
+      "line": 263,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node to the VDB grids. This is useful when you want to align your VDB in the application where you exported the imported meshes from.",
+      "source_text": " node to the VDB grids. This is useful when you want to align your VDB in the application where you exported the imported meshes from."
+    },
+    {
+      "id": "4b7d7ec58924",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18115,
+      "end": 18133,
+      "line": 265,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": " Export: VDB node:",
+      "source_text": " Export: VDB node:"
+    },
+    {
+      "id": "a064d271a49c",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18265,
+      "end": 18272,
+      "line": 267,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "In the ",
+      "source_text": "In the "
+    },
+    {
+      "id": "5982ff276df2",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18276,
+      "end": 18282,
+      "line": 267,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Export",
+      "source_text": "Export"
+    },
+    {
+      "id": "1a65c9179d03",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18287,
+      "end": 18320,
+      "line": 267,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " tab, you can set your file name ",
+      "source_text": " tab, you can set your file name "
+    },
+    {
+      "id": "42a939bbac18",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18328,
+      "end": 18331,
+      "line": 267,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "and",
+      "source_text": "and"
+    },
+    {
+      "id": "7167cf8077c3",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18340,
+      "end": 18359,
+      "line": 267,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " location with the ",
+      "source_text": " location with the "
+    },
+    {
+      "id": "a8f560cb1f4c",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18363,
+      "end": 18372,
+      "line": 267,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Directory",
+      "source_text": "Directory"
+    },
+    {
+      "id": "0381d2b59173",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18377,
+      "end": 18388,
+      "line": 267,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter.",
+      "source_text": " parameter."
+    },
+    {
+      "id": "cc1b53980725",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18405,
+      "end": 18461,
+      "line": 268,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "To specify the range you want to export you can use the ",
+      "source_text": "To specify the range you want to export you can use the "
+    },
+    {
+      "id": "af42c640a8d8",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18465,
+      "end": 18476,
+      "line": 268,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "First Frame",
+      "source_text": "First Frame"
+    },
+    {
+      "id": "1cfc501c2bd7",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18481,
+      "end": 18486,
+      "line": 268,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "27576de61660",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18490,
+      "end": 18500,
+      "line": 268,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Num Frames",
+      "source_text": "Num Frames"
+    },
+    {
+      "id": "a2a5cc17e732",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18505,
+      "end": 18579,
+      "line": 268,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameters. For example, if you want to export frames 230 to 450 you set ",
+      "source_text": " parameters. For example, if you want to export frames 230 to 450 you set "
+    },
+    {
+      "id": "fe745adb7ebb",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18583,
+      "end": 18594,
+      "line": 268,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "First Frame",
+      "source_text": "First Frame"
+    },
+    {
+      "id": "14c91357ff3b",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18599,
+      "end": 18611,
+      "line": 268,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to 230 and ",
+      "source_text": " to 230 and "
+    },
+    {
+      "id": "7ad2cefae5a6",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18615,
+      "end": 18625,
+      "line": 268,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Num Frames",
+      "source_text": "Num Frames"
+    },
+    {
+      "id": "703aad8e0e07",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18630,
+      "end": 18648,
+      "line": 268,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to 220 (450-230).",
+      "source_text": " to 220 (450-230)."
+    },
+    {
+      "id": "a84b9d770046",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18665,
+      "end": 18669,
+      "line": 269,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "7f6c8d027d3c",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18673,
+      "end": 18684,
+      "line": 269,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Export: VDB",
+      "source_text": "Export: VDB"
+    },
+    {
+      "id": "3e6dddefa0b0",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18689,
+      "end": 18724,
+      "line": 269,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " nodes are also represented in the ",
+      "source_text": " nodes are also represented in the "
+    },
+    {
+      "id": "9d619a5102a5",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18728,
+      "end": 18743,
+      "line": 269,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Timeline Editor",
+      "source_text": "Timeline Editor"
+    },
+    {
+      "id": "986607a72f2f",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18748,
+      "end": 18847,
+      "line": 269,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ", here you can visually see what part of your timeline will be exported by looking at the blue bar.",
+      "source_text": ", here you can visually see what part of your timeline will be exported by looking at the blue bar."
+    },
+    {
+      "id": "3beba7600991",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 18864,
+      "end": 19060,
+      "line": 270,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "In the Controls tab, you can specify the channels you want to be exported. By default, only Density and Flames are checked since these two channels are usually sufficient for rendering the effect.",
+      "source_text": "In the Controls tab, you can specify the channels you want to be exported. By default, only Density and Flames are checked since these two channels are usually sufficient for rendering the effect."
+    },
+    {
+      "id": "522dcc60d3a7",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19081,
+      "end": 19098,
+      "line": 271,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Coordinate System",
+      "source_text": "Coordinate System"
+    },
+    {
+      "id": "0b9ce142abb7",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19103,
+      "end": 19244,
+      "line": 271,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is where you specify the coordinate system of the 3d package you are exporting to. For example, when using Blender you should leave this at ",
+      "source_text": " is where you specify the coordinate system of the 3d package you are exporting to. For example, when using Blender you should leave this at "
+    },
+    {
+      "id": "7f5fa1e49367",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19248,
+      "end": 19265,
+      "line": 271,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Z Up Right Handed",
+      "source_text": "Z Up Right Handed"
+    },
+    {
+      "id": "e66f94ced5fb",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19270,
+      "end": 19314,
+      "line": 271,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and when using Maya you should set this to ",
+      "source_text": " and when using Maya you should set this to "
+    },
+    {
+      "id": "1946f314c603",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19318,
+      "end": 19335,
+      "line": 271,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Y Up Right Handed",
+      "source_text": "Y Up Right Handed"
+    },
+    {
+      "id": "0512274fa961",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19362,
+      "end": 19373,
+      "line": 272,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Length Unit",
+      "source_text": "Length Unit"
+    },
+    {
+      "id": "06a9fe704041",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19378,
+      "end": 19461,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is where you specify the length unit the 3d package you are exporting to is using.",
+      "source_text": " is where you specify the length unit the 3d package you are exporting to is using."
+    },
+    {
+      "id": "e2412cec3f71",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19478,
+      "end": 19486,
+      "line": 273,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Use the ",
+      "source_text": "Use the "
+    },
+    {
+      "id": "0243c6c0ef3e",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19490,
+      "end": 19500,
+      "line": 273,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Export Now",
+      "source_text": "Export Now"
+    },
+    {
+      "id": "acf52e6829d7",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19505,
+      "end": 19546,
+      "line": 273,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button to export your simulation to VDB!",
+      "source_text": " button to export your simulation to VDB!"
+    },
+    {
+      "id": "6c21e5f19caa",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19563,
+      "end": 19658,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "You can Export from multiple Export VDB nodes at once by selecting all of them and clicking on ",
+      "source_text": "You can Export from multiple Export VDB nodes at once by selecting all of them and clicking on "
+    },
+    {
+      "id": "8b03fa1bc04f",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19662,
+      "end": 19672,
+      "line": 274,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Export All",
+      "source_text": "Export All"
+    },
+    {
+      "id": "df9ec7b07760",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19677,
+      "end": 19704,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " from the right-click menu.",
+      "source_text": " from the right-click menu."
+    },
+    {
+      "id": "63393ed09634",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19763,
+      "end": 19775,
+      "line": 278,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Shader Setup",
+      "source_text": "Shader Setup"
+    },
+    {
+      "id": "677560d9a129",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19866,
+      "end": 19965,
+      "line": 279,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "When using the aiStandardVolume in Maya or the Principled Volume in Blender you have to change the ",
+      "source_text": "When using the aiStandardVolume in Maya or the Principled Volume in Blender you have to change the "
+    },
+    {
+      "id": "6c9e52e1ab0b",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19969,
+      "end": 19990,
+      "line": 279,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Temperature Attribute",
+      "source_text": "Temperature Attribute"
+    },
+    {
+      "id": "124972e81b5a",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 19995,
+      "end": 19999,
+      "line": 279,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " to ",
+      "source_text": " to "
+    },
+    {
+      "id": "92c2d8800937",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 20225,
+      "end": 20238,
+      "line": 283,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Colored Smoke",
+      "source_text": "Colored Smoke"
+    },
+    {
+      "id": "132bf796e128",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 20330,
+      "end": 20345,
+      "line": 284,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "When using the ",
+      "source_text": "When using the "
+    },
+    {
+      "id": "b04406b91038",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 20349,
+      "end": 20362,
+      "line": 284,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Colored Smoke",
+      "source_text": "Colored Smoke"
+    },
+    {
+      "id": "293074f216e9",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 20367,
+      "end": 20476,
+      "line": 284,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " simulation mode. The Temperature, Fuel, and Flames channels will store the Red, Green, and Blue information!",
+      "source_text": " simulation mode. The Temperature, Fuel, and Flames channels will store the Red, Green, and Blue information!"
+    },
+    {
+      "id": "cab7d0b9ceff",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 20997,
+      "end": 21001,
+      "line": 297,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "94458f04f99b",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 21067,
+      "end": 21080,
+      "line": 299,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "ba7a81239012",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 21452,
+      "end": 21460,
+      "line": 307,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "06fcde1b6f37",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 21543,
+      "end": 21551,
+      "line": 310,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "27c2d2368ffd",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 21737,
+      "end": 21797,
+      "line": 317,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "db2009103939",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 21803,
+      "end": 21826,
+      "line": 319,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "213dfbfd2b28",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 21864,
+      "end": 21870,
+      "line": 320,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "c98e8cf3ec03",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 21874,
+      "end": 21879,
+      "line": 320,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "a85c55f601f6",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 21929,
+      "end": 21939,
+      "line": 320,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "a8f4bec4f00e",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 21943,
+      "end": 21971,
+      "line": 320,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "3ee06667b153",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 22015,
+      "end": 22019,
+      "line": 322,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "a6a27c4e2eb5",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 22336,
+      "end": 22372,
+      "line": 337,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "a057d226810d",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 22529,
+      "end": 22539,
+      "line": 344,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "3e3472d33fba",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 22620,
+      "end": 22638,
+      "line": 345,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Export: VDB node:",
+      "source_text": " Export: VDB node:"
+    },
+    {
+      "id": "a76d9c6a5a50",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 22703,
+      "end": 22715,
+      "line": 346,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Shader Setup",
+      "source_text": "Shader Setup"
+    },
+    {
+      "id": "233459cb809a",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "start": 22781,
+      "end": 22794,
+      "line": 347,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Colored Smoke",
+      "source_text": "Colored Smoke"
+    }
+  ]
+}

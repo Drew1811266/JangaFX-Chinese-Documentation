@@ -1,0 +1,3466 @@
+{
+  "path": "liquigen/pages/references/settings.html",
+  "segment_count": 346,
+  "segments": [
+    {
+      "id": "fa5b60992cbb",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 682,
+      "end": 714,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Settings - JangaFX Documentation",
+      "source_text": "Settings - JangaFX Documentation"
+    },
+    {
+      "id": "907cb5a9f9bf",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 5292,
+      "end": 5315,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "e40bf90b34c3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 5410,
+      "end": 5440,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "10090349be10",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 5636,
+      "end": 5666,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "dd26d7226ded",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 5854,
+      "end": 5875,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "d22468e9863b",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 6068,
+      "end": 6106,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "3f06cf263867",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 6489,
+      "end": 6521,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "454576447c0b",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 7554,
+      "end": 7576,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "a1911932d228",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 7754,
+      "end": 7786,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "68a1a2f86879",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 7976,
+      "end": 7991,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "0a286b6329f6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 8120,
+      "end": 8130,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "44cfa8e8feec",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 8308,
+      "end": 8340,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "acb4cd97677c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 8538,
+      "end": 8552,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "3e99585bcb2c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 8671,
+      "end": 8679,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "ce98e06f3879",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 8799,
+      "end": 8808,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "372c48d59e33",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 8953,
+      "end": 8966,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "03bd2b1221ba",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 9144,
+      "end": 9176,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "df5dea44ade7",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 9391,
+      "end": 9404,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "ec89d0f2548e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 9552,
+      "end": 9571,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "b41f9fb0d192",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 9703,
+      "end": 9708,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "1c077c56ece9",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 9842,
+      "end": 9849,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "cdde6563e2d0",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 9980,
+      "end": 9984,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "0d861a680336",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 10127,
+      "end": 10147,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "75cdb607faf3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 10283,
+      "end": 10292,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "50ed09d93f20",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 10430,
+      "end": 10442,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "219f6ff9914e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 10578,
+      "end": 10596,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "162ecc103c06",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 10739,
+      "end": 10755,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "965a2e0fa203",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 10903,
+      "end": 10924,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "b84f8f76c2c8",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 11059,
+      "end": 11067,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "743b34239320",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 11203,
+      "end": 11213,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "30a71a8f81f2",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 11353,
+      "end": 11366,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "27500769d968",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 11493,
+      "end": 11496,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "0752338b6a56",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 11616,
+      "end": 11638,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "4de972d82940",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 11827,
+      "end": 11859,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "b7d6222ec6ae",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 12044,
+      "end": 12059,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "260fc3cbb8e3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 12161,
+      "end": 12171,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "a8daa8e45fc0",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 12360,
+      "end": 12392,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "ec54139a7500",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 12571,
+      "end": 12585,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "7be9a2df7c2a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 12686,
+      "end": 12694,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "52f4c86bb7dd",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 12779,
+      "end": 12788,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "e9aecc36e334",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 12898,
+      "end": 12911,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "b1684a6df96e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 13089,
+      "end": 13121,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "1f2b5c4e19d8",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 13299,
+      "end": 13310,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "a05ceda4629c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 13423,
+      "end": 13442,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "4fc334770c55",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 13539,
+      "end": 13544,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "04c2231e2526",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 13643,
+      "end": 13650,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "0162bbc96158",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 13746,
+      "end": 13750,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "d376065e8cfc",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 13858,
+      "end": 13878,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "62bad5ed248d",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 13983,
+      "end": 13996,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "62483f3d86e8",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 14099,
+      "end": 14111,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "8a1c9eb016a1",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 14212,
+      "end": 14230,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "1b6029f852e4",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 14338,
+      "end": 14354,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "a87a06e2d4ff",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 14467,
+      "end": 14488,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "d54dfd356d49",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 14588,
+      "end": 14596,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "994579fd3e6c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 14701,
+      "end": 14714,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "95283d0bcb36",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 14817,
+      "end": 14828,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "ca8352f3b917",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 14934,
+      "end": 14937,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "06f90c31e20c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 15047,
+      "end": 15068,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "c11a20a16461",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 15165,
+      "end": 15185,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "cff507f6d744",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 15285,
+      "end": 15307,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "3f444bb91be6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 15720,
+      "end": 15731,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "695cdc7ee934",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 15951,
+      "end": 15989,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "84aa743d7cff",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 16401,
+      "end": 16433,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "0282b7fc2a6d",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 16643,
+      "end": 16651,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "4fa51ce54d67",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 16808,
+      "end": 16824,
+      "line": 258,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Project Settings",
+      "source_text": "Project Settings"
+    },
+    {
+      "id": "1dd138bdd582",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 17119,
+      "end": 17127,
+      "line": 260,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " General",
+      "source_text": " General"
+    },
+    {
+      "id": "5d66b86e376a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 17336,
+      "end": 17340,
+      "line": 263,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Tags",
+      "source_text": "Tags"
+    },
+    {
+      "id": "3619d15bc0bb",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 17349,
+      "end": 17401,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " These tags can be used for browsing presets in the ",
+      "source_text": " These tags can be used for browsing presets in the "
+    },
+    {
+      "id": "b346bbd22018",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 17405,
+      "end": 17412,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "presets",
+      "source_text": "presets"
+    },
+    {
+      "id": "7a4595edd06e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 17417,
+      "end": 17433,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " section of the ",
+      "source_text": " section of the "
+    },
+    {
+      "id": "ddaedd5b6c77",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 17588,
+      "end": 17619,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " project manager. (presets are ",
+      "source_text": " project manager. (presets are "
+    },
+    {
+      "id": "d9d9934091a2",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 17623,
+      "end": 17629,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".ember",
+      "source_text": ".ember"
+    },
+    {
+      "id": "ed9f39ce2108",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 17634,
+      "end": 17655,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " files stored in the ",
+      "source_text": " files stored in the "
+    },
+    {
+      "id": "8872df088359",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 17659,
+      "end": 17666,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "presets",
+      "source_text": "presets"
+    },
+    {
+      "id": "baf17e7e0984",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 17671,
+      "end": 17738,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " folder in your install directory) You can use the following tags: ",
+      "source_text": " folder in your install directory) You can use the following tags: "
+    },
+    {
+      "id": "bc6574010ac2",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 17974,
+      "end": 17999,
+      "line": 264,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Shape default size scale:",
+      "source_text": "Shape default size scale:"
+    },
+    {
+      "id": "3fb2de9baf27",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 18008,
+      "end": 18251,
+      "line": 264,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Scaling applied to a new shape’s default size when a new shape node is created. This setting is useful for ensuring newly created shapes are a more appropriate size, for instance, if they consistently appear too large or too small by default.",
+      "source_text": " Scaling applied to a new shape’s default size when a new shape node is created. This setting is useful for ensuring newly created shapes are a more appropriate size, for instance, if they consistently appear too large or too small by default."
+    },
+    {
+      "id": "ea144aec718f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 18276,
+      "end": 18286,
+      "line": 265,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Read-Only:",
+      "source_text": "Read-Only:"
+    },
+    {
+      "id": "8e6b87e0eedf",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 18295,
+      "end": 18300,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The ",
+      "source_text": " The "
+    },
+    {
+      "id": "97a279caeb45",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 18304,
+      "end": 18323,
+      "line": 265,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Save Read-Only Copy",
+      "source_text": "Save Read-Only Copy"
+    },
+    {
+      "id": "0fb3089cae10",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 18328,
+      "end": 18453,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button will open a file browser to specify the name and location of where you want to save your project as a read-only copy.",
+      "source_text": " button will open a file browser to specify the name and location of where you want to save your project as a read-only copy."
+    },
+    {
+      "id": "eb4cf9d3929e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 18461,
+      "end": 18582,
+      "line": 266,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "This project file will function as a normal project file but when trying to save it you’ll be prompted with this message.",
+      "source_text": "This project file will function as a normal project file but when trying to save it you’ll be prompted with this message."
+    },
+    {
+      "id": "ff4c8f2c61e9",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 18873,
+      "end": 18906,
+      "line": 271,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Auto-Favorite Changed Parameters:",
+      "source_text": "Auto-Favorite Changed Parameters:"
+    },
+    {
+      "id": "3bc0a2b482d9",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 18915,
+      "end": 19100,
+      "line": 271,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This will favorite all parameters that are changed compared to either the last time you saved your file, the default preset, or another project file which you can browse for using the ",
+      "source_text": " This will favorite all parameters that are changed compared to either the last time you saved your file, the default preset, or another project file which you can browse for using the "
+    },
+    {
+      "id": "ef597341e65d",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19104,
+      "end": 19108,
+      "line": 271,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Load",
+      "source_text": "Load"
+    },
+    {
+      "id": "662cec509ff2",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19113,
+      "end": 19121,
+      "line": 271,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button.",
+      "source_text": " button."
+    },
+    {
+      "id": "c569e79cad4e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19140,
+      "end": 19236,
+      "line": 273,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This can be helpful for quickly getting a list of the most important parameters of your project!",
+      "source_text": "This can be helpful for quickly getting a list of the most important parameters of your project!"
+    },
+    {
+      "id": "43a456983005",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19276,
+      "end": 19295,
+      "line": 275,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Randomize All Seeds",
+      "source_text": "Randomize All Seeds"
+    },
+    {
+      "id": "c45f75358600",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19304,
+      "end": 19309,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The ",
+      "source_text": " The "
+    },
+    {
+      "id": "acf2f24fde22",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19313,
+      "end": 19322,
+      "line": 275,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Randomize",
+      "source_text": "Randomize"
+    },
+    {
+      "id": "365546fde632",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19327,
+      "end": 19370,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button will randomize all parameters with ",
+      "source_text": " button will randomize all parameters with "
+    },
+    {
+      "id": "b85fee791df6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19529,
+      "end": 19547,
+      "line": 275,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Randomize Override",
+      "source_text": "Randomize Override"
+    },
+    {
+      "id": "91ec9a199d54",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19552,
+      "end": 19577,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " enabled (by default all ",
+      "source_text": " enabled (by default all "
+    },
+    {
+      "id": "35632386c553",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19581,
+      "end": 19585,
+      "line": 275,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Seed",
+      "source_text": "Seed"
+    },
+    {
+      "id": "126b7b622b4b",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19590,
+      "end": 19709,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameters). This will give a different variation of your project. For more information about randomization check our ",
+      "source_text": " parameters). This will give a different variation of your project. For more information about randomization check our "
+    },
+    {
+      "id": "2b5ddaf6b15c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19856,
+      "end": 19869,
+      "line": 275,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "5cf21fb9e7d9",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 19880,
+      "end": 19889,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " section!",
+      "source_text": " section!"
+    },
+    {
+      "id": "73aa6b626b29",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 20124,
+      "end": 20133,
+      "line": 279,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Renderer",
+      "source_text": " Renderer"
+    },
+    {
+      "id": "fb6ea58839e8",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 20327,
+      "end": 20461,
+      "line": 281,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Enable or disable the visibility of certain elements of your project in the viewport. Most of these mirror the display options in the ",
+      "source_text": "Enable or disable the visibility of certain elements of your project in the viewport. Most of these mirror the display options in the "
+    },
+    {
+      "id": "591667e4c6c3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 20629,
+      "end": 20633,
+      "line": 281,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "View",
+      "source_text": "View"
+    },
+    {
+      "id": "b362a82d108c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 20638,
+      "end": 20669,
+      "line": 281,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " dropdown menu in the viewport.",
+      "source_text": " dropdown menu in the viewport."
+    },
+    {
+      "id": "15367e1fe96a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 20834,
+      "end": 20852,
+      "line": 282,
+      "parent_path": "section/section/section/p/strong",
+      "source_raw": "Reset To Defaults:",
+      "source_text": "Reset To Defaults:"
+    },
+    {
+      "id": "ca1097d80933",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 20861,
+      "end": 20932,
+      "line": 282,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " Prompts a window to ask you if you want to reset the project settings.",
+      "source_text": " Prompts a window to ask you if you want to reset the project settings."
+    },
+    {
+      "id": "507c79d0ead9",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 20962,
+      "end": 20969,
+      "line": 284,
+      "parent_path": "section/blockquote/div/p/em",
+      "source_raw": "Confirm",
+      "source_text": "Confirm"
+    },
+    {
+      "id": "746ddc9c146a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 20974,
+      "end": 20986,
+      "line": 284,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " will reset ",
+      "source_text": " will reset "
+    },
+    {
+      "id": "7e821fb6e009",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 20994,
+      "end": 20997,
+      "line": 284,
+      "parent_path": "section/blockquote/div/p/strong",
+      "source_raw": "all",
+      "source_text": "all"
+    },
+    {
+      "id": "c2743db9aa51",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 21006,
+      "end": 21039,
+      "line": 284,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " the project settings to default.",
+      "source_text": " the project settings to default."
+    },
+    {
+      "id": "042f7f064db6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 21268,
+      "end": 21274,
+      "line": 288,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Notes",
+      "source_text": " Notes"
+    },
+    {
+      "id": "4781e1e63f3b",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 21611,
+      "end": 21642,
+      "line": 291,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Textfield for typing your note.",
+      "source_text": "Textfield for typing your note."
+    },
+    {
+      "id": "8082200f01ca",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 21659,
+      "end": 21691,
+      "line": 292,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "This will open the note window (",
+      "source_text": "This will open the note window ("
+    },
+    {
+      "id": "79c34028a4b3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 21727,
+      "end": 21825,
+      "line": 293,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "With this checked, the note window will show when opening the project file you’ve set the note in.",
+      "source_text": "With this checked, the note window will show when opening the project file you’ve set the note in."
+    },
+    {
+      "id": "1fab099953af",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 21846,
+      "end": 21859,
+      "line": 294,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Project Notes",
+      "source_text": "Project Notes"
+    },
+    {
+      "id": "5e58e3b4be94",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 21864,
+      "end": 21871,
+      "line": 294,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " window",
+      "source_text": " window"
+    },
+    {
+      "id": "73ec7e9ba1c7",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 21888,
+      "end": 21898,
+      "line": 295,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Note text.",
+      "source_text": "Note text."
+    },
+    {
+      "id": "f105fd839844",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 22127,
+      "end": 22137,
+      "line": 299,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Thumbnail",
+      "source_text": " Thumbnail"
+    },
+    {
+      "id": "6e8f4e88f7bb",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 22239,
+      "end": 22303,
+      "line": 300,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "A thumbnail is an image or video to show with the preset in the ",
+      "source_text": "A thumbnail is an image or video to show with the preset in the "
+    },
+    {
+      "id": "d39f0bd93d56",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 22458,
+      "end": 22471,
+      "line": 300,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " Home Screen.",
+      "source_text": " Home Screen."
+    },
+    {
+      "id": "67307060abd8",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 22709,
+      "end": 22731,
+      "line": 302,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The videos have to be ",
+      "source_text": "The videos have to be "
+    },
+    {
+      "id": "7e2dc82dfd5d",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 22739,
+      "end": 22752,
+      "line": 302,
+      "parent_path": "section/section/section/p/strong",
+      "source_raw": "PNG flipbooks",
+      "source_text": "PNG flipbooks"
+    },
+    {
+      "id": "f610f387da4e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 22761,
+      "end": 22816,
+      "line": 302,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " with a maximum size of 4009 pixels in both dimentions.",
+      "source_text": " with a maximum size of 4009 pixels in both dimentions."
+    },
+    {
+      "id": "2e31756cc31a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 22824,
+      "end": 22883,
+      "line": 303,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "for more information about flipbooks, please check out our ",
+      "source_text": "for more information about flipbooks, please check out our "
+    },
+    {
+      "id": "d8f8a194476f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 23006,
+      "end": 23012,
+      "line": 303,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "Export",
+      "source_text": "Export"
+    },
+    {
+      "id": "32e3316060a4",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 23023,
+      "end": 23032,
+      "line": 303,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " section.",
+      "source_text": " section."
+    },
+    {
+      "id": "06c99b536d68",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 23040,
+      "end": 23199,
+      "line": 304,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "When displayed on the Home Screen, a crossfade will be automatically added to the looping point of the thumbnail unless the flipbook is shorter than 41 frames.",
+      "source_text": "When displayed on the Home Screen, a crossfade will be automatically added to the looping point of the thumbnail unless the flipbook is shorter than 41 frames."
+    },
+    {
+      "id": "f2f5e4ea6edd",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 23533,
+      "end": 23607,
+      "line": 312,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "eb83e7778584",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 23666,
+      "end": 23673,
+      "line": 317,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Preview",
+      "source_text": "Preview"
+    },
+    {
+      "id": "4f296fdf85f3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 23682,
+      "end": 23733,
+      "line": 317,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Preview of the thumbnail if you have one. You can ",
+      "source_text": " Preview of the thumbnail if you have one. You can "
+    },
+    {
+      "id": "129bbf619b54",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 23886,
+      "end": 23900,
+      "line": 317,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " click on the ",
+      "source_text": " click on the "
+    },
+    {
+      "id": "59dbd210975c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24051,
+      "end": 24063,
+      "line": 317,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and select ",
+      "source_text": " and select "
+    },
+    {
+      "id": "a8efd0e5b563",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24067,
+      "end": 24072,
+      "line": 317,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Clear",
+      "source_text": "Clear"
+    },
+    {
+      "id": "2f72f0a02166",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24077,
+      "end": 24124,
+      "line": 317,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the prompt to remove the current thumbnail.",
+      "source_text": " in the prompt to remove the current thumbnail."
+    },
+    {
+      "id": "d762d1248cd6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24149,
+      "end": 24170,
+      "line": 318,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Capture From Viewport",
+      "source_text": "Capture From Viewport"
+    },
+    {
+      "id": "aee3f9b3b46e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24179,
+      "end": 24253,
+      "line": 318,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Capture your current viewport as a still image to be used as a thumbnail.",
+      "source_text": " Capture your current viewport as a still image to be used as a thumbnail."
+    },
+    {
+      "id": "1e85f25e8878",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24278,
+      "end": 24289,
+      "line": 319,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Import File",
+      "source_text": "Import File"
+    },
+    {
+      "id": "f16fbbc4143b",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24298,
+      "end": 24317,
+      "line": 319,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " When clicking the ",
+      "source_text": " When clicking the "
+    },
+    {
+      "id": "624890365d98",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24321,
+      "end": 24327,
+      "line": 319,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "82701a7474f0",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24332,
+      "end": 24393,
+      "line": 319,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button, a file browser will pop up where you can look for a ",
+      "source_text": " button, a file browser will pop up where you can look for a "
+    },
+    {
+      "id": "88afb39db2d6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24401,
+      "end": 24404,
+      "line": 319,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "png",
+      "source_text": "png"
+    },
+    {
+      "id": "724072eac748",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24413,
+      "end": 24478,
+      "line": 319,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file to be used as a flipbook or static image for the thumbnail.",
+      "source_text": " file to be used as a flipbook or static image for the thumbnail."
+    },
+    {
+      "id": "241fa7454136",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24526,
+      "end": 24669,
+      "line": 320,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Here you can setup the amount of columns and rows for your flipbook. The maximum number of frames is defined by multiplying these two numbers.",
+      "source_text": " Here you can setup the amount of columns and rows for your flipbook. The maximum number of frames is defined by multiplying these two numbers."
+    },
+    {
+      "id": "30863ed65d81",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24692,
+      "end": 24817,
+      "line": 322,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "If columns and rows are set to 1, you will be using a static png as your thumbnail and the following parameters won’t appear.",
+      "source_text": "If columns and rows are set to 1, you will be using a static png as your thumbnail and the following parameters won’t appear."
+    },
+    {
+      "id": "4de7cc250b4a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24862,
+      "end": 24873,
+      "line": 324,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Frame Count",
+      "source_text": "Frame Count"
+    },
+    {
+      "id": "377e2b5523e3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24882,
+      "end": 24927,
+      "line": 324,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The amount of frames used for the thumbnail.",
+      "source_text": " The amount of frames used for the thumbnail."
+    },
+    {
+      "id": "1a52da2cf39d",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24952,
+      "end": 24962,
+      "line": 325,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Frame Rate",
+      "source_text": "Frame Rate"
+    },
+    {
+      "id": "514a94ebe6c8",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 24971,
+      "end": 25072,
+      "line": 325,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The number of frames per second used to play the thumbnail. Higher values will “speed up” the video.",
+      "source_text": " The number of frames per second used to play the thumbnail. Higher values will “speed up” the video."
+    },
+    {
+      "id": "633173e54b16",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 25174,
+      "end": 25185,
+      "line": 330,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Preferences",
+      "source_text": "Preferences"
+    },
+    {
+      "id": "776f02d1179f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 25459,
+      "end": 25467,
+      "line": 332,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " General",
+      "source_text": " General"
+    },
+    {
+      "id": "12a3d4fd6f84",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 25656,
+      "end": 25665,
+      "line": 335,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "UI Scale:",
+      "source_text": "UI Scale:"
+    },
+    {
+      "id": "e614ddba3c30",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 25674,
+      "end": 25789,
+      "line": 335,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set a scale for all the text and icons in the UI. This can be helpful when you have trouble reading small letters.",
+      "source_text": " Set a scale for all the text and icons in the UI. This can be helpful when you have trouble reading small letters."
+    },
+    {
+      "id": "c0be04aaa977",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 25814,
+      "end": 25820,
+      "line": 336,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Vsync:",
+      "source_text": "Vsync:"
+    },
+    {
+      "id": "a39bc17a8837",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 25829,
+      "end": 25895,
+      "line": 336,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Synchronise the UI framerate to the refresh rate of your monitor.",
+      "source_text": " Synchronise the UI framerate to the refresh rate of your monitor."
+    },
+    {
+      "id": "e6eae9b84605",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 25920,
+      "end": 25942,
+      "line": 337,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Simulation Preemption:",
+      "source_text": "Simulation Preemption:"
+    },
+    {
+      "id": "508030938698",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 25951,
+      "end": 26105,
+      "line": 337,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Time spent on a simulation step before pausing to render and update the UI. Lower values can make the UI more responsive at the cost of simulation speed.",
+      "source_text": " Time spent on a simulation step before pausing to render and update the UI. Lower values can make the UI more responsive at the cost of simulation speed."
+    },
+    {
+      "id": "f34a5c78fb7e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 26130,
+      "end": 26151,
+      "line": 338,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Play Project On Load:",
+      "source_text": "Play Project On Load:"
+    },
+    {
+      "id": "d41aafe1137d",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 26160,
+      "end": 26261,
+      "line": 338,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, presets will start simulating when opened. Otherwise, presets stay pauses until started.",
+      "source_text": " If checked, presets will start simulating when opened. Otherwise, presets stay pauses until started."
+    },
+    {
+      "id": "04356feee45b",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 26286,
+      "end": 26314,
+      "line": 339,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Export Warning On Overwrite:",
+      "source_text": "Export Warning On Overwrite:"
+    },
+    {
+      "id": "a65bcf4e7838",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 26323,
+      "end": 26557,
+      "line": 339,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, a warning will pop up when trying to export something that would overwrite something else. for example, if you try to export a flipbook with the same name, extention, and target directory as an already existing flipbook. ",
+      "source_text": " If checked, a warning will pop up when trying to export something that would overwrite something else. for example, if you try to export a flipbook with the same name, extention, and target directory as an already existing flipbook. "
+    },
+    {
+      "id": "540d1ffaa61e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 26561,
+      "end": 26576,
+      "line": 339,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Disable Warning",
+      "source_text": "Disable Warning"
+    },
+    {
+      "id": "b5892d4f24db",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 26581,
+      "end": 26611,
+      "line": 339,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will uncheck this parameter, ",
+      "source_text": " will uncheck this parameter, "
+    },
+    {
+      "id": "0e7409b20457",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 26615,
+      "end": 26621,
+      "line": 339,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Cancel",
+      "source_text": "Cancel"
+    },
+    {
+      "id": "503925d0f44f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 26626,
+      "end": 26692,
+      "line": 339,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will cancel the export so that no files will be overwritten, and ",
+      "source_text": " will cancel the export so that no files will be overwritten, and "
+    },
+    {
+      "id": "235befdd1b45",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 26696,
+      "end": 26705,
+      "line": 339,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Overwrite",
+      "source_text": "Overwrite"
+    },
+    {
+      "id": "727a4b76c4b0",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 26710,
+      "end": 26758,
+      "line": 339,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will continue the export overwriting the files.",
+      "source_text": " will continue the export overwriting the files."
+    },
+    {
+      "id": "bdd497a9ae0e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 27068,
+      "end": 27077,
+      "line": 343,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "UI Layout",
+      "source_text": "UI Layout"
+    },
+    {
+      "id": "bd24882efc3d",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 27086,
+      "end": 27255,
+      "line": 343,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set the layout of the four main panels. This can be useful to quickly reset your layout to the default if you made a lot of changes by moving and scaling these windows.",
+      "source_text": " Set the layout of the four main panels. This can be useful to quickly reset your layout to the default if you made a lot of changes by moving and scaling these windows."
+    },
+    {
+      "id": "ae5bf9464a8f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 27280,
+      "end": 27307,
+      "line": 344,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Graph Background Grid Type:",
+      "source_text": "Graph Background Grid Type:"
+    },
+    {
+      "id": "95156a2f5733",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 27316,
+      "end": 27365,
+      "line": 344,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set the background grid type of the node graph. ",
+      "source_text": " Set the background grid type of the node graph. "
+    },
+    {
+      "id": "73883c212fd0",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 27369,
+      "end": 27373,
+      "line": 344,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "None",
+      "source_text": "None"
+    },
+    {
+      "id": "7c58590c042a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 27378,
+      "end": 27454,
+      "line": 344,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is the best option for streaming or recording due to compression artifacts.",
+      "source_text": " is the best option for streaming or recording due to compression artifacts."
+    },
+    {
+      "id": "c2e05f8735b5",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 27479,
+      "end": 27504,
+      "line": 345,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Mouse Compatibility Mode:",
+      "source_text": "Mouse Compatibility Mode:"
+    },
+    {
+      "id": "f93f0acd6ecc",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 27513,
+      "end": 27650,
+      "line": 345,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, the hiding and warping of the cursor when interacting with the viewport is disabled. This can be useful with remote desktop.",
+      "source_text": " If checked, the hiding and warping of the cursor when interacting with the viewport is disabled. This can be useful with remote desktop."
+    },
+    {
+      "id": "e3802085c342",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 27675,
+      "end": 27698,
+      "line": 346,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Middle-Click Emulation:",
+      "source_text": "Middle-Click Emulation:"
+    },
+    {
+      "id": "61d9d33138f5",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 27707,
+      "end": 27720,
+      "line": 346,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, ",
+      "source_text": " If checked, "
+    },
+    {
+      "id": "1d1e6da9fb5c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 27726,
+      "end": 27729,
+      "line": 346,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "alt",
+      "source_text": "alt"
+    },
+    {
+      "id": "ba6d37aa6eb4",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 27892,
+      "end": 27918,
+      "line": 346,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is remapped to represent ",
+      "source_text": " is remapped to represent "
+    },
+    {
+      "id": "c9e53d0a31c3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 28077,
+      "end": 28124,
+      "line": 346,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " this can be useful when working on a trackpad.",
+      "source_text": " this can be useful when working on a trackpad."
+    },
+    {
+      "id": "e11cb5c6d8f2",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 28149,
+      "end": 28172,
+      "line": 347,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Scroll-Wheel Emulation:",
+      "source_text": "Scroll-Wheel Emulation:"
+    },
+    {
+      "id": "ee918ab0975b",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 28181,
+      "end": 28189,
+      "line": 347,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Causes ",
+      "source_text": " Causes "
+    },
+    {
+      "id": "2f4681a97027",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 28504,
+      "end": 28664,
+      "line": 347,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking and dragging to act as scroll events when using a tablet like a wacom. This enables you to zoom in and out in the node graph in a similar way to Nuke.",
+      "source_text": " clicking and dragging to act as scroll events when using a tablet like a wacom. This enables you to zoom in and out in the node graph in a similar way to Nuke."
+    },
+    {
+      "id": "4987860d7e5f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 28689,
+      "end": 28706,
+      "line": 348,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Max Undo History:",
+      "source_text": "Max Undo History:"
+    },
+    {
+      "id": "e47d65d34453",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 28715,
+      "end": 28775,
+      "line": 348,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Amount of actions you can roll back using the undo command.",
+      "source_text": " Amount of actions you can roll back using the undo command."
+    },
+    {
+      "id": "bffcdbaf4831",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 28800,
+      "end": 28827,
+      "line": 349,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Recovery Autosave Interval:",
+      "source_text": "Recovery Autosave Interval:"
+    },
+    {
+      "id": "11191a7988a8",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 28836,
+      "end": 28910,
+      "line": 349,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Amount of time that goes by before creating a new recovery autosave file.",
+      "source_text": " Amount of time that goes by before creating a new recovery autosave file."
+    },
+    {
+      "id": "fa5cfb25a918",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 28935,
+      "end": 28945,
+      "line": 350,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "FPS Limit:",
+      "source_text": "FPS Limit:"
+    },
+    {
+      "id": "8a529db01cf6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 28954,
+      "end": 29095,
+      "line": 350,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Maximum framerate for the simulation. This can be useful to set if you want to watch your simulation at your target framerate while working.",
+      "source_text": " Maximum framerate for the simulation. This can be useful to set if you want to watch your simulation at your target framerate while working."
+    },
+    {
+      "id": "73333912af7c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29120,
+      "end": 29143,
+      "line": 351,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Show Floating Viewport:",
+      "source_text": "Show Floating Viewport:"
+    },
+    {
+      "id": "480a0e6258d1",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29152,
+      "end": 29238,
+      "line": 351,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " With this checked, you’ll have a floating viewport window when using fullscreen mode ",
+      "source_text": " With this checked, you’ll have a floating viewport window when using fullscreen mode "
+    },
+    {
+      "id": "9537bcacde8c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29403,
+      "end": 29421,
+      "line": 351,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " on another panel.",
+      "source_text": " on another panel."
+    },
+    {
+      "id": "67011638cfbd",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29446,
+      "end": 29480,
+      "line": 352,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Create Key When Parameter Exposed:",
+      "source_text": "Create Key When Parameter Exposed:"
+    },
+    {
+      "id": "bb43a2d72dce",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29489,
+      "end": 29617,
+      "line": 352,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, when settings a parameter to timeline animation, a key will be created with the current value at the current frame.",
+      "source_text": " If checked, when settings a parameter to timeline animation, a key will be created with the current value at the current frame."
+    },
+    {
+      "id": "47bcad484f48",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29642,
+      "end": 29676,
+      "line": 353,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Show Modulator Output On Timeline:",
+      "source_text": "Show Modulator Output On Timeline:"
+    },
+    {
+      "id": "6e3371400bbf",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29685,
+      "end": 29777,
+      "line": 353,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, a preview of the modulator is shown in the timeline. For example, when using a ",
+      "source_text": " If checked, a preview of the modulator is shown in the timeline. For example, when using a "
+    },
+    {
+      "id": "0eb3806186c8",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29781,
+      "end": 29796,
+      "line": 353,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Mod: Oscillator",
+      "source_text": "Mod: Oscillator"
+    },
+    {
+      "id": "88db9b0f71f3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29801,
+      "end": 29814,
+      "line": 353,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " node with a ",
+      "source_text": " node with a "
+    },
+    {
+      "id": "a635a5650d33",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29818,
+      "end": 29822,
+      "line": 353,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Sine",
+      "source_text": "Sine"
+    },
+    {
+      "id": "a6beac598a74",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29827,
+      "end": 29911,
+      "line": 353,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " waveform, you can now clearly see how the peaks and valleys relate to the timeline.",
+      "source_text": " waveform, you can now clearly see how the peaks and valleys relate to the timeline."
+    },
+    {
+      "id": "5600b8a00f9c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29936,
+      "end": 29954,
+      "line": 354,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Manipulator scale:",
+      "source_text": "Manipulator scale:"
+    },
+    {
+      "id": "bd5a01521518",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 29963,
+      "end": 29979,
+      "line": 354,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Scale the Move ",
+      "source_text": " Scale the Move "
+    },
+    {
+      "id": "1a74fe55ba87",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 30134,
+      "end": 30143,
+      "line": 354,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ", Rotate ",
+      "source_text": ", Rotate "
+    },
+    {
+      "id": "78624e8bc5c7",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 30304,
+      "end": 30314,
+      "line": 354,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or Scale ",
+      "source_text": " or Scale "
+    },
+    {
+      "id": "b5bcef1b3af2",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 30472,
+      "end": 30502,
+      "line": 354,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " manipulators in the viewport.",
+      "source_text": " manipulators in the viewport."
+    },
+    {
+      "id": "5dc3ac626049",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 30527,
+      "end": 30544,
+      "line": 355,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Template Project:",
+      "source_text": "Template Project:"
+    },
+    {
+      "id": "d64faeaf7b53",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 30553,
+      "end": 30633,
+      "line": 355,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Here you can set a custom default project. This project will then be used with ",
+      "source_text": " Here you can set a custom default project. This project will then be used with "
+    },
+    {
+      "id": "bef2ff80c3a0",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 30637,
+      "end": 30648,
+      "line": 355,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "File&gt;New",
+      "source_text": "File>New"
+    },
+    {
+      "id": "23960531bd15",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 30653,
+      "end": 30826,
+      "line": 355,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Project This project can’t be accidentally saved over since when saving the default project it will act as if it doesn’t have a file name yet and prompt you to specify one.",
+      "source_text": " Project This project can’t be accidentally saved over since when saving the default project it will act as if it doesn’t have a file name yet and prompt you to specify one."
+    },
+    {
+      "id": "591e97f129c2",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 30851,
+      "end": 30871,
+      "line": 356,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Post-Export Command:",
+      "source_text": "Post-Export Command:"
+    },
+    {
+      "id": "e910b2887b30",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 30880,
+      "end": 31029,
+      "line": 356,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " For example, When running an export overnight, you may want to close embergen when the export is finished to save power. This can be done by typing ",
+      "source_text": " For example, When running an export overnight, you may want to close embergen when the export is finished to save power. This can be done by typing "
+    },
+    {
+      "id": "0cc121242d9f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 31109,
+      "end": 31129,
+      "line": 356,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in this text field.",
+      "source_text": " in this text field."
+    },
+    {
+      "id": "2ee822950300",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 31175,
+      "end": 31196,
+      "line": 358,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Relative Asset Paths:",
+      "source_text": "Relative Asset Paths:"
+    },
+    {
+      "id": "2e06cb2a353f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 31226,
+      "end": 31336,
+      "line": 359,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "If checked, all files imported into LiquiGen using the file browser will refer to a file path relative to the ",
+      "source_text": "If checked, all files imported into LiquiGen using the file browser will refer to a file path relative to the "
+    },
+    {
+      "id": "19a294683dec",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 31340,
+      "end": 31349,
+      "line": 359,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": ".liquigen",
+      "source_text": ".liquigen"
+    },
+    {
+      "id": "68e1b1fadb76",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 31354,
+      "end": 31420,
+      "line": 359,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " project file you are working in. Navigating up folders using the ",
+      "source_text": " project file you are working in. Navigating up folders using the "
+    },
+    {
+      "id": "4218bd03d6cc",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 31498,
+      "end": 31532,
+      "line": 359,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " syntax and navigating down using ",
+      "source_text": " syntax and navigating down using "
+    },
+    {
+      "id": "222cfadab557",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 31608,
+      "end": 31777,
+      "line": 359,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " and the folder names. This can be useful if your workflow keeps your assets and project files close together in a folder structure, as it will give more clarity in the ",
+      "source_text": " and the folder names. This can be useful if your workflow keeps your assets and project files close together in a folder structure, as it will give more clarity in the "
+    },
+    {
+      "id": "ab44d665579e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 31781,
+      "end": 31789,
+      "line": 359,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Filepath",
+      "source_text": "Filepath"
+    },
+    {
+      "id": "c8ded1b245cc",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 31794,
+      "end": 31923,
+      "line": 359,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameters and the references will not break when moving all the files together to a different folder or even a different drive.",
+      "source_text": " parameters and the references will not break when moving all the files together to a different folder or even a different drive."
+    },
+    {
+      "id": "43942339587a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 31940,
+      "end": 32122,
+      "line": 360,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "If unchecked, all files imported into LiquiGen using the file browser will refer to its absolute file path on your computer. This can be useful to keep track of where your files are.",
+      "source_text": "If unchecked, all files imported into LiquiGen using the file browser will refer to its absolute file path on your computer. This can be useful to keep track of where your files are."
+    },
+    {
+      "id": "6a2ef668b9d0",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 32171,
+      "end": 32184,
+      "line": 365,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "MIDI support:",
+      "source_text": "MIDI support:"
+    },
+    {
+      "id": "98a395e1b8cb",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 32193,
+      "end": 32251,
+      "line": 365,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This needs to be checked to be able to use the MIDI node.",
+      "source_text": " This needs to be checked to be able to use the MIDI node."
+    },
+    {
+      "id": "6026c0302817",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 32276,
+      "end": 32289,
+      "line": 366,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Show Minimap:",
+      "source_text": "Show Minimap:"
+    },
+    {
+      "id": "c508d281a13c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 32298,
+      "end": 32336,
+      "line": 366,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Toggles the minimap in the nodegraph.",
+      "source_text": " Toggles the minimap in the nodegraph."
+    },
+    {
+      "id": "50e07f010802",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 32361,
+      "end": 32378,
+      "line": 367,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Minimap Location:",
+      "source_text": "Minimap Location:"
+    },
+    {
+      "id": "61e70cdd2a8c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 32387,
+      "end": 32475,
+      "line": 367,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Dropdown menu where you can pick the desired location for the minimap in the nodegraph.",
+      "source_text": " Dropdown menu where you can pick the desired location for the minimap in the nodegraph."
+    },
+    {
+      "id": "82f8452a9458",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 32500,
+      "end": 32514,
+      "line": 368,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Minimap Scale:",
+      "source_text": "Minimap Scale:"
+    },
+    {
+      "id": "0e12fcc0166e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 32523,
+      "end": 32573,
+      "line": 368,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Controls the size of the minimap ranging between ",
+      "source_text": " Controls the size of the minimap ranging between "
+    },
+    {
+      "id": "28c55e52c929",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 32585,
+      "end": 32590,
+      "line": 368,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "042c83a5d82c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 32872,
+      "end": 32882,
+      "line": 372,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Shortcuts",
+      "source_text": " Shortcuts"
+    },
+    {
+      "id": "19151d96720f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 33094,
+      "end": 33115,
+      "line": 375,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Search for a command.",
+      "source_text": "Search for a command."
+    },
+    {
+      "id": "1bdc45a743de",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 33132,
+      "end": 33140,
+      "line": 376,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Command.",
+      "source_text": "Command."
+    },
+    {
+      "id": "11ebe2640bc0",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 33157,
+      "end": 33174,
+      "line": 377,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Current key-bind.",
+      "source_text": "Current key-bind."
+    },
+    {
+      "id": "6f4822f0471c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 33346,
+      "end": 33379,
+      "line": 378,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Add a shortcut for this command.",
+      "source_text": " Add a shortcut for this command."
+    },
+    {
+      "id": "769314bcd3d6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 33544,
+      "end": 33575,
+      "line": 379,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Reset the shortcut to default.",
+      "source_text": " Reset the shortcut to default."
+    },
+    {
+      "id": "7f77e5ac1c1b",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 33743,
+      "end": 33782,
+      "line": 380,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Remove all shortcuts for this command.",
+      "source_text": " Remove all shortcuts for this command."
+    },
+    {
+      "id": "752e0074c480",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 33799,
+      "end": 33901,
+      "line": 381,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "This will prompt a window to ask you if you want the reset all the keyboard shortcuts to the defaults.",
+      "source_text": "This will prompt a window to ask you if you want the reset all the keyboard shortcuts to the defaults."
+    },
+    {
+      "id": "47665794ee55",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 34145,
+      "end": 34152,
+      "line": 385,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Camera",
+      "source_text": " Camera"
+    },
+    {
+      "id": "14e7ce8ba7db",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 34356,
+      "end": 34364,
+      "line": 388,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": "Bindings",
+      "source_text": "Bindings"
+    },
+    {
+      "id": "b90f7206a23b",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 34451,
+      "end": 34510,
+      "line": 389,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This section sets up the keybindings for moving the camera.",
+      "source_text": "This section sets up the keybindings for moving the camera."
+    },
+    {
+      "id": "548f6269a170",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 34536,
+      "end": 34589,
+      "line": 391,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": "Camera bindings are set up in the same way as in the ",
+      "source_text": "Camera bindings are set up in the same way as in the "
+    },
+    {
+      "id": "27dcac0d8648",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 34663,
+      "end": 34673,
+      "line": 391,
+      "parent_path": "blockquote/div/p/a/span",
+      "source_raw": " Shortcuts",
+      "source_text": " Shortcuts"
+    },
+    {
+      "id": "38c9ca10a382",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 34684,
+      "end": 34763,
+      "line": 391,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " tab. But here, any combination of multiple keys and mouse buttons is accepted.",
+      "source_text": " tab. But here, any combination of multiple keys and mouse buttons is accepted."
+    },
+    {
+      "id": "fd2d7505a015",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 34823,
+      "end": 34839,
+      "line": 394,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Control Mapping:",
+      "source_text": "Control Mapping:"
+    },
+    {
+      "id": "b3d7a5b92454",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 34848,
+      "end": 35125,
+      "line": 394,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Dropdown menu of different control mapping types. This is useful when you are used to another type of camera control like Blender or Maya (Industry Compatible). These can be thought of as presets for the bindings tab. Changing a control mapping will override the key mappings.",
+      "source_text": " Dropdown menu of different control mapping types. This is useful when you are used to another type of camera control like Blender or Maya (Industry Compatible). These can be thought of as presets for the bindings tab. Changing a control mapping will override the key mappings."
+    },
+    {
+      "id": "172b6bb91d06",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35150,
+      "end": 35156,
+      "line": 395,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Orbit:",
+      "source_text": "Orbit:"
+    },
+    {
+      "id": "895f0f4cba00",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35165,
+      "end": 35189,
+      "line": 395,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Orbit around the pivot.",
+      "source_text": " Orbit around the pivot."
+    },
+    {
+      "id": "fd8ada63a410",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35214,
+      "end": 35219,
+      "line": 396,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Zoom:",
+      "source_text": "Zoom:"
+    },
+    {
+      "id": "c090c64d81fc",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35228,
+      "end": 35279,
+      "line": 396,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Move the camera closer or further from your pivot.",
+      "source_text": " Move the camera closer or further from your pivot."
+    },
+    {
+      "id": "62f703a4d7b3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35304,
+      "end": 35308,
+      "line": 397,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Pan:",
+      "source_text": "Pan:"
+    },
+    {
+      "id": "45088f80d9ad",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35317,
+      "end": 35392,
+      "line": 397,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Moves the camera horizontally and vertically in screen space (by default).",
+      "source_text": " Moves the camera horizontally and vertically in screen space (by default)."
+    },
+    {
+      "id": "35a90dedd42c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35417,
+      "end": 35428,
+      "line": 398,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Pan (Alt.):",
+      "source_text": "Pan (Alt.):"
+    },
+    {
+      "id": "8ce65dfdd9e9",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35437,
+      "end": 35526,
+      "line": 398,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Moves the camera over an alternative plane. This can be set up in the Pan (alt) section.",
+      "source_text": " Moves the camera over an alternative plane. This can be set up in the Pan (alt) section."
+    },
+    {
+      "id": "4c4503b924f6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35551,
+      "end": 35555,
+      "line": 399,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Fly:",
+      "source_text": "Fly:"
+    },
+    {
+      "id": "29ff271e4901",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35564,
+      "end": 35688,
+      "line": 399,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Key binding used to activate fly mode. Fly mode allows you to move around in a first person type fashion using the         ",
+      "source_text": " Key binding used to activate fly mode. Fly mode allows you to move around in a first person type fashion using the         "
+    },
+    {
+      "id": "156734f3419a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35750,
+      "end": 35797,
+      "line": 399,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " keys or the arrow keys to move around and the ",
+      "source_text": " keys or the arrow keys to move around and the "
+    },
+    {
+      "id": "7feba3439fc8",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35811,
+      "end": 35816,
+      "line": 399,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "391c456d9a33",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35830,
+      "end": 35856,
+      "line": 399,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " keys to move up and down.",
+      "source_text": " keys to move up and down."
+    },
+    {
+      "id": "a179510fbff3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35881,
+      "end": 35886,
+      "line": 400,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Tank:",
+      "source_text": "Tank:"
+    },
+    {
+      "id": "805aecbb44f5",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 35895,
+      "end": 36026,
+      "line": 400,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Key binding used to activate tank mode. Tank mode allows you to turn the camera left/right, and forwards/backwards with the mouse.",
+      "source_text": " Key binding used to activate tank mode. Tank mode allows you to turn the camera left/right, and forwards/backwards with the mouse."
+    },
+    {
+      "id": "ba3fa0d26796",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 36078,
+      "end": 36083,
+      "line": 404,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": "Pivot",
+      "source_text": "Pivot"
+    },
+    {
+      "id": "3860cda1d33c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 36184,
+      "end": 36200,
+      "line": 406,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Pivot To Cursor:",
+      "source_text": "Pivot To Cursor:"
+    },
+    {
+      "id": "d105d173ac26",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 36209,
+      "end": 36341,
+      "line": 406,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " When enabled, zooming and orbiting will move around the pivot position instead of the camera center. The pivot is indicated with a ",
+      "source_text": " When enabled, zooming and orbiting will move around the pivot position instead of the camera center. The pivot is indicated with a "
+    },
+    {
+      "id": "e33e6642ffbe",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 36504,
+      "end": 36651,
+      "line": 406,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " blue crosshair and is set at the position of your cursor. This can be useful to, for example, easily zoom into or orbit around a specific droplet.",
+      "source_text": " blue crosshair and is set at the position of your cursor. This can be useful to, for example, easily zoom into or orbit around a specific droplet."
+    },
+    {
+      "id": "d0a56ed471c5",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 36677,
+      "end": 36773,
+      "line": 408,
+      "parent_path": "ul/li/blockquote/div/p",
+      "source_raw": "When the cursor is hovering over the sky or ground the pivot will fallback to the camera center.",
+      "source_text": "When the cursor is hovering over the sky or ground the pivot will fallback to the camera center."
+    },
+    {
+      "id": "cb343d244026",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 37140,
+      "end": 37214,
+      "line": 419,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "9c7e90146782",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 37294,
+      "end": 37310,
+      "line": 425,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Pivot To Ground:",
+      "source_text": "Pivot To Ground:"
+    },
+    {
+      "id": "8a2ac77294a5",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 37319,
+      "end": 37385,
+      "line": 425,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " Specifies how the pivot behaves when the cursor is on the ground.",
+      "source_text": " Specifies how the pivot behaves when the cursor is on the ground."
+    },
+    {
+      "id": "5aeb3e897dfb",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 37410,
+      "end": 37416,
+      "line": 426,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Never:",
+      "source_text": "Never:"
+    },
+    {
+      "id": "9254044f1c6b",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 37421,
+      "end": 37491,
+      "line": 426,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " The default behavior is applied using the camera center as the pivot.",
+      "source_text": " The default behavior is applied using the camera center as the pivot."
+    },
+    {
+      "id": "92666996b54f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 37512,
+      "end": 37522,
+      "line": 427,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Zoom only:",
+      "source_text": "Zoom only:"
+    },
+    {
+      "id": "e2c835435e97",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 37527,
+      "end": 37623,
+      "line": 427,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " When zooming, the camera will move towards the pivot where the cursor was placed on the ground.",
+      "source_text": " When zooming, the camera will move towards the pivot where the cursor was placed on the ground."
+    },
+    {
+      "id": "5e5f16554f2a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 37644,
+      "end": 37659,
+      "line": 428,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Zoom and Orbit:",
+      "source_text": "Zoom and Orbit:"
+    },
+    {
+      "id": "be93bdba9a33",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 37664,
+      "end": 37763,
+      "line": 428,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " The camera will zoom towards and orbit around the pivot where the cursor was placed on the ground.",
+      "source_text": " The camera will zoom towards and orbit around the pivot where the cursor was placed on the ground."
+    },
+    {
+      "id": "03a5d9dbda5d",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 37812,
+      "end": 37830,
+      "line": 433,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Always Show Pivot:",
+      "source_text": "Always Show Pivot:"
+    },
+    {
+      "id": "93cfc3489df3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 37839,
+      "end": 37856,
+      "line": 433,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, the ",
+      "source_text": " If checked, the "
+    },
+    {
+      "id": "e936296579ee",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38019,
+      "end": 38116,
+      "line": 433,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " blue crosshair representing the pivot is always shown even when not interacting with the camera.",
+      "source_text": " blue crosshair representing the pivot is always shown even when not interacting with the camera."
+    },
+    {
+      "id": "35cea7c778e5",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38168,
+      "end": 38173,
+      "line": 437,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": "Orbit",
+      "source_text": "Orbit"
+    },
+    {
+      "id": "4cd5de608a59",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38289,
+      "end": 38307,
+      "line": 439,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Orbit Sensitivity:",
+      "source_text": "Orbit Sensitivity:"
+    },
+    {
+      "id": "e4e47b7f31d6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38316,
+      "end": 38387,
+      "line": 439,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Speed of orbiting the camera in degrees per pixel. So with a value of ",
+      "source_text": " Speed of orbiting the camera in degrees per pixel. So with a value of "
+    },
+    {
+      "id": "351075514d74",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38399,
+      "end": 38422,
+      "line": 439,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " the camera will orbit ",
+      "source_text": " the camera will orbit "
+    },
+    {
+      "id": "79c29446eef8",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38434,
+      "end": 38476,
+      "line": 439,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " degrees when moving the cursor one pixel.",
+      "source_text": " degrees when moving the cursor one pixel."
+    },
+    {
+      "id": "a2ece2ac8560",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38501,
+      "end": 38533,
+      "line": 440,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Invert Vertical Orbit Direction:",
+      "source_text": "Invert Vertical Orbit Direction:"
+    },
+    {
+      "id": "b3112565ea37",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38542,
+      "end": 38661,
+      "line": 440,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Inverts the vertical axis of the cursor input. With this enabled, moving the cursor up will orbit down and vice versa.",
+      "source_text": " Inverts the vertical axis of the cursor input. With this enabled, moving the cursor up will orbit down and vice versa."
+    },
+    {
+      "id": "dd7da8fc4436",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38712,
+      "end": 38716,
+      "line": 444,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": "Zoom",
+      "source_text": "Zoom"
+    },
+    {
+      "id": "2f0118fe0643",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38831,
+      "end": 38847,
+      "line": 446,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Zoom Input Axis:",
+      "source_text": "Zoom Input Axis:"
+    },
+    {
+      "id": "9c00c83c0ba4",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38856,
+      "end": 38943,
+      "line": 446,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Specify if the camera will zoom based on moving the cursor horizontally or vertically.",
+      "source_text": " Specify if the camera will zoom based on moving the cursor horizontally or vertically."
+    },
+    {
+      "id": "bd754bdbfbc8",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38968,
+      "end": 38990,
+      "line": 447,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Invert Zoom Direction:",
+      "source_text": "Invert Zoom Direction:"
+    },
+    {
+      "id": "cd22601ec6e3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 38999,
+      "end": 39003,
+      "line": 447,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If ",
+      "source_text": " If "
+    },
+    {
+      "id": "f7d34df6d906",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 39007,
+      "end": 39012,
+      "line": 447,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Mouse",
+      "source_text": "Mouse"
+    },
+    {
+      "id": "5faf0c538faa",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 39017,
+      "end": 39099,
+      "line": 447,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is checked, moving the cursor to the right or up will zoom out instead of in. If ",
+      "source_text": " is checked, moving the cursor to the right or up will zoom out instead of in. If "
+    },
+    {
+      "id": "4e4811db63e6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 39103,
+      "end": 39108,
+      "line": 447,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Wheel",
+      "source_text": "Wheel"
+    },
+    {
+      "id": "d46802e87bd9",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 39113,
+      "end": 39167,
+      "line": 447,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is checked, scrolling up will zoom out instead of in.",
+      "source_text": " is checked, scrolling up will zoom out instead of in."
+    },
+    {
+      "id": "07d828ef9b7a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 39217,
+      "end": 39220,
+      "line": 451,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": "Pan",
+      "source_text": "Pan"
+    },
+    {
+      "id": "854f78497b3c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 39334,
+      "end": 39350,
+      "line": 453,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Pan Sensitivity:",
+      "source_text": "Pan Sensitivity:"
+    },
+    {
+      "id": "dad76dfb4157",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 39359,
+      "end": 39519,
+      "line": 453,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The sensitivity of panning. Higher values will give faster panning with less cursor movement. This is shared across both regular and alternative panning modes.",
+      "source_text": " The sensitivity of panning. Higher values will give faster panning with less cursor movement. This is shared across both regular and alternative panning modes."
+    },
+    {
+      "id": "4f261b596bd6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 39544,
+      "end": 39570,
+      "line": 454,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Distance to Pivot Scaling:",
+      "source_text": "Distance to Pivot Scaling:"
+    },
+    {
+      "id": "a68ad41631b7",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 39579,
+      "end": 39789,
+      "line": 454,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " When enabled, the sensitivity of panning will be proportional to the camera’s distance from the last pivot point. This usually makes the panning speed more comfortable when being zoomed in or zoomed out a lot.",
+      "source_text": " When enabled, the sensitivity of panning will be proportional to the camera’s distance from the last pivot point. This usually makes the panning speed more comfortable when being zoomed in or zoomed out a lot."
+    },
+    {
+      "id": "ad17f226e328",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 39814,
+      "end": 39824,
+      "line": 455,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Pan Plane:",
+      "source_text": "Pan Plane:"
+    },
+    {
+      "id": "25e99714ba8e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 39833,
+      "end": 39890,
+      "line": 455,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The screenspace-relative plane where the mouse will pan.",
+      "source_text": " The screenspace-relative plane where the mouse will pan."
+    },
+    {
+      "id": "93f4f1f9116a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 39944,
+      "end": 39953,
+      "line": 459,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": "Pan (alt)",
+      "source_text": "Pan (alt)"
+    },
+    {
+      "id": "d82c1d948a96",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 40071,
+      "end": 40081,
+      "line": 461,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Pan Plane:",
+      "source_text": "Pan Plane:"
+    },
+    {
+      "id": "9ef2b5bf3b0c",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 40090,
+      "end": 40147,
+      "line": 461,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The screenspace-relative plane where the mouse will pan.",
+      "source_text": " The screenspace-relative plane where the mouse will pan."
+    },
+    {
+      "id": "a5cf42a7bdb4",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 40197,
+      "end": 40200,
+      "line": 465,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": "Fly",
+      "source_text": "Fly"
+    },
+    {
+      "id": "eb96fee34c18",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 40314,
+      "end": 40330,
+      "line": 467,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Fly Sensitivity:",
+      "source_text": "Fly Sensitivity:"
+    },
+    {
+      "id": "04e1898f1e9a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 40339,
+      "end": 40503,
+      "line": 467,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Higher values increase the fly speed and allow you to move around quicker. Lower values decrease the fly speed and allow you to make more precise camera movements.",
+      "source_text": " Higher values increase the fly speed and allow you to move around quicker. Lower values decrease the fly speed and allow you to make more precise camera movements."
+    },
+    {
+      "id": "26ea952a0d96",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 40528,
+      "end": 40554,
+      "line": 468,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Distance to Pivot Scaling:",
+      "source_text": "Distance to Pivot Scaling:"
+    },
+    {
+      "id": "65f369ad089f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 40563,
+      "end": 40776,
+      "line": 468,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " When enabled, the sensitivity of flying will be proportional to the camera’s distance from the last pivot point. This will make the fly speed seem more uniform between being zoomed in and zoomed out of a subject.",
+      "source_text": " When enabled, the sensitivity of flying will be proportional to the camera’s distance from the last pivot point. This will make the fly speed seem more uniform between being zoomed in and zoomed out of a subject."
+    },
+    {
+      "id": "97915fa91fa6",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 40801,
+      "end": 40816,
+      "line": 469,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "WASD Fly Plane:",
+      "source_text": "WASD Fly Plane:"
+    },
+    {
+      "id": "c40fe0fd0749",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 40825,
+      "end": 40898,
+      "line": 469,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The screenspace-relative plane where the camera will fly over using the ",
+      "source_text": " The screenspace-relative plane where the camera will fly over using the "
+    },
+    {
+      "id": "a36ac4ddb508",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 40960,
+      "end": 40974,
+      "line": 469,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or arrow keys",
+      "source_text": " or arrow keys"
+    },
+    {
+      "id": "ba35f9234546",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 41300,
+      "end": 41374,
+      "line": 478,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "c9e815a9d4db",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 41673,
+      "end": 41688,
+      "line": 485,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " User Variables",
+      "source_text": " User Variables"
+    },
+    {
+      "id": "a5ae1b954a57",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 41795,
+      "end": 41875,
+      "line": 486,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Custom variables can be used in export node file paths to improve your workflow.",
+      "source_text": "Custom variables can be used in export node file paths to improve your workflow."
+    },
+    {
+      "id": "1b2169fb720b",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 41946,
+      "end": 42228,
+      "line": 490,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "For example, if you have a lot of export nodes for separate capture types and you want to change something in the filename for all of them. If all the filenames have a user variable you can just change its value here to change it in all the filenames instead of doing it one by one.",
+      "source_text": "For example, if you have a lot of export nodes for separate capture types and you want to change something in the filename for all of them. If all the filenames have a user variable you can just change its value here to change it in all the filenames instead of doing it one by one."
+    },
+    {
+      "id": "0f3faff2b112",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 42355,
+      "end": 42369,
+      "line": 493,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Variable name.",
+      "source_text": "Variable name."
+    },
+    {
+      "id": "5c3ddd362362",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 42386,
+      "end": 42401,
+      "line": 494,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Variable value.",
+      "source_text": "Variable value."
+    },
+    {
+      "id": "5f02c36d23c2",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 42569,
+      "end": 42586,
+      "line": 495,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": " Remove variable.",
+      "source_text": " Remove variable."
+    },
+    {
+      "id": "38ffa7883002",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 42603,
+      "end": 42622,
+      "line": 496,
+      "parent_path": "section/section/ol/li/p",
+      "source_raw": "Add a new variable.",
+      "source_text": "Add a new variable."
+    },
+    {
+      "id": "b5b71b815f68",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 43003,
+      "end": 43007,
+      "line": 511,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "7520bf870958",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 43073,
+      "end": 43082,
+      "line": 513,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "94e6c093549a",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 43458,
+      "end": 43466,
+      "line": 521,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "ed923233bfee",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 43549,
+      "end": 43563,
+      "line": 524,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "b9a97a574046",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 43749,
+      "end": 43809,
+      "line": 531,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "e6129b7fdef3",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 43815,
+      "end": 43838,
+      "line": 533,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "acc8efe006ac",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 43876,
+      "end": 43882,
+      "line": 534,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "148a08ac5911",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 43886,
+      "end": 43891,
+      "line": 534,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "c7cbd3819105",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 43941,
+      "end": 43951,
+      "line": 534,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "f777a94dca57",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 43955,
+      "end": 43983,
+      "line": 534,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "1b0e1f1d4d61",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 44027,
+      "end": 44031,
+      "line": 536,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "40a317ea4536",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 44348,
+      "end": 44384,
+      "line": 551,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "b4ab9b2d2465",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 44541,
+      "end": 44549,
+      "line": 558,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "9ae835f40956",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 44617,
+      "end": 44633,
+      "line": 559,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Project Settings",
+      "source_text": "Project Settings"
+    },
+    {
+      "id": "64253f0a2411",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 44704,
+      "end": 44712,
+      "line": 560,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " General",
+      "source_text": " General"
+    },
+    {
+      "id": "844bcdd33cf7",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 44786,
+      "end": 44795,
+      "line": 561,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Renderer",
+      "source_text": " Renderer"
+    },
+    {
+      "id": "c984c351d65f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 44863,
+      "end": 44869,
+      "line": 562,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Notes",
+      "source_text": " Notes"
+    },
+    {
+      "id": "ead98b5e7116",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 44945,
+      "end": 44955,
+      "line": 563,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Thumbnail",
+      "source_text": " Thumbnail"
+    },
+    {
+      "id": "bf4dc6ff6111",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 45031,
+      "end": 45042,
+      "line": 566,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Preferences",
+      "source_text": "Preferences"
+    },
+    {
+      "id": "a1f7d608e218",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 45097,
+      "end": 45105,
+      "line": 567,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " General",
+      "source_text": " General"
+    },
+    {
+      "id": "a82a8d4199b2",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 45181,
+      "end": 45191,
+      "line": 568,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Shortcuts",
+      "source_text": " Shortcuts"
+    },
+    {
+      "id": "8f19329b169d",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 45269,
+      "end": 45276,
+      "line": 569,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Camera",
+      "source_text": " Camera"
+    },
+    {
+      "id": "6781abf1f52d",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 45336,
+      "end": 45344,
+      "line": 570,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Bindings",
+      "source_text": "Bindings"
+    },
+    {
+      "id": "17179dffb183",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 45402,
+      "end": 45407,
+      "line": 571,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Pivot",
+      "source_text": "Pivot"
+    },
+    {
+      "id": "dd99c1f35a5d",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 45465,
+      "end": 45470,
+      "line": 572,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Orbit",
+      "source_text": "Orbit"
+    },
+    {
+      "id": "3c0e8c9ae615",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 45527,
+      "end": 45531,
+      "line": 573,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Zoom",
+      "source_text": "Zoom"
+    },
+    {
+      "id": "491190f3bd1f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 45587,
+      "end": 45590,
+      "line": 574,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Pan",
+      "source_text": "Pan"
+    },
+    {
+      "id": "949e7d52297e",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 45650,
+      "end": 45659,
+      "line": 575,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Pan (alt)",
+      "source_text": "Pan (alt)"
+    },
+    {
+      "id": "d9046042d27f",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 45715,
+      "end": 45718,
+      "line": 576,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Fly",
+      "source_text": "Fly"
+    },
+    {
+      "id": "ff0cc03108fd",
+      "path": "liquigen/pages/references/settings.html",
+      "start": 45811,
+      "end": 45826,
+      "line": 579,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " User Variables",
+      "source_text": " User Variables"
+    }
+  ]
+}

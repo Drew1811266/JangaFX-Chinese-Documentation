@@ -1,0 +1,2346 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "d7dacc163f3a",
+      "source": "Diagnostics - JangaFX Documentation",
+      "target": "诊断 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "8c0e4f637f04",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "e829dc38cfb2",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "3bbe97c6282e",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "4945de26fe56",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "48aa183b2b53",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "f8bc8518803f",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "f4b3b2b361a5",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "a2839ec425d8",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "5c02c62e12b2",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "4a951da25e8b",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "341a4bf951e4",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "fab2af704c43",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "30a03f5a5c3e",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "b3704766bd22",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "17fafc0b2cb8",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "f85f6062f202",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "816433a75ca1",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "02e618928601",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "0cccf784d1ad",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "d8787027b6a4",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "50d6017915a0",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "3e14570135b2",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "7428d62f996f",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "d4dff4795eb7",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "a5c3ce17e2ed",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "bb9a5406822f",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "c01590f62ed6",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "ebaa550b1c65",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "d592a2b30731",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "4e8cea3cc326",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "4dcb054ff063",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "31f65e9388bc",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "4a2623ba5b1c",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "44b48180999e",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "4f163f828473",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "c7710e283302",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "da81e8fd6a88",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "a14390b85c54",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "191132aec15b",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "1ee9dabfd4ec",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "00c58119b470",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "ecdb01b8ae9a",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "fec11c8f6dc6",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "52b1fe200868",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "b47d077641ab",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "2f848023f4fa",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "d0834c7eb5d6",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "a7dbcf4afc8f",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "9ed7b20505ff",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "2333bba82222",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "59b1591e6850",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "64007c45dabf",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "6d62f61f9b72",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "7092b1b56ab3",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "0283a96b9161",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "f8825477a674",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "54b958ce9c5a",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "c9cce1a345cd",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "1f3224051fe4",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "a6be0002ddab",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "61ed5c32c5b5",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "7757be59cf83",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "51dd0bf55bad",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "ce766a832f93",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "65186b00bdb1",
+      "source": "The diagnostics panel contains options for visualising various elements of the simulation. This aids in understanding and adjusting particle, mesh, and force behaviors within the scene.",
+      "target": "诊断面板包含用于可视化模拟中各种元素的选项。这有助于理解并调整场景中的粒子、网格和力的行为。",
+      "note": ""
+    },
+    {
+      "id": "814153c6f3e7",
+      "source": " Toggles the diagnostics settings panel, adding or removing it on the right side of the viewport.",
+      "target": " 切换诊断设置面板，在视口右侧添加或移除此面板。",
+      "note": ""
+    },
+    {
+      "id": "ff12d8721bd6",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "0c26fe3bfa36",
+      "source": "Liquid",
+      "target": "液体",
+      "note": ""
+    },
+    {
+      "id": "907b8ce33c73",
+      "source": "This tab deals with the visualization of different properties of the liquid.",
+      "target": "此选项卡用于可视化液体的不同属性。",
+      "note": ""
+    },
+    {
+      "id": "02d23e9cf349",
+      "source": "Liquid Mesh:",
+      "target": "Liquid Mesh：",
+      "note": ""
+    },
+    {
+      "id": "337440da3c16",
+      "source": " Show or hide the liquid mesh in the viewport. Show or hide the visualization settings for the liquid mesh in the diagnostics panel.",
+      "target": " 在视口中显示或隐藏液体网格。显示或隐藏诊断面板中的液体网格可视化设置。",
+      "note": ""
+    },
+    {
+      "id": "02cdf83b4d39",
+      "source": "Realistic:\nUtilize the standard shading established within the node graph.",
+      "target": "Realistic：\n使用节点图中建立的标准着色。",
+      "note": ""
+    },
+    {
+      "id": "ccbcd3e00c91",
+      "source": "Field Shading:",
+      "target": "Field Shading（场着色）：",
+      "note": ""
+    },
+    {
+      "id": "4a8c4e60cc94",
+      "source": "Non-refractive shading colored to display certain liquid attributes.",
+      "target": "使用非折射着色，并通过颜色显示特定液体属性。",
+      "note": ""
+    },
+    {
+      "id": "bbd4dff199f7",
+      "source": "Main Liquid:",
+      "target": "Main Liquid：",
+      "note": ""
+    },
+    {
+      "id": "f9f932118a85",
+      "source": "Show information about the main liquid.",
+      "target": "显示主液体的信息。",
+      "note": ""
+    },
+    {
+      "id": "b2eb30cfb10e",
+      "source": "Triangles:",
+      "target": "Triangles：",
+      "note": ""
+    },
+    {
+      "id": "3aee7abd65d4",
+      "source": "Clearly shows all the polygons of the liquid mesh.",
+      "target": "清晰显示液体网格的所有多边形。",
+      "note": ""
+    },
+    {
+      "id": "9df4eb441792",
+      "source": "If you see big triangles from the desired camera distance, you might want to increase the mesh resolution by lowering the ",
+      "target": "如果从目标摄像机距离看到了很大的三角形，可能需要降低 ",
+      "note": ""
+    },
+    {
+      "id": "b20807a77120",
+      "source": "Voxel size",
+      "target": "Voxel size",
+      "note": ""
+    },
+    {
+      "id": "7d73b277ebe8",
+      "source": " parameter in the ",
+      "target": " 参数（位于 ",
+      "note": ""
+    },
+    {
+      "id": "b40da9121cf7",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "368d69c49f1e",
+      "source": " node to get a more detailed and smooth liquid mesh. If the mesh looks like a colored noise from the desired camera distance because the triangles are so small, you might want to increase your voxel size to gain performance.",
+      "target": " 节点中）来提高网格分辨率，从而获得更细致、更平滑的液体网格。如果从目标摄像机距离看网格像彩色噪点，说明三角形非常小，可能需要增大体素大小以提升性能。",
+      "note": ""
+    },
+    {
+      "id": "891170b58248",
+      "source": "Whitewater:",
+      "target": "Whitewater（白水）：",
+      "note": ""
+    },
+    {
+      "id": "1e3460167a54",
+      "source": "Show information about whitewater.",
+      "target": "显示白水粒子的信息。",
+      "note": ""
+    },
+    {
+      "id": "00a632219c0b",
+      "source": "Trapped Air:",
+      "target": "Trapped Air：",
+      "note": ""
+    },
+    {
+      "id": "59e01b7aa7b6",
+      "source": "Displays what parts of the liquid are considered trapped air (this is where bubbles can spawn).",
+      "target": "显示液体中哪些部分被视为受困空气（气泡可以在这些区域生成）。",
+      "note": ""
+    },
+    {
+      "id": "b3c5c6617a35",
+      "source": "Trapped air is indicated with yellow and transitions from cyan to purple for non-trapped air.",
+      "target": "受困空气以黄色表示，非受困空气则从青色过渡到紫色。",
+      "note": ""
+    },
+    {
+      "id": "c6555d311134",
+      "source": "This visualization is used in combination with the ",
+      "target": "此可视化需要配合 ",
+      "note": ""
+    },
+    {
+      "id": "879d1d73d37a",
+      "source": "Trapped air: Range",
+      "target": "Trapped air: Range",
+      "note": ""
+    },
+    {
+      "id": "c72bd37724f1",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "185668a2c1f7",
+      "source": "Trapped air: Max Depth",
+      "target": "Trapped air: Max Depth",
+      "note": ""
+    },
+    {
+      "id": "ff954edeb92e",
+      "source": " parameter in the ",
+      "target": " 参数使用，它们位于 ",
+      "note": ""
+    },
+    {
+      "id": "02b9b23e6a8c",
+      "source": "Source",
+      "target": "Source",
+      "note": ""
+    },
+    {
+      "id": "79cab1c35cb1",
+      "source": " tab of the ",
+      "target": " 选项卡中，属于 ",
+      "note": ""
+    },
+    {
+      "id": "25808396ba0e",
+      "source": "Whitewater",
+      "target": "Whitewater",
+      "note": ""
+    },
+    {
+      "id": "71883291423f",
+      "source": " node to define where the bubbles may spawn.\n* Wave Crests:",
+      "target": " 节点，用于定义气泡可以生成的位置。\nWave Crests：",
+      "note": ""
+    },
+    {
+      "id": "25180d1bf0f8",
+      "source": "Displays what parts of the liquid are considered wave crests (this is where foam particles can spawn).",
+      "target": "显示液体中哪些部分被视为波峰（泡沫粒子可以在这些区域生成）。",
+      "note": ""
+    },
+    {
+      "id": "6da340581731",
+      "source": "Wave crests are indicated with yellow and transition from cyan to purple for parts that aren’t considered as wave crests.",
+      "target": "波峰以黄色表示，不被视为波峰的部分则从青色过渡到紫色。",
+      "note": ""
+    },
+    {
+      "id": "3cb55def3093",
+      "source": "This visualization is used in combination with the ",
+      "target": "此可视化需要配合 ",
+      "note": ""
+    },
+    {
+      "id": "12936c261561",
+      "source": "Wave crest: Range",
+      "target": "Wave crest: Range",
+      "note": ""
+    },
+    {
+      "id": "fff264f4fc3c",
+      "source": " parameter in the ",
+      "target": " 参数使用，它位于 ",
+      "note": ""
+    },
+    {
+      "id": "008e8725ea45",
+      "source": "Source",
+      "target": "Source",
+      "note": ""
+    },
+    {
+      "id": "b74a3b5f6952",
+      "source": " tab of the ",
+      "target": " 选项卡中，属于 ",
+      "note": ""
+    },
+    {
+      "id": "390939e4f70e",
+      "source": "Whitewater",
+      "target": "Whitewater",
+      "note": ""
+    },
+    {
+      "id": "a2087afa986c",
+      "source": " node to define where foam may spawn.",
+      "target": " 节点，用于定义泡沫可以生成的位置。",
+      "note": ""
+    },
+    {
+      "id": "16ab2984d17e",
+      "source": "Show Normals:",
+      "target": "Show Normals：",
+      "note": ""
+    },
+    {
+      "id": "eb25f386d218",
+      "source": " Show normal indicator lines for every vertex. The colors represent the direction of the normal.",
+      "target": " 显示每个顶点的法线指示线。颜色表示法线方向。",
+      "note": ""
+    },
+    {
+      "id": "48060e16ec23",
+      "source": "Red indicates the normal is pointing in the X or -X direction, green indicates Y or -Y, and blue indicates Z or -Z.",
+      "target": "红色表示法线指向 X 或 -X 方向，绿色表示 Y 或 -Y，蓝色表示 Z 或 -Z。",
+      "note": ""
+    },
+    {
+      "id": "16fb4823167e",
+      "source": "The colors are blended for directions between axes. For example, a normal pointing between the X and Z axes appears purple. Showing normals helps with seeing the smoothness or any issues with the mesh.",
+      "target": "轴向之间的方向会混合颜色。例如，指向 X 轴和 Z 轴之间的法线会显示为紫色。显示法线有助于查看网格的平滑程度或潜在问题。",
+      "note": ""
+    },
+    {
+      "id": "7c4616ee6530",
+      "source": "For example, it’s useful when tweaking the ",
+      "target": "例如，在调节 ",
+      "note": ""
+    },
+    {
+      "id": "f986e7f60cbb",
+      "source": "SDF smoothing",
+      "target": "SDF smoothing",
+      "note": ""
+    },
+    {
+      "id": "0377e7d27b3f",
+      "source": " parameter in the ",
+      "target": " 参数时很有用，该参数位于 ",
+      "note": ""
+    },
+    {
+      "id": "ba4fd67208ad",
+      "source": "Mesh",
+      "target": "Mesh",
+      "note": ""
+    },
+    {
+      "id": "c020dc6c70b3",
+      "source": " tab of the ",
+      "target": " 选项卡中，属于 ",
+      "note": ""
+    },
+    {
+      "id": "f8d1981f69f2",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "bad02221d0a8",
+      "source": " node!",
+      "target": " 节点！",
+      "note": ""
+    },
+    {
+      "id": "9d95872b5fc7",
+      "source": "Size:",
+      "target": "Size：",
+      "note": ""
+    },
+    {
+      "id": "6f41cc83653e",
+      "source": " Display size (length) of the normal indicator lines.",
+      "target": " 显示法线指示线的大小（长度）。",
+      "note": ""
+    },
+    {
+      "id": "4c4f762fe441",
+      "source": "Liquid Particles:",
+      "target": "Liquid Particles：",
+      "note": ""
+    },
+    {
+      "id": "9aa75c3993de",
+      "source": " Show or hide the liquid particles in the viewport. Show or hide the visualization settings for the liquid particles in the diagnostics panel. You may want to turn ",
+      "target": " 在视口中显示或隐藏液体粒子。显示或隐藏诊断面板中的液体粒子可视化设置。为了更清楚地查看粒子，可以关闭 ",
+      "note": ""
+    },
+    {
+      "id": "dbe3acdda850",
+      "source": "Liquid Mesh",
+      "target": "Liquid Mesh",
+      "note": ""
+    },
+    {
+      "id": "a94cefeabfd9",
+      "source": " off to better see the particles. For more information on what liquid particles are please check our ",
+      "target": "。若要了解什么是液体粒子，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "87aab60d8a0a",
+      "source": "Getting Started With LiquiGen Simulation",
+      "target": "LiquiGen 模拟入门",
+      "note": ""
+    },
+    {
+      "id": "62f4148a3e6c",
+      "source": " section!",
+      "target": " 部分！",
+      "note": ""
+    },
+    {
+      "id": "0e7cf18dfec0",
+      "source": "Sizing:",
+      "target": "Sizing：",
+      "note": ""
+    },
+    {
+      "id": "9895f3408992",
+      "source": "Voxels",
+      "target": "Voxels",
+      "note": ""
+    },
+    {
+      "id": "ccf4f6b2c2ad",
+      "source": " will render the particles as shaded spheres with their size based on the voxel size. ",
+      "target": " 会将粒子渲染为带着色的球体，其大小基于体素大小。",
+      "note": ""
+    },
+    {
+      "id": "16358ce7ae92",
+      "source": "Pixels",
+      "target": "Pixels",
+      "note": ""
+    },
+    {
+      "id": "92fe0cdba996",
+      "source": " will render the particles as non-shaded squares with their size based on the pixel size of your monitor.",
+      "target": " 会将粒子渲染为无着色的方块，其大小基于显示器的像素大小。",
+      "note": ""
+    },
+    {
+      "id": "ecacd337a889",
+      "source": "Size:",
+      "target": "Size：",
+      "note": ""
+    },
+    {
+      "id": "a95766d82757",
+      "source": " Display size of the particles in the viewport. When using ",
+      "target": " 显示视口中粒子的大小。使用 ",
+      "note": ""
+    },
+    {
+      "id": "d2a9d16bcd4b",
+      "source": "Voxels",
+      "target": "Voxels",
+      "note": ""
+    },
+    {
+      "id": "bca5b31af530",
+      "source": " as sizing, 3 means the width of a particle is 3 voxels. When using ",
+      "target": " 作为大小模式时，3 表示一个粒子的宽度为 3 个体素。使用 ",
+      "note": ""
+    },
+    {
+      "id": "f07f05b90e4d",
+      "source": "Pixels",
+      "target": "Pixels",
+      "note": ""
+    },
+    {
+      "id": "a2da8b5d4308",
+      "source": " as sizing, 3 means the width of a particle is 3 pixels.",
+      "target": " 作为大小模式时，3 表示一个粒子的宽度为 3 个像素。",
+      "note": ""
+    },
+    {
+      "id": "5495d4416f17",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "0e5fe8fd2171",
+      "source": "Realistic:",
+      "target": "Realistic：",
+      "note": ""
+    },
+    {
+      "id": "874804d451a9",
+      "source": "Renders the particles as spheres using the liquids ",
+      "target": "使用液体的 ",
+      "note": ""
+    },
+    {
+      "id": "dfd98be60f58",
+      "source": "Albedo",
+      "target": "Albedo",
+      "note": ""
+    },
+    {
+      "id": "236c02c4719e",
+      "source": " color.",
+      "target": " 颜色将粒子渲染为球体。",
+      "note": ""
+    },
+    {
+      "id": "3b13566d2959",
+      "source": "Field Shading:",
+      "target": "Field Shading（场着色）：",
+      "note": ""
+    },
+    {
+      "id": "323a431b42b1",
+      "source": "Renders the particles as spheres colored to display certain particle attributes.",
+      "target": "将粒子渲染为球体，并通过颜色显示特定粒子属性。",
+      "note": ""
+    },
+    {
+      "id": "7b21b27d5c08",
+      "source": "Unique ID:",
+      "target": "Unique ID：",
+      "note": ""
+    },
+    {
+      "id": "5ae36dc16fe2",
+      "source": "Colors are mapped based on the particle ID which is a new integer number that is assigned to each particle when spawned.",
+      "target": "颜色会根据粒子 ID 映射；粒子 ID 是粒子生成时分配给每个粒子的新的整数编号。",
+      "note": ""
+    },
+    {
+      "id": "6f1829512c80",
+      "source": "Each number is only used once per simulation, so died or drained particles still count when setting up a good remap range!",
+      "target": "每个编号在每次模拟中只使用一次，因此死亡或排出的粒子在设置合适的重映射范围时仍会计入！",
+      "note": ""
+    },
+    {
+      "id": "34a80d898b32",
+      "source": "Velocity:",
+      "target": "Velocity：",
+      "note": ""
+    },
+    {
+      "id": "6e0d1c7b2990",
+      "source": "Colors are mapped based on the particle speed.",
+      "target": "颜色会根据粒子速度映射。",
+      "note": ""
+    },
+    {
+      "id": "e5e92b23066e",
+      "source": "Stickiness:",
+      "target": "Stickiness：",
+      "note": ""
+    },
+    {
+      "id": "5ac531dd1203",
+      "source": "Colors are mapped based on the stickiness of the particles. Stickiness is set using the ",
+      "target": "颜色会根据粒子的黏附性映射。黏附性通过 ",
+      "note": ""
+    },
+    {
+      "id": "fc23983d0a6c",
+      "source": "Stickiness",
+      "target": "Stickiness",
+      "note": ""
+    },
+    {
+      "id": "91b05d7264d1",
+      "source": " parameter found in the ",
+      "target": " 参数设置，该参数位于 ",
+      "note": ""
+    },
+    {
+      "id": "e1098acd7563",
+      "source": "Behaviour",
+      "target": "Behaviour",
+      "note": ""
+    },
+    {
+      "id": "f4cfbcd1cd48",
+      "source": " tab of the ",
+      "target": " 选项卡中，属于 ",
+      "note": ""
+    },
+    {
+      "id": "6f0d68973b5e",
+      "source": "Emitter",
+      "target": "Emitter",
+      "note": ""
+    },
+    {
+      "id": "eaf610f7b130",
+      "source": " node.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "989cc5f7dcd8",
+      "source": "Age:",
+      "target": "Age：",
+      "note": ""
+    },
+    {
+      "id": "e8d1175b5164",
+      "source": "Colors are mapped based on the particle age. The age starts counting in seconds from the moment a particle is spawned. You can see the current time in seconds in the timeline editor next to the frame count for reference. The amount in seconds is the amount of frames (or simulation steps) divided by the step rate which is setup in the ",
+      "target": "颜色会根据粒子年龄映射。年龄从粒子生成的那一刻起按秒计数。作为参考，可以在时间轴编辑器中、帧计数旁边看到当前时间（秒）。秒数等于帧数（或模拟步数）除以步进率；步进率在 ",
+      "note": ""
+    },
+    {
+      "id": "cc7d7344fc18",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "47bad51700e4",
+      "source": " tab of the ",
+      "target": " 选项卡中设置，属于 ",
+      "note": ""
+    },
+    {
+      "id": "4e80e94179e0",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "430366da3bc3",
+      "source": " node. This option is only available when the ",
+      "target": " 节点。只有勾选 ",
+      "note": ""
+    },
+    {
+      "id": "e7e34f77a196",
+      "source": "Simulate particle lifetime",
+      "target": "Simulate particle lifetime",
+      "note": ""
+    },
+    {
+      "id": "8dd65ea9c445",
+      "source": " parameter in the ",
+      "target": " 参数时，此选项才可用；该参数位于 ",
+      "note": ""
+    },
+    {
+      "id": "59055b7e8aab",
+      "source": "Lifetime",
+      "target": "Lifetime",
+      "note": ""
+    },
+    {
+      "id": "4a97b0f5183c",
+      "source": " tab of the ",
+      "target": " 选项卡中，属于 ",
+      "note": ""
+    },
+    {
+      "id": "a45b229598c7",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "8408df9c78db",
+      "source": " node is checked!",
+      "target": " 节点！",
+      "note": ""
+    },
+    {
+      "id": "ddeadeba4a1c",
+      "source": "Viscosity:",
+      "target": "Viscosity（黏度）：",
+      "note": ""
+    },
+    {
+      "id": "8f4b3b28c807",
+      "source": "Colors are mapped based on the viscosity of the particles. Viscosity is set using the ",
+      "target": "颜色会根据粒子的黏度映射。黏度通过 ",
+      "note": ""
+    },
+    {
+      "id": "c9e1fab2978d",
+      "source": "Dynamic viscosity coefficient",
+      "target": "Dynamic viscosity coefficient（动态黏度系数）",
+      "note": ""
+    },
+    {
+      "id": "559dba596d2f",
+      "source": " parameter found in the ",
+      "target": " 参数设置，该参数位于 ",
+      "note": ""
+    },
+    {
+      "id": "637070f9a70b",
+      "source": "Behaviour",
+      "target": "Behaviour",
+      "note": ""
+    },
+    {
+      "id": "8c8492364f15",
+      "source": " tab of the ",
+      "target": " 选项卡中，属于 ",
+      "note": ""
+    },
+    {
+      "id": "8002cd1f1ecb",
+      "source": "Emitter",
+      "target": "Emitter",
+      "note": ""
+    },
+    {
+      "id": "784af9bdccbb",
+      "source": " node. This option is only available when the ",
+      "target": " 节点。只有勾选 ",
+      "note": ""
+    },
+    {
+      "id": "d1ff3564e6a8",
+      "source": "Simulate viscosity",
+      "target": "Simulate viscosity（模拟黏度）",
+      "note": ""
+    },
+    {
+      "id": "46a6a19cdc8b",
+      "source": " parameter in the ",
+      "target": " 参数时，此选项才可用；该参数位于 ",
+      "note": ""
+    },
+    {
+      "id": "a96779e4c685",
+      "source": "Viscosity",
+      "target": "Viscosity",
+      "note": ""
+    },
+    {
+      "id": "4afcd0ae95d6",
+      "source": " tab of the ",
+      "target": " 选项卡中，属于 ",
+      "note": ""
+    },
+    {
+      "id": "47910da552ea",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "a85851c90711",
+      "source": " node is checked!",
+      "target": " 节点！",
+      "note": ""
+    },
+    {
+      "id": "a692169ce31a",
+      "source": "The Color Gradient assigns color values based on the selected ",
+      "target": "Color Gradient 会根据所选 ",
+      "note": ""
+    },
+    {
+      "id": "83cfe8be4f30",
+      "source": "Field Shading",
+      "target": "Field Shading（场着色）",
+      "note": ""
+    },
+    {
+      "id": "969691ab5854",
+      "source": " method (Unique ID, Velocity, or Age). Color values are assigned from low values on the left to high values on the right. Each Field Shading method stores its own color gradient settings. For more information on how to use color gradients, please have a look at our ",
+      "target": " 方法（Unique ID、Velocity 或 Age）分配颜色值。颜色值从左侧低值映射到右侧高值。每种 Field Shading（场着色）方法都会保存自己的颜色渐变设置。关于如何使用颜色渐变，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "75ea7ff1ce02",
+      "source": " Color: Gradient",
+      "target": " Color: Gradient",
+      "note": ""
+    },
+    {
+      "id": "b6e299628ff9",
+      "source": " section!",
+      "target": " 部分！",
+      "note": ""
+    },
+    {
+      "id": "7fab5841e9cc",
+      "source": "Remap Range:",
+      "target": "Remap Range：",
+      "note": ""
+    },
+    {
+      "id": "9a3b8c1e501a",
+      "source": " This range slider sets up the value range between which the gradient colors will be mapped. For the most informative results, the minimum value is kept at 0 and the maximum value is set to the number of particles (found in the ",
+      "target": " 此范围滑块设置渐变颜色映射所使用的数值范围。为了获得信息量最高的结果，最小值保持为 0；最大值使用 ",
+      "note": ""
+    },
+    {
+      "id": "08381ef6d53d",
+      "source": "Stats",
+      "target": "Stats",
+      "note": ""
+    },
+    {
+      "id": "33dd8cad6968",
+      "source": " panel under the ",
+      "target": " 面板（位于 ",
+      "note": ""
+    },
+    {
+      "id": "72bfb9344bd5",
+      "source": "View",
+      "target": "View",
+      "note": ""
+    },
+    {
+      "id": "b94dd5f64820",
+      "source": " dropdown menu) for ",
+      "target": " 下拉菜单下）中的粒子数量来对应 ",
+      "note": ""
+    },
+    {
+      "id": "0696e14a0138",
+      "source": "Unique ID",
+      "target": "Unique ID",
+      "note": ""
+    },
+    {
+      "id": "2c1519d6721b",
+      "source": ", to the highest particle speed in m/s for ",
+      "target": "；对于 ",
+      "note": ""
+    },
+    {
+      "id": "0ca826a318ca",
+      "source": "Velocity",
+      "target": "Velocity",
+      "note": ""
+    },
+    {
+      "id": "85b73f096532",
+      "source": ", and to the highest particle age in seconds for ",
+      "target": "，使用最高粒子速度（m/s）；对于 ",
+      "note": ""
+    },
+    {
+      "id": "39293aaa08b7",
+      "source": "Age",
+      "target": "Age",
+      "note": ""
+    },
+    {
+      "id": "af8d3934f4e9",
+      "source": ". For more information on how to use range sliders, please have a look at our ",
+      "target": "，使用最高粒子年龄（秒）。关于如何使用范围滑块，请查看我们的 ",
+      "note": ""
+    },
+    {
+      "id": "8882774ca54d",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "9e77436fff03",
+      "source": " section!",
+      "target": " 部分！",
+      "note": ""
+    },
+    {
+      "id": "a6757a8dcd60",
+      "source": "Whitewater Particles:",
+      "target": "Whitewater Particles（白水粒子）：",
+      "note": ""
+    },
+    {
+      "id": "c71dd57c982f",
+      "source": " Show or hide the whitewater particles in the viewport.",
+      "target": " 在视口中显示或隐藏白水粒子。",
+      "note": ""
+    },
+    {
+      "id": "4d45fb1257a5",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "82957c191251",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "d47f2ec860be",
+      "source": "Models",
+      "target": "模型",
+      "note": ""
+    },
+    {
+      "id": "1704fec2cd87",
+      "source": "This tab deals with the visualization of imported models.",
+      "target": "此选项卡用于可视化导入的模型。",
+      "note": ""
+    },
+    {
+      "id": "abe823a7c808",
+      "source": "Show SDF:",
+      "target": "Show SDF：",
+      "note": ""
+    },
+    {
+      "id": "4b1b6bdf2cbb",
+      "source": " If checked, the SDF of the imported model will be shown instead of the polygon rendering. The SDF (sine distance field) is the voxelized version of the model LiquiGen uses for the simulation. It can be useful to preview this as you can see if the model is properly represented in the simulation. If not, you can lower the absolute voxel size or increase the relative resolution in the ",
+      "target": " 如果勾选，将显示导入模型的 SDF，而不是多边形渲染。SDF（符号距离场）是 LiquiGen 用于模拟的模型体素化版本。预览它会很有用，因为可以看到模型是否在模拟中得到了正确表示。如果没有，可以在 ",
+      "note": ""
+    },
+    {
+      "id": "4af8b4064fa8",
+      "source": "Asset",
+      "target": "Asset",
+      "note": ""
+    },
+    {
+      "id": "891e1ecd508e",
+      "source": " tab of the ",
+      "target": " 选项卡中降低绝对体素大小，或提高相对分辨率；该选项卡属于 ",
+      "note": ""
+    },
+    {
+      "id": "d19c35c99f86",
+      "source": "Import",
+      "target": "Import",
+      "note": ""
+    },
+    {
+      "id": "a0e8050ec1cb",
+      "source": " node.",
+      "target": " 节点。",
+      "note": ""
+    },
+    {
+      "id": "5b4c1849b22b",
+      "source": "Forces",
+      "target": "力",
+      "note": ""
+    },
+    {
+      "id": "4879f5984c4c",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "64186b308c9e",
+      "source": "This tab deals with the visualization of any forces created by ",
+      "target": "此选项卡用于可视化场景中由 ",
+      "note": ""
+    },
+    {
+      "id": "2aab9104eecc",
+      "source": "Force",
+      "target": "Force",
+      "note": ""
+    },
+    {
+      "id": "cf165f8c0aea",
+      "source": " nodes in the scene.",
+      "target": " 节点创建的任何力。",
+      "note": ""
+    },
+    {
+      "id": "a51339a5b483",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "06db9ff94ba8",
+      "source": "Forces",
+      "target": "Forces",
+      "note": ""
+    },
+    {
+      "id": "e5a8eb09adb4",
+      "source": " section selects which forces are displayed.",
+      "target": "”区段用于选择要显示的力。",
+      "note": ""
+    },
+    {
+      "id": "30d6a26ed684",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "000e17078ae5",
+      "source": "Transform",
+      "target": "Transform",
+      "note": ""
+    },
+    {
+      "id": "2aaacc909f84",
+      "source": " section sets the dimensions and position of the visualization box in which the force velocities are displayed.",
+      "target": "”区段用于设置可视化框的尺寸和位置，力场速度会显示在该框中。",
+      "note": ""
+    },
+    {
+      "id": "7e2fbcaa3168",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "d5b3e11109b2",
+      "source": "View",
+      "target": "View",
+      "note": ""
+    },
+    {
+      "id": "ffba179738d4",
+      "source": " section sets how the arrows are placed within the visualization box.",
+      "target": "”区段用于设置箭头在可视化框中的放置方式。",
+      "note": ""
+    },
+    {
+      "id": "235c715f83a7",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "76af22c1eb08",
+      "source": "Arrow",
+      "target": "Arrow",
+      "note": ""
+    },
+    {
+      "id": "d3dd69c1158e",
+      "source": " section sets how the arrows are displayed.",
+      "target": "”区段用于设置箭头的显示方式。",
+      "note": ""
+    },
+    {
+      "id": "64968dff9a1d",
+      "source": "Forces:",
+      "target": "Forces：",
+      "note": ""
+    },
+    {
+      "id": "fd1ed69451ae",
+      "source": "List of all forces. Select a force from the list to display it in the viewport. Multiple forces can be displayed simultaneously with arrows indicating the direction of the combined velocities. Use the ",
+      "target": "所有力的列表。从列表中选择一个力即可在视口中显示。多个力可以同时显示，并用箭头指示合成速度的方向。使用 ",
+      "note": ""
+    },
+    {
+      "id": "93b0defa21d1",
+      "source": "Select All",
+      "target": "Select All",
+      "note": ""
+    },
+    {
+      "id": "d4928770fe23",
+      "source": " checkbox to select or deselect all forces at once. The ",
+      "target": " 复选框可以一次性选择或取消选择所有力。",
+      "note": ""
+    },
+    {
+      "id": "af1a23e28779",
+      "source": " search box filters the list to only display forces with names containing the search term. To prevent forces from appearing in the visualization when their nodes are disconnected or disabled, enable the ",
+      "target": " 搜索框会过滤列表，只显示名称中包含搜索词的力。若要防止节点已断开连接或已禁用的力出现在可视化中，请启用 ",
+      "note": ""
+    },
+    {
+      "id": "46ec3c4eb93c",
+      "source": "Ignore disabled forces",
+      "target": "Ignore disabled forces",
+      "note": ""
+    },
+    {
+      "id": "190cb472e03f",
+      "source": " checkbox.",
+      "target": " 复选框。",
+      "note": ""
+    },
+    {
+      "id": "7b7f34b6e328",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4d427bccb328",
+      "source": "View:",
+      "target": "View：",
+      "note": ""
+    },
+    {
+      "id": "179f59603c8f",
+      "source": "Visual mode:",
+      "target": "Visual mode：",
+      "note": ""
+    },
+    {
+      "id": "f12f38ed3219",
+      "source": "2D: One layer of arrows is visible on a plane (slice). This can give clearer visualization of a force as the arrows don’t overlap as they do in a 3D grid. With this mode selected, the ",
+      "target": "2D：一层箭头显示在一个平面（切片）上。由于箭头不会像 3D 网格中那样相互重叠，因此可以更清楚地可视化力。选择此模式后，",
+      "note": ""
+    },
+    {
+      "id": "9b5ff5d7a198",
+      "source": "Slice",
+      "target": "Slice",
+      "note": ""
+    },
+    {
+      "id": "ed9c02f4ace7",
+      "source": " parameters appear on the bottom of the diagnostics panel to specify the axis and position of the plane.",
+      "target": " 参数会显示在诊断面板底部，用于指定平面的轴向和位置。",
+      "note": ""
+    },
+    {
+      "id": "bab34ac1bfed",
+      "source": "3D: A grid of arrows is visible pointing in the velocity directions in 3D-space. This can give clearer visualization of the velocity orientations.",
+      "target": "3D：箭头网格会在 3D 空间中按速度方向显示。这可以更清楚地可视化速度方向。",
+      "note": ""
+    },
+    {
+      "id": "bca716978c6d",
+      "source": "Sparsity:",
+      "target": "Sparsity：",
+      "note": ""
+    },
+    {
+      "id": "0defd0dc85dd",
+      "source": " Density of visualization arrows. ",
+      "target": " 可视化箭头的密度。",
+      "note": ""
+    },
+    {
+      "id": "1c8501ac2c5f",
+      "source": " means each voxel has an arrow, ",
+      "target": " 表示每个体素都有一个箭头，",
+      "note": ""
+    },
+    {
+      "id": "b64521cd9277",
+      "source": " means every eighth voxel has an arrow.",
+      "target": " 表示每 8 个体素有一个箭头。",
+      "note": ""
+    },
+    {
+      "id": "cdf5675d7104",
+      "source": "Hide Empty:",
+      "target": "Hide Empty：",
+      "note": ""
+    },
+    {
+      "id": "46f734116487",
+      "source": " If checked, arrows are only shown within the simulation tiles. This can give clearer visualization as the force velocities are only shown around the liquid.",
+      "target": " 如果勾选，箭头只会显示在模拟图块内。由于力场速度只显示在液体周围，因此可视化会更清晰。",
+      "note": ""
+    },
+    {
+      "id": "ac97be630f5f",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "11f53f999a2e",
+      "source": "Arrow:",
+      "target": "Arrow：",
+      "note": ""
+    },
+    {
+      "id": "2f69761aba61",
+      "source": "Type:",
+      "target": "Type：",
+      "note": ""
+    },
+    {
+      "id": "a2cddca336ee",
+      "source": " Pick between ",
+      "target": " 在以下两种类型之间选择：",
+      "note": ""
+    },
+    {
+      "id": "532f3d3918fe",
+      "source": " 2D arrows made up of thin lines and ",
+      "target": "由细线构成的 2D 箭头，以及 ",
+      "note": ""
+    },
+    {
+      "id": "dc6f20376099",
+      "source": " 3D arrows made up of 3D shapes. The latter reveals the ",
+      "target": "由 3D 形状构成的 3D 箭头。后者会显示下方的 ",
+      "note": ""
+    },
+    {
+      "id": "37d59fb103b7",
+      "source": "Thickness",
+      "target": "Thickness",
+      "note": ""
+    },
+    {
+      "id": "00b4a7cd2b60",
+      "source": " parameter below.",
+      "target": " 参数。",
+      "note": ""
+    },
+    {
+      "id": "0dbeacdc4c7c",
+      "source": "Source:",
+      "target": "Source：",
+      "note": ""
+    },
+    {
+      "id": "1e97af1b69cd",
+      "source": " Color source of the arrows.",
+      "target": " 箭头的颜色来源。",
+      "note": ""
+    },
+    {
+      "id": "769520a3ec54",
+      "source": "Constant: Sets the color of all arrows to a light blue.",
+      "target": "Constant：将所有箭头的颜色设为浅蓝色。",
+      "note": ""
+    },
+    {
+      "id": "32f4f12c58e7",
+      "source": "Direction: Sets the arrow color based on its direction. The colors are mapped like a color wheel from red in the X axis, green in the Y axis, cyan in the -X axis, to magenta in the -Y axis. Up and down goes from blue in the Z axis to yellow in the -Z axis. The color hues shift gradually between all the directions.",
+      "target": "Direction：根据箭头方向设置箭头颜色。颜色会像色轮一样映射：X 轴为红色，Y 轴为绿色，-X 轴为青色，-Y 轴为洋红色；向上和向下则从 Z 轴的蓝色过渡到 -Z 轴的黄色。色相会在所有方向之间逐渐变化。",
+      "note": ""
+    },
+    {
+      "id": "9932d450de84",
+      "source": "Value: Sets the arrow color based on a velocity range setup with the ",
+      "target": "Value：根据用 ",
+      "note": ""
+    },
+    {
+      "id": "9925e7f6f0d7",
+      "source": " parameter from blue in areas with a low force strenth to cyan to yellow to red in areas with a high force strength.",
+      "target": " 参数设置的速度范围来设置箭头颜色：低力强度区域为蓝色，随后过渡到青色、黄色，高力强度区域为红色。",
+      "note": ""
+    },
+    {
+      "id": "aedfe72d25fc",
+      "source": "Normalize:",
+      "target": "Normalize：",
+      "note": ""
+    },
+    {
+      "id": "69802cf1ce2a",
+      "source": " A value of 1 makes all the arrows the same size, a value of 0 scales the arrows based on a velocity range setup with the ",
+      "target": " 值为 1 时所有箭头大小相同；值为 0 时，会根据用 ",
+      "note": ""
+    },
+    {
+      "id": "f0b448970d30",
+      "source": " parameter.",
+      "target": " 参数设置的速度范围缩放箭头。",
+      "note": ""
+    },
+    {
+      "id": "88a0655fd661",
+      "source": "Size:",
+      "target": "Size：",
+      "note": ""
+    },
+    {
+      "id": "441d10bd02bc",
+      "source": " Sets the size of the arrows. Higher values mean larger arrows.",
+      "target": " 设置箭头大小。值越高，箭头越大。",
+      "note": ""
+    },
+    {
+      "id": "18f583901173",
+      "source": "Thickness:",
+      "target": "Thickness：",
+      "note": ""
+    },
+    {
+      "id": "bd54a57cff56",
+      "source": " Only shows when using the ",
+      "target": " 仅在使用 ",
+      "note": ""
+    },
+    {
+      "id": "add6d3d41609",
+      "source": " 3D arrow option. Thickness of the arrows.",
+      "target": " 3D 箭头选项时显示。箭头的粗细。",
+      "note": ""
+    },
+    {
+      "id": "9dccd2aa393d",
+      "source": " Set the minimum and maximum velocities for mapping the arrow scale and color.",
+      "target": " 设置用于映射箭头缩放和颜色的最小/最大速度。",
+      "note": ""
+    },
+    {
+      "id": "561fb2a58d69",
+      "source": "Transform:",
+      "target": "Transform：",
+      "note": ""
+    },
+    {
+      "id": "db3ae006e14e",
+      "source": "Position:",
+      "target": "Position：",
+      "note": ""
+    },
+    {
+      "id": "4d4defe4fef8",
+      "source": " Position of the visualization box in 3D space.",
+      "target": " 可视化框在 3D 空间中的位置。",
+      "note": ""
+    },
+    {
+      "id": "4d063053f03e",
+      "source": "Size:",
+      "target": "Size：",
+      "note": ""
+    },
+    {
+      "id": "986ab0b30997",
+      "source": " Dimensions of the visualization box in all three axis.",
+      "target": " 可视化框在三个轴向上的尺寸。",
+      "note": ""
+    },
+    {
+      "id": "2cc51e39e283",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "b5f79e0aa24b",
+      "source": "Slice:",
+      "target": "Slice：",
+      "note": ""
+    },
+    {
+      "id": "51f55c181714",
+      "source": " This section appears when the ",
+      "target": " 当 ",
+      "note": ""
+    },
+    {
+      "id": "b5ac888e11ac",
+      "source": "Visual mode",
+      "target": "Visual mode",
+      "note": ""
+    },
+    {
+      "id": "23319ff63961",
+      "source": " is set to ",
+      "target": " 设置为 ",
+      "note": ""
+    },
+    {
+      "id": "d3dc254313d7",
+      "source": " to specify the axis and position of the visualization slice. The slice is the tansparent grey plane containing the arrows.",
+      "target": " 时，此区段会出现，用于指定可视化切片的轴向和位置。切片是包含箭头的透明灰色平面。",
+      "note": ""
+    },
+    {
+      "id": "25ae39cc480d",
+      "source": "Slice Axis:",
+      "target": "Slice Axis：",
+      "note": ""
+    },
+    {
+      "id": "cbbf9fb62062",
+      "source": " Specify if the slice is oriented along the X,Y, or Z axis.",
+      "target": " 指定切片是否沿 X、Y 或 Z 轴定向。",
+      "note": ""
+    },
+    {
+      "id": "931960fe28a3",
+      "source": "Slice offset:",
+      "target": "Slice offset：",
+      "note": ""
+    },
+    {
+      "id": "763f1e7da75e",
+      "source": " Specify the slice position in the force visualization box. 0 means all the way at the negative side of the slice axis 1 means all the way at the positive side of the slice axis.",
+      "target": " 指定切片在力可视化框中的位置。0 表示切片轴负方向的最远端，1 表示切片轴正方向的最远端。",
+      "note": ""
+    },
+    {
+      "id": "b2f22f64a581",
+      "source": "Velocity",
+      "target": "速度",
+      "note": ""
+    },
+    {
+      "id": "abe13d0fec2a",
+      "source": "This tab deals with the visualization of the velocities of the liquid.",
+      "target": "此选项卡用于可视化液体的速度。",
+      "note": ""
+    },
+    {
+      "id": "ddc91f48be71",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "91761f42f042",
+      "source": "View:",
+      "target": "View：",
+      "note": ""
+    },
+    {
+      "id": "7f696289e83a",
+      "source": " Sets how the arrows are placed in the scene.",
+      "target": " 设置箭头在场景中的放置方式。",
+      "note": ""
+    },
+    {
+      "id": "e8918b2ea67e",
+      "source": "Visual type:",
+      "target": "Visual type：",
+      "note": ""
+    },
+    {
+      "id": "5c7885ebd269",
+      "source": "Field: Arrows are placed in a grid.",
+      "target": "Field（场）：箭头放置在网格中。",
+      "note": ""
+    },
+    {
+      "id": "2ffab06af2b2",
+      "source": "Liquid Particles: Arrows are placed on the liquid particles.",
+      "target": "Liquid Particles：箭头放置在液体粒子上。",
+      "note": ""
+    },
+    {
+      "id": "93bc0d14bf54",
+      "source": "Whitewater Particles: Arrows are placed on the whitewater particles.",
+      "target": "Whitewater Particles（白水粒子）：箭头放置在白水粒子上。",
+      "note": ""
+    },
+    {
+      "id": "548809d7502d",
+      "source": "Visual mode:",
+      "target": "Visual mode：",
+      "note": ""
+    },
+    {
+      "id": "f0817234300b",
+      "source": "2D: One layer of arrows is visible on a plane (slice). This can give clearer visualization as the arrows don’t overlap as they do in a 3D grid. With this mode selected, the ",
+      "target": "2D：一层箭头显示在一个平面（切片）上。由于箭头不会像 3D 网格中那样相互重叠，因此可视化会更清晰。选择此模式后，",
+      "note": ""
+    },
+    {
+      "id": "1ecdc4726d44",
+      "source": "Transform",
+      "target": "Transform",
+      "note": ""
+    },
+    {
+      "id": "d3f4f1ba6024",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "51529c9c251f",
+      "source": "Slice",
+      "target": "Slice",
+      "note": ""
+    },
+    {
+      "id": "7ec302fa7f9b",
+      "source": " sections appear on the bottom of the diagnostics panel to specify the size, axis, and position of the plane.",
+      "target": " 区段会显示在诊断面板底部，用于指定平面的大小、轴向和位置。",
+      "note": ""
+    },
+    {
+      "id": "9255997ab0ee",
+      "source": "3D: A grid of arrows is visible pointing in the velocity directions in 3D-space. This can give clearer visualization of the velocity orientations.",
+      "target": "3D：箭头网格会在 3D 空间中按速度方向显示。这可以更清楚地可视化速度方向。",
+      "note": ""
+    },
+    {
+      "id": "b3705ad2ecf5",
+      "source": "Sparsity:",
+      "target": "Sparsity：",
+      "note": ""
+    },
+    {
+      "id": "1210606d20ed",
+      "source": " Density of visualization arrows. ",
+      "target": " 可视化箭头的密度。",
+      "note": ""
+    },
+    {
+      "id": "558c3a937b3e",
+      "source": " means each voxel has an arrow, ",
+      "target": " 表示每个体素都有一个箭头，",
+      "note": ""
+    },
+    {
+      "id": "504736d2cf1c",
+      "source": " means every eighth voxel has an arrow. When using ",
+      "target": " 表示每 8 个体素有一个箭头。使用 ",
+      "note": ""
+    },
+    {
+      "id": "6400e2254882",
+      "source": "Liquid Particles",
+      "target": "Liquid Particles",
+      "note": ""
+    },
+    {
+      "id": "7ce76d813974",
+      "source": " or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "750a334c4dbe",
+      "source": "Whitewater Particles",
+      "target": "Whitewater Particles（白水粒子）",
+      "note": ""
+    },
+    {
+      "id": "7a90c1e63962",
+      "source": " as the visual type, ",
+      "target": " 作为可视化类型时，",
+      "note": ""
+    },
+    {
+      "id": "3b9f3d3cbeb5",
+      "source": " means every particle has an arrow, ",
+      "target": " 表示每个粒子都有一个箭头，",
+      "note": ""
+    },
+    {
+      "id": "f2b8cf0d93b6",
+      "source": "X512",
+      "target": "X512",
+      "note": ""
+    },
+    {
+      "id": "347d30edf985",
+      "source": " means every 512th particle has an arrow.",
+      "target": " 表示每 512 个粒子有一个箭头。",
+      "note": ""
+    },
+    {
+      "id": "796e48fa0fb8",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "34e0e0337c4a",
+      "source": "Arrow:",
+      "target": "Arrow：",
+      "note": ""
+    },
+    {
+      "id": "0500af7bd9e7",
+      "source": "Type:",
+      "target": "Type：",
+      "note": ""
+    },
+    {
+      "id": "c508e2b98b3c",
+      "source": " Pick between ",
+      "target": " 在以下两种类型之间选择：",
+      "note": ""
+    },
+    {
+      "id": "82cabe54960d",
+      "source": " 2D arrows made up of thin lines and ",
+      "target": "由细线构成的 2D 箭头，以及 ",
+      "note": ""
+    },
+    {
+      "id": "ee1d32d30bcc",
+      "source": " 3D arrows made up of 3D shapes. The latter reveals the ",
+      "target": "由 3D 形状构成的 3D 箭头。后者会显示下方的 ",
+      "note": ""
+    },
+    {
+      "id": "6694a4138729",
+      "source": "Thickness",
+      "target": "Thickness",
+      "note": ""
+    },
+    {
+      "id": "a479dff79e04",
+      "source": " parameter below.",
+      "target": " 参数。",
+      "note": ""
+    },
+    {
+      "id": "d4619a029c41",
+      "source": "Source:",
+      "target": "Source：",
+      "note": ""
+    },
+    {
+      "id": "d6c324905f43",
+      "source": " Color source of the arrows.",
+      "target": " 箭头的颜色来源。",
+      "note": ""
+    },
+    {
+      "id": "54439f55bd13",
+      "source": "Constant:",
+      "target": "Constant：",
+      "note": ""
+    },
+    {
+      "id": "a522440bd51d",
+      "source": "Sets the color of all arrows to a light blue.",
+      "target": "将所有箭头的颜色设为浅蓝色。",
+      "note": ""
+    },
+    {
+      "id": "768babb360e7",
+      "source": "Direction:",
+      "target": "Direction：",
+      "note": ""
+    },
+    {
+      "id": "0755687a55d5",
+      "source": "Sets the arrow color based on its direction. The colors are mapped like a color wheel from red in the X axis, green in the Y axis, cyan in the -X axis, to magenta in the -Y axis. Up and down goes from blue in the Z axis to yellow in the -Z axis. The color hues shift gradually between all the directions.",
+      "target": "根据箭头方向设置箭头颜色。颜色会像色轮一样映射：X 轴为红色，Y 轴为绿色，-X 轴为青色，-Y 轴为洋红色；向上和向下则从 Z 轴的蓝色过渡到 -Z 轴的黄色。色相会在所有方向之间逐渐变化。",
+      "note": ""
+    },
+    {
+      "id": "f78c821cd002",
+      "source": "Value:",
+      "target": "Value：",
+      "note": ""
+    },
+    {
+      "id": "2219900b9b6b",
+      "source": "Sets the arrow color based on a velocity range setup with the ",
+      "target": "根据用 ",
+      "note": ""
+    },
+    {
+      "id": "7e30c0823177",
+      "source": " parameter from blue in areas with low velocity to cyan to yellow to red in areas with high velocity.",
+      "target": " 参数设置的速度范围来设置箭头颜色：低速度区域为蓝色，随后过渡到青色、黄色，高速度区域为红色。",
+      "note": ""
+    },
+    {
+      "id": "821fef14de26",
+      "source": "Normalize:",
+      "target": "Normalize：",
+      "note": ""
+    },
+    {
+      "id": "ea2d12eaac66",
+      "source": " A value of 1 makes all the arrows the same size, a value of 0 scales the arrows based on a velocity range setup with the ",
+      "target": " 值为 1 时所有箭头大小相同；值为 0 时，会根据用 ",
+      "note": ""
+    },
+    {
+      "id": "c6958c886b60",
+      "source": " parameter.",
+      "target": " 参数设置的速度范围缩放箭头。",
+      "note": ""
+    },
+    {
+      "id": "f4cf09055d58",
+      "source": "Size:",
+      "target": "Size：",
+      "note": ""
+    },
+    {
+      "id": "3f82c22728f2",
+      "source": " Sets the size of the arrows. Higher values mean larger arrows.",
+      "target": " 设置箭头大小。值越高，箭头越大。",
+      "note": ""
+    },
+    {
+      "id": "33aec4e51ddb",
+      "source": "Thickness:",
+      "target": "Thickness：",
+      "note": ""
+    },
+    {
+      "id": "64fc6f63f92d",
+      "source": " Only shows when using the ",
+      "target": " 仅在使用 ",
+      "note": ""
+    },
+    {
+      "id": "d7dc410aa500",
+      "source": " 3D arrow option. Thickness of the arrows.",
+      "target": " 3D 箭头选项时显示。箭头的粗细。",
+      "note": ""
+    },
+    {
+      "id": "8143896d2f3a",
+      "source": " Set the minimum and maximum velocities for mapping the arrow scale and color.",
+      "target": " 设置用于映射箭头缩放和颜色的最小/最大速度。",
+      "note": ""
+    },
+    {
+      "id": "2430abd7f086",
+      "source": "The following sections appear when the ",
+      "target": "当 ",
+      "note": ""
+    },
+    {
+      "id": "2bc852e3a482",
+      "source": "Visual mode",
+      "target": "Visual mode",
+      "note": ""
+    },
+    {
+      "id": "97ea8339b769",
+      "source": " is set to ",
+      "target": " 设置为 ",
+      "note": ""
+    },
+    {
+      "id": "0167f74d0168",
+      "source": " to specify the axis, size, and position of the visualization slice. The slice is the tansparent grey plane containing the arrows.",
+      "target": " 时，以下区段会出现，用于指定可视化切片的轴向、大小和位置。切片是包含箭头的透明灰色平面。",
+      "note": ""
+    },
+    {
+      "id": "52eab69b2f00",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "a8dbc3b960d3",
+      "source": "Transform:",
+      "target": "Transform：",
+      "note": ""
+    },
+    {
+      "id": "7ec7a9eab4d5",
+      "source": "Position:",
+      "target": "Position：",
+      "note": ""
+    },
+    {
+      "id": "e3e752ab00ec",
+      "source": " Position of the visualization box in 3D space.",
+      "target": " 可视化框在 3D 空间中的位置。",
+      "note": ""
+    },
+    {
+      "id": "571e5da23858",
+      "source": "Size:",
+      "target": "Size：",
+      "note": ""
+    },
+    {
+      "id": "319124f5240e",
+      "source": " Dimensions of the visualization box in all three axis.",
+      "target": " 可视化框在三个轴向上的尺寸。",
+      "note": ""
+    },
+    {
+      "id": "20733ba89098",
+      "source": "Slice:",
+      "target": "Slice：",
+      "note": ""
+    },
+    {
+      "id": "75636b7775af",
+      "source": " This section appears when the ",
+      "target": " 当 ",
+      "note": ""
+    },
+    {
+      "id": "af22d1e39de7",
+      "source": "Visual mode",
+      "target": "Visual mode",
+      "note": ""
+    },
+    {
+      "id": "a88e59009542",
+      "source": " is set to ",
+      "target": " 设置为 ",
+      "note": ""
+    },
+    {
+      "id": "348140b43c1b",
+      "source": " to specify the axis and position of the visualization slice. The slice is the tansparent grey plane containing the arrows.",
+      "target": " 时，此区段会出现，用于指定可视化切片的轴向和位置。切片是包含箭头的透明灰色平面。",
+      "note": ""
+    },
+    {
+      "id": "4ce773bc1a73",
+      "source": "Slice Axis:",
+      "target": "Slice Axis：",
+      "note": ""
+    },
+    {
+      "id": "78497d5df56d",
+      "source": " Specify if the slice is oriented along the X,Y, or Z axis.",
+      "target": " 指定切片是否沿 X、Y 或 Z 轴定向。",
+      "note": ""
+    },
+    {
+      "id": "3161d00084d7",
+      "source": "Slice offset:",
+      "target": "Slice offset：",
+      "note": ""
+    },
+    {
+      "id": "ebbbe062a111",
+      "source": " Specify the slice position in the velocity visualization box. 0 means all the way at the negative side of the slice axis 1 means all the way at the positive side of the slice axis.",
+      "target": " 指定切片在速度可视化框中的位置。0 表示切片轴负方向的最远端，1 表示切片轴正方向的最远端。",
+      "note": ""
+    },
+    {
+      "id": "aa0877399dec",
+      "source": "Domain",
+      "target": "域",
+      "note": ""
+    },
+    {
+      "id": "1de7283c8142",
+      "source": "This tab deals with displaying the area where the simulation takes place.",
+      "target": "此选项卡用于显示模拟发生的区域。",
+      "note": ""
+    },
+    {
+      "id": "93d736b1bf21",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "fcd2dc410d4d",
+      "source": "Bounding Box:",
+      "target": "Bounding Box：",
+      "note": ""
+    },
+    {
+      "id": "a2144f9b77c2",
+      "source": " Shows a purple wireframe box displaying the smallest box to fit around all active voxels. It is similar to the bounding box you see with non-sparse solvers but here, the box shrinks and grows based on the simulation and the empty space within it doesn’t take computer resources.",
+      "target": " 显示一个紫色线框框体，表示能包住所有活动体素的最小盒子。它类似于非稀疏求解器中的边界框，但这里的框体会根据模拟收缩和扩展，其中的空白空间不会占用计算资源。",
+      "note": ""
+    },
+    {
+      "id": "0cc7fb771707",
+      "source": "Tiles:",
+      "target": "Tiles：",
+      "note": ""
+    },
+    {
+      "id": "6cff44985d2c",
+      "source": " A tile is a box of 8 voxels cubed. The simulation takes place within the tiles.",
+      "target": " 一个图块是 8 个体素见方的盒子。模拟在这些图块内进行。",
+      "note": ""
+    },
+    {
+      "id": "dabe7b4aff31",
+      "source": "Main Liquid:",
+      "target": "Main Liquid：",
+      "note": ""
+    },
+    {
+      "id": "2d14c01b9bfa",
+      "source": " Shows the simulation tiles for the liquid particles as green wireframe boxes.",
+      "target": " 以绿色线框框体显示液体粒子的模拟图块。",
+      "note": ""
+    },
+    {
+      "id": "3fb506db1346",
+      "source": "Whitewater:",
+      "target": "Whitewater（白水）：",
+      "note": ""
+    },
+    {
+      "id": "32c0efb3fc7e",
+      "source": " Shows the simulation tiles for the whitewater particles as white wireframe boxes.",
+      "target": " 以白色线框框体显示白水粒子的模拟图块。",
+      "note": ""
+    },
+    {
+      "id": "559e6cf4137a",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "c7ba39e150a9",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "7898ee000e41",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "6ee754a25ee5",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "fb811bb39b6c",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "5cf1a682c557",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "877b21e49112",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "90573d1b14bf",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "b9281df5d246",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "4b38bed2c8f8",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "2b0088f0df4d",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "c724571c1851",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "6973749497b8",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "41f6f72bd646",
+      "source": "Liquid",
+      "target": "液体",
+      "note": ""
+    },
+    {
+      "id": "9f2e6056e909",
+      "source": "Models",
+      "target": "模型",
+      "note": ""
+    },
+    {
+      "id": "6e6e8ea054fb",
+      "source": "Forces",
+      "target": "力",
+      "note": ""
+    },
+    {
+      "id": "8923cde8a832",
+      "source": "Velocity",
+      "target": "速度",
+      "note": ""
+    },
+    {
+      "id": "38bbc22cf919",
+      "source": "Domain",
+      "target": "域",
+      "note": ""
+    }
+  ]
+}

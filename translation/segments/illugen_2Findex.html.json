@@ -1,0 +1,866 @@
+{
+  "path": "illugen/index.html",
+  "segment_count": 86,
+  "segments": [
+    {
+      "id": "1d0686ae64be",
+      "path": "illugen/index.html",
+      "start": 679,
+      "end": 724,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "IlluGen Documentation - JangaFX Documentation",
+      "source_text": "IlluGen Documentation - JangaFX Documentation"
+    },
+    {
+      "id": "a435ba8c8ff2",
+      "path": "illugen/index.html",
+      "start": 5278,
+      "end": 5301,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "3a7d3c10731b",
+      "path": "illugen/index.html",
+      "start": 5396,
+      "end": 5426,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "239ec30f69b8",
+      "path": "illugen/index.html",
+      "start": 5622,
+      "end": 5652,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "0e00d1d19470",
+      "path": "illugen/index.html",
+      "start": 5834,
+      "end": 5855,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "239621affe96",
+      "path": "illugen/index.html",
+      "start": 6048,
+      "end": 6086,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "517b77dfcd89",
+      "path": "illugen/index.html",
+      "start": 6476,
+      "end": 6508,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "1c522a722f8c",
+      "path": "illugen/index.html",
+      "start": 7511,
+      "end": 7533,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "d4e2f4ca2b61",
+      "path": "illugen/index.html",
+      "start": 7711,
+      "end": 7743,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "dbf510723771",
+      "path": "illugen/index.html",
+      "start": 7927,
+      "end": 7942,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "9db9e6fa5db9",
+      "path": "illugen/index.html",
+      "start": 8065,
+      "end": 8075,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "692297c23082",
+      "path": "illugen/index.html",
+      "start": 8253,
+      "end": 8285,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "3a9d99b788ee",
+      "path": "illugen/index.html",
+      "start": 8477,
+      "end": 8491,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "7d6c578aea01",
+      "path": "illugen/index.html",
+      "start": 8604,
+      "end": 8612,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "fa943a78695b",
+      "path": "illugen/index.html",
+      "start": 8726,
+      "end": 8735,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "ad7661e3adf5",
+      "path": "illugen/index.html",
+      "start": 8874,
+      "end": 8887,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "f0d6b86deed0",
+      "path": "illugen/index.html",
+      "start": 9065,
+      "end": 9097,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "b49ee0c9e52c",
+      "path": "illugen/index.html",
+      "start": 9306,
+      "end": 9319,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "32fa48417d8d",
+      "path": "illugen/index.html",
+      "start": 9461,
+      "end": 9480,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "bfdbb2f450a6",
+      "path": "illugen/index.html",
+      "start": 9606,
+      "end": 9611,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "2e9c75d88394",
+      "path": "illugen/index.html",
+      "start": 9739,
+      "end": 9746,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "b7d7b445880d",
+      "path": "illugen/index.html",
+      "start": 9871,
+      "end": 9875,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "b4180a18431e",
+      "path": "illugen/index.html",
+      "start": 10012,
+      "end": 10032,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "644a3cf1dd69",
+      "path": "illugen/index.html",
+      "start": 10162,
+      "end": 10171,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "f98d48b9fe04",
+      "path": "illugen/index.html",
+      "start": 10303,
+      "end": 10315,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "edcab706890e",
+      "path": "illugen/index.html",
+      "start": 10445,
+      "end": 10463,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "5d82745c1514",
+      "path": "illugen/index.html",
+      "start": 10600,
+      "end": 10616,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "41101718e264",
+      "path": "illugen/index.html",
+      "start": 10758,
+      "end": 10779,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "017a4d1d35b0",
+      "path": "illugen/index.html",
+      "start": 10908,
+      "end": 10916,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "ac7bcb94f091",
+      "path": "illugen/index.html",
+      "start": 11046,
+      "end": 11056,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "d27cae352b22",
+      "path": "illugen/index.html",
+      "start": 11190,
+      "end": 11203,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "0ee7d63bc9c0",
+      "path": "illugen/index.html",
+      "start": 11324,
+      "end": 11327,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "04f1d60c0cb2",
+      "path": "illugen/index.html",
+      "start": 11445,
+      "end": 11467,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "758d774f4d3e",
+      "path": "illugen/index.html",
+      "start": 11645,
+      "end": 11677,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "78a25987c471",
+      "path": "illugen/index.html",
+      "start": 11861,
+      "end": 11876,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "1308f5ac1c90",
+      "path": "illugen/index.html",
+      "start": 11999,
+      "end": 12009,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "1dac3f32e582",
+      "path": "illugen/index.html",
+      "start": 12187,
+      "end": 12219,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "c1900043eaaa",
+      "path": "illugen/index.html",
+      "start": 12411,
+      "end": 12425,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "221fa19304f6",
+      "path": "illugen/index.html",
+      "start": 12538,
+      "end": 12546,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "408760940b56",
+      "path": "illugen/index.html",
+      "start": 12660,
+      "end": 12669,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "0e60017cb890",
+      "path": "illugen/index.html",
+      "start": 12808,
+      "end": 12821,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "ffb0ab336cbd",
+      "path": "illugen/index.html",
+      "start": 12999,
+      "end": 13031,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "5548b1455acb",
+      "path": "illugen/index.html",
+      "start": 13238,
+      "end": 13249,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "fef7d6a2ee0a",
+      "path": "illugen/index.html",
+      "start": 13391,
+      "end": 13410,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "f9a64e8e6da2",
+      "path": "illugen/index.html",
+      "start": 13536,
+      "end": 13541,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "eeb1013d9d22",
+      "path": "illugen/index.html",
+      "start": 13669,
+      "end": 13676,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "9da95d526865",
+      "path": "illugen/index.html",
+      "start": 13801,
+      "end": 13805,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "12dd77ab6cfa",
+      "path": "illugen/index.html",
+      "start": 13942,
+      "end": 13962,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "e4cde20984f7",
+      "path": "illugen/index.html",
+      "start": 14096,
+      "end": 14109,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "c33e31ac66b1",
+      "path": "illugen/index.html",
+      "start": 14241,
+      "end": 14253,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "2945a9eb0e8a",
+      "path": "illugen/index.html",
+      "start": 14383,
+      "end": 14401,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "55aa2c1f7f4e",
+      "path": "illugen/index.html",
+      "start": 14538,
+      "end": 14554,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "267707eb22f0",
+      "path": "illugen/index.html",
+      "start": 14696,
+      "end": 14717,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "88442fb89a4a",
+      "path": "illugen/index.html",
+      "start": 14846,
+      "end": 14854,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "8896c24a1128",
+      "path": "illugen/index.html",
+      "start": 14988,
+      "end": 15001,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "5d2d3bf7bbdd",
+      "path": "illugen/index.html",
+      "start": 15133,
+      "end": 15144,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "a1a19f5aaa53",
+      "path": "illugen/index.html",
+      "start": 15265,
+      "end": 15268,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "d29e93b546a2",
+      "path": "illugen/index.html",
+      "start": 15381,
+      "end": 15402,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "d317550112a3",
+      "path": "illugen/index.html",
+      "start": 15493,
+      "end": 15513,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "34d20dda0eeb",
+      "path": "illugen/index.html",
+      "start": 15607,
+      "end": 15629,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "9f6a45fa477b",
+      "path": "illugen/index.html",
+      "start": 16042,
+      "end": 16053,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "dc898d52f65b",
+      "path": "illugen/index.html",
+      "start": 16273,
+      "end": 16311,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "015a4f4dd779",
+      "path": "illugen/index.html",
+      "start": 16730,
+      "end": 16762,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "c82b10207d70",
+      "path": "illugen/index.html",
+      "start": 16981,
+      "end": 17002,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "48fe708f30d7",
+      "path": "illugen/index.html",
+      "start": 17160,
+      "end": 17167,
+      "line": 258,
+      "parent_path": "div/article/section/div/p",
+      "source_raw": "Warning",
+      "source_text": "Warning"
+    },
+    {
+      "id": "163250b174d8",
+      "path": "illugen/index.html",
+      "start": 17175,
+      "end": 17262,
+      "line": 259,
+      "parent_path": "div/article/section/div/p",
+      "source_raw": "Documentation for IlluGen is still work in progress and will be released in the future.",
+      "source_text": "Documentation for IlluGen is still work in progress and will be released in the future."
+    },
+    {
+      "id": "1aaa14a37264",
+      "path": "illugen/index.html",
+      "start": 17270,
+      "end": 17384,
+      "line": 260,
+      "parent_path": "div/article/section/div/p",
+      "source_raw": "In the meantime please use the resources below in order to learn using IlluGen or in case you might need any help.",
+      "source_text": "In the meantime please use the resources below in order to learn using IlluGen or in case you might need any help."
+    },
+    {
+      "id": "aeebc58b4e3a",
+      "path": "illugen/index.html",
+      "start": 17487,
+      "end": 17494,
+      "line": 263,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "Discord",
+      "source_text": "Discord"
+    },
+    {
+      "id": "1b48f811ca56",
+      "path": "illugen/index.html",
+      "start": 17498,
+      "end": 17578,
+      "line": 263,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": ": Chat with other users, leave feedback, get the latest announcements, and more!",
+      "source_text": ": Chat with other users, leave feedback, get the latest announcements, and more!"
+    },
+    {
+      "id": "b8262c56ed5e",
+      "path": "illugen/index.html",
+      "start": 17677,
+      "end": 17690,
+      "line": 264,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "Email Support",
+      "source_text": "Email Support"
+    },
+    {
+      "id": "8e22b7b50e9d",
+      "path": "illugen/index.html",
+      "start": 17776,
+      "end": 17782,
+      "line": 265,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "Forums",
+      "source_text": "Forums"
+    },
+    {
+      "id": "8aac514ddc2c",
+      "path": "illugen/index.html",
+      "start": 17907,
+      "end": 17914,
+      "line": 266,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "Youtube",
+      "source_text": "Youtube"
+    },
+    {
+      "id": "7021c074666d",
+      "path": "illugen/index.html",
+      "start": 17918,
+      "end": 17957,
+      "line": 266,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": ": Tutorials and Livestreams for IlluGen",
+      "source_text": ": Tutorials and Livestreams for IlluGen"
+    },
+    {
+      "id": "a048e4ed4534",
+      "path": "illugen/index.html",
+      "start": 18039,
+      "end": 18054,
+      "line": 267,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "IlluGen Roadmap",
+      "source_text": "IlluGen Roadmap"
+    },
+    {
+      "id": "8ef48ab2a882",
+      "path": "illugen/index.html",
+      "start": 18058,
+      "end": 18115,
+      "line": 267,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": ": See what features are planned for the future of IlluGen",
+      "source_text": ": See what features are planned for the future of IlluGen"
+    },
+    {
+      "id": "0c3923717cf6",
+      "path": "illugen/index.html",
+      "start": 18395,
+      "end": 18399,
+      "line": 279,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "f9470f946b2b",
+      "path": "illugen/index.html",
+      "start": 18465,
+      "end": 18485,
+      "line": 281,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "17c0971fba5e",
+      "path": "illugen/index.html",
+      "start": 18870,
+      "end": 18878,
+      "line": 289,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "0fc94717d209",
+      "path": "illugen/index.html",
+      "start": 18961,
+      "end": 18964,
+      "line": 292,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "cad59d83dff8",
+      "path": "illugen/index.html",
+      "start": 19150,
+      "end": 19210,
+      "line": 299,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "27116c936fd9",
+      "path": "illugen/index.html",
+      "start": 19216,
+      "end": 19239,
+      "line": 301,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "b418d201dae2",
+      "path": "illugen/index.html",
+      "start": 19277,
+      "end": 19283,
+      "line": 302,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "21b48804f9a4",
+      "path": "illugen/index.html",
+      "start": 19287,
+      "end": 19292,
+      "line": 302,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "efd6d787c222",
+      "path": "illugen/index.html",
+      "start": 19342,
+      "end": 19352,
+      "line": 302,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "73708184c3cb",
+      "path": "illugen/index.html",
+      "start": 19356,
+      "end": 19384,
+      "line": 302,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "c3d1e6562fcf",
+      "path": "illugen/index.html",
+      "start": 19428,
+      "end": 19432,
+      "line": 304,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

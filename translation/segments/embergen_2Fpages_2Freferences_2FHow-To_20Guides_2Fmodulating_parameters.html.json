@@ -1,0 +1,2086 @@
+{
+  "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+  "segment_count": 208,
+  "segments": [
+    {
+      "id": "9160494c1e24",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 695,
+      "end": 740,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Modulating Parameters - JangaFX Documentation",
+      "source_text": "Modulating Parameters - JangaFX Documentation"
+    },
+    {
+      "id": "86d43b4ede80",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 5330,
+      "end": 5353,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "f383f39f923f",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 5448,
+      "end": 5478,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "86aeaf14552b",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 5674,
+      "end": 5704,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "90096293e218",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 5895,
+      "end": 5916,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "5cab45310d82",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 6109,
+      "end": 6147,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "4395a9233242",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 6530,
+      "end": 6562,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "216f1c99e0ca",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 7606,
+      "end": 7628,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "b574628f04cb",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 7817,
+      "end": 7849,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "bb953842e5a9",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8037,
+      "end": 8052,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "786539e36d64",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8157,
+      "end": 8167,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "1a14347e71b4",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8356,
+      "end": 8388,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "8a789ed88523",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8570,
+      "end": 8584,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "1e8d5467036c",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8671,
+      "end": 8679,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "383ef8c918b8",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8767,
+      "end": 8776,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "1c82e6f3b52b",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8878,
+      "end": 8891,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "a7c7ae08ff7e",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9080,
+      "end": 9112,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "95ceea27d36f",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9292,
+      "end": 9305,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "9632d4104f31",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9402,
+      "end": 9421,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "321804ab6ac7",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9502,
+      "end": 9507,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "bd74b1a4822c",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9590,
+      "end": 9597,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "b3042cf2d476",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9677,
+      "end": 9681,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "cdc0d841362c",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9773,
+      "end": 9793,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "484faf949c2e",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9878,
+      "end": 9887,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "1c9b4575e0a1",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9974,
+      "end": 9986,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "efe4eb68b125",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10071,
+      "end": 10089,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "6b2cafaa95a9",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10181,
+      "end": 10197,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "97f8f253b29c",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10298,
+      "end": 10319,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "4d95948e34b3",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10403,
+      "end": 10411,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "070af648b493",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10496,
+      "end": 10506,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "7f76a9e0bb6d",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10595,
+      "end": 10608,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "8ea2076102eb",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10717,
+      "end": 10720,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "e34ebb6b79f0",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10847,
+      "end": 10869,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "2eb86db84a86",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11047,
+      "end": 11079,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "d2a5b08aff9f",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11272,
+      "end": 11287,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "cec504f71a1a",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11419,
+      "end": 11429,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "82cedd066658",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11607,
+      "end": 11639,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "06146397a474",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11840,
+      "end": 11854,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "c41162dc5b91",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11976,
+      "end": 11984,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "a6207949f982",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 12107,
+      "end": 12116,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "5544cdac8dc1",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 12264,
+      "end": 12277,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "6cea606ec293",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 12455,
+      "end": 12487,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "80d65494d9fd",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 12703,
+      "end": 12714,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "cd13eaff740d",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 12865,
+      "end": 12884,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "4a16ca6b07fb",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13019,
+      "end": 13024,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "b2cacd0a4690",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13161,
+      "end": 13168,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "730ac0549de2",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13302,
+      "end": 13306,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "0a74edb7f0aa",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13452,
+      "end": 13472,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "08ffe30c1f85",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13615,
+      "end": 13628,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "659d1179d38c",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13769,
+      "end": 13781,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "f8b7118390ba",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13920,
+      "end": 13938,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "d8d838629cbf",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14084,
+      "end": 14100,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "5d1091a90b81",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14251,
+      "end": 14272,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "6ab1a3defffd",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14410,
+      "end": 14418,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "ad2b953e647e",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14561,
+      "end": 14574,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "0c9889411af8",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14715,
+      "end": 14726,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "70c0dedb7312",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14856,
+      "end": 14859,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "790e8a404404",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14972,
+      "end": 14993,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "6e5d7da208fe",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 15093,
+      "end": 15113,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "e245f201925d",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 15216,
+      "end": 15238,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "7bf6629384c3",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 15651,
+      "end": 15662,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "612345786e72",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 15882,
+      "end": 15920,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "914ade2a1881",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 16332,
+      "end": 16364,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "004f695c5d94",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 16586,
+      "end": 16607,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "e1c36cf75f1d",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 16707,
+      "end": 16784,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Most parameters in Embergen can be controlled by an external modulation node.",
+      "source_text": "Most parameters in Embergen can be controlled by an external modulation node."
+    },
+    {
+      "id": "45f64281961f",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 16836,
+      "end": 16863,
+      "line": 259,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "How to modulate a parameter",
+      "source_text": "How to modulate a parameter"
+    },
+    {
+      "id": "53143e9b06b2",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 16969,
+      "end": 17096,
+      "line": 260,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s say we want a sphere to continuously move up and down. This can be done by hand using keyframes, but you can also use an ",
+      "source_text": "Let’s say we want a sphere to continuously move up and down. This can be done by hand using keyframes, but you can also use an "
+    },
+    {
+      "id": "01394564a573",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17270,
+      "end": 17285,
+      "line": 260,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Mod: Oscillator",
+      "source_text": "Mod: Oscillator"
+    },
+    {
+      "id": "c585548071f4",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17290,
+      "end": 17296,
+      "line": 260,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "b9e8037289a8",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17455,
+      "end": 17486,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Set the override state for the ",
+      "source_text": "Set the override state for the "
+    },
+    {
+      "id": "8a721e0d1373",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17490,
+      "end": 17498,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Position",
+      "source_text": "Position"
+    },
+    {
+      "id": "fbc190a47e90",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17503,
+      "end": 17517,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter to ",
+      "source_text": " parameter to "
+    },
+    {
+      "id": "6597912b3e53",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17521,
+      "end": 17533,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Pin Override",
+      "source_text": "Pin Override"
+    },
+    {
+      "id": "d717c7fc20a6",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17538,
+      "end": 17542,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " by ",
+      "source_text": " by "
+    },
+    {
+      "id": "93f075ef8925",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17701,
+      "end": 17734,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking on the icon next to it.",
+      "source_text": " clicking on the icon next to it."
+    },
+    {
+      "id": "7e503802ac19",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17751,
+      "end": 17762,
+      "line": 264,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Connect an ",
+      "source_text": "Connect an "
+    },
+    {
+      "id": "e12469827653",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17936,
+      "end": 17951,
+      "line": 264,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Mod: Oscillator",
+      "source_text": "Mod: Oscillator"
+    },
+    {
+      "id": "987b0927a666",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17956,
+      "end": 18002,
+      "line": 264,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " node to the now exposed pin on the left side.",
+      "source_text": " node to the now exposed pin on the left side."
+    },
+    {
+      "id": "d9b403ca063e",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18019,
+      "end": 18023,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Set ",
+      "source_text": "Set "
+    },
+    {
+      "id": "a2cfdf478595",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18027,
+      "end": 18037,
+      "line": 265,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Waveform X",
+      "source_text": "Waveform X"
+    },
+    {
+      "id": "35f8aca16728",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18042,
+      "end": 18047,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "c33ee738ac50",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18057,
+      "end": 18104,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to None so only the Z-position will oscillate.",
+      "source_text": " to None so only the Z-position will oscillate."
+    },
+    {
+      "id": "e172f6079cc1",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18121,
+      "end": 18179,
+      "line": 266,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Adjust the settings in the oscillator node to your liking.",
+      "source_text": "Adjust the settings in the oscillator node to your liking."
+    },
+    {
+      "id": "eeba0229beb5",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18238,
+      "end": 18250,
+      "line": 270,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Node Details",
+      "source_text": "Node Details"
+    },
+    {
+      "id": "96b0e489902d",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18341,
+      "end": 18398,
+      "line": 271,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s have a look at the Node Details for the Oscillator.",
+      "source_text": "Let’s have a look at the Node Details for the Oscillator."
+    },
+    {
+      "id": "9da0976a0029",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18485,
+      "end": 18491,
+      "line": 274,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Output",
+      "source_text": "Output"
+    },
+    {
+      "id": "1eef07c6564f",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18608,
+      "end": 18615,
+      "line": 276,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Signal:",
+      "source_text": "Signal:"
+    },
+    {
+      "id": "8eff898dd7f2",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18624,
+      "end": 18671,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Visual representation of the created waveform.",
+      "source_text": " Visual representation of the created waveform."
+    },
+    {
+      "id": "557df9931191",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18690,
+      "end": 18700,
+      "line": 278,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Below the ",
+      "source_text": "Below the "
+    },
+    {
+      "id": "f3202a438712",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18704,
+      "end": 18710,
+      "line": 278,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Signal",
+      "source_text": "Signal"
+    },
+    {
+      "id": "12bf333e7bba",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18715,
+      "end": 18778,
+      "line": 278,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " display is a list of all parameters that are connected to the ",
+      "source_text": " display is a list of all parameters that are connected to the "
+    },
+    {
+      "id": "f41ec21f098c",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18952,
+      "end": 18967,
+      "line": 278,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Mod: Oscillator",
+      "source_text": "Mod: Oscillator"
+    },
+    {
+      "id": "af9ed416274b",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18972,
+      "end": 18978,
+      "line": 278,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "2d8f73070069",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18986,
+      "end": 19055,
+      "line": 279,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The parameters are represented with range sliders for each component.",
+      "source_text": "The parameters are represented with range sliders for each component."
+    },
+    {
+      "id": "d7b4e7d03c85",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19081,
+      "end": 19087,
+      "line": 281,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": "Here, ",
+      "source_text": "Here, "
+    },
+    {
+      "id": "c74fe6e4cfd3",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19091,
+      "end": 19100,
+      "line": 281,
+      "parent_path": "section/blockquote/div/p/em",
+      "source_raw": "Fuel rate",
+      "source_text": "Fuel rate"
+    },
+    {
+      "id": "8c32a2ea4b35",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19105,
+      "end": 19199,
+      "line": 281,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " only has one component and therefore has only one range slider and will be controlled by the ",
+      "source_text": " only has one component and therefore has only one range slider and will be controlled by the "
+    },
+    {
+      "id": "d9fc4c57d7fc",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19203,
+      "end": 19213,
+      "line": 281,
+      "parent_path": "section/blockquote/div/p/em",
+      "source_raw": "Waveform X",
+      "source_text": "Waveform X"
+    },
+    {
+      "id": "5f8892f5a139",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19218,
+      "end": 19224,
+      "line": 281,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " only.",
+      "source_text": " only."
+    },
+    {
+      "id": "98c0e5e92c6f",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19252,
+      "end": 19365,
+      "line": 283,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "These range sliders can be used to control the way in which the parameter values are mapped to the waveform. The ",
+      "source_text": "These range sliders can be used to control the way in which the parameter values are mapped to the waveform. The "
+    },
+    {
+      "id": "9632694fe3cb",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19369,
+      "end": 19372,
+      "line": 283,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "min",
+      "source_text": "min"
+    },
+    {
+      "id": "ce739fe8a8e2",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19377,
+      "end": 19459,
+      "line": 283,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " value in the range slider is the lowest possible value for the parameter and the ",
+      "source_text": " value in the range slider is the lowest possible value for the parameter and the "
+    },
+    {
+      "id": "50ab354449e4",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19463,
+      "end": 19466,
+      "line": 283,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "max",
+      "source_text": "max"
+    },
+    {
+      "id": "4d6b251316f8",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19471,
+      "end": 19490,
+      "line": 283,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " value the highest.",
+      "source_text": " value the highest."
+    },
+    {
+      "id": "321b00c658c0",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19498,
+      "end": 19656,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "For example, when using a default sine wave the parameter value will oscillate smoothly up and down within the value range set by the range slider. Here, the ",
+      "source_text": "For example, when using a default sine wave the parameter value will oscillate smoothly up and down within the value range set by the range slider. Here, the "
+    },
+    {
+      "id": "6df64f64ba69",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19660,
+      "end": 19668,
+      "line": 284,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Position",
+      "source_text": "Position"
+    },
+    {
+      "id": "16785fcd1259",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19673,
+      "end": 19707,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " parameters can oscillate between ",
+      "source_text": " parameters can oscillate between "
+    },
+    {
+      "id": "4b1601ad0d49",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19719,
+      "end": 19724,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "7c0c8d336e65",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19735,
+      "end": 19751,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " meters and the ",
+      "source_text": " meters and the "
+    },
+    {
+      "id": "1e9542139aa6",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19755,
+      "end": 19764,
+      "line": 284,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Fuel rate",
+      "source_text": "Fuel rate"
+    },
+    {
+      "id": "4b100b5fcd33",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19769,
+      "end": 19802,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " can oscillate between a rate of ",
+      "source_text": " can oscillate between a rate of "
+    },
+    {
+      "id": "4f060d74d661",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19812,
+      "end": 19817,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "50bb3bacce29",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19830,
+      "end": 19850,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " percent per second.",
+      "source_text": " percent per second."
+    },
+    {
+      "id": "abafdea2256c",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19858,
+      "end": 19929,
+      "line": 285,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "For more information on how to use range sliders, please check out our ",
+      "source_text": "For more information on how to use range sliders, please check out our "
+    },
+    {
+      "id": "fe9904b71377",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20068,
+      "end": 20080,
+      "line": 285,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "117769db658d",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20091,
+      "end": 20097,
+      "line": 285,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " page!",
+      "source_text": " page!"
+    },
+    {
+      "id": "32d1756d40a0",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20137,
+      "end": 20141,
+      "line": 288,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Main",
+      "source_text": "Main"
+    },
+    {
+      "id": "cc043c20dcd4",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20256,
+      "end": 20272,
+      "line": 290,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Custom Waveform:",
+      "source_text": "Custom Waveform:"
+    },
+    {
+      "id": "e0388965d83e",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20281,
+      "end": 20324,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This graph is only visible when selecting ",
+      "source_text": " This graph is only visible when selecting "
+    },
+    {
+      "id": "ed277b327573",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20328,
+      "end": 20334,
+      "line": 290,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Custom",
+      "source_text": "Custom"
+    },
+    {
+      "id": "e31b2e4bb37c",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20339,
+      "end": 20354,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in one of the ",
+      "source_text": " in one of the "
+    },
+    {
+      "id": "a5aff5e4713f",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20358,
+      "end": 20366,
+      "line": 290,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Wavefrom",
+      "source_text": "Wavefrom"
+    },
+    {
+      "id": "e9de9c34ae29",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20371,
+      "end": 20455,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " dropdown menus. This option allows for creating any waveform you can think of. The ",
+      "source_text": " dropdown menus. This option allows for creating any waveform you can think of. The "
+    },
+    {
+      "id": "f30f9830c7e2",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20459,
+      "end": 20475,
+      "line": 290,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator…",
+      "source_text": "Curve Generator…"
+    },
+    {
+      "id": "6fcf828fa068",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20480,
+      "end": 20488,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the ",
+      "source_text": " in the "
+    },
+    {
+      "id": "3fd58806284d",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20650,
+      "end": 20803,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " right-click-menu can be very useful to make things like a jittered sine wave. For more information on how to use modulation curves please check out our ",
+      "source_text": " right-click-menu can be very useful to make things like a jittered sine wave. For more information on how to use modulation curves please check out our "
+    },
+    {
+      "id": "c804516077a0",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20904,
+      "end": 20920,
+      "line": 290,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "edad8ee1eeb8",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20931,
+      "end": 20937,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " page!",
+      "source_text": " page!"
+    },
+    {
+      "id": "16737324f46e",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21198,
+      "end": 21213,
+      "line": 294,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Waveform X,Y,Z:",
+      "source_text": "Waveform X,Y,Z:"
+    },
+    {
+      "id": "c871520c4a12",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21222,
+      "end": 21344,
+      "line": 294,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This dropdown menu holds the different types of waveforms which will determine the pattern in which the values oscillate.",
+      "source_text": " This dropdown menu holds the different types of waveforms which will determine the pattern in which the values oscillate."
+    },
+    {
+      "id": "b758b259e015",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21369,
+      "end": 21374,
+      "line": 295,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Base:",
+      "source_text": "Base:"
+    },
+    {
+      "id": "8785c0b068f0",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21383,
+      "end": 21425,
+      "line": 295,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Offset the values. Adding or subtracting.",
+      "source_text": " Offset the values. Adding or subtracting."
+    },
+    {
+      "id": "45b0d7c5764e",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21450,
+      "end": 21460,
+      "line": 296,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Frequency:",
+      "source_text": "Frequency:"
+    },
+    {
+      "id": "6887abf7f6ae",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21469,
+      "end": 21571,
+      "line": 296,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Number of times per second the pattern is repeated. Higher values will make the values change faster.",
+      "source_text": " Number of times per second the pattern is repeated. Higher values will make the values change faster."
+    },
+    {
+      "id": "0fbea0e144fa",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21596,
+      "end": 21602,
+      "line": 297,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Phase:",
+      "source_text": "Phase:"
+    },
+    {
+      "id": "c8389fce88ec",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21611,
+      "end": 21644,
+      "line": 297,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Temporal offset of the waveform.",
+      "source_text": " Temporal offset of the waveform."
+    },
+    {
+      "id": "c5da18d9de13",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21669,
+      "end": 21676,
+      "line": 298,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Amount:",
+      "source_text": "Amount:"
+    },
+    {
+      "id": "dca5c1103f71",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21685,
+      "end": 21789,
+      "line": 298,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Intensity of the waveform. Higher values will have the oscillated values deviate further from the base.",
+      "source_text": " Intensity of the waveform. Higher values will have the oscillated values deviate further from the base."
+    },
+    {
+      "id": "a269d94f7ef2",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21814,
+      "end": 21826,
+      "line": 299,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Attenuation:",
+      "source_text": "Attenuation:"
+    },
+    {
+      "id": "9a93442f817c",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21835,
+      "end": 21879,
+      "line": 299,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Intensity multiplier for all the waveforms.",
+      "source_text": " Intensity multiplier for all the waveforms."
+    },
+    {
+      "id": "acde27932dab",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21953,
+      "end": 21969,
+      "line": 304,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Other Modulators",
+      "source_text": "Other Modulators"
+    },
+    {
+      "id": "e06de842e75d",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22064,
+      "end": 22128,
+      "line": 305,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "All the modulator nodes work with three values to represent the ",
+      "source_text": "All the modulator nodes work with three values to represent the "
+    },
+    {
+      "id": "94767b84d84e",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22150,
+      "end": 22155,
+      "line": 305,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "017a8d3e4a52",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22165,
+      "end": 22171,
+      "line": 305,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " axis.",
+      "source_text": " axis."
+    },
+    {
+      "id": "c6ab04d6a5ae",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22179,
+      "end": 22231,
+      "line": 306,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "When modulating a parameter with a single value the ",
+      "source_text": "When modulating a parameter with a single value the "
+    },
+    {
+      "id": "e4795ab2d7fc",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22253,
+      "end": 22257,
+      "line": 306,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "dadd77e3c7cd",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22267,
+      "end": 22288,
+      "line": 306,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " output is used only.",
+      "source_text": " output is used only."
+    },
+    {
+      "id": "eec3cc7c1109",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22296,
+      "end": 22330,
+      "line": 307,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "When modulating a color parameter ",
+      "source_text": "When modulating a color parameter "
+    },
+    {
+      "id": "91d762c4ba0b",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22352,
+      "end": 22357,
+      "line": 307,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "d290f64f494a",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22367,
+      "end": 22383,
+      "line": 307,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " will represent ",
+      "source_text": " will represent "
+    },
+    {
+      "id": "26acd66cc4ec",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22387,
+      "end": 22390,
+      "line": 307,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Red",
+      "source_text": "Red"
+    },
+    {
+      "id": "996b28087885",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22401,
+      "end": 22406,
+      "line": 307,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Green",
+      "source_text": "Green"
+    },
+    {
+      "id": "27696c1b05f1",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22411,
+      "end": 22416,
+      "line": 307,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "9e6f34314c07",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22420,
+      "end": 22424,
+      "line": 307,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Blue",
+      "source_text": "Blue"
+    },
+    {
+      "id": "394c838fbc5a",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22638,
+      "end": 22647,
+      "line": 309,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Constant",
+      "source_text": " Constant"
+    },
+    {
+      "id": "ee5fd39285e6",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22747,
+      "end": 22806,
+      "line": 310,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Generates a signal with values that don’t change over time.",
+      "source_text": "Generates a signal with values that don’t change over time."
+    },
+    {
+      "id": "011e5a4bc670",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22814,
+      "end": 22903,
+      "line": 311,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This can be useful for when you want to control multiple parameters with the same slider.",
+      "source_text": "This can be useful for when you want to control multiple parameters with the same slider."
+    },
+    {
+      "id": "47a4b53ba114",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22911,
+      "end": 22950,
+      "line": 312,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This modulator is unique as it has the ",
+      "source_text": "This modulator is unique as it has the "
+    },
+    {
+      "id": "c8847286d738",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22954,
+      "end": 22958,
+      "line": 312,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Mode",
+      "source_text": "Mode"
+    },
+    {
+      "id": "e5f465b1cefd",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22963,
+      "end": 23027,
+      "line": 312,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " dropdown parameter to select the most suitable type of control.",
+      "source_text": " dropdown parameter to select the most suitable type of control."
+    },
+    {
+      "id": "27d24870a757",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23257,
+      "end": 23268,
+      "line": 315,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Oscillator",
+      "source_text": " Oscillator"
+    },
+    {
+      "id": "e00fbdeb0149",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23372,
+      "end": 23441,
+      "line": 316,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Generates a signal where the values change over a specified waveform.",
+      "source_text": "Generates a signal where the values change over a specified waveform."
+    },
+    {
+      "id": "b6fb61277ad5",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23449,
+      "end": 23590,
+      "line": 317,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This can be useful to add some turbulence into your project by having parameters deviate from their base value in a ,for example, random way.",
+      "source_text": "This can be useful to add some turbulence into your project by having parameters deviate from their base value in a ,for example, random way."
+    },
+    {
+      "id": "6b1da313409c",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23805,
+      "end": 23811,
+      "line": 320,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Cycle",
+      "source_text": " Cycle"
+    },
+    {
+      "id": "2956240648ef",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23905,
+      "end": 23971,
+      "line": 321,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "A version of the saw waveform. Repeats a linear value change from ",
+      "source_text": "A version of the saw waveform. Repeats a linear value change from "
+    },
+    {
+      "id": "43b3e60b37ec",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23984,
+      "end": 23988,
+      "line": 321,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " to ",
+      "source_text": " to "
+    },
+    {
+      "id": "c7020aa6deea",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24009,
+      "end": 24061,
+      "line": 322,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This is used to get something continuously rotating.",
+      "source_text": "This is used to get something continuously rotating."
+    },
+    {
+      "id": "2e5074ce7808",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24288,
+      "end": 24296,
+      "line": 325,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Combine",
+      "source_text": " Combine"
+    },
+    {
+      "id": "a84c4f528436",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24397,
+      "end": 24496,
+      "line": 326,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This node doesn’t generate a signal, but combines multiple signals in a specified mathematical way.",
+      "source_text": "This node doesn’t generate a signal, but combines multiple signals in a specified mathematical way."
+    },
+    {
+      "id": "9c4c08dd9c92",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24696,
+      "end": 24701,
+      "line": 329,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Math",
+      "source_text": " Math"
+    },
+    {
+      "id": "15f40de7c2ca",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24793,
+      "end": 24886,
+      "line": 330,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This node has a text field where you can write you own math expressions to generate a signal.",
+      "source_text": "This node has a text field where you can write you own math expressions to generate a signal."
+    },
+    {
+      "id": "5a53b365e841",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25115,
+      "end": 25126,
+      "line": 333,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Time Shift",
+      "source_text": " Time Shift"
+    },
+    {
+      "id": "b39b4f4c5662",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25229,
+      "end": 25306,
+      "line": 334,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Doesn’t generate a signal, but does a temporal offset on the incoming signal.",
+      "source_text": "Doesn’t generate a signal, but does a temporal offset on the incoming signal."
+    },
+    {
+      "id": "68c9e78b5ad8",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25506,
+      "end": 25511,
+      "line": 337,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " ADSR",
+      "source_text": " ADSR"
+    },
+    {
+      "id": "052fdeba4a10",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25603,
+      "end": 25676,
+      "line": 338,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The ADSR Node allows you to map a specific parameter to an ADSR Envelope.",
+      "source_text": "The ADSR Node allows you to map a specific parameter to an ADSR Envelope."
+    },
+    {
+      "id": "ce7435170d82",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25684,
+      "end": 25752,
+      "line": 339,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "ADSR stands for Attack, Decay, Sustain, Release. Once the ADSR node ",
+      "source_text": "ADSR stands for Attack, Decay, Sustain, Release. Once the ADSR node "
+    },
+    {
+      "id": "d41205d90370",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25756,
+      "end": 25762,
+      "line": 339,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Active",
+      "source_text": "Active"
+    },
+    {
+      "id": "735255bd06f5",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25767,
+      "end": 26347,
+      "line": 339,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " checkbox is on, the envelope will be engaged, starting with the ‘attack’. Attack is the amount of time it takes for the base value of the assigned parameter to reach its peak value, dictated by the Amount %. Decay is the duration of time it takes to get from the peak value to the Sustain value. Sustain is the percentage inbetween the Base and Amount value, and this value will remain the same until the ADSR node is innactive. Once the Active binary is turned off, you will ‘release’ the envelope. Release is the time it takes for the Sustain value to return to the Base value.",
+      "source_text": " checkbox is on, the envelope will be engaged, starting with the ‘attack’. Attack is the amount of time it takes for the base value of the assigned parameter to reach its peak value, dictated by the Amount %. Decay is the duration of time it takes to get from the peak value to the Sustain value. Sustain is the percentage inbetween the Base and Amount value, and this value will remain the same until the ADSR node is innactive. Once the Active binary is turned off, you will ‘release’ the envelope. Release is the time it takes for the Sustain value to return to the Base value."
+    },
+    {
+      "id": "74aab8add6b9",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 26355,
+      "end": 26421,
+      "line": 340,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This node is especcially useful in combination with the MIDI node.",
+      "source_text": "This node is especcially useful in combination with the MIDI node."
+    },
+    {
+      "id": "fb2dea47b901",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 26647,
+      "end": 26652,
+      "line": 343,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " MIDI",
+      "source_text": " MIDI"
+    },
+    {
+      "id": "227ffa7c96eb",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 26744,
+      "end": 26826,
+      "line": 344,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Generates a signal based on pressing buttons on a MIDI controller like a keyboard.",
+      "source_text": "Generates a signal based on pressing buttons on a MIDI controller like a keyboard."
+    },
+    {
+      "id": "81dcabeda455",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 26834,
+      "end": 26870,
+      "line": 345,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "To use this you first need to check ",
+      "source_text": "To use this you first need to check "
+    },
+    {
+      "id": "075703182879",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 27211,
+      "end": 27215,
+      "line": 358,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "9a5d09534e39",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 27281,
+      "end": 27289,
+      "line": 360,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "04eb32e53544",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 27669,
+      "end": 27677,
+      "line": 368,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "b57abc8c44d0",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 27760,
+      "end": 27776,
+      "line": 371,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "11edf265ee2e",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 27962,
+      "end": 28022,
+      "line": 378,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "5566fbc54350",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28028,
+      "end": 28051,
+      "line": 380,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "d67b551a9663",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28089,
+      "end": 28095,
+      "line": 381,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "ae5eee5f880b",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28099,
+      "end": 28104,
+      "line": 381,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "d9f3c4568115",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28154,
+      "end": 28164,
+      "line": 381,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "20589600824c",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28168,
+      "end": 28196,
+      "line": 381,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "ce2c76976ffa",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28240,
+      "end": 28244,
+      "line": 383,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "329a444485e5",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28561,
+      "end": 28597,
+      "line": 398,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "24e7eae22526",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28754,
+      "end": 28775,
+      "line": 405,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "8a2c781ff18e",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28854,
+      "end": 28881,
+      "line": 406,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How to modulate a parameter",
+      "source_text": "How to modulate a parameter"
+    },
+    {
+      "id": "b0f6e1924fea",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28946,
+      "end": 28958,
+      "line": 407,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node Details",
+      "source_text": "Node Details"
+    },
+    {
+      "id": "8ad251f5c555",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29016,
+      "end": 29022,
+      "line": 408,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Output",
+      "source_text": "Output"
+    },
+    {
+      "id": "d86e3de70511",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29079,
+      "end": 29083,
+      "line": 409,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Main",
+      "source_text": "Main"
+    },
+    {
+      "id": "cf62df1495bb",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29164,
+      "end": 29180,
+      "line": 412,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Other Modulators",
+      "source_text": "Other Modulators"
+    },
+    {
+      "id": "13217b9b5685",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29253,
+      "end": 29262,
+      "line": 413,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Constant",
+      "source_text": " Constant"
+    },
+    {
+      "id": "ba7039ac7ad2",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29340,
+      "end": 29351,
+      "line": 414,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Oscillator",
+      "source_text": " Oscillator"
+    },
+    {
+      "id": "ac4ecc8adac1",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29419,
+      "end": 29425,
+      "line": 415,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Cycle",
+      "source_text": " Cycle"
+    },
+    {
+      "id": "2b481642605d",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29500,
+      "end": 29508,
+      "line": 416,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Combine",
+      "source_text": " Combine"
+    },
+    {
+      "id": "8c1bed66183f",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29574,
+      "end": 29579,
+      "line": 417,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Math",
+      "source_text": " Math"
+    },
+    {
+      "id": "3d9699ce1996",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29656,
+      "end": 29667,
+      "line": 418,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Time Shift",
+      "source_text": " Time Shift"
+    },
+    {
+      "id": "7a26f83898dd",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29733,
+      "end": 29738,
+      "line": 419,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " ADSR",
+      "source_text": " ADSR"
+    },
+    {
+      "id": "5c5d3010e290",
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29804,
+      "end": 29809,
+      "line": 420,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " MIDI",
+      "source_text": " MIDI"
+    }
+  ]
+}

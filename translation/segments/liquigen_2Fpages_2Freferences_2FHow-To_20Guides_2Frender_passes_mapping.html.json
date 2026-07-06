@@ -1,0 +1,1176 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+  "segment_count": 117,
+  "segments": [
+    {
+      "id": "15ef96239cc1",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 679,
+      "end": 722,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Render Pass Mapping - JangaFX Documentation",
+      "source_text": "Render Pass Mapping - JangaFX Documentation"
+    },
+    {
+      "id": "5461a05e94cf",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 5312,
+      "end": 5335,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "6175f78e1cba",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 5430,
+      "end": 5460,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "d6b7baa2e255",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 5656,
+      "end": 5686,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "4495a8b2932f",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 5877,
+      "end": 5898,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "1ec736503d14",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 6091,
+      "end": 6129,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "0bf288a6c340",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 6519,
+      "end": 6551,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "b10348b2dbbf",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 7599,
+      "end": 7621,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "e66f101e3b31",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 7799,
+      "end": 7831,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "efbe66a0ed3c",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8024,
+      "end": 8039,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "2cf76fdb6cad",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8171,
+      "end": 8181,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "4bd749b0c982",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8359,
+      "end": 8391,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "b021cc658bba",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8592,
+      "end": 8606,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "77256b7d8408",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8728,
+      "end": 8736,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "ac73e505324c",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 8859,
+      "end": 8868,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "a095810ce3dd",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9016,
+      "end": 9029,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "c8ef4812fc13",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9207,
+      "end": 9239,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "99a1e91db1a3",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9457,
+      "end": 9470,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "c304a73d32c7",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9621,
+      "end": 9640,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "503d6be4c510",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9775,
+      "end": 9780,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "8de9f3cd25cb",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 9917,
+      "end": 9924,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "5d2b1b153cea",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10058,
+      "end": 10062,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "044273239c15",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10208,
+      "end": 10228,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "f115a3095648",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10367,
+      "end": 10376,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "1b717bfc91fb",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10517,
+      "end": 10529,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "58a6d44f6866",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10668,
+      "end": 10686,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "3f87e6a1123f",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10832,
+      "end": 10848,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "885340783d1a",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 10999,
+      "end": 11020,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "a71ec3fa705b",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 11158,
+      "end": 11166,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "324e082573d2",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 11305,
+      "end": 11315,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "6d2bc9563019",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 11458,
+      "end": 11471,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "0bcb8afc5d57",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 11601,
+      "end": 11604,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "77fc226b3ac8",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 11727,
+      "end": 11749,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "1be3649ebb6c",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 11938,
+      "end": 11970,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "aeb94c6bd639",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 12158,
+      "end": 12173,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "eb30104b243f",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 12278,
+      "end": 12288,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "da86fa401d5e",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 12477,
+      "end": 12509,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "25697065bdc3",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 12691,
+      "end": 12705,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "b80d184c5a17",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 12792,
+      "end": 12800,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "f5daf19ae985",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 12888,
+      "end": 12897,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "e87355e618c6",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 12999,
+      "end": 13012,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "99cd63ebfc66",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13201,
+      "end": 13233,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "96e593fbd3fc",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13411,
+      "end": 13422,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "56b4e195b1dd",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13523,
+      "end": 13542,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "513b6f9ae74c",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13623,
+      "end": 13628,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "55cd47eb21a8",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13711,
+      "end": 13718,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "1e5443d65376",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13798,
+      "end": 13802,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "11339e00f1b5",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 13894,
+      "end": 13914,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "66c694f9d79b",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14003,
+      "end": 14016,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "4962dec8a35c",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14103,
+      "end": 14115,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "d3a35a64023d",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14200,
+      "end": 14218,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "7ee18b0d6c3f",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14310,
+      "end": 14326,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "8d0a5fd8e186",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14423,
+      "end": 14444,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "39ebaa978b43",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14528,
+      "end": 14536,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "50e430eb2a1e",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14625,
+      "end": 14638,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "6bab43e34c1e",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14725,
+      "end": 14736,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "cd3e53e20bc0",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14845,
+      "end": 14848,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "d87318c25e09",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 14961,
+      "end": 14982,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "f23a95d5453a",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 15082,
+      "end": 15102,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "7a3dabd00597",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 15205,
+      "end": 15227,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "e3fad420d3fe",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 15640,
+      "end": 15651,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "52b1978fae52",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 15871,
+      "end": 15909,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "7c6cfa95ba84",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16328,
+      "end": 16360,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "8512b693ffd5",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16592,
+      "end": 16611,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "a82b84c05072",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16839,
+      "end": 16852,
+      "line": 257,
+      "parent_path": "article/section/p/a/span",
+      "source_raw": "Render Passes",
+      "source_text": "Render Passes"
+    },
+    {
+      "id": "899c39d7b2dd",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16863,
+      "end": 16955,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " can be exported to seperate files or to layers within a Multi Layer or Multi Part exr file.",
+      "source_text": " can be exported to seperate files or to layers within a Multi Layer or Multi Part exr file."
+    },
+    {
+      "id": "3f32265e14ec",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16963,
+      "end": 16994,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "To set this up you can use the ",
+      "source_text": "To set this up you can use the "
+    },
+    {
+      "id": "fa3fd77e107e",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 16998,
+      "end": 17005,
+      "line": 258,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Mapping",
+      "source_text": "Mapping"
+    },
+    {
+      "id": "6aa8e1fae209",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17010,
+      "end": 17026,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " section in the ",
+      "source_text": " section in the "
+    },
+    {
+      "id": "23c4137019ae",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17030,
+      "end": 17043,
+      "line": 258,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Render Passes",
+      "source_text": "Render Passes"
+    },
+    {
+      "id": "5e10450d3b87",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17048,
+      "end": 17060,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "13a91dee259a",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17064,
+      "end": 17070,
+      "line": 258,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Render",
+      "source_text": "Render"
+    },
+    {
+      "id": "794e7add1ea2",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17075,
+      "end": 17118,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node which will be explained on this page.",
+      "source_text": " node which will be explained on this page."
+    },
+    {
+      "id": "f0cbaba299fc",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17246,
+      "end": 17250,
+      "line": 261,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "690f7f33b25e",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17254,
+      "end": 17260,
+      "line": 261,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Source",
+      "source_text": "Source"
+    },
+    {
+      "id": "4ba5f500cfcd",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17265,
+      "end": 17347,
+      "line": 261,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " column holds all the nodes which can be set to one of our build in render passes.",
+      "source_text": " column holds all the nodes which can be set to one of our build in render passes."
+    },
+    {
+      "id": "b304617bdee9",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17364,
+      "end": 17381,
+      "line": 262,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "The nodes in the ",
+      "source_text": "The nodes in the "
+    },
+    {
+      "id": "d70705440e16",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17385,
+      "end": 17396,
+      "line": 262,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Destination",
+      "source_text": "Destination"
+    },
+    {
+      "id": "330eb4004a32",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17401,
+      "end": 17574,
+      "line": 262,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " column represent each render pass to be exported. Depending on the render settings, each node is exported to a seperate layer in a exr file or to a seperate image sequence.",
+      "source_text": " column represent each render pass to be exported. Depending on the render settings, each node is exported to a seperate layer in a exr file or to a seperate image sequence."
+    },
+    {
+      "id": "bbbc7d0edcf5",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17750,
+      "end": 17780,
+      "line": 263,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " Hide or show channel mapping.",
+      "source_text": " Hide or show channel mapping."
+    },
+    {
+      "id": "9fac4274a7ba",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 17966,
+      "end": 17991,
+      "line": 264,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " Reorder Render Pass. By ",
+      "source_text": " Reorder Render Pass. By "
+    },
+    {
+      "id": "d89074cb8d3d",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 18150,
+      "end": 18445,
+      "line": 264,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " clicking and dragging this icon, you can move the render pass to a different position in the list. The new position of the render pass is indicated with a blue line while dragging. This can be useful to move a specific render pass to the top as the top one shows in the preview while exporting.",
+      "source_text": " clicking and dragging this icon, you can move the render pass to a different position in the list. The new position of the render pass is indicated with a blue line while dragging. This can be useful to move a specific render pass to the top as the top one shows in the preview while exporting."
+    },
+    {
+      "id": "e59cdde97a82",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 18462,
+      "end": 18590,
+      "line": 265,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Render passes dropdown menu. When clicking on this, a dropdown menu appears where you can pick a render pass to set the node to.",
+      "source_text": "Render passes dropdown menu. When clicking on this, a dropdown menu appears where you can pick a render pass to set the node to."
+    },
+    {
+      "id": "613b2888aef9",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 18951,
+      "end": 19025,
+      "line": 274,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "ef1968df1456",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 19249,
+      "end": 19282,
+      "line": 279,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " Some render passes will have an ",
+      "source_text": " Some render passes will have an "
+    },
+    {
+      "id": "a3458dfab179",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 19286,
+      "end": 19289,
+      "line": 279,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "RAW",
+      "source_text": "RAW"
+    },
+    {
+      "id": "8ade50e336ec",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 19294,
+      "end": 19480,
+      "line": 279,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " toggle button next to their name. When this is enabled, tonemapping is bypassed and the full range of colors can be exported. Note that only the exr file format supports this correctly.",
+      "source_text": " toggle button next to their name. When this is enabled, tonemapping is bypassed and the full range of colors can be exported. Note that only the exr file format supports this correctly."
+    },
+    {
+      "id": "9740f26cd82b",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 19497,
+      "end": 19655,
+      "line": 280,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Render pass output name. This box displays the name given to the render pass. When left untouched, this name is inherited from the incoming render pass. When ",
+      "source_text": "Render pass output name. This box displays the name given to the render pass. When left untouched, this name is inherited from the incoming render pass. When "
+    },
+    {
+      "id": "5cbb21b18efa",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 19814,
+      "end": 19904,
+      "line": 280,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " clicking within this box, you can set the ouput name to something custom by typing it in.",
+      "source_text": " clicking within this box, you can set the ouput name to something custom by typing it in."
+    },
+    {
+      "id": "3901b8a2f2d8",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 19921,
+      "end": 20163,
+      "line": 281,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Channel dropdown menu. Here, you can pick the amount of channels for the destination render pass. This can be useful to make sure you’re not using empty channels or to add more channels to be connected to sources from different render passes.",
+      "source_text": "Channel dropdown menu. Here, you can pick the amount of channels for the destination render pass. This can be useful to make sure you’re not using empty channels or to add more channels to be connected to sources from different render passes."
+    },
+    {
+      "id": "0636eb0f85ed",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20337,
+      "end": 20359,
+      "line": 282,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " Remove a render pass.",
+      "source_text": " Remove a render pass."
+    },
+    {
+      "id": "5d4a0cbe6431",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20376,
+      "end": 20444,
+      "line": 283,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Source channels labels. Shows the names of the source channels like ",
+      "source_text": "Source channels labels. Shows the names of the source channels like "
+    },
+    {
+      "id": "92f731233af5",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20448,
+      "end": 20462,
+      "line": 283,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Red,Green,Blue",
+      "source_text": "Red,Green,Blue"
+    },
+    {
+      "id": "f690aa53c0aa",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20473,
+      "end": 20477,
+      "line": 283,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Mask",
+      "source_text": "Mask"
+    },
+    {
+      "id": "59ba9e79b382",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20482,
+      "end": 20487,
+      "line": 283,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": ", or ",
+      "source_text": ", or "
+    },
+    {
+      "id": "82c4ea3c6be9",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20491,
+      "end": 20496,
+      "line": 283,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Alpha",
+      "source_text": "Alpha"
+    },
+    {
+      "id": "5baba8ee9e9f",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20519,
+      "end": 20539,
+      "line": 284,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Source output pins. ",
+      "source_text": "Source output pins. "
+    },
+    {
+      "id": "3dee448b12c6",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20698,
+      "end": 20795,
+      "line": 284,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " click and drag from this pin to a destination input pin to map these channels to each other. By ",
+      "source_text": " click and drag from this pin to a destination input pin to map these channels to each other. By "
+    },
+    {
+      "id": "e053a70c04c5",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 20954,
+      "end": 21022,
+      "line": 284,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " double clicking on this pin you can remove all connections from it.",
+      "source_text": " double clicking on this pin you can remove all connections from it."
+    },
+    {
+      "id": "fc46ea2ae941",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 21039,
+      "end": 21340,
+      "line": 285,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Connection line. Represents a connection between a source and a destination channel. When connected, the lines are grey. When being dragged, the lines are blue. When being dragged far enough to be released and connected, the lines are green. When about to being removed/overwritten, the lines are red.",
+      "source_text": "Connection line. Represents a connection between a source and a destination channel. When connected, the lines are grey. When being dragged, the lines are blue. When being dragged far enough to be released and connected, the lines are green. When about to being removed/overwritten, the lines are red."
+    },
+    {
+      "id": "30fc2c13b5ee",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 21357,
+      "end": 21381,
+      "line": 286,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Destination input pins. ",
+      "source_text": "Destination input pins. "
+    },
+    {
+      "id": "4ea8939d0c17",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 21540,
+      "end": 21633,
+      "line": 286,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " click and drag from this pin to a source output pin to map these channels to each other. By ",
+      "source_text": " click and drag from this pin to a source output pin to map these channels to each other. By "
+    },
+    {
+      "id": "c102eceba3e6",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 21792,
+      "end": 21860,
+      "line": 286,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " double clicking on this pin you can remove all connections from it.",
+      "source_text": " double clicking on this pin you can remove all connections from it."
+    },
+    {
+      "id": "fbf5efe343b5",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 21877,
+      "end": 21950,
+      "line": 287,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": "Destination channels labels. Shows the names of the destination channels.",
+      "source_text": "Destination channels labels. Shows the names of the destination channels."
+    },
+    {
+      "id": "1a39516d1f63",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 22133,
+      "end": 22149,
+      "line": 288,
+      "parent_path": "section/ol/li/p/em",
+      "source_raw": "Add Render Pass:",
+      "source_text": "Add Render Pass:"
+    },
+    {
+      "id": "4c153eed1245",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 22154,
+      "end": 22285,
+      "line": 288,
+      "parent_path": "article/section/ol/li/p",
+      "source_raw": " Clicking this will open a dropdown menu where you can search for a render pass to add to the list of render passes to be exported.",
+      "source_text": " Clicking this will open a dropdown menu where you can search for a render pass to add to the list of render passes to be exported."
+    },
+    {
+      "id": "8ef9b1e31e6e",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 22555,
+      "end": 22559,
+      "line": 300,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "706b3b0ccbe3",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 22625,
+      "end": 22630,
+      "line": 302,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "27b26e92d1cc",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23005,
+      "end": 23013,
+      "line": 310,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "eb7ff6962f3a",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23096,
+      "end": 23107,
+      "line": 313,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "a0c55c25a7de",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23293,
+      "end": 23353,
+      "line": 320,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "af5197b762a1",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23359,
+      "end": 23382,
+      "line": 322,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "bea10fc95298",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23420,
+      "end": 23426,
+      "line": 323,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "f890c259c1d2",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23430,
+      "end": 23435,
+      "line": 323,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "e0c01683ad5e",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23485,
+      "end": 23495,
+      "line": 323,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "08536d82066b",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23499,
+      "end": 23527,
+      "line": 323,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "2a57a98d838b",
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "start": 23571,
+      "end": 23575,
+      "line": 325,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

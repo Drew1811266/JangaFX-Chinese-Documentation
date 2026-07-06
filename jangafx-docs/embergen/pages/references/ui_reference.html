@@ -1,0 +1,765 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../../genindex.html" /><link rel="search" title="Search" href="../../../search.html" /><link rel="next" title="Settings" href="settings.html" /><link rel="prev" title="References" href="index.html" />
+
+    <link rel="shortcut icon" href="../../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>User Interface - JangaFX Documentation</title>
+      <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../../index.html"><div class="brand">JangaFX Documentation</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 current has-children"><a class="reference internal" href="../../index.html">EmberGen Documentation</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../getting_started.html">Getting Started</a></li>
+<li class="toctree-l2 current has-children"><a class="reference internal" href="index.html">References</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l3 current current-page"><a class="current reference internal" href="#">User Interface</a></li>
+<li class="toctree-l3"><a class="reference internal" href="settings.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="node_list.html">Node List</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="How-To%20Guides/index.html">How-To Guides</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/camera_import.html">Camera Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/render_passes_mapping.html">Render Pass Mapping</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/color.html">Color</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/comment.html">Comment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/note.html">Note</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/import_animation.html">FBX, OBJ, ABC Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/histogram.html">Histogram</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/rangeSlider.html">Range Slider</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/animation.html">Keyframe Animation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/modulation_curve.html">Modulation Curve</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/modulating_parameters.html">Modulating Parameters</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/palettes.html">Palettes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/exportVDB.html">VDB Export</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/randomization.html">Randomization</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../FAQ.html">FAQ</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../liquigen/index.html">LiquiGen Documentation</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../liquigen/pages/getting_started.html">Getting Started</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../liquigen/pages/references/index.html">References</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../../liquigen/pages/references/ui_reference.html">User Interface</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../liquigen/pages/references/settings.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../liquigen/pages/references/node_list.html">Node List</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/index.html">How-To Guides</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/diagnostics.html">Diagnostics</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/render_passes_mapping.html">Render Pass Mapping</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/color.html">Color</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/comment.html">Comment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/note.html">Note</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/import_animation.html">FBX, OBJ, ABC Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/camera_import.html">Camera Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/rangeSlider.html">Range Slider</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/animation.html">Keyframe Animation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/modulation_curve.html">Modulation Curve</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/modulating_parameters.html">Modulating Parameters</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/palettes.html">Palettes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/randomization.html">Randomization</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../liquigen/pages/references/How-To%20Guides/expressions.html">Expressions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../liquigen/pages/FAQ.html">FAQ</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../illugen/index.html">IlluGen Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../geogen/index.html">GeoGen Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../licensing/index.html">Floating License Guide</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <span class="target" id="ui"></span><section id="user-interface">
+<span id="id1"></span><h1>User Interface<a class="headerlink" href="#user-interface" title="Permalink to this heading">#</a></h1>
+<p>On this page, you will find a description of all aspects of our user interface.</p>
+<section id="menubar">
+<h2>Menubar<a class="headerlink" href="#menubar" title="Permalink to this heading">#</a></h2>
+<img alt="menu bar" src="../../../_images/menuBar.png" />
+<ol class="arabic">
+<li><p><a class="reference internal" href="../../../_images/icon_home.svg"><img alt="home Icon" height="14" src="../../../_images/icon_home.svg" width="14" /></a> Open or close project manager.</p></li>
+<li><p><strong>File:</strong></p>
+<ul class="simple">
+<li><p><strong>New Project</strong> <cite>Ctrl + N</cite>: Leave the current project and start from the default preset If the current project has unsaved changes it will prompt you to ask if you want to save or not.</p></li>
+<li><p><strong>Open Project</strong> <cite>Ctrl + O</cite>: This will open a file browser so you can select a <em>.ember</em> file to open.</p></li>
+<li><p><strong>Recent Projects:</strong> <cite>Ctrl + Shift + P</cite> When hovering over this menu item it will open a menu to the right where you can pick a recently opened project.</p></li>
+<li><p><strong>Save</strong> <cite>Ctrl + S</cite>: Save the project to update the <em>.ember</em> file</p></li>
+<li><p><strong>Save As…</strong> <cite>Ctrl + Shift + S</cite>: This opens a file browser where you can define the filepath and filename of your project.</p></li>
+<li><p><strong>Increment and Save</strong> <cite>Alt + Shift + S</cite> : Saves an incremented copy of your current project file next to your project file. So if you’re working in <em>myProject1.ember</em>, your project will be saved as <em>myProject2.ember</em> in the same folder as <em>myProject1.ember</em> and you will automatically continue working in <em>myProject2.ember</em>. Note that the project is saved <strong>after</strong> incrementing. If your project doesn’t end with a number, <em>_2</em> will be added to the first increment.</p></li>
+<li><p><strong>Import…</strong> <cite>Ctrl + Shift + I</cite>: Opens the file browser so you can look for a <em>.fbx,.obj</em>, or <em>.abc</em> file to import into your project. An <a class="reference internal" href="../../../_images/import.svg"><img alt="import node icon" height="18" src="../../../_images/import.svg" width="18" /></a> <em>Import</em> node will be created in the node graph using the specified asset.</p></li>
+<li><p><strong>Export…:</strong> Instantly exports all <a class="reference internal" href="../../../_images/export_group.svg"><img alt="export icon" height="18" src="../../../_images/export_group.svg" width="18" /></a> <em>Export</em> nodes in the project.</p></li>
+<li><p><strong>Export Variations…:</strong> Opens the <em>Export Variations</em> window for when you want to export a number of unique elements. For more information on this, please check out our <a class="reference internal" href="How-To%20Guides/randomization.html#randomization"><span class="std std-ref">Randomization</span></a> page.</p></li>
+<li><p><strong>Quit</strong> <cite>Ctrl + Q</cite>: Close Embergen</p></li>
+</ul>
+</li>
+<li><p><strong>Edit:</strong></p>
+<ul>
+<li><p><strong>Undo</strong> <cite>Ctrl + Z</cite>: Undo action.</p>
+<p>This can be all sorts of things like changing a parameter or creating a node.</p>
+</li>
+<li><p><strong>Redo</strong> <cite>Ctrl + Y</cite> or <cite>Ctrl + Shift + Z</cite>: Redo action.</p></li>
+<li><p><strong>Delete</strong> <cite>Delete</cite> or <cite>Backspace</cite>: You can delete, cut, copy and paste things like nodes or keyframes.</p></li>
+<li><p><strong>Cut</strong> <cite>Ctrl + X</cite></p></li>
+<li><p><strong>Copy</strong> <cite>Ctrl + C</cite></p></li>
+<li><p><strong>Paste</strong> <cite>Ctrl + V</cite></p></li>
+</ul>
+</li>
+<li><p><strong>Simulation:</strong></p>
+<ul class="simple">
+<li><p><strong>Hard Reset</strong> <cite>Ctrl + R</cite>: Restarts the simulation from the beginning.</p></li>
+<li><p><strong>Reset</strong> <cite>R</cite>: Restarts the simulation from the beginning of the loop bounds, or from the beginning of the timeline if there is none.</p></li>
+<li><p><strong>Step Once</strong> <cite>Z</cite>: Move one frame forward in the simulation.</p></li>
+<li><p><strong>Pause</strong> <cite>Space</cite>: Play or pause the simulation.</p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="settings.html#settings"><span class="std std-ref">Settings</span></a>:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="settings.html#projectsettings"><span class="std std-ref">Project Settings</span></a></p></li>
+<li><p><a class="reference internal" href="settings.html#preferences"><span class="std std-ref">Preferences</span></a></p></li>
+</ul>
+</li>
+<li><p><strong>Account:</strong></p>
+<ul class="simple">
+<li><p><strong>Login…:</strong> Opens the login window where you can log into your JangaFX account using your e-mail adress and password.</p></li>
+</ul>
+</li>
+</ol>
+<dl class="simple">
+<dt>When logged in, the following options are present in the <em>Account</em> dropdown menu:</dt><dd><ul class="simple">
+<li><p><a class="reference external" href="https://account.jangafx.com/">My Account</a> : This will take you to our online account platform where you can manage your subscriptions and billing.</p></li>
+<li><p><strong>My Plans…:</strong> Shows your active plans.</p></li>
+<li><p><strong>Logout…:</strong> Logs you out of your JangaFX account. You can still use the software if you have an active license.</p></li>
+</ul>
+</dd>
+</dl>
+<ol class="arabic simple" start="7">
+<li><p><strong>Help:</strong></p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://jangafx.com/">JangaFX.com…</a> : This will take you to the JangaFX website where you can see our products, preset marketplace, pricing page, and more!</p></li>
+<li><p><a class="reference external" href="https://docs.jangafx.com/embergen/">Documentation…</a> This will take you to the Embergen documentation.</p></li>
+<li><p><strong>Guided Tours…:</strong> Opens up a window on the right side of the UI where you can pick a guided tour to follow. Guided tours will explain Embergen features with visuals and text within the software.</p></li>
+<li><p><strong>License Manager:</strong> Opens the <em>License Manager</em> window. Please check our <a class="reference internal" href="../../../liquigen/pages/getting_started.html#licensingref"><span class="std std-ref">Licensing</span></a> section for more information.</p></li>
+<li><p><strong>Release Notes…:</strong> Opens a window containing a list of all the changes the developers made to recent Embergen versions.</p></li>
+<li><p><strong>3rd Party Licenses…:</strong> Opens a window containing a list license notices of resources used to develop Embergen.</p></li>
+<li><p><strong>About…:</strong> Opens a window with our company statement and a brief summary on what Embergen can do.</p></li>
+</ul>
+</li>
+<li><p>Filename of the current project. <em>(Edited)</em> will be displayed behind it whenever you have unsaved changes. Nothing will show here when opening the default preset, but after making a change to it, it will display <em>Untitled(Edited)</em>. A file browser will pop up to set the file name and location when trying to save an untitled file.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_notes_grey.svg"><img alt="notes icon grey" height="16" src="../../../_images/icon_notes_grey.svg" width="16" /></a> Show project notes. Opens the <em>Project Notes</em> window. This icon only appears when notes are added to the project which can be done in <em>Settings&gt;Project Settings…&gt;</em> <a class="reference internal" href="../../../_images/icon_notes.svg"><img alt="notes icon" height="12" src="../../../_images/icon_notes.svg" width="12" /></a> <em>Notes</em></p></li>
+<li><p>Minimize the Embergen window.</p></li>
+<li><p>Maximize the Embergen window.</p></li>
+<li><p>Close Embergen.</p></li>
+</ol>
+</section>
+<section id="viewport">
+<h2>Viewport<a class="headerlink" href="#viewport" title="Permalink to this heading">#</a></h2>
+<p>This is where you can view your simulations, shapes, forces or anything that’s in the scene.</p>
+<img alt="viewport" src="../../../_images/viewport.png" />
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="../../../_images/icon_menu.svg"><img alt="move section icon" height="20" src="../../../_images/icon_menu.svg" width="12" /></a> Using <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> dragging, you can use this icon to rearrange the UI layout by moving the 4 main sections.</p></li>
+<li><p><strong>Scene</strong> is the default tab where you can view and manipulate everything.</p></li>
+</ol>
+<ol class="arabic simple" start="5">
+<li><p><a class="reference internal" href="../../../_images/icon_camera.svg"><img alt="camera icon" height="12" src="../../../_images/icon_camera.svg" width="12" /></a> Dropdown menu of the available cameras. Here, you can select which camera you want to look through.</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/renderQuality.gif"><img alt="viewport" class="align-right" src="../../../_images/renderQuality.gif" style="width: 200px;" /></a>
+<ol class="arabic" start="6">
+<li><p><a class="reference internal" href="../../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../../_images/icon_viewport.svg" width="12" /></a> Dropdown menu of all the things that can be hidden or viewed in the <em>Scene</em> tab.</p>
+<ul>
+<li><p><strong>Simulation</strong> <cite>M</cite> (<strong>15</strong>)</p></li>
+<li><p><strong>Unlit Mode</strong> <cite>U</cite> Minimizes the shading complexity. This will significantly speed up the render speed and can be useful when you want better performance when working on your simulation and don’t need to see the final shading.</p></li>
+<li><p><strong>Bounding Box</strong> <cite>B</cite> (<strong>14</strong>)</p></li>
+<li><p><strong>Shapes</strong> <cite>H</cite> (<strong>16</strong>)</p></li>
+<li><p><strong>Backplates</strong> <cite>Shift+B</cite> This will toggle the backplate visibility. Backplates can be added in the <a class="reference internal" href="../../../liquigen/pages/references/node_list.html#cameranode"><span class="std std-ref">Camera</span></a> node.</p></li>
+<li><p><strong>Masking</strong> This visualizes all the voxels containing something.</p></li>
+<li><p><strong>Manipulators</strong> <cite>Shift+Q</cite> (<strong>17</strong>) This toggles the visibility for the transform, rotate, or scale manipulators.</p></li>
+<li><p><strong>Manipulator Switcher</strong> This shows the Move <a class="reference internal" href="../../../_images/icon_move.svg"><img alt="move icon" height="20" src="../../../_images/icon_move.svg" width="20" /></a> (<strong>8</strong>), Rotate <a class="reference internal" href="../../../_images/icon_rotate.svg"><img alt="rotate icon" height="20" src="../../../_images/icon_rotate.svg" width="20" /></a> (<strong>9</strong>), and Scale <a class="reference internal" href="../../../_images/icon_scale.svg"><img alt="scale icon" height="20" src="../../../_images/icon_scale.svg" width="20" /></a> (<strong>10</strong>) buttons.</p></li>
+<li><p><strong>Entity Icons</strong> (<strong>18</strong>) show the node icons on the node position. In this case, the Line Force node. Clicking on an entity icon will select the corresponding node.</p></li>
+<li><p><strong>Camera Gizmo</strong> (<strong>11</strong>) Visual representation of the viewport orientation of the active camera. You can <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click on the dots to orient the view to that axis. Or <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click and drag the sphere to rotate the view.</p></li>
+<li><p><strong>Render Quality</strong> will open a menu to its right where you can pick either <em>Low</em> <cite>Ctrl + 1</cite>, <em>Medium</em> <cite>Ctrl + 2</cite>, or <em>High</em> <cite>Ctrl + 3</cite></p>
+<p>In certain cases, like when using <em>Flames translucency</em>, you can get a lot of banding when you look up close at your sim. Setting a higher render quality will help to deal with this.</p>
+<p>You can also lower the render quality to gain performance.</p>
+<p><em>Low</em>, <em>Medium</em>, and <em>High</em> are presets that can be edited in <em>Settings&gt;Preferences…&gt;Viewport Quality</em></p>
+</li>
+<li><dl class="simple">
+<dt><strong>Settings</strong> (<strong>22</strong>) Adds a box with common settings for easy accessibility.</dt><dd><ul class="simple">
+<li><p><strong>Render Quality</strong> Quickly pick one of the three render quality presets mentioned above.</p></li>
+<li><p><strong>View Mode</strong> Pick between using <em>Lit</em> for proper shading, or using <em>Unlit</em> for simple shading to open up some resources for faster simulations. Same as toggling the <cite>U</cite> key.</p></li>
+<li><p><strong>Projection Quality</strong> Cycle through the projection quality presets. This mostly compromises between simulation speed and accuracy of the collisions and pressure. These settings are also in the <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node under the <em>Projection</em> tab. For more information about projection please check out our ..TBD.. section!</p></li>
+<li><p><strong>Render Shapes</strong> Toggle whether or not shapes are visible. Same as toggling the <cite>H</cite> key.</p></li>
+<li><p><strong>Lock Camera</strong> Lock the active camera so the view can’t be changed anymore. (doesn’t work for the default camera) This is the same as using the <em>Lock</em> checkbox in the <em>General</em> tab of the <a class="reference internal" href="../../../_images/camera.svg"><img alt="camera icon" height="18" src="../../../_images/camera.svg" width="18" /></a> <em>Camera</em> node.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><strong>Stats</strong> (<strong>23</strong>)</dt><dd><ul class="simple">
+<li><p><strong>Bounds:</strong> The amount of voxels in all three axes. More voxels generally mean larger bounds and more space to simulate volumes. These values can be adjusted using the <em>Voxel count</em> parameter in the <em>Domain</em> tab of the <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node.</p></li>
+<li><p><strong>Voxels:</strong> The total amount of voxels in the simulation. This is the multiplication of the voxel dimensions mentioned above in <em>mVox</em> which simply means “Million Voxels”. For more information on voxels, please check our <a class="reference internal" href="../../../liquigen/pages/getting_started.html#voxelsref"><span class="std std-ref">voxels</span></a> section.</p></li>
+<li><p><strong>Sim Time:</strong> Time it takes to simulate one simulation step in milliseconds.</p></li>
+<li><p><strong>Sim Speed:</strong> Speed at which the Embergen is simulating in million voxels per second.</p></li>
+<li><p><strong>Resolution:</strong> The resolution of the viewport in pixels.</p></li>
+<li><p><strong>Render Time:</strong> Time it takes to render the volumes to the screen in milliseconds. You can see the numbers lowering when switching to a lower quality or unlit mode.</p></li>
+<li><p><strong>UI Framerate:</strong> How many times per second the UI is updated.</p></li>
+<li><p><strong>VRAM:</strong> The amount of currently used GPU memory vs total available memory.</p></li>
+<li><p><strong>Particle Count</strong> The amount of present particles created by <a class="reference internal" href="node_list.html#emitterparticles"><span class="std std-ref">Particles </span></a> nodes. If it just says <em>7</em> it means there are 7 particles in the simulation, <em>7.0 K</em> means 7000 particles, and <em>7.0 M</em> means 7.000.000 particles.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../_images/full_screen.svg" width="12" /></a> Toggle panel fullscreen.</p></li>
+</ol>
+<ol class="arabic simple" start="12">
+<li><p><strong>Sky:</strong> These settings are controlled in the <a class="reference internal" href="node_list.html#skyboxnode"><span class="std std-ref">Skybox</span></a> node.</p></li>
+<li><p><strong>Ground:</strong> These settings are controlled in the <a class="reference internal" href="node_list.html#groundnode"><span class="std std-ref">Ground</span></a> node.</p></li>
+</ol>
+<ol class="arabic simple" start="19">
+<li><p><strong>Force Gizmo</strong> Most foces have a gizmo using light blue arrows showing the direction of the velocity injected by the force.</p></li>
+<li><p><strong>Inner Bound</strong> of the selected force. The transparent area of the inner bound shows the area where the force is at 100%. Bounds can be setup by setting the <em>Falloff</em> parameter to anything but <em>None</em> in the <em>General</em> tab of certain force nodes.</p></li>
+<li><p><strong>Outer Bound</strong> of the selected force. The darkened area shows the transition area where the force goes from 100% on the inside to 100% minus the <em>Falloff percent</em> (so by default 0%) on the outside.</p></li>
+</ol>
+<img alt="render tab" src="../../../_images/renderTab.png" />
+<ol class="arabic simple" start="3">
+<li><p><strong>Render</strong> is the tab where you can preview what will be exported.</p>
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="../../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../../_images/icon_viewport.svg" width="12" /></a> <strong>View</strong> Dropdown where you can toggle the visibility of the stats.</p></li>
+<li><p>Render nodes dropdown menu. Here, you can select which <a class="reference internal" href="node_list.html#rendernode"><span class="std std-ref">Render</span></a> node you want to preview.</p></li>
+<li><p>Render passes dropdown menu. Here, you can select which <a class="reference internal" href="node_list.html#render-passes"><span class="std std-ref">Render pass</span></a> you want to preview.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_attention.svg"><img alt="attention icon" height="16" src="../../../_images/icon_attention.svg" width="16" /></a> No Render pass mapping warning. Seeing this icon means that there is no Render pass mapping setup in the Render node. You can click on this icon to automatically set one up.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_settings.svg"><img alt="settings icon" height="16" src="../../../_images/icon_settings.svg" width="16" /></a> Toggle render settings. This will show or hide the render settings (<strong>13,14</strong>) <a class="reference internal" href="node_list.html#rendernodesettings"><span class="std std-ref">Render Settings</span></a></p></li>
+<li><p>Zoom in or out.</p></li>
+<li><p>Zoom to fit the whole tab. Checking this will disable <strong>6</strong></p></li>
+<li><p><a class="reference internal" href="../../../_images/100percent_view.svg"><img alt="zoom Default Icon" height="12" src="../../../_images/100percent_view.svg" width="12" /></a> Set the zoom (<strong>6</strong>) back to 100%</p></li>
+<li><p>Toggle the crop gizmo.</p></li>
+<li><p>Crop in the horizontal and vertical axis.</p></li>
+<li><p>Crop vertical.</p></li>
+<li><p>Crop horizontal.</p></li>
+<li><p>General render settings</p></li>
+<li><p>Render pass specific render settings.</p></li>
+</ol>
+</li>
+</ol>
+<img alt="export tab" src="../../../_images/exportTab.png" />
+<ol class="arabic simple">
+<li><p><strong>Export</strong> Here you can View your exported flipbook or image sequence.</p>
+<ol class="arabic simple">
+<li><p>Channels. <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click on any of these buttons to view the Red, Green, Blue, or Alpha channels individually, click on the channel again to go back to viewing Red, Green, and Blue together. <cite>Ctrl</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click on a channel to add or subtract it from the channel selection.</p></li>
+<li><p>render pass. A dropdown menu of the mapped render passes where you can select which render pass you want to view the export of.</p></li>
+<li><p>Flipbook. Format used for games where all the frames are stored in one image. You will only see this if the <em>Export Mode</em> in the <em>Export</em> tab of the <a class="reference internal" href="../../../_images/render.svg"><img alt="render icon" height="18" src="../../../_images/render.svg" width="18" /></a> <em>Render</em> node was set to <em>Flipbook</em>.</p></li>
+<li><p>Export viewer. Shows the exported files.</p></li>
+<li><p>Current Flipbook Frame, indicated with a thin light border. You can <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click on any frame to set it to the current frame.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_back.svg"><img alt="icon_back" height="16" src="../../../_images/icon_back.svg" width="16" /></a> Go To Start. Set the playhead to the beginning of the timeline. (the timeline in the Export tab)</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_prev_frame.svg"><img alt="icon_prev_frame" height="16" src="../../../_images/icon_prev_frame.svg" width="16" /></a> Go to the previous frame.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_play.svg"><img alt="icon_play" height="16" src="../../../_images/icon_play.svg" width="16" /></a> Play or pause the export.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_next_frame.svg"><img alt="next_frame" height="16" src="../../../_images/icon_next_frame.svg" width="16" /></a> Go to the next frame.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_forward.svg"><img alt="icon_forward" height="16" src="../../../_images/icon_forward.svg" width="16" /></a> Go To End. Set the playhead to the end of the timeline.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_loop.svg"><img alt="icon_loop" height="16" src="../../../_images/icon_loop.svg" width="16" /></a> Loop. This will toggle if the export will restart playing from the beginning or stop when it reaches the last frame.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_skip_frame.svg"><img alt="icon_skip_frame" height="16" src="../../../_images/icon_skip_frame.svg" width="16" /></a> Skip Frame. This will toggle if the player will skip frames when necessary to keep up with the selected framerate or not.</p></li>
+<li><p>Current Frame. Displays the current playback frame. You can also <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click within this box to set the current frame manually.</p></li>
+<li><p>Timeline. Horizontal representation of all the exported frame numbers.</p></li>
+<li><p><a class="reference internal" href="../../../_images/scrubber_small.svg"><img alt="icon_scrubber_small" height="10" src="../../../_images/scrubber_small.svg" width="9" /></a> Playhead. Sits at the current frame on the timeline. You can <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click and drag the playhead to move through the timeline viewing different frames.</p></li>
+<li><p>Frames Per Second. Fps at which the export is played back. The higher this number the more “sped up” the playback seems. Try setting this to your target framerate, 24 fps for when you are working on a movie for example. This way you can see what the speed in the final result will look like.</p></li>
+</ol>
+</li>
+</ol>
+</section>
+<section id="node-graph">
+<h2>Node Graph<a class="headerlink" href="#node-graph" title="Permalink to this heading">#</a></h2>
+<p>This is where the building blocks to create the simulation are managed. You can think of it as if the wires represent data connecting one piece of the setup to the other.</p>
+<img alt="node graph" src="../../../_images/nodeGraph.png" />
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="../../../_images/icon_menu.svg"><img alt="move section icon" height="20" src="../../../_images/icon_menu.svg" width="12" /></a> Using <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> dragging, you can use this icon to rearrange the UI layout by moving the 4 main sections.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_search.svg"><img alt="search icon" height="12" src="../../../_images/icon_search.svg" width="12" /></a> Open search box. <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> Clicking on this will open a search box where you can type a node name or a part of the name to quickly select that node.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_list_view.svg"><img alt="list view icon" height="12" src="../../../_images/icon_list_view.svg" width="13" /></a> Toggle graph tree. (<strong>9</strong>)</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_randomize_seeds.svg"><img alt="icon_randomize_seeds" height="12" src="../../../_images/icon_randomize_seeds.svg" width="12" /></a> Randomizes all seed parameters of all nodes containing them. This can be a quick way to get a variation on an effect. For example, if you use noise forces or shapes when making an explosion, you will get a unique explosion every time you click this icon!</p></li>
+<li><p><a class="reference internal" href="../../../_images/fit_to_view.svg"><img alt="fit To View Icon" height="12" src="../../../_images/fit_to_view.svg" width="12" /></a> Move view to center of nodes.</p></li>
+<li><p><a class="reference internal" href="../../../_images/focus_node.svg"><img alt="focus node icon" height="12" src="../../../_images/focus_node.svg" width="12" /></a> Move view to center of selected nodes.</p></li>
+<li><p><a class="reference internal" href="../../../_images/100percent_view.svg"><img alt="zoom Default Icon" height="12" src="../../../_images/100percent_view.svg" width="12" /></a> Reset zoom to default.</p></li>
+<li><p><a class="reference internal" href="../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../_images/full_screen.svg" width="12" /></a> Toggle panel fullscreen</p></li>
+<li><p><strong>Graph Tree</strong> Here you’ll find all the nodes represented in a list. You can use the <a class="reference internal" href="../../../_images/unfold_icon.svg"><img alt="unfold icon" height="8" src="../../../_images/unfold_icon.svg" width="8" /></a> icon to get a dropdown menu of nodes that are connected to an input pin of the node. If you hover your mouse over a node name, you can click the <a class="reference internal" href="../../../_images/dot_normal.svg"><img alt="dot normal icon" height="6" src="../../../_images/dot_normal.svg" width="6" /></a> to select the node. This can be useful for quickly selecting nodes to get to its parameters without searching the node graph! You can also select multiple nodes by using <cite>Shift</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> Selected nodes are indicated with the <a class="reference internal" href="../../../_images/dot_active.svg"><img alt="dot active icon" height="6" src="../../../_images/dot_active.svg" width="6" /></a> icon.</p></li>
+<li><p>Node. Building block of the simulation. Selected nodes have a blue border.</p></li>
+<li><p>Input pins</p></li>
+<li><p>Connection wire</p></li>
+<li><p>Output pin</p></li>
+<li><p><a class="reference internal" href="../../../_images/node_toggle.svg"><img alt="node toggle icon" height="14" src="../../../_images/node_toggle.svg" width="14" /></a> Toggles whether a node is enabled. <cite>Shift</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> to toggle for all selected nodes.</p></li>
+<li><p>Comment. Custom-named container for nodes useful for ordering and readability. You can create a comment by selecting <em>Create Comment</em> in the <a class="reference internal" href="../../../_images/right.svg"><img alt="right mouse button" height="18" src="../../../_images/right.svg" width="18" /></a> menu of the node graph or by pressing <cite>Ctrl + G</cite> For more information on comments please check our <a class="reference internal" href="../../../liquigen/pages/references/specific/comment.html#comment"><span class="std std-ref">Comment</span></a> section!</p></li>
+</ol>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="494.7247706422018" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/minimap.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ol class="arabic simple" start="16">
+<li><p>Note. Custom textbox that can be places around the node graph to provide extra information or aid memory. You can create a note by selecting <em>Create Note</em> in the right-click menu of the node graph or by pressing <cite>Ctrl + H</cite> For more information on comments please check our <a class="reference internal" href="../../../liquigen/pages/references/specific/note.html#note"><span class="std std-ref">Note</span></a> section!</p></li>
+<li><p>Minimap. Small overview of the whole node graph. The minimap can be enabled and adjusted in the <em>Settings&gt;Preferences…&gt;</em> <a class="reference internal" href="../../../_images/icon_general.svg"><img alt="general icon" height="12" src="../../../_images/icon_general.svg" width="12" /></a> <em>General</em> section.</p></li>
+<li><p>Nodes are visualized by blocks colored based on their respective icons. Selected nodes have a white border.</p></li>
+<li><p>Comments are visualized by rectangles below the nodes. Comments are colored based on the colors they have in the node graph.</p></li>
+<li><p>Visible node graph area. The white semi-transparent box indicates what section of the node graph is currently visible. Zooming in on the node graph will make this box smaller and zooming out will make it bigger. To move the visible section using the minimap you can <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click to jump to the desired area or <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click and drag to move there.</p></li>
+</ol>
+</section>
+<section id="timeline-editor">
+<h2>Timeline Editor<a class="headerlink" href="#timeline-editor" title="Permalink to this heading">#</a></h2>
+<p>This is where time is visualized from left to right.</p>
+<p>For a description of how to use this editor check out our <a class="reference internal" href="../../../liquigen/pages/references/specific/animation.html#timelineeditor"><span class="std std-ref">Timeline Editor</span></a> section.</p>
+<img alt="timeline editor" src="../../../_images/timelineEditor1.png" />
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="../../../_images/icon_menu.svg"><img alt="move section icon" height="20" src="../../../_images/icon_menu.svg" width="12" /></a> Using <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> dragging, you can use this icon to rearrange the UI layout by moving the 4 main sections.</p></li>
+<li><p><a class="reference internal" href="../../../_images/magnet.svg"><img alt="key filter icon" height="16" src="../../../_images/magnet.svg" width="16" /></a> Snap keys to frames. With this turned on (indicated by the icon turning blue), keyframes can only be created on whole frame numbers and can only be moved whole frame numbers.</p></li>
+<li><p><a class="reference internal" href="../../../_images/fit_to_view.svg"><img alt="fit To View Icon" height="12" src="../../../_images/fit_to_view.svg" width="12" /></a> Fit view to all keys</p></li>
+<li><p><a class="reference internal" href="../../../_images/fit_to_curve.svg"><img alt="fit To View Icon" height="12" src="../../../_images/fit_to_curve.svg" width="12" /></a> Fit view to selected keys</p></li>
+<li><p><a class="reference internal" href="../../../_images/100percent_view.svg"><img alt="zoom Default Icon" height="12" src="../../../_images/100percent_view.svg" width="12" /></a> Reset the vertical zoom to default in the <em>Curve Editor</em>. <cite>Shift</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click this icon to reset the horizontal zoom.</p></li>
+<li><p><a class="reference internal" href="../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../_images/full_screen.svg" width="12" /></a> Toggle panel fullscreen</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_reset_sim.svg"><img alt="reset Icon" height="16" src="../../../_images/icon_reset_sim.svg" width="16" /></a> <strong>Reset</strong> <cite>R</cite> Reset the simulation to the beginning of the timeline.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_prev_key.svg"><img alt="previous key icon" height="16" src="../../../_images/icon_prev_key.svg" width="16" /></a> Move the playhead to the previous keyframe <cite>Left</cite></p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_play.svg"><img alt="play Icon" height="16" src="../../../_images/icon_play.svg" width="16" /></a> Play or pause the simulation <cite>Space</cite></p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_next_key.svg"><img alt="next key icon" height="16" src="../../../_images/icon_next_key.svg" width="16" /></a> Move playhead to the next keyframe <cite>Right</cite></p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_next_frame.svg"><img alt="next frame" height="16" src="../../../_images/icon_next_frame.svg" width="16" /></a> Move to the next frame/simulation step <cite>Z</cite></p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_loop.svg"><img alt="icon loop" height="16" src="../../../_images/icon_loop.svg" width="16" /></a> <strong>Toggle Loop</strong> <cite>L</cite> When looping is on you’ll see the looping area represented in blue in the timeline editor. This blue bar can be moved around by <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> clicking and dragging the middle or scaled by <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> clicking and dragging the edges.</p></li>
+<li><dl class="simple">
+<dt><a class="reference internal" href="../../../_images/shevron.svg"><img alt="shevron Icon" height="16" src="../../../_images/shevron.svg" width="16" /></a> This dropdown menu gives you quick access to the options related to looping.</dt><dd><ul class="simple">
+<li><dl class="simple">
+<dt>Timeline</dt><dd><ul>
+<li><p><strong>Loop:</strong> This will have the playhead loop over the same portion of the timeline, including all the keyframe animations, while the simulation keeps running forward.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>Simulation</dt><dd><ul>
+<li><p><strong>Loop</strong> This will loop the simulation blending the <em>min</em> and <em>max</em> positions of the <em>Loop Bounds</em> together.</p></li>
+<li><p><strong>Repeat</strong> This will restart the simulation when reaching the <em>Repeat Frame</em></p></li>
+<li><p><strong>Time Controls</strong> <a class="reference internal" href="../../../_images/time_controls.svg"><img alt="key filter icon" height="16" src="../../../_images/time_controls.svg" width="16" /></a> This will select the <em>Time Control</em> tab of the <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node for quick access to all settings related to looping or repeating the simulation.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p>Toggle between displaying the timeline in seconds or frames. <cite>Shift + F</cite></p></li>
+<li><p>Scrollbar for the timeline.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_search.svg"><img alt="search icon" height="12" src="../../../_images/icon_search.svg" width="12" /></a> Here you can search for a specific parameter in the list of animated parameters.</p></li>
+<li><p><a class="reference internal" href="../../../_images/curve_editor.svg"><img alt="curve mode icon" height="16" src="../../../_images/curve_editor.svg" width="16" /></a> <strong>Toggle Curve Editor</strong> <cite>`</cite> For a description of how to use this editor check out our <a class="reference internal" href="../../../liquigen/pages/references/specific/animation.html#curveeditor"><span class="std std-ref">Curve Editor</span></a> section.</p></li>
+<li><p><a class="reference internal" href="../../../_images/utokeyframe.svg"><img alt="autokey icon" height="16" src="../../../_images/utokeyframe.svg" width="16" /></a> <strong>Toggle Timeline Autokey</strong> <cite>A</cite> With this on a keyframe will be added at the playhead when changing the value of a parameter with keyframe animation enabled.</p></li>
+<li><p><a class="reference internal" href="../../../_images/realtime.svg"><img alt="record icon" height="16" src="../../../_images/realtime.svg" width="16" /></a> <strong>Toggle Timeline Recording</strong> <cite>Shift + R</cite> When you start the simulation with this button, all changes made to parameters with <em>Timeline Override</em> enabled will be translated to keyframes in real time.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_sync_playback_with_sim.svg"><img alt="sync playback icon" height="16" src="../../../_images/icon_sync_playback_with_sim.svg" width="16" /></a> <strong>Toggle Timeline Sync</strong> <cite>D</cite> With this one the playhead is always at the same position as the stimulation time. So the blue line and the pink line can’t be split up when playing.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_follow.svg"><img alt="curve mode icon" height="16" src="../../../_images/icon_follow.svg" width="16" /></a> <strong>Toggle Follow Playhead</strong> <cite>F</cite> With this on, the timeline will be panned to always keep the playhead in the middle of the editor.</p></li>
+<li><p><a class="reference internal" href="../../../_images/scrubber_big.svg"><img alt="icon_scrubber_big" height="13" src="../../../_images/scrubber_big.svg" width="9" /></a> <strong>Playhead</strong> Indicates the current time on the timeline.</p></li>
+<li><p>This indicates the current time the simulation is at.</p></li>
+<li><p>Frame number.</p></li>
+<li><p>Node with a parameter that has keyframe animation on it. You can use the <a class="reference internal" href="../../../_images/unfold_icon.svg"><img alt="unfold icon" height="8" src="../../../_images/unfold_icon.svg" width="8" /></a> icon to hide or show the animated parameters.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_play1.svg"><img alt="play icon timeline" height="16" src="../../../_images/icon_play1.svg" width="16" /></a> Enable or disable the keyframe animation for the node. When disabling this the parameters of the node won’t change over time anymore but will keep the values they had when toggling this button off.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_eye.svg"><img alt="eye icon" height="16" src="../../../_images/icon_eye.svg" width="16" /></a> Hide or Show the curves for all parameters of this node in the <em>Curve Editor</em>.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_play_once.svg"><img alt="play once icon" height="12" src="../../../_images/icon_play_once.svg" width="12" /></a> Specify the curve continuation. Set the keyframe animation for this parameter to either <a class="reference internal" href="../../../_images/icon_play_once.svg"><img alt="play once icon" height="12" src="../../../_images/icon_play_once.svg" width="12" /></a> <em>Play Once</em>, <a class="reference internal" href="../../../_images/icon_loop1.svg"><img alt="loop icon" height="12" src="../../../_images/icon_loop1.svg" width="12" /></a> <em>Loop</em> (restart the animation at the end), or <a class="reference internal" href="../../../_images/icon_ping_pong.svg"><img alt="ping pong icon" height="12" src="../../../_images/icon_ping_pong.svg" width="12" /></a> <em>Ping Pong</em> (plays the animation forwards then backwards then forwards, and so on.)</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/curveContinuation.gif"><img alt="curve continuation" src="../../../_images/curveContinuation.gif" style="width: 800px;" /></a>
+<ol class="arabic simple" start="29">
+<li><p><strong>Parameter</strong> Here you can set the parameter value for the current frame.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_play1.svg"><img alt="play icon timeline" height="16" src="../../../_images/icon_play1.svg" width="16" /></a> Enable or disable the keyframe animation for the parameter. When disabling this the parameter won’t change over time anymore but will keep the value it had when toggling this button off.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_eye.svg"><img alt="eye icon" height="16" src="../../../_images/icon_eye.svg" width="16" /></a> Hide or Show the curves for this parameter in the <em>Curve Editor</em>.</p></li>
+<li><p><a class="reference internal" href="../../../_images/key_timeline.svg"><img alt="keyframe icon" height="14" src="../../../_images/key_timeline.svg" width="14" /></a> Keyframe</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/exportImageCurve2.png"><img alt="export image curve" class="align-right" src="../../../_images/exportImageCurve2.png" style="width: 500px;" /></a>
+<ol class="arabic" start="33">
+<li><p><a class="reference internal" href="../../../_images/timeline_curve.svg"><img alt="timeline curve icon" height="12" src="../../../_images/timeline_curve.svg" width="12" /></a> This button can be found on an <a class="reference internal" href="../../../_images/export_group.svg"><img alt="export group icon" height="18" src="../../../_images/export_group.svg" width="18" /></a> <em>Export</em> or <a class="reference internal" href="../../../_images/import.svg"><img alt="import node icon" height="18" src="../../../_images/import.svg" width="18" /></a> <em>Import</em> node.</p>
+<p>For an export node, this will toggle a different view where you can see and edit how the frames will be exported.</p>
+</li>
+</ol>
+<ol class="arabic simple" start="34">
+<li><p>Shows the duration of the sequence that will be exported.</p></li>
+<li><p>This indicates what part of the timeline will be exported. This bar can be moved around.</p></li>
+<li><p>Information on the controls of the editor. These will change to showing keyframe controls when hovering over a keyframe.</p></li>
+</ol>
+</section>
+<section id="properties-panel">
+<h2>Properties Panel<a class="headerlink" href="#properties-panel" title="Permalink to this heading">#</a></h2>
+<img alt="properties panel" src="media/screenshots/UIref/propertiesPanel_EG.png" />
+<ol class="arabic simple">
+<li><p><a class="reference internal" href="../../../_images/icon_menu.svg"><img alt="move section icon" height="20" src="../../../_images/icon_menu.svg" width="12" /></a> Using <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> dragging, you can use this icon to rearrange the UI layout by moving the 4 main sections.</p></li>
+<li><p><strong>Node Details:</strong> This tab shows all the parameters for the selected node.</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/favoritesTab.png"><img alt="favorites tab" class="align-right" src="../../../_images/favoritesTab.png" style="width: 500px;" /></a>
+<ol class="arabic" start="3">
+<li><p><strong>Favorites</strong> This tab shows all the parameters that are marked as favorites.</p>
+<p>You can do this with any parameter from the Node Details tab by checking the star icon <a class="reference internal" href="../../../_images/favorite.svg"><img alt="favorite" height="16" src="../../../_images/favorite.svg" width="16" /></a> right next to it.</p>
+<p><strong>Clear All</strong> will remove all the items from the favorites list. All the star icons will be unchecked.</p>
+<p>In the menubar in <em>Settings/Project Settings…</em> You can also auto-favorite parameters based on the default, the last saved, or a loaded <em>.liquigen</em> file!</p>
+</li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/timelineTab.png"><img alt="timeline tab" class="align-right" src="../../../_images/timelineTab.png" style="width: 500px;" /></a>
+<ol class="arabic" start="4">
+<li><p><strong>Timeline:</strong> This tab shows all the parameters with keyframe animation enabled.</p>
+<p><strong>Clear All</strong> will remove all the items from the list. <strong>Note that this will remove all animation!</strong></p>
+<p>Keyframe animation on a parameter is enabled by setting the override state (<strong>11</strong>) to <em>Timeline Override</em>.</p>
+<p>For more information on animation (timeline) please check out our <a class="reference internal" href="../../../liquigen/pages/references/specific/animation.html#animation"><span class="std std-ref">Keyframe Animation</span></a> section.</p>
+</li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/randomizedTab.png"><img alt="timeline tab" class="align-right" src="../../../_images/randomizedTab.png" style="width: 500px;" /></a>
+<ol class="arabic" start="5">
+<li><p><strong>Randomized:</strong> This tab contains all the parameters with randomization enabled which can be done by <cite>Shift</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> clicking one the override state cycler (<strong>11</strong>)</p>
+<p><strong>Randomize All</strong> Will assign a new random value to all parameters in the <em>Randomized</em> tab.</p>
+<p>The range sliders on the left side define the minimum and maximum between which the random value can be picked.
+The field right next to this is the parameter value.
+<a class="reference internal" href="../../../_images/update.svg"><img alt="update icon" height="16" src="../../../_images/update.svg" width="16" /></a> Will randomize the parameter (instead of all of them).
+For more information check out our <a class="reference internal" href="How-To%20Guides/randomization.html#randomization"><span class="std std-ref">Randomization</span></a> section!</p>
+</li>
+<li><p><a class="reference internal" href="../../../_images/icon_search.svg"><img alt="search icon" height="12" src="../../../_images/icon_search.svg" width="12" /></a> This will open a search box to find the parameter you are looking for regardless of the tab you are in.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_key_filter.svg"><img alt="key filter icon" height="12" src="../../../_images/icon_key_filter.svg" width="12" /></a> Only show the parameters with keyframe animation regardless of the tab you are in. This is different from the timeline tab since this only shows animated parameters of the selected node instead of all nodes.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_more.svg"><img alt="move icon" height="12" src="../../../_images/icon_more.svg" width="12" /></a> This will open a dropdown menu with the options to reset or randomize all parameters of the selected node or tab.</p></li>
+<li><p><a class="reference internal" href="../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../_images/full_screen.svg" width="12" /></a> Toggle panel fullscreen</p></li>
+<li><p><strong>Parameter tab:</strong> All nodes have their collection of parameter tabs sorting the parameters in easy-to-find categories.</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/parameterOverride.png"><img alt="override states" class="align-right" src="../../../_images/parameterOverride.png" style="width: 200px;" /></a>
+<ol class="arabic simple" start="11">
+<li><p>Parameter tab divider. This visually divides the parameters of a certain tab in the list. You can hide or unhide the parameters of this tab by using the <a class="reference internal" href="../../../_images/unfold_icon.svg"><img alt="unfold icon" height="8" src="../../../_images/unfold_icon.svg" width="8" /></a> icon.</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/parameterOverride.png"><img alt="override states" class="align-right" src="../../../_images/parameterOverride.png" style="width: 200px;" /></a>
+<ol class="arabic simple" start="12">
+<li><dl class="simple">
+<dt><a class="reference internal" href="../../../_images/key_none.svg"><img alt="no override icon" height="14" src="../../../_images/key_none.svg" width="14" /></a> <strong>Cycle Override State:</strong> Clicking on this will cycle through the different override states for the parameter.</dt><dd><ul class="simple">
+<li><p><a class="reference internal" href="../../../_images/key_none.svg"><img alt="no override icon" height="14" src="../../../_images/key_none.svg" width="14" /></a> <strong>No Override:</strong> The parameter is only driven by the value put into the field, checkbox, or dropdown menu.</p></li>
+<li><p><a class="reference internal" href="../../../_images/key_timeline.svg"><img alt="keyframe icon" height="14" src="../../../_images/key_timeline.svg" width="14" /></a> <strong>Timeline Override:</strong> The parameter is driven by the keyframes and can vary over time. For more information please check out our <a class="reference internal" href="../../../liquigen/pages/references/specific/animation.html#animation"><span class="std std-ref">Keyframe Animation</span></a> section.</p></li>
+<li><p><a class="reference internal" href="../../../_images/control.svg"><img alt="pin override icon" height="14" src="../../../_images/control.svg" width="14" /></a> <strong>Pin Override:</strong> The parameter is driven by an external node like an oscillator. The value can change over time based on a function. For more information check out our <a class="reference internal" href="How-To%20Guides/modulating_parameters.html#modulation"><span class="std std-ref">Modulating Parameters</span></a> section.</p></li>
+<li><p><a class="reference internal" href="../../../_images/random.svg"><img alt="random icon" height="14" src="../../../_images/random.svg" width="14" /></a> <strong>Randomize Override:</strong> <cite>Shift</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click. The parameter value can be randomized within the range specified in the <em>Randomized</em> tab. For more information check out our <a class="reference internal" href="How-To%20Guides/randomization.html#randomization"><span class="std std-ref">Randomization</span></a> section.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Parameter name:</strong> Hovering over this will show a description of what the parameter does.</p></li>
+<li><p><strong>Checkbox:</strong> This can set a parameter to on or off.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_reset_sim.svg"><img alt="reset Icon" height="16" src="../../../_images/icon_reset_sim.svg" width="16" /></a> Reset to the default value.</p></li>
+<li><p><a class="reference internal" href="../../../_images/favorite.svg"><img alt="favorite" height="16" src="../../../_images/favorite.svg" width="16" /></a> <strong>Mark as favorite:</strong> This will make the parameter appear in the favorites tab.</p></li>
+<li><p><strong>Value Slider:</strong> You can <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> within this box to type in the value you want. Or <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> and drag to change the value. You can also apply math within these text boxes. For example, typing 4*7/2+6-2 and pressing <cite>Enter</cite> will put a value of 18 in the parameter. This can be helpful for quickly multiplying a value or reducing it by half for example.</p></li>
+</ol>
+<a class="reference internal image-reference" href="../../../_images/setParameterBounds_LG.png"><img alt="override states" class="align-right" src="../../../_images/setParameterBounds_LG.png" style="width: 400px;" /></a>
+<ol class="arabic simple" start="18">
+<li><p><a class="reference internal" href="../../../_images/range.svg"><img alt="range icon" height="12" src="../../../_images/range.svg" width="12" /></a> This appears when a parameter value outside the default bounds is set by typing it in. Doing this will set the bounds to the new minimum or maximum value. You can click on the <a class="reference internal" href="../../../_images/range.svg"><img alt="range icon" height="12" src="../../../_images/range.svg" width="12" /></a> icon to open the <em>Set Parameter Bounds</em> window where you can set the minimum or maximum value using the text fields, reset them to the default indicated on the right by clicking on the <a class="reference internal" href="../../../_images/icon_reset_sim.svg"><img alt="reset Icon" height="16" src="../../../_images/icon_reset_sim.svg" width="16" /></a> icon, or reset both using the <em>Reset Bounds</em> button. If the <a class="reference internal" href="../../../_images/icon_attention.svg"><img alt="attention icon" height="16" src="../../../_images/icon_attention.svg" width="16" /></a> is present it means that the current parameter value is outside of the minimum or maximum bound and resetting that bound will result in the value being overwritten to the minimum or maximum value.</p></li>
+</ol>
+<blockquote>
+<div><p>The parameter bounds affect the range of the parameter slider, modulation and timeline controls.</p>
+</div></blockquote>
+<ol class="arabic simple" start="19">
+<li><p>Vertical scrollbar. You can use this to scroll through the list of parameters.</p></li>
+<li><p>Horizontal scrollbar.</p></li>
+<li><p>Current software version.</p></li>
+</ol>
+<p>To quickly jump to a parameter you can use <cite>Ctrl + P</cite></p>
+</section>
+<section id="project-manager">
+<h2>Project Manager<a class="headerlink" href="#project-manager" title="Permalink to this heading">#</a></h2>
+<img alt="project manager" src="../../../_images/projectManager.png" />
+<ol class="arabic simple">
+<li><p>Return to the normal user interface with the project you’re currently in.</p></li>
+<li><p>Minimize the Embergen window.</p></li>
+<li><p>Maximize the Embergen window.</p></li>
+<li><p>Close Embergen.</p></li>
+<li><p>JangaFX account. In this section, you can go to your JangaFX account which stores things like your licenses and plans.</p></li>
+<li><p>Open the default preset.</p></li>
+<li><p>This opens a file browser where you can look for a <em>.ember</em> file to open.</p></li>
+<li><p>Go to the Project Manager home page, which features a list of your most recent projects so you can continue working quickly, three default presets that can be very useful starting points for your projects, and our latest YouTube videos.</p></li>
+<li><p>Go to the learning section featuring our in-software guided tours, tutorial videos, and recent live streams.</p></li>
+<li><p>Go to the preset list containing a wide variety of presets to learn from or to use as a starting point for your effects.</p></li>
+</ol>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="500" height="531.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/ProjectManager.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ol class="arabic simple" start="11">
+<li><p>Go to a full list of all the projects you’ve opened. Using the dropdown menu, you can sort your projects by filename, file creation date, or the latest file modification date. You can <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click the <a class="reference internal" href="../../../_images/icon_arrow.svg"><img alt="arrow icon" height="16" src="../../../_images/icon_arrow.svg" width="16" /></a> arrow to toggle the list between ascending or descending. You can also type a part of the filename in the search box to find the project file you’re looking for.</p></li>
+</ol>
+<p><em>Pro tip: You can drag a lot of .ember files into embergen together (like a preset pack) and they will all conveniently show up in the projects list.</em></p>
+<ol class="arabic simple" start="12">
+<li><p>Open the License Manager. For more information on licensing please go to our <a class="reference internal" href="../../../liquigen/pages/getting_started.html#licensingref"><span class="std std-ref">Licensing</span></a> section!</p></li>
+<li><p>Link to our <a class="reference external" href="https://discord.com/invite/TNPjT2C">discord server</a> where you can get help, give feedback on the software, get early builds, or show off things you made.</p></li>
+<li><p>Link to our <a class="reference external" href="https://forums.jangafx.com/">forums</a>.</p></li>
+<li><p>Links to the JangaFX social media pages.</p></li>
+<li><p>Current software version.</p></li>
+<li><p>Preset categories. Use these buttons to filter specific preset types. The <em>8BG</em> and <em>24GB</em> buttons stand for the required GPU VRAM in gigabytes.</p></li>
+<li><p>Search field where you can type the name or a part of the name to find the preset you are looking for.</p></li>
+<li><p>Preset. A preset is a read-only embergen project file that ships with the software. When in the <em>My Projects</em> (11) section, this list contains project files you saved yourself.</p></li>
+</ol>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="settings.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Settings</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="index.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">References</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                Copyright &#169; 2026, JangaFX
+            </div>
+            Made with <a href="https://www.sphinx-doc.org/">Sphinx</a> and <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">User Interface</a><ul>
+<li><a class="reference internal" href="#menubar">Menubar</a></li>
+<li><a class="reference internal" href="#viewport">Viewport</a></li>
+<li><a class="reference internal" href="#node-graph">Node Graph</a></li>
+<li><a class="reference internal" href="#timeline-editor">Timeline Editor</a></li>
+<li><a class="reference internal" href="#properties-panel">Properties Panel</a></li>
+<li><a class="reference internal" href="#project-manager">Project Manager</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/sphinx_highlight.js"></script>
+    <script src="../../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../../_static/js/ga.js"></script>
+    <script src="../../../_static/js/yall.min.js"></script>
+    <script src="../../../_static/js/loadLibraries.js"></script>
+    <script src="../../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

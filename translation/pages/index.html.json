@@ -1,0 +1,552 @@
+{
+  "path": "index.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "f57af86e8b4c",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "37a71687fa6e",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "0a7da3a7cce4",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "bd9e8af62c50",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "6ff3af1b98a5",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "0cceaa708285",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "826ae899343c",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "4ba793458a3d",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "b135df9b87b8",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "42458ceb302b",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "ed3e74e4bedb",
+      "source": "References",
+      "target": "参考",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "c056b71392b0",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "329a727d4dd5",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "df62ab1f4f70",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "144f9284722e",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "fe5dea7b4b5c",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "f96e7a5b7c6b",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "ed39bb9eddae",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "50efb4ab15e7",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "57bfc72044f5",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "3cf066d6289d",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "cd939392ae84",
+      "source": "Note",
+      "target": "备注",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "2be79a98ea32",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "1e36cff16730",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "65303c69abba",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "d03c4126532a",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "1340ce6cb5f7",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "cd19c2f5f8ea",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "dcf401a17314",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "67e6a2159d9d",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "17ed98a1d27f",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "6211a0121e63",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "16dd9a0f2900",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "faba0d6c3267",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "5d332c423d51",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "3377d70702ca",
+      "source": "References",
+      "target": "参考",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "41f64c7f6106",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "f94d99d67111",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "407e8c2556b7",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "246e442ee35f",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "6441e38c14db",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "4f2121889dca",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "44a737155e8c",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "dcf88cf3945c",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "5f97410f12eb",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "3de9a3e15fe5",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "2cd9f23919a7",
+      "source": "Note",
+      "target": "备注",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "202727fb8225",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "c11b15621067",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "12abde74e5f7",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "deb0bb42e9e0",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "e5caaba1da24",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "d71e552b8a85",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "1a66d7cd6db5",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "c1a9ae1e6578",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "61adcf680fdc",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "8dc251ed45ff",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "658c7fde463e",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "13d649c26b2f",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "6185f6a0c539",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "afd761c9badc",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "986b947f559b",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "3da45ac51b5e",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "43f2b59886ae",
+      "source": "Welcome",
+      "target": "欢迎",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "3f1cadd0c501",
+      "source": "Welcome to the official JangaFX documentation site! Here, you’ll find resources and guides to help you get the most out of our tools and enhance your experience.",
+      "target": "欢迎来到 JangaFX 官方文档站点！在这里，你可以找到相关资源与指南，帮助你充分发挥我们的工具能力并提升使用体验。",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "b183f500c852",
+      "source": "Discover",
+      "target": "探索",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "3af2afea221e",
+      "source": "EmberGen",
+      "target": "EmberGen",
+      "note": ""
+    },
+    {
+      "id": "7a160614a79f",
+      "source": "EmberGen is a real-time volumetric fluid simulation tool that can instantly simulate, render, and export flipbooks, image sequences, and VDB volumes. With EmberGen, you can create anything: from fire and smoke to explosions and magic wisps. EmberGen gives you the creative freedom to iterate on your simulations in milliseconds instead of hours.",
+      "target": "EmberGen 是一款实时体积流体模拟工具，可以即时模拟、渲染并导出翻页序列、图像序列和 VDB 体积。借助 EmberGen，你可以创作从火焰、烟雾到爆炸和魔法缕状烟雾等各类效果。EmberGen 让你能够以毫秒级速度迭代模拟，而不是耗费数小时等待。",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "ffd7719cbbaa",
+      "source": "Start learning to use EmberGen right here: ",
+      "target": "从这里开始学习使用 EmberGen：",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "2e8b9a0bc039",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "2bf027eca9d8",
+      "source": "LiquiGen",
+      "target": "LiquiGen",
+      "note": ""
+    },
+    {
+      "id": "15c3a2c2357b",
+      "source": "LiquiGen is our latest major innovation for simulating real-time liquids. Generate flipbooks, image sequences, and alembic caches easily. Simulate foam, spray, and bubbles with precise control.",
+      "target": "LiquiGen 是我们在实时液体模拟方面的最新重大创新。你可以轻松生成翻页序列、图像序列和 Alembic 缓存，并以精确控制来模拟泡沫、飞溅和气泡。",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "a3b8bbe8e47d",
+      "source": "Start learning to use LiquiGen right here: ",
+      "target": "从这里开始学习使用 LiquiGen：",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "0a28273f0ff0",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "49b18c7361c3",
+      "source": "IlluGen",
+      "target": "IlluGen",
+      "note": ""
+    },
+    {
+      "id": "4c5588415c3a",
+      "source": "IlluGen is the only tool built specifically for real-time visual effects and tech art asset generation. It is a procedural node based tool that helps you generate both 2D and 3D assets. Assets such as tiling noise, normal maps, flowmaps, 3D FX meshes, caustics, masks, distortions, and more are easily generated here. With a full animation timeline, flipbook packing and unpacking, easy alpha channels, and more, IlluGen is the next big tool for Real-Time VFX Artists.",
+      "target": "IlluGen 是专为实时视觉特效和技术美术资产生成而构建的工具。它是一款基于程序化节点的工具，可帮助你生成 2D 与 3D 资产。平铺噪声、法线贴图、流向贴图、3D FX 网格、焦散、遮罩、扭曲等资产都可以在这里轻松生成。凭借完整的动画时间轴、翻页序列打包与解包、便捷的 Alpha 通道等能力，IlluGen 将成为实时 VFX 艺术家的重要工具。",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "e34c2881898a",
+      "source": "Start learning to use IlluGen right here: ",
+      "target": "从这里开始学习使用 IlluGen：",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "8a05cff9e10b",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "ee2af688d38e",
+      "source": "GeoGen",
+      "target": "GeoGen",
+      "note": ""
+    },
+    {
+      "id": "ff6529752efd",
+      "source": "GeoGen is a fresh take on what terrain and planet generation can be, and with all of the incredible competition out there, we know that we have to take it to the next level. With modern node-based workflows, unique simulations, and workflow enhancements built with games in mind, GeoGen will be a powerful tool in your arsenal.",
+      "target": "GeoGen 重新诠释了地形与星球生成的可能性。面对众多优秀的同类工具，我们知道必须把它提升到新的层级。凭借现代化的节点式工作流、独特的模拟能力，以及面向游戏制作的流程增强，GeoGen 将成为你工具箱中的强大工具。",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "b09c6078968a",
+      "source": "Start learning to use GeoGen right here: ",
+      "target": "从这里开始学习使用 GeoGen：",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "f56a750ef2fb",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "054e4669a3b2",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "074185e88cb4",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "d5cff3b0e59d",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "65c01e5102ee",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "5ed48efcd47f",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "4b383acafb9f",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translated by Codex using glossary"
+    },
+    {
+      "id": "e02e27eb9dac",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "018e7b16b5f7",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "68a108e3e085",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    }
+  ]
+}

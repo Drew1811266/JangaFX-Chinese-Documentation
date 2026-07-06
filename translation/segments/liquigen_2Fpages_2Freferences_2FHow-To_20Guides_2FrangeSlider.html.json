@@ -1,0 +1,926 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+  "segment_count": 92,
+  "segments": [
+    {
+      "id": "6af2163ec548",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 700,
+      "end": 736,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Range Slider - JangaFX Documentation",
+      "source_text": "Range Slider - JangaFX Documentation"
+    },
+    {
+      "id": "084a9b303aa3",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 5326,
+      "end": 5349,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "2c1f3ea5be2f",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 5444,
+      "end": 5474,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "61367c382a20",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 5670,
+      "end": 5700,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "fb56efee8070",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 5891,
+      "end": 5912,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "b9281ec63afe",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 6105,
+      "end": 6143,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "132706fbef19",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 6533,
+      "end": 6565,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "2cefe4c38090",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 7613,
+      "end": 7635,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "56c31ff53409",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 7813,
+      "end": 7845,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "e7fb9f583b74",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8038,
+      "end": 8053,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "0c7d9f8eb56f",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8185,
+      "end": 8195,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "6793a50c42e4",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8373,
+      "end": 8405,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "12139cc83af1",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8606,
+      "end": 8620,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "960aff7abc76",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8742,
+      "end": 8750,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "c5dc54c5a983",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8873,
+      "end": 8882,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "3d0bdd49f3c2",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9030,
+      "end": 9043,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "fbd45109b303",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9221,
+      "end": 9253,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "2b92d4fbe805",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9471,
+      "end": 9484,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "84cbf5fe6f4f",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9635,
+      "end": 9654,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "6cf575469014",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9789,
+      "end": 9794,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "b676547f3896",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9931,
+      "end": 9938,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "1ff36ca848f7",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10072,
+      "end": 10076,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "1148493ce43c",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10222,
+      "end": 10242,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "1971d2386bcd",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10381,
+      "end": 10390,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "18aed3faf8c7",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10531,
+      "end": 10543,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "83b1549959a2",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10682,
+      "end": 10700,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "0b750f377672",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10846,
+      "end": 10862,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "947f817cf576",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11013,
+      "end": 11034,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "e388f73cde1a",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11172,
+      "end": 11180,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "3b3b6b924bd6",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11319,
+      "end": 11329,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "685b52b61a73",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11472,
+      "end": 11485,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "f6ae3424dfdd",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11615,
+      "end": 11618,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "f2b80dd1e7a5",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11741,
+      "end": 11763,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "4fbe4a416f39",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11952,
+      "end": 11984,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "0d34b1486c38",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 12172,
+      "end": 12187,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "1cdd9cf699ff",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 12292,
+      "end": 12302,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "939b969f81f2",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 12491,
+      "end": 12523,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "1fa6b5783fd1",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 12705,
+      "end": 12719,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "a6d01277cfa1",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 12806,
+      "end": 12814,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "82583f6690f3",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 12902,
+      "end": 12911,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "d51037d39695",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13013,
+      "end": 13026,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "0fa21571033e",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13215,
+      "end": 13247,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "5d55e99cab13",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13425,
+      "end": 13436,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "aed3822a8380",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13533,
+      "end": 13552,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "ad866be94d2f",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13633,
+      "end": 13638,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "029455ea5d2e",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13721,
+      "end": 13728,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "cf34c71e7c21",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13808,
+      "end": 13812,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "7d03f9698a58",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13904,
+      "end": 13924,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "3f4a934283ac",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14013,
+      "end": 14026,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "6bdb938aa650",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14127,
+      "end": 14139,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "7d1bb673ab46",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14224,
+      "end": 14242,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "61260ed3c4ac",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14334,
+      "end": 14350,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "2aaa5223b774",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14447,
+      "end": 14468,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "52a8ab6cfedb",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14552,
+      "end": 14560,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "16b530311b47",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14649,
+      "end": 14662,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "852fb486a89e",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14749,
+      "end": 14760,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "ea75062ea1bd",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14869,
+      "end": 14872,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "ce86bc0080c1",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14985,
+      "end": 15006,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "21e5c193bcb1",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 15106,
+      "end": 15126,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "4fc8d22dda24",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 15229,
+      "end": 15251,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "41e1e07a2e6a",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 15664,
+      "end": 15675,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "ed6cad7f7d45",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 15895,
+      "end": 15933,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "998cc3796fda",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 16352,
+      "end": 16384,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "e4e03703f0d6",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 16598,
+      "end": 16610,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "dd87b8e689dc",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17033,
+      "end": 17107,
+      "line": 264,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "4e979586358f",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17134,
+      "end": 17192,
+      "line": 268,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The range sliders are used to represent a range of values.",
+      "source_text": "The range sliders are used to represent a range of values."
+    },
+    {
+      "id": "ed5c67a44bef",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17200,
+      "end": 17345,
+      "line": 269,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "It can be used for a variety of things like specifying a range of densities, or specifying a range of values for particles to randomly pick from.",
+      "source_text": "It can be used for a variety of things like specifying a range of densities, or specifying a range of values for particles to randomly pick from."
+    },
+    {
+      "id": "ffade77d15a3",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17377,
+      "end": 17422,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The minimum value of the range can be set by ",
+      "source_text": "The minimum value of the range can be set by "
+    },
+    {
+      "id": "ca45e07c133b",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17581,
+      "end": 17608,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking and dragging the ",
+      "source_text": " clicking and dragging the "
+    },
+    {
+      "id": "91091d041d0d",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17779,
+      "end": 17846,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " icon or by typing it into the textfield that appears after single ",
+      "source_text": " icon or by typing it into the textfield that appears after single "
+    },
+    {
+      "id": "2afe4f99b8ad",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18005,
+      "end": 18046,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking on the left side of the slider.",
+      "source_text": " clicking on the left side of the slider."
+    },
+    {
+      "id": "38c10cc6c4b7",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18063,
+      "end": 18108,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The maximum value of the range can be set by ",
+      "source_text": "The maximum value of the range can be set by "
+    },
+    {
+      "id": "538c3c402920",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18267,
+      "end": 18294,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking and dragging the ",
+      "source_text": " clicking and dragging the "
+    },
+    {
+      "id": "a179e3c2e90a",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18468,
+      "end": 18535,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " icon or by typing it into the textfield that appears after single ",
+      "source_text": " icon or by typing it into the textfield that appears after single "
+    },
+    {
+      "id": "bf3fe160a913",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18694,
+      "end": 18736,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking on the right side of the slider.",
+      "source_text": " clicking on the right side of the slider."
+    },
+    {
+      "id": "ddbadba65c32",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18753,
+      "end": 18804,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The range of values can be offsetted as a whole by ",
+      "source_text": "The range of values can be offsetted as a whole by "
+    },
+    {
+      "id": "aef415832e79",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18963,
+      "end": 19004,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking and dragging within the slider.",
+      "source_text": " clicking and dragging within the slider."
+    },
+    {
+      "id": "aaa827e004f2",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 19021,
+      "end": 19037,
+      "line": 274,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "Clicking on the ",
+      "source_text": "Clicking on the "
+    },
+    {
+      "id": "0a2f0bf7a4ed",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 19209,
+      "end": 19258,
+      "line": 274,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " icon will reset the slider to the default range.",
+      "source_text": " icon will reset the slider to the default range."
+    },
+    {
+      "id": "7501ec6533c4",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 19275,
+      "end": 19439,
+      "line": 275,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "When a minimum value is typed in that’s higher than the maximum value, this value will be the new maximum value and old maximum value will be the new minumum value.",
+      "source_text": "When a minimum value is typed in that’s higher than the maximum value, this value will be the new maximum value and old maximum value will be the new minumum value."
+    },
+    {
+      "id": "30afad87d1f6",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 19456,
+      "end": 19619,
+      "line": 276,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "When a maximum value is typed in that’s lower than the minimum value, this value will be the new minimum value and old minimum value will be the new maximum value.",
+      "source_text": "When a maximum value is typed in that’s lower than the minimum value, this value will be the new minimum value and old minimum value will be the new maximum value."
+    },
+    {
+      "id": "3bb1645a5cb1",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 19893,
+      "end": 19897,
+      "line": 288,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "344a81502b1a",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 19963,
+      "end": 19981,
+      "line": 290,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "95c1c7f95cfc",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20358,
+      "end": 20366,
+      "line": 298,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "517f6132c0ca",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20449,
+      "end": 20462,
+      "line": 301,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "573767d09207",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20648,
+      "end": 20708,
+      "line": 308,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "8616881c4606",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20714,
+      "end": 20737,
+      "line": 310,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "74bd43cbe782",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20775,
+      "end": 20781,
+      "line": 311,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "109c7cd75bd9",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20785,
+      "end": 20790,
+      "line": 311,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "321f7adc0bfc",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20840,
+      "end": 20850,
+      "line": 311,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "54c008741ba1",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20854,
+      "end": 20882,
+      "line": 311,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "00d340712053",
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20926,
+      "end": 20930,
+      "line": 313,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

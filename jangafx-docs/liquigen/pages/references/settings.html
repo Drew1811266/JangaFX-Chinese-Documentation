@@ -1,0 +1,603 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../../genindex.html" /><link rel="search" title="Search" href="../../../search.html" /><link rel="next" title="Node List" href="node_list.html" /><link rel="prev" title="User Interface" href="ui_reference.html" />
+
+    <link rel="shortcut icon" href="../../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>Settings - JangaFX Documentation</title>
+      <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../../index.html"><div class="brand">JangaFX Documentation</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../embergen/index.html">EmberGen Documentation</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../embergen/pages/getting_started.html">Getting Started</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../embergen/pages/references/index.html">References</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../../embergen/pages/references/ui_reference.html">User Interface</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../embergen/pages/references/settings.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../embergen/pages/references/node_list.html">Node List</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/index.html">How-To Guides</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/camera_import.html">Camera Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/render_passes_mapping.html">Render Pass Mapping</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/color.html">Color</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/comment.html">Comment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/note.html">Note</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/import_animation.html">FBX, OBJ, ABC Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/histogram.html">Histogram</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/rangeSlider.html">Range Slider</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/animation.html">Keyframe Animation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/modulation_curve.html">Modulation Curve</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/modulating_parameters.html">Modulating Parameters</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/palettes.html">Palettes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/exportVDB.html">VDB Export</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/randomization.html">Randomization</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../embergen/pages/FAQ.html">FAQ</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current has-children"><a class="reference internal" href="../../index.html">LiquiGen Documentation</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../getting_started.html">Getting Started</a></li>
+<li class="toctree-l2 current has-children"><a class="reference internal" href="index.html">References</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="ui_reference.html">User Interface</a></li>
+<li class="toctree-l3 current current-page"><a class="current reference internal" href="#">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="node_list.html">Node List</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="How-To%20Guides/index.html">How-To Guides</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/diagnostics.html">Diagnostics</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/render_passes_mapping.html">Render Pass Mapping</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/color.html">Color</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/comment.html">Comment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/note.html">Note</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/import_animation.html">FBX, OBJ, ABC Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/camera_import.html">Camera Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/rangeSlider.html">Range Slider</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/animation.html">Keyframe Animation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/modulation_curve.html">Modulation Curve</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/modulating_parameters.html">Modulating Parameters</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/palettes.html">Palettes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/randomization.html">Randomization</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/expressions.html">Expressions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../FAQ.html">FAQ</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../illugen/index.html">IlluGen Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../geogen/index.html">GeoGen Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../licensing/index.html">Floating License Guide</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <section id="settings">
+<span id="settings-lg"></span><h1>Settings<a class="headerlink" href="#settings" title="Permalink to this heading">#</a></h1>
+<section id="project-settings">
+<span id="projectsettings-lg"></span><h2>Project Settings<a class="headerlink" href="#project-settings" title="Permalink to this heading">#</a></h2>
+<section id="generalicon-general">
+<h3><a class="reference internal" href="../../../_images/icon_general.svg"><img alt="general icon" height="12" src="../../../_images/icon_general.svg" width="12" /></a> General<a class="headerlink" href="#generalicon-general" title="Permalink to this heading">#</a></h3>
+<img alt="project settings general" src="../../../_images/projectSettingsGeneral_LG_2.png" />
+<ul>
+<li><p><strong>Tags</strong> These tags can be used for browsing presets in the <em>presets</em> section of the <a class="reference internal" href="../../../_images/icon_home.svg"><img alt="home Icon" height="14" src="../../../_images/icon_home.svg" width="14" /></a> project manager. (presets are <em>.ember</em> files stored in the <em>presets</em> folder in your install directory) You can use the following tags: <code class="docutils literal notranslate"><span class="pre">8</span> <span class="pre">GB</span></code>, <code class="docutils literal notranslate"><span class="pre">24</span> <span class="pre">GB</span></code></p></li>
+<li><p><strong>Shape default size scale:</strong> Scaling applied to a new shape’s default size when a new shape node is created. This setting is useful for ensuring newly created shapes are a more appropriate size, for instance, if they consistently appear too large or too small by default.</p></li>
+<li><p><strong>Read-Only:</strong> The <em>Save Read-Only Copy</em> button will open a file browser to specify the name and location of where you want to save your project as a read-only copy.</p>
+<p>This project file will function as a normal project file but when trying to save it you’ll be prompted with this message.</p>
+</li>
+</ul>
+<a class="reference internal image-reference" href="../../../_images/saveReadOnly_LG.png"><img alt="save read only prompt" src="../../../_images/saveReadOnly_LG.png" style="width: 607.1999999999999px; height: 279.59999999999997px;" /></a>
+<ul class="simple">
+<li><p><strong>Auto-Favorite Changed Parameters:</strong> This will favorite all parameters that are changed compared to either the last time you saved your file, the default preset, or another project file which you can browse for using the <em>Load</em> button.</p></li>
+</ul>
+<p>This can be helpful for quickly getting a list of the most important parameters of your project!</p>
+<ul class="simple">
+<li><p><strong>Randomize All Seeds</strong> The <em>Randomize</em> button will randomize all parameters with <a class="reference internal" href="../../../_images/random.svg"><img alt="randomize icon" height="14" src="../../../_images/random.svg" width="14" /></a> <em>Randomize Override</em> enabled (by default all <em>Seed</em> parameters). This will give a different variation of your project. For more information about randomization check our <a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/randomization.html#randomization"><span class="std std-ref">Randomization</span></a> section!</p></li>
+</ul>
+</section>
+<section id="renderericon-renderer">
+<h3><a class="reference internal" href="../../../_images/icon_renderer.svg"><img alt="renderer icon" height="12" src="../../../_images/icon_renderer.svg" width="12" /></a> Renderer<a class="headerlink" href="#renderericon-renderer" title="Permalink to this heading">#</a></h3>
+<img alt="project settings renderer" src="../../../_images/projectSettingsRenderer_LG.png" />
+<p>Enable or disable the visibility of certain elements of your project in the viewport. Most of these mirror the display options in the <a class="reference internal" href="../../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../../_images/icon_viewport.svg" width="12" /></a> <em>View</em> dropdown menu in the viewport.</p>
+<p><a class="reference internal" href="../../../_images/reset.svg"><img alt="reset icon" height="16" src="../../../_images/reset.svg" width="16" /></a> <strong>Reset To Defaults:</strong> Prompts a window to ask you if you want to reset the project settings.</p>
+<blockquote>
+<div><p><em>Confirm</em> will reset <strong>all</strong> the project settings to default.</p>
+</div></blockquote>
+</section>
+<section id="notesicon-notes">
+<h3><a class="reference internal" href="../../../_images/icon_notes.svg"><img alt="notes icon" height="12" src="../../../_images/icon_notes.svg" width="12" /></a> Notes<a class="headerlink" href="#notesicon-notes" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../../_images/projectSettingsNotes_LG.png"><img alt="project settings notes" src="../../../_images/projectSettingsNotes_LG.png" style="width: 600px;" /></a>
+<ol class="arabic simple">
+<li><p>Textfield for typing your note.</p></li>
+<li><p>This will open the note window (<strong>4</strong>)</p></li>
+<li><p>With this checked, the note window will show when opening the project file you’ve set the note in.</p></li>
+<li><p><em>Project Notes</em> window</p></li>
+<li><p>Note text.</p></li>
+</ol>
+</section>
+<section id="thumbnailicon-thumbnail">
+<h3><a class="reference internal" href="../../../_images/thumbnail.svg"><img alt="renderer icon" height="12" src="../../../_images/thumbnail.svg" width="12" /></a> Thumbnail<a class="headerlink" href="#thumbnailicon-thumbnail" title="Permalink to this heading">#</a></h3>
+<p>A thumbnail is an image or video to show with the preset in the <a class="reference internal" href="../../../_images/icon_home.svg"><img alt="home Icon" height="14" src="../../../_images/icon_home.svg" width="14" /></a> Home Screen.</p>
+<a class="reference internal image-reference" href="../../../_images/projectSettingsThumbnail.png"><img alt="project thumbnail" class="align-center" src="../../../_images/projectSettingsThumbnail.png" style="width: 800px;" /></a>
+<p>The videos have to be <strong>PNG flipbooks</strong> with a maximum size of 4009 pixels in both dimentions.</p>
+<p>for more information about flipbooks, please check out our <a class="reference internal" href="../../../embergen/pages/references/node_list.html#exporting"><span class="std std-ref">Export</span></a> section.</p>
+<p>When displayed on the Home Screen, a crossfade will be automatically added to the looping point of the thumbnail unless the flipbook is shorter than 41 frames.</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     >
+        <video class="lazy" preload="none" width="650" height="429.53821656050957" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/projectSettingsThumbnail_LG.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Preview</strong> Preview of the thumbnail if you have one. You can <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> click on the <a class="reference internal" href="../../../_images/delete.svg"><img alt="delete icon" height="16" src="../../../_images/delete.svg" width="16" /></a> and select <em>Clear</em> in the prompt to remove the current thumbnail.</p></li>
+<li><p><strong>Capture From Viewport</strong> Capture your current viewport as a still image to be used as a thumbnail.</p></li>
+<li><p><strong>Import File</strong> When clicking the <em>Import</em> button, a file browser will pop up where you can look for a <strong>png</strong> file to be used as a flipbook or static image for the thumbnail.</p></li>
+<li><p><strong>Columns / Rows</strong> Here you can setup the amount of columns and rows for your flipbook. The maximum number of frames is defined by multiplying these two numbers.</p></li>
+</ul>
+<p><em>If columns and rows are set to 1, you will be using a static png as your thumbnail and the following parameters won’t appear.</em></p>
+<ul class="simple">
+<li><p><strong>Frame Count</strong> The amount of frames used for the thumbnail.</p></li>
+<li><p><strong>Frame Rate</strong> The number of frames per second used to play the thumbnail. Higher values will “speed up” the video.</p></li>
+</ul>
+</section>
+</section>
+<section id="preferences">
+<span id="preferences-lg"></span><h2>Preferences<a class="headerlink" href="#preferences" title="Permalink to this heading">#</a></h2>
+<section id="id1">
+<h3><a class="reference internal" href="../../../_images/icon_general.svg"><img alt="general icon" height="12" src="../../../_images/icon_general.svg" width="12" /></a> General<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
+<img alt="general tab" src="../../../_images/preferencesGeneral_LG.png" />
+<ul class="simple">
+<li><p><strong>UI Scale:</strong> Set a scale for all the text and icons in the UI. This can be helpful when you have trouble reading small letters.</p></li>
+<li><p><strong>Vsync:</strong> Synchronise the UI framerate to the refresh rate of your monitor.</p></li>
+<li><p><strong>Simulation Preemption:</strong> Time spent on a simulation step before pausing to render and update the UI. Lower values can make the UI more responsive at the cost of simulation speed.</p></li>
+<li><p><strong>Play Project On Load:</strong> If checked, presets will start simulating when opened. Otherwise, presets stay pauses until started.</p></li>
+<li><p><strong>Export Warning On Overwrite:</strong> If checked, a warning will pop up when trying to export something that would overwrite something else. for example, if you try to export a flipbook with the same name, extention, and target directory as an already existing flipbook. <em>Disable Warning</em> will uncheck this parameter, <em>Cancel</em> will cancel the export so that no files will be overwritten, and <em>Overwrite</em> will continue the export overwriting the files.</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../_images/preferencesExportOverwriteWarning_LG.png"><img alt="export overwrite warning" src="../../../_images/preferencesExportOverwriteWarning_LG.png" style="width: 512.0px; height: 219.5px;" /></a>
+<ul class="simple">
+<li><p><strong>UI Layout</strong> Set the layout of the four main panels. This can be useful to quickly reset your layout to the default if you made a lot of changes by moving and scaling these windows.</p></li>
+<li><p><strong>Graph Background Grid Type:</strong> Set the background grid type of the node graph. <em>None</em> is the best option for streaming or recording due to compression artifacts.</p></li>
+<li><p><strong>Mouse Compatibility Mode:</strong> If checked, the hiding and warping of the cursor when interacting with the viewport is disabled. This can be useful with remote desktop.</p></li>
+<li><p><strong>Middle-Click Emulation:</strong> If checked, <cite>alt</cite> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> is remapped to represent <a class="reference internal" href="../../../_images/middle.svg"><img alt="middle mouse button" height="18" src="../../../_images/middle.svg" width="18" /></a> this can be useful when working on a trackpad.</p></li>
+<li><p><strong>Scroll-Wheel Emulation:</strong> Causes <a class="reference internal" href="../../../_images/middle.svg"><img alt="middle mouse button" height="18" src="../../../_images/middle.svg" width="18" /></a> + <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> clicking and dragging to act as scroll events when using a tablet like a wacom. This enables you to zoom in and out in the node graph in a similar way to Nuke.</p></li>
+<li><p><strong>Max Undo History:</strong> Amount of actions you can roll back using the undo command.</p></li>
+<li><p><strong>Recovery Autosave Interval:</strong> Amount of time that goes by before creating a new recovery autosave file.</p></li>
+<li><p><strong>FPS Limit:</strong> Maximum framerate for the simulation. This can be useful to set if you want to watch your simulation at your target framerate while working.</p></li>
+<li><p><strong>Show Floating Viewport:</strong> With this checked, you’ll have a floating viewport window when using fullscreen mode <a class="reference internal" href="../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../_images/full_screen.svg" width="12" /></a> on another panel.</p></li>
+<li><p><strong>Create Key When Parameter Exposed:</strong> If checked, when settings a parameter to timeline animation, a key will be created with the current value at the current frame.</p></li>
+<li><p><strong>Show Modulator Output On Timeline:</strong> If checked, a preview of the modulator is shown in the timeline. For example, when using a <em>Mod: Oscillator</em> node with a <em>Sine</em> waveform, you can now clearly see how the peaks and valleys relate to the timeline.</p></li>
+<li><p><strong>Manipulator scale:</strong> Scale the Move <a class="reference internal" href="../../../_images/icon_move.svg"><img alt="move icon" height="20" src="../../../_images/icon_move.svg" width="20" /></a>, Rotate <a class="reference internal" href="../../../_images/icon_rotate.svg"><img alt="rotate icon" height="20" src="../../../_images/icon_rotate.svg" width="20" /></a> or Scale <a class="reference internal" href="../../../_images/icon_scale.svg"><img alt="scale icon" height="20" src="../../../_images/icon_scale.svg" width="20" /></a> manipulators in the viewport.</p></li>
+<li><p><strong>Template Project:</strong> Here you can set a custom default project. This project will then be used with <em>File&gt;New</em> Project This project can’t be accidentally saved over since when saving the default project it will act as if it doesn’t have a file name yet and prompt you to specify one.</p></li>
+<li><p><strong>Post-Export Command:</strong> For example, When running an export overnight, you may want to close embergen when the export is finished to save power. This can be done by typing <code class="docutils literal notranslate"><span class="pre">$quit</span></code> in this text field.</p></li>
+<li><dl class="simple">
+<dt><strong>Relative Asset Paths:</strong></dt><dd><ul>
+<li><p>If checked, all files imported into LiquiGen using the file browser will refer to a file path relative to the <em>.liquigen</em> project file you are working in. Navigating up folders using the <code class="docutils literal notranslate"><span class="pre">..\</span></code> syntax and navigating down using <code class="docutils literal notranslate"><span class="pre">/</span></code> and the folder names. This can be useful if your workflow keeps your assets and project files close together in a folder structure, as it will give more clarity in the <em>Filepath</em> parameters and the references will not break when moving all the files together to a different folder or even a different drive.</p></li>
+<li><p>If unchecked, all files imported into LiquiGen using the file browser will refer to its absolute file path on your computer. This can be useful to keep track of where your files are.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>MIDI support:</strong> This needs to be checked to be able to use the MIDI node.</p></li>
+<li><p><strong>Show Minimap:</strong> Toggles the minimap in the nodegraph.</p></li>
+<li><p><strong>Minimap Location:</strong> Dropdown menu where you can pick the desired location for the minimap in the nodegraph.</p></li>
+<li><p><strong>Minimap Scale:</strong> Controls the size of the minimap ranging between <em>40%</em> and <em>200%</em>.</p></li>
+</ul>
+</section>
+<section id="shortcutsicon-shortcuts">
+<span id="shortcuts"></span><h3><a class="reference internal" href="../../../_images/icon_shortcuts.svg"><img alt="shortcuts icon" height="12" src="../../../_images/icon_shortcuts.svg" width="12" /></a> Shortcuts<a class="headerlink" href="#shortcutsicon-shortcuts" title="Permalink to this heading">#</a></h3>
+<img alt="shortcuts tab" src="../../../_images/preferencesShortcuts_LG.png" />
+<ol class="arabic simple">
+<li><p>Search for a command.</p></li>
+<li><p>Command.</p></li>
+<li><p>Current key-bind.</p></li>
+<li><p><a class="reference internal" href="../../../_images/icon_plus.svg"><img alt="plus icon" height="16" src="../../../_images/icon_plus.svg" width="16" /></a> Add a shortcut for this command.</p></li>
+<li><p><a class="reference internal" href="../../../_images/reset.svg"><img alt="reset icon" height="16" src="../../../_images/reset.svg" width="16" /></a> Reset the shortcut to default.</p></li>
+<li><p><a class="reference internal" href="../../../_images/delete.svg"><img alt="delete icon" height="16" src="../../../_images/delete.svg" width="16" /></a> Remove all shortcuts for this command.</p></li>
+<li><p>This will prompt a window to ask you if you want the reset all the keyboard shortcuts to the defaults.</p></li>
+</ol>
+</section>
+<section id="camerasettingsicon-camera">
+<h3><a class="reference internal" href="../../../_images/icon_camera1.svg"><img alt="camera settings icon" height="12" src="../../../_images/icon_camera1.svg" width="12" /></a> Camera<a class="headerlink" href="#camerasettingsicon-camera" title="Permalink to this heading">#</a></h3>
+<img alt="camera tab" src="../../../_images/preferencesCamera_LG_2.png" />
+<section id="bindings">
+<h4>Bindings<a class="headerlink" href="#bindings" title="Permalink to this heading">#</a></h4>
+<p>This section sets up the keybindings for moving the camera.</p>
+<blockquote>
+<div><p>Camera bindings are set up in the same way as in the <a class="reference internal" href="#shortcuts"><span class="std std-ref"> Shortcuts</span></a> tab. But here, any combination of multiple keys and mouse buttons is accepted.</p>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Control Mapping:</strong> Dropdown menu of different control mapping types. This is useful when you are used to another type of camera control like Blender or Maya (Industry Compatible). These can be thought of as presets for the bindings tab. Changing a control mapping will override the key mappings.</p></li>
+<li><p><strong>Orbit:</strong> Orbit around the pivot.</p></li>
+<li><p><strong>Zoom:</strong> Move the camera closer or further from your pivot.</p></li>
+<li><p><strong>Pan:</strong> Moves the camera horizontally and vertically in screen space (by default).</p></li>
+<li><p><strong>Pan (Alt.):</strong> Moves the camera over an alternative plane. This can be set up in the Pan (alt) section.</p></li>
+<li><p><strong>Fly:</strong> Key binding used to activate fly mode. Fly mode allows you to move around in a first person type fashion using the         <cite>W</cite>, <cite>A</cite>, <cite>S</cite>, <cite>D</cite> keys or the arrow keys to move around and the <cite>E</cite> and <cite>Q</cite> keys to move up and down.</p></li>
+<li><p><strong>Tank:</strong> Key binding used to activate tank mode. Tank mode allows you to turn the camera left/right, and forwards/backwards with the mouse.</p></li>
+</ul>
+</section>
+<section id="pivot">
+<h4>Pivot<a class="headerlink" href="#pivot" title="Permalink to this heading">#</a></h4>
+<ul>
+<li><p><strong>Pivot To Cursor:</strong> When enabled, zooming and orbiting will move around the pivot position instead of the camera center. The pivot is indicated with a <a class="reference internal" href="../../../_images/camera_aim.svg"><img alt="camera aim icon" height="12" src="../../../_images/camera_aim.svg" width="12" /></a> blue crosshair and is set at the position of your cursor. This can be useful to, for example, easily zoom into or orbit around a specific droplet.</p>
+<blockquote>
+<div><p>When the cursor is hovering over the sky or ground the pivot will fallback to the camera center.</p>
+</div></blockquote>
+</li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="390" height="324.9184441656211" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/zoom_pivot.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Pivot To Ground:</strong> Specifies how the pivot behaves when the cursor is on the ground.</dt><dd><ul>
+<li><p><em>Never:</em> The default behavior is applied using the camera center as the pivot.</p></li>
+<li><p><em>Zoom only:</em> When zooming, the camera will move towards the pivot where the cursor was placed on the ground.</p></li>
+<li><p><em>Zoom and Orbit:</em> The camera will zoom towards and orbit around the pivot where the cursor was placed on the ground.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Always Show Pivot:</strong> If checked, the <a class="reference internal" href="../../../_images/camera_aim.svg"><img alt="camera aim icon" height="12" src="../../../_images/camera_aim.svg" width="12" /></a> blue crosshair representing the pivot is always shown even when not interacting with the camera.</p></li>
+</ul>
+</section>
+<section id="orbit">
+<h4>Orbit<a class="headerlink" href="#orbit" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Orbit Sensitivity:</strong> Speed of orbiting the camera in degrees per pixel. So with a value of <em>0.4</em> the camera will orbit <em>0.4</em> degrees when moving the cursor one pixel.</p></li>
+<li><p><strong>Invert Vertical Orbit Direction:</strong> Inverts the vertical axis of the cursor input. With this enabled, moving the cursor up will orbit down and vice versa.</p></li>
+</ul>
+</section>
+<section id="zoom">
+<h4>Zoom<a class="headerlink" href="#zoom" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Zoom Input Axis:</strong> Specify if the camera will zoom based on moving the cursor horizontally or vertically.</p></li>
+<li><p><strong>Invert Zoom Direction:</strong> If <em>Mouse</em> is checked, moving the cursor to the right or up will zoom out instead of in. If <em>Wheel</em> is checked, scrolling up will zoom out instead of in.</p></li>
+</ul>
+</section>
+<section id="pan">
+<h4>Pan<a class="headerlink" href="#pan" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Pan Sensitivity:</strong> The sensitivity of panning. Higher values will give faster panning with less cursor movement. This is shared across both regular and alternative panning modes.</p></li>
+<li><p><strong>Distance to Pivot Scaling:</strong> When enabled, the sensitivity of panning will be proportional to the camera’s distance from the last pivot point. This usually makes the panning speed more comfortable when being zoomed in or zoomed out a lot.</p></li>
+<li><p><strong>Pan Plane:</strong> The screenspace-relative plane where the mouse will pan.</p></li>
+</ul>
+</section>
+<section id="pan-alt">
+<h4>Pan (alt)<a class="headerlink" href="#pan-alt" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Pan Plane:</strong> The screenspace-relative plane where the mouse will pan.</p></li>
+</ul>
+</section>
+<section id="fly">
+<h4>Fly<a class="headerlink" href="#fly" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Fly Sensitivity:</strong> Higher values increase the fly speed and allow you to move around quicker. Lower values decrease the fly speed and allow you to make more precise camera movements.</p></li>
+<li><p><strong>Distance to Pivot Scaling:</strong> When enabled, the sensitivity of flying will be proportional to the camera’s distance from the last pivot point. This will make the fly speed seem more uniform between being zoomed in and zoomed out of a subject.</p></li>
+<li><p><strong>WASD Fly Plane:</strong> The screenspace-relative plane where the camera will fly over using the <cite>W</cite>, <cite>A</cite>, <cite>S</cite>, <cite>D</cite> or arrow keys</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="650" height="251.4423076923077" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/fly_mode.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    </section>
+</section>
+<section id="variablesicon-user-variables">
+<span id="uservariables-lg"></span><h3><a class="reference internal" href="../../../_images/icon_variables.svg"><img alt="variables icon" height="12" src="../../../_images/icon_variables.svg" width="12" /></a> User Variables<a class="headerlink" href="#variablesicon-user-variables" title="Permalink to this heading">#</a></h3>
+<p>Custom variables can be used in export node file paths to improve your workflow.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<p>For example, if you have a lot of export nodes for separate capture types and you want to change something in the filename for all of them. If all the filenames have a user variable you can just change its value here to change it in all the filenames instead of doing it one by one.</p>
+<img alt="user variables tab" src="../../../_images/preferencesUserVariables_LG.png" />
+<ol class="arabic simple">
+<li><p>Variable name.</p></li>
+<li><p>Variable value.</p></li>
+<li><p><a class="reference internal" href="../../../_images/delete.svg"><img alt="delete icon" height="16" src="../../../_images/delete.svg" width="16" /></a> Remove variable.</p></li>
+<li><p>Add a new variable.</p></li>
+</ol>
+<img alt="user variable example" src="../../../_images/userVariableExport_LG.png" />
+</section>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="node_list.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Node List</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="ui_reference.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">User Interface</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                Copyright &#169; 2026, JangaFX
+            </div>
+            Made with <a href="https://www.sphinx-doc.org/">Sphinx</a> and <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Settings</a><ul>
+<li><a class="reference internal" href="#project-settings">Project Settings</a><ul>
+<li><a class="reference internal" href="#generalicon-general"> General</a></li>
+<li><a class="reference internal" href="#renderericon-renderer"> Renderer</a></li>
+<li><a class="reference internal" href="#notesicon-notes"> Notes</a></li>
+<li><a class="reference internal" href="#thumbnailicon-thumbnail"> Thumbnail</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#preferences">Preferences</a><ul>
+<li><a class="reference internal" href="#id1"> General</a></li>
+<li><a class="reference internal" href="#shortcutsicon-shortcuts"> Shortcuts</a></li>
+<li><a class="reference internal" href="#camerasettingsicon-camera"> Camera</a><ul>
+<li><a class="reference internal" href="#bindings">Bindings</a></li>
+<li><a class="reference internal" href="#pivot">Pivot</a></li>
+<li><a class="reference internal" href="#orbit">Orbit</a></li>
+<li><a class="reference internal" href="#zoom">Zoom</a></li>
+<li><a class="reference internal" href="#pan">Pan</a></li>
+<li><a class="reference internal" href="#pan-alt">Pan (alt)</a></li>
+<li><a class="reference internal" href="#fly">Fly</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#variablesicon-user-variables"> User Variables</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/sphinx_highlight.js"></script>
+    <script src="../../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../../_static/js/ga.js"></script>
+    <script src="../../../_static/js/yall.min.js"></script>
+    <script src="../../../_static/js/loadLibraries.js"></script>
+    <script src="../../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

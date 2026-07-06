@@ -1,0 +1,612 @@
+{
+  "path": "liquigen/pages/references/specific/expressions.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "aa4a83be1674",
+      "source": "Expressions - JangaFX Documentation",
+      "target": "表达式 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "9f829dab1c2b",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "b21896ee2a50",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "27dd613f27bc",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "3070db5fe775",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "e8e8fd9f0cc2",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "b6d824b35615",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "4635f8ae6be5",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "d06cdb75c883",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "f50bd7afffec",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "960477a4d806",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "e3c1179cfc73",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "0a224f0ce416",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "139f0b7492b5",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "49cf3095524f",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "7ce69f6cd496",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "aed011138541",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "45690172625e",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "0be72026b501",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "896e1995a780",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "0c09c674667d",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "19de816a0b79",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "2121b441daa3",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "19e530ffa13a",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "6159a2bd853d",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "f9b3505710ed",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "76685b54742d",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "55129f29d651",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "b8cbd312d6b5",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "ff3600a95370",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "16418deec41a",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "beb8740f65ea",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "aab51f052070",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "366d812b6cf9",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "0b49670f89dd",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "3e29fc2c661d",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "c9cc84c7bb31",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "74e3cc959cc6",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "0982fe25edf2",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "d1b33b5b86ee",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "8359f0643221",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "cfb873098f25",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "a25d12478931",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "cb686a66ca5e",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "ba632438f044",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "f040edc60abe",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "1d3e66b72b9d",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "737930e65dd2",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "558b37e259b5",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "8dba302d790f",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "cb19d20a4da2",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "b6db23fe7dcf",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "d7c3c9b5559b",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "ba0963c55dc7",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "62f0913a82d0",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "a6f45c0f9338",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "c5a29be71dbf",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "16d711082451",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "06f43d7ee83b",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "9f112c0e1227",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "ba4a04534711",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "cd1d078e9022",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "712803e7afea",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "35e680a4aec9",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "d5adf43c315e",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "3bc716fcc08d",
+      "source": "JangaFX software has the option to add expressions and use math in most places where you can type. For example, when you ",
+      "target": "JangaFX 软件支持在大多数可输入数值的位置添加表达式并使用数学运算。例如，当你 ",
+      "note": ""
+    },
+    {
+      "id": "c21c016b88fd",
+      "source": " click on a parameter value.",
+      "target": " 单击参数值时。",
+      "note": ""
+    },
+    {
+      "id": "941fede78481",
+      "source": "This is especcially useful in the ",
+      "target": "这在 ",
+      "note": ""
+    },
+    {
+      "id": "c0088f420c95",
+      "source": "curveExpressions",
+      "target": "curveExpressions",
+      "note": ""
+    },
+    {
+      "id": "9a48764cf5aa",
+      "source": " section.",
+      "target": " 部分尤其有用。",
+      "note": ""
+    },
+    {
+      "id": "bb1c182ec24f",
+      "source": "The following is a comprehensive list on all available options.",
+      "target": "下面是所有可用选项的完整列表。",
+      "note": ""
+    },
+    {
+      "id": "342dadeeb2d2",
+      "source": "Operators",
+      "target": "运算符",
+      "note": ""
+    },
+    {
+      "id": "4ca31e7c0beb",
+      "source": "Add: ",
+      "target": "Add：",
+      "note": ""
+    },
+    {
+      "id": "a153bef74c0e",
+      "source": "Sub: ",
+      "target": "Sub：",
+      "note": ""
+    },
+    {
+      "id": "4035552c4a9f",
+      "source": "Mul: ",
+      "target": "Mul：",
+      "note": ""
+    },
+    {
+      "id": "7d34839003cd",
+      "source": "Quo: ",
+      "target": "Quo：",
+      "note": ""
+    },
+    {
+      "id": "924ad5a078eb",
+      "source": "Rem: ",
+      "target": "Rem：",
+      "note": ""
+    },
+    {
+      "id": "a0cd80f7aecc",
+      "source": "Pow: ",
+      "target": "Pow：",
+      "note": ""
+    },
+    {
+      "id": "a8d7411562fb",
+      "source": "Comma: ",
+      "target": "Comma：",
+      "note": ""
+    },
+    {
+      "id": "221dc5aa8be7",
+      "source": "Constants",
+      "target": "常量",
+      "note": ""
+    },
+    {
+      "id": "fa21c4c4ffa7",
+      "source": "Functions",
+      "target": "函数",
+      "note": ""
+    },
+    {
+      "id": "ea98d8f96afe",
+      "source": "0 arguments",
+      "target": "0 个参数",
+      "note": ""
+    },
+    {
+      "id": "8313856d25e5",
+      "source": "1 argument",
+      "target": "1 个参数",
+      "note": ""
+    },
+    {
+      "id": "9c567e98bd62",
+      "source": "2 arguments",
+      "target": "2 个参数",
+      "note": ""
+    },
+    {
+      "id": "5ab536c2a0d0",
+      "source": "3 arguments",
+      "target": "3 个参数",
+      "note": ""
+    },
+    {
+      "id": "f24ffe263a52",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "b21c2d687752",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "fa675e85e0f1",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "d642090055d8",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "9935f02abb9b",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "a3714378193b",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "f7fcdd20cc6a",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "211bd374aa71",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "76175c0dbf7c",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "8f1936cd4cc7",
+      "source": "Operators",
+      "target": "运算符",
+      "note": ""
+    },
+    {
+      "id": "ffc7d31fc33f",
+      "source": "Constants",
+      "target": "常量",
+      "note": ""
+    },
+    {
+      "id": "d1912ec91389",
+      "source": "Functions",
+      "target": "函数",
+      "note": ""
+    },
+    {
+      "id": "bfd39a9da23b",
+      "source": "0 arguments",
+      "target": "0 个参数",
+      "note": ""
+    },
+    {
+      "id": "0cdc8d17a369",
+      "source": "1 argument",
+      "target": "1 个参数",
+      "note": ""
+    },
+    {
+      "id": "dd26aed4d86d",
+      "source": "2 arguments",
+      "target": "2 个参数",
+      "note": ""
+    },
+    {
+      "id": "ec4a195b3900",
+      "source": "3 arguments",
+      "target": "3 个参数",
+      "note": ""
+    }
+  ]
+}

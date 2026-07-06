@@ -1,0 +1,445 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../../../genindex.html" /><link rel="search" title="Search" href="../../../../search.html" /><link rel="next" title="FAQ" href="../../FAQ.html" /><link rel="prev" title="VDB Export" href="exportVDB.html" />
+
+    <link rel="shortcut icon" href="../../../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>Randomization - JangaFX Documentation</title>
+      <link rel="stylesheet" type="text/css" href="../../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../../../index.html"><div class="brand">JangaFX Documentation</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 current has-children"><a class="reference internal" href="../../../index.html">EmberGen Documentation</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../getting_started.html">Getting Started</a></li>
+<li class="toctree-l2 current has-children"><a class="reference internal" href="../index.html">References</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../ui_reference.html">User Interface</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../settings.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../node_list.html">Node List</a></li>
+<li class="toctree-l3 current has-children"><a class="reference internal" href="index.html">How-To Guides</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="camera_import.html">Camera Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="render_passes_mapping.html">Render Pass Mapping</a></li>
+<li class="toctree-l4"><a class="reference internal" href="color.html">Color</a></li>
+<li class="toctree-l4"><a class="reference internal" href="comment.html">Comment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="note.html">Note</a></li>
+<li class="toctree-l4"><a class="reference internal" href="import_animation.html">FBX, OBJ, ABC Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="histogram.html">Histogram</a></li>
+<li class="toctree-l4"><a class="reference internal" href="rangeSlider.html">Range Slider</a></li>
+<li class="toctree-l4"><a class="reference internal" href="animation.html">Keyframe Animation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="modulation_curve.html">Modulation Curve</a></li>
+<li class="toctree-l4"><a class="reference internal" href="modulating_parameters.html">Modulating Parameters</a></li>
+<li class="toctree-l4"><a class="reference internal" href="palettes.html">Palettes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="exportVDB.html">VDB Export</a></li>
+<li class="toctree-l4 current current-page"><a class="current reference internal" href="#">Randomization</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../FAQ.html">FAQ</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../../liquigen/index.html">LiquiGen Documentation</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../../liquigen/pages/getting_started.html">Getting Started</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../../liquigen/pages/references/index.html">References</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../../../liquigen/pages/references/ui_reference.html">User Interface</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../liquigen/pages/references/settings.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../liquigen/pages/references/node_list.html">Node List</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/index.html">How-To Guides</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/diagnostics.html">Diagnostics</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/render_passes_mapping.html">Render Pass Mapping</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/color.html">Color</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/comment.html">Comment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/note.html">Note</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/import_animation.html">FBX, OBJ, ABC Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/camera_import.html">Camera Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/rangeSlider.html">Range Slider</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/animation.html">Keyframe Animation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/modulation_curve.html">Modulation Curve</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/modulating_parameters.html">Modulating Parameters</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/palettes.html">Palettes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/randomization.html">Randomization</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/expressions.html">Expressions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../liquigen/pages/FAQ.html">FAQ</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../illugen/index.html">IlluGen Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../geogen/index.html">GeoGen Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../licensing/index.html">Floating License Guide</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <section id="randomization">
+<span id="id1"></span><h1>Randomization<a class="headerlink" href="#randomization" title="Permalink to this heading">#</a></h1>
+<p>In this section, you will learn how to automatically create and export variations of your projects!
+This feature is also known as “wedging”.
+This is useful, for example, if you have a project that needs lots of similar elements, if you want to have some options to show your supervisor, or if you wish to get that perfect random seed for your hero element.</p>
+<section id="setting-up-randomization">
+<h2>Setting up randomization<a class="headerlink" href="#setting-up-randomization" title="Permalink to this heading">#</a></h2>
+<p>You can randomize a parameter by setting the override to <em>Randomize Override</em>. This is done by <cite>Shift</cite> + <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> clicking the <a class="reference internal" href="../../../../_images/key_none.svg"><img alt="no override" height="14" src="../../../../_images/key_none.svg" width="14" /></a> circle next to it. A randomized parameter is indicated with the <a class="reference internal" href="../../../../_images/random.svg"><img alt="randomize icon" height="14" src="../../../../_images/random.svg" width="14" /></a> icon. To disable the <em>Randomize Override</em>, <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> click the <a class="reference internal" href="../../../../_images/random.svg"><img alt="randomize icon" height="14" src="../../../../_images/random.svg" width="14" /></a> icon to set it back to <a class="reference internal" href="../../../../_images/key_none.svg"><img alt="no override" height="14" src="../../../../_images/key_none.svg" width="14" /></a> <em>No Override</em>.</p>
+<div class="line-block">
+<div class="line">Once you’ve selected your parameters for randomization, you can manage them in the <em>Randomized</em> tab.</div>
+<div class="line">You may notice there are parameters there you didn’t select for randomization. This is because, by default, all <em>Seed</em> parameters are set up for randomization.</div>
+</div>
+<p>You can remove a parameter from the randomized tab by <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> clicking the <a class="reference internal" href="../../../../_images/random.svg"><img alt="randomize icon" height="14" src="../../../../_images/random.svg" width="14" /></a> icon next to it.</p>
+<p>The <em>Randomized</em> tab contains mostly range sliders with the regular parameter slider right next to it.</p>
+<p>With the range slider, you can specify the minimum and maximum value between which the random value can be picked.</p>
+<p>With the regular parameter slider right next to it, you can see and edit the current parameter value. This value will be overwritten by a random one from within the specified range when the parameter is randomized.</p>
+<p>A parameter is randomized by clicking the <a class="reference internal" href="../../../../_images/update.svg"><img alt="update icon" height="16" src="../../../../_images/update.svg" width="16" /></a> icon next to it.</p>
+<p>To randomize all parameters you can click the blue <em>Randomize All</em> button or the <a class="reference internal" href="../../../../_images/icon_randomize_seeds.svg"><img alt="randomize seeds icon" height="12" src="../../../../_images/icon_randomize_seeds.svg" width="12" /></a> icon in the top right corner of the UI.</p>
+<p><strong>Example:</strong></p>
+<a class="reference internal image-reference" href="../../../../_images/randomizedRadius.png"><img alt="randomized radius" src="../../../../_images/randomizedRadius.png" style="width: 700px;" /></a>
+<p>With this setup, you can set the <em>Radius</em> with the right slider but when the parameter is randomized its value will be overwritten by a random value between 1 and 3 as specified by the range slider.</p>
+<a class="reference internal image-reference" href="../../../../_images/parameterTypes.png"><img alt="override states" class="align-right" src="../../../../_images/parameterTypes.png" style="width: 500px;" /></a>
+<p>Different parameter types are set up a bit differently in the Randomized tab.
+Let’s look at them in order of the image on the right:</p>
+<ul class="simple">
+<li><p><strong>3-vector parameters</strong> are split up into three range sliders each representing an axis. This means that you can define the amount of randomization for each axis. For example, if you want to randomize the Z axis only you can set the other two to a fixed value by inputting the same value in the min and max fields on the range slider.</p></li>
+<li><p><strong>Value parameters</strong>, which are the most common ones, are represented by one range slider.</p></li>
+<li><p><strong>Checkboxes</strong> in the randomized tab have a random chance of being turned on or off when randomized.</p></li>
+<li><p><strong>Dropdown menus</strong> are assigned a random menu item upon randomization.</p></li>
+<li><p><strong>Range sliders</strong> are split up into two range sliders, one for the minimum value and one for the maximum value. For example, you can give particles a different maximum age between 1 and 5 seconds for every variation by setting the Lifetime limits Max component to have a minimum of 1 and a maximum of 5.</p></li>
+</ul>
+<p><strong>Randomized explosion example:</strong></p>
+<a class="reference internal image-reference" href="../../../../_images/setup.png"><img alt="explosion node setup" class="align-right" src="../../../../_images/setup.png" style="width: 500px;" /></a>
+<div class="line-block">
+<div class="line">Here, we have an explosion with a simple emission setup using a sphere and a volume emitter.</div>
+<div class="line">Let’s say we need eight similar explosions.</div>
+<div class="line">The general shape of explosions (or most effects) is determined by how they are sourced.</div>
+<div class="line">In this case, the shape of the explosion is mainly due to the random pressure injected by the emitter.</div>
+<div class="line">Since we want similar explosions, we can use the <em>Pressure random seed</em> parameter.</div>
+<div class="line">Using seed parameters is a good way of getting variations without changing the intensity or the scale distributions of your effect. Find out what random forces have the most influence on your simulation and randomize the corresponding seed value.</div>
+</div>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     >
+        <video class="lazy" preload="none" width="800" height="400.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/explosions22Grid.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>Let’s now say we want to expand our options here and see eight different explosions.</p>
+<p>Have a look at how the <em>Randomized</em> tab is set up now and why.</p>
+<a class="reference internal image-reference" href="../../../../_images/randomizationTabExample.png"><img alt="randomization tab" class="align-right" src="../../../../_images/randomizationTabExample.png" style="width: 500px;" /></a>
+<p>The parameters that determine the attributes we want to vary for this explosion are the ones added to the <em>Randomized</em> tab.</p>
+<ul class="simple">
+<li><p>Fuel rate has a major effect on the overall size and intensity of the explosion. The range is set from 300% up to 700%, the way these values are determined is by experimentation. Values below 300% made the explosions too weak to look realistic and values above 700% made the explosions too big for the bounding box. This means that all values in between will give variations with good results.</p></li>
+<li><p>Additional pressure rate will determine how random the shapes are. Higher rates will give more random organic shapes because more random pressure is injected. Lower values will give more spherical atomic bomb-type shapes. The range is set up from 0% to 700% because 0% gives the option of a very spherical explosion and everything above 700% didn’t give good-looking or unique results.</p></li>
+<li><p>Note that Fuel rate and Additional pressure rate both affect the intensity of the explosion. Therefore make sure you check the scenarios where those parameters are both at their minimum and at their maximum values in their ranges so you can see if these potential variations are still desirable.</p></li>
+<li><p>Pressure random scale determines the scale of the random pattern in which the pressure is added. The range is set from 0.1 to 0.4 based on the range of the biggest and the smallest desired details. Here, higher values give smaller details. So higher than 0.4 the difference would not be interesting as it gets too small. It’s important to find the right min and max points for your range to get the most diverse variations.</p></li>
+<li><p>Pressure random seed is left at the default range since for seed parameters any different value will give a completely different pattern.</p></li>
+<li><p>Position has the range set to 0 in min and max for the X and Y axes. This ensures that these values will be 0 in every variation not moving the sphere in those axes. The Z axis has a range from 10 to 30 meaning that in every variation the sphere is at a different height in between those values. This can give some interesting variation in the shockwave and intensity.</p></li>
+</ul>
+</section>
+<section id="exporting-variations">
+<h2>Exporting variations<a class="headerlink" href="#exporting-variations" title="Permalink to this heading">#</a></h2>
+<p>Exporting variations starts by setting your <a class="reference internal" href="../../../../_images/render.svg"><img alt="render icon" height="18" src="../../../../_images/render.svg" width="18" /></a> <em>Render</em>, <a class="reference internal" href="../../../../_images/export_particles.svg"><img alt="export icon" height="18" src="../../../../_images/export_particles.svg" width="18" /></a> <em>Export:Particles</em>, or <a class="reference internal" href="../../../../_images/vdb.svg"><img alt="export VDB icon" height="18" src="../../../../_images/vdb.svg" width="18" /></a> <em>Export:VDB</em> node up like you normally would. But with the addition of using the <code class="docutils literal notranslate"><span class="pre">$(variation)</span></code> variable in the <em>Directory</em> or the <em>Filename</em> field. If you don’t use this, the files will be overwritten for every variation since there is nothing unique in the directory or filename.</p>
+<p><strong>Example:</strong></p>
+<a class="reference internal image-reference" href="../../../../_images/renderDirectorySettings.png"><img alt="render directory settings" class="align-right" src="../../../../_images/renderDirectorySettings.png" style="width: 550px;" /></a>
+<ul class="simple">
+<li><p>Here, with <em>myExplosion</em> being the project file name, a folder called <em>myExplosion_variations</em> is created in the project directory (where the <em>.ember</em> file is stored).</p></li>
+<li><p>Within that directory, numbered folders will be created for every variation.</p></li>
+<li><p>In those folders will be subfolders for each render pass.</p></li>
+<li><p>All files will be dynamically named based on the filename, variation number, and render pass. You can see a file name example next to the <em>Filename</em> field.</p></li>
+</ul>
+<p><strong>To export variations instead of exporting once go to</strong> <em>File/Export Variations…</em> <strong>in the top left corner of the user interface.</strong></p>
+<p>The <em>Export Variation</em> window will pop up.</p>
+<a class="reference internal image-reference" href="../../../../_images/exportVariationsWindow.png"><img alt="export variations window" class="align-right" src="../../../../_images/exportVariationsWindow.png" style="width: 550px;" /></a>
+<ul class="simple">
+<li><p><strong>Number of variations:</strong> The number of times the simulation will run and export.</p></li>
+<li><p><strong>Randomize first variation:</strong> If checked, all parameters set up for randomization will be given a random value before the first variation is exported. If unchecked, the first variation will use the values you currently have.</p></li>
+<li><p><strong>Save project copies:</strong> If checked, project files for each variation will be stored in a specified location with a specified name. This way, you can reproduce every exported variation since otherwise, you won’t know what random values were assigned.</p></li>
+<li><p><strong>Nodes to export:</strong> Here, you have a list of nodes where you can check the ones you want to use for exporting your variations.</p></li>
+<li><p><strong>Cancel:</strong> Close the <em>Export Variations</em> window and don’t export.</p></li>
+<li><p><strong>Export Variations:</strong> Start exporting your variations!</p></li>
+</ul>
+<p><strong>Example:</strong></p>
+<p>We’re still using our <em>myExplosion</em> project.
+When using the settings in the image above:</p>
+<ul class="simple">
+<li><p>8 variations of my explosion will be exported.</p></li>
+<li><p>The first variation will be the exact simulation we currently have (maybe because we like that one)</p></li>
+<li><p>A project copy will be saved for each variation storing their settings for later use. The project files will be stored in the project directory in a subfolder called <em>myExplosion_variations</em> and named <em>myExplosion_v1, myExplosion_v2, myExplosion_v3,</em> etc.</p></li>
+<li><p>We just want to export from the one <a class="reference internal" href="../../../../_images/render.svg"><img alt="render icon" height="18" src="../../../../_images/render.svg" width="18" /></a> <em>Render</em> node so we’re leaving that one checked and the rest unchecked.</p></li>
+<li><p>After hitting the blue <em>Export Variations</em> button and seeing the magic happen we have my eight unique explosions!</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     >
+        <video class="lazy" preload="none" width="800" height="400.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/explosions19Grid.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    </section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="../../FAQ.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">FAQ</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="exportVDB.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">VDB Export</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                Copyright &#169; 2026, JangaFX
+            </div>
+            Made with <a href="https://www.sphinx-doc.org/">Sphinx</a> and <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Randomization</a><ul>
+<li><a class="reference internal" href="#setting-up-randomization">Setting up randomization</a></li>
+<li><a class="reference internal" href="#exporting-variations">Exporting variations</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
+    <script src="../../../../_static/doctools.js"></script>
+    <script src="../../../../_static/sphinx_highlight.js"></script>
+    <script src="../../../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../../../_static/js/ga.js"></script>
+    <script src="../../../../_static/js/yall.min.js"></script>
+    <script src="../../../../_static/js/loadLibraries.js"></script>
+    <script src="../../../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

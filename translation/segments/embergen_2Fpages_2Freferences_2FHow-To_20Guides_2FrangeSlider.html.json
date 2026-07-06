@@ -1,0 +1,926 @@
+{
+  "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+  "segment_count": 92,
+  "segments": [
+    {
+      "id": "07c2717642a1",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 692,
+      "end": 728,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Range Slider - JangaFX Documentation",
+      "source_text": "Range Slider - JangaFX Documentation"
+    },
+    {
+      "id": "2e864462f4f8",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 5318,
+      "end": 5341,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "91f027457c3c",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 5436,
+      "end": 5466,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "6a04e001e1f6",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 5662,
+      "end": 5692,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "50ff39ec9985",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 5883,
+      "end": 5904,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "cd71f872d221",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 6097,
+      "end": 6135,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "553730c4bf29",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 6525,
+      "end": 6557,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "5112f30dbf1e",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 7601,
+      "end": 7623,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "f51cbe9f271d",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 7812,
+      "end": 7844,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "01ac25ad9f33",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8032,
+      "end": 8047,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "1f2e773d156b",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8152,
+      "end": 8162,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "a7b28315b77b",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8351,
+      "end": 8383,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "fe68ba55b1e9",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8565,
+      "end": 8579,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "f199bcddb516",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8666,
+      "end": 8674,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "cf10e5aab0a6",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8762,
+      "end": 8771,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "ccfa51c31f86",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 8873,
+      "end": 8886,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "29575166b6c4",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9075,
+      "end": 9107,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "54673c41b473",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9287,
+      "end": 9300,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "21a0768ea70c",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9397,
+      "end": 9416,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "efde70e3c943",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9497,
+      "end": 9502,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "6cd82efa4dad",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9585,
+      "end": 9592,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "840c1361cfc7",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9672,
+      "end": 9676,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "f750466410d1",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9768,
+      "end": 9788,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "98b77157fb3f",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9873,
+      "end": 9882,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "5992f15b46aa",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 9983,
+      "end": 9995,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "e47a129b90c0",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10080,
+      "end": 10098,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "587e221b83d3",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10190,
+      "end": 10206,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "bd16c647775e",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10303,
+      "end": 10324,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "1f439047b90e",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10408,
+      "end": 10416,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "ac5df4fa5196",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10501,
+      "end": 10511,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "c2709ec49a86",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10600,
+      "end": 10613,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "02956ef9dff7",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10722,
+      "end": 10725,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "709a09ea6e04",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 10852,
+      "end": 10874,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "51fe643836ac",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11052,
+      "end": 11084,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "548665bacd4f",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11277,
+      "end": 11292,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "9387f698c6e5",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11424,
+      "end": 11434,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "029151401034",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11612,
+      "end": 11644,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "fa6ebb34aa8a",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11845,
+      "end": 11859,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "71ac9d4606a0",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 11981,
+      "end": 11989,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "e3d9ee6092f6",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 12112,
+      "end": 12121,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "d1efbe755fec",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 12269,
+      "end": 12282,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "50583a4607c4",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 12460,
+      "end": 12492,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "817df45b7d5d",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 12708,
+      "end": 12719,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "d8fe3114a764",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 12870,
+      "end": 12889,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "87bafd9ed2c1",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13024,
+      "end": 13029,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "df6b438ee04f",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13166,
+      "end": 13173,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "9669e10c3848",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13307,
+      "end": 13311,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "88721bfe558e",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13457,
+      "end": 13477,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "0cf25831a687",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13620,
+      "end": 13633,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "2328ff188f2c",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13774,
+      "end": 13786,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "9007954f18b0",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 13925,
+      "end": 13943,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "11a68b93260d",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14089,
+      "end": 14105,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "99ab605c0f55",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14256,
+      "end": 14277,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "120821aa8c36",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14415,
+      "end": 14423,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "bc2d8253cd8d",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14566,
+      "end": 14579,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "4493c06355ee",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14720,
+      "end": 14731,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "46ff8e9f220e",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14861,
+      "end": 14864,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "6f1c0100b4aa",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 14977,
+      "end": 14998,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "58d7c416133f",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 15098,
+      "end": 15118,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "aee534baa1c9",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 15221,
+      "end": 15243,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "0df0b441abef",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 15656,
+      "end": 15667,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "dabf96bdb8b1",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 15887,
+      "end": 15925,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "9670a0d1eb05",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 16344,
+      "end": 16376,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "84c67c190183",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 16590,
+      "end": 16602,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "1fc67442a6eb",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17025,
+      "end": 17099,
+      "line": 264,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "0a49374ae678",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17126,
+      "end": 17184,
+      "line": 268,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The range sliders are used to represent a range of values.",
+      "source_text": "The range sliders are used to represent a range of values."
+    },
+    {
+      "id": "739822b18926",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17192,
+      "end": 17337,
+      "line": 269,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "It can be used for a variety of things like specifying a range of densities, or specifying a range of values for particles to randomly pick from.",
+      "source_text": "It can be used for a variety of things like specifying a range of densities, or specifying a range of values for particles to randomly pick from."
+    },
+    {
+      "id": "e5a8218b69e6",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17369,
+      "end": 17414,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The minimum value of the range can be set by ",
+      "source_text": "The minimum value of the range can be set by "
+    },
+    {
+      "id": "d007c6af229b",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17573,
+      "end": 17600,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking and dragging the ",
+      "source_text": " clicking and dragging the "
+    },
+    {
+      "id": "17d5dc723995",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17771,
+      "end": 17838,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " icon or by typing it into the textfield that appears after single ",
+      "source_text": " icon or by typing it into the textfield that appears after single "
+    },
+    {
+      "id": "6ce3f4a63da1",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 17997,
+      "end": 18038,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking on the left side of the slider.",
+      "source_text": " clicking on the left side of the slider."
+    },
+    {
+      "id": "45465ecba16b",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18055,
+      "end": 18100,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The maximum value of the range can be set by ",
+      "source_text": "The maximum value of the range can be set by "
+    },
+    {
+      "id": "68f7802f6720",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18259,
+      "end": 18286,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking and dragging the ",
+      "source_text": " clicking and dragging the "
+    },
+    {
+      "id": "88ad0bf945f0",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18460,
+      "end": 18527,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " icon or by typing it into the textfield that appears after single ",
+      "source_text": " icon or by typing it into the textfield that appears after single "
+    },
+    {
+      "id": "ba7b632d7192",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18686,
+      "end": 18728,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking on the right side of the slider.",
+      "source_text": " clicking on the right side of the slider."
+    },
+    {
+      "id": "2abc9cf0da29",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18745,
+      "end": 18796,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The range of values can be offsetted as a whole by ",
+      "source_text": "The range of values can be offsetted as a whole by "
+    },
+    {
+      "id": "bde3bbee15fc",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 18955,
+      "end": 18996,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking and dragging within the slider.",
+      "source_text": " clicking and dragging within the slider."
+    },
+    {
+      "id": "89797c37521a",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 19013,
+      "end": 19029,
+      "line": 274,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "Clicking on the ",
+      "source_text": "Clicking on the "
+    },
+    {
+      "id": "ecb0be977917",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 19201,
+      "end": 19250,
+      "line": 274,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " icon will reset the slider to the default range.",
+      "source_text": " icon will reset the slider to the default range."
+    },
+    {
+      "id": "7b86ea60286b",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 19267,
+      "end": 19431,
+      "line": 275,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "When a minimum value is typed in that’s higher than the maximum value, this value will be the new maximum value and old maximum value will be the new minumum value.",
+      "source_text": "When a minimum value is typed in that’s higher than the maximum value, this value will be the new maximum value and old maximum value will be the new minumum value."
+    },
+    {
+      "id": "cb93c0aebae3",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 19448,
+      "end": 19611,
+      "line": 276,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "When a maximum value is typed in that’s lower than the minimum value, this value will be the new minimum value and old minimum value will be the new maximum value.",
+      "source_text": "When a maximum value is typed in that’s lower than the minimum value, this value will be the new minimum value and old minimum value will be the new maximum value."
+    },
+    {
+      "id": "f09ef08469e9",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 19885,
+      "end": 19889,
+      "line": 288,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "b21b98873d5b",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 19955,
+      "end": 19973,
+      "line": 290,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "a0f2d6bab0ca",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20346,
+      "end": 20354,
+      "line": 298,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "89f52f8e3c7d",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20437,
+      "end": 20446,
+      "line": 301,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "089f208c6707",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20632,
+      "end": 20692,
+      "line": 308,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "a79dd8633070",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20698,
+      "end": 20721,
+      "line": 310,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "fbdd185fdc4a",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20759,
+      "end": 20765,
+      "line": 311,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "e36d615bf3d9",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20769,
+      "end": 20774,
+      "line": 311,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "430b7459d739",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20824,
+      "end": 20834,
+      "line": 311,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "e4a5a30a740d",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20838,
+      "end": 20866,
+      "line": 311,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "4871a9c3d572",
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "start": 20910,
+      "end": 20914,
+      "line": 313,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

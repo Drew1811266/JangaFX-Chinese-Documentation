@@ -1,0 +1,866 @@
+{
+  "path": "geogen/index.html",
+  "segment_count": 86,
+  "segments": [
+    {
+      "id": "6636f6d6eb07",
+      "path": "geogen/index.html",
+      "start": 697,
+      "end": 741,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "GeoGen Documentation - JangaFX Documentation",
+      "source_text": "GeoGen Documentation - JangaFX Documentation"
+    },
+    {
+      "id": "b648726fcac1",
+      "path": "geogen/index.html",
+      "start": 5295,
+      "end": 5318,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "628844c9f504",
+      "path": "geogen/index.html",
+      "start": 5413,
+      "end": 5443,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "27499fc6bad5",
+      "path": "geogen/index.html",
+      "start": 5639,
+      "end": 5669,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "5cec6b04b916",
+      "path": "geogen/index.html",
+      "start": 5851,
+      "end": 5872,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "a893d325a552",
+      "path": "geogen/index.html",
+      "start": 6065,
+      "end": 6103,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "df12ce6aaa17",
+      "path": "geogen/index.html",
+      "start": 6493,
+      "end": 6525,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "1ca1ffbacf78",
+      "path": "geogen/index.html",
+      "start": 7528,
+      "end": 7550,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "5856acf4097e",
+      "path": "geogen/index.html",
+      "start": 7728,
+      "end": 7760,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "4a4acb9f9181",
+      "path": "geogen/index.html",
+      "start": 7944,
+      "end": 7959,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "d0140e1de7e9",
+      "path": "geogen/index.html",
+      "start": 8082,
+      "end": 8092,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "6361433d1b32",
+      "path": "geogen/index.html",
+      "start": 8270,
+      "end": 8302,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "c8b17b1706b2",
+      "path": "geogen/index.html",
+      "start": 8494,
+      "end": 8508,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "6502f0fa4ed5",
+      "path": "geogen/index.html",
+      "start": 8621,
+      "end": 8629,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "b93d45246cb2",
+      "path": "geogen/index.html",
+      "start": 8743,
+      "end": 8752,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "2be21c399e7b",
+      "path": "geogen/index.html",
+      "start": 8891,
+      "end": 8904,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "e2895d078986",
+      "path": "geogen/index.html",
+      "start": 9082,
+      "end": 9114,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "7483773dc361",
+      "path": "geogen/index.html",
+      "start": 9323,
+      "end": 9336,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "5f3bcc5593be",
+      "path": "geogen/index.html",
+      "start": 9478,
+      "end": 9497,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "51efa198697c",
+      "path": "geogen/index.html",
+      "start": 9623,
+      "end": 9628,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "ac97e8036f20",
+      "path": "geogen/index.html",
+      "start": 9756,
+      "end": 9763,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "bb1323a17cf2",
+      "path": "geogen/index.html",
+      "start": 9888,
+      "end": 9892,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "838a68424e68",
+      "path": "geogen/index.html",
+      "start": 10029,
+      "end": 10049,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "ffac94cbf6bb",
+      "path": "geogen/index.html",
+      "start": 10179,
+      "end": 10188,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "65a5f37b7a56",
+      "path": "geogen/index.html",
+      "start": 10320,
+      "end": 10332,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "d26a13584c79",
+      "path": "geogen/index.html",
+      "start": 10462,
+      "end": 10480,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "eb88b392de1a",
+      "path": "geogen/index.html",
+      "start": 10617,
+      "end": 10633,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "b481745a2a0d",
+      "path": "geogen/index.html",
+      "start": 10775,
+      "end": 10796,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "22736fe10d55",
+      "path": "geogen/index.html",
+      "start": 10925,
+      "end": 10933,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "5d1902104061",
+      "path": "geogen/index.html",
+      "start": 11063,
+      "end": 11073,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "56bad7dab094",
+      "path": "geogen/index.html",
+      "start": 11207,
+      "end": 11220,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "f22ed8d80b66",
+      "path": "geogen/index.html",
+      "start": 11341,
+      "end": 11344,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "98ad7e89f2e7",
+      "path": "geogen/index.html",
+      "start": 11462,
+      "end": 11484,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "e877bb52a2df",
+      "path": "geogen/index.html",
+      "start": 11662,
+      "end": 11694,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "3834f97471b2",
+      "path": "geogen/index.html",
+      "start": 11878,
+      "end": 11893,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "070b68609171",
+      "path": "geogen/index.html",
+      "start": 12016,
+      "end": 12026,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "f24f1a346c4a",
+      "path": "geogen/index.html",
+      "start": 12204,
+      "end": 12236,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "895b4813de1d",
+      "path": "geogen/index.html",
+      "start": 12428,
+      "end": 12442,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "f03b160fc151",
+      "path": "geogen/index.html",
+      "start": 12555,
+      "end": 12563,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "cfd0492fe8c0",
+      "path": "geogen/index.html",
+      "start": 12677,
+      "end": 12686,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "a18451bbfb97",
+      "path": "geogen/index.html",
+      "start": 12825,
+      "end": 12838,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "4f19753847e4",
+      "path": "geogen/index.html",
+      "start": 13016,
+      "end": 13048,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "c4e6f55f01e5",
+      "path": "geogen/index.html",
+      "start": 13255,
+      "end": 13266,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "9efbc6482f67",
+      "path": "geogen/index.html",
+      "start": 13408,
+      "end": 13427,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "018a6651da63",
+      "path": "geogen/index.html",
+      "start": 13553,
+      "end": 13558,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "057d8e6803ac",
+      "path": "geogen/index.html",
+      "start": 13686,
+      "end": 13693,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "22f2f09529f0",
+      "path": "geogen/index.html",
+      "start": 13818,
+      "end": 13822,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "8b5f761c860e",
+      "path": "geogen/index.html",
+      "start": 13959,
+      "end": 13979,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "17ca50e40766",
+      "path": "geogen/index.html",
+      "start": 14113,
+      "end": 14126,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "cddb0fcb1e23",
+      "path": "geogen/index.html",
+      "start": 14258,
+      "end": 14270,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "a061bec688ac",
+      "path": "geogen/index.html",
+      "start": 14400,
+      "end": 14418,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "23afd7cc0a6c",
+      "path": "geogen/index.html",
+      "start": 14555,
+      "end": 14571,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "1e4c592ff345",
+      "path": "geogen/index.html",
+      "start": 14713,
+      "end": 14734,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "88208aad5b1b",
+      "path": "geogen/index.html",
+      "start": 14863,
+      "end": 14871,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "3983afef2493",
+      "path": "geogen/index.html",
+      "start": 15005,
+      "end": 15018,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "b57d3ae5bdb4",
+      "path": "geogen/index.html",
+      "start": 15150,
+      "end": 15161,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "e5a86f18b4b7",
+      "path": "geogen/index.html",
+      "start": 15282,
+      "end": 15285,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "d1e942171a08",
+      "path": "geogen/index.html",
+      "start": 15389,
+      "end": 15410,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "a1d9841e305a",
+      "path": "geogen/index.html",
+      "start": 15511,
+      "end": 15531,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "2b5e6ced146d",
+      "path": "geogen/index.html",
+      "start": 15625,
+      "end": 15647,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "2952654614f3",
+      "path": "geogen/index.html",
+      "start": 16060,
+      "end": 16071,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "087a54007ae8",
+      "path": "geogen/index.html",
+      "start": 16291,
+      "end": 16329,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "acb7e9d8d0b8",
+      "path": "geogen/index.html",
+      "start": 16748,
+      "end": 16780,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "a361fed562bc",
+      "path": "geogen/index.html",
+      "start": 16997,
+      "end": 17017,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "7dab699b31b1",
+      "path": "geogen/index.html",
+      "start": 17174,
+      "end": 17181,
+      "line": 258,
+      "parent_path": "div/article/section/div/p",
+      "source_raw": "Warning",
+      "source_text": "Warning"
+    },
+    {
+      "id": "96df66c5c34b",
+      "path": "geogen/index.html",
+      "start": 17189,
+      "end": 17275,
+      "line": 259,
+      "parent_path": "div/article/section/div/p",
+      "source_raw": "Documentation for GeoGen is still work in progress and will be released in the future.",
+      "source_text": "Documentation for GeoGen is still work in progress and will be released in the future."
+    },
+    {
+      "id": "046d870e1e10",
+      "path": "geogen/index.html",
+      "start": 17283,
+      "end": 17396,
+      "line": 260,
+      "parent_path": "div/article/section/div/p",
+      "source_raw": "In the meantime please use the resources below in order to learn using GeoGen or in case you might need any help.",
+      "source_text": "In the meantime please use the resources below in order to learn using GeoGen or in case you might need any help."
+    },
+    {
+      "id": "78db72f51bf1",
+      "path": "geogen/index.html",
+      "start": 17499,
+      "end": 17506,
+      "line": 263,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "Discord",
+      "source_text": "Discord"
+    },
+    {
+      "id": "46e750d62f8a",
+      "path": "geogen/index.html",
+      "start": 17510,
+      "end": 17590,
+      "line": 263,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": ": Chat with other users, leave feedback, get the latest announcements, and more!",
+      "source_text": ": Chat with other users, leave feedback, get the latest announcements, and more!"
+    },
+    {
+      "id": "c577df38a6a4",
+      "path": "geogen/index.html",
+      "start": 17689,
+      "end": 17702,
+      "line": 264,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "Email Support",
+      "source_text": "Email Support"
+    },
+    {
+      "id": "123cdda938db",
+      "path": "geogen/index.html",
+      "start": 17788,
+      "end": 17794,
+      "line": 265,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "Forums",
+      "source_text": "Forums"
+    },
+    {
+      "id": "283d050b39f6",
+      "path": "geogen/index.html",
+      "start": 17919,
+      "end": 17926,
+      "line": 266,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "Youtube",
+      "source_text": "Youtube"
+    },
+    {
+      "id": "27708da040e3",
+      "path": "geogen/index.html",
+      "start": 17930,
+      "end": 17968,
+      "line": 266,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": ": Tutorials and Livestreams for GeoGen",
+      "source_text": ": Tutorials and Livestreams for GeoGen"
+    },
+    {
+      "id": "d5ada7c99d17",
+      "path": "geogen/index.html",
+      "start": 18050,
+      "end": 18064,
+      "line": 267,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "GeoGen Roadmap",
+      "source_text": "GeoGen Roadmap"
+    },
+    {
+      "id": "c7d413c4a4c2",
+      "path": "geogen/index.html",
+      "start": 18068,
+      "end": 18124,
+      "line": 267,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": ": See what features are planned for the future of GeoGen",
+      "source_text": ": See what features are planned for the future of GeoGen"
+    },
+    {
+      "id": "9311570d227f",
+      "path": "geogen/index.html",
+      "start": 18407,
+      "end": 18411,
+      "line": 279,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "5df4e2d58200",
+      "path": "geogen/index.html",
+      "start": 18477,
+      "end": 18499,
+      "line": 281,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "a1571b170e79",
+      "path": "geogen/index.html",
+      "start": 18879,
+      "end": 18887,
+      "line": 289,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "6bbad6917afc",
+      "path": "geogen/index.html",
+      "start": 18970,
+      "end": 18991,
+      "line": 292,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "ca87cd9d3f4e",
+      "path": "geogen/index.html",
+      "start": 19177,
+      "end": 19237,
+      "line": 299,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "f6c115b2d886",
+      "path": "geogen/index.html",
+      "start": 19243,
+      "end": 19266,
+      "line": 301,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "e39730c45a85",
+      "path": "geogen/index.html",
+      "start": 19304,
+      "end": 19310,
+      "line": 302,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "9351badf946d",
+      "path": "geogen/index.html",
+      "start": 19314,
+      "end": 19319,
+      "line": 302,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "0aea8d387dea",
+      "path": "geogen/index.html",
+      "start": 19369,
+      "end": 19379,
+      "line": 302,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "357de2f0bb38",
+      "path": "geogen/index.html",
+      "start": 19383,
+      "end": 19411,
+      "line": 302,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "93d0e684e697",
+      "path": "geogen/index.html",
+      "start": 19455,
+      "end": 19459,
+      "line": 304,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

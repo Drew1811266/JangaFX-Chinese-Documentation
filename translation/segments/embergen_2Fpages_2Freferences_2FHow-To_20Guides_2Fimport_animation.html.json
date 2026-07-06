@@ -1,0 +1,1116 @@
+{
+  "path": "embergen/pages/references/How-To Guides/import_animation.html",
+  "segment_count": 111,
+  "segments": [
+    {
+      "id": "579c585d307c",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 673,
+      "end": 717,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "FBX, OBJ, ABC Import - JangaFX Documentation",
+      "source_text": "FBX, OBJ, ABC Import - JangaFX Documentation"
+    },
+    {
+      "id": "459cf48e7bc6",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 5307,
+      "end": 5330,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "51cfd1f6c709",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 5425,
+      "end": 5455,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "e0a4a39c9c9c",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 5651,
+      "end": 5681,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "7271ae7a9e7f",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 5872,
+      "end": 5893,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "238eee0620cc",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 6086,
+      "end": 6124,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "bf90de57547d",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 6514,
+      "end": 6546,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "b662e66d5161",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 7590,
+      "end": 7612,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "3087f6a9652b",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 7801,
+      "end": 7833,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "7cc08bcd66ff",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 8021,
+      "end": 8036,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "0da1f50c7be5",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 8141,
+      "end": 8151,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "a40a7db8ae84",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 8340,
+      "end": 8372,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "45d9a4921538",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 8554,
+      "end": 8568,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "51f505f406f0",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 8655,
+      "end": 8663,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "51202565fca5",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 8751,
+      "end": 8760,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "9ae2501b6ac1",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 8862,
+      "end": 8875,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "205a32caf789",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 9064,
+      "end": 9096,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "7aa99dc46065",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 9276,
+      "end": 9289,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "31673b2cea95",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 9386,
+      "end": 9405,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "37bfbd161e3f",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 9486,
+      "end": 9491,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "50e0fbe3e3bc",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 9574,
+      "end": 9581,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "dbdb4216fe75",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 9661,
+      "end": 9665,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "3cc5fcad3d23",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 9766,
+      "end": 9786,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "2ba92446ccb2",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 9871,
+      "end": 9880,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "a53ebbbbf926",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 9967,
+      "end": 9979,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "ce621ef4de79",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 10064,
+      "end": 10082,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "efff941423d5",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 10174,
+      "end": 10190,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "5f2f8f75a921",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 10287,
+      "end": 10308,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "f6c3b148438d",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 10392,
+      "end": 10400,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "1cda64708108",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 10485,
+      "end": 10495,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "29aeec2f284b",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 10584,
+      "end": 10597,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "46ba6ef55473",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 10706,
+      "end": 10709,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "85a4479c9d80",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 10836,
+      "end": 10858,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "2b6558d80597",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 11036,
+      "end": 11068,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "f8aacc81c977",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 11261,
+      "end": 11276,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "9ec5e1c11244",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 11408,
+      "end": 11418,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "bf88798f0e6f",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 11596,
+      "end": 11628,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "e05c3af82a4e",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 11829,
+      "end": 11843,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "785eddfd30fc",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 11965,
+      "end": 11973,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "0d3848883898",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 12096,
+      "end": 12105,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "0b8e9280fc09",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 12253,
+      "end": 12266,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "46b031b6b4b7",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 12444,
+      "end": 12476,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "f6bcff574ea6",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 12692,
+      "end": 12703,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "226e7cc8ef4d",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 12854,
+      "end": 12873,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "1a43a7423d46",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 13008,
+      "end": 13013,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "294aebd7b086",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 13150,
+      "end": 13157,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "4c27bd2182f3",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 13291,
+      "end": 13295,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "e2f056a05f28",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 13441,
+      "end": 13461,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "3f347b007679",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 13604,
+      "end": 13617,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "5ac2657ed3b0",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 13758,
+      "end": 13770,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "dacd8469957a",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 13909,
+      "end": 13927,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "b8ee58bbb636",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 14073,
+      "end": 14089,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "838f14eb84da",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 14240,
+      "end": 14261,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "4a4dceb313af",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 14399,
+      "end": 14407,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "925aef9be815",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 14550,
+      "end": 14563,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "cc69c9daa618",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 14704,
+      "end": 14715,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "cc1df3d718c7",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 14845,
+      "end": 14848,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "8c8fd88f5660",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 14961,
+      "end": 14982,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "936dbe5cefea",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 15082,
+      "end": 15102,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "343db561612e",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 15205,
+      "end": 15227,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "f5bbf1d85467",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 15640,
+      "end": 15651,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "96baf39c4cf0",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 15871,
+      "end": 15909,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "53a731b58323",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 16328,
+      "end": 16360,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "2a5ae103612b",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 16587,
+      "end": 16607,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "1c827c78a7d0",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 16704,
+      "end": 16843,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Embergen can import models and animations from other 3d packages to be used as emitters, colliders, or as holdout objects for your renders.",
+      "source_text": "Embergen can import models and animations from other 3d packages to be used as emitters, colliders, or as holdout objects for your renders."
+    },
+    {
+      "id": "407f1a0626e3",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 16851,
+      "end": 16878,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "This can be done using the ",
+      "source_text": "This can be done using the "
+    },
+    {
+      "id": "6838f42d9d79",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17045,
+      "end": 17051,
+      "line": 258,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "88e04af68d05",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17056,
+      "end": 17062,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "57bb16cf1891",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17133,
+      "end": 17171,
+      "line": 262,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "You can browse for your file from the ",
+      "source_text": "You can browse for your file from the "
+    },
+    {
+      "id": "dec5b5e6f32c",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17175,
+      "end": 17180,
+      "line": 262,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Asset",
+      "source_text": "Asset"
+    },
+    {
+      "id": "27ebceea3ceb",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17185,
+      "end": 17190,
+      "line": 262,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "89896aa13992",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17198,
+      "end": 17277,
+      "line": 263,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "We primarily support the FBX file format but you can also use OBJ or ABC files.",
+      "source_text": "We primarily support the FBX file format but you can also use OBJ or ABC files."
+    },
+    {
+      "id": "6425771d8021",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17285,
+      "end": 17333,
+      "line": 264,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "For Alembic, only the OGAWA format is supported!",
+      "source_text": "For Alembic, only the OGAWA format is supported!"
+    },
+    {
+      "id": "0905672661a1",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17404,
+      "end": 17561,
+      "line": 268,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "You will want to store these files locally. If you are loading your imported mesh from a network drive this can cause instability in simulations and renders.",
+      "source_text": "You will want to store these files locally. If you are loading your imported mesh from a network drive this can cause instability in simulations and renders."
+    },
+    {
+      "id": "ae7372de9753",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17632,
+      "end": 17725,
+      "line": 272,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "It could be that your models show up way too small or way too big. Then you should go to the ",
+      "source_text": "It could be that your models show up way too small or way too big. Then you should go to the "
+    },
+    {
+      "id": "d4fc54bfc30c",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17729,
+      "end": 17738,
+      "line": 272,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Transform",
+      "source_text": "Transform"
+    },
+    {
+      "id": "a03ea4c53c94",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17743,
+      "end": 17761,
+      "line": 272,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " tab and find the ",
+      "source_text": " tab and find the "
+    },
+    {
+      "id": "0e827ae83ae5",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17765,
+      "end": 17788,
+      "line": 272,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Scale and center to fit",
+      "source_text": "Scale and center to fit"
+    },
+    {
+      "id": "feb7ec6821ab",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17793,
+      "end": 17939,
+      "line": 272,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " button. This should position and scale your imported models nicely withing the Embergen scene. If this somehow doesn’t work as desired, find the ",
+      "source_text": " button. This should position and scale your imported models nicely withing the Embergen scene. If this somehow doesn’t work as desired, find the "
+    },
+    {
+      "id": "b74dd3980f37",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17943,
+      "end": 17955,
+      "line": 272,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Master Scale",
+      "source_text": "Master Scale"
+    },
+    {
+      "id": "16b49e6f26c8",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 17960,
+      "end": 18032,
+      "line": 272,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " parameter to rescale your import to better fit the Embergen scene. The ",
+      "source_text": " parameter to rescale your import to better fit the Embergen scene. The "
+    },
+    {
+      "id": "927cd32e99df",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18036,
+      "end": 18041,
+      "line": 272,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Scale",
+      "source_text": "Scale"
+    },
+    {
+      "id": "056f02984a06",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18046,
+      "end": 18095,
+      "line": 272,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " parameter can be used to fine-tune your scaling.",
+      "source_text": " parameter can be used to fine-tune your scaling."
+    },
+    {
+      "id": "d17a63cc9520",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18166,
+      "end": 18170,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "5339193a8813",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18174,
+      "end": 18182,
+      "line": 276,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Geometry",
+      "source_text": "Geometry"
+    },
+    {
+      "id": "91bdec9cf4d6",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18187,
+      "end": 18223,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " output pin can be connected to the ",
+      "source_text": " output pin can be connected to the "
+    },
+    {
+      "id": "65747ea4049c",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18227,
+      "end": 18233,
+      "line": 276,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Shapes",
+      "source_text": "Shapes"
+    },
+    {
+      "id": "37854fd3f6b2",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18238,
+      "end": 18255,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " input pin on an ",
+      "source_text": " input pin on an "
+    },
+    {
+      "id": "a513db9cff90",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18259,
+      "end": 18266,
+      "line": 276,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Emitter",
+      "source_text": "Emitter"
+    },
+    {
+      "id": "cfead9456c61",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18271,
+      "end": 18282,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node or a ",
+      "source_text": " node or a "
+    },
+    {
+      "id": "4115a7e3a4c6",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18286,
+      "end": 18294,
+      "line": 276,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Collider",
+      "source_text": "Collider"
+    },
+    {
+      "id": "3f0c7fa38feb",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18299,
+      "end": 18305,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "b2ae67e9d5d8",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18629,
+      "end": 18703,
+      "line": 284,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "7e9ccd6620f2",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18730,
+      "end": 18792,
+      "line": 288,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "You can separate models or even parts of models out using the ",
+      "source_text": "You can separate models or even parts of models out using the "
+    },
+    {
+      "id": "be99ada1e639",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18796,
+      "end": 18800,
+      "line": 288,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Mask",
+      "source_text": "Mask"
+    },
+    {
+      "id": "bf764d45005f",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18805,
+      "end": 18814,
+      "line": 288,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " outputs.",
+      "source_text": " outputs."
+    },
+    {
+      "id": "7ba9a2d0587f",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18822,
+      "end": 18982,
+      "line": 289,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "These masks each have their own tab where you can specify what you need to be masked by picking a mesh from the list, a specific set of bones or a vertex color.",
+      "source_text": "These masks each have their own tab where you can specify what you need to be masked by picking a mesh from the list, a specific set of bones or a vertex color."
+    },
+    {
+      "id": "0d26ffec268b",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18990,
+      "end": 18994,
+      "line": 290,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "a514213ac04e",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 18998,
+      "end": 19002,
+      "line": 290,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Mask",
+      "source_text": "Mask"
+    },
+    {
+      "id": "11398b93cfd7",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 19007,
+      "end": 19071,
+      "line": 290,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " output pins will only output the shapes specified in that mask.",
+      "source_text": " output pins will only output the shapes specified in that mask."
+    },
+    {
+      "id": "ccc68cd9faf2",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 19334,
+      "end": 19338,
+      "line": 301,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "afcf6016b292",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 19404,
+      "end": 19413,
+      "line": 303,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "7955a790119e",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 19781,
+      "end": 19789,
+      "line": 311,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "76e465a97937",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 19872,
+      "end": 19876,
+      "line": 314,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "12e9bb620a02",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 20062,
+      "end": 20122,
+      "line": 321,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "39d84969f8fd",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 20128,
+      "end": 20151,
+      "line": 323,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "7579fc4e1221",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 20189,
+      "end": 20195,
+      "line": 324,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "5ed8a3a06e0f",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 20199,
+      "end": 20204,
+      "line": 324,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "65cf4ba19488",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 20254,
+      "end": 20264,
+      "line": 324,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "77c61c20c881",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 20268,
+      "end": 20296,
+      "line": 324,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "1a4cc11c7594",
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "start": 20340,
+      "end": 20344,
+      "line": 326,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

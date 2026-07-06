@@ -1,0 +1,2336 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+  "segment_count": 233,
+  "segments": [
+    {
+      "id": "5295e6b5e96b",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 695,
+      "end": 740,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Modulating Parameters - JangaFX Documentation",
+      "source_text": "Modulating Parameters - JangaFX Documentation"
+    },
+    {
+      "id": "2173edb0b65e",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 5330,
+      "end": 5353,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "121e20847b34",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 5448,
+      "end": 5478,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "cea6f6901585",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 5674,
+      "end": 5704,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "29229c3ff3bc",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 5895,
+      "end": 5916,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "480049eab551",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 6109,
+      "end": 6147,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "a3c5b9afd7a2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 6530,
+      "end": 6562,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "fd023440d3a9",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 7610,
+      "end": 7632,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "047a434ae9b2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 7810,
+      "end": 7842,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "e928d3e775dc",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8035,
+      "end": 8050,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "ae8322c809d2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8182,
+      "end": 8192,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "4afe8885d07c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8370,
+      "end": 8402,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "7c6d093738fe",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8603,
+      "end": 8617,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "386e4343b5dc",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8739,
+      "end": 8747,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "9abaf6776de8",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 8870,
+      "end": 8879,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "492ecf9eacbe",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9027,
+      "end": 9040,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "1f00eaf7ba6c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9218,
+      "end": 9250,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "dab781a5165e",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9468,
+      "end": 9481,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "cb34230aeb6f",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9632,
+      "end": 9651,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "d45ff9a07f32",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9786,
+      "end": 9791,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "85aa213c7026",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 9928,
+      "end": 9935,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "cc061de7a8f7",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10069,
+      "end": 10073,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "80fc228f444f",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10219,
+      "end": 10239,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "3b5df38f9228",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10378,
+      "end": 10387,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "ccbce6712a03",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10528,
+      "end": 10540,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "d6276c99dea8",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10679,
+      "end": 10697,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "1ec97c34f833",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 10843,
+      "end": 10859,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "c7431b0ee0fd",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11010,
+      "end": 11031,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "0cfd227f9b9a",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11169,
+      "end": 11177,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "cd682e66a269",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11316,
+      "end": 11326,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "a4a526c1b0eb",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11469,
+      "end": 11482,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "bfb495d843be",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11612,
+      "end": 11615,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "a1cf57e414ae",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11738,
+      "end": 11760,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "11e25972df64",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 11949,
+      "end": 11981,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "8e280aea88a8",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 12169,
+      "end": 12184,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "81e892fbe336",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 12289,
+      "end": 12299,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "41f6fbed263f",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 12488,
+      "end": 12520,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "b21641454ea4",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 12702,
+      "end": 12716,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "df6f0c41657c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 12803,
+      "end": 12811,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "279c976f26e8",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 12899,
+      "end": 12908,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "7263472f6876",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13010,
+      "end": 13023,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "9485001dbcf2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13212,
+      "end": 13244,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "2131592b76d8",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13422,
+      "end": 13433,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "c14572b98f7e",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13530,
+      "end": 13549,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "72a234294f50",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13630,
+      "end": 13635,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "fbd60db930bc",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13718,
+      "end": 13725,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "5a6dc4476db6",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13805,
+      "end": 13809,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "dc303ee592f0",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 13901,
+      "end": 13921,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "0eb6c3777693",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14010,
+      "end": 14023,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "f8b50cc1131b",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14110,
+      "end": 14122,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "69daa39eae29",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14207,
+      "end": 14225,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "93b57b8c77d2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14317,
+      "end": 14333,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "0fcb1d75820d",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14434,
+      "end": 14455,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "330afa955a98",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14539,
+      "end": 14547,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "1c5492964018",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14636,
+      "end": 14649,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "2cf177bff1da",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14736,
+      "end": 14747,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "b2a312c09ed5",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14856,
+      "end": 14859,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "e926ede8f95e",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 14972,
+      "end": 14993,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "614a984a5aab",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 15093,
+      "end": 15113,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "c83bec3f0227",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 15216,
+      "end": 15238,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "8de0a5397462",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 15651,
+      "end": 15662,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "3bb964cbbd2e",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 15882,
+      "end": 15920,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "8b3a08f63bc4",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 16332,
+      "end": 16364,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "f241202f30d1",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 16589,
+      "end": 16610,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "ca30613b9219",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 16710,
+      "end": 16787,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Most parameters in Embergen can be controlled by an external modulation node.",
+      "source_text": "Most parameters in Embergen can be controlled by an external modulation node."
+    },
+    {
+      "id": "13477b51b1df",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 16839,
+      "end": 16866,
+      "line": 259,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "How to modulate a parameter",
+      "source_text": "How to modulate a parameter"
+    },
+    {
+      "id": "3cb85dff882f",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 16972,
+      "end": 17099,
+      "line": 260,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s say we want a sphere to continuously move up and down. This can be done by hand using keyframes, but you can also use an ",
+      "source_text": "Let’s say we want a sphere to continuously move up and down. This can be done by hand using keyframes, but you can also use an "
+    },
+    {
+      "id": "0dfaaa607e6a",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17273,
+      "end": 17288,
+      "line": 260,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Mod: Oscillator",
+      "source_text": "Mod: Oscillator"
+    },
+    {
+      "id": "5297891ee996",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17293,
+      "end": 17299,
+      "line": 260,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "bc1b1811826f",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17458,
+      "end": 17489,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Set the override state for the ",
+      "source_text": "Set the override state for the "
+    },
+    {
+      "id": "a33cb117ed14",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17493,
+      "end": 17501,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Position",
+      "source_text": "Position"
+    },
+    {
+      "id": "3efd2d5b5916",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17506,
+      "end": 17520,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter to ",
+      "source_text": " parameter to "
+    },
+    {
+      "id": "93074979fb05",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17524,
+      "end": 17536,
+      "line": 263,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Pin Override",
+      "source_text": "Pin Override"
+    },
+    {
+      "id": "63bffab85be9",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17541,
+      "end": 17545,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " by ",
+      "source_text": " by "
+    },
+    {
+      "id": "27763784b6c5",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17704,
+      "end": 17737,
+      "line": 263,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking on the icon next to it.",
+      "source_text": " clicking on the icon next to it."
+    },
+    {
+      "id": "b35ed8521bfa",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17754,
+      "end": 17765,
+      "line": 264,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Connect an ",
+      "source_text": "Connect an "
+    },
+    {
+      "id": "4abc2e7c076a",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17939,
+      "end": 17954,
+      "line": 264,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Mod: Oscillator",
+      "source_text": "Mod: Oscillator"
+    },
+    {
+      "id": "296eff02852c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 17959,
+      "end": 18005,
+      "line": 264,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " node to the now exposed pin on the left side.",
+      "source_text": " node to the now exposed pin on the left side."
+    },
+    {
+      "id": "3bf1c8d19993",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18022,
+      "end": 18026,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Set ",
+      "source_text": "Set "
+    },
+    {
+      "id": "a19343253c91",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18030,
+      "end": 18040,
+      "line": 265,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Waveform X",
+      "source_text": "Waveform X"
+    },
+    {
+      "id": "ef2cd54360f6",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18045,
+      "end": 18050,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "c17148e38658",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18060,
+      "end": 18107,
+      "line": 265,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to None so only the Z-position will oscillate.",
+      "source_text": " to None so only the Z-position will oscillate."
+    },
+    {
+      "id": "ddf7d96de066",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18124,
+      "end": 18182,
+      "line": 266,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Adjust the settings in the oscillator node to your liking.",
+      "source_text": "Adjust the settings in the oscillator node to your liking."
+    },
+    {
+      "id": "4dd6c9b46516",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18241,
+      "end": 18253,
+      "line": 270,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Node Details",
+      "source_text": "Node Details"
+    },
+    {
+      "id": "db80b39c3f6c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18344,
+      "end": 18401,
+      "line": 271,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s have a look at the Node Details for the Oscillator.",
+      "source_text": "Let’s have a look at the Node Details for the Oscillator."
+    },
+    {
+      "id": "8dac4b8e6cd6",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18491,
+      "end": 18497,
+      "line": 274,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Output",
+      "source_text": "Output"
+    },
+    {
+      "id": "753f7fb56a44",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18614,
+      "end": 18621,
+      "line": 276,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Signal:",
+      "source_text": "Signal:"
+    },
+    {
+      "id": "fd6507df2f4d",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18630,
+      "end": 18677,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Visual representation of the created waveform.",
+      "source_text": " Visual representation of the created waveform."
+    },
+    {
+      "id": "cd7d83707019",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18696,
+      "end": 18706,
+      "line": 278,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Below the ",
+      "source_text": "Below the "
+    },
+    {
+      "id": "1a9089cec116",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18710,
+      "end": 18716,
+      "line": 278,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Signal",
+      "source_text": "Signal"
+    },
+    {
+      "id": "e6a9347cc4ec",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18721,
+      "end": 18784,
+      "line": 278,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " display is a list of all parameters that are connected to the ",
+      "source_text": " display is a list of all parameters that are connected to the "
+    },
+    {
+      "id": "de00f9386c5e",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18958,
+      "end": 18973,
+      "line": 278,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Mod: Oscillator",
+      "source_text": "Mod: Oscillator"
+    },
+    {
+      "id": "244efcc417f6",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18978,
+      "end": 18984,
+      "line": 278,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "9fc8638030db",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 18992,
+      "end": 19061,
+      "line": 279,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The parameters are represented with range sliders for each component.",
+      "source_text": "The parameters are represented with range sliders for each component."
+    },
+    {
+      "id": "371a09187310",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19087,
+      "end": 19093,
+      "line": 281,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": "Here, ",
+      "source_text": "Here, "
+    },
+    {
+      "id": "6e4f92b7b2f5",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19097,
+      "end": 19113,
+      "line": 281,
+      "parent_path": "section/blockquote/div/p/em",
+      "source_raw": "Volume flow rate",
+      "source_text": "Volume flow rate"
+    },
+    {
+      "id": "90e20bb93469",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19118,
+      "end": 19212,
+      "line": 281,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " only has one component and therefore has only one range slider and will be controlled by the ",
+      "source_text": " only has one component and therefore has only one range slider and will be controlled by the "
+    },
+    {
+      "id": "6bff257120e4",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19216,
+      "end": 19226,
+      "line": 281,
+      "parent_path": "section/blockquote/div/p/em",
+      "source_raw": "Waveform X",
+      "source_text": "Waveform X"
+    },
+    {
+      "id": "2fcba17a9aec",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19231,
+      "end": 19237,
+      "line": 281,
+      "parent_path": "section/section/blockquote/div/p",
+      "source_raw": " only.",
+      "source_text": " only."
+    },
+    {
+      "id": "482a0c22f67a",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19265,
+      "end": 19378,
+      "line": 283,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "These range sliders can be used to control the way in which the parameter values are mapped to the waveform. The ",
+      "source_text": "These range sliders can be used to control the way in which the parameter values are mapped to the waveform. The "
+    },
+    {
+      "id": "a7d24b8b350b",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19382,
+      "end": 19385,
+      "line": 283,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "min",
+      "source_text": "min"
+    },
+    {
+      "id": "583d3db883a1",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19390,
+      "end": 19472,
+      "line": 283,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " value in the range slider is the lowest possible value for the parameter and the ",
+      "source_text": " value in the range slider is the lowest possible value for the parameter and the "
+    },
+    {
+      "id": "6b61d965499f",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19476,
+      "end": 19479,
+      "line": 283,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "max",
+      "source_text": "max"
+    },
+    {
+      "id": "aff68ac38c4c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19484,
+      "end": 19503,
+      "line": 283,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " value the highest.",
+      "source_text": " value the highest."
+    },
+    {
+      "id": "869613f32e42",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19511,
+      "end": 19669,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "For example, when using a default sine wave the parameter value will oscillate smoothly up and down within the value range set by the range slider. Here, the ",
+      "source_text": "For example, when using a default sine wave the parameter value will oscillate smoothly up and down within the value range set by the range slider. Here, the "
+    },
+    {
+      "id": "1fb1883e1dd8",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19673,
+      "end": 19681,
+      "line": 284,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Position",
+      "source_text": "Position"
+    },
+    {
+      "id": "c279303cc061",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19686,
+      "end": 19720,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " parameters can oscillate between ",
+      "source_text": " parameters can oscillate between "
+    },
+    {
+      "id": "3974946bf2d6",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19732,
+      "end": 19737,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "422f3f3a6de2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19748,
+      "end": 19764,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " meters and the ",
+      "source_text": " meters and the "
+    },
+    {
+      "id": "fbe63ac183e6",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19768,
+      "end": 19777,
+      "line": 284,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Fuel rate",
+      "source_text": "Fuel rate"
+    },
+    {
+      "id": "7e16f1ec67f8",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19782,
+      "end": 19815,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " can oscillate between a rate of ",
+      "source_text": " can oscillate between a rate of "
+    },
+    {
+      "id": "236e869a9a27",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19825,
+      "end": 19830,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "2832fe64778b",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19843,
+      "end": 19863,
+      "line": 284,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " percent per second.",
+      "source_text": " percent per second."
+    },
+    {
+      "id": "2b8ef774b841",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 19871,
+      "end": 19942,
+      "line": 285,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "For more information on how to use range sliders, please check out our ",
+      "source_text": "For more information on how to use range sliders, please check out our "
+    },
+    {
+      "id": "d38d6b9199ae",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20046,
+      "end": 20058,
+      "line": 285,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "04ad778eb4a6",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20069,
+      "end": 20075,
+      "line": 285,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " page!",
+      "source_text": " page!"
+    },
+    {
+      "id": "6da09dbd47bd",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20115,
+      "end": 20119,
+      "line": 288,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Main",
+      "source_text": "Main"
+    },
+    {
+      "id": "b9a0dea035fd",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20234,
+      "end": 20250,
+      "line": 290,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Custom Waveform:",
+      "source_text": "Custom Waveform:"
+    },
+    {
+      "id": "589fd169690c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20259,
+      "end": 20302,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This graph is only visible when selecting ",
+      "source_text": " This graph is only visible when selecting "
+    },
+    {
+      "id": "aa436320e917",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20306,
+      "end": 20312,
+      "line": 290,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Custom",
+      "source_text": "Custom"
+    },
+    {
+      "id": "284ef893284b",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20317,
+      "end": 20332,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in one of the ",
+      "source_text": " in one of the "
+    },
+    {
+      "id": "55cc148d5f98",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20336,
+      "end": 20344,
+      "line": 290,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Wavefrom",
+      "source_text": "Wavefrom"
+    },
+    {
+      "id": "bb327970440b",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20349,
+      "end": 20433,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " dropdown menus. This option allows for creating any waveform you can think of. The ",
+      "source_text": " dropdown menus. This option allows for creating any waveform you can think of. The "
+    },
+    {
+      "id": "950dff9d558c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20437,
+      "end": 20453,
+      "line": 290,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator…",
+      "source_text": "Curve Generator…"
+    },
+    {
+      "id": "0f9cb06809a2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20458,
+      "end": 20466,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the ",
+      "source_text": " in the "
+    },
+    {
+      "id": "2a810cd44b18",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20628,
+      "end": 20781,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " right-click-menu can be very useful to make things like a jittered sine wave. For more information on how to use modulation curves please check out our ",
+      "source_text": " right-click-menu can be very useful to make things like a jittered sine wave. For more information on how to use modulation curves please check out our "
+    },
+    {
+      "id": "00d54b60c87b",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20936,
+      "end": 20952,
+      "line": 290,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "9004487c5c1f",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 20963,
+      "end": 20969,
+      "line": 290,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " page!",
+      "source_text": " page!"
+    },
+    {
+      "id": "229ebcab4128",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21324,
+      "end": 21398,
+      "line": 299,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "2a4faf8b2e52",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21457,
+      "end": 21472,
+      "line": 304,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Waveform X,Y,Z:",
+      "source_text": "Waveform X,Y,Z:"
+    },
+    {
+      "id": "093136578daf",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21481,
+      "end": 21603,
+      "line": 304,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This dropdown menu holds the different types of waveforms which will determine the pattern in which the values oscillate.",
+      "source_text": " This dropdown menu holds the different types of waveforms which will determine the pattern in which the values oscillate."
+    },
+    {
+      "id": "de2c8ec457a0",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21649,
+      "end": 21669,
+      "line": 306,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Frequency time unit:",
+      "source_text": "Frequency time unit:"
+    },
+    {
+      "id": "176017320165",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21678,
+      "end": 21697,
+      "line": 306,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " The time unit the ",
+      "source_text": " The time unit the "
+    },
+    {
+      "id": "f0f3e46e743f",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21701,
+      "end": 21710,
+      "line": 306,
+      "parent_path": "ul/li/dl/dt/em",
+      "source_raw": "Frequency",
+      "source_text": "Frequency"
+    },
+    {
+      "id": "7a8b82ccf576",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21715,
+      "end": 21891,
+      "line": 306,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " parameter should use. This can be either a free standing frequency by using Hz or Seconds, or the function of the current project’s settings by using Frames or Loop Divisions.",
+      "source_text": " parameter should use. This can be either a free standing frequency by using Hz or Seconds, or the function of the current project’s settings by using Frames or Loop Divisions."
+    },
+    {
+      "id": "7061b3042e24",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21920,
+      "end": 21923,
+      "line": 307,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Hz:",
+      "source_text": "Hz:"
+    },
+    {
+      "id": "40a4f81acf49",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21932,
+      "end": 21937,
+      "line": 307,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " The ",
+      "source_text": " The "
+    },
+    {
+      "id": "dc8dac0d9751",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21941,
+      "end": 21950,
+      "line": 307,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Frequency",
+      "source_text": "Frequency"
+    },
+    {
+      "id": "0bac75b1388b",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 21955,
+      "end": 22011,
+      "line": 307,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter sets the amount of pattern cycles per second.",
+      "source_text": " parameter sets the amount of pattern cycles per second."
+    },
+    {
+      "id": "7747ea97d9a5",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22036,
+      "end": 22044,
+      "line": 308,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Seconds:",
+      "source_text": "Seconds:"
+    },
+    {
+      "id": "d861a8dc81b1",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22053,
+      "end": 22058,
+      "line": 308,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " The ",
+      "source_text": " The "
+    },
+    {
+      "id": "462fc221deb2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22062,
+      "end": 22071,
+      "line": 308,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Frequency",
+      "source_text": "Frequency"
+    },
+    {
+      "id": "f4d2e304c4d7",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22076,
+      "end": 22136,
+      "line": 308,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter sets the amount of seconds a pattern cycle takes.",
+      "source_text": " parameter sets the amount of seconds a pattern cycle takes."
+    },
+    {
+      "id": "46eb64f499b0",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22161,
+      "end": 22168,
+      "line": 309,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Frames:",
+      "source_text": "Frames:"
+    },
+    {
+      "id": "cb389ac756c2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22177,
+      "end": 22182,
+      "line": 309,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " The ",
+      "source_text": " The "
+    },
+    {
+      "id": "c71a5b623ecf",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22186,
+      "end": 22195,
+      "line": 309,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Frequency",
+      "source_text": "Frequency"
+    },
+    {
+      "id": "a3a58fe28be0",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22200,
+      "end": 22259,
+      "line": 309,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter sets the amount of frames a pattern cycle takes.",
+      "source_text": " parameter sets the amount of frames a pattern cycle takes."
+    },
+    {
+      "id": "4392b0c25227",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22284,
+      "end": 22299,
+      "line": 310,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Loop Divisions:",
+      "source_text": "Loop Divisions:"
+    },
+    {
+      "id": "fad26147e141",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22308,
+      "end": 22313,
+      "line": 310,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " The ",
+      "source_text": " The "
+    },
+    {
+      "id": "d624b9ba13bf",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22317,
+      "end": 22326,
+      "line": 310,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Frequency",
+      "source_text": "Frequency"
+    },
+    {
+      "id": "53387a8bad8e",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22331,
+      "end": 22461,
+      "line": 310,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter sets the amount of pattern cycles within the time span of the loop region. The loop region can be revealed by pressing ",
+      "source_text": " parameter sets the amount of pattern cycles within the time span of the loop region. The loop region can be revealed by pressing "
+    },
+    {
+      "id": "1021937f7441",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22475,
+      "end": 22483,
+      "line": 310,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " or the ",
+      "source_text": " or the "
+    },
+    {
+      "id": "ffb079963547",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22634,
+      "end": 22649,
+      "line": 310,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " button in the ",
+      "source_text": " button in the "
+    },
+    {
+      "id": "fd8f2e21f3df",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22653,
+      "end": 22661,
+      "line": 310,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Timeline",
+      "source_text": "Timeline"
+    },
+    {
+      "id": "bb6f33527f79",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22666,
+      "end": 22675,
+      "line": 310,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " section.",
+      "source_text": " section."
+    },
+    {
+      "id": "bdad5f5b16f2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22724,
+      "end": 22734,
+      "line": 315,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Frequency:",
+      "source_text": "Frequency:"
+    },
+    {
+      "id": "634827157357",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22743,
+      "end": 22848,
+      "line": 315,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Number of times per time unit the pattern is repeated. Higher values will make the values change faster.",
+      "source_text": " Number of times per time unit the pattern is repeated. Higher values will make the values change faster."
+    },
+    {
+      "id": "e29c147832b8",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22873,
+      "end": 22878,
+      "line": 316,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Base:",
+      "source_text": "Base:"
+    },
+    {
+      "id": "c73b93768b1e",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22887,
+      "end": 22929,
+      "line": 316,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Offset the values. Adding or subtracting.",
+      "source_text": " Offset the values. Adding or subtracting."
+    },
+    {
+      "id": "4dc091c452e9",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22954,
+      "end": 22960,
+      "line": 317,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Phase:",
+      "source_text": "Phase:"
+    },
+    {
+      "id": "f754e8ddb89e",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 22969,
+      "end": 23002,
+      "line": 317,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Temporal offset of the waveform.",
+      "source_text": " Temporal offset of the waveform."
+    },
+    {
+      "id": "2a8b8119f2c6",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23027,
+      "end": 23034,
+      "line": 318,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Amount:",
+      "source_text": "Amount:"
+    },
+    {
+      "id": "0360bad73139",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23043,
+      "end": 23147,
+      "line": 318,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Intensity of the waveform. Higher values will have the oscillated values deviate further from the base.",
+      "source_text": " Intensity of the waveform. Higher values will have the oscillated values deviate further from the base."
+    },
+    {
+      "id": "ed4d82318c18",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23172,
+      "end": 23184,
+      "line": 319,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Attenuation:",
+      "source_text": "Attenuation:"
+    },
+    {
+      "id": "d5097f38679e",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23193,
+      "end": 23237,
+      "line": 319,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Intensity multiplier for all the waveforms.",
+      "source_text": " Intensity multiplier for all the waveforms."
+    },
+    {
+      "id": "cebb243fcd78",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23311,
+      "end": 23327,
+      "line": 324,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Other Modulators",
+      "source_text": "Other Modulators"
+    },
+    {
+      "id": "e2616f6ba4da",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23422,
+      "end": 23486,
+      "line": 325,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "All the modulator nodes work with three values to represent the ",
+      "source_text": "All the modulator nodes work with three values to represent the "
+    },
+    {
+      "id": "a012f3951148",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23508,
+      "end": 23513,
+      "line": 325,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "44fb188c4cd3",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23523,
+      "end": 23529,
+      "line": 325,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " axis.",
+      "source_text": " axis."
+    },
+    {
+      "id": "30be4c0a6f49",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23537,
+      "end": 23589,
+      "line": 326,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "When modulating a parameter with a single value the ",
+      "source_text": "When modulating a parameter with a single value the "
+    },
+    {
+      "id": "f5843f0fb6f8",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23611,
+      "end": 23615,
+      "line": 326,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "7192feadaefe",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23625,
+      "end": 23646,
+      "line": 326,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " output is used only.",
+      "source_text": " output is used only."
+    },
+    {
+      "id": "2963341572a8",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23654,
+      "end": 23688,
+      "line": 327,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "When modulating a color parameter ",
+      "source_text": "When modulating a color parameter "
+    },
+    {
+      "id": "2253dfdc9e82",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23710,
+      "end": 23715,
+      "line": 327,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "6c09222b780b",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23725,
+      "end": 23741,
+      "line": 327,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " will represent ",
+      "source_text": " will represent "
+    },
+    {
+      "id": "dc0adc418570",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23745,
+      "end": 23748,
+      "line": 327,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Red",
+      "source_text": "Red"
+    },
+    {
+      "id": "bbc77933ec7a",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23759,
+      "end": 23764,
+      "line": 327,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Green",
+      "source_text": "Green"
+    },
+    {
+      "id": "44a216f0cee3",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23769,
+      "end": 23774,
+      "line": 327,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "c0810c0bd41f",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23778,
+      "end": 23782,
+      "line": 327,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Blue",
+      "source_text": "Blue"
+    },
+    {
+      "id": "30ca385cb4fe",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 23996,
+      "end": 24005,
+      "line": 329,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Constant",
+      "source_text": " Constant"
+    },
+    {
+      "id": "071e5239284e",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24105,
+      "end": 24164,
+      "line": 330,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Generates a signal with values that don’t change over time.",
+      "source_text": "Generates a signal with values that don’t change over time."
+    },
+    {
+      "id": "fbe0392203a2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24172,
+      "end": 24261,
+      "line": 331,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This can be useful for when you want to control multiple parameters with the same slider.",
+      "source_text": "This can be useful for when you want to control multiple parameters with the same slider."
+    },
+    {
+      "id": "cb4cde6f94e0",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24269,
+      "end": 24308,
+      "line": 332,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This modulator is unique as it has the ",
+      "source_text": "This modulator is unique as it has the "
+    },
+    {
+      "id": "84ed46ac5648",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24312,
+      "end": 24316,
+      "line": 332,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Mode",
+      "source_text": "Mode"
+    },
+    {
+      "id": "8a4534bbb694",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24321,
+      "end": 24385,
+      "line": 332,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " dropdown parameter to select the most suitable type of control.",
+      "source_text": " dropdown parameter to select the most suitable type of control."
+    },
+    {
+      "id": "523586a44c27",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24615,
+      "end": 24626,
+      "line": 335,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Oscillator",
+      "source_text": " Oscillator"
+    },
+    {
+      "id": "c6401003b916",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24730,
+      "end": 24799,
+      "line": 336,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Generates a signal where the values change over a specified waveform.",
+      "source_text": "Generates a signal where the values change over a specified waveform."
+    },
+    {
+      "id": "42037fe5b2d8",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 24807,
+      "end": 24948,
+      "line": 337,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This can be useful to add some turbulence into your project by having parameters deviate from their base value in a ,for example, random way.",
+      "source_text": "This can be useful to add some turbulence into your project by having parameters deviate from their base value in a ,for example, random way."
+    },
+    {
+      "id": "26fc5bd54b77",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25163,
+      "end": 25169,
+      "line": 340,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Cycle",
+      "source_text": " Cycle"
+    },
+    {
+      "id": "f53e5ae4a544",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25263,
+      "end": 25329,
+      "line": 341,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "A version of the saw waveform. Repeats a linear value change from ",
+      "source_text": "A version of the saw waveform. Repeats a linear value change from "
+    },
+    {
+      "id": "8b5aa778caf6",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25342,
+      "end": 25346,
+      "line": 341,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " to ",
+      "source_text": " to "
+    },
+    {
+      "id": "545f8322a014",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25367,
+      "end": 25419,
+      "line": 342,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This is used to get something continuously rotating.",
+      "source_text": "This is used to get something continuously rotating."
+    },
+    {
+      "id": "3fbb0f9264ba",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25646,
+      "end": 25654,
+      "line": 345,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Combine",
+      "source_text": " Combine"
+    },
+    {
+      "id": "60736e640a60",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 25755,
+      "end": 25854,
+      "line": 346,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This node doesn’t generate a signal, but combines multiple signals in a specified mathematical way.",
+      "source_text": "This node doesn’t generate a signal, but combines multiple signals in a specified mathematical way."
+    },
+    {
+      "id": "a452b3bc4d93",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 26054,
+      "end": 26059,
+      "line": 349,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Math",
+      "source_text": " Math"
+    },
+    {
+      "id": "1b18a69c2134",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 26151,
+      "end": 26244,
+      "line": 350,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This node has a text field where you can write you own math expressions to generate a signal.",
+      "source_text": "This node has a text field where you can write you own math expressions to generate a signal."
+    },
+    {
+      "id": "1232bad9c8ee",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 26473,
+      "end": 26484,
+      "line": 353,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " Time Shift",
+      "source_text": " Time Shift"
+    },
+    {
+      "id": "08841c829aaa",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 26587,
+      "end": 26664,
+      "line": 354,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Doesn’t generate a signal, but does a temporal offset on the incoming signal.",
+      "source_text": "Doesn’t generate a signal, but does a temporal offset on the incoming signal."
+    },
+    {
+      "id": "8c53e2a30075",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 26864,
+      "end": 26869,
+      "line": 357,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " ADSR",
+      "source_text": " ADSR"
+    },
+    {
+      "id": "73bc24ed4a3c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 26961,
+      "end": 27034,
+      "line": 358,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The ADSR Node allows you to map a specific parameter to an ADSR Envelope.",
+      "source_text": "The ADSR Node allows you to map a specific parameter to an ADSR Envelope."
+    },
+    {
+      "id": "a4c492fd9b96",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 27042,
+      "end": 27110,
+      "line": 359,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "ADSR stands for Attack, Decay, Sustain, Release. Once the ADSR node ",
+      "source_text": "ADSR stands for Attack, Decay, Sustain, Release. Once the ADSR node "
+    },
+    {
+      "id": "84a595343b46",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 27114,
+      "end": 27120,
+      "line": 359,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Active",
+      "source_text": "Active"
+    },
+    {
+      "id": "a02b69d08b74",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 27125,
+      "end": 27705,
+      "line": 359,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " checkbox is on, the envelope will be engaged, starting with the ‘attack’. Attack is the amount of time it takes for the base value of the assigned parameter to reach its peak value, dictated by the Amount %. Decay is the duration of time it takes to get from the peak value to the Sustain value. Sustain is the percentage inbetween the Base and Amount value, and this value will remain the same until the ADSR node is innactive. Once the Active binary is turned off, you will ‘release’ the envelope. Release is the time it takes for the Sustain value to return to the Base value.",
+      "source_text": " checkbox is on, the envelope will be engaged, starting with the ‘attack’. Attack is the amount of time it takes for the base value of the assigned parameter to reach its peak value, dictated by the Amount %. Decay is the duration of time it takes to get from the peak value to the Sustain value. Sustain is the percentage inbetween the Base and Amount value, and this value will remain the same until the ADSR node is innactive. Once the Active binary is turned off, you will ‘release’ the envelope. Release is the time it takes for the Sustain value to return to the Base value."
+    },
+    {
+      "id": "a15fe5cc051c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 27713,
+      "end": 27779,
+      "line": 360,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This node is especcially useful in combination with the MIDI node.",
+      "source_text": "This node is especcially useful in combination with the MIDI node."
+    },
+    {
+      "id": "04b7fac21bb9",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28005,
+      "end": 28010,
+      "line": 363,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": " MIDI",
+      "source_text": " MIDI"
+    },
+    {
+      "id": "09e9811cd157",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28102,
+      "end": 28184,
+      "line": 364,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Generates a signal based on pressing buttons on a MIDI controller like a keyboard.",
+      "source_text": "Generates a signal based on pressing buttons on a MIDI controller like a keyboard."
+    },
+    {
+      "id": "22c4cbec857c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28192,
+      "end": 28228,
+      "line": 365,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "To use this you first need to check ",
+      "source_text": "To use this you first need to check "
+    },
+    {
+      "id": "16b0b95e9d5c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28569,
+      "end": 28573,
+      "line": 378,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "dea0ee876057",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 28639,
+      "end": 28647,
+      "line": 380,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "1dc304ad0140",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29027,
+      "end": 29035,
+      "line": 388,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "7a0ac8cdeb89",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29118,
+      "end": 29134,
+      "line": 391,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "ccd14876f3d3",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29320,
+      "end": 29380,
+      "line": 398,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "5b523e1fea8a",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29386,
+      "end": 29409,
+      "line": 400,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "7aa47a17df37",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29447,
+      "end": 29453,
+      "line": 401,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "f3f6de284b31",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29457,
+      "end": 29462,
+      "line": 401,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "e450e3f073d7",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29512,
+      "end": 29522,
+      "line": 401,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "e64e3f77e281",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29526,
+      "end": 29554,
+      "line": 401,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "62fbac23c208",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29598,
+      "end": 29602,
+      "line": 403,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "0f9cb090ad44",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 29919,
+      "end": 29955,
+      "line": 418,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "1df960068547",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 30112,
+      "end": 30133,
+      "line": 425,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "114ee5bb937d",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 30212,
+      "end": 30239,
+      "line": 426,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How to modulate a parameter",
+      "source_text": "How to modulate a parameter"
+    },
+    {
+      "id": "e2051087216a",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 30304,
+      "end": 30316,
+      "line": 427,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node Details",
+      "source_text": "Node Details"
+    },
+    {
+      "id": "63c2a8522ae6",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 30374,
+      "end": 30380,
+      "line": 428,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Output",
+      "source_text": "Output"
+    },
+    {
+      "id": "9113b6b85c3c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 30437,
+      "end": 30441,
+      "line": 429,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Main",
+      "source_text": "Main"
+    },
+    {
+      "id": "40a4fff5c7f3",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 30522,
+      "end": 30538,
+      "line": 432,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Other Modulators",
+      "source_text": "Other Modulators"
+    },
+    {
+      "id": "fa1b724888e9",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 30611,
+      "end": 30620,
+      "line": 433,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Constant",
+      "source_text": " Constant"
+    },
+    {
+      "id": "d93f9d1d5a67",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 30698,
+      "end": 30709,
+      "line": 434,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Oscillator",
+      "source_text": " Oscillator"
+    },
+    {
+      "id": "ff056e28eeb8",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 30777,
+      "end": 30783,
+      "line": 435,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Cycle",
+      "source_text": " Cycle"
+    },
+    {
+      "id": "8ceedc61ef8c",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 30858,
+      "end": 30866,
+      "line": 436,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Combine",
+      "source_text": " Combine"
+    },
+    {
+      "id": "694aef0e9620",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 30932,
+      "end": 30937,
+      "line": 437,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Math",
+      "source_text": " Math"
+    },
+    {
+      "id": "73d265f533a2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 31014,
+      "end": 31025,
+      "line": 438,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Time Shift",
+      "source_text": " Time Shift"
+    },
+    {
+      "id": "4076f94e0df2",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 31091,
+      "end": 31096,
+      "line": 439,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " ADSR",
+      "source_text": " ADSR"
+    },
+    {
+      "id": "9ee79306cc3e",
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "start": 31162,
+      "end": 31167,
+      "line": 440,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " MIDI",
+      "source_text": " MIDI"
+    }
+  ]
+}

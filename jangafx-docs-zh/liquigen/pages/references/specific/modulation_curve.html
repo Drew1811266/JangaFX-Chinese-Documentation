@@ -1,0 +1,524 @@
+<!doctype html>
+<html class="no-js" lang="zh-CN">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../../../genindex.html" /><link rel="search" title="Search" href="../../../../search.html" />
+
+    <link rel="shortcut icon" href="../../../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>调制曲线 - JangaFX 文档</title>
+      <link rel="stylesheet" type="text/css" href="../../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">隐藏导航侧边栏</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">隐藏目录侧边栏</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">切换站点导航侧边栏</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../../../index.html"><div class="brand">JangaFX 文档</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">切换目录侧边栏</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../../embergen/index.html">EmberGen 文档</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../../embergen/pages/getting_started.html">入门</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../../embergen/pages/references/index.html">参考</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../../../embergen/pages/references/ui_reference.html">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../embergen/pages/references/settings.html">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../embergen/pages/references/node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/histogram.html">直方图</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/exportVDB.html">VDB 导出</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/randomization.html">随机化</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../embergen/pages/FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../index.html">LiquiGen 文档</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../getting_started.html">入门</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../index.html">参考</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../ui_reference.html">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../settings.html">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/diagnostics.html">诊断</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/randomization.html">随机化</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/expressions.html">表达式</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../illugen/index.html">IlluGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../geogen/index.html">GeoGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../licensing/index.html">浮动许可证指南</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>返回顶部</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">切换目录侧边栏</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <section id="modulation-curve">
+<span id="modulationcurve-lg"></span><h1>调制曲线<a class="headerlink" href="#modulation-curve" title="Permalink to this heading">#</a></h1>
+<p>调制曲线用于基于两个轴映射数值。</p>
+<section id="curve-editing">
+<h2>曲线编辑<a class="headerlink" href="#curve-editing" title="Permalink to this heading">#</a></h2>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="124.70023980815348" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/modulationCurveEditing.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p>如需更精确地编辑，可以单击曲线旁边的 <a class="reference internal" href="../../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../../_images/full_screen.svg" width="12" /></a> 图标，打开更大的 <em>Remapping curve</em> 窗口。可以通过 <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击并拖动窗口角来缩放此窗口，也可以单击右上角的 <a class="reference internal" href="../../../../_images/icon_close.svg"><img alt="close icon" height="10" src="../../../../_images/icon_close.svg" width="10" /></a> 图标，或属性面板中曲线旁边的 <a class="reference internal" href="../../../../_images/exit_full_screen.svg"><img alt="exit fullscreen Icon" height="12" src="../../../../_images/exit_full_screen.svg" width="12" /></a> 图标来关闭窗口。</p></li>
+<li><p>双击 <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 图表中的任意位置，可插入另一个曲线点。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击并拖动曲线点即可移动它。</p></li>
+<li><p>通过 <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击来选择曲线点。</p></li>
+<li><p>通过 <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击并拖动来框选曲线点。</p></li>
+<li><p>使用 <cite>Ctrl</cite> + <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击，可以在当前曲线点选择中添加或移除点。</p></li>
+<li><p>按下 <cite>Ctrl + A</cite></p></li>
+<li><p>使用 <cite>Delete</cite> 键可删除选中的曲线点。也可以使用该点的右键菜单并选择 <em>Delete</em>。</p></li>
+<li><p>使用 <a class="reference internal" href="../../../../_images/flip_horizontal.svg"><img alt="flip horizontal" height="12" src="../../../../_images/flip_horizontal.svg" width="12" /></a> 按钮，或在图表右键菜单中选择 <em>Flip Horizontally</em>，可将图表中的所有曲线点水平翻转。</p></li>
+<li><p>使用 <a class="reference internal" href="../../../../_images/flip_vertical.svg"><img alt="flip vertical" height="12" src="../../../../_images/flip_vertical.svg" width="12" /></a> 按钮，或在图表右键菜单中选择 <em>Flip Vertically</em>，可将图表中的所有曲线点垂直翻转。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="261.03286384976525" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/modulationCurveInterpolation.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>“<em>Interpolation Mode（插值模式）</em>”定义从一个曲线点到另一个曲线点时数值的插值方法。</p>
+<p>可以在右键菜单中更改曲线点的 Interpolation Mode（插值模式）。</p>
+<div class="line-block">
+<div class="line"><em>注意，可以在不同曲线点上混用不同插值模式。</em></div>
+<div class="line"><em>当两个曲线点使用不同插值模式时，将使用第一个（或左侧）曲线点的插值模式来计算它们之间的变化。</em></div>
+</div>
+<dl class="simple">
+<dt>可用选项如下：</dt><dd><ul class="simple">
+<li><p><strong>Bézier</strong> 会根据 Bézier 手柄对数值进行插值。使用此模式时，选中单个曲线点后可以看到 Bézier 手柄。可以通过 <cite>LMB</cite> 并拖动 Bézier 手柄末端的点来调整插值。曲线平缓的部分表示数值变化较慢，曲线陡峭的部分表示数值变化较快。</p></li>
+<li><p><strong>Smooth</strong> 会在一个曲线点到另一个曲线点之间生成平滑曲线，避免生硬过渡。</p></li>
+<li><p><strong>Linear</strong> 数值会从一个曲线点线性移动到另一个曲线点。这有助于获得非常可预测的结果，但也可能产生机械感较强的过渡。</p></li>
+<li><p><strong>Constant</strong> 数值会保持恒定，直到到达下一个曲线点。因此数值会出现跳变。</p></li>
+</ul>
+</dd>
+</dl>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="343.13253012048193" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/modulationCurveHandleTypes.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <dl>
+<dt>使用 <em>Bézier</em> 模式时，可以使用几种手柄类型；它们同样位于右键菜单中。</dt><dd><ul>
+<li><p><strong>Aligned</strong> 手柄可以自由移动，方向和长度都不受限制。对于此类型，一个手柄始终位于另一个手柄的反方向，并且长度相同。</p></li>
+<li><p><strong>Free</strong> 两侧手柄可以彼此独立地任意移动。</p></li>
+<li><p><strong>Auto Clamped</strong> 这是默认行为。对于此类型，手柄绝不会越过前一个或后一个曲线点。请注意，修改手柄后，类型会被设置为 Aligned。</p></li>
+<li><p><strong>Auto Vectored</strong> 这会让左侧手柄指向前一个曲线点，右侧手柄指向后一个曲线点。请注意，修改手柄后，类型会被设置为 Free。</p>
+<blockquote>
+<div><p>始终可以点击 <em>Reset Handle</em>（位于右键菜单中），将所选曲线点的 Bézier 手柄重置为默认值。</p>
+</div></blockquote>
+</li>
+</ul>
+</dd>
+</dl>
+</section>
+<section id="saving-and-loading-curves">
+<h2>保存和加载曲线<a class="headerlink" href="#saving-and-loading-curves" title="Permalink to this heading">#</a></h2>
+<p>任何调制曲线都可以保存到硬盘，供以后使用！</p>
+<p>如果经常使用某条特定的自定义曲线，可以将其保存，并在任意项目中加载。</p>
+<p>加载后的曲线仍然可以在调制曲线编辑器中编辑，因此也可以将其作为起点或自定义预设。</p>
+<ul class="simple">
+<li><p>要保存或加载调制曲线，可在图表中 <a class="reference internal" href="../../../../_images/right.svg"><img alt="right mouse button" height="18" src="../../../../_images/right.svg" width="18" /></a> 单击并选择 <em>Save…</em> 或 <em>Load…</em></p></li>
+<li><p>文件浏览器会弹出，你可以导航到想要保存曲线或加载曲线的文件夹。</p></li>
+<li><p>要保存曲线，请提供文件名并使用文件浏览器中的 <em>Save</em> 按钮。</p></li>
+<li><p>系统会自动添加 <em>.jfxcurve</em> 扩展名，并将你的自定义曲线文件保存到硬盘。</p></li>
+<li><p>要加载曲线，请在文件浏览器中选择带有 <em>.jfxcurve</em> 扩展名的文件，并使用 <em>Open</em> 按钮。</p></li>
+<li><p>如果决定不加载或保存曲线，请使用文件浏览器中的 <em>Cancel</em> 按钮。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="800" height="215.1547491995731" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/modulationCurveSaveLoad.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="curve-presets">
+<h2>曲线预设<a class="headerlink" href="#curve-presets" title="Permalink to this heading">#</a></h2>
+<a class="reference internal image-reference" href="../../../../_images/curvePresetsWindow.png"><img alt="color presets" class="align-right" src="../../../../_images/curvePresetsWindow.png" style="width: 400px;" /></a>
+<p>单击带有 <a class="reference internal" href="../../../../_images/icon_preset.svg"><img alt="iconPreset icon" height="12" src="../../../../_images/icon_preset.svg" width="12" /></a> 图标的按钮会打开曲线预设窗口。在这里，你可以组织、更新、导入和导出所有调制曲线！</p>
+<p>左侧区域是可包含曲线预设的分类或文件夹列表：</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="../../../../_images/all.svg"><img alt="all icon" height="12" src="../../../../_images/all.svg" width="12" /></a> <em>All</em> 包含所有已保存的曲线预设。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/favorite1.svg"><img alt="favorite icon" height="13" src="../../../../_images/favorite1.svg" width="14" /></a> <em>Favorites</em> 包含所有通过星标图标标记为收藏的预设。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/ungrouped.svg"><img alt="ungrouped icon" height="12" src="../../../../_images/ungrouped.svg" width="12" /></a> <em>Ungrouped</em> 包含所有不在文件夹内的预设。如果预设被移到这里，或在选中 <a class="reference internal" href="../../../../_images/all.svg"><img alt="all icon" height="12" src="../../../../_images/all.svg" width="12" /></a> <em>All</em>, <a class="reference internal" href="../../../../_images/favorite1.svg"><img alt="favorite icon" height="13" src="../../../../_images/favorite1.svg" width="14" /></a> <em>Favorites</em>，或 <a class="reference internal" href="../../../../_images/ungrouped.svg"><img alt="ungrouped icon" height="12" src="../../../../_images/ungrouped.svg" width="12" /></a> <em>Ungrouped</em> 分类时添加，它就会进入 Ungrouped。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/folder1.svg"><img alt="folder icon" height="12" src="../../../../_images/folder1.svg" width="12" /></a> <em>Folders</em> 可由用户创建，用来组织曲线预设。可使用右下角的 <a class="reference internal" href="../../../../_images/add_folder.svg"><img alt="add folder icon" height="16" src="../../../../_images/add_folder.svg" width="16" /></a> 按钮完成。如果选中了文件夹，新添加的预设会放入该文件夹。可以通过 <a class="reference internal" href="../../../../_images/right.svg"><img alt="right mouse button" height="18" src="../../../../_images/right.svg" width="18" /></a> 单击文件夹并选择 <em>Rename</em> 或 <em>Delete</em>。也可以通过 <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击并拖动来移动文件夹位置。</p></li>
+</ul>
+<p>右侧区域是调制曲线预设列表：</p>
+<ul class="simple">
+<li><p>当前激活的预设会在 <a class="reference internal" href="../../../../_images/dot_normal.svg"><img alt="dot icon" height="6" src="../../../../_images/dot_normal.svg" width="6" /></a> 旁边显示一个灰色圆点，位于 <a class="reference internal" href="../../../../_images/favorite1.svg"><img alt="favorite icon" height="13" src="../../../../_images/favorite1.svg" width="14" /></a> 图标旁。</p></li>
+<li><p>该 <a class="reference internal" href="../../../../_images/favorite1.svg"><img alt="favorite icon" height="13" src="../../../../_images/favorite1.svg" width="14" /></a> 图标可切换曲线预设的收藏/取消收藏状态。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击曲线预设会将其应用到调制曲线参数。</p></li>
+<li><p><cite>Shift</cite> + <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击曲线预设，会在不关闭曲线预设窗口的情况下将其应用到调制曲线参数。</p></li>
+<li><p>可以 <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击并拖动曲线预设，将其移动到列表中的其他位置。</p></li>
+</ul>
+<p>单击曲线预设时出现的上下文菜单包含以下选项：</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="../../../../_images/rename.svg"><img alt="rename icon" height="12" src="../../../../_images/rename.svg" width="12" /></a> <em>Rename：</em> 允许为曲线预设输入新名称。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/favorite1.svg"><img alt="favorite icon" height="13" src="../../../../_images/favorite1.svg" width="14" /></a> <em>Favorite/</em> <a class="reference internal" href="../../../../_images/unfavorite.svg"><img alt="unfavorite icon" height="13" src="../../../../_images/unfavorite.svg" width="14" /></a> <em>Unfavorite：</em> 切换曲线预设是否为收藏。使用曲线预设上的 <a class="reference internal" href="../../../../_images/favorite1.svg"><img alt="favorite icon" height="13" src="../../../../_images/favorite1.svg" width="14" /></a> 图标也会执行相同操作。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/update1.svg"><img alt="update icon" height="12" src="../../../../_images/update1.svg" width="14" /></a> <em>Update：</em> 用当前调制曲线参数覆盖该曲线预设。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/move_to.svg"><img alt="move to icon" height="12" src="../../../../_images/move_to.svg" width="12" /></a> <em>Move To…：</em> 让你将曲线预设放入指定文件夹。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/export.svg"><img alt="export icon" height="13" src="../../../../_images/export.svg" width="12" /></a> <em>Export…：</em> 打开文件浏览器，将曲线作为 <em>JangaFX Curve</em> <em>(.jfxcurve)</em> 文件保存到所需位置。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/delete1.svg"><img alt="delete icon" height="12" src="../../../../_images/delete1.svg" width="12" /></a> <em>Delete：</em> 完全移除该曲线预设。此操作无法撤销！</p></li>
+</ul>
+<p>顶部的 <a class="reference internal" href="../../../../_images/search.svg"><img alt="search icon" height="12" src="../../../../_images/search.svg" width="12" /></a> 搜索功能允许根据名称搜索曲线预设。无论预设属于哪个文件夹，它都会始终搜索所有预设。</p>
+<p>窗口底部还有几个选项：</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="../../../../_images/add1.svg"><img alt="add icon" height="16" src="../../../../_images/add1.svg" width="16" /></a> 将当前调制曲线参数添加为曲线预设，并立即进入重命名模式，以便为新曲线预设命名。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/add_folder.svg"><img alt="add folder icon" height="16" src="../../../../_images/add_folder.svg" width="16" /></a> 在曲线预设窗口中添加新文件夹，并立即进入重命名模式，以便为新文件夹命名。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/import2.svg"><img alt="import icon" height="12" src="../../../../_images/import2.svg" width="12" /></a> 打开文件浏览器，你可以在其中选择 <em>JangaFX Curve (.jfxcurve)</em> 文件，并将其作为曲线预设添加到曲线预设窗口。</p></li>
+</ul>
+</section>
+<section id="curve-generator">
+<span id="curveexpressions-lg"></span><h2>Curve Generator<a class="headerlink" href="#curve-generator" title="Permalink to this heading">#</a></h2>
+<p>另一种创建调制曲线的方法，是使用 <em>Curve Generator</em>。</p>
+<p>要打开 <em>Curve Generator</em> <a class="reference internal" href="../../../../_images/right.svg"><img alt="right mouse button" height="18" src="../../../../_images/right.svg" width="18" /></a>，请在图表中单击并选择 <em>Curve Generator…</em>（位于上下文菜单中）。</p>
+<p>打开 <em>Curve Generator</em> 窗口后，曲线会由生成器控制；图表上的发光效果会提示这一状态。</p>
+<p>来看一下使用 <em>Generator</em> 选项卡控制曲线的选项：</p>
+<a class="reference internal image-reference" href="../../../../_images/modulationCurve_2.png"><img alt="override states" class="align-right" src="../../../../_images/modulationCurve_2.png" style="width: 450px;" /></a>
+<ul class="simple">
+<li><p><strong>Resolution：</strong> 指定用于构建曲线的点数量。更多点可以创建更细致的曲线；更少点则让曲线之后更容易编辑。</p></li>
+<li><p><strong>Seed：</strong> 使用 <em>Jitter (X/Y)</em> 参数时，不同数字会产生不同随机变化；使用 <em>Drop Chance</em> 参数。</p></li>
+</ul>
+<p>请注意，接下来的四个参数被分为两列，分别控制不同的波形！默认情况下，右侧列不会影响曲线，因为该波形的 <em>Gain</em> 参数设置为 0%！</p>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Waveform：</strong> 决定曲线形状的函数类型。</dt><dd><ul>
+<li><p>Sine：正弦波，平滑地上下振荡。</p></li>
+<li><p>Saw：沿取模曲线振荡，数值会在每个周期突然重置为同一个值。</p></li>
+<li><p>Pulse：在顶部值和底部值之间来回突然切换。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Frequency：</strong> 0% 到 100% 范围内的波形周期数量。</p></li>
+<li><p><strong>Phase：</strong> 函数的相位。可以用它水平移动波形。</p></li>
+<li><p><strong>Gain：</strong> 波形强度。100% 时，波形会使用整个图表在 0% 到 100% 之间振荡；0% 时，波形会从 50% 振荡到 50%，变成一条直线（这些值可以通过 <em>Offset parameter</em>偏移）。使用 <em>Gain</em> 参数就像在垂直轴上缩放波形。此参数也用于将两个不同波形混合在一起。</p></li>
+<li><p><strong>Jitter (X/Y)：</strong> 改变曲线点的位置。请注意，这与波形无关，并会影响所有曲线点。左侧滑块会在图表上随机水平移动曲线点，右侧滑块会随机垂直移动曲线点。百分比越高，曲线点离原始位置越远；100% 会在 0 到 100% 的范围内随机移动曲线点。此参数可为数学上平滑的波形形状添加一些有机变化。若要获得不同的位置随机化结果，可以使用不同的 <em>Seed</em> 参数。</p></li>
+<li><p><strong>Drop Chance：</strong> 曲线点从曲线中被移除的百分比概率。它有助于在曲线上更随机地分布细节，从而创建更自然的曲线。0% 表示不会删除任何曲线点，100% 表示所有曲线点都会被删除，基本等同于移除曲线。使用不同的 <em>Seed</em> 参数。</p></li>
+<li><p><strong>Offset：</strong> 偏移整条曲线的垂直位置。可用于垂直移动调制曲线。曲线点位置会被限制在 0% 到 100% 范围内。</p></li>
+<li><p><strong>Attenuation：</strong> 调制曲线的强度。可用于垂直缩放整条曲线。例如， <strong>-100% 会垂直翻转曲线。</strong></p></li>
+<li><p><em>Apply Immediately：</em> 如果勾选此复选框，在 <em>Curve Generator</em> 中所做的所有更改都会立即应用到调制曲线，因此可以在视口中看到结果。如果未勾选，你可以在图表中看到正在创建的曲线，但每次在 <em>Curve Generator</em> 中更改参数时，它的效果不会立即应用到项目；如果单击 <a class="reference internal" href="../../../../_images/icon_close.svg"><img alt="close icon" height="10" src="../../../../_images/icon_close.svg" width="10" /></a> （位于 <em>Curve Generator</em> 的右上角），则仍会保留打开 <em>Curve Generator</em> 窗口。</p></li>
+<li><p><em>Reset：</em> 将 <em>Curve Generator</em> 中的所有参数设置为默认值，创建一条基础正弦波曲线。</p></li>
+<li><p><em>Apply：</em> 将生成的曲线应用到项目中的调制曲线，并关闭 <em>Curve Generator</em> 窗口。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="450" height="560.3571428571429" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/curveGeneratorExpressions.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>来看一下使用 <em>Expression</em> 选项卡控制曲线的选项：</p>
+<blockquote>
+<div><p>Resolution（分辨率）参数以及 Apply Immediately（立即应用）、 <em>Reset</em>、 <em>Apply</em> 选项与 <em>Generator</em> 选项卡共享，这意味着它们具有相同功能，并且在任一选项卡上所做的更改都会反映到两个选项卡中。</p>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Expression：</strong> 可以在此文本框中输入数学表达式来创建曲线。利用 <code class="docutils literal notranslate"><span class="pre">x</span></code> 变量以及受支持的数学运算符、常量和函数；完整列表可在 <a class="reference internal" href="expressions.html#expressions"><span class="std std-ref">表达式</span></a> 页面查看。可以尝试 <code class="docutils literal notranslate"><span class="pre">1-x</span></code>, <code class="docutils literal notranslate"><span class="pre">sin(x*pi*2)*0.5+0.5</span></code>, <code class="docutils literal notranslate"><span class="pre">sin(x*pi*4)*(1-x)*0.5+0.5</span></code>, <code class="docutils literal notranslate"><span class="pre">pow(x,</span> <span class="pre">6)</span></code>, <code class="docutils literal notranslate"><span class="pre">1-pow(x,</span> <span class="pre">6)</span></code>, <code class="docutils literal notranslate"><span class="pre">x*((rand()+1)/2)</span></code>，或 <code class="docutils literal notranslate"><span class="pre">(sin(x*pi*2)+normal()*0.1)*0.5+0.5</span></code>。</p></li>
+<li><p><strong>Range X,Y：</strong> 表达式会生成无限延伸的数学曲线，而调制曲线需要截取其中一段来使用。这一段由这些范围参数指定，就像对表达式创建出的曲线进行放大或缩小。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="800" height="539.4045534150613" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/modulationCurveEndGraphic_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          
+          
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                版权所有 © 2026，JangaFX
+            </div>
+            使用 <a href="https://www.sphinx-doc.org/">Sphinx</a> 和 <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a> 的
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            本页内容
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">调制曲线</a><ul>
+<li><a class="reference internal" href="#curve-editing">曲线编辑</a></li>
+<li><a class="reference internal" href="#saving-and-loading-curves">保存和加载曲线</a></li>
+<li><a class="reference internal" href="#curve-presets">曲线预设</a></li>
+<li><a class="reference internal" href="#curve-generator">Curve Generator</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
+    <script src="../../../../_static/doctools.js"></script>
+    <script src="../../../../_static/sphinx_highlight.js"></script>
+    <script src="../../../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../../../_static/js/ga.js"></script>
+    <script src="../../../../_static/js/yall.min.js"></script>
+    <script src="../../../../_static/js/loadLibraries.js"></script>
+    <script src="../../../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

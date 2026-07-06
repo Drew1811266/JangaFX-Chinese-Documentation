@@ -1,0 +1,1182 @@
+{
+  "path": "embergen/pages/references/How-To Guides/color.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "1140694a8c6d",
+      "source": "Color - JangaFX Documentation",
+      "target": "颜色 - JangaFX 文档",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "58a62352cf65",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "aed1eec5c90e",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "d6eb34bb79a4",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "ae1d8368fa8e",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "2fb389e9bb17",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "4f6109815d24",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "30184e32e780",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "3e694cf24184",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "cb0349ccbd56",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "2566b019e562",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "46078dffbedc",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "bb393fbe6471",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "c1f755696756",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "90ea81856151",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "a961f7f2a1f2",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "78dd14785b0e",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "e6d1aeceb2f0",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "c49ed9858e77",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "b40b1b5df8f8",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "d7961cd9a89b",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "7f91da826de2",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "24f2d557a938",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "7dfe9a5a2554",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "f580e3d447ae",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "1638b87c57c6",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "1cba74ea0896",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "2aa0acffdc45",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "3e07f1a6f7ef",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "c25511b3f476",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "7037c6674ebc",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "79b70640312b",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "cd443889d1c9",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "fecb9ad35165",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "c2779ca6cacd",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "44643f4a2df5",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "65aac4559477",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "d9a440f6a03e",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "300053f29f53",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "0625bc829b4f",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "9a514f654db9",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "03f7188ef235",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "15b4c0fd8547",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "d0dea6bafb8b",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "520cba15296c",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "0fb2433e0c01",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "5afc743ce9da",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "93f83962f536",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "9277e7c5e168",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "d4fdad889901",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "3a111030e05a",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "1899b9ce1202",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "3b8e3059c5bf",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "f28d900149b9",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "8628a5a13456",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "4ff15b1032e3",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "c4b9e71ec26b",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "299a87ac5103",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "17a2270798fe",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "2fee10909ad2",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "daa162c96658",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "76e6e315e5c1",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "1c7a937238b8",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "b9e4853f12bb",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "551dac0f62fc",
+      "source": "Color is a category of nodes outputting color values.",
+      "target": "Color 是一类输出颜色值的节点。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "a2313ca6ec1f",
+      "source": " Color Nodes",
+      "target": " Color Nodes（颜色节点）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "7d12d32d5da5",
+      "source": " Color: Constant",
+      "target": " Color: Constant（常量颜色）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "655694d47423",
+      "source": "Outputs a single color value.",
+      "target": "输出单个颜色值。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "3f0d4465e01c",
+      "source": "You can ",
+      "target": "你可以 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "79475bcf74eb",
+      "source": " click on the colored square to open the Color Picker.",
+      "target": " 单击彩色方块以打开 Color Picker。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "9d210f43bd1d",
+      "source": "Color Picker",
+      "target": "Color Picker（颜色选择器）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "f78e76c44b6a",
+      "source": " Color picker. Hold ",
+      "target": " Color picker（取色器）。按住 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "60f41139bef3",
+      "source": " and drag to select a color anywhere on the screen. This will select colors even from outside the application!",
+      "target": " 并拖动，可从屏幕任意位置选择颜色。这样甚至可以选择应用程序外部的颜色。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "1e8393e3a2b4",
+      "source": " Resets the color to the default for that parameter.",
+      "target": " 将颜色重置为该参数的默认值。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "64e6b81e4f9b",
+      "source": " Closes the color picker. The color will remain at whatever is selected in the color picker. You can also click outside of the color picker to close it.",
+      "target": " 关闭颜色选择器。颜色会保持为颜色选择器中当前选中的颜色。你也可以点击颜色选择器外部来关闭它。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "d5c47f29b59f",
+      "source": "Hue ring. Visualizes all the hues. The selected hue is indicated with a circle ",
+      "target": "Hue ring（色相环）。显示所有色相。选中的色相会用圆圈 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "ea60204ebdd6",
+      "source": " You can ",
+      "target": " 你可以 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "dda03d4b4969",
+      "source": " click or click and drag anywhere on the circle to select a hue.",
+      "target": " 在圆环上的任意位置单击或点击拖动以选择色相。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "332a9bac3a4e",
+      "source": "Brightness and saturation triangle. The three corners represent white, black, and a fully saturated color. The selected value is indicated with a circle ",
+      "target": "Brightness and saturation triangle（亮度与饱和度三角）。三个角分别表示白色、黑色和完全饱和的颜色。选中的值会用圆圈 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "ba9202ab1bd6",
+      "source": " You can ",
+      "target": " 你可以 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "4cc792626b2d",
+      "source": " click or click and drag anywhere on the triangle to select a color.",
+      "target": " 在三角形上的任意位置单击或点击拖动以选择颜色。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "50d28f974f14",
+      "source": "Current Color",
+      "target": "Current Color（当前颜色）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "8a72be6f0a21",
+      "source": "HEX code. Here, you can type in a hexadecimal code to get a specific color by ",
+      "target": "HEX code（HEX 代码）。你可以在这里输入十六进制代码来获得指定颜色，方法是 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "803e36e5b0a5",
+      "source": " clicking in the text field.",
+      "target": " 点击文本字段。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "e46e06873747",
+      "source": "RGB Mode. This will set the sliders to represent the color in Red, Green, and Blue values. All mapped from 0 to 255.",
+      "target": "RGB Mode（RGB 模式）。这会让滑块以 Red（红）、Green（绿）、Blue（蓝）数值表示颜色，全部映射到 0 到 255。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "fa289d6cd5f2",
+      "source": "HSV Mode. This will set the sliders to represent the color in Hue, Saturation, and Value. ",
+      "target": "HSV Mode（HSV 模式）。这会让滑块以 Hue（色相）、Saturation（饱和度）、Value（明度）表示颜色。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "444e8d3623a9",
+      "source": "Hue",
+      "target": "Hue",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "6543832d349d",
+      "source": " is mapped circular from 0 to 360 degrees starting and ending with red, using this slider you can see the circle in the Hue ring turning. Saturation and Value are mapped from 0% to 100% ,saturation from grayscale to fully saturated and value from black to whatever is the brightest color based on the hue and saturation.",
+      "target": " 会从 0 到 360 度以环形方式映射，起点和终点都是红色；使用这个滑块时，可以看到色相环中的圆圈在转动。Saturation（饱和度）和 Value（明度）映射为 0% 到 100%；Saturation 从灰度映射到完全饱和，Value 从黑色映射到基于当前色相和饱和度的最亮颜色。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "506e07281b23",
+      "source": "Channel Values. These represent the numerical value of the slider next to it. ",
+      "target": "Channel Values（通道值）。这些值表示旁边滑块的数值。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "afb572a15898",
+      "source": " click within the text box to type in a value manually.",
+      "target": " 在文本框内单击即可手动输入数值。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "359eb04bb555",
+      "source": "Channel Sliders. These sliders can be used to change the color. The gradients on the sliders represent what the selected color would be if the indicator ",
+      "target": "Channel Sliders（通道滑块）。这些滑块可用于修改颜色。滑块上的渐变表示如果指示器 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "84c0c936c158",
+      "source": " was placed on that position. You can ",
+      "target": " 位于该位置时选中颜色会是什么样。你可以 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "61fcabd215a8",
+      "source": " click or click and drag anywhere on the slider to select a color.",
+      "target": " 在滑块上的任意位置单击或点击拖动以选择颜色。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "1ba50bd7159d",
+      "source": "Swatch Dropdown.",
+      "target": "Swatch Dropdown（色板下拉菜单）。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "3508773fc250",
+      "source": "Saved Colors",
+      "target": "Saved Colors（已保存颜色）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "2747916c9c7e",
+      "source": " Holds a palette of saved colors ",
+      "target": " 包含已保存颜色的色板 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "06b84e871e6c",
+      "source": " You can save the selected color using the ",
+      "target": " 可以使用 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "ad35813a4fdc",
+      "source": " icon ",
+      "target": " 图标 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "8e7fe8fb4546",
+      "source": ". You can remove a saved color by ",
+      "target": "，用于保存所选颜色。也可以通过 ",
+      "note": "stage 3B audit spacing fix"
+    },
+    {
+      "id": "2dec0c2d20d4",
+      "source": " clicking on one and selecting ",
+      "target": " 右键单击其中一个并选择 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "b9b78f75bcf7",
+      "source": "Remove",
+      "target": "Remove",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "1f28267335a2",
+      "source": "Recent Colors",
+      "target": "Recent Colors（最近颜色）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "2959889630f5",
+      "source": " Holds a palette of the last 9 colors used. When the color picker is closed, the selected color will be stored as the most recent color all the way to the right in the Recent Colors palette moving all the other colors one spot to the left and discarting the first one on the left.",
+      "target": " 包含最近使用的 9 种颜色。关闭颜色选择器时，所选颜色会存为 Recent Colors 色板最右侧的最新颜色，其他颜色会依次向左移动一位，最左侧的颜色会被丢弃。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "5c0a8fdf0344",
+      "source": " Color: Gradient",
+      "target": " Color: Gradient（颜色渐变）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "1a18548a7fc2",
+      "source": "Interpolation Color Space:",
+      "target": "Interpolation Color Space（插值颜色空间）：",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "487f802b65e7",
+      "source": " A dropdown menu with different methods of interpolating color from one point in the color gradient to another.",
+      "target": " 一个下拉菜单，包含在颜色渐变中从一个点到另一个点插值颜色的不同方法。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "f33f3c763d61",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "d023b60f8f5f",
+      "source": "Color Gradient:",
+      "target": "Color Gradient:",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "a86da4899049",
+      "source": " Creates a range of colors.",
+      "target": " 创建一段颜色范围。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "02cc45e52fed",
+      "source": "Add a point by ",
+      "target": "通过 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "d7506fa974a8",
+      "source": " clicking on the gradient.",
+      "target": " 点击渐变来添加点。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "7f956154544b",
+      "source": "Move a point holding ",
+      "target": "按住 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "6bedf7874e8b",
+      "source": " and dragging.",
+      "target": " 并拖动可移动点。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "07d6554d4e59",
+      "source": "Remove a point by selecting it with ",
+      "target": "若要移除点，请使用 ",
+      "note": "stage 3B audit wording fix"
+    },
+    {
+      "id": "73d939b8db50",
+      "source": " and pressing ",
+      "target": " 选中该点并按 ",
+      "note": "stage 3B audit wording fix"
+    },
+    {
+      "id": "d67913920b79",
+      "source": "Delete",
+      "target": "Delete",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "22ab4e6e9666",
+      "source": "Edit the color of a point by double-clicking ",
+      "target": "若要编辑点的颜色，可以用 ",
+      "note": "stage 3B audit wording fix"
+    },
+    {
+      "id": "14ff51c7ec09",
+      "source": " on it.",
+      "target": " 双击该点。",
+      "note": "stage 3B audit wording fix"
+    },
+    {
+      "id": "0fb698211cf7",
+      "source": "Use the ",
+      "target": "可以使用 ",
+      "note": "stage 3B audit wording fix"
+    },
+    {
+      "id": "7406cfe4dbe4",
+      "source": " color picker to ",
+      "target": " Color Picker，并用 ",
+      "note": "stage 3B audit wording fix"
+    },
+    {
+      "id": "d82bdfedfb40",
+      "source": " click and drag over any application to source its colors for creating a gradient.",
+      "target": " 在任意应用程序上点击并拖动，以从中取色来创建渐变。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "b0a5bd7b0c41",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "5aad84f29d6b",
+      "source": "Color Gradient Presets",
+      "target": "Color Gradient Presets（颜色渐变预设）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "08c02f8c6c1d",
+      "source": " Save the current gradient as a preset which will appear as a selectable icon to the left.",
+      "target": " 将当前渐变保存为预设，该预设会作为可选图标显示在左侧。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "955bb201358a",
+      "source": "To remove a preset from the list you can ",
+      "target": "若要从列表中移除某个预设，可以 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "a9d5fc5f32c8",
+      "source": " click on one and select ",
+      "target": " 右键单击其中一个并选择 ",
+      "note": "stage 3B short-fragment fix"
+    },
+    {
+      "id": "d31c5f1178c0",
+      "source": "Delete",
+      "target": "Delete",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "248576f878b2",
+      "source": " from the context menu.",
+      "target": "（位于上下文菜单）。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "9b4b2842cd64",
+      "source": "Load",
+      "target": "Load",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "0b8e91a9848b",
+      "source": " This will open a file browser where you can look for a ",
+      "target": " 这会打开文件浏览器，你可以查找 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "daf524eca094",
+      "source": ".embercg",
+      "target": ".embercg",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "40e62a6acfc1",
+      "source": " file to load in as your gradient.",
+      "target": " 文件并将其作为渐变加载。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "0568eae692b0",
+      "source": "Export",
+      "target": "Export",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "75e2bb99a23f",
+      "source": "embercg:",
+      "target": "embercg:",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "8162c90a80e2",
+      "source": " Opens a file browser to store the current gradient as a ",
+      "target": " 打开文件浏览器，将当前渐变保存为 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "28f73aaf15ad",
+      "source": ".embercg",
+      "target": ".embercg",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "d50db6eb0df0",
+      "source": " file in a desired location. ",
+      "target": " 文件到指定位置。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "dd3dafca087b",
+      "source": "Note that the Interpolation Color Space is also saved in the preset",
+      "target": "请注意，Interpolation Color Space（插值颜色空间）也会保存在预设中",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "181d0b66798c",
+      "source": "PNG:",
+      "target": "PNG:",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "540d3a6d066d",
+      "source": " Opens a file browser to store the current gradient as a ",
+      "target": " 打开文件浏览器，将当前渐变保存为 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "da9e439ba3c3",
+      "source": ".png",
+      "target": ".png",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "6c6c6bd24296",
+      "source": " file in a desired location. This file format can be loaded into most software and used as, for example, a color input for another volume shader. The image resolution is 512 by 12 pixels meaning 512 different colors could be stored.",
+      "target": " 文件到指定位置。此文件格式可加载到大多数软件中，例如作为另一个体积着色器的颜色输入。图像分辨率为 512 x 12 像素，意味着可以存储 512 种不同颜色。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "30242395c0bf",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "636d3613e626",
+      "source": " Color Selector",
+      "target": " Color Selector（颜色选择器节点）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "ff5d28927fda",
+      "source": "Outputs a single color from a ",
+      "target": "基于渐变上的指定位置，从 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "fc34ff1ec5c7",
+      "source": "Color Gradient",
+      "target": "Color Gradient",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "57526aef80f8",
+      "source": " node based on a specified position on the gradient.",
+      "target": " 节点输出单个颜色。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "ba01fb4d3bc4",
+      "source": "Connecting Color Nodes",
+      "target": "连接颜色节点",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "baf0a3304033",
+      "source": "Color nodes can be connected to color parameters.",
+      "target": "颜色节点可以连接到颜色参数。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "c23eeb8587ac",
+      "source": "The color of this parameter will then be controlled in the color node.",
+      "target": "该参数的颜色随后会由颜色节点控制。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "9b1c7739fa1d",
+      "source": "A color parameter is recognized by the colored square next to it.",
+      "target": "颜色参数可以通过其旁边的彩色方块来识别。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "1b19a461c624",
+      "source": "The following are some examples of parameters that can be controlled by color nodes:",
+      "target": "以下是一些可由颜色节点控制的参数示例：",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "cfa67e656033",
+      "source": "To expose a color parameter pin for connecting a color node",
+      "target": "若要公开用于连接颜色节点的颜色参数引脚，",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "5f7f25e550ff",
+      "source": "you have to set the override state to ",
+      "target": "需要将覆盖状态设置为 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "af0fb6f43da3",
+      "source": "Pin Override",
+      "target": "Pin Override",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "b9c396a91d1b",
+      "source": " by ",
+      "target": "，通过 ",
+      "note": "stage 3B short-fragment fix"
+    },
+    {
+      "id": "67764968a174",
+      "source": " clicking the icon next to the parameter.",
+      "target": " 点击参数旁边的图标。",
+      "note": "stage 3B audit fix"
+    },
+    {
+      "id": "01db212138c8",
+      "source": "The ",
+      "target": "其中 ",
+      "note": "stage 3B context translation"
+    },
+    {
+      "id": "dbad045622e3",
+      "source": "Smoke color",
+      "target": "Smoke color",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "3a0665579f55",
+      "source": " and the ",
+      "target": " 和 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "351057cd9e16",
+      "source": "Fire color",
+      "target": "Fire color",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "185dcd4d3b97",
+      "source": " are different.",
+      "target": " 不同。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "32c4dc1c41cd",
+      "source": "Exposing the color parameter pin for these parameters works differently since it’s done by setting the dropdown menu above to ",
+      "target": "这些参数公开颜色参数引脚的方式不同，因为需要将上方的下拉菜单设置为 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "1698d0fc9115",
+      "source": "Exposed Color Gradient",
+      "target": "Exposed Color Gradient",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "e5bfe4f63ddf",
+      "source": "These parameters should be connected to a ",
+      "target": "这些参数应连接到 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "556ac2478e1c",
+      "source": "Color Gradient",
+      "target": "Color Gradient",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "9e6a193f48fa",
+      "source": " node.",
+      "target": " 节点。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "f0fe7a6c1739",
+      "source": "The right side of the gradient represents the highest values for the smoke or fire and the left side the lowest values.",
+      "target": "渐变右侧表示烟或火的最高值，左侧表示最低值。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "f46e948375a5",
+      "source": "You can adjust the range in which the values are mapped to the gradient using the ",
+      "target": "可以使用着色节点中的 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "6682ef6f344f",
+      "source": "Coloring remap range",
+      "target": "Coloring remap range",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "f34e28a3101c",
+      "source": " parameter in the shading node.\nThe histogram above it shows in what range the voxel densities live. To get a good mapping you usually start by fitting the range (black area) around the white bars by adjusting the max value.",
+      "target": " 参数调整数值映射到渐变的范围。\n其上方的直方图显示体素密度所在的范围。为了得到良好的映射，通常先调整最大值，让范围（黑色区域）包住白色条形。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "730ad4594e1e",
+      "source": "You can change the interpolation of the range with a gamma operation using the ",
+      "target": "可以使用 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "81972b561f6e",
+      "source": "Coloring remap ramp",
+      "target": "Coloring remap ramp",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "c443dee68644",
+      "source": " parameter. Lower values will push the color more towards the right side of the inputted color gradient, and higher values will push the color more towards the left side of the color gradient.",
+      "target": " 参数，通过 gamma 运算改变该范围的插值方式。较低的值会把颜色推向输入颜色渐变的右侧，较高的值会把颜色推向渐变的左侧。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "496e3344d327",
+      "source": "A color parameter can also have two squares next to it as with the ",
+      "target": "颜色参数旁边也可能有两个方块，例如 ",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "1bfdbd61ff4f",
+      "source": "Color: Constant",
+      "target": "Color: Constant",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "4470a5ad84af",
+      "source": " node. This means that the parameter also supports an alpha channel.",
+      "target": " 节点就是如此。这表示该参数也支持 Alpha 通道。",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "272c2ae5bfc9",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "4439586cb6c9",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "5d514bdf3a44",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "3c58dc9c6941",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "ed70b0676790",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "4451df9c95fe",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "af07f2c61724",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "0d08b716c247",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "13e9807c036e",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "204ea12a10a2",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "d8e380416e01",
+      "source": "Furo",
+      "target": "Furo",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "682d768bc340",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "cf17449f6232",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "cd40fba861ba",
+      "source": " Color Nodes",
+      "target": " Color Nodes（颜色节点）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "fc84ed30c226",
+      "source": " Color: Constant",
+      "target": " Color: Constant（常量颜色）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "95715ff80f00",
+      "source": "Color Picker",
+      "target": "Color Picker（颜色选择器）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "3edba362448e",
+      "source": " Color: Gradient",
+      "target": " Color: Gradient（颜色渐变）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "010f29f58733",
+      "source": " Color Selector",
+      "target": " Color Selector（颜色选择器节点）",
+      "note": "stage 3B translation"
+    },
+    {
+      "id": "3e4ca94a5fe7",
+      "source": "Connecting Color Nodes",
+      "target": "连接颜色节点",
+      "note": "stage 3B translation"
+    }
+  ]
+}

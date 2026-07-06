@@ -1,0 +1,594 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "bdf8ff4740ff",
+      "source": "Camera Import - JangaFX Documentation",
+      "target": "摄像机导入 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "f2c67624263b",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "f233abddc2c8",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "158d97dd48b8",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "62125c70e7a9",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "0ea93afc3438",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "74f440c3c6db",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "4b95fdcb7d31",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "3ca0c0a4019b",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "e04937b05dd9",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "8549e6d74322",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "ac590fdf8857",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "ac04b71c423a",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "266b38818b0b",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "e66f6efb1054",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "73392c168be0",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "a84e35fdb5f8",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "ead5a2dd64c1",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "580bbc31282d",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "bc53c772c6f2",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "a1a775a71074",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "2752ce125bb6",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "8c897f7e8dd9",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "b9079477d4f8",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "58666b333dc8",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "b8bf4bd43dfd",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "034df738ca8a",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "ee9eec0c8e76",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "01836168fc0d",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "1710b2fe1f41",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "b528fee280f5",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "45df910f6acf",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "4cb52555d984",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "7786411de1a8",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "5d72602b93d0",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "15859bba35b8",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "988945a53e14",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "402c81035bcd",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "20b74d0fe49b",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "72fbf5aef131",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "80e6a1352c83",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "0d96599a27e0",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "21b714024c90",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "9bcf46ff4393",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "896ea434706b",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "b2deb88c5afa",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "7f24a3e0ce9b",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "fc1875e49b19",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "e06ab537ab44",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "1bb738b35c71",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "4652109126c8",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "d061a0986a97",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "8c1411d9445c",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "289d4c2bfe4d",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "8330db32bd1d",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "c42db5bf590d",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "834039d49adc",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "bf4645ca6d90",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "6b24ac31b947",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "a0e7198c2813",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "e52410c6732a",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "bcc9b635b908",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "ae102998c5d2",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "f60592fd1611",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "d87b9126866e",
+      "source": "Cameras from external 3D packages can be imported using the import node.",
+      "target": "可以使用 Import 节点从外部 3D 软件包导入摄像机。",
+      "note": ""
+    },
+    {
+      "id": "5d4f05b7928a",
+      "source": "We recommend using the FBX file format for importing cameras, but it can also be done using ABC files.",
+      "target": "建议使用 FBX 文件格式导入摄像机，不过也可以使用 ABC 文件完成导入。",
+      "note": ""
+    },
+    {
+      "id": "a9730ca0a1f3",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "137e59727829",
+      "source": "Make sure you include cameras when exporting your file.",
+      "target": "导出文件时请确保包含摄像机。",
+      "note": ""
+    },
+    {
+      "id": "a09a3e473b5b",
+      "source": "In LiquiGen, import your FBX using the ",
+      "target": "在 LiquiGen 中，使用 ",
+      "note": ""
+    },
+    {
+      "id": "73de485b2e0e",
+      "source": "Import",
+      "target": "Import",
+      "note": ""
+    },
+    {
+      "id": "4a9b3fc20026",
+      "source": " node. If it contains any cameras they will be exposed as an output pin on the ",
+      "target": " 节点导入 FBX。如果文件包含任何摄像机，它们会作为输出引脚显示在 ",
+      "note": ""
+    },
+    {
+      "id": "37c524622235",
+      "source": "Import",
+      "target": "Import",
+      "note": ""
+    },
+    {
+      "id": "f116ea9e3c50",
+      "source": " node.",
+      "target": " 节点上。",
+      "note": ""
+    },
+    {
+      "id": "f33f8b325fe8",
+      "source": "Link the camera pin on the right side of the ",
+      "target": "将 ",
+      "note": ""
+    },
+    {
+      "id": "8ef4acfbc205",
+      "source": "Import",
+      "target": "Import",
+      "note": ""
+    },
+    {
+      "id": "ae8adcbb7c88",
+      "source": " node to the ",
+      "target": " 节点上。",
+      "note": ""
+    },
+    {
+      "id": "57fe3381eabd",
+      "source": "Control",
+      "target": "Control",
+      "note": ""
+    },
+    {
+      "id": "1b3ace723e0a",
+      "source": " pin of a ",
+      "target": " 引脚，该引脚位于 ",
+      "note": ""
+    },
+    {
+      "id": "5013a2db74a1",
+      "source": "Camera",
+      "target": "Camera",
+      "note": ""
+    },
+    {
+      "id": "3367c15a5154",
+      "source": " node.",
+      "target": " 节点上。",
+      "note": ""
+    },
+    {
+      "id": "90605f6a47be",
+      "source": "This will add some parameters on the connected ",
+      "target": "这会在已连接的 ",
+      "note": ""
+    },
+    {
+      "id": "8cb5524abb2e",
+      "source": "Camera",
+      "target": "Camera",
+      "note": ""
+    },
+    {
+      "id": "3c7c686e9abb",
+      "source": " node.",
+      "target": " 节点上添加一些参数。",
+      "note": ""
+    },
+    {
+      "id": "dbeaa3886bf9",
+      "source": "Yaw, Pitch, Roll offset angle:",
+      "target": "Yaw、Pitch、Roll 偏移角度：",
+      "note": ""
+    },
+    {
+      "id": "c12e15654505",
+      "source": " This will offset the orientation of the camera. This offset will be added to be orientation changes coming from the import node. This can be useful when the imported camera has the wrong orientation for some reason. (this can happen with abc files)",
+      "target": " 这会偏移摄像机的朝向。该偏移会叠加到 Import 节点带来的朝向变化上。当导入的摄像机由于某些原因朝向不正确时，这会很有用。（ABC 文件有时会出现这种情况）",
+      "note": ""
+    },
+    {
+      "id": "409123caf933",
+      "source": "Custom clipping planes:",
+      "target": "自定义裁剪平面：",
+      "note": ""
+    },
+    {
+      "id": "c53f84dd19cf",
+      "source": " When checked on, the clipping planes are set by the parameters below. When checked off, the clipping planes are based on the imported file. The clipping planes dictate the range of distances from the camera to be rendered. If something is outside of the clipping planes, it won’t be rendered.",
+      "target": " 启用后，裁剪平面由下面的参数设置。关闭后，裁剪平面基于导入文件。裁剪平面决定从摄像机开始会被渲染的距离范围；如果对象位于裁剪平面之外，就不会被渲染。",
+      "note": ""
+    },
+    {
+      "id": "d63738bfda13",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "7b5edb08b40b",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "9d7e495a0d98",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "cb847f8ff6bd",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "3a1d30ca264a",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "0c028faa326d",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "3235302c20aa",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "ac1390c11b62",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "70b619e761b0",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "9214b27c7d96",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "182dde058950",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    }
+  ]
+}

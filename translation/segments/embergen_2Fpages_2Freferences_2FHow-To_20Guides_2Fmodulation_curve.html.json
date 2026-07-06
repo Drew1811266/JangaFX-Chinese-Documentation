@@ -1,0 +1,2606 @@
+{
+  "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+  "segment_count": 260,
+  "segments": [
+    {
+      "id": "515f833dfad6",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 716,
+      "end": 756,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Modulation Curve - JangaFX Documentation",
+      "source_text": "Modulation Curve - JangaFX Documentation"
+    },
+    {
+      "id": "87c7e916eefd",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 5346,
+      "end": 5369,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "0d9d52bf290d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 5464,
+      "end": 5494,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "f33c5c9d19e0",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 5690,
+      "end": 5720,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "66fa8181cc09",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 5911,
+      "end": 5932,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "cc960623a430",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 6125,
+      "end": 6163,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "8e54b7d87103",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 6546,
+      "end": 6578,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "65dbbd8abc0d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 7622,
+      "end": 7644,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "6fd4c7f428e7",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 7833,
+      "end": 7865,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "5fe96503c488",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8053,
+      "end": 8068,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "a94bfa2dc852",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8173,
+      "end": 8183,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "75c014e5a60d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8372,
+      "end": 8404,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "a9922b5a35d6",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8586,
+      "end": 8600,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "f51520fff1da",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8687,
+      "end": 8695,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "50b9ea5ffafc",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8783,
+      "end": 8792,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "64924d137d25",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 8894,
+      "end": 8907,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "b11686c757a6",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9096,
+      "end": 9128,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "398122ff2236",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9308,
+      "end": 9321,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "0674e372ef78",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9418,
+      "end": 9437,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "cf4f67e43343",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9518,
+      "end": 9523,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "0d31317a35b1",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9606,
+      "end": 9613,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "7f7c595fbf1b",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9693,
+      "end": 9697,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "5105df5e527e",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9789,
+      "end": 9809,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "b9ea1f4c2bfb",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9894,
+      "end": 9903,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "8f263b742602",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 9990,
+      "end": 10002,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "920a7932b49a",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10087,
+      "end": 10105,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "c04720aa40c1",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10206,
+      "end": 10222,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "31c8bbea7232",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10319,
+      "end": 10340,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "9ab249e5104b",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10424,
+      "end": 10432,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "0108a2767fb1",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10517,
+      "end": 10527,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "a849917f92f1",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10616,
+      "end": 10629,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "277e3a3c1fd0",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10738,
+      "end": 10741,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "1d0240170711",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 10868,
+      "end": 10890,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "66149169a505",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11068,
+      "end": 11100,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "d6b3d92dbc08",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11293,
+      "end": 11308,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "7dee82204557",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11440,
+      "end": 11450,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "36a7c0b55b1f",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11628,
+      "end": 11660,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "c2de01d8068e",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11861,
+      "end": 11875,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "ac7fd34e89e7",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 11997,
+      "end": 12005,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "5c06642f22fe",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 12128,
+      "end": 12137,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "780780668776",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 12285,
+      "end": 12298,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "3dd29bc6aaaf",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 12476,
+      "end": 12508,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "32149c1372bf",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 12724,
+      "end": 12735,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "47e440eeeca2",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 12886,
+      "end": 12905,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "0e3ead6a7834",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13040,
+      "end": 13045,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "9f67988a4cf5",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13182,
+      "end": 13189,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "604f6cbc02e9",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13323,
+      "end": 13327,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "49784018e37a",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13473,
+      "end": 13493,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "8e186a38096d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13636,
+      "end": 13649,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "1cae82680acf",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13790,
+      "end": 13802,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "653eeb2a39c5",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 13941,
+      "end": 13959,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "8fa8c51e431d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14105,
+      "end": 14121,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "d86c08e9ecdf",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14272,
+      "end": 14293,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "444b224f5202",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14431,
+      "end": 14439,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "ec77f6f7eeac",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14582,
+      "end": 14595,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "94a095164673",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14736,
+      "end": 14747,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "bf245aae3155",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14877,
+      "end": 14880,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "08125a515d40",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 14993,
+      "end": 15014,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "df722ea7eb94",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 15114,
+      "end": 15134,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "63d88c195090",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 15237,
+      "end": 15259,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "d3875ceffad1",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 15672,
+      "end": 15683,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "748390a46496",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 15903,
+      "end": 15941,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "b83ca654305b",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 16353,
+      "end": 16385,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "a32a4fe9ec74",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 16607,
+      "end": 16623,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "a7a482b5ee7f",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 16718,
+      "end": 16777,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Modulation curves are used to map values based on two axis.",
+      "source_text": "Modulation curves are used to map values based on two axis."
+    },
+    {
+      "id": "dd98f2a6b4e4",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 16815,
+      "end": 16828,
+      "line": 259,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Curve Editing",
+      "source_text": "Curve Editing"
+    },
+    {
+      "id": "32074956f301",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 17263,
+      "end": 17337,
+      "line": 267,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "040f169e2b90",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 17388,
+      "end": 17431,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "For more precise editing you can click the ",
+      "source_text": "For more precise editing you can click the "
+    },
+    {
+      "id": "76dea1d30bf9",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 17602,
+      "end": 17643,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon next to the curve to open a bigger ",
+      "source_text": " icon next to the curve to open a bigger "
+    },
+    {
+      "id": "48ce47c672e6",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 17647,
+      "end": 17662,
+      "line": 272,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Remapping curve",
+      "source_text": "Remapping curve"
+    },
+    {
+      "id": "bec5b38a31cf",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 17667,
+      "end": 17705,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " window. This window can be scaled by ",
+      "source_text": " window. This window can be scaled by "
+    },
+    {
+      "id": "8ed06e1d2c3b",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 17864,
+      "end": 17944,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking and dragging the corners and the window can be closed by clicking the ",
+      "source_text": " clicking and dragging the corners and the window can be closed by clicking the "
+    },
+    {
+      "id": "e1c4b3b7b9f7",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 18108,
+      "end": 18145,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon in the top right corner or the ",
+      "source_text": " icon in the top right corner or the "
+    },
+    {
+      "id": "29fe65ecb42d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 18331,
+      "end": 18379,
+      "line": 272,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon next to the curve in the properties panel.",
+      "source_text": " icon next to the curve in the properties panel."
+    },
+    {
+      "id": "52586151d528",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 18396,
+      "end": 18403,
+      "line": 273,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Double ",
+      "source_text": "Double "
+    },
+    {
+      "id": "13c22ab6729c",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 18562,
+      "end": 18621,
+      "line": 273,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " click anywhere on the graph to insert another curve point.",
+      "source_text": " click anywhere on the graph to insert another curve point."
+    },
+    {
+      "id": "7146297de7d3",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 18797,
+      "end": 18841,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " click and drag on a curve point to move it.",
+      "source_text": " click and drag on a curve point to move it."
+    },
+    {
+      "id": "838ddfd28939",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 18858,
+      "end": 18882,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Select a curve point by ",
+      "source_text": "Select a curve point by "
+    },
+    {
+      "id": "ab06b677e568",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19041,
+      "end": 19057,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking on it.",
+      "source_text": " clicking on it."
+    },
+    {
+      "id": "65320f92cd82",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19074,
+      "end": 19101,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Box-select curve points by ",
+      "source_text": "Box-select curve points by "
+    },
+    {
+      "id": "0673dd4ddc60",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19260,
+      "end": 19283,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking and dragging.",
+      "source_text": " clicking and dragging."
+    },
+    {
+      "id": "f8f18df94539",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19300,
+      "end": 19357,
+      "line": 277,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Add or subtract from your curve point selection by using ",
+      "source_text": "Add or subtract from your curve point selection by using "
+    },
+    {
+      "id": "f062a30b69a5",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19363,
+      "end": 19367,
+      "line": 277,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl",
+      "source_text": "Ctrl"
+    },
+    {
+      "id": "84397f751904",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19536,
+      "end": 19546,
+      "line": 277,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking.",
+      "source_text": " clicking."
+    },
+    {
+      "id": "1b02ac04b4ed",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19563,
+      "end": 19599,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Select all curve points by pressing ",
+      "source_text": "Select all curve points by pressing "
+    },
+    {
+      "id": "c184b4ce9ff7",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19605,
+      "end": 19613,
+      "line": 278,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + A",
+      "source_text": "Ctrl + A"
+    },
+    {
+      "id": "c46b9e67768f",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19637,
+      "end": 19679,
+      "line": 279,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Delete selected curve points by using the ",
+      "source_text": "Delete selected curve points by using the "
+    },
+    {
+      "id": "c98e13c7c263",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19685,
+      "end": 19691,
+      "line": 279,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "756f36d2f15d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19698,
+      "end": 19756,
+      "line": 279,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " key. Or use the right-click menu of the point and select ",
+      "source_text": " key. Or use the right-click menu of the point and select "
+    },
+    {
+      "id": "2cd7be57bd58",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19760,
+      "end": 19766,
+      "line": 279,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "cbcbf5901232",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19789,
+      "end": 19797,
+      "line": 280,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Use the ",
+      "source_text": "Use the "
+    },
+    {
+      "id": "c1eb5566e823",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 19976,
+      "end": 20031,
+      "line": 280,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button or the right-click menu on the graph to select ",
+      "source_text": " button or the right-click menu on the graph to select "
+    },
+    {
+      "id": "ba1d2f73a45f",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20035,
+      "end": 20052,
+      "line": 280,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Flip Horizontally",
+      "source_text": "Flip Horizontally"
+    },
+    {
+      "id": "b624f451885a",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20057,
+      "end": 20113,
+      "line": 280,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to flip all the curve points horizontally in the graph.",
+      "source_text": " to flip all the curve points horizontally in the graph."
+    },
+    {
+      "id": "781564412534",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20130,
+      "end": 20138,
+      "line": 281,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Use the ",
+      "source_text": "Use the "
+    },
+    {
+      "id": "8dcbbef792b6",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20311,
+      "end": 20366,
+      "line": 281,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button or the right-click menu on the graph to select ",
+      "source_text": " button or the right-click menu on the graph to select "
+    },
+    {
+      "id": "537468a6a9a6",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20370,
+      "end": 20385,
+      "line": 281,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Flip Vertically",
+      "source_text": "Flip Vertically"
+    },
+    {
+      "id": "011a4be5bca9",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20390,
+      "end": 20444,
+      "line": 281,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to flip all the curve points vertically in the graph.",
+      "source_text": " to flip all the curve points vertically in the graph."
+    },
+    {
+      "id": "8f60ef238b97",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20812,
+      "end": 20886,
+      "line": 290,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "0fbc178652a3",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20913,
+      "end": 20917,
+      "line": 294,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "c7679f628ded",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20921,
+      "end": 20939,
+      "line": 294,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Interpolation Mode",
+      "source_text": "Interpolation Mode"
+    },
+    {
+      "id": "e239e0f36e7a",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 20944,
+      "end": 21024,
+      "line": 294,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " defines the method of interpolating the values from one curve point to another.",
+      "source_text": " defines the method of interpolating the values from one curve point to another."
+    },
+    {
+      "id": "0176d64103ba",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21032,
+      "end": 21114,
+      "line": 295,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "You can change the Interpolation Mode of the curve points in the right-click menu.",
+      "source_text": "You can change the Interpolation Mode of the curve points in the right-click menu."
+    },
+    {
+      "id": "2dd56fc1051c",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21166,
+      "end": 21244,
+      "line": 297,
+      "parent_path": "section/section/div/div/em",
+      "source_raw": "Note that you can mix different interpolation modes on different curve points.",
+      "source_text": "Note that you can mix different interpolation modes on different curve points."
+    },
+    {
+      "id": "a8414bcf999c",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21278,
+      "end": 21409,
+      "line": 298,
+      "parent_path": "section/section/div/div/em",
+      "source_raw": "The interpolation mode of the first (or left) curve point will be used between two curve points with different interpolation modes.",
+      "source_text": "The interpolation mode of the first (or left) curve point will be used between two curve points with different interpolation modes."
+    },
+    {
+      "id": "0a930307a0fc",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21452,
+      "end": 21476,
+      "line": 301,
+      "parent_path": "article/section/section/dl/dt",
+      "source_raw": "There are a few options:",
+      "source_text": "There are a few options:"
+    },
+    {
+      "id": "305c99f31b65",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21520,
+      "end": 21526,
+      "line": 302,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Bézier",
+      "source_text": "Bézier"
+    },
+    {
+      "id": "b4ebb127306c",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21535,
+      "end": 21718,
+      "line": 302,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " will interpolate the values based on the bézier handles. When using this mode you can see the bézier handles when selecting a single curve point. You can change the interpolation by ",
+      "source_text": " will interpolate the values based on the bézier handles. When using this mode you can see the bézier handles when selecting a single curve point. You can change the interpolation by "
+    },
+    {
+      "id": "9f4493443469",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21724,
+      "end": 21727,
+      "line": 302,
+      "parent_path": "dd/ul/li/p/cite",
+      "source_raw": "LMB",
+      "source_text": "LMB"
+    },
+    {
+      "id": "4e16f73c7481",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21734,
+      "end": 21909,
+      "line": 302,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " and dragging the dots at the end of the bézier handles. A flat part of the curve means the values change slowly and a steep part of the curve means the values change quickly.",
+      "source_text": " and dragging the dots at the end of the bézier handles. A flat part of the curve means the values change slowly and a steep part of the curve means the values change quickly."
+    },
+    {
+      "id": "d36e348d28a4",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21934,
+      "end": 21940,
+      "line": 303,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Smooth",
+      "source_text": "Smooth"
+    },
+    {
+      "id": "95206bf7ff60",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 21949,
+      "end": 22047,
+      "line": 303,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " will generate a smooth line from one curve point to another. This avoids having hard transitions.",
+      "source_text": " will generate a smooth line from one curve point to another. This avoids having hard transitions."
+    },
+    {
+      "id": "9f5e87ddb923",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22072,
+      "end": 22078,
+      "line": 304,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Linear",
+      "source_text": "Linear"
+    },
+    {
+      "id": "de79e5bcb6f1",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22087,
+      "end": 22241,
+      "line": 304,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Values move linearly from one curve point to another. This is useful for getting very predictable results, but can result in robotic looking transitions.",
+      "source_text": " Values move linearly from one curve point to another. This is useful for getting very predictable results, but can result in robotic looking transitions."
+    },
+    {
+      "id": "b6f8167e968f",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22266,
+      "end": 22274,
+      "line": 305,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Constant",
+      "source_text": "Constant"
+    },
+    {
+      "id": "bd71f75c83c0",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22283,
+      "end": 22375,
+      "line": 305,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " Values stay constant until the next curve point is reached. This results in jumping values.",
+      "source_text": " Values stay constant until the next curve point is reached. This results in jumping values."
+    },
+    {
+      "id": "3dff6d1ecf05",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22753,
+      "end": 22827,
+      "line": 316,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "f87785129516",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22860,
+      "end": 22875,
+      "line": 321,
+      "parent_path": "article/section/section/dl/dt",
+      "source_raw": "When using the ",
+      "source_text": "When using the "
+    },
+    {
+      "id": "d195224d81e3",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22879,
+      "end": 22885,
+      "line": 321,
+      "parent_path": "section/section/dl/dt/em",
+      "source_raw": "Bézier",
+      "source_text": "Bézier"
+    },
+    {
+      "id": "9cf9e266b4ac",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 22890,
+      "end": 22973,
+      "line": 321,
+      "parent_path": "article/section/section/dl/dt",
+      "source_raw": " mode, there are a few handle types you can use also found in the right-click menu.",
+      "source_text": " mode, there are a few handle types you can use also found in the right-click menu."
+    },
+    {
+      "id": "1f784118b609",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23002,
+      "end": 23009,
+      "line": 322,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Aligned",
+      "source_text": "Aligned"
+    },
+    {
+      "id": "88e53fa7f4c3",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23018,
+      "end": 23193,
+      "line": 322,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " The handles can be moved freely and can have any direction and length. For this type, one handle is always in the inverted direction and has the same length as the other one.",
+      "source_text": " The handles can be moved freely and can have any direction and length. For this type, one handle is always in the inverted direction and has the same length as the other one."
+    },
+    {
+      "id": "9c19a2f69e43",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23218,
+      "end": 23222,
+      "line": 323,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Free",
+      "source_text": "Free"
+    },
+    {
+      "id": "6f8fd7ca42d2",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23231,
+      "end": 23293,
+      "line": 323,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " The handles can be moved in any way separate from each other.",
+      "source_text": " The handles can be moved in any way separate from each other."
+    },
+    {
+      "id": "b693f8177df1",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23318,
+      "end": 23330,
+      "line": 324,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Auto Clamped",
+      "source_text": "Auto Clamped"
+    },
+    {
+      "id": "a10dcc1cc373",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23339,
+      "end": 23519,
+      "line": 324,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " This is the default behavior. For this type, the handles can never go beyond the previous or next curve point. Note that when changing the handles the type will be set to Aligned.",
+      "source_text": " This is the default behavior. For this type, the handles can never go beyond the previous or next curve point. Note that when changing the handles the type will be set to Aligned."
+    },
+    {
+      "id": "1866c89a6554",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23544,
+      "end": 23557,
+      "line": 325,
+      "parent_path": "dd/ul/li/p/strong",
+      "source_raw": "Auto Vectored",
+      "source_text": "Auto Vectored"
+    },
+    {
+      "id": "af763e66cdf8",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23566,
+      "end": 23748,
+      "line": 325,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " This will point the left handle towards the previous curve point and the right handle towards the next curve point. Note that when changing the handles the type will be set to Free.",
+      "source_text": " This will point the left handle towards the previous curve point and the right handle towards the next curve point. Note that when changing the handles the type will be set to Free."
+    },
+    {
+      "id": "c98d16a39abc",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23774,
+      "end": 23870,
+      "line": 327,
+      "parent_path": "ul/li/blockquote/div/p",
+      "source_raw": "You can always reset the bezier handles to default for the selected curve points by clicking on ",
+      "source_text": "You can always reset the bezier handles to default for the selected curve points by clicking on "
+    },
+    {
+      "id": "939e3d6fbb81",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23874,
+      "end": 23886,
+      "line": 327,
+      "parent_path": "li/blockquote/div/p/em",
+      "source_raw": "Reset Handle",
+      "source_text": "Reset Handle"
+    },
+    {
+      "id": "c785efa59dda",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 23891,
+      "end": 23916,
+      "line": 327,
+      "parent_path": "ul/li/blockquote/div/p",
+      "source_raw": " in the right-click menu.",
+      "source_text": " in the right-click menu."
+    },
+    {
+      "id": "377e5617d114",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24009,
+      "end": 24022,
+      "line": 335,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Curve Presets",
+      "source_text": "Curve Presets"
+    },
+    {
+      "id": "223fa67f3726",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24114,
+      "end": 24220,
+      "line": 336,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "When clicking one of the curve preset buttons below the graph the curve will be overwritten to that setup.",
+      "source_text": "When clicking one of the curve preset buttons below the graph the curve will be overwritten to that setup."
+    },
+    {
+      "id": "588718a00c12",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24228,
+      "end": 24289,
+      "line": 337,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "You can still freely edit the curve after selecting a preset.",
+      "source_text": "You can still freely edit the curve after selecting a preset."
+    },
+    {
+      "id": "670bb29329c8",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24297,
+      "end": 24412,
+      "line": 338,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "These presets are useful because they can quickly set up common curves for you or give you a useful starting point.",
+      "source_text": "These presets are useful because they can quickly set up common curves for you or give you a useful starting point."
+    },
+    {
+      "id": "38458d2189d5",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 24763,
+      "end": 24837,
+      "line": 346,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "bd4417150622",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25046,
+      "end": 25120,
+      "line": 351,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set the graph to a two-point curve with both points at the maximum value.",
+      "source_text": " Set the graph to a two-point curve with both points at the maximum value."
+    },
+    {
+      "id": "68194f7a7ca0",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25301,
+      "end": 25375,
+      "line": 352,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set the graph to a two-point curve with both points at the minimum value.",
+      "source_text": " Set the graph to a two-point curve with both points at the minimum value."
+    },
+    {
+      "id": "f5b892bfd703",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25556,
+      "end": 25676,
+      "line": 353,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set the graph to a two-point curve with the first point at the minimum value and the second point at the maximum value.",
+      "source_text": " Set the graph to a two-point curve with the first point at the minimum value and the second point at the maximum value."
+    },
+    {
+      "id": "1327323e3790",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 25854,
+      "end": 25974,
+      "line": 354,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set the graph to a two-point curve with the first point at the maximum value and the second point at the minimum value.",
+      "source_text": " Set the graph to a two-point curve with the first point at the maximum value and the second point at the minimum value."
+    },
+    {
+      "id": "fa145e201783",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 26146,
+      "end": 26295,
+      "line": 355,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set the graph to a three-point curve with the first point at the minimum value, the second at the maximum value, and the third at the minimum value.",
+      "source_text": " Set the graph to a three-point curve with the first point at the minimum value, the second at the maximum value, and the third at the minimum value."
+    },
+    {
+      "id": "ed7244092819",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 26473,
+      "end": 26622,
+      "line": 356,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Set the graph to a three-point curve with the first point at the maximum value, the second at the minimum value, and the third at the maximum value.",
+      "source_text": " Set the graph to a three-point curve with the first point at the maximum value, the second at the minimum value, and the third at the maximum value."
+    },
+    {
+      "id": "4a1656bc6706",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27367,
+      "end": 27416,
+      "line": 357,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " These are the same as the last four but using a ",
+      "source_text": " These are the same as the last four but using a "
+    },
+    {
+      "id": "4a05d178a960",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27420,
+      "end": 27426,
+      "line": 357,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Bézier",
+      "source_text": "Bézier"
+    },
+    {
+      "id": "8061f3c147e0",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27431,
+      "end": 27455,
+      "line": 357,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " interpolation with the ",
+      "source_text": " interpolation with the "
+    },
+    {
+      "id": "534e0dc4c667",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27459,
+      "end": 27463,
+      "line": 357,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Free",
+      "source_text": "Free"
+    },
+    {
+      "id": "35867dc1ad21",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27468,
+      "end": 27496,
+      "line": 357,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " handle type instead of the ",
+      "source_text": " handle type instead of the "
+    },
+    {
+      "id": "e49db48b2cdd",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27500,
+      "end": 27506,
+      "line": 357,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Linear",
+      "source_text": "Linear"
+    },
+    {
+      "id": "a127bb9609d5",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27511,
+      "end": 27574,
+      "line": 357,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " interpolation giving smoother transitions from point to point.",
+      "source_text": " interpolation giving smoother transitions from point to point."
+    },
+    {
+      "id": "93cd647dd0f7",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27646,
+      "end": 27671,
+      "line": 361,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Saving and Loading Curves",
+      "source_text": "Saving and Loading Curves"
+    },
+    {
+      "id": "528e957b8a44",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27775,
+      "end": 27842,
+      "line": 362,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Any modulation curve can be saved to your hard drive for later use!",
+      "source_text": "Any modulation curve can be saved to your hard drive for later use!"
+    },
+    {
+      "id": "a6d0afae4b9e",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27850,
+      "end": 27939,
+      "line": 363,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "When you use a specific custom curve often, you can save it and load it into any project.",
+      "source_text": "When you use a specific custom curve often, you can save it and load it into any project."
+    },
+    {
+      "id": "5b02aec6afdc",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 27947,
+      "end": 28074,
+      "line": 364,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Loaded curves can still be edited in the modulation curve editor so you can also use them as a starting point or custom preset.",
+      "source_text": "Loaded curves can still be edited in the modulation curve editor so you can also use them as a starting point or custom preset."
+    },
+    {
+      "id": "571fd6013e09",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28106,
+      "end": 28141,
+      "line": 366,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Save or load a modulation curve by ",
+      "source_text": "Save or load a modulation curve by "
+    },
+    {
+      "id": "c6fc7ddf5bcb",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28303,
+      "end": 28340,
+      "line": 366,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking in the graph and selecting ",
+      "source_text": " clicking in the graph and selecting "
+    },
+    {
+      "id": "0a7ad4069cda",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28344,
+      "end": 28349,
+      "line": 366,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Save…",
+      "source_text": "Save…"
+    },
+    {
+      "id": "93602c276ea2",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28354,
+      "end": 28358,
+      "line": 366,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "35c01c5aadf4",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28362,
+      "end": 28367,
+      "line": 366,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Load…",
+      "source_text": "Load…"
+    },
+    {
+      "id": "fa0b34d17569",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28389,
+      "end": 28508,
+      "line": 367,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "A file browser will pop up where you can navigate to the folder you want to save your curve to or load your curve from.",
+      "source_text": "A file browser will pop up where you can navigate to the folder you want to save your curve to or load your curve from."
+    },
+    {
+      "id": "cdf349a0724f",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28525,
+      "end": 28573,
+      "line": 368,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "To save a curve, provide a filename and use the ",
+      "source_text": "To save a curve, provide a filename and use the "
+    },
+    {
+      "id": "1e8ae4b6b684",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28577,
+      "end": 28581,
+      "line": 368,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Save",
+      "source_text": "Save"
+    },
+    {
+      "id": "d919423f03d4",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28586,
+      "end": 28614,
+      "line": 368,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button in the file browser.",
+      "source_text": " button in the file browser."
+    },
+    {
+      "id": "b40ab67cd877",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28631,
+      "end": 28635,
+      "line": 369,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "e01aed9489a1",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28639,
+      "end": 28648,
+      "line": 369,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".jfxcurve",
+      "source_text": ".jfxcurve"
+    },
+    {
+      "id": "6bc366ec6772",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28653,
+      "end": 28752,
+      "line": 369,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " extension will be added automatically and your custom curve file will be saved to your hard drive.",
+      "source_text": " extension will be added automatically and your custom curve file will be saved to your hard drive."
+    },
+    {
+      "id": "4459ebb113ff",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28769,
+      "end": 28809,
+      "line": 370,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "To load a curve, select a file with the ",
+      "source_text": "To load a curve, select a file with the "
+    },
+    {
+      "id": "f048c476fc3f",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28813,
+      "end": 28822,
+      "line": 370,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".jfxcurve",
+      "source_text": ".jfxcurve"
+    },
+    {
+      "id": "d353f4511fa2",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28827,
+      "end": 28870,
+      "line": 370,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " extension in the file browser and use the ",
+      "source_text": " extension in the file browser and use the "
+    },
+    {
+      "id": "72297a4ac516",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28874,
+      "end": 28878,
+      "line": 370,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Open",
+      "source_text": "Open"
+    },
+    {
+      "id": "7bc9977c957d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28883,
+      "end": 28891,
+      "line": 370,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button.",
+      "source_text": " button."
+    },
+    {
+      "id": "0809bebcfe4c",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28908,
+      "end": 28958,
+      "line": 371,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If you decide not to load or save a curve use the ",
+      "source_text": "If you decide not to load or save a curve use the "
+    },
+    {
+      "id": "6e3b137641e6",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28962,
+      "end": 28968,
+      "line": 371,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Cancel",
+      "source_text": "Cancel"
+    },
+    {
+      "id": "4f5cacdd05f7",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 28973,
+      "end": 29001,
+      "line": 371,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button in the file browser.",
+      "source_text": " button in the file browser."
+    },
+    {
+      "id": "05127306833a",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29345,
+      "end": 29419,
+      "line": 380,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "d83df461eee0",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29489,
+      "end": 29504,
+      "line": 386,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "960ea9a7508e",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29598,
+      "end": 29676,
+      "line": 387,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Another way to create modulation curves is to make them procedually using the ",
+      "source_text": "Another way to create modulation curves is to make them procedually using the "
+    },
+    {
+      "id": "2cbcfc96787c",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29680,
+      "end": 29695,
+      "line": 387,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "7431532e758e",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29709,
+      "end": 29721,
+      "line": 388,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "To open the ",
+      "source_text": "To open the "
+    },
+    {
+      "id": "a68c5ea98c47",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29725,
+      "end": 29740,
+      "line": 388,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "fe78650d2a58",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29908,
+      "end": 29943,
+      "line": 388,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " click within the graph and select ",
+      "source_text": " click within the graph and select "
+    },
+    {
+      "id": "31652310f41a",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29947,
+      "end": 29963,
+      "line": 388,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Curve Generator…",
+      "source_text": "Curve Generator…"
+    },
+    {
+      "id": "41d30460bc77",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29968,
+      "end": 29991,
+      "line": 388,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " from the context menu.",
+      "source_text": " from the context menu."
+    },
+    {
+      "id": "9bb1f2809217",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 29999,
+      "end": 30008,
+      "line": 389,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "With the ",
+      "source_text": "With the "
+    },
+    {
+      "id": "a493c8ecf796",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30012,
+      "end": 30027,
+      "line": 389,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "b65ea3d5e54c",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30032,
+      "end": 30138,
+      "line": 389,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " window opened the curve is now controlled by the generator indicated with the visual glow over the graph.",
+      "source_text": " window opened the curve is now controlled by the generator indicated with the visual glow over the graph."
+    },
+    {
+      "id": "3ca921f9e96b",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30146,
+      "end": 30198,
+      "line": 390,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s look at the options for controlling our curve:",
+      "source_text": "Let’s look at the options for controlling our curve:"
+    },
+    {
+      "id": "daa81e23a291",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30453,
+      "end": 30464,
+      "line": 393,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Resolution:",
+      "source_text": "Resolution:"
+    },
+    {
+      "id": "ca648b816e01",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30473,
+      "end": 30632,
+      "line": 393,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Specifies the amount of points used to build the curve. More points can create more detailed curves, less points can make the curve easier to edit afterwards.",
+      "source_text": " Specifies the amount of points used to build the curve. More points can create more detailed curves, less points can make the curve easier to edit afterwards."
+    },
+    {
+      "id": "36e8ed807c26",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30657,
+      "end": 30662,
+      "line": 394,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Seed:",
+      "source_text": "Seed:"
+    },
+    {
+      "id": "0e4fee0682ab",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30671,
+      "end": 30735,
+      "line": 394,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Different numbers give different random changes when using the ",
+      "source_text": " Different numbers give different random changes when using the "
+    },
+    {
+      "id": "fe9366892a1d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30756,
+      "end": 30819,
+      "line": 394,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter and will drop different curve points when using the ",
+      "source_text": " parameter and will drop different curve points when using the "
+    },
+    {
+      "id": "0f7153b24bf3",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30823,
+      "end": 30834,
+      "line": 394,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Drop Chance",
+      "source_text": "Drop Chance"
+    },
+    {
+      "id": "5802b6f8c1e4",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30839,
+      "end": 30850,
+      "line": 394,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter.",
+      "source_text": " parameter."
+    },
+    {
+      "id": "99994805c2c8",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 30869,
+      "end": 31030,
+      "line": 396,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Note that the next four parameters are split into two columns both controlling a different waveform!\nThe right column doesn’t affect the curve by default as the ",
+      "source_text": "Note that the next four parameters are split into two columns both controlling a different waveform!\nThe right column doesn’t affect the curve by default as the "
+    },
+    {
+      "id": "f6763008baa4",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31034,
+      "end": 31038,
+      "line": 397,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Gain",
+      "source_text": "Gain"
+    },
+    {
+      "id": "936d35358c0d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31043,
+      "end": 31085,
+      "line": 397,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " parameter for that waveform is set to 0%!",
+      "source_text": " parameter for that waveform is set to 0%!"
+    },
+    {
+      "id": "49319b989556",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31146,
+      "end": 31155,
+      "line": 400,
+      "parent_path": "ul/li/dl/dt/strong",
+      "source_raw": "Waveform:",
+      "source_text": "Waveform:"
+    },
+    {
+      "id": "48a555aa4897",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31164,
+      "end": 31211,
+      "line": 400,
+      "parent_path": "section/ul/li/dl/dt",
+      "source_raw": " Type of function to determine the curve shape.",
+      "source_text": " Type of function to determine the curve shape."
+    },
+    {
+      "id": "3b1afbbae775",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31232,
+      "end": 31279,
+      "line": 401,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Sine: Sinewave, smooth oscillation up and down.",
+      "source_text": "Sine: Sinewave, smooth oscillation up and down."
+    },
+    {
+      "id": "7e1192ede26c",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31296,
+      "end": 31394,
+      "line": 402,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Saw: Oscillation over a modulo curve, the value will abruptly reset to the same value every cycle.",
+      "source_text": "Saw: Oscillation over a modulo curve, the value will abruptly reset to the same value every cycle."
+    },
+    {
+      "id": "3860d348f801",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31411,
+      "end": 31486,
+      "line": 403,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Pulse: Abruptly switches from a top value to a bottom value back and forth.",
+      "source_text": "Pulse: Abruptly switches from a top value to a bottom value back and forth."
+    },
+    {
+      "id": "5f14f5bd53c3",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31535,
+      "end": 31545,
+      "line": 408,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Frequency:",
+      "source_text": "Frequency:"
+    },
+    {
+      "id": "cf1e7ab5f82b",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31554,
+      "end": 31609,
+      "line": 408,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Amount of waveform cycles within the 0% to 100% range.",
+      "source_text": " Amount of waveform cycles within the 0% to 100% range."
+    },
+    {
+      "id": "40dfcef8276a",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31634,
+      "end": 31640,
+      "line": 409,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Phase:",
+      "source_text": "Phase:"
+    },
+    {
+      "id": "8c1d1b478b62",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31649,
+      "end": 31723,
+      "line": 409,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Phase of the funtion. You can use this to move your waveform horizontaly.",
+      "source_text": " Phase of the funtion. You can use this to move your waveform horizontaly."
+    },
+    {
+      "id": "8e657676fd07",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31748,
+      "end": 31753,
+      "line": 410,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Gain:",
+      "source_text": "Gain:"
+    },
+    {
+      "id": "6395549f117d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31762,
+      "end": 31979,
+      "line": 410,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Waveform intensity. At 100% the waveform will oscillate from 0% to 100% using the whole graph, at 0% the waveform will oscillate from 50% to 50% turning in to a straight line (these values can be offset by using the ",
+      "source_text": " Waveform intensity. At 100% the waveform will oscillate from 0% to 100% using the whole graph, at 0% the waveform will oscillate from 50% to 50% turning in to a straight line (these values can be offset by using the "
+    },
+    {
+      "id": "bfb4045d9535",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 31983,
+      "end": 31999,
+      "line": 410,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Offset parameter",
+      "source_text": "Offset parameter"
+    },
+    {
+      "id": "e49f756dc0db",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32004,
+      "end": 32017,
+      "line": 410,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "). Using the ",
+      "source_text": "). Using the "
+    },
+    {
+      "id": "8fab87a3e86b",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32021,
+      "end": 32025,
+      "line": 410,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Gain",
+      "source_text": "Gain"
+    },
+    {
+      "id": "d5f53a103795",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32030,
+      "end": 32165,
+      "line": 410,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter is like scaling your waveform in the vertical axis. This parameter is also used to mix the two different waveforms together.",
+      "source_text": " parameter is like scaling your waveform in the vertical axis. This parameter is also used to mix the two different waveforms together."
+    },
+    {
+      "id": "8d708fd84e77",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32212,
+      "end": 32842,
+      "line": 411,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Varies the position of the curve points. Note that this isn’t related to the waveform and affects all curvepoints. The left slider will randomly move the curve points horizontally over the graph, and the right slider will move the curve points vertically over the graph. Higher percentages result in the curve points moving further from their original positions, 100% will randomly move the curve points within a range of 0 to 100%. This parameter is useful to add some organic variation to the mathematically smooth shapes of the waveforms. To get a different randomization of the positions you can use a different value in the ",
+      "source_text": " Varies the position of the curve points. Note that this isn’t related to the waveform and affects all curvepoints. The left slider will randomly move the curve points horizontally over the graph, and the right slider will move the curve points vertically over the graph. Higher percentages result in the curve points moving further from their original positions, 100% will randomly move the curve points within a range of 0 to 100%. This parameter is useful to add some organic variation to the mathematically smooth shapes of the waveforms. To get a different randomization of the positions you can use a different value in the "
+    },
+    {
+      "id": "fb92566a60eb",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32846,
+      "end": 32850,
+      "line": 411,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Seed",
+      "source_text": "Seed"
+    },
+    {
+      "id": "db9b9f64164e",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32855,
+      "end": 32866,
+      "line": 411,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter.",
+      "source_text": " parameter."
+    },
+    {
+      "id": "75acc66b35d0",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32891,
+      "end": 32903,
+      "line": 412,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Drop Chance:",
+      "source_text": "Drop Chance:"
+    },
+    {
+      "id": "39bc966b3563",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 32912,
+      "end": 33285,
+      "line": 412,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The chance in percentage of the curve points being removed from the curve. This is useful to distribute the detail more randomly over the curve creating a more organic-looking curve. 0% means no curve points will be dropped 100% means all curve points will be dropped basically removing the curve. Different curve points will be dropped when using different values in the ",
+      "source_text": " The chance in percentage of the curve points being removed from the curve. This is useful to distribute the detail more randomly over the curve creating a more organic-looking curve. 0% means no curve points will be dropped 100% means all curve points will be dropped basically removing the curve. Different curve points will be dropped when using different values in the "
+    },
+    {
+      "id": "73d05ee05d03",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33289,
+      "end": 33293,
+      "line": 412,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Seed",
+      "source_text": "Seed"
+    },
+    {
+      "id": "6cc3ffad0e89",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33298,
+      "end": 33309,
+      "line": 412,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter.",
+      "source_text": " parameter."
+    },
+    {
+      "id": "a9c97eaa4a8d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33334,
+      "end": 33341,
+      "line": 413,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Offset:",
+      "source_text": "Offset:"
+    },
+    {
+      "id": "29217407e6a0",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33350,
+      "end": 33525,
+      "line": 413,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Offsets the vertical position of the whole curve. This can be used to move the modulation curve vertically. Curve point positions will be clipped within the 0% to 100% range.",
+      "source_text": " Offsets the vertical position of the whole curve. This can be used to move the modulation curve vertically. Curve point positions will be clipped within the 0% to 100% range."
+    },
+    {
+      "id": "0ed8fdedf51f",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33550,
+      "end": 33562,
+      "line": 414,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Attenuation:",
+      "source_text": "Attenuation:"
+    },
+    {
+      "id": "6d912f62a399",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33571,
+      "end": 33674,
+      "line": 414,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Intensity of the modulation curve. This can be used to scale the whole curve vertically. For example, ",
+      "source_text": " Intensity of the modulation curve. This can be used to scale the whole curve vertically. For example, "
+    },
+    {
+      "id": "6c0e1c4a2fb4",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33682,
+      "end": 33719,
+      "line": 414,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "-100% will flip the curve vertically.",
+      "source_text": "-100% will flip the curve vertically."
+    },
+    {
+      "id": "f94545eb3c59",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33749,
+      "end": 33767,
+      "line": 415,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Apply Immediately:",
+      "source_text": "Apply Immediately:"
+    },
+    {
+      "id": "2b2d67c6935d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33772,
+      "end": 33826,
+      "line": 415,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If this checkbox is checked, all changes made in the ",
+      "source_text": " If this checkbox is checked, all changes made in the "
+    },
+    {
+      "id": "4e4595795b94",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33830,
+      "end": 33845,
+      "line": 415,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "960616fb8228",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 33850,
+      "end": 34110,
+      "line": 415,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " are immediately applied to the modulation curve so you can see the results in the viewport. If not checked, you can see the curve you’re creating in the graph but its effects won’t immediately be applied to your project whenever you change a parameter in the ",
+      "source_text": " are immediately applied to the modulation curve so you can see the results in the viewport. If not checked, you can see the curve you’re creating in the graph but its effects won’t immediately be applied to your project whenever you change a parameter in the "
+    },
+    {
+      "id": "396707d7708b",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34114,
+      "end": 34129,
+      "line": 415,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "70683e91dc91",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34134,
+      "end": 34156,
+      "line": 415,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and if you click the ",
+      "source_text": " and if you click the "
+    },
+    {
+      "id": "18128d1d8566",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34320,
+      "end": 34352,
+      "line": 415,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the top right corner of the ",
+      "source_text": " in the top right corner of the "
+    },
+    {
+      "id": "58bbf8ed00ac",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34356,
+      "end": 34371,
+      "line": 415,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "3c7322c82b76",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34376,
+      "end": 34455,
+      "line": 415,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " you would still have the modulation curve you started with before opening the ",
+      "source_text": " you would still have the modulation curve you started with before opening the "
+    },
+    {
+      "id": "306b39806d9b",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34459,
+      "end": 34474,
+      "line": 415,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "c7d9765bd8d1",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34479,
+      "end": 34487,
+      "line": 415,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " window.",
+      "source_text": " window."
+    },
+    {
+      "id": "61346775a266",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34508,
+      "end": 34514,
+      "line": 416,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Reset:",
+      "source_text": "Reset:"
+    },
+    {
+      "id": "58ae42454067",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34519,
+      "end": 34547,
+      "line": 416,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Sets all parameters in the ",
+      "source_text": " Sets all parameters in the "
+    },
+    {
+      "id": "15151fc2569b",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34551,
+      "end": 34566,
+      "line": 416,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "aed66dd7926d",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34571,
+      "end": 34628,
+      "line": 416,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to their default values creating a basic sinewave curve.",
+      "source_text": " to their default values creating a basic sinewave curve."
+    },
+    {
+      "id": "d568e822b9da",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34649,
+      "end": 34655,
+      "line": 417,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Apply:",
+      "source_text": "Apply:"
+    },
+    {
+      "id": "b6ce253a98d7",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34660,
+      "end": 34744,
+      "line": 417,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Applies the generated curve to the modulation curve in your project and closes the ",
+      "source_text": " Applies the generated curve to the modulation curve in your project and closes the "
+    },
+    {
+      "id": "e94ee61a66e4",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34748,
+      "end": 34763,
+      "line": 417,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    },
+    {
+      "id": "4bd26aa3827b",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 34768,
+      "end": 34776,
+      "line": 417,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " window.",
+      "source_text": " window."
+    },
+    {
+      "id": "29f033210926",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35110,
+      "end": 35184,
+      "line": 426,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "c72ded5cc2d5",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35489,
+      "end": 35493,
+      "line": 441,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "3300bbd53d48",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35559,
+      "end": 35580,
+      "line": 443,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "53c13c2873cc",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 35953,
+      "end": 35961,
+      "line": 451,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "573c389773ba",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36044,
+      "end": 36062,
+      "line": 454,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "9b69bd8cf35e",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36248,
+      "end": 36308,
+      "line": 461,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "2b44e63faec5",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36314,
+      "end": 36337,
+      "line": 463,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "82d541300166",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36375,
+      "end": 36381,
+      "line": 464,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "e13b8e5c6bba",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36385,
+      "end": 36390,
+      "line": 464,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "4290cf6230f3",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36440,
+      "end": 36450,
+      "line": 464,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "9a7937b909fb",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36454,
+      "end": 36482,
+      "line": 464,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "c9dd9123022b",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36526,
+      "end": 36530,
+      "line": 466,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "dc3e374b6ec3",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 36847,
+      "end": 36883,
+      "line": 481,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "450a2567c911",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 37040,
+      "end": 37056,
+      "line": 488,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "38714faf229a",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 37121,
+      "end": 37134,
+      "line": 489,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Curve Editing",
+      "source_text": "Curve Editing"
+    },
+    {
+      "id": "82e67eb9a7b9",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 37200,
+      "end": 37213,
+      "line": 490,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Curve Presets",
+      "source_text": "Curve Presets"
+    },
+    {
+      "id": "0d68ab502256",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 37291,
+      "end": 37316,
+      "line": 491,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Saving and Loading Curves",
+      "source_text": "Saving and Loading Curves"
+    },
+    {
+      "id": "d3eddb2a9401",
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "start": 37384,
+      "end": 37399,
+      "line": 492,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Curve Generator",
+      "source_text": "Curve Generator"
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "path": "liquigen/pages/references/specific/rangeSlider.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "1a9523d0bcbd",
+      "source": "Range Slider - JangaFX Documentation",
+      "target": "范围滑块 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "ca55908aee79",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "c16856db395c",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "be47066ceae0",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "6c9dda402dd7",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "76a1eb2afd37",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "47d8f7454b00",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "8e317de4a93c",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "ae2eba610372",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "4ab154b8730c",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "351095c93284",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "63ebad342671",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "4daa22be0721",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "22cdb0c137ad",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "29b4295ebfb6",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "fbdbae11adb5",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "93f2feefc629",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "4d0f15030a63",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "c18454a16a83",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "2a4fd04b47e4",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "5a099fdb8492",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "5ed88e3d75e4",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "b6894bbb7bcf",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "8a0f4fb0fe2c",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "5db31f66a85f",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "681367e35b77",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "9db322114a0d",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "678c3ae80f28",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "25a8e042e95d",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "a8b3c688a8fe",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "7f1c71446684",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "620acab71810",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "ad88d3017cfa",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "92de9860dca2",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "4e45774ad325",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "62724a63e370",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "07e0b5d39c35",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "2082aa126a75",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "449e62a6b4fa",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "a3dd295bc3b1",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "ed93c35f86ee",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "4854ff13071d",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "beca0cd4fece",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "accb76614337",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "df888e3c4b59",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "810072920fad",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "74ef96babaf4",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "d978279f61c8",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "1622550d67d0",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "c8a7123a11b9",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "ddca99f2cc64",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "e9d60383f1fc",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "e6312af524fc",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "c3c1550f4898",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "19d38c6a8b1a",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "5520417440e1",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "6fd0fd24b428",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "76c03c5ec5bd",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "afc867c5dc80",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "f68efa473bb5",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "88441e24f252",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "ff2e2c83a920",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "ac22142f8356",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "3d710f9767fe",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "cd7e3b3f096b",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "f89a333bae4c",
+      "source": "The range sliders are used to represent a range of values.",
+      "target": "范围滑块用于表示一段数值范围。",
+      "note": ""
+    },
+    {
+      "id": "8b78722b3c71",
+      "source": "It can be used for a variety of things like specifying a range of densities, or specifying a range of values for particles to randomly pick from.",
+      "target": "它可以用于多种场景，例如指定密度范围，或指定供粒子随机选择的一组数值范围。",
+      "note": ""
+    },
+    {
+      "id": "e57efbadf254",
+      "source": "The minimum value of the range can be set by ",
+      "target": "范围的最小值可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "41e7f260c6b9",
+      "source": " clicking and dragging the ",
+      "target": " 点击并拖动 ",
+      "note": ""
+    },
+    {
+      "id": "d37f5f56eb64",
+      "source": " icon or by typing it into the textfield that appears after single ",
+      "target": " 图标来设置，也可以在单击 ",
+      "note": ""
+    },
+    {
+      "id": "c16154c252d4",
+      "source": " clicking on the left side of the slider.",
+      "target": " 滑块左侧后出现的文本框中输入数值。",
+      "note": ""
+    },
+    {
+      "id": "cf97460924d7",
+      "source": "The maximum value of the range can be set by ",
+      "target": "范围的最大值可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "de5490278057",
+      "source": " clicking and dragging the ",
+      "target": " 点击并拖动 ",
+      "note": ""
+    },
+    {
+      "id": "e46204f47bd1",
+      "source": " icon or by typing it into the textfield that appears after single ",
+      "target": " 图标来设置，也可以在单击 ",
+      "note": ""
+    },
+    {
+      "id": "ca200b68eb85",
+      "source": " clicking on the right side of the slider.",
+      "target": " 滑块右侧后出现的文本框中输入数值。",
+      "note": ""
+    },
+    {
+      "id": "e99a420ac039",
+      "source": "The range of values can be offsetted as a whole by ",
+      "target": "整段数值范围可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "98c2c97e3824",
+      "source": " clicking and dragging within the slider.",
+      "target": " 在滑块内部点击并拖动来整体偏移。",
+      "note": ""
+    },
+    {
+      "id": "d586bca237f6",
+      "source": "Clicking on the ",
+      "target": "点击 ",
+      "note": ""
+    },
+    {
+      "id": "cefc8c58f68d",
+      "source": " icon will reset the slider to the default range.",
+      "target": " 图标会将滑块重置为默认范围。",
+      "note": ""
+    },
+    {
+      "id": "68ef21e5ce69",
+      "source": "When a minimum value is typed in that’s higher than the maximum value, this value will be the new maximum value and old maximum value will be the new minumum value.",
+      "target": "如果输入的最小值高于最大值，该值会成为新的最大值，原来的最大值会成为新的最小值。",
+      "note": ""
+    },
+    {
+      "id": "e7a26d31b67b",
+      "source": "When a maximum value is typed in that’s lower than the minimum value, this value will be the new minimum value and old minimum value will be the new maximum value.",
+      "target": "如果输入的最大值低于最小值，该值会成为新的最小值，原来的最小值会成为新的最大值。",
+      "note": ""
+    },
+    {
+      "id": "02b9529a33bc",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "db93c46dfd68",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "1389e258cf83",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "8bcb4beea165",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4868a5177c76",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "517745bc911f",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "2da4cf154a88",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    }
+  ]
+}

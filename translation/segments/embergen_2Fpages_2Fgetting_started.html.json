@@ -1,0 +1,5536 @@
+{
+  "path": "embergen/pages/getting_started.html",
+  "segment_count": 553,
+  "segments": [
+    {
+      "id": "5cf228f2a431",
+      "path": "embergen/pages/getting_started.html",
+      "start": 685,
+      "end": 724,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Getting Started - JangaFX Documentation",
+      "source_text": "Getting Started - JangaFX Documentation"
+    },
+    {
+      "id": "f4842b06f975",
+      "path": "embergen/pages/getting_started.html",
+      "start": 5290,
+      "end": 5313,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "34d697d89465",
+      "path": "embergen/pages/getting_started.html",
+      "start": 5408,
+      "end": 5438,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "bdcc1fa1725b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 5634,
+      "end": 5664,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "844630700b14",
+      "path": "embergen/pages/getting_started.html",
+      "start": 5849,
+      "end": 5870,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "da8e4bf4d5e3",
+      "path": "embergen/pages/getting_started.html",
+      "start": 6063,
+      "end": 6101,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "d9cbc3f75344",
+      "path": "embergen/pages/getting_started.html",
+      "start": 6484,
+      "end": 6516,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "5a041bb89c99",
+      "path": "embergen/pages/getting_started.html",
+      "start": 7530,
+      "end": 7552,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "97d378899e7e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 7741,
+      "end": 7773,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "14f66d5ccf11",
+      "path": "embergen/pages/getting_started.html",
+      "start": 7965,
+      "end": 7980,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "801460f6f9a1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 8085,
+      "end": 8095,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "ee9efbbef2bc",
+      "path": "embergen/pages/getting_started.html",
+      "start": 8273,
+      "end": 8305,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "934301a06f02",
+      "path": "embergen/pages/getting_started.html",
+      "start": 8479,
+      "end": 8493,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "143e45e5ea68",
+      "path": "embergen/pages/getting_started.html",
+      "start": 8588,
+      "end": 8596,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "7606e201e4c5",
+      "path": "embergen/pages/getting_started.html",
+      "start": 8692,
+      "end": 8701,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "77fee60a2600",
+      "path": "embergen/pages/getting_started.html",
+      "start": 8822,
+      "end": 8835,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "7dda39ff459e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 9013,
+      "end": 9045,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "309919979ef1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 9236,
+      "end": 9249,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "c8610ec9c7d3",
+      "path": "embergen/pages/getting_started.html",
+      "start": 9373,
+      "end": 9392,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "d7460a18d0c9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 9500,
+      "end": 9505,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "cee111cd28ea",
+      "path": "embergen/pages/getting_started.html",
+      "start": 9615,
+      "end": 9622,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "c9695334d7ef",
+      "path": "embergen/pages/getting_started.html",
+      "start": 9729,
+      "end": 9733,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "9df7ff74578f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 9852,
+      "end": 9872,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "daaac80a8dfa",
+      "path": "embergen/pages/getting_started.html",
+      "start": 9984,
+      "end": 9993,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "ec6d68a09d9c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 10107,
+      "end": 10119,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "6cfee8714cee",
+      "path": "embergen/pages/getting_started.html",
+      "start": 10231,
+      "end": 10249,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "37d5b9f5b1be",
+      "path": "embergen/pages/getting_started.html",
+      "start": 10368,
+      "end": 10384,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "5d45d209bbb0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 10508,
+      "end": 10529,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "40c3a7d5daee",
+      "path": "embergen/pages/getting_started.html",
+      "start": 10640,
+      "end": 10648,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "5a9069853fb8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 10760,
+      "end": 10770,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "4b9aa47d2673",
+      "path": "embergen/pages/getting_started.html",
+      "start": 10886,
+      "end": 10899,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "71d3d84d59f0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 11002,
+      "end": 11005,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "3889744b71b2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 11126,
+      "end": 11148,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "d3cb7553500a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 11326,
+      "end": 11358,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "18fe7b467e53",
+      "path": "embergen/pages/getting_started.html",
+      "start": 11545,
+      "end": 11560,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "80a56b46559c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 11686,
+      "end": 11696,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "37803b61b84d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 11874,
+      "end": 11906,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "2244eae8bfed",
+      "path": "embergen/pages/getting_started.html",
+      "start": 12101,
+      "end": 12115,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "7d52233b8de0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 12231,
+      "end": 12239,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "0b3179abdda7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 12356,
+      "end": 12365,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "e6fe120fb0b8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 12507,
+      "end": 12520,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "8736c7996f6e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 12698,
+      "end": 12730,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "49af656fc5e2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 12940,
+      "end": 12951,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "0af492188603",
+      "path": "embergen/pages/getting_started.html",
+      "start": 13096,
+      "end": 13115,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "bef7fbcc3b10",
+      "path": "embergen/pages/getting_started.html",
+      "start": 13244,
+      "end": 13249,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "523a4a103a01",
+      "path": "embergen/pages/getting_started.html",
+      "start": 13380,
+      "end": 13387,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "733d18b6ed38",
+      "path": "embergen/pages/getting_started.html",
+      "start": 13515,
+      "end": 13519,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "b46d97f8e948",
+      "path": "embergen/pages/getting_started.html",
+      "start": 13659,
+      "end": 13679,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "44ba80e8bcfb",
+      "path": "embergen/pages/getting_started.html",
+      "start": 13816,
+      "end": 13829,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "46abcded8720",
+      "path": "embergen/pages/getting_started.html",
+      "start": 13964,
+      "end": 13976,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "603ff2a9964f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 14109,
+      "end": 14127,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "d0d460b4e0f9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 14267,
+      "end": 14283,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "f18888543463",
+      "path": "embergen/pages/getting_started.html",
+      "start": 14428,
+      "end": 14449,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "670bce5873b7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 14581,
+      "end": 14589,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "0a50a9cf1eb2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 14726,
+      "end": 14739,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "4bebcf9e5a25",
+      "path": "embergen/pages/getting_started.html",
+      "start": 14874,
+      "end": 14885,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "4b98fddfa9f3",
+      "path": "embergen/pages/getting_started.html",
+      "start": 15009,
+      "end": 15012,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "6c68aee95d40",
+      "path": "embergen/pages/getting_started.html",
+      "start": 15119,
+      "end": 15140,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "e6886ef9762c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 15234,
+      "end": 15254,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "d82428582c77",
+      "path": "embergen/pages/getting_started.html",
+      "start": 15351,
+      "end": 15373,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "794f7644bb36",
+      "path": "embergen/pages/getting_started.html",
+      "start": 15786,
+      "end": 15797,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "5d712f8a58a2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 16017,
+      "end": 16055,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "e0da7914ea85",
+      "path": "embergen/pages/getting_started.html",
+      "start": 16467,
+      "end": 16499,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "02353e392521",
+      "path": "embergen/pages/getting_started.html",
+      "start": 16686,
+      "end": 16701,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "c0ca150920c9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 16831,
+      "end": 16850,
+      "line": 258,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Installing EmberGen",
+      "source_text": "Installing EmberGen"
+    },
+    {
+      "id": "2695c2434561",
+      "path": "embergen/pages/getting_started.html",
+      "start": 16973,
+      "end": 16981,
+      "line": 260,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Download",
+      "source_text": "Download"
+    },
+    {
+      "id": "46d609078969",
+      "path": "embergen/pages/getting_started.html",
+      "start": 17068,
+      "end": 17104,
+      "line": 261,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you have a license already go to ",
+      "source_text": "If you have a license already go to "
+    },
+    {
+      "id": "1d51eb7b2348",
+      "path": "embergen/pages/getting_started.html",
+      "start": 17248,
+      "end": 17357,
+      "line": 262,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Specify your desired release on the left (latest by default) and click the blue download button on the right.",
+      "source_text": "Specify your desired release on the left (latest by default) and click the blue download button on the right."
+    },
+    {
+      "id": "6fc8b4c0a4d0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 17365,
+      "end": 17389,
+      "line": 263,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "To get your trial go to ",
+      "source_text": "To get your trial go to "
+    },
+    {
+      "id": "551404d8d92a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 17737,
+      "end": 17771,
+      "line": 265,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "There you’ll be greeted by a form!",
+      "source_text": "There you’ll be greeted by a form!"
+    },
+    {
+      "id": "824fceaf4ffd",
+      "path": "embergen/pages/getting_started.html",
+      "start": 17779,
+      "end": 17897,
+      "line": 266,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Your e-mail address and the second checkbox (which allows us to store the information given in the form) are required.",
+      "source_text": "Your e-mail address and the second checkbox (which allows us to store the information given in the form) are required."
+    },
+    {
+      "id": "d62c903d8c56",
+      "path": "embergen/pages/getting_started.html",
+      "start": 17905,
+      "end": 18007,
+      "line": 267,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "After filling out the form, pick your operating system at the bottom (Windows or Linux) and click the ",
+      "source_text": "After filling out the form, pick your operating system at the bottom (Windows or Linux) and click the "
+    },
+    {
+      "id": "4b28ee7d382c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18011,
+      "end": 18028,
+      "line": 267,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Download EmberGen",
+      "source_text": "Download EmberGen"
+    },
+    {
+      "id": "3b0804485dd9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18033,
+      "end": 18041,
+      "line": 267,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " button.",
+      "source_text": " button."
+    },
+    {
+      "id": "84c0e261364a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18049,
+      "end": 18053,
+      "line": 268,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "5d2c5ee6008f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18057,
+      "end": 18076,
+      "line": 268,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "embergen-latest.exe",
+      "source_text": "embergen-latest.exe"
+    },
+    {
+      "id": "98d38f05d106",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18081,
+      "end": 18125,
+      "line": 268,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " file will be downloaded to your hard drive.",
+      "source_text": " file will be downloaded to your hard drive."
+    },
+    {
+      "id": "87676f5d66b1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18171,
+      "end": 18181,
+      "line": 271,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Installing",
+      "source_text": "Installing"
+    },
+    {
+      "id": "8abaaafbb622",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18294,
+      "end": 18311,
+      "line": 273,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Double click the ",
+      "source_text": "Double click the "
+    },
+    {
+      "id": "4800c9fa39d9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18315,
+      "end": 18319,
+      "line": 273,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".exe",
+      "source_text": ".exe"
+    },
+    {
+      "id": "0d5fafee60c4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18324,
+      "end": 18330,
+      "line": 273,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file.",
+      "source_text": " file."
+    },
+    {
+      "id": "da7503f71ddd",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18347,
+      "end": 18368,
+      "line": 274,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Accept the agreement.",
+      "source_text": "Accept the agreement."
+    },
+    {
+      "id": "577973582964",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18385,
+      "end": 18391,
+      "line": 275,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Click ",
+      "source_text": "Click "
+    },
+    {
+      "id": "ead28867b957",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18395,
+      "end": 18399,
+      "line": 275,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "96f48b1cd884",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18410,
+      "end": 18414,
+      "line": 275,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "45b39753d967",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18425,
+      "end": 18432,
+      "line": 275,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Install",
+      "source_text": "Install"
+    },
+    {
+      "id": "0f179d197d96",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18443,
+      "end": 18449,
+      "line": 275,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Finish",
+      "source_text": "Finish"
+    },
+    {
+      "id": "4fc5cb309224",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18471,
+      "end": 18483,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If you left ",
+      "source_text": "If you left "
+    },
+    {
+      "id": "5870bf073cad",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18487,
+      "end": 18502,
+      "line": 276,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Launch EmberGen",
+      "source_text": "Launch EmberGen"
+    },
+    {
+      "id": "1b0c472c9276",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18507,
+      "end": 18551,
+      "line": 276,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " checked, the software will boot right away!",
+      "source_text": " checked, the software will boot right away!"
+    },
+    {
+      "id": "c6a17885fef9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18568,
+      "end": 18585,
+      "line": 277,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If you unchecked ",
+      "source_text": "If you unchecked "
+    },
+    {
+      "id": "3612a6d9847a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18589,
+      "end": 18604,
+      "line": 277,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Launch EmberGen",
+      "source_text": "Launch EmberGen"
+    },
+    {
+      "id": "e2cafe79bd0f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18609,
+      "end": 18681,
+      "line": 277,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " you can launch the software by double-clicking on the desktop shortcut.",
+      "source_text": " you can launch the software by double-clicking on the desktop shortcut."
+    },
+    {
+      "id": "d81cf4025fba",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18698,
+      "end": 18720,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If you also unchecked ",
+      "source_text": "If you also unchecked "
+    },
+    {
+      "id": "a837a745cf01",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18724,
+      "end": 18749,
+      "line": 278,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Create a desktop shortcut",
+      "source_text": "Create a desktop shortcut"
+    },
+    {
+      "id": "4ff808281793",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18754,
+      "end": 18805,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " you can launch embergen by double-clicking on the ",
+      "source_text": " you can launch embergen by double-clicking on the "
+    },
+    {
+      "id": "1da013e9f212",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18809,
+      "end": 18821,
+      "line": 278,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "EmberGen.exe",
+      "source_text": "EmberGen.exe"
+    },
+    {
+      "id": "b91854164cae",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18826,
+      "end": 18839,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file in the ",
+      "source_text": " file in the "
+    },
+    {
+      "id": "3dfb876a5008",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18843,
+      "end": 18851,
+      "line": 278,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "EmberGen",
+      "source_text": "EmberGen"
+    },
+    {
+      "id": "3639e1e5fc18",
+      "path": "embergen/pages/getting_started.html",
+      "start": 18856,
+      "end": 18881,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " folder usually found in ",
+      "source_text": " folder usually found in "
+    },
+    {
+      "id": "08b9dd3ed2ce",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19012,
+      "end": 19021,
+      "line": 283,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Licensing",
+      "source_text": "Licensing"
+    },
+    {
+      "id": "9776739f539a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19333,
+      "end": 19389,
+      "line": 286,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "After installation is complete, run EmberGen and in the ",
+      "source_text": "After installation is complete, run EmberGen and in the "
+    },
+    {
+      "id": "f15cf4f8915d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19393,
+      "end": 19397,
+      "line": 286,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Help",
+      "source_text": "Help"
+    },
+    {
+      "id": "46240449f3d5",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19402,
+      "end": 19415,
+      "line": 286,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " menu, click ",
+      "source_text": " menu, click "
+    },
+    {
+      "id": "ae2083a319d1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19419,
+      "end": 19435,
+      "line": 286,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "License Manager…",
+      "source_text": "License Manager…"
+    },
+    {
+      "id": "a81ad953d2d6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19440,
+      "end": 19454,
+      "line": 286,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to launch it.",
+      "source_text": " to launch it."
+    },
+    {
+      "id": "34a850080d1a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19471,
+      "end": 19545,
+      "line": 287,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Within this license manager, enter your license key in the ‘Key’ text box.",
+      "source_text": "Within this license manager, enter your license key in the ‘Key’ text box."
+    },
+    {
+      "id": "a1d1e0a9ada4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19562,
+      "end": 19577,
+      "line": 288,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Then press the ",
+      "source_text": "Then press the "
+    },
+    {
+      "id": "ac5559a3e559",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19581,
+      "end": 19593,
+      "line": 288,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Activate Key",
+      "source_text": "Activate Key"
+    },
+    {
+      "id": "82db606e6ad7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19598,
+      "end": 19640,
+      "line": 288,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button. The status text will change from ",
+      "source_text": " button. The status text will change from "
+    },
+    {
+      "id": "8921d926d56c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19644,
+      "end": 19655,
+      "line": 288,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Deactivated",
+      "source_text": "Deactivated"
+    },
+    {
+      "id": "3fd4120273cd",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19660,
+      "end": 19664,
+      "line": 288,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to ",
+      "source_text": " to "
+    },
+    {
+      "id": "e0b50c13cd38",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19668,
+      "end": 19677,
+      "line": 288,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Activated",
+      "source_text": "Activated"
+    },
+    {
+      "id": "4125a4bab273",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19682,
+      "end": 19725,
+      "line": 288,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " if the license was activated successfully.",
+      "source_text": " if the license was activated successfully."
+    },
+    {
+      "id": "933bc3fead7a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19742,
+      "end": 19855,
+      "line": 289,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If any errors occur they will appear in yellow on the right. If you cannot get your key to activate, email us at ",
+      "source_text": "If any errors occur they will appear in yellow on the right. If you cannot get your key to activate, email us at "
+    },
+    {
+      "id": "75c0023a27a2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19937,
+      "end": 19944,
+      "line": 289,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "support",
+      "source_text": "support"
+    },
+    {
+      "id": "736b0e8e7fd4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19962,
+      "end": 19969,
+      "line": 289,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "jangafx",
+      "source_text": "jangafx"
+    },
+    {
+      "id": "fc7187e468c6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19987,
+      "end": 19990,
+      "line": 289,
+      "parent_path": "section/ul/li/p/a",
+      "source_raw": "com",
+      "source_text": "com"
+    },
+    {
+      "id": "1780af432726",
+      "path": "embergen/pages/getting_started.html",
+      "start": 19994,
+      "end": 20010,
+      "line": 289,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " using the blue ",
+      "source_text": " using the blue "
+    },
+    {
+      "id": "746e8b2e93da",
+      "path": "embergen/pages/getting_started.html",
+      "start": 20014,
+      "end": 20029,
+      "line": 289,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Contact Support",
+      "source_text": "Contact Support"
+    },
+    {
+      "id": "72f1800602d4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 20034,
+      "end": 20098,
+      "line": 289,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button in the top right corner with a screenshot of the errors.",
+      "source_text": " button in the top right corner with a screenshot of the errors."
+    },
+    {
+      "id": "416d8c52a273",
+      "path": "embergen/pages/getting_started.html",
+      "start": 20117,
+      "end": 20179,
+      "line": 291,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "If you don’t have a license key you can purchase one from our ",
+      "source_text": "If you don’t have a license key you can purchase one from our "
+    },
+    {
+      "id": "d05086e86332",
+      "path": "embergen/pages/getting_started.html",
+      "start": 20253,
+      "end": 20280,
+      "line": 291,
+      "parent_path": "article/section/section/p/a",
+      "source_raw": "pricing page on our website",
+      "source_text": "pricing page on our website"
+    },
+    {
+      "id": "1a1ce0e3d3d6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 20284,
+      "end": 20346,
+      "line": 291,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": ". You can go there using the blue “Purchase A License” button!",
+      "source_text": ". You can go there using the blue “Purchase A License” button!"
+    },
+    {
+      "id": "3a204264b4b1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 20682,
+      "end": 20756,
+      "line": 299,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "20506c1043ea",
+      "path": "embergen/pages/getting_started.html",
+      "start": 20825,
+      "end": 20839,
+      "line": 305,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Using Embergen",
+      "source_text": "Using Embergen"
+    },
+    {
+      "id": "fce196a3536f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 20932,
+      "end": 20952,
+      "line": 306,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Welcome to Embergen!",
+      "source_text": "Welcome to Embergen!"
+    },
+    {
+      "id": "4f68e12c194f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 20960,
+      "end": 21082,
+      "line": 307,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "In this section, you will learn the basics of our software to get started making amazing effects for your games or movies.",
+      "source_text": "In this section, you will learn the basics of our software to get started making amazing effects for your games or movies."
+    },
+    {
+      "id": "15d585c447da",
+      "path": "embergen/pages/getting_started.html",
+      "start": 21122,
+      "end": 21137,
+      "line": 309,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Project Manager",
+      "source_text": "Project Manager"
+    },
+    {
+      "id": "a8c520459d5d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 21442,
+      "end": 21570,
+      "line": 312,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "When you first open the software you’ll see the project manager. You can always get to or leave this screen using the home icon ",
+      "source_text": "When you first open the software you’ll see the project manager. You can always get to or leave this screen using the home icon "
+    },
+    {
+      "id": "2691d729cadf",
+      "path": "embergen/pages/getting_started.html",
+      "start": 21719,
+      "end": 21743,
+      "line": 312,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the top left corner.",
+      "source_text": " in the top left corner."
+    },
+    {
+      "id": "3c9df1d92677",
+      "path": "embergen/pages/getting_started.html",
+      "start": 21760,
+      "end": 21876,
+      "line": 313,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The Project Manager is where you can quickly get to presets or your project files by picking a category on the left.",
+      "source_text": "The Project Manager is where you can quickly get to presets or your project files by picking a category on the left."
+    },
+    {
+      "id": "d314c5e2ac01",
+      "path": "embergen/pages/getting_started.html",
+      "start": 21893,
+      "end": 21906,
+      "line": 314,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Presets are, ",
+      "source_text": "Presets are, "
+    },
+    {
+      "id": "2a1c4d660805",
+      "path": "embergen/pages/getting_started.html",
+      "start": 21910,
+      "end": 21916,
+      "line": 314,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".ember",
+      "source_text": ".ember"
+    },
+    {
+      "id": "0dbc3335eb5a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 21921,
+      "end": 21970,
+      "line": 314,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ", read-only, project files shipped with embergen.",
+      "source_text": ", read-only, project files shipped with embergen."
+    },
+    {
+      "id": "af01a0ffa980",
+      "path": "embergen/pages/getting_started.html",
+      "start": 21978,
+      "end": 22085,
+      "line": 315,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "They can serve as a nice starting point for the effects you want to create or as a reference to learn from.",
+      "source_text": "They can serve as a nice starting point for the effects you want to create or as a reference to learn from."
+    },
+    {
+      "id": "bf95b4d581bc",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22093,
+      "end": 22185,
+      "line": 316,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Presets are stored in the presets folders within the EmberGen installation folder. (usually ",
+      "source_text": "Presets are stored in the presets folders within the EmberGen installation folder. (usually "
+    },
+    {
+      "id": "35d020a1af00",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22246,
+      "end": 22310,
+      "line": 318,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Note that there is no difference between a preset and any other ",
+      "source_text": "Note that there is no difference between a preset and any other "
+    },
+    {
+      "id": "ddd9faa7217f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22314,
+      "end": 22320,
+      "line": 318,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".ember",
+      "source_text": ".ember"
+    },
+    {
+      "id": "33cca8879ec2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22325,
+      "end": 22331,
+      "line": 318,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file.",
+      "source_text": " file."
+    },
+    {
+      "id": "188879097c70",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22348,
+      "end": 22417,
+      "line": 319,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If you can’t find the project you are looking for, you can click the ",
+      "source_text": "If you can’t find the project you are looking for, you can click the "
+    },
+    {
+      "id": "d273e65217de",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22421,
+      "end": 22433,
+      "line": 319,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Open Project",
+      "source_text": "Open Project"
+    },
+    {
+      "id": "7e79b795ccd2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22438,
+      "end": 22474,
+      "line": 319,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button to manually search for your ",
+      "source_text": " button to manually search for your "
+    },
+    {
+      "id": "57948bd09b5f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22478,
+      "end": 22484,
+      "line": 319,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".ember",
+      "source_text": ".ember"
+    },
+    {
+      "id": "d4ceaf75ca17",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22489,
+      "end": 22518,
+      "line": 319,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file using the file browser.",
+      "source_text": " file using the file browser."
+    },
+    {
+      "id": "442b63ced92e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22543,
+      "end": 22554,
+      "line": 320,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "New Project",
+      "source_text": "New Project"
+    },
+    {
+      "id": "6500f60448b5",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22563,
+      "end": 22710,
+      "line": 320,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will load the default preset. Like any preset everything about this can be altered so don’t worry if it doesn’t look like what you are aiming for.",
+      "source_text": " will load the default preset. Like any preset everything about this can be altered so don’t worry if it doesn’t look like what you are aiming for."
+    },
+    {
+      "id": "cdd2dce16e00",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22727,
+      "end": 22758,
+      "line": 321,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "You can save your presets with ",
+      "source_text": "You can save your presets with "
+    },
+    {
+      "id": "27af7d5d2593",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22764,
+      "end": 22770,
+      "line": 321,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl+S",
+      "source_text": "Ctrl+S"
+    },
+    {
+      "id": "906f323ea354",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22777,
+      "end": 22793,
+      "line": 321,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or by going to ",
+      "source_text": " or by going to "
+    },
+    {
+      "id": "334a5b690bb4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22797,
+      "end": 22811,
+      "line": 321,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "File &gt; Save",
+      "source_text": "File > Save"
+    },
+    {
+      "id": "44bb9f3beb24",
+      "path": "embergen/pages/getting_started.html",
+      "start": 22877,
+      "end": 22891,
+      "line": 325,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "3ce1a8db7fa0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 23008,
+      "end": 23053,
+      "line": 327,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Let’s have a look at the main user interface!",
+      "source_text": "Let’s have a look at the main user interface!"
+    },
+    {
+      "id": "9ec8338b9abd",
+      "path": "embergen/pages/getting_started.html",
+      "start": 23070,
+      "end": 23198,
+      "line": 328,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "As you can see it is subdivided into four sections, the viewport, the timeline editor, the node editor and the properties panel.",
+      "source_text": "As you can see it is subdivided into four sections, the viewport, the timeline editor, the node editor and the properties panel."
+    },
+    {
+      "id": "3f4ee00d5d58",
+      "path": "embergen/pages/getting_started.html",
+      "start": 23215,
+      "end": 23274,
+      "line": 329,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "All of these can be scaled to your liking, by holding down ",
+      "source_text": "All of these can be scaled to your liking, by holding down "
+    },
+    {
+      "id": "5e4e125e9ee7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 23421,
+      "end": 23499,
+      "line": 329,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and dragging the edges of the section, or viewed full screen by clicking the ",
+      "source_text": " and dragging the edges of the section, or viewed full screen by clicking the "
+    },
+    {
+      "id": "2181eed245ce",
+      "path": "embergen/pages/getting_started.html",
+      "start": 23503,
+      "end": 23533,
+      "line": 329,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Toggle panel fullscreen button",
+      "source_text": "Toggle panel fullscreen button"
+    },
+    {
+      "id": "1f316ef784d4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 23698,
+      "end": 23739,
+      "line": 329,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the top right corner of each section.",
+      "source_text": " in the top right corner of each section."
+    },
+    {
+      "id": "a3aaa9cb54d6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 23794,
+      "end": 23802,
+      "line": 333,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Viewport",
+      "source_text": "Viewport"
+    },
+    {
+      "id": "6cffbfd67876",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24073,
+      "end": 24165,
+      "line": 335,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This is where you can view your simulations, shapes, forces or anything that’s in the scene.",
+      "source_text": "This is where you can view your simulations, shapes, forces or anything that’s in the scene."
+    },
+    {
+      "id": "de1ec53473c2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24173,
+      "end": 24220,
+      "line": 336,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "You can move the camera around by holding down ",
+      "source_text": "You can move the camera around by holding down "
+    },
+    {
+      "id": "947061398561",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24367,
+      "end": 24397,
+      "line": 336,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " in the viewport and pressing ",
+      "source_text": " in the viewport and pressing "
+    },
+    {
+      "id": "ff92147224e7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24403,
+      "end": 24406,
+      "line": 336,
+      "parent_path": "section/section/section/p/cite",
+      "source_raw": "Alt",
+      "source_text": "Alt"
+    },
+    {
+      "id": "16acbf604416",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24413,
+      "end": 24422,
+      "line": 336,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " to pan, ",
+      "source_text": " to pan, "
+    },
+    {
+      "id": "b48d9056acf9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24428,
+      "end": 24432,
+      "line": 336,
+      "parent_path": "section/section/section/p/cite",
+      "source_raw": "Ctrl",
+      "source_text": "Ctrl"
+    },
+    {
+      "id": "4a1771a89b10",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24439,
+      "end": 24452,
+      "line": 336,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " to zoom and ",
+      "source_text": " to zoom and "
+    },
+    {
+      "id": "f742eba27b2a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24458,
+      "end": 24463,
+      "line": 336,
+      "parent_path": "section/section/section/p/cite",
+      "source_raw": "Shift",
+      "source_text": "Shift"
+    },
+    {
+      "id": "cd240ea20ebd",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24470,
+      "end": 24479,
+      "line": 336,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " to tilt.",
+      "source_text": " to tilt."
+    },
+    {
+      "id": "fed8b4cf5f34",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24487,
+      "end": 24556,
+      "line": 337,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you are used to another control scheme, in the top menu bar go to ",
+      "source_text": "If you are used to another control scheme, in the top menu bar go to "
+    },
+    {
+      "id": "b07c4772b8f6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24560,
+      "end": 24583,
+      "line": 337,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Settings&gt;Preferences",
+      "source_text": "Settings>Preferences"
+    },
+    {
+      "id": "7fab7def0548",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24588,
+      "end": 24601,
+      "line": 337,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " then in the ",
+      "source_text": " then in the "
+    },
+    {
+      "id": "a92836821a92",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24605,
+      "end": 24611,
+      "line": 337,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "449f2f4748d4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24616,
+      "end": 24644,
+      "line": 337,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " section you can change the ",
+      "source_text": " section you can change the "
+    },
+    {
+      "id": "52b33e866ea3",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24648,
+      "end": 24663,
+      "line": 337,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Control Mapping",
+      "source_text": "Control Mapping"
+    },
+    {
+      "id": "f3209166d487",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24668,
+      "end": 24684,
+      "line": 337,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " to your liking.",
+      "source_text": " to your liking."
+    },
+    {
+      "id": "c1bd6c0b125d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24692,
+      "end": 24770,
+      "line": 338,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "On the top of the viewport, you will find a couple of tabs and dropdown menus:",
+      "source_text": "On the top of the viewport, you will find a couple of tabs and dropdown menus:"
+    },
+    {
+      "id": "22746ae65c6b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24795,
+      "end": 24800,
+      "line": 340,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Scene",
+      "source_text": "Scene"
+    },
+    {
+      "id": "e051c9ba9fd7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24809,
+      "end": 24874,
+      "line": 340,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is the default tab where you can view and manipulate everything.",
+      "source_text": " is the default tab where you can view and manipulate everything."
+    },
+    {
+      "id": "928adb49161f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24899,
+      "end": 24905,
+      "line": 341,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Render",
+      "source_text": "Render"
+    },
+    {
+      "id": "53e9bd70a01a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24914,
+      "end": 24970,
+      "line": 341,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is the tab where you can preview what will be exported.",
+      "source_text": " is the tab where you can preview what will be exported."
+    },
+    {
+      "id": "4daea7039f0d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 24995,
+      "end": 25001,
+      "line": 342,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Export",
+      "source_text": "Export"
+    },
+    {
+      "id": "a601ad0f3e21",
+      "path": "embergen/pages/getting_started.html",
+      "start": 25010,
+      "end": 25062,
+      "line": 342,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is the tab where the exported images can be viewed.",
+      "source_text": " is the tab where the exported images can be viewed."
+    },
+    {
+      "id": "570b1d5a7c6d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 25079,
+      "end": 25097,
+      "line": 343,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Right next to the ",
+      "source_text": "Right next to the "
+    },
+    {
+      "id": "648c52cd82c8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 25101,
+      "end": 25107,
+      "line": 343,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Export",
+      "source_text": "Export"
+    },
+    {
+      "id": "1c57a26b403b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 25112,
+      "end": 25150,
+      "line": 343,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " tab is a dropdown menu to select the ",
+      "source_text": " tab is a dropdown menu to select the "
+    },
+    {
+      "id": "7cf5050bf557",
+      "path": "embergen/pages/getting_started.html",
+      "start": 25305,
+      "end": 25338,
+      "line": 343,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " camera you want to look through.",
+      "source_text": " camera you want to look through."
+    },
+    {
+      "id": "bdd92338a2a9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 25355,
+      "end": 25359,
+      "line": 344,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "5ac423a69b89",
+      "path": "embergen/pages/getting_started.html",
+      "start": 25525,
+      "end": 25529,
+      "line": 344,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "View",
+      "source_text": "View"
+    },
+    {
+      "id": "95105782ff4b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 25538,
+      "end": 25616,
+      "line": 344,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " dropdown menu will give you a list of things to show or hide in the viewport.",
+      "source_text": " dropdown menu will give you a list of things to show or hide in the viewport."
+    },
+    {
+      "id": "68f2cfc346d4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 25624,
+      "end": 25715,
+      "line": 345,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "If you are missing or annoyed by something in the viewport this is the first place to look!",
+      "source_text": "If you are missing or annoyed by something in the viewport this is the first place to look!"
+    },
+    {
+      "id": "e9c0e0d3e561",
+      "path": "embergen/pages/getting_started.html",
+      "start": 25778,
+      "end": 25793,
+      "line": 350,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Timeline Editor",
+      "source_text": "Timeline Editor"
+    },
+    {
+      "id": "7c94d550c7e4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26104,
+      "end": 26156,
+      "line": 352,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This is where time is visualized from left to right.",
+      "source_text": "This is where time is visualized from left to right."
+    },
+    {
+      "id": "3450f258e4bb",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26188,
+      "end": 26196,
+      "line": 354,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "You can ",
+      "source_text": "You can "
+    },
+    {
+      "id": "17eb6681409d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26204,
+      "end": 26208,
+      "line": 354,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "play",
+      "source_text": "play"
+    },
+    {
+      "id": "2b43d74395e3",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26217,
+      "end": 26221,
+      "line": 354,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "fbf6b05b1ca1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26229,
+      "end": 26234,
+      "line": 354,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "pause",
+      "source_text": "pause"
+    },
+    {
+      "id": "eb47a99c14d1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26243,
+      "end": 26265,
+      "line": 354,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " the simulation using ",
+      "source_text": " the simulation using "
+    },
+    {
+      "id": "badc4437dba3",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26412,
+      "end": 26416,
+      "line": 354,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "b6ce95c6812b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26424,
+      "end": 26432,
+      "line": 354,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "spacebar",
+      "source_text": "spacebar"
+    },
+    {
+      "id": "0d96f8c41701",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26458,
+      "end": 26466,
+      "line": 355,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "You can ",
+      "source_text": "You can "
+    },
+    {
+      "id": "35c0225395c2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26474,
+      "end": 26479,
+      "line": 355,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "reset",
+      "source_text": "reset"
+    },
+    {
+      "id": "f9bec6c9f6b2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26488,
+      "end": 26552,
+      "line": 355,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " the simulation (revert to the beginning of the timeline) using ",
+      "source_text": " the simulation (revert to the beginning of the timeline) using "
+    },
+    {
+      "id": "926d6927b7cf",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26712,
+      "end": 26716,
+      "line": 355,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "687c61166250",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26753,
+      "end": 26855,
+      "line": 357,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you forget a shortcut you can hover your mouse over a button to see its shortcut key.\nOr go to the ",
+      "source_text": "If you forget a shortcut you can hover your mouse over a button to see its shortcut key.\nOr go to the "
+    },
+    {
+      "id": "4fe665c97690",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26863,
+      "end": 26872,
+      "line": 358,
+      "parent_path": "section/section/section/p/strong",
+      "source_raw": "Shortcuts",
+      "source_text": "Shortcuts"
+    },
+    {
+      "id": "90e306ebd40e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26881,
+      "end": 26893,
+      "line": 358,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " section in ",
+      "source_text": " section in "
+    },
+    {
+      "id": "f0821118c064",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26897,
+      "end": 26920,
+      "line": 358,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Settings&gt;Preferences",
+      "source_text": "Settings>Preferences"
+    },
+    {
+      "id": "1096cd23eef8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 26934,
+      "end": 27050,
+      "line": 359,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "When playing from the start you can see a blue line moving. This indicates what the current time on the timeline is.",
+      "source_text": "When playing from the start you can see a blue line moving. This indicates what the current time on the timeline is."
+    },
+    {
+      "id": "80db74eaf756",
+      "path": "embergen/pages/getting_started.html",
+      "start": 27058,
+      "end": 27239,
+      "line": 360,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The numbers next to the buttons show the current time in frames and seconds.\nWhen clicking on the left one of these, the timeline will toggle from showing frames or showing seconds.",
+      "source_text": "The numbers next to the buttons show the current time in frames and seconds.\nWhen clicking on the left one of these, the timeline will toggle from showing frames or showing seconds."
+    },
+    {
+      "id": "982f4dada54d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 27247,
+      "end": 27374,
+      "line": 362,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Note that a simulation always calculates from one frame to the next. This means you can’t play it backward or scrub through it.",
+      "source_text": "Note that a simulation always calculates from one frame to the next. This means you can’t play it backward or scrub through it."
+    },
+    {
+      "id": "d8ea007aeba6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 27420,
+      "end": 27430,
+      "line": 365,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Node Graph",
+      "source_text": "Node Graph"
+    },
+    {
+      "id": "b313f86838a6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 27710,
+      "end": 27781,
+      "line": 367,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This is where the building blocks to create the simulation are managed.",
+      "source_text": "This is where the building blocks to create the simulation are managed."
+    },
+    {
+      "id": "843c5ef1da5d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 27789,
+      "end": 27975,
+      "line": 368,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The separate modules you see are called nodes. You can think of these as little machines with their own unique tasks. The machines combined are the factory that produces the end product.",
+      "source_text": "The separate modules you see are called nodes. You can think of these as little machines with their own unique tasks. The machines combined are the factory that produces the end product."
+    },
+    {
+      "id": "69123e61d8af",
+      "path": "embergen/pages/getting_started.html",
+      "start": 27983,
+      "end": 28056,
+      "line": 369,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The nodes are connected with wires passing data from one node to another.",
+      "source_text": "The nodes are connected with wires passing data from one node to another."
+    },
+    {
+      "id": "c828bae103b8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 28064,
+      "end": 28107,
+      "line": 370,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "To navigate around the Node Graph hold the ",
+      "source_text": "To navigate around the Node Graph hold the "
+    },
+    {
+      "id": "a98b6f277b65",
+      "path": "embergen/pages/getting_started.html",
+      "start": 28260,
+      "end": 28326,
+      "line": 370,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " button and drag. You can use the scroll wheel to zoom in and out.",
+      "source_text": " button and drag. You can use the scroll wheel to zoom in and out."
+    },
+    {
+      "id": "dc952d5b3fac",
+      "path": "embergen/pages/getting_started.html",
+      "start": 28334,
+      "end": 28366,
+      "line": 371,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you get lost you can use the ",
+      "source_text": "If you get lost you can use the "
+    },
+    {
+      "id": "86dfa8beef93",
+      "path": "embergen/pages/getting_started.html",
+      "start": 28526,
+      "end": 28588,
+      "line": 371,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " button in the top right corner to recenter the nodes and the ",
+      "source_text": " button in the top right corner to recenter the nodes and the "
+    },
+    {
+      "id": "104f3d8e91b1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 28757,
+      "end": 28783,
+      "line": 371,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " button to reset the zoom.",
+      "source_text": " button to reset the zoom."
+    },
+    {
+      "id": "e4388ad275fa",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29118,
+      "end": 29192,
+      "line": 379,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "c9688a2afd43",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29243,
+      "end": 29262,
+      "line": 384,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Select a node with ",
+      "source_text": "Select a node with "
+    },
+    {
+      "id": "58c6ff84a735",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29426,
+      "end": 29459,
+      "line": 385,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Box select a node by holding the ",
+      "source_text": "Box select a node by holding the "
+    },
+    {
+      "id": "1995a5ea9926",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29606,
+      "end": 29643,
+      "line": 385,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and dragging a box around the nodes.",
+      "source_text": " and dragging a box around the nodes."
+    },
+    {
+      "id": "40123af0a96a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29660,
+      "end": 29712,
+      "line": 386,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Delete a node by selecting it and then pressing the ",
+      "source_text": "Delete a node by selecting it and then pressing the "
+    },
+    {
+      "id": "fdb27b055e2b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29718,
+      "end": 29724,
+      "line": 386,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Delete",
+      "source_text": "Delete"
+    },
+    {
+      "id": "626eddfc8c19",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29731,
+      "end": 29736,
+      "line": 386,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " key.",
+      "source_text": " key."
+    },
+    {
+      "id": "fdae9b11d2eb",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29753,
+      "end": 29779,
+      "line": 387,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Copy and paste nodes with ",
+      "source_text": "Copy and paste nodes with "
+    },
+    {
+      "id": "bb3a2acb50c5",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29785,
+      "end": 29793,
+      "line": 387,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + C",
+      "source_text": "Ctrl + C"
+    },
+    {
+      "id": "d5d7b68cd69b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29800,
+      "end": 29805,
+      "line": 387,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "d5cc86a9ea45",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29811,
+      "end": 29819,
+      "line": 387,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + V",
+      "source_text": "Ctrl + V"
+    },
+    {
+      "id": "5f0ed1f31061",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29844,
+      "end": 29870,
+      "line": 388,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Move nodes by holding the ",
+      "source_text": "Move nodes by holding the "
+    },
+    {
+      "id": "6b38b5712d88",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29876,
+      "end": 29893,
+      "line": 388,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Left Mouse Button",
+      "source_text": "Left Mouse Button"
+    },
+    {
+      "id": "ce807452c5d6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29900,
+      "end": 29914,
+      "line": 388,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and dragging.",
+      "source_text": " and dragging."
+    },
+    {
+      "id": "10759c5b9858",
+      "path": "embergen/pages/getting_started.html",
+      "start": 29931,
+      "end": 29970,
+      "line": 389,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Disable a node using the on/off button ",
+      "source_text": "Disable a node using the on/off button "
+    },
+    {
+      "id": "282d2ee0cdcd",
+      "path": "embergen/pages/getting_started.html",
+      "start": 30130,
+      "end": 30167,
+      "line": 389,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the top right corner of the node.",
+      "source_text": " in the top right corner of the node."
+    },
+    {
+      "id": "676f6de004b5",
+      "path": "embergen/pages/getting_started.html",
+      "start": 30184,
+      "end": 30201,
+      "line": 390,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Connect nodes by ",
+      "source_text": "Connect nodes by "
+    },
+    {
+      "id": "586d4a973a4c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 30348,
+      "end": 30467,
+      "line": 390,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " clicking and dragging from the connection pins on the sides of the nodes. Or by selecting multiple nodes and pressing ",
+      "source_text": " clicking and dragging from the connection pins on the sides of the nodes. Or by selecting multiple nodes and pressing "
+    },
+    {
+      "id": "10f1a838c152",
+      "path": "embergen/pages/getting_started.html",
+      "start": 30473,
+      "end": 30481,
+      "line": 390,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + L",
+      "source_text": "Ctrl + L"
+    },
+    {
+      "id": "a79b7ea65086",
+      "path": "embergen/pages/getting_started.html",
+      "start": 30505,
+      "end": 30592,
+      "line": 391,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The connection pins always state the node or node category it needs to be connected to.",
+      "source_text": "The connection pins always state the node or node category it needs to be connected to."
+    },
+    {
+      "id": "5d137f85adb6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 30609,
+      "end": 30848,
+      "line": 392,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Create a node by right-clicking in the node graph and selecting a node from the menu. Or by dragging from a connection pin to somewhere in the node graph. This way you’ll get a menu with all the nodes available for that type of connection.",
+      "source_text": "Create a node by right-clicking in the node graph and selecting a node from the menu. Or by dragging from a connection pin to somewhere in the node graph. This way you’ll get a menu with all the nodes available for that type of connection."
+    },
+    {
+      "id": "ab1c8aea71fa",
+      "path": "embergen/pages/getting_started.html",
+      "start": 30911,
+      "end": 30927,
+      "line": 396,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Properties Panel",
+      "source_text": "Properties Panel"
+    },
+    {
+      "id": "2c0a66096c7f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 31228,
+      "end": 31340,
+      "line": 398,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "This is where the settings are for the selected node. (Or multiple nodes when selecting nodes of the same type.)",
+      "source_text": "This is where the settings are for the selected node. (Or multiple nodes when selecting nodes of the same type.)"
+    },
+    {
+      "id": "87f88cc1cf0d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 31380,
+      "end": 31393,
+      "line": 400,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Node Details:",
+      "source_text": "Node Details:"
+    },
+    {
+      "id": "19bc90b51172",
+      "path": "embergen/pages/getting_started.html",
+      "start": 31402,
+      "end": 31459,
+      "line": 400,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This tab shows all the parameters for the selected node.",
+      "source_text": " This tab shows all the parameters for the selected node."
+    },
+    {
+      "id": "1cdf0af61a9e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 31476,
+      "end": 31539,
+      "line": 401,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Every node has its own array of tabs organizing the parameters.",
+      "source_text": "Every node has its own array of tabs organizing the parameters."
+    },
+    {
+      "id": "2760bc4b5d89",
+      "path": "embergen/pages/getting_started.html",
+      "start": 31556,
+      "end": 31670,
+      "line": 402,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "When looking for a specific parameter, you can easily find it using the Parameter Palette which opens by pressing ",
+      "source_text": "When looking for a specific parameter, you can easily find it using the Parameter Palette which opens by pressing "
+    },
+    {
+      "id": "04897f70f461",
+      "path": "embergen/pages/getting_started.html",
+      "start": 31676,
+      "end": 31684,
+      "line": 402,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + P",
+      "source_text": "Ctrl + P"
+    },
+    {
+      "id": "2db876f3ebb2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 32042,
+      "end": 32116,
+      "line": 411,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "89e42277df71",
+      "path": "embergen/pages/getting_started.html",
+      "start": 32167,
+      "end": 32210,
+      "line": 416,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "You can change a parameter by either using ",
+      "source_text": "You can change a parameter by either using "
+    },
+    {
+      "id": "20eb4bdb6e73",
+      "path": "embergen/pages/getting_started.html",
+      "start": 32357,
+      "end": 32408,
+      "line": 416,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " on the value, typing in a new value, and pressing ",
+      "source_text": " on the value, typing in a new value, and pressing "
+    },
+    {
+      "id": "1bc874880537",
+      "path": "embergen/pages/getting_started.html",
+      "start": 32414,
+      "end": 32419,
+      "line": 416,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Enter",
+      "source_text": "Enter"
+    },
+    {
+      "id": "7d42df8da3f2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 32426,
+      "end": 32469,
+      "line": 416,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " or clicking and dragging the value slider.",
+      "source_text": " or clicking and dragging the value slider."
+    },
+    {
+      "id": "ea03c02d6463",
+      "path": "embergen/pages/getting_started.html",
+      "start": 32486,
+      "end": 32578,
+      "line": 417,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "You can also apply math within these text boxes. For example, typing 4*7/2+6-2 and pressing ",
+      "source_text": "You can also apply math within these text boxes. For example, typing 4*7/2+6-2 and pressing "
+    },
+    {
+      "id": "22e56ba172e4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 32584,
+      "end": 32589,
+      "line": 417,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Enter",
+      "source_text": "Enter"
+    },
+    {
+      "id": "e7cbe5b6f51b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 32596,
+      "end": 32725,
+      "line": 417,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will put a value of 18 in the parameter. This can be helpful for quickly multiplying a value or reducing it by half for example.",
+      "source_text": " will put a value of 18 in the parameter. This can be helpful for quickly multiplying a value or reducing it by half for example."
+    },
+    {
+      "id": "721343cb11aa",
+      "path": "embergen/pages/getting_started.html",
+      "start": 32742,
+      "end": 32840,
+      "line": 418,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Some parameters aren’t values but dropdown menus which can be opened by clicking on them with the ",
+      "source_text": "Some parameters aren’t values but dropdown menus which can be opened by clicking on them with the "
+    },
+    {
+      "id": "8a9591a5942c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 32987,
+      "end": 33031,
+      "line": 418,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ". Then you can pick an option from the menu.",
+      "source_text": ". Then you can pick an option from the menu."
+    },
+    {
+      "id": "7482e2998c7d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 33048,
+      "end": 33112,
+      "line": 419,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "There are also check boxes that can be simply clicked on or off.",
+      "source_text": "There are also check boxes that can be simply clicked on or off."
+    },
+    {
+      "id": "dbb559f38037",
+      "path": "embergen/pages/getting_started.html",
+      "start": 33129,
+      "end": 33244,
+      "line": 420,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Try leaving your cursor on a parameter name. This will show a text box with information on what the parameter does!",
+      "source_text": "Try leaving your cursor on a parameter name. This will show a text box with information on what the parameter does!"
+    },
+    {
+      "id": "ff59356b79ac",
+      "path": "embergen/pages/getting_started.html",
+      "start": 33261,
+      "end": 33277,
+      "line": 421,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The revert icon ",
+      "source_text": "The revert icon "
+    },
+    {
+      "id": "ece7b574c8bc",
+      "path": "embergen/pages/getting_started.html",
+      "start": 33427,
+      "end": 33510,
+      "line": 421,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " on the right side of the parameters will reset the parameter to its default value.",
+      "source_text": " on the right side of the parameters will reset the parameter to its default value."
+    },
+    {
+      "id": "223ca9160c7d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 33535,
+      "end": 33545,
+      "line": 422,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Favorites:",
+      "source_text": "Favorites:"
+    },
+    {
+      "id": "34608e362102",
+      "path": "embergen/pages/getting_started.html",
+      "start": 33554,
+      "end": 33706,
+      "line": 422,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This tab shows all the parameters that are marked as favorites. You can do this with any parameter from the Node Details tab by checking the star icon ",
+      "source_text": " This tab shows all the parameters that are marked as favorites. You can do this with any parameter from the Node Details tab by checking the star icon "
+    },
+    {
+      "id": "921e5526f519",
+      "path": "embergen/pages/getting_started.html",
+      "start": 33852,
+      "end": 33870,
+      "line": 422,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " right next to it.",
+      "source_text": " right next to it."
+    },
+    {
+      "id": "4fcef26cdec0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 33895,
+      "end": 33904,
+      "line": 423,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Timeline:",
+      "source_text": "Timeline:"
+    },
+    {
+      "id": "7863bed0b022",
+      "path": "embergen/pages/getting_started.html",
+      "start": 33913,
+      "end": 34012,
+      "line": 423,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This tab shows all the parameters with keyframing enabled. To learn about keyframes check out our ",
+      "source_text": " This tab shows all the parameters with keyframing enabled. To learn about keyframes check out our "
+    },
+    {
+      "id": "a5c5c64e69c9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 34141,
+      "end": 34159,
+      "line": 423,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "c51b1038106b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 34170,
+      "end": 34176,
+      "line": 423,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " page.",
+      "source_text": " page."
+    },
+    {
+      "id": "873397865331",
+      "path": "embergen/pages/getting_started.html",
+      "start": 34201,
+      "end": 34212,
+      "line": 424,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Randomized:",
+      "source_text": "Randomized:"
+    },
+    {
+      "id": "f7b688ae6a6b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 34221,
+      "end": 34398,
+      "line": 424,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " In this tab you can see and adjust the parameters selected for randomization. This can be used to create variations of your simulation. To choose a parameter for randomization ",
+      "source_text": " In this tab you can see and adjust the parameters selected for randomization. This can be used to create variations of your simulation. To choose a parameter for randomization "
+    },
+    {
+      "id": "fbe4ebff2114",
+      "path": "embergen/pages/getting_started.html",
+      "start": 34404,
+      "end": 34409,
+      "line": 424,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Shift",
+      "source_text": "Shift"
+    },
+    {
+      "id": "cea847f6c65a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 34566,
+      "end": 34580,
+      "line": 424,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " click on the ",
+      "source_text": " click on the "
+    },
+    {
+      "id": "d675495d5190",
+      "path": "embergen/pages/getting_started.html",
+      "start": 34740,
+      "end": 34801,
+      "line": 424,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon on the left. Randomized parameters are marked with the ",
+      "source_text": " icon on the left. Randomized parameters are marked with the "
+    },
+    {
+      "id": "d3115f7a0387",
+      "path": "embergen/pages/getting_started.html",
+      "start": 34967,
+      "end": 35010,
+      "line": 424,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " icon.  For more information check out our ",
+      "source_text": " icon.  For more information check out our "
+    },
+    {
+      "id": "69d4f1befbf6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 35133,
+      "end": 35146,
+      "line": 424,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "1d25185dcf67",
+      "path": "embergen/pages/getting_started.html",
+      "start": 35157,
+      "end": 35166,
+      "line": 424,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " section!",
+      "source_text": " section!"
+    },
+    {
+      "id": "bb367a95b4b5",
+      "path": "embergen/pages/getting_started.html",
+      "start": 35247,
+      "end": 35253,
+      "line": 428,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Voxels",
+      "source_text": "Voxels"
+    },
+    {
+      "id": "42fac50bea85",
+      "path": "embergen/pages/getting_started.html",
+      "start": 35338,
+      "end": 35352,
+      "line": 429,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "When pressing ",
+      "source_text": "When pressing "
+    },
+    {
+      "id": "0b76b9cb4a62",
+      "path": "embergen/pages/getting_started.html",
+      "start": 35362,
+      "end": 35380,
+      "line": 429,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " or selecting the ",
+      "source_text": " or selecting the "
+    },
+    {
+      "id": "82c9775c9a31",
+      "path": "embergen/pages/getting_started.html",
+      "start": 35384,
+      "end": 35396,
+      "line": 429,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "bounding box",
+      "source_text": "bounding box"
+    },
+    {
+      "id": "d23c16a660df",
+      "path": "embergen/pages/getting_started.html",
+      "start": 35401,
+      "end": 35416,
+      "line": 429,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " option in the ",
+      "source_text": " option in the "
+    },
+    {
+      "id": "a6c1ee687c93",
+      "path": "embergen/pages/getting_started.html",
+      "start": 35420,
+      "end": 35424,
+      "line": 429,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "view",
+      "source_text": "view"
+    },
+    {
+      "id": "ba1e84adefd1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 35429,
+      "end": 35524,
+      "line": 429,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " menu of the viewport. You will see a box appear containing the simulation. This is called the ",
+      "source_text": " menu of the viewport. You will see a box appear containing the simulation. This is called the "
+    },
+    {
+      "id": "8eb8b8e058c6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 35532,
+      "end": 35544,
+      "line": 429,
+      "parent_path": "section/section/section/p/strong",
+      "source_raw": "bounding box",
+      "source_text": "bounding box"
+    },
+    {
+      "id": "b0d59354aa85",
+      "path": "embergen/pages/getting_started.html",
+      "start": 35875,
+      "end": 35949,
+      "line": 437,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "b2a4f3f45dba",
+      "path": "embergen/pages/getting_started.html",
+      "start": 35976,
+      "end": 36008,
+      "line": 441,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "The bounding box is made out of ",
+      "source_text": "The bounding box is made out of "
+    },
+    {
+      "id": "d0a1d15ce74a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 36016,
+      "end": 36022,
+      "line": 441,
+      "parent_path": "section/section/section/p/strong",
+      "source_raw": "voxels",
+      "source_text": "voxels"
+    },
+    {
+      "id": "b747760f87a0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 36031,
+      "end": 36621,
+      "line": 441,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": ", you can think of those as three-dimensional pixels. Instead of containing red, green, or blue values. Voxels contain (by default) fuel, smoke, temperature, flames, and velocity values. So for thicker smoke, there is a higher smoke value in those voxels. Just like with pixels more voxels will give more details. The values will move through the voxels based on the forces that are applied to them in the software. For example, when setting the Gravity multiplier in the Force tab of the Simulation node from 100% to -100% the fire and smoke will start moving downwards instead of upwards.",
+      "source_text": ", you can think of those as three-dimensional pixels. Instead of containing red, green, or blue values. Voxels contain (by default) fuel, smoke, temperature, flames, and velocity values. So for thicker smoke, there is a higher smoke value in those voxels. Just like with pixels more voxels will give more details. The values will move through the voxels based on the forces that are applied to them in the software. For example, when setting the Gravity multiplier in the Force tab of the Simulation node from 100% to -100% the fire and smoke will start moving downwards instead of upwards."
+    },
+    {
+      "id": "3e29aa94028a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 36629,
+      "end": 36674,
+      "line": 442,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "To further explain voxels let’s run down the ",
+      "source_text": "To further explain voxels let’s run down the "
+    },
+    {
+      "id": "eab6acc1a05b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 36678,
+      "end": 36684,
+      "line": 442,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Domain",
+      "source_text": "Domain"
+    },
+    {
+      "id": "09590d4e63fe",
+      "path": "embergen/pages/getting_started.html",
+      "start": 36689,
+      "end": 36701,
+      "line": 442,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " tab in the ",
+      "source_text": " tab in the "
+    },
+    {
+      "id": "497f4af6c652",
+      "path": "embergen/pages/getting_started.html",
+      "start": 36705,
+      "end": 36715,
+      "line": 442,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "c62e97fd26ce",
+      "path": "embergen/pages/getting_started.html",
+      "start": 36720,
+      "end": 36726,
+      "line": 442,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "5aff834d471a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 36766,
+      "end": 36778,
+      "line": 444,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Current size",
+      "source_text": "Current size"
+    },
+    {
+      "id": "a79e3daa0903",
+      "path": "embergen/pages/getting_started.html",
+      "start": 36787,
+      "end": 36979,
+      "line": 444,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This shows the calculation of the number of voxels you have in the scene. More voxels mean a bigger bounding box and more detail. It also means a heavier simulation slowing down the software.",
+      "source_text": " This shows the calculation of the number of voxels you have in the scene. More voxels mean a bigger bounding box and more detail. It also means a heavier simulation slowing down the software."
+    },
+    {
+      "id": "6d5c9a0ddcef",
+      "path": "embergen/pages/getting_started.html",
+      "start": 37004,
+      "end": 37015,
+      "line": 445,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Voxel count",
+      "source_text": "Voxel count"
+    },
+    {
+      "id": "cfe608db5875",
+      "path": "embergen/pages/getting_started.html",
+      "start": 37024,
+      "end": 37421,
+      "line": 445,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " These values determine the number of voxels and the size of the bounding box. If a simulation is cut off and doesn’t fit in the bounding box you need to add more voxels here. If you have blank space within your bounding box, it’s good to reduce the number of unnecessary voxels to gain performance. When having entered a new value in one of these parameters you need to click the blinking yellow ",
+      "source_text": " These values determine the number of voxels and the size of the bounding box. If a simulation is cut off and doesn’t fit in the bounding box you need to add more voxels here. If you have blank space within your bounding box, it’s good to reduce the number of unnecessary voxels to gain performance. When having entered a new value in one of these parameters you need to click the blinking yellow "
+    },
+    {
+      "id": "e1c44ca208b5",
+      "path": "embergen/pages/getting_started.html",
+      "start": 37425,
+      "end": 37445,
+      "line": 445,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Apply New Resolution",
+      "source_text": "Apply New Resolution"
+    },
+    {
+      "id": "061192cc38a1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 37450,
+      "end": 37498,
+      "line": 445,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button to apply your changes to the simulation.",
+      "source_text": " button to apply your changes to the simulation."
+    },
+    {
+      "id": "b2ad8f134403",
+      "path": "embergen/pages/getting_started.html",
+      "start": 37523,
+      "end": 37533,
+      "line": 446,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Voxel size",
+      "source_text": "Voxel size"
+    },
+    {
+      "id": "746e6b030f91",
+      "path": "embergen/pages/getting_started.html",
+      "start": 37542,
+      "end": 37943,
+      "line": 446,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The space occupied by a voxel. Changing this parameter doesn’t change the voxel count, but does change the size of the bounding box. This parameter determines the global scale of the simulation. So when having a burning chair for example. Dividing the voxel size by 2 won’t change the scale of the chair, but will make the flames more detailed as if it’s more like a burning bench instead of a chair.",
+      "source_text": " The space occupied by a voxel. Changing this parameter doesn’t change the voxel count, but does change the size of the bounding box. This parameter determines the global scale of the simulation. So when having a burning chair for example. Dividing the voxel size by 2 won’t change the scale of the chair, but will make the flames more detailed as if it’s more like a burning bench instead of a chair."
+    },
+    {
+      "id": "c3d442cf0266",
+      "path": "embergen/pages/getting_started.html",
+      "start": 38268,
+      "end": 38342,
+      "line": 455,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "4d2b324c8e9e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 38601,
+      "end": 38610,
+      "line": 461,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Upscaling",
+      "source_text": "Upscaling"
+    },
+    {
+      "id": "3eed8de5b18c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 38619,
+      "end": 38897,
+      "line": 461,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This is a multiplier for the number of voxels. The size of the bounding box will remain as it is. This can be an easy way to add some detail when you’re about to finish the project. Note that multiplying the number of voxels will heavily impact the performance of the software.",
+      "source_text": " This is a multiplier for the number of voxels. The size of the bounding box will remain as it is. This can be an easy way to add some detail when you’re about to finish the project. Note that multiplying the number of voxels will heavily impact the performance of the software."
+    },
+    {
+      "id": "b5fb45c4e344",
+      "path": "embergen/pages/getting_started.html",
+      "start": 39221,
+      "end": 39295,
+      "line": 470,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "fb23f180bacb",
+      "path": "embergen/pages/getting_started.html",
+      "start": 39354,
+      "end": 39367,
+      "line": 475,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Fast upscaler",
+      "source_text": "Fast upscaler"
+    },
+    {
+      "id": "0b4f7582ef40",
+      "path": "embergen/pages/getting_started.html",
+      "start": 39376,
+      "end": 39522,
+      "line": 475,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " This method will just upscale the masking phase instead of doing a real upscale. Checking this will make the simulation faster but less detailed.",
+      "source_text": " This method will just upscale the masking phase instead of doing a real upscale. Checking this will make the simulation faster but less detailed."
+    },
+    {
+      "id": "56fa3d8e5eeb",
+      "path": "embergen/pages/getting_started.html",
+      "start": 39659,
+      "end": 39672,
+      "line": 479,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Zero position",
+      "source_text": "Zero position"
+    },
+    {
+      "id": "bea312dbf97c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 39681,
+      "end": 39852,
+      "line": 479,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The point on the axis from where the voxels are counted. For example, when using Center and adding voxels, they’ll be added equally to both sides of the axis. When using ",
+      "source_text": " The point on the axis from where the voxels are counted. For example, when using Center and adding voxels, they’ll be added equally to both sides of the axis. When using "
+    },
+    {
+      "id": "27d610ab991d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 39856,
+      "end": 39859,
+      "line": 479,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Min",
+      "source_text": "Min"
+    },
+    {
+      "id": "422220b1ab15",
+      "path": "embergen/pages/getting_started.html",
+      "start": 39864,
+      "end": 39923,
+      "line": 479,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " on for example the Z-axis voxels will be added to the top.",
+      "source_text": " on for example the Z-axis voxels will be added to the top."
+    },
+    {
+      "id": "fee57e8a7e65",
+      "path": "embergen/pages/getting_started.html",
+      "start": 40251,
+      "end": 40325,
+      "line": 488,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "b2d2c8a91f9f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 40384,
+      "end": 40398,
+      "line": 493,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Import control",
+      "source_text": "Import control"
+    },
+    {
+      "id": "c43b106dac30",
+      "path": "embergen/pages/getting_started.html",
+      "start": 40407,
+      "end": 40474,
+      "line": 493,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Allows you to parent the bounding box to an imported mesh or bone.",
+      "source_text": " Allows you to parent the bounding box to an imported mesh or bone."
+    },
+    {
+      "id": "6c04bfb6945c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 40499,
+      "end": 40514,
+      "line": 494,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Bounds position",
+      "source_text": "Bounds position"
+    },
+    {
+      "id": "6bb25f01ca9e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 40523,
+      "end": 40574,
+      "line": 494,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Sets the position of the bounding box in 3D space.",
+      "source_text": " Sets the position of the bounding box in 3D space."
+    },
+    {
+      "id": "cb2b13dcbaba",
+      "path": "embergen/pages/getting_started.html",
+      "start": 40633,
+      "end": 40645,
+      "line": 498,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Transforming",
+      "source_text": "Transforming"
+    },
+    {
+      "id": "c2fa65726b1d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 41050,
+      "end": 41124,
+      "line": 506,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "8a1f1745fdb8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 41151,
+      "end": 41278,
+      "line": 510,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Most object/nodes can be moved around in the scene using the position, rotation, or scale parameters or using the manipulators.",
+      "source_text": "Most object/nodes can be moved around in the scene using the position, rotation, or scale parameters or using the manipulators."
+    },
+    {
+      "id": "1ed5fca494c7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 41286,
+      "end": 41359,
+      "line": 511,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "A manipulator will pop up in the viewport when selecting a moveable node.",
+      "source_text": "A manipulator will pop up in the viewport when selecting a moveable node."
+    },
+    {
+      "id": "2c3b0507ae4d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 41367,
+      "end": 41425,
+      "line": 512,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "There are three manipulators, translate, rotate and scale.",
+      "source_text": "There are three manipulators, translate, rotate and scale."
+    },
+    {
+      "id": "5f94995298ef",
+      "path": "embergen/pages/getting_started.html",
+      "start": 41433,
+      "end": 41471,
+      "line": 513,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "They can be selected with the hotkeys ",
+      "source_text": "They can be selected with the hotkeys "
+    },
+    {
+      "id": "86d94bb60f8c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 41475,
+      "end": 41486,
+      "line": 513,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Q, W, and E",
+      "source_text": "Q, W, and E"
+    },
+    {
+      "id": "759d03b9c0ff",
+      "path": "embergen/pages/getting_started.html",
+      "start": 41491,
+      "end": 41639,
+      "line": 513,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " or with the manipulator switcher in the top left corner of the viewport. (if you don’t see the manipulator switcher, make sure it’s checked in the ",
+      "source_text": " or with the manipulator switcher in the top left corner of the viewport. (if you don’t see the manipulator switcher, make sure it’s checked in the "
+    },
+    {
+      "id": "eaad59b7fd86",
+      "path": "embergen/pages/getting_started.html",
+      "start": 41796,
+      "end": 41817,
+      "line": 513,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " View dropdown menu.)",
+      "source_text": " View dropdown menu.)"
+    },
+    {
+      "id": "ea9fc7020537",
+      "path": "embergen/pages/getting_started.html",
+      "start": 41825,
+      "end": 41866,
+      "line": 514,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "To control the manipulator handles, hold ",
+      "source_text": "To control the manipulator handles, hold "
+    },
+    {
+      "id": "8a779f376091",
+      "path": "embergen/pages/getting_started.html",
+      "start": 42013,
+      "end": 42023,
+      "line": 514,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " and drag.",
+      "source_text": " and drag."
+    },
+    {
+      "id": "c99b9dbf4b6c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 42064,
+      "end": 42069,
+      "line": 517,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Nodes",
+      "source_text": "Nodes"
+    },
+    {
+      "id": "318a5cebf666",
+      "path": "embergen/pages/getting_started.html",
+      "start": 42153,
+      "end": 42214,
+      "line": 518,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Let’s have a look at what the most important nodes are doing.",
+      "source_text": "Let’s have a look at what the most important nodes are doing."
+    },
+    {
+      "id": "038c55f2e194",
+      "path": "embergen/pages/getting_started.html",
+      "start": 42540,
+      "end": 42614,
+      "line": 526,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "db90d5444db9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 42839,
+      "end": 42847,
+      "line": 531,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Emitter",
+      "source_text": " Emitter"
+    },
+    {
+      "id": "98266febff43",
+      "path": "embergen/pages/getting_started.html",
+      "start": 42945,
+      "end": 43059,
+      "line": 532,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This node is responsible for filling the voxels with fuel, smoke, or temperature with the amount specified in the ",
+      "source_text": "This node is responsible for filling the voxels with fuel, smoke, or temperature with the amount specified in the "
+    },
+    {
+      "id": "729753cf6af2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43063,
+      "end": 43071,
+      "line": 532,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Emission",
+      "source_text": "Emission"
+    },
+    {
+      "id": "0e786efb9a22",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43076,
+      "end": 43081,
+      "line": 532,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "095051de6ef6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43089,
+      "end": 43164,
+      "line": 533,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Multiple emitters can be added to the simulation by connecting them to the ",
+      "source_text": "Multiple emitters can be added to the simulation by connecting them to the "
+    },
+    {
+      "id": "17ebc1190c41",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43168,
+      "end": 43176,
+      "line": 533,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Emitters",
+      "source_text": "Emitters"
+    },
+    {
+      "id": "828dbe0d0771",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43181,
+      "end": 43210,
+      "line": 533,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " pin on the left side of the ",
+      "source_text": " pin on the left side of the "
+    },
+    {
+      "id": "52ad8e42cce7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43372,
+      "end": 43382,
+      "line": 533,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "6f83175e503e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43387,
+      "end": 43393,
+      "line": 533,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "2886536dd968",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43401,
+      "end": 43465,
+      "line": 534,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The emitter needs something to emit from. That’s why there is a ",
+      "source_text": "The emitter needs something to emit from. That’s why there is a "
+    },
+    {
+      "id": "3ddbdf896d28",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43469,
+      "end": 43475,
+      "line": 534,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Shapes",
+      "source_text": "Shapes"
+    },
+    {
+      "id": "0ef2a9556b51",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43480,
+      "end": 43508,
+      "line": 534,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " pin on the left side of it.",
+      "source_text": " pin on the left side of it."
+    },
+    {
+      "id": "106775c43afb",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43516,
+      "end": 43611,
+      "line": 535,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The emission always comes from the connected shape, so a bigger shape also means more emission.",
+      "source_text": "The emission always comes from the connected shape, so a bigger shape also means more emission."
+    },
+    {
+      "id": "8cac9796008c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43809,
+      "end": 43816,
+      "line": 538,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Shapes",
+      "source_text": " Shapes"
+    },
+    {
+      "id": "0206bca3ffc9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43912,
+      "end": 43986,
+      "line": 539,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This is a category of nodes that add or modify geometry in the scene.\nThe ",
+      "source_text": "This is a category of nodes that add or modify geometry in the scene.\nThe "
+    },
+    {
+      "id": "3a1322247622",
+      "path": "embergen/pages/getting_started.html",
+      "start": 43990,
+      "end": 44006,
+      "line": 540,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Shape: Primitive",
+      "source_text": "Shape: Primitive"
+    },
+    {
+      "id": "63b5c1f10709",
+      "path": "embergen/pages/getting_started.html",
+      "start": 44181,
+      "end": 44232,
+      "line": 540,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node has a lot of options for basic shapes in the ",
+      "source_text": " node has a lot of options for basic shapes in the "
+    },
+    {
+      "id": "fcaae62e31b1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 44236,
+      "end": 44240,
+      "line": 540,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Type",
+      "source_text": "Type"
+    },
+    {
+      "id": "5018d9734fb6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 44245,
+      "end": 44260,
+      "line": 540,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " dropdown menu.",
+      "source_text": " dropdown menu."
+    },
+    {
+      "id": "6e0733ecc70b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 44583,
+      "end": 44657,
+      "line": 548,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "fd10b32513dc",
+      "path": "embergen/pages/getting_started.html",
+      "start": 44873,
+      "end": 44879,
+      "line": 554,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Force",
+      "source_text": " Force"
+    },
+    {
+      "id": "7ef21e8c4788",
+      "path": "embergen/pages/getting_started.html",
+      "start": 44974,
+      "end": 45185,
+      "line": 555,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This is a category of nodes that will alter the movement of the smoke or flames. For example, a Noise force will add a lot of random velocities to the simulation to make the smoke and flames look more turbulent.",
+      "source_text": "This is a category of nodes that will alter the movement of the smoke or flames. For example, a Noise force will add a lot of random velocities to the simulation to make the smoke and flames look more turbulent."
+    },
+    {
+      "id": "fee01c7cc1b9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 45193,
+      "end": 45244,
+      "line": 556,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "When a force is plugged into the forces pin of the ",
+      "source_text": "When a force is plugged into the forces pin of the "
+    },
+    {
+      "id": "99d716a2abf7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 45248,
+      "end": 45258,
+      "line": 556,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "4b7c7ab7ac5e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 45263,
+      "end": 45331,
+      "line": 556,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node it will affect the whole simulation. If it’s plugged into the ",
+      "source_text": " node it will affect the whole simulation. If it’s plugged into the "
+    },
+    {
+      "id": "6fe81f8c6946",
+      "path": "embergen/pages/getting_started.html",
+      "start": 45335,
+      "end": 45341,
+      "line": 556,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Forces",
+      "source_text": "Forces"
+    },
+    {
+      "id": "e639e94ebe4a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 45346,
+      "end": 45444,
+      "line": 556,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " pin of the emitter it will only affect the volume defined by the shape connected to that emitter.",
+      "source_text": " pin of the emitter it will only affect the volume defined by the shape connected to that emitter."
+    },
+    {
+      "id": "d59ab836d8ce",
+      "path": "embergen/pages/getting_started.html",
+      "start": 45662,
+      "end": 45673,
+      "line": 559,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Simulation",
+      "source_text": " Simulation"
+    },
+    {
+      "id": "954a378c0311",
+      "path": "embergen/pages/getting_started.html",
+      "start": 45777,
+      "end": 45925,
+      "line": 560,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The node where all the settings related to the global physics of the simulation are.\nThings like the weight of the smoke and how fast it dissipates.",
+      "source_text": "The node where all the settings related to the global physics of the simulation are.\nThings like the weight of the smoke and how fast it dissipates."
+    },
+    {
+      "id": "2103e386a006",
+      "path": "embergen/pages/getting_started.html",
+      "start": 45933,
+      "end": 45971,
+      "line": 562,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "There can only be one simulation node.",
+      "source_text": "There can only be one simulation node."
+    },
+    {
+      "id": "021ebbb64335",
+      "path": "embergen/pages/getting_started.html",
+      "start": 45979,
+      "end": 46078,
+      "line": 563,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Multiple Emitters, Forces, and Colliders can be connected to the pins on the left side of the node.",
+      "source_text": "Multiple Emitters, Forces, and Colliders can be connected to the pins on the left side of the node."
+    },
+    {
+      "id": "981200b2f9b1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 46396,
+      "end": 46470,
+      "line": 571,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "af4dfe218b45",
+      "path": "embergen/pages/getting_started.html",
+      "start": 46781,
+      "end": 46790,
+      "line": 581,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Collider",
+      "source_text": " Collider"
+    },
+    {
+      "id": "8ce015af5c4d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 46890,
+      "end": 46977,
+      "line": 582,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This will make the smoke or flames collide with the shape that’s plugged into the node.",
+      "source_text": "This will make the smoke or flames collide with the shape that’s plugged into the node."
+    },
+    {
+      "id": "155b1ecf56e3",
+      "path": "embergen/pages/getting_started.html",
+      "start": 47391,
+      "end": 47465,
+      "line": 594,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "da13dac0bf7b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 47745,
+      "end": 47752,
+      "line": 603,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Volume",
+      "source_text": " Volume"
+    },
+    {
+      "id": "deb019394c7a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 47848,
+      "end": 48027,
+      "line": 604,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Like pixels, voxels can undertake certain post-processing effects like sharpening. Unlike the Shading node, Volume modifies the values within the voxels to create certain effects.",
+      "source_text": "Like pixels, voxels can undertake certain post-processing effects like sharpening. Unlike the Shading node, Volume modifies the values within the voxels to create certain effects."
+    },
+    {
+      "id": "4b11e58d6254",
+      "path": "embergen/pages/getting_started.html",
+      "start": 48440,
+      "end": 48514,
+      "line": 616,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "c2fc4d34940f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 48736,
+      "end": 48744,
+      "line": 622,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Shading",
+      "source_text": " Shading"
+    },
+    {
+      "id": "5724c70e529f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 48842,
+      "end": 48970,
+      "line": 623,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This is where the settings are for how the volume reacts to light. Also, properties like fire- or smoke color can be found here.",
+      "source_text": "This is where the settings are for how the volume reacts to light. Also, properties like fire- or smoke color can be found here."
+    },
+    {
+      "id": "05b674a95a46",
+      "path": "embergen/pages/getting_started.html",
+      "start": 49230,
+      "end": 49236,
+      "line": 629,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Light",
+      "source_text": " Light"
+    },
+    {
+      "id": "59a6f979d2da",
+      "path": "embergen/pages/getting_started.html",
+      "start": 49652,
+      "end": 49726,
+      "line": 637,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "006940102930",
+      "path": "embergen/pages/getting_started.html",
+      "start": 49753,
+      "end": 49820,
+      "line": 641,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "A category of nodes that, as the name suggests, light up the scene.",
+      "source_text": "A category of nodes that, as the name suggests, light up the scene."
+    },
+    {
+      "id": "265b4b9498e8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 49828,
+      "end": 49905,
+      "line": 642,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Try adjusting the intensity slider in their Node Details to see what they do!",
+      "source_text": "Try adjusting the intensity slider in their Node Details to see what they do!"
+    },
+    {
+      "id": "2c55f0c0db67",
+      "path": "embergen/pages/getting_started.html",
+      "start": 50094,
+      "end": 50099,
+      "line": 644,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Point",
+      "source_text": "Point"
+    },
+    {
+      "id": "cfeebb821384",
+      "path": "embergen/pages/getting_started.html",
+      "start": 50108,
+      "end": 50185,
+      "line": 644,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is like a light bulb and will emit light from one adjustable point in space.",
+      "source_text": " is like a light bulb and will emit light from one adjustable point in space."
+    },
+    {
+      "id": "e1cfa3179d98",
+      "path": "embergen/pages/getting_started.html",
+      "start": 50355,
+      "end": 50359,
+      "line": 645,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Spot",
+      "source_text": "Spot"
+    },
+    {
+      "id": "87bdadeb9c54",
+      "path": "embergen/pages/getting_started.html",
+      "start": 50368,
+      "end": 50445,
+      "line": 645,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is like a spotlight you have in a theater emitting light in a conical shape.",
+      "source_text": " is like a spotlight you have in a theater emitting light in a conical shape."
+    },
+    {
+      "id": "297837475ea8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 50637,
+      "end": 50648,
+      "line": 646,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Directional",
+      "source_text": "Directional"
+    },
+    {
+      "id": "2b589fff758a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 50657,
+      "end": 50708,
+      "line": 646,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is a bit like the sun. Depending on the amount of ",
+      "source_text": " is a bit like the sun. Depending on the amount of "
+    },
+    {
+      "id": "bec229370003",
+      "path": "embergen/pages/getting_started.html",
+      "start": 50712,
+      "end": 50729,
+      "line": 646,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "inherit sun color",
+      "source_text": "inherit sun color"
+    },
+    {
+      "id": "602b495e3cf0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 50734,
+      "end": 50775,
+      "line": 646,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " it will change color based on its angle.",
+      "source_text": " it will change color based on its angle."
+    },
+    {
+      "id": "2c702f3b7d1d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 50955,
+      "end": 50962,
+      "line": 647,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Ambient",
+      "source_text": "Ambient"
+    },
+    {
+      "id": "c101e65528f4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 50971,
+      "end": 51074,
+      "line": 647,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is mimicking the reflection of the sky adding some light from every angle. Depending on the amount of ",
+      "source_text": " is mimicking the reflection of the sky adding some light from every angle. Depending on the amount of "
+    },
+    {
+      "id": "8fe18f3ddba2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 51078,
+      "end": 51095,
+      "line": 647,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "inherit sky color",
+      "source_text": "inherit sky color"
+    },
+    {
+      "id": "97d5fcc489d8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 51100,
+      "end": 51135,
+      "line": 647,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " it will change color based on the ",
+      "source_text": " it will change color based on the "
+    },
+    {
+      "id": "2128e5214470",
+      "path": "embergen/pages/getting_started.html",
+      "start": 51139,
+      "end": 51157,
+      "line": 647,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "directional lights",
+      "source_text": "directional lights"
+    },
+    {
+      "id": "7de6697671a4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 51162,
+      "end": 51169,
+      "line": 647,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " angle.",
+      "source_text": " angle."
+    },
+    {
+      "id": "7cd91c5e15d2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 51366,
+      "end": 51373,
+      "line": 651,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Skybox",
+      "source_text": " Skybox"
+    },
+    {
+      "id": "0f0ccf8b8ce8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 51643,
+      "end": 51717,
+      "line": 653,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This controls the type of sky in your scene. There are a few options here:",
+      "source_text": "This controls the type of sky in your scene. There are a few options here:"
+    },
+    {
+      "id": "a7ec5bdb970a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 51757,
+      "end": 51767,
+      "line": 655,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Atmosphere",
+      "source_text": "Atmosphere"
+    },
+    {
+      "id": "5b2a1faff119",
+      "path": "embergen/pages/getting_started.html",
+      "start": 51776,
+      "end": 51942,
+      "line": 655,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is the most advanced one mimicking a real sky. With any other option than Atmosphere, the inherit sky or sun colors won’t work for the ambient and directional light.",
+      "source_text": " is the most advanced one mimicking a real sky. With any other option than Atmosphere, the inherit sky or sun colors won’t work for the ambient and directional light."
+    },
+    {
+      "id": "81ad1789477f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 51967,
+      "end": 51980,
+      "line": 656,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Uniform Color",
+      "source_text": "Uniform Color"
+    },
+    {
+      "id": "040b60932f3c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 51989,
+      "end": 52035,
+      "line": 656,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will let you pick a single color for the sky.",
+      "source_text": " will let you pick a single color for the sky."
+    },
+    {
+      "id": "b79ca5fdc2ab",
+      "path": "embergen/pages/getting_started.html",
+      "start": 52060,
+      "end": 52065,
+      "line": 657,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Shade",
+      "source_text": "Shade"
+    },
+    {
+      "id": "8cadeff91392",
+      "path": "embergen/pages/getting_started.html",
+      "start": 52074,
+      "end": 52135,
+      "line": 657,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will turn the sky into a gradient from one color to another.",
+      "source_text": " will turn the sky into a gradient from one color to another."
+    },
+    {
+      "id": "581d90374274",
+      "path": "embergen/pages/getting_started.html",
+      "start": 52160,
+      "end": 52164,
+      "line": 658,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "None",
+      "source_text": "None"
+    },
+    {
+      "id": "1e85cda1051b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 52173,
+      "end": 52228,
+      "line": 658,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will turn the sky off resulting in a black background.",
+      "source_text": " will turn the sky off resulting in a black background."
+    },
+    {
+      "id": "15d2f5f586c0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 52437,
+      "end": 52444,
+      "line": 662,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Ground",
+      "source_text": " Ground"
+    },
+    {
+      "id": "78fc32ddaee8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 52540,
+      "end": 52624,
+      "line": 663,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This is where all the settings are related to the ground plane you see in the scene.",
+      "source_text": "This is where all the settings are related to the ground plane you see in the scene."
+    },
+    {
+      "id": "3b65fd8574a0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 52817,
+      "end": 52823,
+      "line": 666,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Scene",
+      "source_text": " Scene"
+    },
+    {
+      "id": "4f2cdf8e6e1b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 52917,
+      "end": 53026,
+      "line": 667,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This is where visual postprocessing effects can be applied to the scene. Like a vignette or color correction.",
+      "source_text": "This is where visual postprocessing effects can be applied to the scene. Like a vignette or color correction."
+    },
+    {
+      "id": "903d37ace84d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 53224,
+      "end": 53231,
+      "line": 670,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Render",
+      "source_text": " Render"
+    },
+    {
+      "id": "4971d78f663d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 53653,
+      "end": 53727,
+      "line": 678,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "e16c69462397",
+      "path": "embergen/pages/getting_started.html",
+      "start": 53754,
+      "end": 53758,
+      "line": 682,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "cf83b4e5fc7d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 53762,
+      "end": 53768,
+      "line": 682,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Render",
+      "source_text": "Render"
+    },
+    {
+      "id": "f3029d8839ae",
+      "path": "embergen/pages/getting_started.html",
+      "start": 53773,
+      "end": 53971,
+      "line": 682,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node contains settings for exporting a final render. Among many\nother options, you can select the render passes here. For the full list of render passes\nand an explanation of what they are see our ",
+      "source_text": " node contains settings for exporting a final render. Among many\nother options, you can select the render passes here. For the full list of render passes\nand an explanation of what they are see our "
+    },
+    {
+      "id": "3aaf8f55b5a5",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54074,
+      "end": 54095,
+      "line": 684,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "Render Passes section",
+      "source_text": "Render Passes section"
+    },
+    {
+      "id": "597d70eca25b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54115,
+      "end": 54161,
+      "line": 685,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "To try the default export settings select the ",
+      "source_text": "To try the default export settings select the "
+    },
+    {
+      "id": "bb3995f472c4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54165,
+      "end": 54171,
+      "line": 685,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Render",
+      "source_text": "Render"
+    },
+    {
+      "id": "c2efb0e1d8bf",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54176,
+      "end": 54252,
+      "line": 685,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node (or create one if it doesn’t exist)\nand make sure it’s connected to a ",
+      "source_text": " node (or create one if it doesn’t exist)\nand make sure it’s connected to a "
+    },
+    {
+      "id": "6cfcd53c19c2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54256,
+      "end": 54261,
+      "line": 686,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Scene",
+      "source_text": "Scene"
+    },
+    {
+      "id": "804b8bdbb3f0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54266,
+      "end": 54271,
+      "line": 686,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "79c43a63a4cb",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54275,
+      "end": 54281,
+      "line": 686,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "019c9faba7dd",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54286,
+      "end": 54308,
+      "line": 686,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node. Then specify a\n",
+      "source_text": " node. Then specify a\n"
+    },
+    {
+      "id": "7a89617fbaca",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54312,
+      "end": 54321,
+      "line": 687,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Directory",
+      "source_text": "Directory"
+    },
+    {
+      "id": "b85a5816e764",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54326,
+      "end": 54348,
+      "line": 687,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " and optionally set a ",
+      "source_text": " and optionally set a "
+    },
+    {
+      "id": "11d983ffb7b7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54352,
+      "end": 54360,
+      "line": 687,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Filename",
+      "source_text": "Filename"
+    },
+    {
+      "id": "c4e182303f1e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54365,
+      "end": 54402,
+      "line": 687,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " and file format. Finally, click the\n",
+      "source_text": " and file format. Finally, click the\n"
+    },
+    {
+      "id": "74ca610478d5",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54406,
+      "end": 54416,
+      "line": 688,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Export Now",
+      "source_text": "Export Now"
+    },
+    {
+      "id": "ec1b922c739a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54421,
+      "end": 54429,
+      "line": 688,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " button.",
+      "source_text": " button."
+    },
+    {
+      "id": "5fc36e7c6fc8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54437,
+      "end": 54529,
+      "line": 689,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "There are quite a few options when it comes to exporting which are covered in\ndetail in the ",
+      "source_text": "There are quite a few options when it comes to exporting which are covered in\ndetail in the "
+    },
+    {
+      "id": "268f145eda5c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54628,
+      "end": 54639,
+      "line": 690,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "Render Node",
+      "source_text": "Render Node"
+    },
+    {
+      "id": "5bf742c807f5",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54650,
+      "end": 54783,
+      "line": 690,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " reference documentation. With the default settings, just the RGB color and the alpha channel will be exported into one png flipbook.",
+      "source_text": " reference documentation. With the default settings, just the RGB color and the alpha channel will be exported into one png flipbook."
+    },
+    {
+      "id": "d9754d163bb4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54791,
+      "end": 54888,
+      "line": 691,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "Flipbooks are a format used in games to get the whole effect into one image texture, If you pick ",
+      "source_text": "Flipbooks are a format used in games to get the whole effect into one image texture, If you pick "
+    },
+    {
+      "id": "2d399c8fb3b0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54892,
+      "end": 54900,
+      "line": 691,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Sequence",
+      "source_text": "Sequence"
+    },
+    {
+      "id": "1ff044304080",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54905,
+      "end": 54921,
+      "line": 691,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " instead as the ",
+      "source_text": " instead as the "
+    },
+    {
+      "id": "0fd3e63129cb",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54925,
+      "end": 54936,
+      "line": 691,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Export Mode",
+      "source_text": "Export Mode"
+    },
+    {
+      "id": "0fbfe4a89bbd",
+      "path": "embergen/pages/getting_started.html",
+      "start": 54941,
+      "end": 55059,
+      "line": 691,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": ", you can export an image sequence which means you will get a file for every frame. This is more commonly used in VFX.",
+      "source_text": ", you can export an image sequence which means you will get a file for every frame. This is more commonly used in VFX."
+    },
+    {
+      "id": "ac5648ffdd43",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55408,
+      "end": 55482,
+      "line": 699,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "6bc5264401d2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55509,
+      "end": 55513,
+      "line": 703,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "353a50b83ae0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55517,
+      "end": 55530,
+      "line": 703,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Render Passes",
+      "source_text": "Render Passes"
+    },
+    {
+      "id": "11588ada0240",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55535,
+      "end": 55551,
+      "line": 703,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab contains a ",
+      "source_text": " tab contains a "
+    },
+    {
+      "id": "f12b85a58044",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55555,
+      "end": 55561,
+      "line": 703,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Source",
+      "source_text": "Source"
+    },
+    {
+      "id": "146884ae27d8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55566,
+      "end": 55573,
+      "line": 703,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " and a ",
+      "source_text": " and a "
+    },
+    {
+      "id": "9d54e9abaa22",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55577,
+      "end": 55588,
+      "line": 703,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Destination",
+      "source_text": "Destination"
+    },
+    {
+      "id": "7c0d472370a4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55593,
+      "end": 55606,
+      "line": 703,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " column. The ",
+      "source_text": " column. The "
+    },
+    {
+      "id": "edb07d1ef7a7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55610,
+      "end": 55616,
+      "line": 703,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Source",
+      "source_text": "Source"
+    },
+    {
+      "id": "e878fa414c3b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55621,
+      "end": 55679,
+      "line": 703,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " column contains the render passes from Embergen, and the ",
+      "source_text": " column contains the render passes from Embergen, and the "
+    },
+    {
+      "id": "552237a08b23",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55683,
+      "end": 55694,
+      "line": 703,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Destination",
+      "source_text": "Destination"
+    },
+    {
+      "id": "d7faa5c07184",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55699,
+      "end": 55756,
+      "line": 703,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " column represents the outgoing files/render layers. The ",
+      "source_text": " column represents the outgoing files/render layers. The "
+    },
+    {
+      "id": "ace1f02d4a7c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55760,
+      "end": 55770,
+      "line": 703,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "R, G, B, A",
+      "source_text": "R, G, B, A"
+    },
+    {
+      "id": "3e3ed6131c90",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55775,
+      "end": 55825,
+      "line": 703,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " knobs represent the color and luminance channels.",
+      "source_text": " knobs represent the color and luminance channels."
+    },
+    {
+      "id": "cdd1d49c585b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55833,
+      "end": 55903,
+      "line": 704,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This interface allows for all sorts of workflows and channel mappings!",
+      "source_text": "This interface allows for all sorts of workflows and channel mappings!"
+    },
+    {
+      "id": "b0cca940b6b8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 55911,
+      "end": 56102,
+      "line": 705,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "You may notice that the shapes don’t appear in the render. This is the default setting since usually, only the effect has to be exported.\nYou can set the shapes rendering options also in the ",
+      "source_text": "You may notice that the shapes don’t appear in the render. This is the default setting since usually, only the effect has to be exported.\nYou can set the shapes rendering options also in the "
+    },
+    {
+      "id": "c8a76e97c243",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56106,
+      "end": 56112,
+      "line": 706,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Render",
+      "source_text": "Render"
+    },
+    {
+      "id": "7dce64099d22",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56117,
+      "end": 56153,
+      "line": 706,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node by picking an option from the ",
+      "source_text": " node by picking an option from the "
+    },
+    {
+      "id": "35ffc9d9f82a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56157,
+      "end": 56173,
+      "line": 706,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Shapes Rendering",
+      "source_text": "Shapes Rendering"
+    },
+    {
+      "id": "ff123805a8f4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56178,
+      "end": 56200,
+      "line": 706,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " dropdown menu in\nthe ",
+      "source_text": " dropdown menu in\nthe "
+    },
+    {
+      "id": "e2f43a4a9824",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56204,
+      "end": 56219,
+      "line": 707,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Render Settings",
+      "source_text": "Render Settings"
+    },
+    {
+      "id": "b6829159db25",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56224,
+      "end": 56229,
+      "line": 707,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "d345cccf8052",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56237,
+      "end": 56268,
+      "line": 708,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "When you’re all set, click the ",
+      "source_text": "When you’re all set, click the "
+    },
+    {
+      "id": "0c728921836c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56272,
+      "end": 56282,
+      "line": 708,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Export Now",
+      "source_text": "Export Now"
+    },
+    {
+      "id": "85338235872e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56287,
+      "end": 56333,
+      "line": 708,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " button to export the files to your directory!",
+      "source_text": " button to export the files to your directory!"
+    },
+    {
+      "id": "823108c311d3",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56531,
+      "end": 56538,
+      "line": 711,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Camera",
+      "source_text": " Camera"
+    },
+    {
+      "id": "220321aa2e43",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56634,
+      "end": 56695,
+      "line": 712,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "This is what you’re looking through when rendering the scene.",
+      "source_text": "This is what you’re looking through when rendering the scene."
+    },
+    {
+      "id": "73c928f3a3a0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56703,
+      "end": 56747,
+      "line": 713,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "You can use a camera by selecting it in the ",
+      "source_text": "You can use a camera by selecting it in the "
+    },
+    {
+      "id": "d9a709312d13",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56902,
+      "end": 56968,
+      "line": 713,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " camera dropdown menu on top of the viewport. Or by selecting the ",
+      "source_text": " camera dropdown menu on top of the viewport. Or by selecting the "
+    },
+    {
+      "id": "2be9e1b5f699",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56972,
+      "end": 56978,
+      "line": 713,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "b7bb12f0e9a1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 56983,
+      "end": 57006,
+      "line": 713,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node and clicking the ",
+      "source_text": " node and clicking the "
+    },
+    {
+      "id": "7787b89bab20",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57010,
+      "end": 57018,
+      "line": 713,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Activate",
+      "source_text": "Activate"
+    },
+    {
+      "id": "0ed134bf770a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57023,
+      "end": 57038,
+      "line": 713,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " button in the ",
+      "source_text": " button in the "
+    },
+    {
+      "id": "48a1c37a507f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57042,
+      "end": 57049,
+      "line": 713,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "General",
+      "source_text": "General"
+    },
+    {
+      "id": "5143fb636c97",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57054,
+      "end": 57059,
+      "line": 713,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "47e60d761190",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57075,
+      "end": 57166,
+      "line": 714,
+      "parent_path": "section/section/section/p/strong",
+      "source_raw": "The camera that is connected to the Render node determines the viewed angle for the export.",
+      "source_text": "The camera that is connected to the Render node determines the viewed angle for the export."
+    },
+    {
+      "id": "7ee3c5494267",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57183,
+      "end": 57190,
+      "line": 715,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "In the ",
+      "source_text": "In the "
+    },
+    {
+      "id": "57b16494ce34",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57194,
+      "end": 57203,
+      "line": 715,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Transform",
+      "source_text": "Transform"
+    },
+    {
+      "id": "7129069b29c1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57208,
+      "end": 57363,
+      "line": 715,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab, you can specify the position and rotation of the camera. But you can also do this by navigating around the viewport when looking through your camera.",
+      "source_text": " tab, you can specify the position and rotation of the camera. But you can also do this by navigating around the viewport when looking through your camera."
+    },
+    {
+      "id": "3e1b32b35b98",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57371,
+      "end": 57423,
+      "line": 716,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "When you are happy with the camera position you can ",
+      "source_text": "When you are happy with the camera position you can "
+    },
+    {
+      "id": "00df5c0f1966",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57431,
+      "end": 57435,
+      "line": 716,
+      "parent_path": "section/section/section/p/strong",
+      "source_raw": "lock",
+      "source_text": "lock"
+    },
+    {
+      "id": "c52a1f14cfcb",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57444,
+      "end": 57463,
+      "line": 716,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " the camera in the ",
+      "source_text": " the camera in the "
+    },
+    {
+      "id": "ddba21cfbff1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57467,
+      "end": 57474,
+      "line": 716,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "General",
+      "source_text": "General"
+    },
+    {
+      "id": "195d9afd003d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57479,
+      "end": 57518,
+      "line": 716,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab so you can’t accidentally move it.",
+      "source_text": " tab so you can’t accidentally move it."
+    },
+    {
+      "id": "ac0a282a9b31",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57526,
+      "end": 57530,
+      "line": 717,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "221079f66c70",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57534,
+      "end": 57552,
+      "line": 717,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Display Resolution",
+      "source_text": "Display Resolution"
+    },
+    {
+      "id": "70a06a3ef3c8",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57557,
+      "end": 57575,
+      "line": 717,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "a71f3c3aacbb",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57579,
+      "end": 57586,
+      "line": 717,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Display",
+      "source_text": "Display"
+    },
+    {
+      "id": "ffc5201af1fa",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57591,
+      "end": 57738,
+      "line": 717,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab specifies the aspect ratio of the camera. You can visually see this in the viewport. Don’t forget to set this to the same aspect ratio as the ",
+      "source_text": " tab specifies the aspect ratio of the camera. You can visually see this in the viewport. Don’t forget to set this to the same aspect ratio as the "
+    },
+    {
+      "id": "91cf9b4872bd",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57742,
+      "end": 57748,
+      "line": 717,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Render",
+      "source_text": "Render"
+    },
+    {
+      "id": "8cf13b51279d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57753,
+      "end": 57782,
+      "line": 717,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " node to get correct results.",
+      "source_text": " node to get correct results."
+    },
+    {
+      "id": "1770c331beb7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57790,
+      "end": 57794,
+      "line": 718,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "8f2e2ae4e0a2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57798,
+      "end": 57811,
+      "line": 718,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Field Of View",
+      "source_text": "Field Of View"
+    },
+    {
+      "id": "3ef86b34d7d2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57816,
+      "end": 57834,
+      "line": 718,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "65dc61f4c12b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57838,
+      "end": 57845,
+      "line": 718,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Display",
+      "source_text": "Display"
+    },
+    {
+      "id": "ae2adabccae7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 57850,
+      "end": 57969,
+      "line": 718,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": " tab will specify the angle at which objects are visible to the camera. Adjusting this is like zooming with a telelens.",
+      "source_text": " tab will specify the angle at which objects are visible to the camera. Adjusting this is like zooming with a telelens."
+    },
+    {
+      "id": "aeb6d17f85e3",
+      "path": "embergen/pages/getting_started.html",
+      "start": 58172,
+      "end": 58183,
+      "line": 721,
+      "parent_path": "section/section/section/section/h4",
+      "source_raw": " Export VDB",
+      "source_text": " Export VDB"
+    },
+    {
+      "id": "a51a346aa483",
+      "path": "embergen/pages/getting_started.html",
+      "start": 58600,
+      "end": 58674,
+      "line": 729,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "a139ed39ae72",
+      "path": "embergen/pages/getting_started.html",
+      "start": 58701,
+      "end": 58852,
+      "line": 733,
+      "parent_path": "section/section/section/section/p",
+      "source_raw": "If you want to render your simulation in a different software you can export it to VDB. This format can be read by other software like Maya or Blender.",
+      "source_text": "If you want to render your simulation in a different software you can export it to VDB. This format can be read by other software like Maya or Blender."
+    },
+    {
+      "id": "b0ac5279cfa3",
+      "path": "embergen/pages/getting_started.html",
+      "start": 58868,
+      "end": 58955,
+      "line": 734,
+      "parent_path": "section/section/section/p/strong",
+      "source_raw": "The Export VDB node needs to be connected to the VDB pin of the Volume Processing node.",
+      "source_text": "The Export VDB node needs to be connected to the VDB pin of the Volume Processing node."
+    },
+    {
+      "id": "1dde1805b8f0",
+      "path": "embergen/pages/getting_started.html",
+      "start": 59021,
+      "end": 59031,
+      "line": 738,
+      "parent_path": "article/section/section/section/h3",
+      "source_raw": "Continuing",
+      "source_text": "Continuing"
+    },
+    {
+      "id": "eee919425479",
+      "path": "embergen/pages/getting_started.html",
+      "start": 59120,
+      "end": 59180,
+      "line": 739,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "You should now have a basic overview of how to use Embergen.",
+      "source_text": "You should now have a basic overview of how to use Embergen."
+    },
+    {
+      "id": "ffb20b864d85",
+      "path": "embergen/pages/getting_started.html",
+      "start": 59188,
+      "end": 59229,
+      "line": 740,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you want more specific information on ",
+      "source_text": "If you want more specific information on "
+    },
+    {
+      "id": "6e07d1a52cef",
+      "path": "embergen/pages/getting_started.html",
+      "start": 59348,
+      "end": 59353,
+      "line": 740,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "nodes",
+      "source_text": "nodes"
+    },
+    {
+      "id": "535a2b3106f1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 59397,
+      "end": 59411,
+      "line": 740,
+      "parent_path": "section/section/section/p/span",
+      "source_raw": "user interface",
+      "source_text": "user interface"
+    },
+    {
+      "id": "bdf5888b44db",
+      "path": "embergen/pages/getting_started.html",
+      "start": 59517,
+      "end": 59525,
+      "line": 740,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "settings",
+      "source_text": "settings"
+    },
+    {
+      "id": "e185440f2f3c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 59536,
+      "end": 59591,
+      "line": 740,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": ",  or how to do particular things please check out our ",
+      "source_text": ",  or how to do particular things please check out our "
+    },
+    {
+      "id": "08a46a1ad522",
+      "path": "embergen/pages/getting_started.html",
+      "start": 59708,
+      "end": 59718,
+      "line": 740,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "c4a2dd72969c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 59729,
+      "end": 59735,
+      "line": 740,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " page.",
+      "source_text": " page."
+    },
+    {
+      "id": "7a20803f54b9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 59937,
+      "end": 59955,
+      "line": 742,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you’re new the ",
+      "source_text": "If you’re new the "
+    },
+    {
+      "id": "5fe664f354b6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 59959,
+      "end": 59964,
+      "line": 742,
+      "parent_path": "section/section/section/p/em",
+      "source_raw": "Learn",
+      "source_text": "Learn"
+    },
+    {
+      "id": "eb346fbafa0e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 59969,
+      "end": 60005,
+      "line": 742,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " tab in the Project Manager and our ",
+      "source_text": " tab in the Project Manager and our "
+    },
+    {
+      "id": "38355d11ba63",
+      "path": "embergen/pages/getting_started.html",
+      "start": 60079,
+      "end": 60094,
+      "line": 742,
+      "parent_path": "section/section/section/p/a",
+      "source_raw": "YouTube channel",
+      "source_text": "YouTube channel"
+    },
+    {
+      "id": "8f6b7a980de1",
+      "path": "embergen/pages/getting_started.html",
+      "start": 60098,
+      "end": 60124,
+      "line": 742,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": " are good places to visit.",
+      "source_text": " are good places to visit."
+    },
+    {
+      "id": "58cb649d8c20",
+      "path": "embergen/pages/getting_started.html",
+      "start": 60132,
+      "end": 60244,
+      "line": 743,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "You can also learn a lot by opening the presets shipped with Embergen and having a look at how they were set up.",
+      "source_text": "You can also learn a lot by opening the presets shipped with Embergen and having a look at how they were set up."
+    },
+    {
+      "id": "fbfe58bd25c7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 60252,
+      "end": 60426,
+      "line": 744,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Another great way of learning is to just try everything out! Since Embergen simulates so fast it’s often easy to see what a certain parameter does by just changing its value.",
+      "source_text": "Another great way of learning is to just try everything out! Since Embergen simulates so fast it’s often easy to see what a certain parameter does by just changing its value."
+    },
+    {
+      "id": "94bac5bf3d1a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 60434,
+      "end": 60533,
+      "line": 745,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Don’t forget you can leave your cursor on any parameter name to get an explanation of what it does.",
+      "source_text": "Don’t forget you can leave your cursor on any parameter name to get an explanation of what it does."
+    },
+    {
+      "id": "9abf3a5c1cd9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 60541,
+      "end": 60619,
+      "line": 746,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "If you want to showcase something or ask for help, don’t hesitate to join our ",
+      "source_text": "If you want to showcase something or ask for help, don’t hesitate to join our "
+    },
+    {
+      "id": "2a9c8bd854a4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 60691,
+      "end": 60705,
+      "line": 746,
+      "parent_path": "section/section/section/p/a",
+      "source_raw": "discord server",
+      "source_text": "discord server"
+    },
+    {
+      "id": "f2161d2cc256",
+      "path": "embergen/pages/getting_started.html",
+      "start": 60717,
+      "end": 60745,
+      "line": 747,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "Good luck learning Embergen,",
+      "source_text": "Good luck learning Embergen,"
+    },
+    {
+      "id": "be5bea68a9f5",
+      "path": "embergen/pages/getting_started.html",
+      "start": 60753,
+      "end": 60812,
+      "line": 748,
+      "parent_path": "article/section/section/section/p",
+      "source_raw": "we can’t wait to see what amazing effects you’ll be making!",
+      "source_text": "we can’t wait to see what amazing effects you’ll be making!"
+    },
+    {
+      "id": "8e73079dd89a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 61094,
+      "end": 61168,
+      "line": 756,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "38f2d5dcff0a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 61479,
+      "end": 61483,
+      "line": 772,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "166affdc7e47",
+      "path": "embergen/pages/getting_started.html",
+      "start": 61549,
+      "end": 61559,
+      "line": 774,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "2c84af98c7e3",
+      "path": "embergen/pages/getting_started.html",
+      "start": 61931,
+      "end": 61939,
+      "line": 782,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "f321e73494dc",
+      "path": "embergen/pages/getting_started.html",
+      "start": 62022,
+      "end": 62044,
+      "line": 785,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "02ff3043cac9",
+      "path": "embergen/pages/getting_started.html",
+      "start": 62230,
+      "end": 62290,
+      "line": 792,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "9553acb38615",
+      "path": "embergen/pages/getting_started.html",
+      "start": 62296,
+      "end": 62319,
+      "line": 794,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "4ffd8943fca2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 62357,
+      "end": 62363,
+      "line": 795,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "464a84af7123",
+      "path": "embergen/pages/getting_started.html",
+      "start": 62367,
+      "end": 62372,
+      "line": 795,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "3b78b2d3fda4",
+      "path": "embergen/pages/getting_started.html",
+      "start": 62422,
+      "end": 62432,
+      "line": 795,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "8f4699d07891",
+      "path": "embergen/pages/getting_started.html",
+      "start": 62436,
+      "end": 62464,
+      "line": 795,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "9b34f46efe2a",
+      "path": "embergen/pages/getting_started.html",
+      "start": 62508,
+      "end": 62512,
+      "line": 797,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "941f28fbcd08",
+      "path": "embergen/pages/getting_started.html",
+      "start": 62829,
+      "end": 62865,
+      "line": 812,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "92a00eec2c81",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63022,
+      "end": 63037,
+      "line": 819,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "8a9063e5d9be",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63108,
+      "end": 63127,
+      "line": 820,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Installing EmberGen",
+      "source_text": "Installing EmberGen"
+    },
+    {
+      "id": "3801639b3ad6",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63187,
+      "end": 63195,
+      "line": 821,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Download",
+      "source_text": "Download"
+    },
+    {
+      "id": "fbf6e9ed7a42",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63258,
+      "end": 63268,
+      "line": 822,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Installing",
+      "source_text": "Installing"
+    },
+    {
+      "id": "8e8f42a637ec",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63342,
+      "end": 63351,
+      "line": 825,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Licensing",
+      "source_text": "Licensing"
+    },
+    {
+      "id": "ffad6755a316",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63418,
+      "end": 63432,
+      "line": 826,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Using Embergen",
+      "source_text": "Using Embergen"
+    },
+    {
+      "id": "2e49712c992b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63499,
+      "end": 63514,
+      "line": 827,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Project Manager",
+      "source_text": "Project Manager"
+    },
+    {
+      "id": "58ad03b00e68",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63581,
+      "end": 63595,
+      "line": 828,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "0dc7e37db84e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63656,
+      "end": 63664,
+      "line": 829,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Viewport",
+      "source_text": "Viewport"
+    },
+    {
+      "id": "c13a0e333d3f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63732,
+      "end": 63747,
+      "line": 830,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Timeline Editor",
+      "source_text": "Timeline Editor"
+    },
+    {
+      "id": "1e9e346360fe",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63810,
+      "end": 63820,
+      "line": 831,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node Graph",
+      "source_text": "Node Graph"
+    },
+    {
+      "id": "53ec66e80f1e",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63889,
+      "end": 63905,
+      "line": 832,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Properties Panel",
+      "source_text": "Properties Panel"
+    },
+    {
+      "id": "06fc56ff9e77",
+      "path": "embergen/pages/getting_started.html",
+      "start": 63964,
+      "end": 63970,
+      "line": 833,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Voxels",
+      "source_text": "Voxels"
+    },
+    {
+      "id": "70bc142a1635",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64035,
+      "end": 64047,
+      "line": 834,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Transforming",
+      "source_text": "Transforming"
+    },
+    {
+      "id": "9d6993e16416",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64105,
+      "end": 64110,
+      "line": 835,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Nodes",
+      "source_text": "Nodes"
+    },
+    {
+      "id": "d3439d3fa53c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64181,
+      "end": 64189,
+      "line": 836,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Emitter",
+      "source_text": " Emitter"
+    },
+    {
+      "id": "a98dc6a6806f",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64259,
+      "end": 64266,
+      "line": 837,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Shapes",
+      "source_text": " Shapes"
+    },
+    {
+      "id": "52d854085a0b",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64335,
+      "end": 64341,
+      "line": 838,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Force",
+      "source_text": " Force"
+    },
+    {
+      "id": "e12d77211128",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64419,
+      "end": 64430,
+      "line": 839,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Simulation",
+      "source_text": " Simulation"
+    },
+    {
+      "id": "36b36a14ed0d",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64504,
+      "end": 64513,
+      "line": 840,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Collider",
+      "source_text": " Collider"
+    },
+    {
+      "id": "619601356984",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64583,
+      "end": 64590,
+      "line": 841,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Volume",
+      "source_text": " Volume"
+    },
+    {
+      "id": "9f414f505c26",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64662,
+      "end": 64670,
+      "line": 842,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Shading",
+      "source_text": " Shading"
+    },
+    {
+      "id": "0b4ea12ec5f7",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64739,
+      "end": 64745,
+      "line": 843,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Light",
+      "source_text": " Light"
+    },
+    {
+      "id": "6b746261ad27",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64812,
+      "end": 64819,
+      "line": 844,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Skybox",
+      "source_text": " Skybox"
+    },
+    {
+      "id": "f082857214d2",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64889,
+      "end": 64896,
+      "line": 845,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Ground",
+      "source_text": " Ground"
+    },
+    {
+      "id": "2e71d8a4fd7c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 64964,
+      "end": 64970,
+      "line": 846,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Scene",
+      "source_text": " Scene"
+    },
+    {
+      "id": "5e891bc93c66",
+      "path": "embergen/pages/getting_started.html",
+      "start": 65040,
+      "end": 65047,
+      "line": 847,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Render",
+      "source_text": " Render"
+    },
+    {
+      "id": "00fd2d1d7196",
+      "path": "embergen/pages/getting_started.html",
+      "start": 65117,
+      "end": 65124,
+      "line": 848,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Camera",
+      "source_text": " Camera"
+    },
+    {
+      "id": "d422ee1633fa",
+      "path": "embergen/pages/getting_started.html",
+      "start": 65201,
+      "end": 65212,
+      "line": 849,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": " Export VDB",
+      "source_text": " Export VDB"
+    },
+    {
+      "id": "85a659db424c",
+      "path": "embergen/pages/getting_started.html",
+      "start": 65287,
+      "end": 65297,
+      "line": 852,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Continuing",
+      "source_text": "Continuing"
+    }
+  ]
+}

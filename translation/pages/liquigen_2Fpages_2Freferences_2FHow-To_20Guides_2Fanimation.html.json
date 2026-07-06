@@ -1,0 +1,1711 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/animation.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "b70728f3023f",
+      "source": "Keyframe Animation - JangaFX Documentation",
+      "target": "关键帧动画 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "bc91ec76f8e3",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "600d76569432",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "77666a723cd6",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "be614aa145c1",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "9e05defd030e",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "83f053d2f73e",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "86e92647177c",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "3d7cc20c585f",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "8e21f69a92ee",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "a000ca7c9b05",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "00743871c2a0",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "8e9d6f3a2490",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "ba86992eee40",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "aecc0d0bdcc5",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "c362e764d43d",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "afed52d9cb28",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "249b846c656f",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "b11713404c9a",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "5df068c7cffb",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "b1870a4afe45",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "f05e06640980",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "986ea7e3f972",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "f9c51ac330b4",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "a5ebf97783bd",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "1b31e72fb1f9",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "f6a4e5c6e37e",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "7a19e835a2af",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "351eb688508d",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "8de29896b55f",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "53a39a6e88c5",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "380981d68bc9",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "fc6ef4027590",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "985916dea39d",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "71256b0c7a3a",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "e10ed1b07c39",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "1cfe918779fc",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "082dd52fbf15",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "893300c18737",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "50f6825b0745",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "39fe638d52c6",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "21262507f84d",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "8495592a854d",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "a67d086acaa6",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "c8f668477447",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "66c09eb069c0",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "ae62e55b90d2",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "42bd829d474c",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "edd8cf83790c",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "eb529b12df89",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "747599fa917b",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "720e6e43bf22",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "9930fa487ea3",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "55eaabc7aa4c",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "3f6af6606b7e",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "bf3562ed1e01",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "4e8bd4ff6b9b",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "b69f0a79c68c",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "fb28cff91c51",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "04313c58eee9",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "12400a581c40",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "ac4b8530537e",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "3332d9094e8a",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "8fdefd51cf3f",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "fd00e481cfa1",
+      "source": "Setting Keyframes",
+      "target": "设置关键帧",
+      "note": ""
+    },
+    {
+      "id": "b43fc1234af6",
+      "source": "Let’s get moving!",
+      "target": "让我们让它动起来！",
+      "note": ""
+    },
+    {
+      "id": "3abfcb415486",
+      "source": "Most parameters in LiquiGen can have keyframe animation. This means you can set values on specific frames resulting in a parameter that can change over time.",
+      "target": "LiquiGen 中的大多数参数都可以设置关键帧动画。这意味着你可以在指定帧上设置数值，让参数随时间变化。",
+      "note": ""
+    },
+    {
+      "id": "0d5b2bcf6a3a",
+      "source": "Let’s say we want our sphere to move up and down.",
+      "target": "假设我们想让球体上下移动。",
+      "note": ""
+    },
+    {
+      "id": "32980dc5da86",
+      "source": "That means we have to alter its Z-position over time.",
+      "target": "这意味着我们需要让它的 Z 位置随时间变化。",
+      "note": ""
+    },
+    {
+      "id": "67fc056baf04",
+      "source": "Select the ",
+      "target": "选择 ",
+      "note": ""
+    },
+    {
+      "id": "57086fd6c626",
+      "source": "Shape: Primitive",
+      "target": "Shape: Primitive",
+      "note": ""
+    },
+    {
+      "id": "7e4e6be7d5a7",
+      "source": " node and find the ",
+      "target": " 节点，并找到 ",
+      "note": ""
+    },
+    {
+      "id": "b86286df60ee",
+      "source": "Position",
+      "target": "Position",
+      "note": ""
+    },
+    {
+      "id": "688331a6e382",
+      "source": " parameter in the ",
+      "target": " 参数；它位于 ",
+      "note": ""
+    },
+    {
+      "id": "70eefe141fcc",
+      "source": "Node Details",
+      "target": "Node Details（节点详情）",
+      "note": ""
+    },
+    {
+      "id": "397cf0c2a79c",
+      "source": " tab.",
+      "target": " 选项卡中。",
+      "note": ""
+    },
+    {
+      "id": "b38cbaad8688",
+      "source": "Click on the ",
+      "target": "单击 ",
+      "note": ""
+    },
+    {
+      "id": "1dae796fe22a",
+      "source": " circle next to it to set the override state for the parameter to ",
+      "target": " 旁边的圆形图标，将该参数的覆盖状态设置为 ",
+      "note": ""
+    },
+    {
+      "id": "aaf2643a8803",
+      "source": "Timeline Override",
+      "target": "Timeline Override",
+      "note": ""
+    },
+    {
+      "id": "7c7749ef309a",
+      "source": "Clicking on the icon next to the parameter will cycle through the different types of override states. So if you now want to get back to ",
+      "target": "单击参数旁边的图标会在不同覆盖状态之间循环切换。因此，如果你现在想回到 ",
+      "note": ""
+    },
+    {
+      "id": "40ab34cff0d5",
+      "source": "No Override",
+      "target": "No Override",
+      "note": ""
+    },
+    {
+      "id": "c5b6869e71e2",
+      "source": ", for example, you have to click the icon twice.",
+      "target": "，例如就需要单击该图标两次。",
+      "note": ""
+    },
+    {
+      "id": "cd4ab2ae403f",
+      "source": "A couple of things happen when setting the override state to ",
+      "target": "将覆盖状态设置为 ",
+      "note": ""
+    },
+    {
+      "id": "c0218b5adea8",
+      "source": "Timeline Override",
+      "target": "Timeline Override",
+      "note": ""
+    },
+    {
+      "id": "a76317861b7a",
+      "source": "The parameter shows up in the Timeline tab.",
+      "target": "该参数会出现在 Timeline（时间轴）选项卡中。",
+      "note": ""
+    },
+    {
+      "id": "210f4647ff4f",
+      "source": "The parameter shows up in the Timeline Editor.",
+      "target": "该参数会出现在 Timeline Editor（时间轴编辑器）中。",
+      "note": ""
+    },
+    {
+      "id": "3fb6baf63286",
+      "source": "If ",
+      "target": "如果 ",
+      "note": ""
+    },
+    {
+      "id": "5455e9bdf23c",
+      "source": "Create Key When Parameter Exposed",
+      "target": "Create Key When Parameter Exposed（参数公开时创建关键帧）",
+      "note": ""
+    },
+    {
+      "id": "c9e220e1b68d",
+      "source": " (found in ",
+      "target": "（位于 ",
+      "note": ""
+    },
+    {
+      "id": "9926d493e90b",
+      "source": "Settings/Preferences…/General",
+      "target": "Settings/Preferences…/General",
+      "note": ""
+    },
+    {
+      "id": "79ee42edefab",
+      "source": ") is checked a keyframe with the current value appears at the blue playhead",
+      "target": "）已勾选，则蓝色播放头处会出现一个使用当前值的关键帧。",
+      "note": ""
+    },
+    {
+      "id": "892d2f815947",
+      "source": "Let’s make our sphere go up and down using keyframes!",
+      "target": "接下来用关键帧让球体上下移动！",
+      "note": ""
+    },
+    {
+      "id": "7cd3bfae32b3",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4db712ab0f8c",
+      "source": "You can add a keyframe by ",
+      "target": "可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "8a31d9a3b2cf",
+      "source": "Double-Clicking",
+      "target": "Double-Clicking",
+      "note": ""
+    },
+    {
+      "id": "41f89e505168",
+      "source": " or",
+      "target": " 或",
+      "note": ""
+    },
+    {
+      "id": "089c6cb467be",
+      "source": "Shift-Clicking",
+      "target": "Shift-Clicking",
+      "note": ""
+    },
+    {
+      "id": "32a928bf65d8",
+      "source": " in the",
+      "target": " 在",
+      "note": ""
+    },
+    {
+      "id": "b17ebdefc784",
+      "source": "Timeline Editor",
+      "target": "Timeline Editor（时间轴编辑器）",
+      "note": ""
+    },
+    {
+      "id": "6ec4fe679b38",
+      "source": "You can also set a keyframe by changing the parameter value in the Timeline Editor.",
+      "target": "也可以通过在 Timeline Editor（时间轴编辑器）中更改参数值来设置关键帧。",
+      "note": ""
+    },
+    {
+      "id": "d7b68b8a4b0c",
+      "source": "If ",
+      "target": "如果 ",
+      "note": ""
+    },
+    {
+      "id": "610e3dc3aa40",
+      "source": "Toggle Timeline Autokey",
+      "target": "Toggle Timeline Autokey",
+      "note": ""
+    },
+    {
+      "id": "11f7482ff4fd",
+      "source": " is turned on, moving the sphere in the viewport or altering the value in the properties panel will set a keyframe with the new value on the frame specified by the blue playhead.",
+      "target": " 已开启，在视口中移动球体，或在属性面板中修改数值，都会在蓝色播放头指定的帧上创建一个使用新数值的关键帧。",
+      "note": ""
+    },
+    {
+      "id": "8ecc529cca6c",
+      "source": "If ",
+      "target": "如果 ",
+      "note": ""
+    },
+    {
+      "id": "af7ca114fa40",
+      "source": "Snap keys to frames",
+      "target": "Snap keys to frames",
+      "note": ""
+    },
+    {
+      "id": "1c08418aa721",
+      "source": " is enabled, the keyframes can only be placed on whole frame numbers. If not, the keyframes can be placed anywhere in between frames.",
+      "target": " 已启用，关键帧只能放置在整数帧号上。否则，关键帧可以放置在两帧之间的任意位置。",
+      "note": ""
+    },
+    {
+      "id": "8aadfa83a71a",
+      "source": "There we have it, a sphere moving up and down!",
+      "target": "这样就得到一个上下移动的球体了！",
+      "note": ""
+    },
+    {
+      "id": "42ddbe802d25",
+      "source": "Timeline Editor",
+      "target": "Timeline Editor（时间轴编辑器）",
+      "note": ""
+    },
+    {
+      "id": "4b713ef6b9cc",
+      "source": "Viewing Keyframes",
+      "target": "查看关键帧",
+      "note": ""
+    },
+    {
+      "id": "87e37a4b6726",
+      "source": "First, let’s fit the keyframes nicely in our timeline editor. You can do this by using the icons in the top right corner.",
+      "target": "首先，让关键帧在时间轴编辑器中合适地显示。可以使用右上角的图标完成这一点。",
+      "note": ""
+    },
+    {
+      "id": "e72f972c03ea",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "343c350934b0",
+      "source": " Pan and zoom the timeline to perfectly fit all the keyframes in view.",
+      "target": " 平移并缩放时间轴，使所有关键帧完整适配到视图中。",
+      "note": ""
+    },
+    {
+      "id": "a5b7be02c3b6",
+      "source": " Pan and zoom the timeline to perfectly fit the selected keyframes in view.",
+      "target": " 平移并缩放时间轴，使选中的关键帧完整适配到视图中。",
+      "note": ""
+    },
+    {
+      "id": "92b09eccca8a",
+      "source": " Reset the vertical zoom to default in the Curve Editor. When using ",
+      "target": " 将 Curve Editor 中的垂直缩放重置为默认值。使用 ",
+      "note": ""
+    },
+    {
+      "id": "b67db27e8448",
+      "source": "Shift",
+      "target": "Shift",
+      "note": ""
+    },
+    {
+      "id": "aeeaa8cfede0",
+      "source": " click you can also reset the horizontal zoom to default!",
+      "target": " 单击时，也可以将水平缩放重置为默认值！",
+      "note": ""
+    },
+    {
+      "id": "bfcb1dc9f6d6",
+      "source": " Toggle the panel to fullscreen if you want to edit your keyframes with the maximum screen space.",
+      "target": " 如果想用最大的屏幕空间编辑关键帧，可以将面板切换为全屏。",
+      "note": ""
+    },
+    {
+      "id": "7cf134ba7341",
+      "source": "You can manually move around the timeline using the following controls:",
+      "target": "可以使用以下操作手动浏览时间轴：",
+      "note": ""
+    },
+    {
+      "id": "c71d19bf5048",
+      "source": "Pan the timeline",
+      "target": "平移时间轴",
+      "note": ""
+    },
+    {
+      "id": "13ad1e4bbb18",
+      "source": " by holding down the middle mouse button and dragging or by using the scrollbar at the top of the timeline editor.",
+      "target": "：按住鼠标中键并拖动，或使用时间轴编辑器顶部的滚动条。",
+      "note": ""
+    },
+    {
+      "id": "72958606dedb",
+      "source": "Zooming the timeline",
+      "target": "缩放时间轴",
+      "note": ""
+    },
+    {
+      "id": "4e3d97d3641e",
+      "source": " by holding down ",
+      "target": "：按住 ",
+      "note": ""
+    },
+    {
+      "id": "ec8807b5d118",
+      "source": "Ctrl",
+      "target": "Ctrl",
+      "note": ""
+    },
+    {
+      "id": "a44d68758c28",
+      "source": " and scrolling. Note that the pivot for zooming is at your cursor’s location.",
+      "target": " 并滚动。请注意，缩放中心位于光标位置。",
+      "note": ""
+    },
+    {
+      "id": "866df9564e87",
+      "source": "Editing Keyframes",
+      "target": "编辑关键帧",
+      "note": ""
+    },
+    {
+      "id": "ab9045cdfe63",
+      "source": "Using the timeline editor you can edit your keyframes to your liking. Let’s have a look at the things we can do here.",
+      "target": "可以使用时间轴编辑器按需编辑关键帧。下面看看这里能做哪些操作。",
+      "note": ""
+    },
+    {
+      "id": "e16a10dab0c0",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "856a5d901ea7",
+      "source": "Create a keyframe",
+      "target": "创建关键帧",
+      "note": ""
+    },
+    {
+      "id": "44d58331ae5d",
+      "source": " by double ",
+      "target": "：双击",
+      "note": ""
+    },
+    {
+      "id": "00bff061888b",
+      "source": " clicking or ",
+      "target": "，或 ",
+      "note": ""
+    },
+    {
+      "id": "563d0100f39d",
+      "source": "shift",
+      "target": "Shift",
+      "note": ""
+    },
+    {
+      "id": "9442fa4e3239",
+      "source": " clicking.",
+      "target": " 单击。",
+      "note": ""
+    },
+    {
+      "id": "63b5121e4036",
+      "source": "Move keyframes around",
+      "target": "移动关键帧",
+      "note": ""
+    },
+    {
+      "id": "3b7a203dc435",
+      "source": " by ",
+      "target": "：按住 ",
+      "note": ""
+    },
+    {
+      "id": "d156a1abfefe",
+      "source": "LMB",
+      "target": "LMB",
+      "note": ""
+    },
+    {
+      "id": "8c0e2e87c5d3",
+      "source": " and dragging. If ",
+      "target": " 并拖动。如果 ",
+      "note": ""
+    },
+    {
+      "id": "b88d1199d3e0",
+      "source": "Snap keys to frames",
+      "target": "Snap keys to frames",
+      "note": ""
+    },
+    {
+      "id": "2c397c6914fb",
+      "source": " is enabled, keyframes will always move a whole frame at the time.",
+      "target": " 已启用，关键帧每次都会按整帧移动。",
+      "note": ""
+    },
+    {
+      "id": "48927b545ff3",
+      "source": "Box-select multiple keyframes",
+      "target": "框选多个关键帧",
+      "note": ""
+    },
+    {
+      "id": "0c49b6d4f61f",
+      "source": " by ",
+      "target": "：按住 ",
+      "note": ""
+    },
+    {
+      "id": "6038ad542dd9",
+      "source": "LMB",
+      "target": "LMB",
+      "note": ""
+    },
+    {
+      "id": "1e1183115287",
+      "source": " and dragging.",
+      "target": " 并拖动。",
+      "note": ""
+    },
+    {
+      "id": "58c4dc0e50ad",
+      "source": "Select multiple keyframes",
+      "target": "选择多个关键帧",
+      "note": ""
+    },
+    {
+      "id": "1f9f5414e668",
+      "source": " holding down ",
+      "target": "：按住 ",
+      "note": ""
+    },
+    {
+      "id": "b964d727924f",
+      "source": "Ctrl + LMB",
+      "target": "Ctrl + LMB",
+      "note": ""
+    },
+    {
+      "id": "26c11cd8d46f",
+      "source": "Select all keyframes",
+      "target": "选择所有关键帧",
+      "note": ""
+    },
+    {
+      "id": "85f05a42c33b",
+      "source": " with ",
+      "target": "：使用 ",
+      "note": ""
+    },
+    {
+      "id": "22a2b6e9e324",
+      "source": "Ctrl + A",
+      "target": "Ctrl + A",
+      "note": ""
+    },
+    {
+      "id": "0a528b833466",
+      "source": "Copy keyframes",
+      "target": "复制关键帧",
+      "note": ""
+    },
+    {
+      "id": "b267c6d69bed",
+      "source": " with the right-click menu or ",
+      "target": "：使用右键菜单或按 ",
+      "note": ""
+    },
+    {
+      "id": "10648d520968",
+      "source": "Ctrl + C",
+      "target": "Ctrl + C",
+      "note": ""
+    },
+    {
+      "id": "b24e1a7705e3",
+      "source": "Cut keyframes",
+      "target": "剪切关键帧",
+      "note": ""
+    },
+    {
+      "id": "f4ccffdffae9",
+      "source": " with the right-click menu or ",
+      "target": "：使用右键菜单或按 ",
+      "note": ""
+    },
+    {
+      "id": "d44d8b5a44ce",
+      "source": "Ctrl + X",
+      "target": "Ctrl + X",
+      "note": ""
+    },
+    {
+      "id": "087aa046c00a",
+      "source": "Paste keyframes",
+      "target": "粘贴关键帧",
+      "note": ""
+    },
+    {
+      "id": "af99a3460baf",
+      "source": " with the right-click menu or ",
+      "target": "：使用右键菜单或按 ",
+      "note": ""
+    },
+    {
+      "id": "5791336d567b",
+      "source": "Ctrl + V",
+      "target": "Ctrl + V",
+      "note": ""
+    },
+    {
+      "id": "227eb45bad88",
+      "source": "Delete keyframes",
+      "target": "删除关键帧",
+      "note": ""
+    },
+    {
+      "id": "6204ecfbdeef",
+      "source": " with the right-click menu or the ",
+      "target": "：使用右键菜单或按 ",
+      "note": ""
+    },
+    {
+      "id": "7b2c425e7fa9",
+      "source": "Delete",
+      "target": "Delete",
+      "note": ""
+    },
+    {
+      "id": "ff1a485e408c",
+      "source": " key.",
+      "target": " 键。",
+      "note": ""
+    },
+    {
+      "id": "17c612d25935",
+      "source": "Scale your keyframe animation",
+      "target": "缩放关键帧动画",
+      "note": ""
+    },
+    {
+      "id": "66f388462c4a",
+      "source": " using ",
+      "target": "：使用 ",
+      "note": ""
+    },
+    {
+      "id": "150cf1b736e0",
+      "source": "Shift + Alt + LMB",
+      "target": "Shift + Alt + LMB",
+      "note": ""
+    },
+    {
+      "id": "2add49143906",
+      "source": " drag pivoting from the first keyframe. This can be helpful if you want to retime a part of your animation.",
+      "target": " 拖动，并以第一个关键帧为枢轴进行缩放。如果你想重新调整一段动画的时间，这会很有用。",
+      "note": ""
+    },
+    {
+      "id": "04904c95cb2e",
+      "source": "Aligning keyframes",
+      "target": "对齐关键帧",
+      "note": ""
+    },
+    {
+      "id": "e721a02faf9b",
+      "source": " left or right by right-clicking a selection of keyframes and picking an option from the ",
+      "target": "：右键单击所选关键帧，并从 ",
+      "note": ""
+    },
+    {
+      "id": "d951ba75ce65",
+      "source": "Align",
+      "target": "Align",
+      "note": ""
+    },
+    {
+      "id": "d3b1e2bc8b91",
+      "source": " menu. When putting keyframes on multiple parameters aligning can help to tidy up and perfect your timeline.",
+      "target": " 菜单中选择选项，可将关键帧左对齐或右对齐。为多个参数放置关键帧时，对齐有助于整理并完善时间轴。",
+      "note": ""
+    },
+    {
+      "id": "64e68c9f72e2",
+      "source": "Left will move all the selected keyframes to the position of the first keyframe.",
+      "target": "Left 会将所有选中的关键帧移动到第一个关键帧的位置。",
+      "note": ""
+    },
+    {
+      "id": "7b68acc95129",
+      "source": "Right will move all the selected keyframes to the position of the last keyframe.",
+      "target": "Right 会将所有选中的关键帧移动到最后一个关键帧的位置。",
+      "note": ""
+    },
+    {
+      "id": "c370ed1bb6e7",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "84064c80340c",
+      "source": "Snap keyframes to the nearest whole frame number",
+      "target": "将关键帧吸附到最近的整数帧号",
+      "note": ""
+    },
+    {
+      "id": "d3775dd3b588",
+      "source": " with the ",
+      "target": "：使用 ",
+      "note": ""
+    },
+    {
+      "id": "ed871046829c",
+      "source": "Snap To Frames",
+      "target": "Snap To Frames",
+      "note": ""
+    },
+    {
+      "id": "4bf6c69c6567",
+      "source": " option in the right-click menu.",
+      "target": " 选项，该选项位于右键菜单中。",
+      "note": ""
+    },
+    {
+      "id": "d69c355067e9",
+      "source": "Curve Editor",
+      "target": "Curve Editor（曲线编辑器）",
+      "note": ""
+    },
+    {
+      "id": "8f9ddd1cc6b7",
+      "source": "The Curve Editor can be toggled using ",
+      "target": "可以使用以下图标切换 Curve Editor：",
+      "note": ""
+    },
+    {
+      "id": "a72a4fbbd9e8",
+      "source": "This editor gives a visual representation of where the values are going over time.",
+      "target": "此编辑器会以可视方式展示数值随时间的变化。",
+      "note": ""
+    },
+    {
+      "id": "d225378bbec3",
+      "source": "All the controls for the timeline editor apply here as well, but there are some extra things you can do and see.",
+      "target": "时间轴编辑器中的所有操作在这里同样适用，但这里还能执行和查看一些额外内容。",
+      "note": ""
+    },
+    {
+      "id": "b05741e7fd19",
+      "source": "Viewing Keyframes",
+      "target": "查看关键帧",
+      "note": ""
+    },
+    {
+      "id": "b6acdbe52f19",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "19013f2d600f",
+      "source": "Zoom the timeline vertically by holding down ",
+      "target": "按住 ",
+      "note": ""
+    },
+    {
+      "id": "d1a7f7fb402b",
+      "source": "Ctrl + Shift",
+      "target": "Ctrl + Shift",
+      "note": ""
+    },
+    {
+      "id": "f3b02cb26a90",
+      "source": " and scrolling. By zooming in vertically you can more clearly view smaller changes in the graph.",
+      "target": " 并滚动，即可垂直缩放时间轴。垂直放大后，可以更清楚地查看图表中的细微变化。",
+      "note": ""
+    },
+    {
+      "id": "1da23cb292f1",
+      "source": "Zoom the timeline both horizontally and vertically using the scrollwheel ",
+      "target": "使用滚轮可同时水平和垂直缩放时间轴：",
+      "note": ""
+    },
+    {
+      "id": "ed639af5773b",
+      "source": "Pan both horizontally and vertically using ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "ee364f8e09c9",
+      "source": " click and drag.",
+      "target": " 单击并拖动，可以同时水平和垂直平移。",
+      "note": ""
+    },
+    {
+      "id": "33f5a0783ba5",
+      "source": "With multiple keyframes selected you can find the ",
+      "target": "选择多个关键帧后，可以在右键菜单中找到 ",
+      "note": ""
+    },
+    {
+      "id": "f9d1a2211d0b",
+      "source": "Fit View",
+      "target": "Fit View",
+      "note": ""
+    },
+    {
+      "id": "0adcba845d86",
+      "source": " options in the right-click menu to fit the selected keyframes to view either horizontally, vertically, or both.",
+      "target": " 选项，将所选关键帧按水平、垂直或两个方向适配到视图中。",
+      "note": ""
+    },
+    {
+      "id": "1674ee23d078",
+      "source": "Editing Keyframes",
+      "target": "编辑关键帧",
+      "note": ""
+    },
+    {
+      "id": "1ddb0f201bd9",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "50eaada468a7",
+      "source": "Move one or more keyframes vertically (changing the keyframe values) using ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "0a7274ffc497",
+      "source": "Ctrl + Shift",
+      "target": "Ctrl + Shift",
+      "note": ""
+    },
+    {
+      "id": "600d1a86e347",
+      "source": " clicking and dragging.",
+      "target": " 单击并拖动，可以垂直移动一个或多个关键帧（改变关键帧数值）。",
+      "note": ""
+    },
+    {
+      "id": "055a83b657e4",
+      "source": "Freely move one or more keyframes vertically and horizontally using ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "5c40b7e1964e",
+      "source": " clicking and dragging.",
+      "target": " 单击并拖动，可以自由地垂直和水平移动一个或多个关键帧。",
+      "note": ""
+    },
+    {
+      "id": "8773ccd3ea65",
+      "source": "Two more options are added to the ",
+      "target": "在 ",
+      "note": ""
+    },
+    {
+      "id": "10db76ec36b6",
+      "source": "Align",
+      "target": "Align",
+      "note": ""
+    },
+    {
+      "id": "803610194e80",
+      "source": " right-click menu:",
+      "target": " 右键菜单中还会增加两个选项：",
+      "note": ""
+    },
+    {
+      "id": "f204a84d8abf",
+      "source": "Top",
+      "target": "Top",
+      "note": ""
+    },
+    {
+      "id": "f215d1cfc082",
+      "source": " will move all the selected keyframes up to the same value as the keyframe with the highest value.",
+      "target": " 会将所有选中的关键帧上移到与最高数值关键帧相同的值。",
+      "note": ""
+    },
+    {
+      "id": "fa6dbd913415",
+      "source": "Bottom",
+      "target": "Bottom",
+      "note": ""
+    },
+    {
+      "id": "4e52cdf0fbb7",
+      "source": " will move all the selected keyframes down to the same value as the keyframe with the lowest value.",
+      "target": " 会将所有选中的关键帧下移到与最低数值关键帧相同的值。",
+      "note": ""
+    },
+    {
+      "id": "c4024f7558c8",
+      "source": "Interpolation Mode",
+      "target": "Interpolation Mode（插值模式）",
+      "note": ""
+    },
+    {
+      "id": "a25960bf63f2",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "a9e026d38df3",
+      "source": "The ",
+      "target": "“",
+      "note": ""
+    },
+    {
+      "id": "caf7fef7235c",
+      "source": "Interpolation Mode",
+      "target": "Interpolation Mode（插值模式）",
+      "note": ""
+    },
+    {
+      "id": "4502d33cfefc",
+      "source": " defines the method of interpolating the values from one keyframe to another.",
+      "target": "”定义从一个关键帧到另一个关键帧时数值的插值方法。",
+      "note": ""
+    },
+    {
+      "id": "4357a87ffda8",
+      "source": "You can change the Interpolation Mode of the keyframes in the right-click menu.",
+      "target": "可以在右键菜单中更改关键帧的 Interpolation Mode（插值模式）。",
+      "note": ""
+    },
+    {
+      "id": "321a8dd40abb",
+      "source": "Note that you can mix different interpolation modes on different keyframes.",
+      "target": "注意，可以在不同关键帧上混用不同插值模式。",
+      "note": ""
+    },
+    {
+      "id": "40f75bbc0db1",
+      "source": "The interpolation mode of the first (or left) keyframe will be used between two keyframes with different interpolation modes.",
+      "target": "当两个关键帧使用不同插值模式时，将使用第一个（或左侧）关键帧的插值模式来计算它们之间的变化。",
+      "note": ""
+    },
+    {
+      "id": "ff14143f0fdf",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "5f26464f6e56",
+      "source": "There are a few options:",
+      "target": "可用选项如下：",
+      "note": ""
+    },
+    {
+      "id": "f53c02bb7e12",
+      "source": "Constant",
+      "target": "Constant",
+      "note": ""
+    },
+    {
+      "id": "1353254f2ef4",
+      "source": " will fully change the value when reaching a keyframe without any in-between values. This is the default for animating checkboxes and dropdown menus since they don’t have any in-between values.",
+      "target": " 会在到达关键帧时立即完全切换数值，没有中间过渡值。这是为复选框和下拉菜单制作动画时的默认模式，因为它们不存在中间值。",
+      "note": ""
+    },
+    {
+      "id": "2958bf212dbb",
+      "source": "Linear",
+      "target": "Linear",
+      "note": ""
+    },
+    {
+      "id": "58788fae60bb",
+      "source": " will draw a straight line from one keyframe to another in the ",
+      "target": " 会在一个关键帧到另一个关键帧之间绘制直线，并显示在 ",
+      "note": ""
+    },
+    {
+      "id": "53c74005010a",
+      "source": "Curve Editor",
+      "target": "Curve Editor（曲线编辑器）",
+      "note": ""
+    },
+    {
+      "id": "a9930bd45062",
+      "source": ". Values will move from one keyframe to another with a constant speed.",
+      "target": " 中。数值会以恒定速度从一个关键帧移动到另一个关键帧。",
+      "note": ""
+    },
+    {
+      "id": "9250f1586cb3",
+      "source": "Smooth",
+      "target": "Smooth",
+      "note": ""
+    },
+    {
+      "id": "153315571be7",
+      "source": " will generate a smooth line from one keyframe to another. This avoids having hard transitions in values.",
+      "target": " 会在一个关键帧到另一个关键帧之间生成平滑曲线，避免数值出现生硬过渡。",
+      "note": ""
+    },
+    {
+      "id": "c028e49a0c5e",
+      "source": "Bézier",
+      "target": "Bézier",
+      "note": "translation memory"
+    },
+    {
+      "id": "4f094b2bd1fd",
+      "source": " will interpolate the values based on the bézier handles. When using this mode you can see the bézier handles when selecting a single keyframe. You can change the interpolation by ",
+      "target": " 会根据 Bézier 手柄对数值进行插值。使用此模式时，选中单个关键帧后可以看到 Bézier 手柄。可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "37993cc0eea1",
+      "source": "LMB",
+      "target": "LMB",
+      "note": ""
+    },
+    {
+      "id": "eaf5256bd7b3",
+      "source": " and dragging the dots at the end of the bézier handles. A flat part of the curve means the values change slowly and a steep part of the curve means the values change quickly.",
+      "target": " 并拖动 Bézier 手柄末端的点来调整插值。曲线平缓的部分表示数值变化较慢，曲线陡峭的部分表示数值变化较快。",
+      "note": ""
+    },
+    {
+      "id": "a75ed078f1b9",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "dc12a2ada584",
+      "source": "When using the ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "9f69db983c2b",
+      "source": "Bézier",
+      "target": "Bézier",
+      "note": "translation memory"
+    },
+    {
+      "id": "396e52799929",
+      "source": " mode, there are a few handle types you can use also found in the right-click menu.",
+      "target": " 模式时，可以使用几种手柄类型；它们同样位于右键菜单中。",
+      "note": ""
+    },
+    {
+      "id": "7b8b6b8da9c0",
+      "source": "Aligned",
+      "target": "Aligned",
+      "note": ""
+    },
+    {
+      "id": "7c695f8215ad",
+      "source": " The handles can be moved freely and can have any direction and length. For this type, one handle is always in the inverted direction and has the same length as the other one.",
+      "target": " 手柄可以自由移动，方向和长度都不受限制。对于此类型，一个手柄始终位于另一个手柄的反方向，并且长度相同。",
+      "note": ""
+    },
+    {
+      "id": "9acff9d2e474",
+      "source": "Free",
+      "target": "Free",
+      "note": ""
+    },
+    {
+      "id": "011ceaaaeb8e",
+      "source": " The handles can be moved in any way separate from each other.",
+      "target": " 两侧手柄可以彼此独立地任意移动。",
+      "note": ""
+    },
+    {
+      "id": "7d51e16e63c3",
+      "source": "Auto Clamped",
+      "target": "Auto Clamped",
+      "note": ""
+    },
+    {
+      "id": "e2166f5125b1",
+      "source": " This is the default behavior. For this type, the handles can never go beyond the previous or next keyframe. Note that when changing the handles the type will be set to Aligned.",
+      "target": " 这是默认行为。对于此类型，手柄绝不会越过前一个或后一个关键帧。请注意，修改手柄后，类型会被设置为 Aligned。",
+      "note": ""
+    },
+    {
+      "id": "f32593471236",
+      "source": "Auto Vectored",
+      "target": "Auto Vectored",
+      "note": ""
+    },
+    {
+      "id": "735f5b2cb15b",
+      "source": " This will point the left handle towards the previous keyframe and the right handle towards the next keyframe. Note that when changing the handles the type will be set to Free.",
+      "target": " 这会让左侧手柄指向前一个关键帧，右侧手柄指向后一个关键帧。请注意，修改手柄后，类型会被设置为 Free。",
+      "note": ""
+    },
+    {
+      "id": "ea16d2779bff",
+      "source": "You can always reset the bezier handles to default for the selected keyframes by clicking on ",
+      "target": "始终可以点击 ",
+      "note": ""
+    },
+    {
+      "id": "6f4d1b6c336b",
+      "source": "Reset Handle",
+      "target": "Reset Handle",
+      "note": ""
+    },
+    {
+      "id": "7faec7ef5abd",
+      "source": " in the right-click menu.",
+      "target": "（位于右键菜单中），将所选关键帧的 Bézier 手柄重置为默认值。",
+      "note": ""
+    },
+    {
+      "id": "4f49450696dd",
+      "source": "Note that you can also change all these settings in the Timeline Editor, but you won’t be able to see the effect it has on the curve or change the Bézier curve.",
+      "target": "请注意，也可以在 Timeline Editor（时间轴编辑器）中更改这些设置，但无法看到它们对曲线产生的效果，也无法修改 Bézier 曲线。",
+      "note": ""
+    },
+    {
+      "id": "6b301dcde53a",
+      "source": "Timeline Recording",
+      "target": "Timeline Recording（时间轴录制）",
+      "note": ""
+    },
+    {
+      "id": "b02e7fe54136",
+      "source": "Timeline recording allows you to turn your manual changes to a parameter into keyframes in real time.\nThis can be useful to animate things quickly or to just add that human touch!",
+      "target": "时间轴录制可以把你对参数的手动更改实时转换为关键帧。\n这适合快速制作动画，或给动画加入一些手动控制的感觉。",
+      "note": ""
+    },
+    {
+      "id": "eaa70963a669",
+      "source": "Making a timeline recording takes the following steps:",
+      "target": "进行一次时间轴录制需要以下步骤：",
+      "note": ""
+    },
+    {
+      "id": "5933d43470f4",
+      "source": "Set the desired parameter to ",
+      "target": "将目标参数设置为 ",
+      "note": ""
+    },
+    {
+      "id": "20d2c9b3e6ef",
+      "source": "Timeline Override",
+      "target": "Timeline Override",
+      "note": ""
+    },
+    {
+      "id": "36e1dad08eda",
+      "source": ". This means ",
+      "target": "。也就是用 ",
+      "note": ""
+    },
+    {
+      "id": "2dd451491e1d",
+      "source": " clicking on the ",
+      "target": " 单击参数旁边的 ",
+      "note": ""
+    },
+    {
+      "id": "c1e0a1fe9481",
+      "source": " circle next to the parameter. The ",
+      "target": " 圆形图标。",
+      "note": ""
+    },
+    {
+      "id": "73de44eabc86",
+      "source": " icon will appear next to it.",
+      "target": " 图标会出现在参数旁边。",
+      "note": ""
+    },
+    {
+      "id": "354e7fa81342",
+      "source": "Click the ",
+      "target": "单击 ",
+      "note": ""
+    },
+    {
+      "id": "b89fefaac7aa",
+      "source": " icon or press ",
+      "target": " 图标，或按 ",
+      "note": ""
+    },
+    {
+      "id": "a732c3985887",
+      "source": "Shift + R",
+      "target": "Shift + R",
+      "note": ""
+    },
+    {
+      "id": "151070f6ad53",
+      "source": " to start the recording.",
+      "target": " 开始录制。",
+      "note": ""
+    },
+    {
+      "id": "06e071b4e497",
+      "source": "Make the parameter changes you want to be recorded.",
+      "target": "执行你希望录制下来的参数更改。",
+      "note": ""
+    },
+    {
+      "id": "2db62be87b13",
+      "source": "To stop recording, toggle ",
+      "target": "要停止录制，可以再次切换 ",
+      "note": ""
+    },
+    {
+      "id": "0e30d087323e",
+      "source": " timeline recording again, ",
+      "target": " 时间轴录制，",
+      "note": ""
+    },
+    {
+      "id": "abf20f69c734",
+      "source": " reset the simulation, or ",
+      "target": " 重置模拟，或 ",
+      "note": ""
+    },
+    {
+      "id": "bcfd4c31d088",
+      "source": " pause the simulation.",
+      "target": " 暂停模拟。",
+      "note": ""
+    },
+    {
+      "id": "2d00b8380254",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "8b3b123029a4",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "65d8e2c17c46",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "1b21e39af12f",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "dddfd9b6a785",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "92e407852111",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "ed585a71797e",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "b11623a6dd0e",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "c8b6d6a97732",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "26be3b73c68f",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "e7d3e5c3c30e",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "1f26bb5fa7fa",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "d1026317146b",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "1ac1e4158f78",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "0147c9301395",
+      "source": "Setting Keyframes",
+      "target": "设置关键帧",
+      "note": ""
+    },
+    {
+      "id": "e85a3bdcedd1",
+      "source": "Timeline Editor",
+      "target": "Timeline Editor（时间轴编辑器）",
+      "note": ""
+    },
+    {
+      "id": "2ccaa645a393",
+      "source": "Viewing Keyframes",
+      "target": "查看关键帧",
+      "note": ""
+    },
+    {
+      "id": "d8e3ea4f90b4",
+      "source": "Editing Keyframes",
+      "target": "编辑关键帧",
+      "note": ""
+    },
+    {
+      "id": "df2f10a2c201",
+      "source": "Curve Editor",
+      "target": "Curve Editor（曲线编辑器）",
+      "note": ""
+    },
+    {
+      "id": "9a0d8783b609",
+      "source": "Viewing Keyframes",
+      "target": "查看关键帧",
+      "note": ""
+    },
+    {
+      "id": "ae08a591d14b",
+      "source": "Editing Keyframes",
+      "target": "编辑关键帧",
+      "note": ""
+    },
+    {
+      "id": "4f5e7e0bda2f",
+      "source": "Interpolation Mode",
+      "target": "Interpolation Mode（插值模式）",
+      "note": ""
+    },
+    {
+      "id": "97c52c0e7c35",
+      "source": "Timeline Recording",
+      "target": "Timeline Recording（时间轴录制）",
+      "note": ""
+    }
+  ],
+  "updated_at": "2026-07-03T10:33:12Z"
+}

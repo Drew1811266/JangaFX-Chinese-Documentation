@@ -1,0 +1,1746 @@
+{
+  "path": "licensing/index.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "baac90dd4f33",
+      "source": "Floating License Guide - JangaFX Documentation",
+      "target": "浮动许可证指南 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "b9eaba314a03",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "ee295bc17615",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "3d7172097332",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "41153e06c0f4",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "f2c8deeeae19",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "b13717ef8d45",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "546f2c03e40b",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "0a09b639d24f",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "48455e2ab0de",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "1b6a478e42c5",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "da7e36cbc590",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "c9232343fba5",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "1ddfaf9be1d0",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "da77f4073455",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "3ee08de55b74",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "a37d45424587",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "c8d89c453b62",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "ca772876f69f",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "cc86af0f33b9",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "c9d8a2d9c82b",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "5cd3a0b65652",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "72b62c7875da",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "e6e94548cd80",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "661713c65da8",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "79d6f9639a56",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "090f0ab1093b",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "aca36d1e0ca4",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "d7cb0586ae78",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "93fb378755d3",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "9bfbc7a5dc93",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "aa81097f7405",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "e2cf93ab8c54",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "54e9897616cc",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "bf4bc14b156b",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "ede42eaf7159",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "830a6bdccce3",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "f66bf7329b3d",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "0d39d0fde031",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "157173b6a322",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "e581af543214",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "7f8d29248d6f",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "2de15a52f966",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "1033c5c57456",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "a7427f2df934",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "09e187bbba23",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "2c316cecaaba",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "57bfe36d8682",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "975eec80048d",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "ec361d2ac76e",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "0ea0aeff9902",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "6c2855fa8bc5",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "5a040839a882",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "eb9d1a0b2e9f",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "c95086f35cc8",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "fc3396ef52d1",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "798a438ebb5b",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "b00651418730",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "4bb0d34c19ac",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "adb82eea2961",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "fe37fb246bae",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "7c08b27f3053",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "d5e73dc8d670",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "8576df2e69b8",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "f79ca046c63c",
+      "source": "JangaFX Floating Server",
+      "target": "JangaFX 浮动服务器",
+      "note": ""
+    },
+    {
+      "id": "c7dd730ab360",
+      "source": "Important",
+      "target": "重要",
+      "note": ""
+    },
+    {
+      "id": "b7b80d90563b",
+      "source": "This guide will work for EmberGen 1.2.7 and above, LiquiGen 1.0.6 and above, GeoGen 0.5.4-beta and above, IlluGen 1.1.2 and above.",
+      "target": "本指南适用于 EmberGen 1.2.7 及以上版本、LiquiGen 1.0.6 及以上版本、GeoGen 0.5.4-beta 及以上版本，以及 IlluGen 1.1.2 及以上版本。",
+      "note": ""
+    },
+    {
+      "id": "c7e51ae7c9d1",
+      "source": "If you are running a version below any of those specified, please refer to ",
+      "target": "如果你运行的版本低于上述任一版本，请参阅 ",
+      "note": ""
+    },
+    {
+      "id": "b3cf7a11e16b",
+      "source": "Legacy Floating Server",
+      "target": "旧版浮动服务器",
+      "note": ""
+    },
+    {
+      "id": "eb7351284708",
+      "source": "Download",
+      "target": "下载",
+      "note": ""
+    },
+    {
+      "id": "f1ed9b1f02a9",
+      "source": "Software",
+      "target": "软件",
+      "note": ""
+    },
+    {
+      "id": "b0f357a12e19",
+      "source": "Version",
+      "target": "版本",
+      "note": ""
+    },
+    {
+      "id": "ee5d2c23fbc8",
+      "source": "Download link",
+      "target": "下载链接",
+      "note": ""
+    },
+    {
+      "id": "6a6ce47f7f5f",
+      "source": "EmberGen",
+      "target": "EmberGen",
+      "note": ""
+    },
+    {
+      "id": "8d0cc4f18b11",
+      "source": "1.2.7 or above",
+      "target": "1.2.7 或更高版本",
+      "note": ""
+    },
+    {
+      "id": "10a7d657baf2",
+      "source": "Mac (Apple Silicon)",
+      "target": "Mac（Apple Silicon）",
+      "note": ""
+    },
+    {
+      "id": "dfee1fe1d92a",
+      "source": "LiquiGen",
+      "target": "LiquiGen",
+      "note": ""
+    },
+    {
+      "id": "a9f50eb6d5a6",
+      "source": "1.0.6 or above",
+      "target": "1.0.6 或更高版本",
+      "note": ""
+    },
+    {
+      "id": "e6a976fd041f",
+      "source": "IlluGen",
+      "target": "IlluGen",
+      "note": ""
+    },
+    {
+      "id": "fc2b10bd1b1c",
+      "source": "1.1.2 or above",
+      "target": "1.1.2 或更高版本",
+      "note": ""
+    },
+    {
+      "id": "c6e9e25f530e",
+      "source": "GeoGen",
+      "target": "GeoGen",
+      "note": ""
+    },
+    {
+      "id": "70ce909e98ca",
+      "source": "0.5.4-beta or above",
+      "target": "0.5.4-beta 或更高版本",
+      "note": ""
+    },
+    {
+      "id": "f040e64450ed",
+      "source": "Overview",
+      "target": "概览",
+      "note": ""
+    },
+    {
+      "id": "e7b21b26e177",
+      "source": "The floating license server is a program that can hand out leases to clients running JangaFX products.\nA lease is a license that is acquired for the duration of a user session or until the user manually releases\nthe lease. The floating server needs to be activated using a floating license that permits the server to hand out\na given number of leases.",
+      "target": "浮动许可证服务器是一个程序，可向运行 JangaFX 产品的客户端发放租约。租约是在用户会话期间取得的许可证，直到用户手动释放租约为止。浮动服务器需要使用浮动许可证激活，该许可证允许服务器发放指定数量的租约。",
+      "note": ""
+    },
+    {
+      "id": "eff71d3cfcd4",
+      "source": "Launching the Server",
+      "target": "启动服务器",
+      "note": ""
+    },
+    {
+      "id": "6616f4cb3729",
+      "source": "The server is a command line program that requires some arguments for configuration. On Windows, you can use the Windows command prompt ",
+      "target": "服务器是命令行程序，需要通过一些参数进行配置。在 Windows 上，你可以使用 Windows 命令提示符 ",
+      "note": ""
+    },
+    {
+      "id": "350aeba28da3",
+      "source": "\nand on Linux pretty much any shell program like ",
+      "target": "；在 Linux 上，基本可以使用任何 shell 程序，例如 ",
+      "note": ""
+    },
+    {
+      "id": "4f51bc371f38",
+      "source": "In the following, anything within angled brackets ",
+      "target": "在下文中，尖括号 ",
+      "note": ""
+    },
+    {
+      "id": "a0d59b1793bf",
+      "source": " is a placeholder and anything within square brackets ",
+      "target": " 内的内容是占位符，方括号 ",
+      "note": ""
+    },
+    {
+      "id": "1211d8397141",
+      "source": " is optional and may be omitted.\nThree consecutive dots ",
+      "target": " 内的内容是可选项，可以省略。连续三个点 ",
+      "note": ""
+    },
+    {
+      "id": "110cb1a91fc1",
+      "source": " indicate that an argument may be used multiple times.\nParentheses ",
+      "target": " 表示某个参数可以使用多次。圆括号 ",
+      "note": ""
+    },
+    {
+      "id": "ef65dd9b63db",
+      "source": " are used for grouping and are not part of the command.",
+      "target": " 用于分组，并不是命令的一部分。",
+      "note": ""
+    },
+    {
+      "id": "dc1fa6ca0f57",
+      "source": "For example, given ",
+      "target": "例如，给定 ",
+      "note": ""
+    },
+    {
+      "id": "68cc2e548b5f",
+      "source": ", the following versions are valid:",
+      "target": "，以下写法都是有效的：",
+      "note": ""
+    },
+    {
+      "id": "54967d8c5f6b",
+      "source": "The program can be launched in several different ways:",
+      "target": "该程序可以通过几种不同方式启动：",
+      "note": ""
+    },
+    {
+      "id": "63a71777cc55",
+      "source": " (see ",
+      "target": "（见 ",
+      "note": ""
+    },
+    {
+      "id": "d0b687825986",
+      "source": "Options",
+      "target": "选项",
+      "note": ""
+    },
+    {
+      "id": "cc82b031195c",
+      "source": "Launch the server with the options described in the next section.",
+      "target": "使用下一节中描述的选项启动服务器。",
+      "note": ""
+    },
+    {
+      "id": "f9ac91b77551",
+      "source": "Deactivate the specified product.",
+      "target": "停用指定产品。",
+      "note": ""
+    },
+    {
+      "id": "0cb8b7ee722c",
+      "source": "Use this for offline activation and deactivation. This allows the floating server to run on a machine\nwithout an internet connection. The ",
+      "target": "用于离线激活和停用。这允许浮动服务器在没有互联网连接的机器上运行。",
+      "note": ""
+    },
+    {
+      "id": "dfb0e714dec4",
+      "source": " command generates an “activation file” at the specified ",
+      "target": " 命令会在指定的 ",
+      "note": ""
+    },
+    {
+      "id": "b207a06ef639",
+      "source": ".\nThis file can be uploaded ",
+      "target": " 位置生成一个“激活文件”。该文件可以上传到 ",
+      "note": ""
+    },
+    {
+      "id": "359d77a78033",
+      "source": "here",
+      "target": "此处",
+      "note": "translation memory"
+    },
+    {
+      "id": "80d1d8aea3c2",
+      "source": " to obtain an “activation response”.\nThe path to the response file can then be used in the ",
+      "target": "，以获取“激活响应”。随后在运行服务器进行激活时，可以在 ",
+      "note": ""
+    },
+    {
+      "id": "7330b968426c",
+      "source": " option when running the server on order to activate it.",
+      "target": " 选项中使用该响应文件的路径。",
+      "note": ""
+    },
+    {
+      "id": "a4d9fbdf94fb",
+      "source": "Generates a “deactivation file” which can be uploaded ",
+      "target": "生成一个“停用文件”，可将其上传到 ",
+      "note": ""
+    },
+    {
+      "id": "60f724fa0525",
+      "source": "here",
+      "target": "此处",
+      "note": "translation memory"
+    },
+    {
+      "id": "3590757f1795",
+      "source": ".\nThere is no response file in this case and the server is deactivated immediately after the upload.",
+      "target": "。这种情况下没有响应文件，上传后服务器会立即停用。",
+      "note": ""
+    },
+    {
+      "id": "20acc2ecaee2",
+      "source": " (see ",
+      "target": "（见 ",
+      "note": ""
+    },
+    {
+      "id": "a93eaa4a479b",
+      "source": "Running as a Windows Service",
+      "target": "作为 Windows 服务运行",
+      "note": ""
+    },
+    {
+      "id": "a42a2fcfbc43",
+      "source": "Options",
+      "target": "选项",
+      "note": ""
+    },
+    {
+      "id": "e96d6fccd5d3",
+      "source": "At least one ",
+      "target": "至少需要一个 ",
+      "note": ""
+    },
+    {
+      "id": "b24c7688d15a",
+      "source": " or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "7a1de993e057",
+      "source": " option is required. All other options are optional.",
+      "target": " 选项。其他所有选项都是可选的。",
+      "note": ""
+    },
+    {
+      "id": "3a23d3c66a36",
+      "source": "Option",
+      "target": "选项",
+      "note": ""
+    },
+    {
+      "id": "8fc57f699deb",
+      "source": "Description",
+      "target": "说明",
+      "note": ""
+    },
+    {
+      "id": "7ca657f53fce",
+      "source": "IPv4 address to listen on. (Default: ",
+      "target": "要监听的 IPv4 地址。（默认：",
+      "note": ""
+    },
+    {
+      "id": "2f2329b6bfa1",
+      "source": ")\nThis option can be used multiple times to bind to multiple network interfaces.",
+      "target": "）此选项可以使用多次，以绑定到多个网络接口。",
+      "note": ""
+    },
+    {
+      "id": "d3f5871108be",
+      "source": "UDP port to listen on. (Default: ",
+      "target": "要监听的 UDP 端口。（默认：",
+      "note": ""
+    },
+    {
+      "id": "3faa1afc0697",
+      "source": ")\nOptionally, a limit on the number of leases handed out on this port can be specified.\nThis option can be used multiple times to listen on multiple ports with potentially different lease limits on each port.",
+      "target": "）可以选择指定此端口上发放租约数量的限制。此选项可以使用多次，以监听多个端口，并为每个端口设置可能不同的租约限制。",
+      "note": ""
+    },
+    {
+      "id": "36be268c3359",
+      "source": "The maximum number of connections to the server. (Default: ",
+      "target": "服务器的最大连接数。（默认：",
+      "note": ""
+    },
+    {
+      "id": "efdf3e3a7a0f",
+      "source": "The name of the product to activate and the license key separated by a colon. The following product names are valid:",
+      "target": "要激活的产品名称和许可证密钥，中间用冒号分隔。以下产品名称有效：",
+      "note": ""
+    },
+    {
+      "id": "cc3d6fce503d",
+      "source": "This option can be used multiple times to activate and hand out leases for multiple products.",
+      "target": "此选项可以使用多次，以激活多个产品并为其发放租约。",
+      "note": ""
+    },
+    {
+      "id": "e61744a46284",
+      "source": "The path to an activation file obtained from ",
+      "target": "从 ",
+      "note": ""
+    },
+    {
+      "id": "b75d7f7ae700",
+      "source": " after uploading an activation request.\nThe license key is separated by a colon from path.\nThis option can be used multiple times to activate and hand out leases for multiple products.",
+      "target": " 上传激活请求后获得的激活文件路径。许可证密钥与路径之间用冒号分隔。此选项可以使用多次，以激活多个产品并为其发放租约。",
+      "note": ""
+    },
+    {
+      "id": "0b1b5b324f26",
+      "source": "The path to a file where the server will record log messages. If omitted, the server writes to standard output unless running as a service on Windows where\nthe default log file is ",
+      "target": "服务器记录日志消息的文件路径。如果省略，服务器会写入标准输出；但在 Windows 上作为服务运行时，默认日志文件为 ",
+      "note": ""
+    },
+    {
+      "id": "303f5e5d292d",
+      "source": " in the same directory as the executable.",
+      "target": "，位于可执行文件所在的同一目录。",
+      "note": ""
+    },
+    {
+      "id": "1386d23d2666",
+      "source": "Running as a Windows Service",
+      "target": "作为 Windows 服务运行",
+      "note": ""
+    },
+    {
+      "id": "fa381e5158ac",
+      "source": "On Windows, the license server can be run in the background as a Windows service named ",
+      "target": "在 Windows 上，许可证服务器可以作为名为 ",
+      "note": ""
+    },
+    {
+      "id": "8af20d6c3689",
+      "source": ". The ",
+      "target": " 的 Windows 服务在后台运行。",
+      "note": ""
+    },
+    {
+      "id": "232eb013863f",
+      "source": " subcommand is used to manage this service.\nWhen running as a service, the log file can be used to inspect the activity of the server. By default, this will be a file named ",
+      "target": " 子命令用于管理此服务。作为服务运行时，可以使用日志文件查看服务器活动。默认情况下，该文件名为 ",
+      "note": ""
+    },
+    {
+      "id": "649052ccd152",
+      "source": " in the same directory as the executable.",
+      "target": "，位于可执行文件所在的同一目录。",
+      "note": ""
+    },
+    {
+      "id": "a1aba31b5150",
+      "source": " (see ",
+      "target": "（见 ",
+      "note": ""
+    },
+    {
+      "id": "695d41ab98ff",
+      "source": "Options",
+      "target": "选项",
+      "note": ""
+    },
+    {
+      "id": "e442c29a8ff6",
+      "source": "This command will install the service to run with the provided options. These are the same options used to run the server directly.\nThe installed service will expect the executable to be located at the same path it was at the time of installation. If you move the executable\nto a different directory, you will need to uninstall and reinstall the service to update its path. The service will be configured to run on system startup.",
+      "target": "此命令会安装服务，并使用提供的选项运行。这些选项与直接运行服务器时使用的选项相同。已安装的服务会期望可执行文件仍位于安装时的同一路径。如果你将可执行文件移动到其他目录，需要先卸载再重新安装服务，以更新其路径。该服务会被配置为随系统启动运行。",
+      "note": ""
+    },
+    {
+      "id": "74432075396c",
+      "source": "Uninstall the service. If you would like to change the options used when the service was installed, you will have to first uninstall the existing service.",
+      "target": "卸载服务。如果你想更改安装服务时使用的选项，必须先卸载现有服务。",
+      "note": ""
+    },
+    {
+      "id": "cc7ae251aeaf",
+      "source": "Starts the installed service in the background.",
+      "target": "在后台启动已安装的服务。",
+      "note": ""
+    },
+    {
+      "id": "f5e560a2fb22",
+      "source": "Stop the installed service.",
+      "target": "停止已安装的服务。",
+      "note": ""
+    },
+    {
+      "id": "51e9e312da95",
+      "source": "Check if the service is running.",
+      "target": "检查服务是否正在运行。",
+      "note": ""
+    },
+    {
+      "id": "e9fda542de2d",
+      "source": "Client quick start guide",
+      "target": "客户端快速入门指南",
+      "note": ""
+    },
+    {
+      "id": "2f01d49277dd",
+      "source": "Hint",
+      "target": "提示",
+      "note": ""
+    },
+    {
+      "id": "b6e35fcb5106",
+      "source": "To open the License Manager in your software navigate as ",
+      "target": "要在软件中打开 License Manager，请导航到 ",
+      "note": ""
+    },
+    {
+      "id": "b20c0e6326eb",
+      "source": "The ",
+      "target": "该 ",
+      "note": ""
+    },
+    {
+      "id": "d677daeef878",
+      "source": "License Manager",
+      "target": "License Manager",
+      "note": ""
+    },
+    {
+      "id": "8ed42970b20f",
+      "source": " allows connecting/disconnecting to the license server as well as acquiring/dropping a lease on demand",
+      "target": " 允许连接/断开许可证服务器，并按需获取/释放租约",
+      "note": ""
+    },
+    {
+      "id": "5cfbc2209f26",
+      "source": "Using the ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "e13b6759d879",
+      "source": "License Manager",
+      "target": "License Manager",
+      "note": ""
+    },
+    {
+      "id": "ad937a4fb7ac",
+      "source": "Enter server details under the tab for your license type, and connect to the server",
+      "target": "在你的许可证类型对应的选项卡下输入服务器详情，并连接到服务器",
+      "note": ""
+    },
+    {
+      "id": "68d2db745797",
+      "source": "After connecting to the server, you can safely close the license manager tab",
+      "target": "连接到服务器后，可以安全关闭 License Manager 选项卡",
+      "note": ""
+    },
+    {
+      "id": "af187df644ba",
+      "source": "The software will automatically acquire a lease after connecting to the server",
+      "target": "连接到服务器后，软件会自动获取租约",
+      "note": ""
+    },
+    {
+      "id": "6f1920b9087d",
+      "source": "The software will automatically drop a lease on exit",
+      "target": "软件退出时会自动释放租约",
+      "note": ""
+    },
+    {
+      "id": "bba5ba1e4a4f",
+      "source": "You can manually acquire and drop leases from the license manager",
+      "target": "你可以从 License Manager 手动获取和释放租约",
+      "note": ""
+    },
+    {
+      "id": "26f1f24e7b83",
+      "source": "Using an environment variable",
+      "target": "使用环境变量",
+      "note": ""
+    },
+    {
+      "id": "109873ca5ab8",
+      "source": "Create an environment variable with the appropriate name and server details",
+      "target": "使用相应名称和服务器详情创建环境变量",
+      "note": ""
+    },
+    {
+      "id": "13bac9cdb93f",
+      "source": "Name according to your product key:",
+      "target": "名称根据你的产品密钥而定：",
+      "note": ""
+    },
+    {
+      "id": "eeeb421b7364",
+      "source": "Suite: ",
+      "target": "Suite：",
+      "note": ""
+    },
+    {
+      "id": "6a6047be0466",
+      "source": "EmberGen: ",
+      "target": "EmberGen：",
+      "note": ""
+    },
+    {
+      "id": "75f9b4275fe8",
+      "source": "LiquiGen: ",
+      "target": "LiquiGen：",
+      "note": ""
+    },
+    {
+      "id": "90e8b6b2ed82",
+      "source": "IlluGen: ",
+      "target": "IlluGen：",
+      "note": ""
+    },
+    {
+      "id": "54438a784b56",
+      "source": "GeoGen: ",
+      "target": "GeoGen：",
+      "note": ""
+    },
+    {
+      "id": "57a4ebfdcd26",
+      "source": "Value: ",
+      "target": "值：",
+      "note": ""
+    },
+    {
+      "id": "e7d032726d04",
+      "source": " or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "572999fecc86",
+      "source": "The software will automatically acquire a lease if the environment variable is set",
+      "target": "如果设置了环境变量，软件会自动获取租约",
+      "note": ""
+    },
+    {
+      "id": "9410a0d16271",
+      "source": "The software will automatically drop a lease on exit",
+      "target": "软件退出时会自动释放租约",
+      "note": ""
+    },
+    {
+      "id": "f15505ec1c31",
+      "source": "Additional lease information:",
+      "target": "其他租约信息：",
+      "note": ""
+    },
+    {
+      "id": "2c69b58c4437",
+      "source": "A lease that is not dropped due to a crash or disconnect from the server can be re-acquired and extended by the same machine upon reconnecting",
+      "target": "如果租约因崩溃或与服务器断开连接而未释放，同一台机器在重新连接后可以重新获取并延长该租约",
+      "note": ""
+    },
+    {
+      "id": "2588c797ca2e",
+      "source": "A lease that is not dropped due to a crash or disconnect from the server cannot be used by anyone else until the lease time is over",
+      "target": "如果租约因崩溃或与服务器断开连接而未释放，在租约时间结束前，其他任何人都无法使用该租约",
+      "note": ""
+    },
+    {
+      "id": "9345c730c023",
+      "source": "Leases cannot be “borrowed” (used offline, for extended periods of time)",
+      "target": "租约不能“借出”（即不能离线使用或长时间占用）",
+      "note": ""
+    },
+    {
+      "id": "3ce1e3214c0f",
+      "source": "Legacy Floating Server",
+      "target": "旧版浮动服务器",
+      "note": ""
+    },
+    {
+      "id": "530c8c1e1967",
+      "source": "Download",
+      "target": "下载",
+      "note": ""
+    },
+    {
+      "id": "ddc79a1f99b7",
+      "source": "Software",
+      "target": "软件",
+      "note": ""
+    },
+    {
+      "id": "25a0bfc1902a",
+      "source": "Version",
+      "target": "版本",
+      "note": ""
+    },
+    {
+      "id": "7de6ec024194",
+      "source": "Download link",
+      "target": "下载链接",
+      "note": ""
+    },
+    {
+      "id": "9878b1ae75d4",
+      "source": "EmberGen",
+      "target": "EmberGen",
+      "note": ""
+    },
+    {
+      "id": "2e3277983f3e",
+      "source": "1.2.6 or below",
+      "target": "1.2.6 或更低版本",
+      "note": ""
+    },
+    {
+      "id": "8a0dfff48d0c",
+      "source": "Windows / Linux / MacOS",
+      "target": "Windows / Linux / macOS",
+      "note": ""
+    },
+    {
+      "id": "43e754304afb",
+      "source": "LiquiGen",
+      "target": "LiquiGen",
+      "note": ""
+    },
+    {
+      "id": "d0797e4f7219",
+      "source": "1.0.5 or below",
+      "target": "1.0.5 或更低版本",
+      "note": ""
+    },
+    {
+      "id": "d695fb65df4e",
+      "source": "Windows / Linux / MacOS",
+      "target": "Windows / Linux / macOS",
+      "note": ""
+    },
+    {
+      "id": "de095a286be7",
+      "source": "IlluGen",
+      "target": "IlluGen",
+      "note": ""
+    },
+    {
+      "id": "3947a42e886c",
+      "source": "1.1.1 or below",
+      "target": "1.1.1 或更低版本",
+      "note": ""
+    },
+    {
+      "id": "b6e39d1e3dff",
+      "source": "Windows / Linux / MacOS",
+      "target": "Windows / Linux / macOS",
+      "note": ""
+    },
+    {
+      "id": "b723b25ace85",
+      "source": "GeoGen",
+      "target": "GeoGen",
+      "note": ""
+    },
+    {
+      "id": "df8e4236ac23",
+      "source": "0.5.3-beta or below",
+      "target": "0.5.3-beta 或更低版本",
+      "note": ""
+    },
+    {
+      "id": "47c72cbee116",
+      "source": "Windows / Linux / MacOS",
+      "target": "Windows / Linux / macOS",
+      "note": ""
+    },
+    {
+      "id": "64bffe8400f6",
+      "source": "Elemental Suite",
+      "target": "Elemental Suite",
+      "note": ""
+    },
+    {
+      "id": "cfa1f82da1d0",
+      "source": "see above",
+      "target": "见上文",
+      "note": ""
+    },
+    {
+      "id": "6acf06a3e023",
+      "source": "Windows / Linux / MacOS",
+      "target": "Windows / Linux / macOS",
+      "note": ""
+    },
+    {
+      "id": "1f316367ce82",
+      "source": "Quick start guide",
+      "target": "快速入门指南",
+      "note": ""
+    },
+    {
+      "id": "6c1a11b3045f",
+      "source": "Activate:",
+      "target": "激活：",
+      "note": ""
+    },
+    {
+      "id": "00dcf9036e5f",
+      "source": "Online activation uses port 80 (HTTP) or port 443 (HTTPS)",
+      "target": "在线激活使用端口 80（HTTP）或端口 443（HTTPS）",
+      "note": ""
+    },
+    {
+      "id": "dc4bc11a3e09",
+      "source": "For offline activation, see Offline activation below",
+      "target": "如需离线激活，请参阅下方“离线激活”",
+      "note": ""
+    },
+    {
+      "id": "00c8541697d6",
+      "source": "Deactivate:",
+      "target": "停用：",
+      "note": ""
+    },
+    {
+      "id": "2f4efb81f448",
+      "source": "Start:",
+      "target": "启动：",
+      "note": ""
+    },
+    {
+      "id": "8f31c9364125",
+      "source": "This will run the server without installing a service.",
+      "target": "这会运行服务器，但不会安装服务。",
+      "note": ""
+    },
+    {
+      "id": "af1a68d9fc10",
+      "source": "Install:",
+      "target": "安装：",
+      "note": ""
+    },
+    {
+      "id": "e33b56b157fb",
+      "source": "This also starts the Windows service, named ",
+      "target": "这也会启动 Windows 服务，服务名称为 ",
+      "note": ""
+    },
+    {
+      "id": "3d9a79b6f4d3",
+      "source": "TurboFloatServer-5260",
+      "target": "TurboFloatServer-5260",
+      "note": ""
+    },
+    {
+      "id": "0a21210d26c9",
+      "source": "TurboFloatServer-6575",
+      "target": "TurboFloatServer-6575",
+      "note": ""
+    },
+    {
+      "id": "232f99a28e48",
+      "source": ", or ",
+      "target": "，或 ",
+      "note": ""
+    },
+    {
+      "id": "6dd52591beb6",
+      "source": "TurboFloatServer-6576",
+      "target": "TurboFloatServer-6576",
+      "note": ""
+    },
+    {
+      "id": "66e8aa9e3531",
+      "source": "This will require admin privileges",
+      "target": "这需要管理员权限",
+      "note": ""
+    },
+    {
+      "id": "b79b7e9b71d6",
+      "source": "Uninstall:",
+      "target": "卸载：",
+      "note": ""
+    },
+    {
+      "id": "6dc8dfbefd93",
+      "source": "May require admin privileges",
+      "target": "可能需要管理员权限",
+      "note": ""
+    },
+    {
+      "id": "abdc9d842f17",
+      "source": "Configure:",
+      "target": "配置：",
+      "note": ""
+    },
+    {
+      "id": "f05106e4b14d",
+      "source": "Connection port, thread count, lease length, logs, grace periods, and proxies",
+      "target": "连接端口、线程数、租约时长、日志、宽限期和代理",
+      "note": ""
+    },
+    {
+      "id": "6598858e1e97",
+      "source": "The server will listen for lease requests on the configured port (default port 13)",
+      "target": "服务器会在配置的端口上监听租约请求（默认端口 13）",
+      "note": ""
+    },
+    {
+      "id": "36f2178e8af0",
+      "source": "Offline activation",
+      "target": "离线激活",
+      "note": ""
+    },
+    {
+      "id": "5741f7402d16",
+      "source": "If you need offline activation, please contact us at ",
+      "target": "如果你需要离线激活，请通过 ",
+      "note": ""
+    },
+    {
+      "id": "94531b9643d7",
+      "source": "support",
+      "target": "support",
+      "note": ""
+    },
+    {
+      "id": "815d87a8489a",
+      "source": "jangafx",
+      "target": "jangafx",
+      "note": ""
+    },
+    {
+      "id": "81e677e2ccfe",
+      "source": "com",
+      "target": "com",
+      "note": ""
+    },
+    {
+      "id": "f0c5c8d8dd44",
+      "source": " and follow the steps below.",
+      "target": " 联系我们，并按照以下步骤操作。",
+      "note": ""
+    },
+    {
+      "id": "bc8e163ee8a5",
+      "source": "There are two steps to offline activation. You will send an activation request and receive a response:",
+      "target": "离线激活分为两步。你需要发送激活请求并接收响应：",
+      "note": ""
+    },
+    {
+      "id": "3156b17f1990",
+      "source": "Generating the activation request",
+      "target": "生成激活请求",
+      "note": ""
+    },
+    {
+      "id": "88daef70718a",
+      "source": "Pass in the product key and location for the activation request XML file",
+      "target": "传入产品密钥以及激活请求 XML 文件的位置",
+      "note": ""
+    },
+    {
+      "id": "8631cbdca7e9",
+      "source": "Using the activation response\n* After submitting the activation request to us and receiving the activation response, you can activate the TurboFloat Server\n* ",
+      "target": "使用激活响应：将激活请求提交给我们并收到激活响应后，可以激活 TurboFloat Server：",
+      "note": ""
+    },
+    {
+      "id": "86c4e43d3138",
+      "source": "Logs",
+      "target": "日志",
+      "note": ""
+    },
+    {
+      "id": "184ddff622f6",
+      "source": "Detailed logs about connections and leases go into the ",
+      "target": "关于连接和租约的详细日志会写入 ",
+      "note": ""
+    },
+    {
+      "id": "1e87c54bca9c",
+      "source": "tfs-log.txt",
+      "target": "tfs-log.txt",
+      "note": ""
+    },
+    {
+      "id": "b8c36729dbcc",
+      "source": " file",
+      "target": " 文件",
+      "note": ""
+    },
+    {
+      "id": "def593982ada",
+      "source": "Running the server using the ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "f45eab254ec3",
+      "source": " flag, will show these messages directly in the console",
+      "target": " 标志运行服务器时，这些消息会直接显示在控制台中",
+      "note": ""
+    },
+    {
+      "id": "e6907f87bbcf",
+      "source": "You can configure the log level using the ",
+      "target": "你可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "354b37ce78a1",
+      "source": "TurboFloatServer-config.xml",
+      "target": "TurboFloatServer-config.xml",
+      "note": ""
+    },
+    {
+      "id": "25bf9347d6a3",
+      "source": " configuration file",
+      "target": " 配置文件来配置日志级别",
+      "note": ""
+    },
+    {
+      "id": "e63a6e978992",
+      "source": "notification:",
+      "target": "notification：",
+      "note": ""
+    },
+    {
+      "id": "215d1722769c",
+      "source": " records when leases are created, removed, expired, and other nonessential, but possibly interesting information. This level also includes all other level outputs (warning, error).",
+      "target": " 记录租约创建、移除、过期以及其他非必要但可能有用的信息。此级别还包含所有其他级别输出（warning、error）。",
+      "note": ""
+    },
+    {
+      "id": "71d6805148d2",
+      "source": "warning:",
+      "target": "warning：",
+      "note": ""
+    },
+    {
+      "id": "ac5c7827e71b",
+      "source": " records things that are wrong with your configuration or other things that need to be fixed. This level also includes the next level of output (error).",
+      "target": " 记录配置错误或其他需要修复的问题。此级别还包含下一级输出（error）。",
+      "note": ""
+    },
+    {
+      "id": "9820ab96cc4c",
+      "source": "error:",
+      "target": "error：",
+      "note": ""
+    },
+    {
+      "id": "e861b48a4dae",
+      "source": " records when TurboFloat Server fails to do things it needs to do. For example, failures to load configuration data, failure to process data, etc.",
+      "target": " 记录 TurboFloat Server 未能完成其必须执行的操作，例如无法加载配置数据、无法处理数据等。",
+      "note": ""
+    },
+    {
+      "id": "a80a037f4c2b",
+      "source": "none:",
+      "target": "none：",
+      "note": ""
+    },
+    {
+      "id": "629f5db817af",
+      "source": " No log file will be written",
+      "target": " 不会写入日志文件",
+      "note": ""
+    },
+    {
+      "id": "8c127fb3ad5b",
+      "source": "Troubleshooting",
+      "target": "故障排查",
+      "note": ""
+    },
+    {
+      "id": "1eeee1a26f2d",
+      "source": "For detailed information, and instructions for other platforms, visit ",
+      "target": "有关详细信息以及其他平台的说明，请访问 ",
+      "note": ""
+    },
+    {
+      "id": "d94cc870c291",
+      "source": "If the information below doesn’t solve your problem, and you require any further support, please contact ",
+      "target": "如果以下信息无法解决你的问题，并且你需要进一步支持，请联系 ",
+      "note": ""
+    },
+    {
+      "id": "cf3e6a54e88f",
+      "source": "support",
+      "target": "support",
+      "note": ""
+    },
+    {
+      "id": "4d76c162f160",
+      "source": "jangafx",
+      "target": "jangafx",
+      "note": ""
+    },
+    {
+      "id": "2f5a53bfe5b6",
+      "source": "com",
+      "target": "com",
+      "note": ""
+    },
+    {
+      "id": "d0a700d0bd0e",
+      "source": "The software can’t acquire or maintain an active lease",
+      "target": "软件无法获取或维持活动租约",
+      "note": ""
+    },
+    {
+      "id": "fa484a8d0861",
+      "source": "If the license manager has connected to the license server, but the lease status in the license manager and in the software don’t match, you will need to close both the software and the license manager. Afterwards, reopen the software to acquire a lease.",
+      "target": "如果 License Manager（许可证管理器）已连接到许可证服务器，但 License Manager（许可证管理器）中的租约状态与软件中的状态不匹配，你需要同时关闭软件和 License Manager（许可证管理器）。随后重新打开软件以获取租约。",
+      "note": ""
+    },
+    {
+      "id": "7e333a7cb4a9",
+      "source": "Also, make sure that if you are trying to use the license manager to connect to the server, there are no environment variables named as described prior in this documentation.",
+      "target": "另外，如果你正在尝试使用 License Manager 连接服务器，请确保不存在前文档中所述名称的环境变量。",
+      "note": ""
+    },
+    {
+      "id": "7dcdab940566",
+      "source": "Error connecting to the license server",
+      "target": "连接许可证服务器时出错",
+      "note": ""
+    },
+    {
+      "id": "5da1afe6693d",
+      "source": "Some networks may be configured to block port 13. If you’re having trouble connecting to the license server, try to change this port to something that is allowed on your server.",
+      "target": "某些网络可能配置为阻止端口 13。如果你在连接许可证服务器时遇到问题，请尝试将此端口改为服务器上允许的其他端口。",
+      "note": ""
+    },
+    {
+      "id": "6f5d876e0c00",
+      "source": "Using different paths",
+      "target": "使用不同路径",
+      "note": ""
+    },
+    {
+      "id": "b852ee2bcb6e",
+      "source": "TurboFloatServer.exe",
+      "target": "TurboFloatServer.exe",
+      "note": ""
+    },
+    {
+      "id": "b662608a0beb",
+      "source": " assumes ",
+      "target": " 会假定 ",
+      "note": ""
+    },
+    {
+      "id": "6ae50b21ccdc",
+      "source": "TurboActivate.dat",
+      "target": "TurboActivate.dat",
+      "note": ""
+    },
+    {
+      "id": "b89e1cb3a10b",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c785f2224caa",
+      "source": "TurboFloatServer-config.xml",
+      "target": "TurboFloatServer-config.xml",
+      "note": ""
+    },
+    {
+      "id": "c1ac1de2012f",
+      "source": " are located with the server executable",
+      "target": " 与服务器可执行文件位于同一位置",
+      "note": ""
+    },
+    {
+      "id": "e3b80f227e09",
+      "source": "Use ",
+      "target": "使用 ",
+      "note": ""
+    },
+    {
+      "id": "2038c879c5aa",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "ad8c9718d332",
+      "source": " to pass custom paths:",
+      "target": " 传入自定义路径：",
+      "note": ""
+    },
+    {
+      "id": "990c378cf6bb",
+      "source": "Failed to uninstall the server",
+      "target": "服务器卸载失败",
+      "note": ""
+    },
+    {
+      "id": "c5879b3239e5",
+      "source": "In case of error message:\n* Failed to remove this service from the Windows Firewall. 0x80070057",
+      "target": "如果出现错误消息：\n* Failed to remove this service from the Windows Firewall. 0x80070057",
+      "note": ""
+    },
+    {
+      "id": "30b5126d80f5",
+      "source": "Try manually deleting the firewall rules in Windows Defender before trying to uninstall once more.",
+      "target": "请尝试在 Windows Defender 中手动删除防火墙规则，然后再次尝试卸载。",
+      "note": ""
+    },
+    {
+      "id": "8f977f267907",
+      "source": "The rules will be named: ",
+      "target": "这些规则将命名为：",
+      "note": ""
+    },
+    {
+      "id": "f28d08009fd0",
+      "source": " where ",
+      "target": "，其中 ",
+      "note": ""
+    },
+    {
+      "id": "2f0d60be8cc6",
+      "source": " can be ",
+      "target": " 可以是 ",
+      "note": ""
+    },
+    {
+      "id": "fa1558fc35ea",
+      "source": " or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "72a2ff4ae340",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "c5cb6eaa0251",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "cc47e38eac11",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "e652524cfe95",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c5e7771dfe72",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "12ce19157575",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "67b99426efbc",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "90a3e9437b38",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "fa26480f232a",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "c22292cb8a46",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "8afe834d5270",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "423d523d71fb",
+      "source": "JangaFX Floating Server",
+      "target": "JangaFX 浮动服务器",
+      "note": ""
+    },
+    {
+      "id": "97bc077a9b21",
+      "source": "Download",
+      "target": "下载",
+      "note": ""
+    },
+    {
+      "id": "62503d9ad41b",
+      "source": "Overview",
+      "target": "概览",
+      "note": ""
+    },
+    {
+      "id": "1d0e657e0923",
+      "source": "Launching the Server",
+      "target": "启动服务器",
+      "note": ""
+    },
+    {
+      "id": "e15bec62ac46",
+      "source": "Options",
+      "target": "选项",
+      "note": ""
+    },
+    {
+      "id": "c5014d82a05c",
+      "source": "Running as a Windows Service",
+      "target": "作为 Windows 服务运行",
+      "note": ""
+    },
+    {
+      "id": "5f79268f1cfe",
+      "source": "Client quick start guide",
+      "target": "客户端快速入门指南",
+      "note": ""
+    },
+    {
+      "id": "2653fce63b8f",
+      "source": "Legacy Floating Server",
+      "target": "旧版浮动服务器",
+      "note": ""
+    },
+    {
+      "id": "2982e2733edb",
+      "source": "Download",
+      "target": "下载",
+      "note": ""
+    },
+    {
+      "id": "a785d63a2116",
+      "source": "Quick start guide",
+      "target": "快速入门指南",
+      "note": ""
+    },
+    {
+      "id": "0cef8ad16bf2",
+      "source": "Offline activation",
+      "target": "离线激活",
+      "note": ""
+    },
+    {
+      "id": "b55f663cf1e3",
+      "source": "Logs",
+      "target": "日志",
+      "note": ""
+    },
+    {
+      "id": "7c166f445b5f",
+      "source": "Troubleshooting",
+      "target": "故障排查",
+      "note": ""
+    },
+    {
+      "id": "75e2d933d8f7",
+      "source": "The software can’t acquire or maintain an active lease",
+      "target": "软件无法获取或维持活动租约",
+      "note": ""
+    },
+    {
+      "id": "31a245aacc84",
+      "source": "Error connecting to the license server",
+      "target": "连接许可证服务器时出错",
+      "note": ""
+    },
+    {
+      "id": "aa2a2d2ed274",
+      "source": "Using different paths",
+      "target": "使用不同路径",
+      "note": ""
+    },
+    {
+      "id": "0a90b57275e5",
+      "source": "Failed to uninstall the server",
+      "target": "服务器卸载失败",
+      "note": ""
+    }
+  ]
+}

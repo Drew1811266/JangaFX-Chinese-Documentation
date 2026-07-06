@@ -1,0 +1,2925 @@
+<!doctype html>
+<html class="no-js" lang="zh-CN">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../../genindex.html" /><link rel="search" title="Search" href="../../../search.html" /><link rel="next" title="How-To Guides" href="How-To%20Guides/index.html" /><link rel="prev" title="Settings" href="settings.html" />
+
+    <link rel="shortcut icon" href="../../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>节点列表 - JangaFX 文档</title>
+      <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">隐藏导航侧边栏</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">隐藏目录侧边栏</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">切换站点导航侧边栏</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../../index.html"><div class="brand">JangaFX 文档</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">切换目录侧边栏</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../embergen/index.html">EmberGen 文档</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../embergen/pages/getting_started.html">入门</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../embergen/pages/references/index.html">参考</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../../embergen/pages/references/ui_reference.html">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../embergen/pages/references/settings.html">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../embergen/pages/references/node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/histogram.html">直方图</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/exportVDB.html">VDB 导出</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/randomization.html">随机化</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../embergen/pages/FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current has-children"><a class="reference internal" href="../../index.html">LiquiGen 文档</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../getting_started.html">入门</a></li>
+<li class="toctree-l2 current has-children"><a class="reference internal" href="index.html">参考</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="ui_reference.html">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="settings.html">设置</a></li>
+<li class="toctree-l3 current current-page"><a class="current reference internal" href="#">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/diagnostics.html">诊断</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/randomization.html">随机化</a></li>
+<li class="toctree-l4"><a class="reference internal" href="How-To%20Guides/expressions.html">表达式</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../illugen/index.html">IlluGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../geogen/index.html">GeoGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../licensing/index.html">浮动许可证指南</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>返回顶部</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">切换目录侧边栏</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <span class="target" id="nodelist"></span><section id="node-list">
+<h1>节点列表<a class="headerlink" href="#node-list" title="Permalink to this heading">#</a></h1>
+<section id="shape-primitive-primitiveicon">
+<h2>Shape: Primitive <a class="reference internal" href="../../../_images/shapeIcons_LG.gif"><img alt="shapes Icon" src="../../../_images/shapeIcons_LG.gif" style="width: 32.0px; height: 32.0px;" /></a><a class="headerlink" href="#shape-primitive-primitiveicon" title="Permalink to this heading">#</a></h2>
+<p>此节点表示一个形状图元。</p>
+<ul class="simple">
+<li><p><strong>Shape Activity：</strong> 如果设为 false，该形状会被忽略。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="105" height="719.88" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/shapePrimitives_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Type：</strong> 此形状使用的图元类型：</dt><dd><ul>
+<li><dl class="simple">
+<dt>Sphere <a class="reference internal" href="../../../_images/sphere.svg"><img alt="sphere Icon" height="22" src="../../../_images/sphere.svg" width="22" /></a> 只能进行均匀缩放的球形。</dt><dd><ul>
+<li><p><strong>Radius：</strong> 该 <em>Sphere</em> 形状的半径，单位为米。值越高，球体越大。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>Box <a class="reference internal" href="../../../_images/cube.svg"><img alt="box Icon" height="22" src="../../../_images/cube.svg" width="22" /></a> 可沿三个轴缩放的立方体：</dt><dd><ul>
+<li><p><strong>Size：</strong> 该 <em>Box</em> 形状的尺寸，单位为米。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>Capsule <a class="reference internal" href="../../../_images/capsule.svg"><img alt="capsule Icon" height="22" src="../../../_images/capsule.svg" width="22" /></a> 上下为球形端部的圆柱状形状：</dt><dd><ul>
+<li><p><strong>Length：</strong> 该 <em>Capsule</em> 形状的长度，单位为米。</p></li>
+<li><p><strong>Radius：</strong> 该 <em>Capsule</em> 形状的半径或厚度。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>Torus <a class="reference internal" href="../../../_images/torus.svg"><img alt="torus Icon" height="22" src="../../../_images/torus.svg" width="22" /></a> 由两个半径控制的甜甜圈形状：</dt><dd><ul>
+<li><p><strong>Minor Radius：</strong> Torus 形状的主半径，也就是到主环中心的距离。</p></li>
+<li><p><strong>Major Radius：</strong> Torus 形状的次半径，也就是沿主环挤出的圆形半径。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>Cylinder <a class="reference internal" href="../../../_images/cylinder.svg"><img alt="cylinder Icon" height="22" src="../../../_images/cylinder.svg" width="22" /></a> 圆柱条形：</dt><dd><ul>
+<li><p><strong>Radius：</strong> 该 <em>Cylinder</em> 形状的半径或厚度。</p></li>
+<li><p><strong>Height：</strong> 该 <em>Cylinder</em> 形状的高度或长度。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>Cone <a class="reference internal" href="../../../_images/cone.svg"><img alt="cone Icon" height="22" src="../../../_images/cone.svg" width="22" /></a> 顶部和底部半径可调的圆柱：</dt><dd><ul>
+<li><p><strong>Radius One：</strong> 该 <em>Cone</em> 形状第一个端盖（底部）的半径。</p></li>
+<li><p><strong>Radius Two：</strong> 该 <em>Cone</em> 形状第二个端盖（顶部）的半径。</p></li>
+<li><p><strong>Height：</strong> 该 <em>Cone</em> 形状的高度。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>Ellipsoid <a class="reference internal" href="../../../_images/elipsoid.svg"><img alt="ellipsoid Icon" height="22" src="../../../_images/elipsoid.svg" width="22" /></a> 可沿三个轴缩放的球体：</dt><dd><ul>
+<li><p><strong>Radius：</strong> 椭球形状沿 X、Y、Z 轴的半径。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Position：</strong> 形状的局部位置。</p></li>
+<li><p><strong>Rotation：</strong> 形状的旋转角度，单位为度。</p></li>
+</ul>
+</section>
+<section id="appearanceicon-appearance">
+<span id="appearancenode"></span><h2><a class="reference internal" href="../../../_images/material.svg"><img alt="appearance icon" height="18" src="../../../_images/material.svg" width="19" /></a> 外观<a class="headerlink" href="#appearanceicon-appearance" title="Permalink to this heading">#</a></h2>
+<p>用于控制另一个元素的外观，例如发射器、碰撞体或液体本身。</p>
+<ul class="simple">
+<li><p><strong>Appearance Preset：</strong> 将外观参数设置为类似特定材质。之后更改任意参数会把预设设为 custom。</p></li>
+<li><p><strong>Diffuse color：</strong> 设置材质的基础颜色。</p></li>
+<li><dl class="simple">
+<dt><strong>Refractive：</strong> 如果勾选，光线可以穿过材质，使其呈透明效果。这也会显示 <em>IOR</em> 参数。</dt><dd><ul>
+<li><p><strong>IOR：</strong> 材质的折射率，决定光线穿过材质时弯折的角度。例如，水的折射率为 1.33，玻璃约为 1.5。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="350.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/absorptionStrength_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Transmission color：</strong> 透射光的颜色。</p></li>
+<li><p><strong>Absorption strength：</strong> 定义光线穿过材质时被着色的程度（基于 Transmission color）。值越高吸收的光越多，值越低材质越透明。</p></li>
+<li><p><strong>Reflectivity：</strong> 材质的 Fresnel 反射率，定义在法线入射角/从正面观察表面时（<em>正视</em>，F0）。一些示例：塑料 0.04，水 0.02，宝石 0.05 - 0.16，皮肤 0.028…</p></li>
+<li><p><strong>Reflective color：</strong> 反射光的着色。所有电介质通常是无色（白色）的，而导体可以有颜色。只有色相和饱和度会产生影响。</p></li>
+<li><p><strong>Rim reflective color：</strong> 此参数控制相对于摄像机 90 度表面角处反射光的颜色（位于表面<em>边缘</em>）。物理准确的材质通常在此角度显示白色反射，但可以调整此设置来获得风格化效果，让边缘反射带有颜色。</p></li>
+<li><p><strong>Roughness：</strong> 值越低材质越平滑且反射越强，值越高材质越粗糙且漫反射越明显。</p></li>
+<li><p><strong>Emission intensity：</strong> 材质发出的光量。</p></li>
+<li><p><strong>Emission color：</strong> 发射光的颜色。</p></li>
+</ul>
+</section>
+<section id="collidericon-collider">
+<h2><a class="reference internal" href="../../../_images/collider1.svg"><img alt="collider node icon" height="18" src="../../../_images/collider1.svg" width="19" /></a> Collider<a class="headerlink" href="#collidericon-collider" title="Permalink to this heading">#</a></h2>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="350.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/import_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>与形状和导入节点配合使用，用于在场景中放置液体可以碰撞的对象。</p>
+<p>形状或导入模型可以连接到 <em>Shapes</em> 引脚，以设为液体模拟的碰撞对象。</p>
+<p>要让碰撞体成为场景的一部分，应将 <em>Collider</em> 节点的输出引脚 <a class="reference internal" href="../../../_images/collider1.svg"><img alt="collider node icon" height="18" src="../../../_images/collider1.svg" width="19" /></a> <em>Collider</em> 连接到 <em>Colliders</em> 输入引脚，该输入位于 <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点。</p>
+<section id="general">
+<h3>General<a class="headerlink" href="#general" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Collider activity：</strong> 碰撞体活动状态。关闭时，碰撞体不会碰撞，也不会注入速度。</p></li>
+<li><p><strong>Invert shape：</strong> 勾选后，形状外部会被视为内部，反之亦然。</p></li>
+<li><p><strong>Show：</strong> 此对象是否可见。</p></li>
+</ul>
+</section>
+<section id="appearance">
+<h3>Appearance<a class="headerlink" href="#appearance" title="Permalink to this heading">#</a></h3>
+<p>此选项卡中的参数控制连接到 <em>Shapes</em> 引脚的形状的视觉外观，该引脚属于 <a class="reference internal" href="../../../_images/collider1.svg"><img alt="collider node icon" height="18" src="../../../_images/collider1.svg" width="19" /></a> <em>Collider</em> 节点。</p>
+<p>这些参数与此处记录的 <a class="reference internal" href="../../../_images/material.svg"><img alt="appearance icon" height="18" src="../../../_images/material.svg" width="19" /></a> <em>Appearance</em> 节点中的参数完全相同！ <a class="reference internal" href="#appearancenode"><span class="std std-ref">此处</span></a>！</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="200.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/drain.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+</section>
+<section id="drainicon-drain">
+<h2><a class="reference internal" href="../../../_images/drain.svg"><img alt="drain node icon" height="18" src="../../../_images/drain.svg" width="19" /></a> Drain<a class="headerlink" href="#drainicon-drain" title="Permalink to this heading">#</a></h2>
+<p>与形状和导入节点配合使用，用于在场景中放置排水对象，液体接触后会被移除。</p>
+<p>要让排水体成为场景的一部分，应将 <em>Drain</em> 节点的输出引脚 <a class="reference internal" href="../../../_images/drain.svg"><img alt="drain node icon" height="18" src="../../../_images/drain.svg" width="19" /></a> <em>Drain</em> 连接到 <em>Drains</em> 输入引脚，该输入位于 <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点。</p>
+<section id="activity">
+<h3>Activity<a class="headerlink" href="#activity" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Drain activity：</strong> 排水体活动状态；如果设为 false，排水体会被忽略。</p></li>
+<li><p><strong>Invert shape：</strong> 勾选后，形状外部会被视为内部，反之亦然。</p></li>
+<li><p><strong>Show：</strong> 此对象是否可见。</p></li>
+</ul>
+</section>
+</section>
+<section id="emitterlg-icon-emitter">
+<span id="emitter-lg"></span><h2><a class="reference internal" href="../../../_images/emitter.svg"><img alt="emitter node icon" height="18" src="../../../_images/emitter.svg" width="19" /></a> Emitter<a class="headerlink" href="#emitterlg-icon-emitter" title="Permalink to this heading">#</a></h2>
+<p>与形状和导入节点配合使用，用于在场景中放置会发射液体的对象。</p>
+<p>要让发射器成为场景的一部分，应将 <em>Emitter</em> 节点的输出引脚 <a class="reference internal" href="../../../_images/emitter.svg"><img alt="emitter node icon" height="18" src="../../../_images/emitter.svg" width="19" /></a> <em>Emitter</em> 连接到 <em>Emitters</em> 输入引脚，该输入位于 <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点。</p>
+<section id="id1">
+<h3>Activity<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Emitter activity：</strong> 发射器活动状态；如果设为 false，发射器会被忽略。</p></li>
+<li><p><strong>Show：</strong> 此对象是否可见。</p></li>
+</ul>
+</section>
+<section id="behavior">
+<h3>Behavior<a class="headerlink" href="#behavior" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Emission Location：</strong> 决定从哪里发射。</dt><dd><ul>
+<li><p><em>Volume：</em> 可从整个体积发射。</p></li>
+<li><p><em>Surface：</em> 只在靠近表面处发射。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="326.3671875" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/VolumeFlowRateDensity_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Emission Mode：</strong> 决定何时发射。</dt><dd><ul>
+<li><p><em>Fill：</em> 创建新的液体来填充发射器内的空隙（通常是之前发射出的液体移走后留下的空隙）。这通常更适合生成层流。</p></li>
+<li><dl class="simple">
+<dt><em>Continuous Generation：</em> 无论如何都会按用户定义的速率创建新液体。这通常更适合生成湍流。</dt><dd><ul>
+<li><p><strong>Volume flow rate density：</strong> 每单位体积应生成多少液体体积。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Just once：</strong> 如果勾选，发射器只会在单个模拟步中发射一次，随后停止；适合创建初始液体体。</p></li>
+<li><p><strong>Reset previous liquid：</strong> 如果勾选，发射器内所有液体（无论新旧）的速度都会被设为发射器速度。例如，这对水下填充发射器很有用。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="210" height="420.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/lifetime_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Lifetime range：</strong> 设置已发射粒子的最小和最大寿命。请注意，需要在 <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点中启用粒子寿命，此参数才会生效。</p></li>
+<li><p><strong>Dynamic viscosity coefficient（动态黏度系数）：</strong> 决定液体的<em>黏稠程度</em>。更严格地说，它是液体对剪切流动的阻力。Density 会影响其效果强度，因此在匹配真实液体数据时，也应尝试匹配 Density（位于 <em>Density</em> 选项卡中，属于 <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点）。还要注意，黏度效果通常在小尺度下更明显。查找资料时请注意，动态黏度系数和运动黏度系数相关但并不相同。另外，需要在 <em>Viscosity</em> 选项卡中启用黏度，该选项卡属于 <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点，此参数才会生效。建议：模拟高黏度液体时，让液体变得更粘（使用下面的参数）会有帮助。你可能还需要降低 <em>Solver</em> 选项卡中的 PIC/FLIP ratio，该选项卡属于 <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="700" height="170.44270833333334" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/DynamicViscosityCoefficient_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Stickiness：</strong> 液体黏附到碰撞体上的程度。对于黏性液体，大多数情况下将此值设为 100% 更符合物理。</p></li>
+</ul>
+</section>
+<section id="velocity">
+<h3>Velocity<a class="headerlink" href="#velocity" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="239.94140625" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/emitter_speed_target_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Speed：</strong> 已发射液体的初始速度（如果启用 <em>Reset previous liquid</em>，通常也包括发射器内已有液体的初始速度）。</p></li>
+<li><dl class="simple">
+<dt><strong>Direction：</strong> 决定如何指定速度方向。</dt><dd><ul>
+<li><dl class="simple">
+<dt><em>Fixed：</em> 已发射液体具有固定的初始方向。</dt><dd><ul>
+<li><p><strong>Fixed direction：</strong> 初始液体速度的方向。向量长度会被忽略，请使用 <em>Speed</em> 参数指定液体移动速度。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><em>Towards Target：</em> 已发射液体会朝向目标。</dt><dd><ul>
+<li><p><strong>Target Position：</strong> 初始液体速度的目标位置。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Velocity transfer：</strong> 发射器在模拟中的速度传递百分比。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="350" height="275.48828125" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/emitter_velocity_transfer_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+</section>
+<section id="forceslg-icon-forces">
+<h2><a class="reference internal" href="../../../_images/forces_group.svg"><img alt="forces icon" height="18" src="../../../_images/forces_group.svg" width="19" /></a> 力<a class="headerlink" href="#forceslg-icon-forces" title="Permalink to this heading">#</a></h2>
+<section id="forceconstanticon-force-constant">
+<h3><a class="reference internal" href="../../../_images/constant1.svg"><img alt="constant force icon" height="18" src="../../../_images/constant1.svg" width="19" /></a> Force: Constant<a class="headerlink" href="#forceconstanticon-force-constant" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="250" height="317.3828125" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/constant_force_active_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>对场景中的液体施加恒定力。默认情况下，该力会全局应用，但也可以用形状进行遮罩，使其只应用到特定区域。</p>
+<section id="id2">
+<h4>Activity<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Force Active：</strong> 力的活动状态；如果设为 false，该力会被忽略。</p></li>
+<li><p><strong>Show Force Masks：</strong> 如果勾选，连接到 <em>Mask Shapes</em> 引脚的形状会在视口中可见，用于显示力被遮罩的位置。</p></li>
+</ul>
+</section>
+<section id="id3">
+<h4>Behavior<a class="headerlink" href="#id3" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Apply force：</strong> 按轴向粒子施加恒定加速度。</p></li>
+</ul>
+</section>
+<section id="mask">
+<span id="forcemask"></span><h4>Mask<a class="headerlink" href="#mask" title="Permalink to this heading">#</a></h4>
+<p>可以使用接入 <em>Mask Shapes</em> 输入引脚的形状来遮罩力。此遮罩效果可以用本选项卡中的参数调整。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="450" height="292.13709677419354" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/constant_force_mask_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Mask Falloff：</strong> 遮罩衰减类型。</dt><dd><ul>
+<li><p><em>None：</em> 不应用遮罩衰减，遮罩会直接表示所连接的遮罩形状。</p></li>
+<li><p><em>Linear</em> 力会在指定的遮罩衰减距离内，使用线性插值从遮罩形状内部的全强度逐渐减弱到遮罩形状外部的完全关闭。此插值适合获得最可预测的结果。</p></li>
+<li><p><em>Quadratic：</em> 力会在指定的遮罩衰减距离内，使用二次插值从遮罩形状内部的全强度逐渐减弱到遮罩形状外部的完全关闭。此插值适合在遮罩形状边界获得更平滑的过渡。</p></li>
+<li><p><em>Cubic：</em> 力会在指定的遮罩衰减距离内，使用三次插值从遮罩形状内部的全强度逐渐减弱到遮罩形状外部的完全关闭。此插值通常适合获得更平滑的过渡。</p></li>
+<li><dl class="simple">
+<dt><em>Custom：</em> 力会在指定的遮罩衰减距离内，使用基于 <em>Mask falloff exponent</em> 参数的自定义插值，从遮罩形状内部的全强度逐渐减弱到遮罩形状外部的完全关闭。此插值适合强制产生特定行为，尤其是在衰减距离中段。</dt><dd><ul>
+<li><p><strong>Mask falloff exponent：</strong> 衰减因子；0 会导致没有衰减。可以把它理解为从施力到关闭力之间渐变的 gamma 值。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Mask falloff distance：</strong> 应用衰减的最大距离，从遮罩表面开始向外延伸到此值；遮罩内部不会应用衰减。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="211.8421052631579" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/constant_force_mask_dilation_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <div class="line-block">
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><p>该 <em>Mask falloff distance</em> 参数在 <em>Mask Falloff</em> 设置为 <em>None 时不会显示</em>!</p>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Mask dilation：</strong> 扩张输入遮罩形状，同时保留其原始状态；类似于缩放图元，但不会改变图元本身。</p></li>
+</ul>
+</section>
+</section>
+<section id="forceshapeicon-force-shape">
+<h3><a class="reference internal" href="../../../_images/shape.svg"><img alt="shape force icon" height="18" src="../../../_images/shape.svg" width="19" /></a> Force: Shape<a class="headerlink" href="#forceshapeicon-force-shape" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="509.99999999999994" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/shape_force_example_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>基于形状或导入网格的表面或体积生成的力场。</p>
+<section id="id4">
+<h4>Activity<a class="headerlink" href="#id4" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Force Active：</strong> 力的活动状态；如果设为 false，该力会被忽略。</p></li>
+<li><p><strong>Show Force Masks：</strong> 如果勾选，连接到 <em>Mask Shapes</em> 引脚的形状会在视口中可见，用于显示力被遮罩的位置。</p></li>
+<li><p><strong>Show：</strong> 力形状对象是否可见。</p></li>
+</ul>
+</section>
+<section id="id5">
+<h4>Behavior<a class="headerlink" href="#id5" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Matching Inside/Outside values：</strong> 如果启用，应用到形状外部的值会镜像形状内部的值。如果未勾选，则会显示以下参数：</dt><dd><ul>
+<li><p><strong>Inside Constant force dampening：</strong> 补偿形状内部的恒定力；0 表示不补偿，1 表示完全补偿（恒定力没有效果）。</p></li>
+<li><p><strong>Inside Attract Strength：</strong> 形状内部的力强度。正值会向表面拉拽，负值会从表面推开。</p></li>
+<li><p><strong>Inside Falloff：</strong> 基于到表面距离的衰减效果；0 表示无衰减（恒定力）。</p></li>
+<li><p><strong>Outside Constant force dampening：</strong> 补偿形状外部的恒定力；0 表示不补偿，1 表示完全补偿（恒定力没有效果）。</p></li>
+<li><p><strong>Outside Attract Strength：</strong> 形状外部的力强度。正值会向表面拉拽，负值会从表面推开。</p></li>
+<li><p><strong>Outside Falloff：</strong> 基于到表面距离的衰减效果；0 表示无衰减（恒定力）。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="325.7142857142857" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/shape_force_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Constant force dampening：</strong> 补偿此力应用位置处的恒定力；0 表示不补偿，1 表示完全补偿（恒定力没有效果）。</p></li>
+<li><p><strong>Attract Strength：</strong> 朝向形状的力强度。正值会向表面拉拽，负值会从表面推开。</p></li>
+<li><p><strong>Falloff：</strong> 基于到表面距离的衰减效果；0 表示没有衰减，力会在模拟中全局应用。</p></li>
+<li><p><strong>Shape dilation：</strong> 扩张输入形状，同时保留其原始状态；等同于缩放图元/网格，但不会改变它本身。</p></li>
+</ul>
+</section>
+<section id="id6">
+<h4>Mask<a class="headerlink" href="#id6" title="Permalink to this heading">#</a></h4>
+<p>可以使用接入 <em>Mask Shapes</em> 输入引脚的形状来遮罩力。此遮罩效果可使用本选项卡中的参数调整，这些参数与此处记录的 <a class="reference internal" href="../../../_images/constant1.svg"><img alt="constant force icon" height="18" src="../../../_images/constant1.svg" width="19" /></a> <em>Force: Constant</em> 节点中的参数相同，文档见 <a class="reference internal" href="#forcemask"><span class="std std-ref">此处</span></a>！</p>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="400" height="359.86622073578593" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/shape_force_torus_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+</section>
+<section id="forcedragicon-force-drag">
+<h3><a class="reference internal" href="../../../_images/drag.svg"><img alt="drag force icon" height="18" src="../../../_images/drag.svg" width="19" /></a> Force: Drag<a class="headerlink" href="#forcedragicon-force-drag" title="Permalink to this heading">#</a></h3>
+<p>创建一个与流体当前速度相反的力，用于阻尼其运动。</p>
+<section id="id7">
+<h4>Activity<a class="headerlink" href="#id7" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Force Active：</strong> 力的活动状态；如果设为 false，该力会被忽略。</p></li>
+<li><p><strong>Show Force Masks：</strong> 如果勾选，连接到 <em>Mask Shapes</em> 引脚的形状会在视口中可见，用于显示力被遮罩的位置。</p></li>
+</ul>
+</section>
+<section id="id8">
+<h4>Behavior<a class="headerlink" href="#id8" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Strength：</strong> 力强度，即最终阻力的线性乘数。值越高，液体减速越快。</p></li>
+<li><p><strong>Power：</strong> 对于阻力，移动更快的粒子会比移动更慢的粒子受到更强的减速。此指数控制这种效果。较小的指数会让效果不那么明显，较大的指数会让效果更明显。物理上正确的值为 2。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="700" height="258.5858585858586" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/drag_force_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="id9">
+<h4>Mask<a class="headerlink" href="#id9" title="Permalink to this heading">#</a></h4>
+<p>可以使用接入 <em>Mask Shapes</em> 输入引脚的形状来遮罩力。此遮罩效果可使用本选项卡中的参数调整，这些参数与此处记录的 <a class="reference internal" href="../../../_images/constant1.svg"><img alt="constant force icon" height="18" src="../../../_images/constant1.svg" width="19" /></a> <em>Force: Constant</em> 节点中的参数相同，文档见 <a class="reference internal" href="#forcemask"><span class="std std-ref">此处</span></a>！</p>
+</section>
+</section>
+<section id="forceturbulenceicon-force-turbulence">
+<h3><a class="reference internal" href="../../../_images/turbulence.svg"><img alt="turbulence force icon" height="18" src="../../../_images/turbulence.svg" width="19" /></a> Force: Turbulence<a class="headerlink" href="#forceturbulenceicon-force-turbulence" title="Permalink to this heading">#</a></h3>
+<p>向模拟中注入噪声。</p>
+<section id="id10">
+<h4>Activity<a class="headerlink" href="#id10" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Force Active：</strong> 力的活动状态；如果设为 false，该力会被忽略。</p></li>
+<li><p><strong>Show Force Masks：</strong> 如果勾选，连接到 <em>Mask Shapes</em> 引脚的形状会在视口中可见，用于显示力被遮罩的位置。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="227.2" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/turbulenceShowcase_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="id11">
+<h4>Behavior<a class="headerlink" href="#id11" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Scale：</strong> 噪声力的相对尺度。值越高，噪声频率越低，会在受影响液体中产生更大的变形。例如，可用于创建更大的波浪。值越低，噪声频率越高，会产生更小的变形。例如，可用于向液体添加更多细节。</p></li>
+<li><p><strong>Seed：</strong> 生成噪声的种子。不同种子会生成独特的随机噪声图案。</p></li>
+<li><p><strong>Octaves：</strong> 要组合的噪声图案（octaves）数量。值越高会为噪声添加更多细节，但计算成本也更高。</p></li>
+<li><p><strong>Lacunarity：</strong> Lacunarity 决定每个 octave 的尺度如何变化。噪声频率会乘以此值。</p></li>
+<li><p><strong>Gain：</strong> Gain（增益）决定每个 octave（倍频层）的振幅如何变化。大于 1.0 的 gain（增益）会放大每个 octave（倍频层）的噪声，小于 1.0 的值会衰减它。</p></li>
+<li><p><strong>Strength：</strong> 噪声力强度。值越高，湍流量越大。</p></li>
+<li><p><strong>Animation Speed：</strong> 噪声的动画速度。0 表示静态噪声。值越高，噪声图案随时间变化越快。</p></li>
+<li><p><strong>Bias：</strong> Bias 会让噪声更倾向于指向特定方向。给定向量同时决定方向以及朝该方向偏置的程度。值越接近零，噪声越随机。</p></li>
+<li><p><strong>Rotation：</strong> 噪声力的相对方向。更改旋转会整体旋转整个噪声图案。</p></li>
+</ul>
+</section>
+<section id="id12">
+<h4>Mask<a class="headerlink" href="#id12" title="Permalink to this heading">#</a></h4>
+<p>可以使用接入 <em>Mask Shapes</em> 输入引脚的形状来遮罩力。此遮罩效果可使用本选项卡中的参数调整，这些参数与此处记录的 <a class="reference internal" href="../../../_images/constant1.svg"><img alt="constant force icon" height="18" src="../../../_images/constant1.svg" width="19" /></a> <em>Force: Constant</em> 节点中的参数相同，文档见 <a class="reference internal" href="#forcemask"><span class="std std-ref">此处</span></a>！</p>
+</section>
+</section>
+<section id="forcelineicon-force-line">
+<h3><a class="reference internal" href="../../../_images/line1.svg"><img alt="line force icon" height="18" src="../../../_images/line1.svg" width="19" /></a> Force: Line<a class="headerlink" href="#forcelineicon-force-line" title="Permalink to this heading">#</a></h3>
+<p>围绕一条线生成力，可用于向模拟和粒子注入自定义速度。这适合创建龙卷风、推力、风切变、旋转传送门以及各种其他现象。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="325.43859649122805" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/line_force_twist_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <section id="id13">
+<h4>Activity<a class="headerlink" href="#id13" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Force Active：</strong> 力的活动状态；如果设为 false，该力会被忽略。</p></li>
+<li><p><strong>Show Force Masks：</strong> 如果勾选，连接到 <em>Mask Shapes</em> 引脚的形状会在视口中可见，用于显示力被遮罩的位置。</p></li>
+</ul>
+</section>
+<section id="id14">
+<h4>Behavior<a class="headerlink" href="#id14" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Position：</strong> 线力在世界空间中的位置。</p></li>
+<li><p><strong>Rotation：</strong> 力在世界空间中的朝向和方向，按每个旋转轴以度为单位。</p></li>
+<li><p><strong>Push Strength：</strong> 沿线方向推动的强度。负值会反转方向。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="415.2" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/line_force_push_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul>
+<li><p><strong>Twist Strength：</strong> 绕线扭转的强度。正值会逆时针扭转，负值会顺时针扭转。</p></li>
+<li><p><strong>Repel Strength：</strong> 从线向外排斥或向线吸引的强度。正值会从线向外推开，负值会向线拉近。</p></li>
+<li><dl>
+<dt><strong>Falloff：</strong> 衰减类型。</dt><dd><ul class="simple">
+<li><p><em>None：</em> 不应用衰减。线力会同等影响整个模拟。</p></li>
+<li><p><em>Linear</em> 力会在指定的衰减半径内，使用线性插值从线处的全强度逐渐减弱到远离线处的完全关闭。此插值适合获得最可预测的结果。</p></li>
+<li><p><em>Quadratic：</em> 力会在指定的衰减半径内，使用二次插值从线处的全强度逐渐减弱到远离线处的完全关闭。此插值适合在衰减起点和终点获得更平滑的过渡。</p></li>
+<li><p><em>Cubic：</em> 力会在指定的衰减半径内，使用三次插值从线处的全强度逐渐减弱到远离线处的完全关闭。此插值通常适合获得更平滑的过渡。</p></li>
+<li><dl class="simple">
+<dt><em>Custom：</em> 力会在指定的衰减半径内，使用基于 <em>Falloff exponent</em> 参数的自定义插值，从线处的全强度逐渐减弱到远离线处的完全关闭。此插值适合强制产生特定行为，尤其是在衰减距离中段。</dt><dd><ul>
+<li><p><strong>Falloff exponent：</strong> 衰减因子；0 会导致没有衰减。可以把它理解为从施力到关闭力之间渐变的 gamma 值。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<blockquote>
+<div><p>以下参数只会在 <em>Falloff</em> 未设置为 <em>None</em>!</p>
+</div></blockquote>
+</dd>
+</dl>
+</li>
+</ul>
+<a class="reference internal image-reference" href="../../../_images/line_force_display_LG.png"><img alt="line force display" class="align-right" src="../../../_images/line_force_display_LG.png" style="width: 242.56px; height: 389.12px;" /></a>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Use line segment：</strong> 如果勾选，力会限制到一段线段，而不是无限长的线。</dt><dd><ul>
+<li><p><strong>Line segment length：</strong> 线段长度。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Inverse falloff：</strong> 如果勾选，衰减会反转：力在衰减半径外最强，然后越接近线越减弱。默认情况下，力在线附近最强，并会减弱到衰减半径。</p></li>
+<li><p><strong>Falloff percent：</strong> 衰减范围外要移除的力的比例。</p></li>
+<li><p><strong>Falloff radius：</strong> 力衰减半径，单位为米。如果存在衰减内部边界，衰减半径会从内部边界半径处开始。</p></li>
+<li><p><strong>Falloff inner bound：</strong> 距离线的半径，单位为米；在此半径内力最强且没有衰减。也可以理解为从线开始计算的衰减起点半径。</p></li>
+</ul>
+</section>
+<section id="id15">
+<h4>Mask<a class="headerlink" href="#id15" title="Permalink to this heading">#</a></h4>
+<p>可以使用接入 <em>Mask Shapes</em> 输入引脚的形状来遮罩力。此遮罩效果可使用本选项卡中的参数调整，这些参数与此处记录的 <a class="reference internal" href="../../../_images/constant1.svg"><img alt="constant force icon" height="18" src="../../../_images/constant1.svg" width="19" /></a> <em>Force: Constant</em> 节点中的参数相同，文档见 <a class="reference internal" href="#forcemask"><span class="std std-ref">此处</span></a>！</p>
+</section>
+</section>
+<section id="forcetoroidalicon-force-toroidal">
+<h3><a class="reference internal" href="../../../_images/toroidal1.svg"><img alt="toroidal force icon" height="18" src="../../../_images/toroidal1.svg" width="19" /></a> Force: Toroidal<a class="headerlink" href="#forcetoroidalicon-force-toroidal" title="Permalink to this heading">#</a></h3>
+<p>用于向模拟和粒子注入自定义速度。它模拟类似<em>磁场</em>。</p>
+<section id="id16">
+<h4>Activity<a class="headerlink" href="#id16" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Force Active：</strong> 力的活动状态；如果设为 false，该力会被忽略。</p></li>
+<li><p><strong>Show Force Masks：</strong> 如果勾选，连接到 <em>Mask Shapes</em> 引脚的形状会在视口中可见，用于显示力被遮罩的位置。</p></li>
+</ul>
+</section>
+<section id="id17">
+<h4>Behavior<a class="headerlink" href="#id17" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Position：</strong> 环形力在世界空间中的位置。</p></li>
+<li><p><strong>Rotation：</strong> 力在世界空间中的朝向和方向，按每个旋转轴以度为单位。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="359.46666666666664" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/toroidal_force_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul>
+<li><p><strong>Push Strength：</strong> 沿环面形状的圆穿过并环绕推动的强度。负值会反转方向。</p></li>
+<li><p><strong>Twist Strength：</strong> 沿虚线环面圆扭转的强度。正值会逆时针扭转，负值会顺时针扭转。</p></li>
+<li><p><strong>Repel Strength：</strong> 从虚线环面圆向外排斥或向其吸引的强度。正值会从圆向外推开，负值会向圆拉近。</p></li>
+<li><p><strong>Radius：</strong> 环面的半径。</p></li>
+<li><dl>
+<dt><strong>Falloff：</strong> 衰减类型。</dt><dd><ul class="simple">
+<li><p><em>None：</em> 不应用衰减。环形力会同等影响整个模拟。</p></li>
+<li><p><em>Linear</em> 力会在指定的衰减半径内，使用线性插值从虚线环面圆处的全强度逐渐减弱到远离该圆处的完全关闭。此插值适合获得最可预测的结果。</p></li>
+<li><p><em>Quadratic：</em> 力会在指定的衰减半径内，使用二次插值从虚线环面圆处的全强度逐渐减弱到远离该圆处的完全关闭。此插值适合在衰减起点和终点获得更平滑的过渡。</p></li>
+<li><p><em>Cubic：</em> 力会在指定的衰减半径内，使用三次插值从虚线环面圆处的全强度逐渐减弱到远离该圆处的完全关闭。此插值通常适合获得更平滑的过渡。</p></li>
+<li><dl class="simple">
+<dt><em>Custom：</em> 力会在指定的衰减半径内，使用基于 <em>Falloff exponent</em> 参数的自定义插值，从虚线环面圆处的全强度逐渐减弱到远离该圆处的完全关闭。此插值适合强制产生特定行为，尤其是在衰减距离中段。</dt><dd><ul>
+<li><p><strong>Falloff exponent：</strong> 衰减因子；0 会导致没有衰减。可以把它理解为从施力到关闭力之间渐变的 gamma 值。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<blockquote>
+<div><p>以下参数只会在 <em>Falloff</em> 未设置为 <em>None</em>!</p>
+</div></blockquote>
+</dd>
+</dl>
+</li>
+</ul>
+<a class="reference internal image-reference" href="../../../_images/toroidal_force_display_LG.png"><img alt="toroidal force display" class="align-right" src="../../../_images/toroidal_force_display_LG.png" style="width: 337.6px; height: 276.48px;" /></a>
+<ul class="simple">
+<li><p><strong>Inverse falloff：</strong> 如果勾选，衰减会反转：力在衰减半径外最强，然后越接近虚线环面圆越减弱。默认情况下，力在虚线环面圆附近最强，并会减弱到衰减半径。</p></li>
+<li><p><strong>Falloff percent：</strong> 衰减范围外要移除的力的比例。</p></li>
+<li><p><strong>Falloff radius：</strong> 力衰减半径，单位为米。如果存在衰减内部边界，衰减半径会从内部边界半径处开始。</p></li>
+<li><p><strong>Falloff inner bound：</strong> 距离虚线环面圆的半径，单位为米；在此半径内力最强且没有衰减。也可以理解为从虚线环面圆开始计算的衰减起点半径。</p></li>
+</ul>
+</section>
+<section id="id18">
+<h4>Mask<a class="headerlink" href="#id18" title="Permalink to this heading">#</a></h4>
+<p>可以使用接入 <em>Mask Shapes</em> 输入引脚的形状来遮罩力。此遮罩效果可使用本选项卡中的参数调整，这些参数与此处记录的 <a class="reference internal" href="../../../_images/constant1.svg"><img alt="constant force icon" height="18" src="../../../_images/constant1.svg" width="19" /></a> <em>Force: Constant</em> 节点中的参数相同，文档见 <a class="reference internal" href="#forcemask"><span class="std std-ref">此处</span></a>！</p>
+</section>
+</section>
+</section>
+<section id="lightsicon-light">
+<h2><a class="reference internal" href="../../../_images/lights.svg"><img alt="lights icon" height="18" src="../../../_images/lights.svg" width="18" /></a> Light<a class="headerlink" href="#lightsicon-light" title="Permalink to this heading">#</a></h2>
+<section id="directionallighticon-light-directional">
+<h3><a class="reference internal" href="../../../_images/directional.svg"><img alt="directional light icon" height="22" src="../../../_images/directional.svg" width="22" /></a> Light: Directional<a class="headerlink" href="#directionallighticon-light-directional" title="Permalink to this heading">#</a></h3>
+<p>模拟太阳的方向光。此节点通常作为 <a class="reference internal" href="../../../_images/sky.svg"><img alt="sky icon" height="22" src="../../../_images/sky.svg" width="22" /></a> <em>Skybox</em> 节点的输入使用。</p>
+<ul class="simple">
+<li><p><strong>Active：</strong> 如果设为 false，该光源会被忽略。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="213.2992327365729" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/lights_directional_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Direction definition：</strong> 决定方向的方式。</dt><dd><ul>
+<li><dl class="simple">
+<dt><em>Angles：</em> 使用方位角（旋转）和仰角确定光照方向。</dt><dd><ul>
+<li><p><strong>Azimuth：</strong> 方向光的旋转。</p></li>
+<li><p><strong>Elevation：</strong> 方向光的仰角。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><em>Positions：</em> 使用源位置和目标位置确定光照方向。</dt><dd><ul>
+<li><p><strong>Source position：</strong> 光源在世界空间中的位置。</p></li>
+<li><p><strong>Target position：</strong> 光源目标在世界空间中的位置。方向光会指向此目标位置。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Light intensity：</strong> 光的强度。</p></li>
+<li><p><strong>Light color：</strong> 光源发出的颜色。</p></li>
+<li><p><strong>Angular size：</strong> 光源的角大小。它控制光源的表观尺寸。值越大，阴影越柔和。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="352.94117647058823" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/lights_point_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="pointlighticon-light-point">
+<h3><a class="reference internal" href="../../../_images/point.svg"><img alt="point light icon" height="18" src="../../../_images/point.svg" width="18" /></a> Light: Point<a class="headerlink" href="#pointlighticon-light-point" title="Permalink to this heading">#</a></h3>
+<p>向所有方向均匀发光的光源。</p>
+<ul class="simple">
+<li><p><strong>Active：</strong> 如果设为 false，该光源会被忽略。</p></li>
+<li><p><strong>Light intensity：</strong> 光的强度。</p></li>
+<li><p><strong>Light color：</strong> 光源发出的颜色。</p></li>
+<li><p><strong>Position：</strong> 光在世界空间中的位置。</p></li>
+<li><p><strong>Light radius：</strong> 点光源的尺寸。可以把它理解为灯泡半径。值越高，光源越大，会产生更柔和的阴影和更大的高光。</p></li>
+</ul>
+</section>
+<section id="arealighticon-light-area">
+<h3><a class="reference internal" href="../../../_images/light_area.svg"><img alt="ambient light icon" height="18" src="../../../_images/light_area.svg" width="19" /></a> Light: Area<a class="headerlink" href="#arealighticon-light-area" title="Permalink to this heading">#</a></h3>
+<p>从矩形平面的一面或两面发光的光源。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="350.8951406649616" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/lights_area_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Active：</strong> 如果设为 false，该光源会被忽略。</p></li>
+<li><p><strong>Light intensity：</strong> 光的强度。</p></li>
+<li><p><strong>Light color：</strong> 光源发出的颜色。</p></li>
+<li><p><strong>Position：</strong> 光在世界空间中的位置。</p></li>
+<li><p><strong>Rotation：</strong> 面光源的旋转。</p></li>
+<li><p><strong>Dimension：</strong> 面光源的高度和宽度。较大的光源会带来更柔和的外观和更大的高光；较小的光源会带来更高对比度和更小高光。</p></li>
+<li><p><strong>Double sided：</strong> 如果勾选，面光源背面也会发光。</p></li>
+</ul>
+</section>
+</section>
+<section id="ww-groupicon-whitewater">
+<h2><a class="reference internal" href="../../../_images/ww_group.svg"><img alt="white water group icon" height="18" src="../../../_images/ww_group.svg" width="19" /></a> Whitewater（白水）<a class="headerlink" href="#ww-groupicon-whitewater" title="Permalink to this heading">#</a></h2>
+<section id="ww-icon-whitewater">
+<h3><a class="reference internal" href="../../../_images/ww.svg"><img alt="white water node icon" height="18" src="../../../_images/ww.svg" width="19" /></a> Whitewater（白水）<a class="headerlink" href="#ww-icon-whitewater" title="Permalink to this heading">#</a></h3>
+<p>辅助创建并决定场景中白水的行为。要生成白水，需要将此节点连接到 <em>Whitewater</em> 引脚，该引脚位于 <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点上，白水效果才会存在。</p>
+<section id="id19">
+<h4>Activity<a class="headerlink" href="#id19" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="322.98136645962734" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/whitewater_simulation_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Whitewater activity（白水活动）：</strong> 如果勾选，白水系统处于活动状态。如果未勾选，则不会生成白水粒子。</p></li>
+<li><p><strong>Show：</strong> 白水是否可见。</p></li>
+</ul>
+</section>
+<section id="simulation">
+<h4>Simulation<a class="headerlink" href="#simulation" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Simulate spray：</strong> 切换是否模拟飞溅，或立即清除飞溅粒子。</p></li>
+<li><p><strong>Simulate foam：</strong> 切换是否模拟泡沫，或立即清除泡沫粒子。</p></li>
+<li><p><strong>Simulate bubbles：</strong> 切换是否模拟气泡，或立即清除气泡粒子。</p></li>
+</ul>
+</section>
+<section id="source">
+<h4>Source<a class="headerlink" href="#source" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="396.38709677419354" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/whitewater_source_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Trapped air: Range：</strong> 决定因 trapped air（滞留空气）而发射粒子的位置范围。滞留空气以黄色表示，非滞留空气会从青色过渡到紫色。</p></li>
+<li><p><strong>Trapped air: Max Depth：</strong> 空气可被滞留的最大深度（生成气泡）。</p></li>
+<li><p><strong>Wave crest: Range：</strong> 决定何时在波峰上发射粒子的数值范围。波峰以黄色表示。</p></li>
+<li><p><strong>Trapped air: Emission rate：</strong> 因滞留空气而发射的每体素每秒粒子数。</p></li>
+<li><p><strong>Wave crest: Emission rate：</strong> 在波峰上发射的每体素每秒粒子数。</p></li>
+<li><p><strong>Initial HP：</strong> 分配给粒子的生命值范围。不同白水粒子类型（飞溅、泡沫或气泡）会以不同速率消耗生命值。当所有生命值被消耗后，白水粒子会死亡。生命值消耗速率由 Dynamics 选项卡中的 decay 参数指定。</p></li>
+<li><p><strong>Foam: initial spread（泡沫初始扩散）：</strong> 决定泡沫初始方向的随机程度。如果白水跳出水面超过预期，请降低此值。</p></li>
+<li><p><strong>Bubbles: initial spread（气泡初始扩散）：</strong> 决定气泡初始方向的随机程度。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="250.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/whitewater_surface_offset_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="dynamics">
+<h4>Dynamics<a class="headerlink" href="#dynamics" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Surface offset：</strong> 值越高，泡沫会离液体表面越远。值越低，泡沫会更深入液体表面。</p></li>
+<li><p><strong>Apply liquid drains：</strong> 除了此节点上 pin 连接的自定义排水体外，还将流体常规模拟中应用的相同排水体应用到白水。</p></li>
+<li><p><strong>Spray: Apply liquid forces（飞溅：应用液体力）：</strong> 除了此节点上 pin 连接的自定义力外，还将流体常规模拟中应用的相同力应用到白水。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="400.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/whitewater_spray_bouyancy_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Spray: Buoyancy（飞溅：浮力）：</strong> 由于飞溅浸没在空气中而施加到飞溅上的加速度。可用于让飞溅停留更久，或以较低成本模拟风对飞溅的影响。</p></li>
+<li><p><strong>Spray: Decay：</strong> 飞溅每秒失去的生命值。粒子生命值归零后会从模拟中移除。</p></li>
+<li><p><strong>Foam: Decay：</strong> 泡沫每秒失去的生命值。粒子生命值归零后会从模拟中移除。</p></li>
+<li><p><strong>Foam: Drag：</strong> 泡沫因阻力损失的速度量。</p></li>
+<li><p><strong>Bubbles: Decay：</strong> 气泡每秒失去的生命值。粒子生命值归零后会从模拟中移除。</p></li>
+<li><p><strong>Bubbles: Buoyancy（气泡：浮力）：</strong> 由于气泡浸没在液体中而施加到气泡上的加速度。</p></li>
+<li><p><strong>Bubbles: Drag：</strong> 气泡因阻力损失的速度量。</p></li>
+<li><p><strong>Bubbles to foam rate（气泡转泡沫速率）：</strong> 转变为泡沫而不是消失的气泡数量。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="600" height="196.52333028362304" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/whitewater_appearance_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="id20">
+<h4>Appearance<a class="headerlink" href="#id20" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Spray: Radius：</strong> 每个飞溅粒子的半径。</p></li>
+<li><p><strong>Spray: Opacity：</strong> 每个飞溅粒子的透明度。</p></li>
+<li><p><strong>Foam: Radius：</strong> 每个泡沫粒子的半径。</p></li>
+<li><p><strong>Foam: Opacity：</strong> 每个泡沫粒子的透明度。</p></li>
+<li><p><strong>Bubbles: Radius：</strong> 每个气泡粒子的半径。</p></li>
+<li><p><strong>Bubbles: Opacity：</strong> 每个气泡粒子的透明度。</p></li>
+</ul>
+</section>
+</section>
+<section id="ww-source-icon-whitewater-source">
+<h3><a class="reference internal" href="../../../_images/ww_source.svg"><img alt="whitewater source node icon" height="18" src="../../../_images/ww_source.svg" width="19" /></a> Whitewater Source（白水源）<a class="headerlink" href="#ww-source-icon-whitewater-source" title="Permalink to this heading">#</a></h3>
+<p>与 <a class="reference internal" href="../../../_images/ww.svg"><img alt="white water node icon" height="18" src="../../../_images/ww.svg" width="19" /></a> <em>Whitewater</em> 节点配合使用：将此节点接入该节点的 <em>Sources</em> 输入引脚，用于定义场景中生成白水粒子的区域。白水粒子不会在这些区域之外生成。</p>
+<section id="id21">
+<h4>Activity<a class="headerlink" href="#id21" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Whitewater activity（白水活动）：</strong> 白水活动状态；如果设为 false，则不会生成白水粒子。</p></li>
+<li><p><strong>Invert shape：</strong> 勾选后，形状外部会被视为内部，内部会被视为外部。</p></li>
+<li><p><strong>Show：</strong> 形状遮罩是否可见。</p></li>
+</ul>
+</section>
+<section id="id22">
+<h4>Source<a class="headerlink" href="#id22" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Trapped air: Range：</strong> 决定何时因受困空气而发射粒子的数值范围。</p></li>
+<li><p><strong>Trapped air: Max Depth：</strong> 空气可被困住的最大深度（生成气泡）。</p></li>
+<li><p><strong>Wave crest: Range：</strong> 决定何时在波峰上发射粒子的数值范围。</p></li>
+<li><p><strong>Trapped air: Emission rate：</strong> 因受困空气而发射的每体素每秒粒子数。</p></li>
+<li><p><strong>Wave crest: Emission rate：</strong> 在波峰上发射的每体素每秒粒子数。</p></li>
+<li><p><strong>Initial HP：</strong> 分配给粒子的生命值范围。不同白水粒子类型（飞溅、泡沫或气泡）会以不同速率消耗生命值。当所有生命值被消耗后，白水粒子会死亡。生命值消耗速率由 Whitewater（白水）节点 Dynamics（动力学）选项卡中的 decay（衰减）参数指定。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="421.4814814814815" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/whitewater_shapes_offset_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Foam: initial spread（泡沫初始扩散）：</strong> 决定泡沫初始方向的随机程度。如果白水粒子跳出表面的程度超过预期，请降低此值。</p></li>
+<li><p><strong>Bubbles: initial spread（气泡初始扩散）：</strong> 决定气泡初始方向的随机程度。</p></li>
+</ul>
+</section>
+<section id="id23">
+<h4>Mask<a class="headerlink" href="#id23" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>Shapes offset：</strong> 这会偏移已链接形状的表面。这样无需修改形状本身，就可以放大或缩小发射器。</p></li>
+<li><p><strong>Falloff distance：</strong> 设置向内的衰减距离。发射强度会从边界处的 0% 逐渐上升到指定距离处的 100%，从而形成渐变效果。</p></li>
+</ul>
+</section>
+</section>
+</section>
+<section id="camera-cameraicon">
+<h2>摄像机 <a class="reference internal" href="../../../_images/camera.svg"><img alt="camera icon" height="18" src="../../../_images/camera.svg" width="18" /></a><a class="headerlink" href="#camera-cameraicon" title="Permalink to this heading">#</a></h2>
+<p>与 3D 摄像机相关的节点集合。</p>
+<section id="cameranode">
+<span id="id24"></span><h3>摄像机 <a class="reference internal" href="../../../_images/camera.svg"><img alt="camera icon" height="18" src="../../../_images/camera.svg" width="18" /></a><a class="headerlink" href="#cameranode" title="Permalink to this heading">#</a></h3>
+<p>这是你在渲染或查看效果时所通过的摄像机视角。</p>
+<p>你可以在视口顶部的 <em>Camera</em> 下拉菜单中选择摄像机。</p>
+<section id="id25">
+<h4>General<a class="headerlink" href="#id25" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Activate / Copy</strong></dt><dd><ul>
+<li><p><strong>Activate：</strong> 此按钮会在视口中使用所选摄像机。</p></li>
+<li><p><strong>Copy From Active：</strong> 此按钮会把你当前正在查看的摄像机设置复制到所选摄像机。当你用默认摄像机取景完成后，想快速把该朝向转移到渲染摄像机时，这会很有用。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Lock：</strong> 当你对摄像机位置满意后，可以<strong>锁定</strong>该摄像机，这样就不会意外移动它。</p></li>
+</ul>
+</section>
+<section id="transform">
+<h4>Transform<a class="headerlink" href="#transform" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="223.828125" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/camera_turns_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Position：</strong> 摄像机在 3D 空间中的位置。</p></li>
+<li><p><strong>Yaw Angle：</strong> 偏航角，单位为度。用于将视角向左或向右移动。</p></li>
+<li><p><strong>Pitch Angle：</strong> 将视角向上或向下移动。</p></li>
+<li><p><strong>Roll Angle：</strong> 滚转角，单位为度。用于旋转视角。</p></li>
+<li><p><strong>Near clipping plane：</strong> 物体要被渲染时，必须距离摄像机达到的最小距离。</p></li>
+<li><p><strong>Far clipping plane：</strong> 物体能够被渲染时，允许距离摄像机的最大距离。</p></li>
+</ul>
+</section>
+<section id="display">
+<h4>Display<a class="headerlink" href="#display" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="648.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/field_of_view_perspective_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Projection：</strong> 选择摄像机的投影模式。</dt><dd><ul>
+<li><dl class="simple">
+<dt><em>Perspective：</em> 真实且最常用的投影方式，类似真实摄像机拍摄的图像。远处物体会显得更小，平行线会指向消失点。</dt><dd><ul>
+<li><dl class="simple">
+<dt><strong>Lens parameter：</strong> 用于放大或缩小画面的方式。</dt><dd><ul>
+<li><dl class="simple">
+<dt><em>Focal Length：</em> 通过像真实摄像机一样使用焦距和传感器宽度来模拟摄像机变焦。</dt><dd><ul>
+<li><p><strong>Sensor width：</strong> 摄像机传感器的宽度。</p></li>
+<li><p><strong>Focal length：</strong> 从镜头中心到焦点的距离。值越高，画面越放大；值越低，画面越缩小。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><em>FOV：</em> 使用视野参数模拟摄像机变焦。</dt><dd><ul>
+<li><p><strong>Field of view：</strong> 焦点与传感器之间的垂直角度。值越高，画面越缩小；值越低，画面越放大。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><em>Orthographic</em> 没有消失点且距离不会影响大小的投影方式。它类似技术插图，或使用无限大的焦距。所有内容都会被压平，形成风格化外观。此模式可用于渲染将放置在平面上的远距离元素。</dt><dd><ul>
+<li><p><strong>Orthographic width：</strong> 此参数决定正交平面的大小，类似在图像上进行 2D 放大或缩小。值越高，可显示的场景范围越大。也可以在视口中使用摄像机导航控件放大或缩小来改变此值。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="600" height="37.76978417266187" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/display_preset_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Display Resolution：</strong> 渲染选项卡预览中使用的分辨率。它也会决定宽高比。紧挨着 <em>W</em> 和 <em>H</em>（宽度和高度）字段的是一个下拉菜单，可在其中选择 720p、1080p 或 4k 的分辨率预设。你也可以在 <em>W</em> 和 <em>H</em> 字段中输入所需的像素分辨率，然后点击 <a class="reference internal" href="../../../_images/icon_plus.svg"><img alt="plus icon" height="16" src="../../../_images/icon_plus.svg" width="16" /></a> 图标来添加自己的预设。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="600" height="344.5037353255069" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/camera_preview_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="preview">
+<h4>Preview<a class="headerlink" href="#preview" title="Permalink to this heading">#</a></h4>
+<p>此选项卡中的参数只会应用于 <em>Preview</em> 选项卡中显示的图像！</p>
+<p>这些参数对应 <em>Preview</em> 选项卡顶部的参数。</p>
+<ul class="simple">
+<li><p><strong>Preview scale to fit</strong> 如果勾选，显示图像会在保持宽高比不变的同时缩放到填满整个视口窗口。</p></li>
+<li><p><strong>Display scale</strong> 仅当 <em>Preview scale to fit</em> 未勾选时有效！此参数会放大或缩小显示图像。</p></li>
+</ul>
+</section>
+<section id="backplate">
+<h4>Backplate<a class="headerlink" href="#backplate" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Use backplate：</strong> 通过摄像机查看时，使用背景板作为视口背景。</dt><dd><ul>
+<li><p><strong>Import Backplate：</strong> 背景板或背景板序列中第一张图像的文件路径和名称。</p></li>
+<li><dl class="simple">
+<dt><strong>Animated backplate：</strong> 如果勾选，LiquiGen 会查找可用作背景板片段的图像序列。</dt><dd><ul>
+<li><p><strong>Backplate frame rate：</strong> 背景板播放时使用的帧率。如果你的序列应以每秒 30 帧播放，应将此值设为 <em>30</em>，这表示图像序列的下一帧会在 LiquiGen 中每隔一帧播放一次（因为 LiquiGen 以 60 fps 运行）。</p></li>
+<li><p><strong>First frame：</strong> 图像序列的起始帧。你可以使用正值让图像序列在模拟中稍后开始，也可以使用负值裁掉图像序列开头的一部分。请注意，此值相对于 <em>Backplate frame rate</em>，因此图像序列开始播放的模拟/时间轴帧为（60 / <em>Backplate frame rate</em> x  <em>First frame</em>)</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>sRGB：</strong> 如果勾选，会假定背景板以 sRGB 色彩空间编码。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+</section>
+<section id="camera-look-at-cameraicon">
+<h3>Camera: Look At <a class="reference internal" href="../../../_images/camera.svg"><img alt="camera icon" height="18" src="../../../_images/camera.svg" width="18" /></a><a class="headerlink" href="#camera-look-at-cameraicon" title="Permalink to this heading">#</a></h3>
+<p>此节点为摄像机提供 look-at 位置。将此节点连接到摄像机的 <em>Control</em> 引脚后，摄像机会始终看向指定的焦点位置。</p>
+<blockquote>
+<div><p>当把 <em>Camera: Look At</em> 节点连接到 <em>Camera</em> 节点时，摄像机的 <em>Position、Yaw angle、Pitch angle</em> 和 <em>Field of view</em> 参数会由 <em>Camera: Look At 节点控制。</em></p>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>Focus Position：</strong> 摄像机要朝向的 3D 空间位置。</p></li>
+<li><p><strong>Field of view：</strong> 已连接 Camera 节点的视野参数。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="463.36633663366337" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/fountain_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Coordinate Space：</strong></dt><dd><ul>
+<li><dl class="simple">
+<dt><strong>Fixed Position：</strong> 允许相对于焦点位置更改摄像机的位置。</dt><dd><ul>
+<li><p><strong>Camera Position：</strong> 摄像机的位置。使用此参数后，摄像机仍会始终朝向焦点位置。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><strong>Fixed Orientation：</strong> 允许相对于 look-at 更改摄像机方向，并显示 <em>Camera Radius</em>、<em>Yaw Angle</em> 和 <em>Pitch Angle</em> 参数。</dt><dd><ul>
+<li><p><strong>Camera Radius：</strong> 摄像机与焦点位置之间的距离。</p></li>
+<li><p><strong>Yaw Angle：</strong> 可用于围绕焦点移动。将此参数连接到低频率 cycle 节点，可以创建漂亮的转台动画。</p></li>
+<li><p><strong>Pitch Angle：</strong> 从更高或更低的角度朝向焦点进行上下定向。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+</section>
+<section id="importicon-import">
+<h2><a class="reference internal" href="../../../_images/import1.svg"><img alt="import node icon" height="18" src="../../../_images/import1.svg" width="18" /></a> 导入<a class="headerlink" href="#importicon-import" title="Permalink to this heading">#</a></h2>
+<p>用于将静态网格和动画网格导入场景；这些网格可与发射器、碰撞体以及任何支持遮罩的节点一起使用。</p>
+<p>更多信息请阅读我们的 <a class="reference internal" href="specific/import_animation.html#importanimation-lg"><span class="std std-ref">FBX、OBJ、ABC 导入</span></a> 页面！</p>
+<blockquote>
+<div><p>请注意，导入的模型应适合模拟。这意味着几何体应当闭合。另外，任何薄于体素尺寸的部分，其几何体都无法被正确处理以用于模拟。</p>
+</div></blockquote>
+<section id="asset">
+<h3>Asset<a class="headerlink" href="#asset" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="500" height="333.3333333333333" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/SDF_voxel_size.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Voxel Sizing：</strong> 设置导入网格的体素大小定义方式。</dt><dd><ul>
+<li><dl class="simple">
+<dt><em>Relative：</em> 将导入网格的体素分辨率定义为模拟分辨率的一部分。</dt><dd><ul>
+<li><p><strong>Relative Resolution：</strong> 定义导入网格相对于 Simulation（模拟）节点中体素大小设置的体素分辨率缩放。100% 表示导入网格的体素密度与模拟相同。200% 表示相对于底层模拟分辨率提升 2 倍。较高值可在高细节模型上得到更好结果，较低值可缩短模拟时间。要查看此参数对 SDF 的影响，请前往诊断面板中的<em>模型</em> 部分。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><em>Absolute</em> 根据输入的体素大小定义导入网格的体素分辨率。</dt><dd><ul>
+<li><p><strong>Voxel Size：</strong> 定义导入网格体素的大小。较小值会捕捉网格的更精细细节，但也会增加内存和计算成本。要查看此参数对 SDF 的影响，请前往诊断面板中的<em>模型</em> 部分。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="animations">
+<h3>Animations<a class="headerlink" href="#animations" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Animate：</strong> 如果勾选，且模型包含动画，则会播放该动画。</dt><dd><ul>
+<li><p><strong>Animations：</strong> 如果有多个动画层，可在这里选择所需的动画层。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="id26">
+<h3>Transform<a class="headerlink" href="#id26" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Pivot：</strong> 缩放前应用到导入内容位置上的偏移。</p></li>
+<li><p><strong>Master scale：</strong> 大尺度乘数，用于轻松将非常大或非常小的场景缩放到合适大小。</p></li>
+<li><p><strong>Scale：</strong> 常规缩放选项，用于微调导入资产的大小。</p></li>
+<li><p><strong>Position：</strong> 应用于导入资产位置的偏移。</p></li>
+<li><p><strong>Rotation：</strong> 应用于导入资产旋转的偏移。</p></li>
+<li><p><em>Auto pivot：</em> 自动设置<em>枢轴</em> 参数，使枢轴点位于导入网格形状的中心。</p></li>
+</ul>
+</section>
+<section id="playback">
+<h3>Playback<a class="headerlink" href="#playback" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="500" height="250.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/import_animationSpeed_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Loop animation：</strong> 如果开启，动画会无限循环播放。</p></li>
+<li><dl class="simple">
+<dt><strong>Override FPS：</strong> 如果为 true，你可以定义每秒帧数。如果将此值设为 <em>Timestep</em>（默认为 60），导出结果应能在目标应用中对齐。也可以将 FPS 设为 30，并将 <em>Timestep</em> 保持为 60；但这样就需要把导出帧步长设为 2，才能在目标应用中对齐。</dt><dd><ul>
+<li><p><strong>FPS：</strong> 用于替换导入器读取到的每秒帧数。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Frame delay：</strong> 动画延迟的帧数。负值会提前播放动画。</p></li>
+<li><p><strong>Duration offset：</strong> 用于修改动画时长的帧数。通过裁剪动画末尾，它可用于获得完美循环的动画。</p></li>
+</ul>
+</section>
+<section id="id27">
+<h3>Mask<a class="headerlink" href="#id27" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="500" height="393.84615384615387" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/import_bones_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>使用遮罩可以将导入内容的特定部分输出到 <em>Mask</em> 输出引脚。</p>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Mode：</strong> 定义导入内容的遮罩方式：</dt><dd><ul>
+<li><p>Meshes：这会提供一个清单，列出导入 3D 场景中的所有独立对象。勾选对象的复选框即可将其添加到遮罩。</p></li>
+<li><p>Bones：这会提供一个清单，列出 3D 场景中的所有骨骼关节（如果有）。勾选某个关节后，与其关联的顶点会被添加到遮罩。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+</section>
+<section id="exportgroup-lg-icon-export">
+<h2><a class="reference internal" href="../../../_images/export_group_2.svg"><img alt="export VDB icon" height="18" src="../../../_images/export_group_2.svg" width="18" /></a> 导出<a class="headerlink" href="#exportgroup-lg-icon-export" title="Permalink to this heading">#</a></h2>
+<section id="exportimage-lg-icon-export-image">
+<span id="exportimage-lg"></span><h3><a class="reference internal" href="../../../_images/export_img.svg"><img alt="export image icon" height="18" src="../../../_images/export_img.svg" width="19" /></a> Export: Image（导出图像）<a class="headerlink" href="#exportimage-lg-icon-export-image" title="Permalink to this heading">#</a></h3>
+<p>用于将场景的不同渲染通道导出为图像文件，可以是单张图像、图像序列或翻页序列。</p>
+<section id="camera">
+<h4>Camera<a class="headerlink" href="#camera" title="Permalink to this heading">#</a></h4>
+<p>在此选项卡中，可以选择用于渲染的摄像机。请注意， <a class="reference internal" href="../../../_images/camera.svg"><img alt="camera icon" height="18" src="../../../_images/camera.svg" width="18" /></a> <em>Camera</em> 节点必须接入 <a class="reference internal" href="../../../_images/scene.svg"><img alt="scene icon" height="18" src="../../../_images/scene.svg" width="18" /></a> <em>Scene</em>，摄像机才会显示在此列表中。</p>
+<p>点击 <em>Activate</em> 按钮会将视口视角设置为所选摄像机，以便快速查看即将导出的摄像机。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     >
+        <video class="lazy" preload="none" width="600" height="37.571157495256166" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/export_camera_tab_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="render-passes">
+<h4>Render Passes（渲染通道）<a class="headerlink" href="#render-passes" title="Permalink to this heading">#</a></h4>
+<p>渲染通道（也称为 AOV 或捕获类型）包含场景的特定信息。在合成软件或游戏引擎中使用效果时，这些信息非常有用。</p>
+<p>有关如何使用此选项卡进行渲染通道映射的详细说明，请查看我们的 <a class="reference internal" href="specific/render_passes_mapping.html#renderpassesmapping-lg"><span class="std std-ref">渲染通道映射</span></a> 页面！</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="300.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/renderpasses_LG_2.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <dl class="simple">
+<dt>以下是所有可用渲染通道的列表。其中一些通道引用 <a class="reference internal" href="../../../_images/material.svg"><img alt="appearance icon" height="18" src="../../../_images/material.svg" width="19" /></a> <em>Appearance</em> 节点的参数。</dt><dd><ul class="simple">
+<li><p>Render Viewport（渲染视口）：渲染所有元素，得到与你在 <em>Scene</em> 选项卡中看到的相同结果。</p></li>
+<li><p>Render All (Path Tracer（路径追踪器）)： <em>Path Tracer（路径追踪器）</em> 渲染方法的合成渲染。</p></li>
+<li><p>Render All (Rasterizer（光栅化器）)： <em>Rasterizer（光栅化器）</em> 渲染方法的合成渲染。</p></li>
+<li><p>Alpha：透明通道。</p></li>
+<li><p>Diffuse： <em>Path Tracer（路径追踪器）</em> 渲染方法的颜色和着色分量。</p></li>
+<li><p>Reflect： <em>Path Tracer（路径追踪器）</em> 渲染方法的所有材质反射。</p></li>
+<li><p>Refract： <em>Path Tracer（路径追踪器）</em> 渲染方法的所有折射（渲染中可透视的部分）。</p></li>
+<li><p>Diffuse (rasterized)： <em>Rasterizer（光栅化器）</em> 渲染方法的颜色和着色分量。</p></li>
+<li><p>Reflect (rasterized)： <em>Rasterizer（光栅化器）</em> 渲染方法的所有材质反射。</p></li>
+<li><p>Refract (rasterized)： <em>Rasterizer（光栅化器）</em> 渲染方法的所有折射（渲染中可透视的部分）。</p></li>
+<li><p>Depth：根据物体到摄像机的距离映射像素值。值越高表示离摄像机越远，值越低表示离摄像机越近。</p></li>
+<li><p>Normals：图像会根据物体表面的角度进行着色。</p></li>
+<li><p>Albedo：材质的颜色值。</p></li>
+<li><p>Roughness：材质的粗糙度值。</p></li>
+<li><p>Reflectivity：材质的反射率值。</p></li>
+<li><p>Rim_Reflectivity：材质的边缘反射率值。</p></li>
+<li><p>Emission：材质的自发光值。</p></li>
+<li><p>Transmission：材质的透射值。</p></li>
+<li><p>Thickness：根据液体网格厚度映射颜色的灰度图像。更亮的值表示液体网格中更厚的部分。</p></li>
+</ul>
+</dd>
+</dl>
+<p>在 <em>Preview</em> 选项卡中，可以通过视口顶部的下拉菜单选择并预览所有渲染通道。</p>
+</section>
+<section id="export">
+<span id="exporttab-lg"></span><h4>Export<a class="headerlink" href="#export" title="Permalink to this heading">#</a></h4>
+<ul>
+<li><dl>
+<dt><strong>Export Mode</strong> 可用的导出模式如下：</dt><dd><ul>
+<li><dl>
+<dt>Flipbook（翻页序列）：游戏引擎中使用的导出方式，时间轴中的每一帧都会在一个大图像文件中占据自己的方格。</dt><dd><ul class="simple">
+<li><p><strong>Flipbook Size：</strong> 翻页序列图像的分辨率。每个翻页序列帧的宽度和高度分辨率等于此值除以行数和列数。</p></li>
+<li><p><strong>Flipbook Columns/Rows：</strong> 翻页序列的列数/行数（水平/垂直排列的帧）。 <em>Columns x Rows（列 x 行）= 最大帧数</em></p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../_images/flipbook_LG.png"><img alt="flipbook" src="../../../_images/flipbook_LG.png" style="width: 400px;" /></a>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>Sequence：视频中使用的导出方式，每一帧都会得到自己的图像文件。</dt><dd><ul class="simple">
+<li><dl class="simple">
+<dt><strong>Use camera’s resolution：</strong> 使用摄像机的显示分辨率替代此节点的图像大小。</dt><dd><ul>
+<li><dl class="simple">
+<dt><em>Checked：</em> 使用所选摄像机的显示分辨率。</dt><dd><ul>
+<li><p><strong>Display resolution：</strong> 序列中每个图像文件的像素分辨率。此参数链接到 <em>Display</em> 选项卡中 <a class="reference internal" href="../../../_images/camera.svg"><img alt="camera icon" height="18" src="../../../_images/camera.svg" width="18" /></a> <em>Camera</em> 节点的对应参数。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><em>Unchecked：</em> 显示 <em>Image Size</em> 参数，用于独立于摄像机显示分辨率设置导出分辨率。</dt><dd><ul>
+<li><p><strong>Image Size：</strong> 序列中每个图像文件的像素分辨率。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<p>在 <em>W</em> 和 <em>H</em>（宽度和高度）字段旁边有一个下拉菜单，可在其中选择分辨率预设。你也可以在 <em>W</em> 和 <em>H</em> 字段中输入所需的像素分辨率，然后点击 <a class="reference internal" href="../../../_images/icon_plus.svg"><img alt="plus icon" height="16" src="../../../_images/icon_plus.svg" width="16" /></a> 图标添加自己的预设。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     >
+        <video class="lazy" preload="none" width="700" height="157.64705882352942" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/resolutionPresets_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>First Frame：</strong> 将要导出的时间轴第一帧。</p></li>
+<li><p><strong>Number of Frames：</strong> 将要导出的总帧数。</p></li>
+<li><p><strong>Frame Stride</strong> 导出帧之间的帧数间隔。值为 1 表示导出所有连续帧，值为 2 表示每隔一帧导出，以此类推。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="700" height="273.4375" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/frameStride_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Numbering offset：</strong> 应用于结果文件名中帧编号的偏移。例如，如果此参数设为 1000，则序列中的第一个文件会使用编号 1000，第二个文件使用 1001，以此类推。</p></li>
+</ul>
+<p><strong>Specifying the Frame Range：</strong></p>
+<dl class="simple">
+<dt>有两种方式可以指定要导出的帧范围：</dt><dd><ol class="arabic simple">
+<li><p>每个 <a class="reference internal" href="../../../_images/export_img.svg"><img alt="export image icon" height="18" src="../../../_images/export_img.svg" width="19" /></a> <em>Export: Image</em> 节点都会在 <em>Timeline Editor（时间轴编辑器）</em> 中显示为蓝色条，用来表示要导出的帧范围。可以通过 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 点击并拖动来移动和调整大小。</p></li>
+<li><p>可以使用 <em>First Frame</em> 和 <em>Number of Frames</em> 参数，在 <em>Export</em>
+选项卡的 <em>Render</em> 节点中指定范围。例如，如果要导出帧
+<em>230</em> 到 <em>450</em>，则将 <em>First Frame</em> 设为 <em>230</em> 和 <em>Number of Frames</em> 设为 <em>221 (450 - 230 + 1)</em>。</p></li>
+</ol>
+</dd>
+</dl>
+<a class="reference internal image-reference" href="../../../_images/exportImageBar_LG.png"><img alt="export image bar" src="../../../_images/exportImageBar_LG.png" style="width: 590.0px; height: 102.80000000000001px;" /></a>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Directory：</strong> 可以使用 <em>Directory</em> 和 <em>Filename</em> 字段可用于设置导出文件的目录和名称。目录可以直接输入到文本字段中，也可以点击 <a class="reference internal" href="../../../_images/folder.svg"><img alt="folder icon" height="16" src="../../../_images/folder.svg" width="16" /></a> 图标后，在弹出的文件浏览器中选择。建议将文件导出到本地。如果导出到网络驱动器，可能会导致模拟和渲染不稳定；这适用于所有文件类型。文件格式可以设为以下任一种：</dt><dd><ul>
+<li><p><em>.png</em>：建议用于较小的文件体积。会显示 <strong>Bit Depth</strong> 选项，可在 8-bit 或 16-bit png 文件之间选择。更高的位深会产生更大的文件，但可以存储更多数值。</p></li>
+<li><p><em>.tga</em>：建议用于更快导出。</p></li>
+<li><p><em>.exr</em>：用于未压缩或 HDR 工作流。会显示 <strong>Bit Depth</strong> 选项，可在 16-bit 或 32-bit png 文件之间选择。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<p>当文件类型选择 <em>.exr</em>，并且选择 <em>Multi Layer</em> 或 <em>Multi Part</em> 作为 <em>EXR Type</em> 下拉菜单的值时，渲染通道会作为一个文件内的图层导出。对于其他文件格式，每个图层都会导出为单独文件。</p>
+<p>由于导出过程通常会生成多个输出文件， <em>Directory</em> 和 <em>Filename</em> 字段可以使用<em>变量</em>，以便系统化地为输出文件和文件夹命名。</p>
+<a class="reference internal image-reference" href="../../../_images/variables_LG.png"><img alt="variables" class="align-right" src="../../../_images/variables_LG.png" style="width: 200px;" /></a>
+<p>这些变量可以从下拉菜单中选择添加；当你 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 在文本字段内点击时，该菜单会出现。</p>
+<p>此下拉菜单左侧显示变量，右侧显示变量结果示例。</p>
+<p>你可以查看 <a class="reference internal" href="../../../_images/info.svg"><img alt="info icon" height="16" src="../../../_images/info.svg" width="16" /></a> 图标旁边的文本，了解最终导出文件名的示例。</p>
+<dl class="simple">
+<dt>可以使用以下内置变量：</dt><dd><ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">$(project)</span></code> 会被替换为 <em>.liquigen</em> 项目文件名。</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">$(projectdir)</span></code> 会被替换为 <em>.liquigen</em> 文件的文件路径。添加 <code class="docutils literal notranslate"><span class="pre">\..</span></code> 会向上移动一级文件夹。</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">$(variation)</span></code> 会被替换为当前 variation。有关导出 variation 的更多信息，请查看我们的 <a class="reference internal" href="specific/randomization.html#randomization-lg"><span class="std std-ref">随机化</span></a> 部分！</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">$(date)</span></code> 会被替换为当前日期（年-月-日）。</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">$(name)</span></code> 会被替换为图层名称。此变量不可用于 EXR Multi Layer（多层）或 Multi Part（多 Part）文件，也不会解析，因为它们会把所有图层存储在一个文件中。</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">$(safename)</span></code> 会被替换为“安全”的图层名称版本。它只会包含字母数字字符，将 <code class="docutils literal notranslate"><span class="pre">&amp;</span></code> 和 <code class="docutils literal notranslate"><span class="pre">+</span></code>
+替换为 <code class="docutils literal notranslate"><span class="pre">and</span></code>，并把任何其他字符转换为下划线。此变量不可用于 EXR Multi Layer（多层）或 Multi Part（多 Part）文件，也不会解析，因为它们会把所有图层存储在一个文件中。</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">$(colrow)</span></code> 仅在 Flipbook（翻页序列）模式下！会被替换为翻页序列的列数和行数，使用以下语法 <em>(列数)x(行数)</em>。</p></li>
+<li><p>连续的 <code class="docutils literal notranslate"><span class="pre">#</span></code> 会被替换为从 0 开始的帧编号。编号会用零填充，直到位数与 <code class="docutils literal notranslate"><span class="pre">#</span></code> 字符数量相同。如果 <em>Absolute Frames</em> 已勾选，则会使用模拟步编号（即第一个值等于 <em>First Frame</em> 而不是 0）。</p></li>
+</ul>
+</dd>
+</dl>
+<p><strong>示例：</strong></p>
+<p>2023-02-23，我正在处理一个名为 <code class="docutils literal notranslate"><span class="pre">myLiquiGenProject_04.liquigen</span></code> 的文件，它位于我电脑上的 <code class="docutils literal notranslate"><span class="pre">C:\Projects\myLiquiGenProject\projectFiles\liquigen</span></code>。我想将几个渲染通道导出为 png，其中一个是 <em>Render All</em>。</p>
+<p>在 <em>Directory</em> 字段中输入以下文本： <code class="docutils literal notranslate"><span class="pre">$(projectdir)\..\..\EXPORTS\$(date)\$(project)\$(name)</span></code></p>
+<p>在 <em>Filename</em> 字段中输入以下文本： <code class="docutils literal notranslate"><span class="pre">$(project)_$(safename)_###</span></code>，并把旁边下拉菜单中的扩展名设为 <em>.png</em></p>
+<p>导出后，我想查看 <em>Render All</em> 渲染通道的第 1 帧，它会位于以下位置并使用此名称：</p>
+<p><code class="docutils literal notranslate"><span class="pre">C:\Projects\myLiquiGenProject\EXPORTS\2023-02-23\myLiquiGenProject_04\Render</span> <span class="pre">Viewport\myLiquiGenProject_04_render_viewport_001.png</span></code></p>
+<p>可以在 <em>Settings &gt; Preferences &gt; User Variables</em>中设置自定义变量。更多细节请查看我们的 <a class="reference internal" href="settings.html#uservariables-lg"><span class="std std-ref"> User Variables</span></a> 部分。</p>
+<ul class="simple">
+<li><p><strong>Export to file：</strong> 蓝色的 <em>Export Now</em> 按钮会开始导出文件。 <em>Open Folder</em> 按钮会在文件所在或将要保存的位置打开文件浏览器。</p></li>
+</ul>
+<p>如果有多个导出节点，可以在<em>节点图</em>中框选它们，然后<em>右键点击</em> 这些节点并选择 <em>Export All</em>。或者，也可以使用 <em>Export Selected</em> 下方的 <em>Node Details（节点详情）</em> 按钮（只有在选择了多个导出节点时才会显示）。</p>
+</section>
+<section id="render-settings">
+<span id="rendernodesettings-lg"></span><h4>Render Settings<a class="headerlink" href="#render-settings" title="Permalink to this heading">#</a></h4>
+<p>此选项卡中的参数会根据 <em>Render Passes（渲染通道）</em> 选项卡中当前选择的渲染通道而变化。</p>
+<p>因此，此选项卡可用于轻松找到所选渲染通道的相关参数。</p>
+<p>这里显示的所有参数也可以在视口的 <em>Preview</em> 选项卡中找到，方法是点击渲染通道下拉菜单旁边的 <a class="reference internal" href="../../../_images/icon_settings.svg"><img alt="settings icon" height="16" src="../../../_images/icon_settings.svg" width="16" /></a> 图标。</p>
+<p><strong>Common Parameters：</strong></p>
+<p>这些参数会影响多个不同的渲染通道。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="502.62626262626264" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/shapesRendering_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Shapes Rendering：</strong> 形状的渲染方式。</dt><dd><ul>
+<li><p>Ignore：不渲染。</p></li>
+<li><p>Regular Lit：阻挡后方的烟雾和火焰，并受所有光照照亮。</p></li>
+<li><p>Regular Unlit：阻挡后方的烟雾和火焰，但不接收任何光照。使用 <em>Albedo</em> 颜色，该颜色在 <em>Visuals</em> 选项卡中指定，位于 <em>Emitter</em> 或 <em>Collider</em> 节点上。</p></li>
+<li><p>Regular Black：阻挡后方的烟雾和火焰，但不接收任何光照。</p></li>
+<li><p>Holdout：阻挡后方的烟雾和火焰，并从 Alpha 通道中扣出形状。当你有需要穿过烟雾或火焰的形状时，这在合成中会很有用。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Supersampling：</strong> 对 <em>Depth（深度）、Normals（法线）、Albedo（反照率）、Roughness（粗糙度）、Reflectivity（反射率）、Emission（发光）或 Transmission（透射）</em> 通道启用 supersampling，可得到更好看的边缘。</p></li>
+</ul>
+<p><strong>Render All (Path Tracer（路径追踪器）)：</strong></p>
+<ul class="simple">
+<li><p><strong>Samples per-pixel：</strong> 路径追踪模式下每个像素的总采样数。数值越高，清晰度越好，但渲染时间也会增加。</p></li>
+<li><p><strong>Samples per-frame：</strong> 路径追踪模式下，每批次为每个像素累积的采样数。一次批处理更多采样可能会缩短导出时间，但导出期间系统响应性可能降低。</p></li>
+<li><p><strong>Render Ground：</strong> 决定是否在路径追踪模式下渲染地面。</p></li>
+<li><p><strong>Render Skybox：</strong> 决定是否在路径追踪模式下渲染 skybox（天空盒）。</p></li>
+</ul>
+<p><strong>Render All (Rasterizer（光栅化器）)：</strong></p>
+<ul class="simple">
+<li><p><strong>Samples per-pixel：</strong> Rasterizer（光栅化器）模式下每个像素的总采样数。数值越高，清晰度越好，但渲染时间也会增加。</p></li>
+<li><p><strong>Render Ground：</strong> 决定是否在 Rasterizer（光栅化器）模式下渲染地面。</p></li>
+<li><p><strong>Render Skybox：</strong> 决定是否在 Rasterizer（光栅化器）模式下渲染 skybox（天空盒）。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="354.6666666666667" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/export_depth_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p><strong>Depth：</strong></p>
+<ul class="simple">
+<li><p><strong>Depth Min：</strong> 导出范围使用的最小深度。低于此值的所有深度都会被钳制为 0。</p></li>
+<li><p><strong>Depth Max：</strong> 导出范围使用的最大深度。高于此值的所有深度都会被钳制为 1。</p></li>
+</ul>
+<p><strong>Thickness：</strong></p>
+<ul class="simple">
+<li><p><strong>Scale：</strong> 厚度映射的乘数。较高值可在较薄的液体网格上得到更好的映射，较低值可在较厚的液体网格上得到更好的映射。</p></li>
+</ul>
+</section>
+</section>
+<section id="exportmesh-lg-icon-export-mesh">
+<h3><a class="reference internal" href="../../../_images/export_mesh.svg"><img alt="export mesh icon" height="18" src="../../../_images/export_mesh.svg" width="20" /></a> Export: Mesh（导出网格）<a class="headerlink" href="#exportmesh-lg-icon-export-mesh" title="Permalink to this heading">#</a></h3>
+<p>用于导出液体的网格。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="350.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/export_mesh_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <section id="settings">
+<h4>设置<a class="headerlink" href="#settings" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Export format：</strong> 用于存储网格数据的格式。</dt><dd><ul>
+<li><dl class="simple">
+<dt><em>Alembic</em></dt><dd><ul>
+<li><p><strong>Export velocity：</strong> 如果勾选，会随网格导出每个顶点的速度数据。该数据可用于运动模糊。它是每顶点 float32 三维向量，名称为 <em>.velocities</em></p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><em>FBX</em></p></li>
+<li><dl class="simple">
+<dt><em>Mesh Flipbook</em></dt><dd><ul>
+<li><p><strong>Export velocity：</strong> 如果勾选，会随网格导出每个顶点的速度数据。该数据可用于运动模糊，或用于网格翻页序列的混合插值。它是 [0, 1] 范围内的每顶点颜色。请查看随附的 JSON 文件以了解所应用的精确映射。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><em>Vertex Animated Texture（顶点动画纹理）</em></dt><dd><ul>
+<li><p><strong>Maximum VAT lookup texture width：</strong> 查找纹理的宽度将为 max(#vertices, this_value)。</p></li>
+<li><p><strong>Maximum VAT texture width：</strong> 输出纹理的宽度将为 max(#particles, this_value)。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><em>OBJ</em></p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="id28">
+<h4>Export<a class="headerlink" href="#id28" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>First frame：</strong> 将要导出的第一帧。</p></li>
+<li><p><strong>Number of frames：</strong> 将要导出的总帧数。</p></li>
+<li><p><strong>Frame stride：</strong> 导出帧之间的帧数间隔。值为 1 表示导出所有连续帧，值为 2 表示每隔一帧导出。</p></li>
+<li><p><strong>Numbering offset：</strong> 应用于结果文件名中帧编号的偏移。</p></li>
+<li><dl class="simple">
+<dt><strong>Directory：</strong> 输出文件路径中的目录部分。</dt><dd><ul>
+<li><p><em>Filename：</em> 输出文件路径中的文件名部分。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<p>有关如何在目录和文件名中使用动态变量的说明，请查看我们的 <a class="reference internal" href="#exporttab-lg"><span class="std std-ref">Export</span></a> 部分中的示例！</p>
+<ul class="simple">
+<li><p><strong>Export to file：</strong> 蓝色的 <em>Export Now</em> 按钮会开始导出文件。 <em>Open Folder</em> 按钮会在文件所在或将要保存的位置打开文件浏览器。</p></li>
+</ul>
+<p>如果有多个导出节点，可以在<em>节点图</em>中框选它们，然后<em>右键点击</em> 这些节点并选择 <em>Export All</em>。或者，也可以使用 <em>Export Selected</em> 下方的 <em>Node Details（节点详情）</em> 按钮（只有在选择了多个导出节点时才会显示）。</p>
+</section>
+</section>
+<section id="exportvdb-lg-icon-export-vdb">
+<h3><a class="reference internal" href="../../../_images/export_vdb.svg"><img alt="export VDB icon" height="18" src="../../../_images/export_vdb.svg" width="19" /></a> Export: VDB（导出 VDB）<a class="headerlink" href="#exportvdb-lg-icon-export-vdb" title="Permalink to this heading">#</a></h3>
+<p>此节点用于将 VDB 文件导出到其他软件包。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="350.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/export_VDB_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <section id="id29">
+<h4>设置<a class="headerlink" href="#id29" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Field：</strong> 选择将要导出的场。</dt><dd><ul>
+<li><p><em>Velocity staggered：</em> 导出一个网格，其中每个速度分量都存储在每个体素的不同面上。</p></li>
+<li><p><em>Velocity centered：</em> 导出一个网格，其中整个速度位于体素中心。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Field name：</strong> VDB 文件中网格的名称。</p></li>
+<li><p><strong>Length unit：</strong> 导出文件的长度单位。</p></li>
+</ul>
+</section>
+<section id="id30">
+<h4>Export<a class="headerlink" href="#id30" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>First frame：</strong> 将要导出的第一帧。</p></li>
+<li><p><strong>Number of frames：</strong> 将要导出的总帧数。</p></li>
+<li><p><strong>Frame stride：</strong> 导出帧之间的帧数间隔。值为 1 表示导出所有连续帧，值为 2 表示每隔一帧导出。</p></li>
+<li><p><strong>Numbering offset：</strong> 应用于结果文件名中帧编号的偏移。</p></li>
+<li><dl class="simple">
+<dt><strong>Directory：</strong> 输出文件路径中的目录部分。</dt><dd><ul>
+<li><p><em>Filename：</em> 输出文件路径中的文件名部分。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<p>有关如何在目录和文件名中使用动态变量的说明，请查看我们的 <a class="reference internal" href="#exporttab-lg"><span class="std std-ref">Export</span></a> 部分中的示例！</p>
+<ul class="simple">
+<li><p><strong>Export to file：</strong> 蓝色的 <em>Export Now</em> 按钮会开始导出文件。 <em>Open Folder</em> 按钮会在文件所在或将要保存的位置打开文件浏览器。</p></li>
+</ul>
+<p>如果有多个导出节点，可以在<em>节点图</em>中框选它们，然后<em>右键点击</em> 这些节点并选择 <em>Export All</em>。或者，也可以使用 <em>Export Selected</em> 下方的 <em>Node Details（节点详情）</em> 按钮（只有在选择了多个导出节点时才会显示）。</p>
+</section>
+</section>
+<section id="exportparticles-lg-icon-export-particles">
+<h3><a class="reference internal" href="../../../_images/export_particles1.svg"><img alt="export particles icon" height="18" src="../../../_images/export_particles1.svg" width="19" /></a> Export: Particles（导出粒子）<a class="headerlink" href="#exportparticles-lg-icon-export-particles" title="Permalink to this heading">#</a></h3>
+<p>用于将场景中的液体、飞溅、泡沫和气泡作为粒子导出。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="350.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/export_particles_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <section id="id31">
+<h4>设置<a class="headerlink" href="#id31" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Export format：</strong> 用于存储粒子数据的格式。</dt><dd><ul>
+<li><dl class="simple">
+<dt><em>Alembic</em></dt><dd><ul>
+<li><p><strong>Spray（飞溅）：</strong> 如果勾选，会导出白水设置中的飞溅粒子。</p></li>
+<li><p><strong>Foam（泡沫）：</strong> 如果勾选，会导出白水设置中的泡沫粒子。</p></li>
+<li><p><strong>Bubbles（气泡）：</strong> 如果勾选，会导出白水设置中的气泡粒子。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><em>Vertex Animated Texture（顶点动画纹理）</em></dt><dd><ul>
+<li><p><strong>Maximum texture width：</strong> 输出纹理的宽度将为 max(#particles, this_value)。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Main liquid：</strong> 如果勾选，会导出主液体粒子。</p></li>
+</ul>
+</section>
+<section id="id32">
+<h4>Export<a class="headerlink" href="#id32" title="Permalink to this heading">#</a></h4>
+<ul class="simple">
+<li><p><strong>First frame：</strong> 将要导出的第一帧。</p></li>
+<li><p><strong>Number of frames：</strong> 将要导出的总帧数。</p></li>
+<li><p><strong>Frame stride：</strong> 导出帧之间的帧数间隔。值为 1 表示导出所有连续帧，值为 2 表示每隔一帧导出。</p></li>
+<li><p><strong>Numbering offset：</strong> 应用于结果文件名中帧编号的偏移。</p></li>
+<li><dl class="simple">
+<dt><strong>Directory：</strong> 输出文件路径中的目录部分。</dt><dd><ul>
+<li><p><em>Filename：</em> 输出文件路径中的文件名部分。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<p>有关如何在目录和文件名中使用动态变量的说明，请查看我们的 <a class="reference internal" href="#exporttab-lg"><span class="std std-ref">Export</span></a> 部分中的示例！</p>
+<ul class="simple">
+<li><p><strong>Export to file：</strong> 蓝色的 <em>Export Now</em> 按钮会开始导出文件。 <em>Open Folder</em> 按钮会在文件所在或将要保存的位置打开文件浏览器。</p></li>
+</ul>
+<p>如果有多个导出节点，可以在<em>节点图</em>中框选它们，然后<em>右键点击</em> 这些节点并选择 <em>Export All</em>。或者，也可以使用 <em>Export Selected</em> 下方的 <em>Node Details（节点详情）</em> 按钮（只有在选择了多个导出节点时才会显示）。</p>
+</section>
+</section>
+</section>
+<section id="modulators-oscillatoricon">
+<h2>调制器 <a class="reference internal" href="../../../_images/oscillator.svg"><img alt="oscillator icon" height="18" src="../../../_images/oscillator.svg" width="18" /></a><a class="headerlink" href="#modulators-oscillatoricon" title="Permalink to this heading">#</a></h2>
+<p>LiquiGen 中大多数参数都可以由外部调制节点控制。</p>
+<p>所有调制器都有一个<em>输出</em> 选项卡，可在其中管理所有已连接参数，并设置其数值范围；调制器节点的百分比会引用这些范围。</p>
+<p>有关如何使用这些节点和<em>输出</em> 选项卡的详情，请查看我们的 <a class="reference internal" href="specific/modulating_parameters.html#modulation-lg"><span class="std std-ref">调制参数</span></a> 页面！</p>
+<section id="constant-constanticon">
+<h3>Constant（常量） <a class="reference internal" href="../../../_images/constant.svg"><img alt="constant icon" height="22" src="../../../_images/constant.svg" width="22" /></a><a class="headerlink" href="#constant-constanticon" title="Permalink to this heading">#</a></h3>
+<p>生成一个常量值信号，可发送到其他节点暴露为 pin 的参数。</p>
+<p>通过将一个 <a class="reference internal" href="../../../_images/constant.svg"><img alt="constant icon" height="22" src="../../../_images/constant.svg" width="22" /></a> <em>Mod: Constant</em> 节点连接到多个暴露为 pin 的参数，可在节点之间同步参数。</p>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Mode：</strong> 指定下方数值参数的类型。不同模式更适合控制不同类型的参数。</dt><dd><ul>
+<li><p><em>Single Component：</em> 将单个值作为信号输出。适合连接到滑块参数。Output 选项卡中的范围会从 <em>-100%</em> 映射为最小值，到 <em>100%</em> 映射为最大值。</p></li>
+<li><p><em>Unsigned Single Component：</em> 将单个值作为信号输出。适合连接到滑块参数。Output 选项卡中的范围会从 <em>0%</em> 映射为最小值，到 <em>100%</em> 映射为最大值。</p></li>
+<li><p><em>Multi Component：</em> 将三个不同的值作为信号输出。适合连接到位置、旋转或颜色等 3 向量参数。此模式也可用于连接范围滑块，其中 <em>X</em> 会映射到 <em>min</em> 值， <em>Y</em> 会映射到 <em>max</em> 值。Output 选项卡中的范围会从 <em>-100%</em> 映射为最小值，到 <em>100%</em> 映射为最大值。</p></li>
+<li><p><em>Checkbox：</em> 将单个布尔值作为信号输出。适合连接到复选框。未勾选会映射为未勾选；如果未连接到复选框，则映射为最小值。勾选会映射为勾选或最大值。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Value：</strong> 在<em>输出</em> 选项卡中指定的范围内，使用指定映射控制已连接参数的值。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="950" height="511.4336917562724" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/mod_constant_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="oscillator-oscillatoricon">
+<h3>Oscillator（振荡器） <a class="reference internal" href="../../../_images/oscillator.svg"><img alt="oscillator icon" height="18" src="../../../_images/oscillator.svg" width="18" /></a><a class="headerlink" href="#oscillator-oscillatoricon" title="Permalink to this heading">#</a></h3>
+<p>使用振荡器生成波形信号，该信号可发送到其他节点暴露为 pin 的参数。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="200" height="72.61146496815286" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/waveformTypes_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Waveform X,Y,Z：</strong> 当链接到只有单个值的参数时，只有 <em>Waveform X</em> 有效。调制位置或旋转参数时，X,Y,Z 会链接到 X,Y,Z。调制颜色参数时，X,Y,Z 会链接到 R,G,B。可用波形类型如下：</dt><dd><ul>
+<li><p>None：无振荡；波形值会随时间保持恒定，并设为 <em>Base</em> 参数中指定的值。</p></li>
+<li><p>Sine：正弦波，平滑地来回振荡。</p></li>
+<li><p>Saw：沿取模曲线振荡，数值会在每个周期突然重置为同一个值。</p></li>
+<li><p>Pulse：在顶部值和底部值之间来回突然切换。</p></li>
+<li><p>Noise：数值会以不规则方式变化。</p></li>
+<li><p>Random Saw：数值会在每个周期上升到一个随机数。锯齿的高度各不相同。</p></li>
+<li><p>Random Pulse：在随机顶部值和随机底部值之间来回突然切换。</p></li>
+<li><p>Random Step：每个周期跳变到一个随机常量值。</p></li>
+<li><dl class="simple">
+<dt>Custom：每个周期重复的自定义波形。</dt><dd><ul>
+<li><p><strong>Custom Waveform：</strong> 横轴：每个周期内的时间；纵轴：数值。这里使用右键菜单中的 <em>Curve Generator…</em> 会尤其有用。有关如何编辑调制曲线的更多信息，请查看我们的<a class="reference internal" href="specific/modulation_curve.html#modulationcurve-lg"><span class="std std-ref">调制曲线</span></a> 部分！</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="100" height="270.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/oscillatorFreq_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Frequency time unit：</strong> 指定 <em>Frequency</em> 参数应使用的时间单位。可以使用 Hz（赫兹）或 Seconds（秒）作为独立频率，也可以使用 Frames（帧）或 Loop Divisions（循环分段），让它根据当前项目设置工作。</dt><dd><ul>
+<li><p><strong>Hz：</strong> 该 <em>Frequency</em> 参数设置每秒的模式周期数量。</p></li>
+<li><p><strong>Seconds：</strong> 该 <em>Frequency</em> 参数设置一个模式周期所需的秒数。</p></li>
+<li><p><strong>Frames：</strong> 该 <em>Frequency</em> 参数设置一个模式周期所需的帧数。</p></li>
+<li><p><strong>Loop Divisions：</strong> 该 <em>Frequency</em> 参数设置循环区域时间跨度内的模式周期数量。可按 <cite>L</cite> 或 <a class="reference internal" href="../../../_images/loop.svg"><img alt="icon_loop" height="16" src="../../../_images/loop.svg" width="16" /></a> 按钮，位于 <em>Timeline</em> 区段。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Frequency：</strong> 模式在每个时间单位内重复的次数。值越高，数值变化越快。</p></li>
+<li><p><strong>Base：</strong> 参数的中心值。可用于偏移整条振荡曲线。</p></li>
+<li><p><strong>Phase：</strong> 波形的时间偏移。</p></li>
+<li><p><strong>Amount：</strong> 波形强度。值越高，振荡后的数值偏离基础值越远。</p></li>
+<li><p><strong>Attenuation：</strong> 所有波形的强度乘数。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="600" height="404.55341506129594" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/modulationCurveEndGraphic_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="cycle-cycleicon">
+<h3>Cycle（循环） <a class="reference internal" href="../../../_images/constant-1.svg"><img alt="cycle icon" height="22" src="../../../_images/constant-1.svg" width="22" /></a><a class="headerlink" href="#cycle-cycleicon" title="Permalink to this heading">#</a></h3>
+<p>在输出参数的完整范围内输出持续线性增加（或减少）的值。此节点可用于快速设置自动旋转。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="229.14893617021278" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/mod_cycle_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Mode 1,2,3：</strong> 当链接到只有单个值的参数时，只有 <em>Mode 1</em> 有效。调制位置或旋转参数时，1,2,3 会链接到 X,Y,Z。调制颜色参数时，1,2,3 会链接到 R,G,B。可用模式如下：</dt><dd><ul>
+<li><p>None：值保持为 0。</p></li>
+<li><p>Normal：数值沿锯齿波上升。</p></li>
+<li><p>Inverted：数值沿锯齿波下降。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><strong>Frequency time unit：</strong> 指定 <em>Frequency</em> 参数应使用的时间单位。可以使用 Hz（赫兹）或 Seconds（秒）作为独立频率，也可以使用 Frames（帧）或 Loop Divisions（循环分段），让它根据当前项目设置工作。</dt><dd><ul>
+<li><p><strong>Hz：</strong> 该 <em>Frequency</em> 参数设置每秒的模式周期数量。</p></li>
+<li><p><strong>Seconds：</strong> 该 <em>Frequency</em> 参数设置一个模式周期所需的秒数。</p></li>
+<li><p><strong>Frames：</strong> 该 <em>Frequency</em> 参数设置一个模式周期所需的帧数。</p></li>
+<li><p><strong>Loop Divisions：</strong> 该 <em>Frequency</em> 参数设置循环区域时间跨度内的模式周期数量。可按 <cite>L</cite> 或 <a class="reference internal" href="../../../_images/loop.svg"><img alt="icon_loop" height="16" src="../../../_images/loop.svg" width="16" /></a> 按钮，位于 <em>Timeline</em> 区段。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Frequency：</strong> 模式在每个时间单位内重复的次数。值越高，数值变化越快。</p></li>
+<li><p><strong>Phase：</strong> 锯齿波的时间偏移。</p></li>
+</ul>
+</section>
+<section id="math-mathicon">
+<h3>Math（数学） <a class="reference internal" href="../../../_images/math.svg"><img alt="math icon" height="18" src="../../../_images/math.svg" width="18" /></a><a class="headerlink" href="#math-mathicon" title="Permalink to this heading">#</a></h3>
+<p>将数学表达式的结果作为信号输出。表达式可以使用输入变量，并结合我们 <a class="reference internal" href="specific/expressions.html#expressions"><span class="std std-ref">表达式</span></a>页面列出的可用表达式创建。</p>
+<ul class="simple">
+<li><p><strong>Input A：</strong> 可在表达式中通过变量 a 引用的滑块。可使用 a.x、a.y 和 a.z 访问特定分量。</p></li>
+<li><p><strong>Input B：</strong> 可在表达式中通过变量 b 引用的滑块。可使用 b.x、b.y 和 b.z 访问特定分量。</p></li>
+<li><p><strong>Input C：</strong> 可在表达式中通过变量 c 引用的滑块。可使用 c.x、c.y 和 c.z 访问特定分量。</p></li>
+<li><p><strong>Expression 1：</strong> 第一个分量的表达式。</p></li>
+<li><p><strong>Expression 2：</strong> 第二个分量的表达式。</p></li>
+<li><p><strong>Expression 3：</strong> 第三个分量的表达式。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="300.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/timeShift_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="time-shift-timeshifticon">
+<h3>Time Shift（时间偏移） <a class="reference internal" href="../../../_images/time_shift.svg"><img alt="time shift icon" height="22" src="../../../_images/time_shift.svg" width="22" /></a><a class="headerlink" href="#time-shift-timeshifticon" title="Permalink to this heading">#</a></h3>
+<p>将调制器信号在时间上向后或向前偏移。通常用于 <a class="reference internal" href="../../../_images/oscillator.svg"><img alt="oscillator icon" height="18" src="../../../_images/oscillator.svg" width="18" /></a> <em>Mod: Oscillator</em> 或 <a class="reference internal" href="../../../_images/constant-1.svg"><img alt="cycle icon" height="22" src="../../../_images/constant-1.svg" width="22" /></a> <em>Mod: Cycle</em> 节点的输出信号。</p>
+<ul class="simple">
+<li><p><strong>Temporal Offset：</strong> 输入信号偏移的时间量，单位为秒。当多个参数需要跟随同一信号但带有偏移时，这会很有用，例如多个形状沿振荡器模式移动并彼此错开。</p></li>
+<li><p><strong>Temporal Scale：</strong> 输入信号的时间重映射。例如，200% 会让输入正弦波振荡速度加倍。它可用于改变整个信号的频率（速度），而无需逐个修改所有单独频率。</p></li>
+</ul>
+</section>
+<section id="combine-combinatoricon">
+<h3>Combine（组合） <a class="reference internal" href="../../../_images/combinator.svg"><img alt="combinator icon" height="22" src="../../../_images/combinator.svg" width="22" /></a><a class="headerlink" href="#combine-combinatoricon" title="Permalink to this heading">#</a></h3>
+<p>组合来自两个调制器节点的信号。</p>
+<ul class="simple">
+<li><p><strong>Mode：</strong> 设置用于组合两个调制器信号的数学运算。</p></li>
+<li><p><strong>Mix：</strong> 两个输入的混合：-100% 表示仅使用第一个输入，100% 表示仅使用第二个输入；0% 表示二者等量混合。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../_images/modulatorsUsage.png"><img alt="modulator usage" class="align-center" src="../../../_images/modulatorsUsage.png" style="width: 688.8px; height: 176.39999999999998px;" /></a>
+</section>
+<section id="adsr-adsricon">
+<h3>ADSR <a class="reference internal" href="../../../_images/adsr.svg"><img alt="adsr icon" height="18" src="../../../_images/adsr.svg" width="18" /></a><a class="headerlink" href="#adsr-adsricon" title="Permalink to this heading">#</a></h3>
+<p>ADSR 节点允许将特定参数映射到 ADSR 包络。</p>
+<p>ADSR 代表 Attack（起音）、Decay（衰减）、Sustain（延音）、Release（释音）。ADSR 节点的 Active 复选框开启后，包络会启用，并从 attack（起音）开始。Attack（起音）是指定参数的基础值达到峰值所需的时间，峰值由 Amount % 决定。Decay（衰减）是从峰值到 Sustain（延音）值所需的时间。Sustain（延音）是 Base 和 Amount 值之间的百分比，此值会保持不变，直到 ADSR 节点变为非活动。Active 布尔值关闭后，就会 release（释音）该包络。Release（释音）是 Sustain（延音）值回到 Base 值所需的时间。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="500.52631578947364" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/mod_adsr_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>通常的用法是将 <a class="reference internal" href="#midinode-lg"><span class="std std-ref">MIDI </span></a> 节点链接到 ADSR 节点中的 <em>Active</em> 参数。这样，每次触发 MIDI 音符时，它也会遵循 ADSR 包络曲线。不过，你也可以在时间轴中为此参数设置关键帧，或使用 oscillator 调制器节点来振荡激活状态。</p>
+<ul class="simple">
+<li><p><strong>Active：</strong> 会触发包络。启用时，包络进入 ADS；禁用时，包络进入 R。</p></li>
+<li><p><strong>Base：</strong> 由受控参数的边界决定，这是曲线的最低值，以 -100% 到 100% 的百分比表示。</p></li>
+<li><p><strong>Amount：</strong> 由受控参数的边界决定，这是最高值，以 -100% 到 100% 的百分比表示。</p></li>
+<li><p><strong>Attack：</strong> 指定参数的基础值达到峰值所需的时间，单位为秒，该峰值由 <em>Amount 决定</em>。</p></li>
+<li><p><strong>Decay：</strong> 从峰值到 <em>Sustain</em> 值所需的时间，单位为秒。</p></li>
+<li><p><strong>Sustain：</strong> Sustain 是 <em>Base</em> 和 <em>Amount</em> 值之间的百分比，此值会保持不变，直到 ADSR 节点变为非活动。</p></li>
+<li><p><strong>Release：</strong> 一旦 <em>Active</em> 复选框关闭，你就会 release 该包络。 <em>Release</em> 是 <em>Sustain</em> 值回到 <em>Base</em> 值所需的时间，单位为秒。</p></li>
+<li><p><strong>Slope：</strong> 使用 slope（斜率）可以确定 Attack（起音）、Decay（衰减）和 Release（释音）曲线的斜坡。该斜坡可在 <em>Envelope preview 中预览</em>。</p></li>
+</ul>
+</section>
+<section id="midi-midiicon">
+<span id="midinode-lg"></span><h3>MIDI <a class="reference internal" href="../../../_images/MIDI_Icon.gif"><img alt="midi icon" src="../../../_images/MIDI_Icon.gif" style="width: 22.5px; height: 22.5px;" /></a><a class="headerlink" href="#midi-midiicon" title="Permalink to this heading">#</a></h3>
+<p>根据按下键盘等 MIDI 控制器上的按钮来生成用于调制参数的信号。</p>
+<p>要使用此功能，需要先勾选 <em>Settings/Preferences/General/Enable MIDI support</em></p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="500" height="654.8223350253807" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/mod_midi_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Component count：</strong> 在 3 个输出（用于位置、旋转或 RGB）和单个输出之间切换。</p></li>
+<li><p><strong>MIDI Learn：</strong> 按下此按钮，然后使用所需的 MIDI 键来指定控制。</p></li>
+<li><dl class="simple">
+<dt><strong>Midi event：</strong> 选择会修改数值的事件类型。</dt><dd><ul>
+<li><dl class="simple">
+<dt>Note Trigger <a class="reference internal" href="../../../_images/keyboard.svg"><img alt="keyboard icon" height="22" src="../../../_images/keyboard.svg" width="22" /></a> 按下按钮时在信号上添加一个尖峰。</dt><dd><ul>
+<li><p><strong>Note：</strong> 用于触发信号的 MIDI 音符。可以在这里手动设置，但使用 <em>MIDI Learn</em> 按钮自动设置会更容易。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>Control Change <a class="reference internal" href="../../../_images/knob.svg"><img alt="knob icon" height="22" src="../../../_images/knob.svg" width="24" /></a> 使用 MIDI 滑块或旋钮控制信号。</dt><dd><ul>
+<li><p><strong>Control ID：</strong> 用于控制信号的 MIDI 按钮或旋钮。可以在这里手动设置，但使用 <em>MIDI Learn</em> 按钮自动设置会更容易。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Base：</strong> 参数的中心值。</p></li>
+<li><p><strong>Amount：</strong> 数值的信号修改量。值越高，信号变化越大。</p></li>
+<li><p><strong>Decay rate：</strong> 触发音符后数值的衰减速率。值越高，信号越快回到基础值。</p></li>
+<li><p><strong>Channel：</strong> 用于多个 MIDI 控制器。每个 MIDI 控制器都可以在硬件上设置为特定通道。此参数可用于识别特定 MIDI 控制器。值为 -1 时会使用所有 MIDI 控制器。</p></li>
+<li><p><strong>Attenuation：</strong> 所有信号的量乘数。</p></li>
+<li><p><strong>Last midi message：</strong> 显示最近的 MIDI 输入，例如音符或滑块变化。这在调试或手动设置 <em>Note</em> 或 <em>Control ID</em> 时会很有用。</p></li>
+</ul>
+</section>
+</section>
+<section id="colorgroupicon-color">
+<h2><a class="reference internal" href="../../../_images/color_group.svg"><img alt="color icon" height="18" src="../../../_images/color_group.svg" width="18" /></a> 颜色<a class="headerlink" href="#colorgroupicon-color" title="Permalink to this heading">#</a></h2>
+<p>Color 是一类输出颜色值的节点。</p>
+<p>有关如何使用这些节点的详细说明，请查看我们的 <a class="reference internal" href="specific/color.html#color-lg"><span class="std std-ref">颜色</span></a> 页面！</p>
+<section id="color-constant-coloricon">
+<h3>Color: Constant（颜色常量） <a class="reference internal" href="../../../_images/color1.svg"><img alt="color node icon" height="18" src="../../../_images/color1.svg" width="18" /></a><a class="headerlink" href="#color-constant-coloricon" title="Permalink to this heading">#</a></h3>
+<p>此节点表示一种颜色，可连接到任何颜色参数。</p>
+<ul class="simple">
+<li><p><strong>Color：</strong> 使用 <em>Color Picker（颜色选择器）</em>。</p></li>
+</ul>
+</section>
+<section id="color-gradient-gradienticon">
+<h3>Color: Gradient（颜色渐变） <a class="reference internal" href="../../../_images/gradient.svg"><img alt="color gradient node icon" height="18" src="../../../_images/gradient.svg" width="18" /></a><a class="headerlink" href="#color-gradient-gradienticon" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Interpolation Color Space：</strong> 一个下拉菜单，包含在颜色渐变中从一个点到另一个点插值颜色的不同方法。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     >
+        <video class="lazy" preload="none" width="750" height="102.98196948682386" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/colorspace.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Color Gradient：</strong> 创建一段颜色范围。</dt><dd><ul>
+<li><p>通过 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 点击渐变来添加点。</p></li>
+<li><p>按住 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 并拖动。</p></li>
+<li><p>若要移除点，请使用 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 选中该点并按 <cite>Delete</cite></p></li>
+<li><p>若要编辑点的颜色，可以用 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 双击该点。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<p>有关此节点以及如何制作颜色渐变预设的更详细说明，请查看我们的 <a class="reference internal" href="../../../embergen/pages/references/How-To%20Guides/color.html#color"><span class="std std-ref">颜色</span></a> 页面！</p>
+</section>
+<section id="color-selector-colorselectoricon">
+<h3>Color Selector（颜色选择器） <a class="reference internal" href="../../../_images/color_selector.svg"><img alt="color selector node icon" height="18" src="../../../_images/color_selector.svg" width="18" /></a><a class="headerlink" href="#color-selector-colorselectoricon" title="Permalink to this heading">#</a></h3>
+<p>使用 <a class="reference internal" href="../../../_images/gradient.svg"><img alt="color gradient node icon" height="18" src="../../../_images/gradient.svg" width="18" /></a> <em>Color: Gradient</em> 节点作为输入，并输出渐变中给定位置处的颜色。</p>
+<ul class="simple">
+<li><p><strong>Position：</strong> 要从渐变中选择颜色的位置。</p></li>
+</ul>
+</section>
+</section>
+<section id="skyicon-skybox">
+<span id="skynode-lg"></span><h2><a class="reference internal" href="../../../_images/sky.svg"><img alt="sky icon" height="22" src="../../../_images/sky.svg" width="22" /></a> Skybox<a class="headerlink" href="#skyicon-skybox" title="Permalink to this heading">#</a></h2>
+<p>控制场景的天空和大气，并强烈影响反射和光照。</p>
+<ul class="simple">
+<li><p><strong>Active：</strong> 如果设为 false，skybox（天空盒）会被忽略。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="309.5098039215686" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/skybox_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Skybox Mode：</strong> 要使用的 skybox（天空盒）模式：</dt><dd><ul>
+<li><p><em>None：</em> 关闭 skybox（天空盒）。如果场景中没有灯光或自发光材质，会得到黑色画面。</p></li>
+<li><dl class="simple">
+<dt><em>Atmosphere：</em> 模拟真实天空和大气。它会根据太阳角度改变颜色，该角度是 <em>Elevation</em> 角度，来自 <a class="reference internal" href="../../../_images/directional.svg"><img alt="directional light icon" height="22" src="../../../_images/directional.svg" width="22" /></a> <em>Light: Directional</em> 节点（接入 <em>Sun</em> 引脚）。</dt><dd><ul>
+<li><p><strong>Rayleigh Scattering：</strong> 瑞利散射的波长相关散射系数（按通道）。较短波长比长波长散射更强，这就是天空呈蓝色的原因。</p></li>
+<li><p><strong>Rayleigh Density：</strong> 瑞利散射密度分布的标高。表示分子密度随高度下降的速度。</p></li>
+<li><p><strong>Mie Scattering：</strong> 气溶胶的波长无关散射系数。控制天空雾霾成分的亮度。</p></li>
+<li><p><strong>Mie Asymmetry：</strong> 描述散射方向性的 Henyey-Greenstein 相位函数。0 = 各向同性散射，&gt; 0 = 前向散射。</p></li>
+<li><p><strong>Mie Absorbtion：</strong> 气溶胶系数，用于控制有多少光被吸收而不是散射。</p></li>
+<li><p><strong>Mie Density：</strong> 气溶胶密度的标高，决定粒子随高度变稀的速度。通常远低于 Rayleigh 值。</p></li>
+<li><p><strong>Absorbtion of Ozone：</strong> 臭氧的波长相关吸收。臭氧会强烈吸收较短波长以及部分绿色/红色，从而塑造日出/日落时的天空颜色。</p></li>
+<li><p><strong>Center Height of Ozone：</strong> 臭氧密度峰值的高度。</p></li>
+<li><p><strong>Thickness of Ozone：</strong> 臭氧层的厚度。</p></li>
+<li><p><strong>Radius of Planet：</strong> 行星半径。</p></li>
+<li><p><strong>Radius of Atmosphere：</strong> 从行星中心到大气层顶部的半径。</p></li>
+<li><p><strong>Atmospheric Multiscattering：</strong> 是否考虑多次散射事件（光在大气中反弹超过一次）。适用于明亮地平线和暮光天空。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><em>HDRI：</em> 使用<em>高动态范围图像</em>。</dt><dd><ul>
+<li><p><strong>Filepath：</strong> 用作 skybox（天空盒）的 HDRI 文件。请使用 <em>.exr</em> 文件格式。</p></li>
+<li><p><strong>Optimize：</strong> 会优化 HDRI 以节省 GPU 内存。HDRI 加载会更久，质量可能略有下降，但内存节省非常明显。</p></li>
+<li><p><strong>Brightness：</strong> 天空亮度乘数。</p></li>
+<li><p><strong>Azimuth：</strong> 天空的水平旋转。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><em>Uniform Color：</em> 使用统一颜色照亮场景。</dt><dd><ul>
+<li><p><strong>Color：</strong> 统一天空颜色。 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 点击旁边的方块以打开 Color Picker，并选择所需颜色。</p></li>
+<li><p><strong>Color brightness：</strong> 亮度乘数。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><em>Shade：</em> 使用双色渐变照亮场景。</dt><dd><ul>
+<li><p><strong>Color 1,2：</strong> 设置颜色渐变的第一种和第二种颜色，其中 <em>Color 1</em> 在下方， <em>Color 2</em> 在上方。 <a class="reference internal" href="../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../_images/left.svg" width="18" /></a> 点击旁边的方块以打开 Color Picker，并选择所需颜色。</p></li>
+<li><p><strong>Brightness：</strong> 颜色渐变的亮度乘数。</p></li>
+<li><p><strong>Offset 1,2：</strong> 垂直偏移颜色 1 或颜色 2 的起点。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="groundicon-ground">
+<span id="groundnode-lg"></span><h2><a class="reference internal" href="../../../_images/ground.svg"><img alt="ground icon" height="22" src="../../../_images/ground.svg" width="22" /></a> Ground（地面）<a class="headerlink" href="#groundicon-ground" title="Permalink to this heading">#</a></h2>
+<p>用于在场景中放置固定的无限地平面。地面既作为视觉呈现，也作为液体的碰撞体。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="171.17647058823528" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/Ground_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Ground：</strong> 场景中使用的地面类型：</dt><dd><ul>
+<li><p><em>None：</em> 关闭地平面。</p></li>
+<li><dl class="simple">
+<dt><em>Checkerboard：</em> 为地面使用棋盘格图案。</dt><dd><ul>
+<li><p><strong>Ground scale：</strong> 棋盘格图案的比例，单位为每米方格数。</p></li>
+<li><p><strong>Ground primary, secondary color：</strong> 棋盘格使用的两种颜色。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><em>Uniform Color：</em> 将地平面设为单一颜色。</dt><dd><ul>
+<li><p><strong>Ground primary color：</strong> 地平面使用的颜色。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><em>Units：</em> 在地平面上显示测量值。这是默认行为，因为它有助于跟踪物体尺度。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Ground roughness：</strong> 较低值会让材质更光滑且更具反射性，较高值会让材质更粗糙且更漫反射。</p></li>
+<li><p><strong>Reflectivity：</strong> 材质的菲涅耳反射率，定义在法线入射角/观察表面<em>正对</em> 时（F0）。一些示例：塑料为 0.04，水为 0.02，宝石为 0.05 - 0.16，皮肤为 0.028…</p></li>
+<li><p><strong>Reflective color：</strong> 反射光的颜色。所有电介质通常无色（白色），导体可以有颜色。只有色相和饱和度会产生影响。</p></li>
+<li><p><strong>Rim reflective color：</strong> 此参数控制相对于摄像机成 90 度表面角处反射光的颜色（位于表面<em>地平线</em>）。物理准确的材质在此角度通常显示白色反射，但此设置可为风格化效果调整，用于给边缘反射着色。</p></li>
+</ul>
+</section>
+<section id="sceneicon-scene">
+<h2><a class="reference internal" href="../../../_images/scene.svg"><img alt="scene icon" height="18" src="../../../_images/scene.svg" width="18" /></a> Scene<a class="headerlink" href="#sceneicon-scene" title="Permalink to this heading">#</a></h2>
+<p>场景中所有对象的枢纽。对象要存在于场景中，就应直接或间接连接到此节点的某个输入。</p>
+</section>
+<section id="simulationicon-simulation">
+<h2><a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> Simulation<a class="headerlink" href="#simulationicon-simulation" title="Permalink to this heading">#</a></h2>
+<p>控制液体和白水的基本行为、资源限制以及液体外观。</p>
+<section id="id33">
+<h3>Simulation<a class="headerlink" href="#id33" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Voxel size：</strong> 体素大小，单位为米。它决定可求解的最小细节。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="700" height="233.33333333333331" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/voxelSize_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Step rate：</strong> 每秒步数。每一步都会模拟、网格化并渲染场景。它可以视为项目帧率。</p></li>
+<li><p><strong>Sub-steps：</strong> 每个时间步执行的模拟步数量。子步比完整步更便宜（因为只执行模拟）。更多子步意味着更多计算，但结果更准确。提高此值尤其有助于处理高速度（如快速移动的碰撞体）、高表面张力或高黏度。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="800" height="254.9560853199498" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/simulation_substeps_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Freeze Simulation：</strong> 启用此参数会冻结模拟状态，同时仍继续渲染并推进时间轴。</p></li>
+<li><dl class="simple">
+<dt><strong>Reset Simulation：</strong> 启用此参数会在一定秒数后重置模拟和时间轴。</dt><dd><ul>
+<li><p><strong>Reset Time：</strong> 何时重置模拟和时间轴。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="resources">
+<h3>Resources<a class="headerlink" href="#resources" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../../_images/resources_LG.png"><img alt="yellow text usage" class="align-right" src="../../../_images/resources_LG.png" style="width: 600px;" /></a>
+<p>管理资源时，尽量让最大值接近模拟的实际最大值。这样可以确保模拟尽可能快。你可以在视口的 <em>Stats</em> 中看到资源使用百分比。 <em>Stats</em> 窗口可以通过选择 <em>Stats</em>（位于 <a class="reference internal" href="../../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../../_images/icon_viewport.svg" width="12" /></a> <em>View</em> 菜单），或按 <cite>Shift</cite> + <cite>S</cite></p>
+<ul class="simple">
+<li><p><strong>Max. number of voxels（最大体素数）：</strong> 任意时刻的最大活动体素数量。</p></li>
+<li><p><strong>Max. number of particles：</strong> 任意时刻的最大粒子数量。</p></li>
+<li><p><strong>Max. number of triangles：</strong> 可为液体网格生成的最大三角形（多边形）数量。</p></li>
+<li><p><strong>Max. number of whitewater particles（最大白水粒子数）：</strong> 任意时刻的最大白水粒子数量。此参数只有当 <a class="reference internal" href="../../../_images/ww.svg"><img alt="white water node icon" height="18" src="../../../_images/ww.svg" width="19" /></a> <em>Whitewater</em> 节点连接到 <a class="reference internal" href="../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点时，才能使用此参数。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../_images/used_up_resources.png"><img alt="yellow text usage" class="align-right" src="../../../_images/used_up_resources.png" style="width: 440px;" /></a>
+<p>当达到这些指定资源限制时，模拟会停止，并在视口中显示黄色消息。右侧图像所示情况下，需要增加最大体素数量才能继续模拟。</p>
+</section>
+<section id="solver">
+<h3>Solver<a class="headerlink" href="#solver" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>PIC/FLIP ratio：</strong> 使用多少 <em>FLIP</em>。 <em>FLIP</em> 越多，数值黏度越低，但流体会更容易飞溅。 <em>PIC</em> 的黏度是假的，因为它不会让液体卷曲或屈曲，但相比完整黏度模拟成本极低。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="800" height="225.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/simulation_PIC_FLIP_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="lifetime">
+<h3>Lifetime<a class="headerlink" href="#lifetime" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Simulate particle lifetime：</strong> 粒子是否具有有限生命周期。生命周期范围在 <a class="reference internal" href="../../../_images/emitter.svg"><img alt="emitter node icon" height="18" src="../../../_images/emitter.svg" width="19" /></a> <a class="reference internal" href="#emitter-lg"><span class="std std-ref"> Emitter</span></a> 节点中定义。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="250" height="458.3333333333333" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/simulation_viscosity_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="viscosity">
+<h3>Viscosity<a class="headerlink" href="#viscosity" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Simulate viscosity（模拟黏度）：</strong> 是否模拟黏度。黏度可用于模拟蜂蜜等更浓稠的液体，黏度量可使用 <em>Dynamic viscosity coefficient（动态黏度系数）</em> 参数设置，该参数位于 <a class="reference internal" href="../../../_images/emitter.svg"><img alt="emitter node icon" height="18" src="../../../_images/emitter.svg" width="19" /></a> <em>Emitter</em> 节点中。请注意，黏度是模拟成本相当高的功能。在可能的情况下，可以考虑使用较低的 PIC/FLIP 比率和较高的表面张力作为替代。</dt><dd><ul>
+<li><p><strong>Viscosity: Max. iterations（黏度：最大迭代次数）：</strong> Viscosity Solver（黏度求解器）的最大迭代次数。迭代次数越多越准确，并能够模拟更高黏度的液体。但迭代越多，计算成本越高。请注意，此值设置的是最大值；如果达到目标误差，求解器仍可提前停止。</p></li>
+<li><p><strong>Viscosity: Target error（黏度：目标误差）：</strong> 被认为可接受的最大误差。较低值意味着更好的卷曲效果，但需要更多迭代。</p></li>
+<li><p><strong>Viscosity: Over-relaxation（黏度：超松弛）：</strong> 求解器的激进程度。较高值可让求解器更快得到更好结果，但会增加破坏模拟的风险。默认值适用于几乎所有使用场景。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="surface-tension">
+<h3>Surface Tension（表面张力）<a class="headerlink" href="#surface-tension" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Surface Tension（表面张力）：</strong> 表面张力定义了液体聚集并形成液滴或液丝的倾向。从技术上讲，它表示液体试图最小化自身表面积的趋势。密度会影响其效果强度，因此匹配真实液体数据时，也应匹配密度并按真实尺度工作。这一点尤其重要，因为表面张力效果通常在小尺度下更明显。还要注意单位是毫牛顿-米；如果真实测量值为牛顿-米，需要乘以 1000。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="800" height="144.921875" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/simulation_surfaceTension_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="pressure">
+<h3>Pressure<a class="headerlink" href="#pressure" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Pressure: Max. iterations：</strong> 压力投影求解器的最大迭代次数。如果达到目标散度，求解器可以提前停止。你可以在 Stats 窗口中检查是否达到了最大迭代次数。如果发生这种情况，建议增加此值以确保更好的体积守恒。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="800" height="257.94392523364485" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/simulation_pressure_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Pressure: Target divergence（压力：目标散度）：</strong> 被认为可接受的最大散度。较低值意味着更好的体积守恒，但需要更多投影迭代。</p></li>
+<li><p><strong>Pressure: Over-relaxation：</strong> 求解器的激进程度。较高值可让求解器更快得到更好结果，但会增加破坏模拟的风险。默认值适用于几乎所有使用场景。</p></li>
+</ul>
+</section>
+<section id="density">
+<h3>Density<a class="headerlink" href="#density" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Density：</strong> 液体密度。它决定每体积液体包含多少质量。较低值会增强黏度和表面张力的效果。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="800" height="429.67884828349946" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/simulation_density_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Compensate compression：</strong> 算法为抵抗液体体积损失（压缩）而投入的额外力度。较高值会更好地强制不可压缩性，但可能导致更爆炸性的行为。注意：投影本身作用于单个模拟步，但误差会随时间累积。此选项会通过有意向相反方向“失败”来抵消累积误差。</p></li>
+<li><p><strong>Compensate decompression：</strong> 算法为抵抗液体体积增加（解压）而投入的额外力度。较高值会更好地强制不可压缩性，但可能导致更爆炸性的行为。注意：投影本身作用于单个模拟步，但误差会随时间累积。此选项会通过有意向相反方向“失败”来抵消累积误差。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="527.8112449799197" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/mesh_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="mesh">
+<h3>Mesh<a class="headerlink" href="#mesh" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Meshing：</strong> 启用后，会从液体生成网格。</dt><dd><ul>
+<li><dl class="simple">
+<dt><strong>Higher quality meshing：</strong> 将网格分辨率加倍，并添加更多网格化选项。</dt><dd><ul>
+<li><dl class="simple">
+<dt><strong>Kernel type：</strong> 对每个粒子执行的操作，用于计算它对最终 SDF 的贡献，随后该 SDF 会被网格化。</dt><dd><ul>
+<li><p><em>Isotropic：</em> 更快，但结果更团块化。</p></li>
+<li><p><em>Anisotropic：</em> 更慢，但会得到更平滑的网格。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Smoothing radius：</strong> 用于 SDF 生成。定义计算 SDF 时每个粒子的影响范围。较高值会得到更平滑的网格，但可能减少细节。</p></li>
+<li><p><strong>Erosion/Dilation amount：</strong> 用于 SDF 处理。负值会将表面向内移动，正值会将表面向外移动。</p></li>
+<li><p><strong>Open/Close amount：</strong> 用于 SDF 处理。负值会先将表面向内再向外移动（移除孤立小岛）。正值会先将表面向外再向内移动（填补孔洞和小凹陷）。</p></li>
+<li><p><strong>Smoothing iterations：</strong> 用于 SDF 处理。将前面操作得到的 SDF 平滑指定迭代次数。迭代越多，网格越平滑。此参数往往会收缩网格。如果想保持网格一致，请为 <em>Erosion/Dilation amount:</em> 参数设置相同的值。</p></li>
+<li><p><strong>Peaking：</strong> 用于网格化。Peaking 会沿法线移动网格顶点。正值表示向外。这可用于让褶皱更明显。负值可让波峰或边缘看起来更锐利。</p></li>
+<li><p><strong>Smooth Normals：</strong> 用于网格化。通过平均附近点的法线来平滑法线。它不会改变底层三角形，但网格着色时会显得更平滑。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Isovalue：</strong> 用于网格化。标记液体表面的 SDF 值。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="liquid-appearance">
+<h3>Liquid Appearance<a class="headerlink" href="#liquid-appearance" title="Permalink to this heading">#</a></h3>
+<p>此选项卡中的参数控制液体网格的视觉外观。</p>
+<p>这些参数与 <a class="reference internal" href="../../../_images/material.svg"><img alt="appearance icon" height="18" src="../../../_images/material.svg" width="19" /></a> <em>Appearance</em> 节点中记录的参数完全相同，文档见 <a class="reference internal" href="#appearancenode"><span class="std std-ref">此处</span></a>！</p>
+</section>
+</section>
+<section id="rendericon-render">
+<h2><a class="reference internal" href="../../../_images/render1.svg"><img alt="render icon" height="18" src="../../../_images/render1.svg" width="18" /></a> Render<a class="headerlink" href="#rendericon-render" title="Permalink to this heading">#</a></h2>
+<p>用于配置光栅化器和路径追踪器渲染设置的参数。</p>
+<section id="rasterizer">
+<h3>Rasterizer（光栅化器）<a class="headerlink" href="#rasterizer" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="150" height="158.203125" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/render_smaa_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Shadows：</strong> 如果勾选，会在光栅化视口中渲染阴影。</p></li>
+<li><p><strong>Max number of samples：</strong> 每个像素的最大采样数。数值越高，清晰度越好，但渲染时间也会增加。</p></li>
+<li><p><strong>SMAA：</strong> 启用 Subpixel Morphological Antialiasing（子像素形态抗锯齿）。这可以让边缘看起来不那么锯齿。</p></li>
+</ul>
+</section>
+<section id="path-tracer">
+<h3>Path Tracer（路径追踪器）<a class="headerlink" href="#path-tracer" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="380.76171875" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/render_bounces_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Min viewport samples（最小视口样本数）：</strong> 在视口中显示渲染时，每个像素计算的最小采样数量。</p></li>
+<li><p><strong>Max viewport samples（最大视口样本数）：</strong> 渲染视口时每个像素要计算的最大采样数量。</p></li>
+<li><p><strong>Bounces：</strong> 要计算的最大光线反弹次数。较高值会减少瑕疵，但增加渲染时间。</p></li>
+<li><p><strong>Pixel footprint：</strong> 决定光线分布在一个像素上的扩散范围。较高值会减少锯齿边缘，但图像会更模糊。</p></li>
+</ul>
+</section>
+<section id="denoiser">
+<h3>Denoiser<a class="headerlink" href="#denoiser" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Denoiser：</strong> 如果勾选，会应用降噪算法。</p></li>
+<li><p><strong>Denoise Strength：</strong> 要应用的降噪量。较高值会得到更平滑的图像，但可能损失一些细节。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="446.078431372549" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../_static/videos/render_denoise_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="photon-mapping">
+<h3>Photon Mapping<a class="headerlink" href="#photon-mapping" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Photon mapping（光子映射）：</strong> 如果勾选，会应用光子映射算法。光子映射会模拟焦散光（由反射/折射集中形成的光），从而得到更真实的渲染。</p></li>
+<li><p><strong>Photon radius：</strong> 光子（光粒子）的初始半径，单位为体素。较高值会减少图像细节，但也会降低噪声。</p></li>
+<li><p><strong>Number of photons：</strong> 每帧从光源发射的光子数量。较高值意味着模拟更多光线，从而以渲染时间为代价获得更高质量的图像。</p></li>
+<li><p><strong>Guide primary rays：</strong> 启用主光子映射射线引导。优化光线分布。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../_images/render_photonmapping_LG.png"><img alt="photon mapping on off" class="align-left" src="../../../_images/render_photonmapping_LG.png" style="width: 700px;" /></a>
+</section>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="How-To%20Guides/index.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>下一页</span>
+                </div>
+                <div class="title">操作指南</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="settings.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>上一页</span>
+                </div>
+                
+                <div class="title">设置</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                版权所有 © 2026，JangaFX
+            </div>
+            使用 <a href="https://www.sphinx-doc.org/">Sphinx</a> 和 <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a> 的
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            本页内容
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">节点列表</a><ul>
+<li><a class="reference internal" href="#shape-primitive-primitiveicon">Shape: Primitive </a></li>
+<li><a class="reference internal" href="#appearanceicon-appearance"> 外观</a></li>
+<li><a class="reference internal" href="#collidericon-collider"> Collider（碰撞体）</a><ul>
+<li><a class="reference internal" href="#general">General</a></li>
+<li><a class="reference internal" href="#appearance">Appearance</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#drainicon-drain"> Drain（排水）</a><ul>
+<li><a class="reference internal" href="#activity">Activity</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#emitterlg-icon-emitter"> Emitter（发射器）</a><ul>
+<li><a class="reference internal" href="#id1">Activity</a></li>
+<li><a class="reference internal" href="#behavior">Behavior</a></li>
+<li><a class="reference internal" href="#velocity">Velocity</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#forceslg-icon-forces"> 力</a><ul>
+<li><a class="reference internal" href="#forceconstanticon-force-constant"> Force: Constant</a><ul>
+<li><a class="reference internal" href="#id2">Activity</a></li>
+<li><a class="reference internal" href="#id3">Behavior</a></li>
+<li><a class="reference internal" href="#mask">Mask</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#forceshapeicon-force-shape"> Force: Shape</a><ul>
+<li><a class="reference internal" href="#id4">Activity</a></li>
+<li><a class="reference internal" href="#id5">Behavior</a></li>
+<li><a class="reference internal" href="#id6">Mask</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#forcedragicon-force-drag"> Force: Drag</a><ul>
+<li><a class="reference internal" href="#id7">Activity</a></li>
+<li><a class="reference internal" href="#id8">Behavior</a></li>
+<li><a class="reference internal" href="#id9">Mask</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#forceturbulenceicon-force-turbulence"> Force: Turbulence</a><ul>
+<li><a class="reference internal" href="#id10">Activity</a></li>
+<li><a class="reference internal" href="#id11">Behavior</a></li>
+<li><a class="reference internal" href="#id12">Mask</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#forcelineicon-force-line"> Force: Line</a><ul>
+<li><a class="reference internal" href="#id13">Activity</a></li>
+<li><a class="reference internal" href="#id14">Behavior</a></li>
+<li><a class="reference internal" href="#id15">Mask</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#forcetoroidalicon-force-toroidal"> Force: Toroidal</a><ul>
+<li><a class="reference internal" href="#id16">Activity</a></li>
+<li><a class="reference internal" href="#id17">Behavior</a></li>
+<li><a class="reference internal" href="#id18">Mask</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#lightsicon-light"> Light（灯光）</a><ul>
+<li><a class="reference internal" href="#directionallighticon-light-directional"> Light: Directional</a></li>
+<li><a class="reference internal" href="#pointlighticon-light-point"> Light: Point</a></li>
+<li><a class="reference internal" href="#arealighticon-light-area"> Light: Area</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#ww-groupicon-whitewater"> 白水粒子</a><ul>
+<li><a class="reference internal" href="#ww-icon-whitewater"> 白水粒子</a><ul>
+<li><a class="reference internal" href="#id19">Activity</a></li>
+<li><a class="reference internal" href="#simulation">Simulation</a></li>
+<li><a class="reference internal" href="#source">Source</a></li>
+<li><a class="reference internal" href="#dynamics">Dynamics</a></li>
+<li><a class="reference internal" href="#id20">Appearance</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#ww-source-icon-whitewater-source"> Whitewater Source（白水源）</a><ul>
+<li><a class="reference internal" href="#id21">Activity</a></li>
+<li><a class="reference internal" href="#id22">Source</a></li>
+<li><a class="reference internal" href="#id23">Mask</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#camera-cameraicon">摄像机 </a><ul>
+<li><a class="reference internal" href="#cameranode">摄像机 </a><ul>
+<li><a class="reference internal" href="#id25">General</a></li>
+<li><a class="reference internal" href="#transform">Transform</a></li>
+<li><a class="reference internal" href="#display">Display</a></li>
+<li><a class="reference internal" href="#preview">Preview</a></li>
+<li><a class="reference internal" href="#backplate">Backplate</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#camera-look-at-cameraicon">Camera: Look At </a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#importicon-import"> 导入</a><ul>
+<li><a class="reference internal" href="#asset">Asset</a></li>
+<li><a class="reference internal" href="#animations">Animations</a></li>
+<li><a class="reference internal" href="#id26">Transform</a></li>
+<li><a class="reference internal" href="#playback">Playback</a></li>
+<li><a class="reference internal" href="#id27">Mask</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#exportgroup-lg-icon-export"> 导出</a><ul>
+<li><a class="reference internal" href="#exportimage-lg-icon-export-image"> Export: Image（导出图像）</a><ul>
+<li><a class="reference internal" href="#camera">Camera</a></li>
+<li><a class="reference internal" href="#render-passes">Render Passes（渲染通道）</a></li>
+<li><a class="reference internal" href="#export">Export</a></li>
+<li><a class="reference internal" href="#render-settings">Render Settings</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#exportmesh-lg-icon-export-mesh"> Export: Mesh（导出网格）</a><ul>
+<li><a class="reference internal" href="#settings">设置</a></li>
+<li><a class="reference internal" href="#id28">Export</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#exportvdb-lg-icon-export-vdb"> Export: VDB（导出 VDB）</a><ul>
+<li><a class="reference internal" href="#id29">设置</a></li>
+<li><a class="reference internal" href="#id30">Export</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#exportparticles-lg-icon-export-particles"> Export: Particles（导出粒子）</a><ul>
+<li><a class="reference internal" href="#id31">设置</a></li>
+<li><a class="reference internal" href="#id32">Export</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#modulators-oscillatoricon">调制器 </a><ul>
+<li><a class="reference internal" href="#constant-constanticon">Constant（常量） </a></li>
+<li><a class="reference internal" href="#oscillator-oscillatoricon">Oscillator（振荡器） </a></li>
+<li><a class="reference internal" href="#cycle-cycleicon">Cycle（循环） </a></li>
+<li><a class="reference internal" href="#math-mathicon">Math（数学） </a></li>
+<li><a class="reference internal" href="#time-shift-timeshifticon">Time Shift（时间偏移） </a></li>
+<li><a class="reference internal" href="#combine-combinatoricon">Combine（组合） </a></li>
+<li><a class="reference internal" href="#adsr-adsricon">ADSR </a></li>
+<li><a class="reference internal" href="#midi-midiicon">MIDI </a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#colorgroupicon-color"> 颜色</a><ul>
+<li><a class="reference internal" href="#color-constant-coloricon">Color: Constant（颜色常量） </a></li>
+<li><a class="reference internal" href="#color-gradient-gradienticon">Color: Gradient（颜色渐变） </a></li>
+<li><a class="reference internal" href="#color-selector-colorselectoricon">Color Selector（颜色选择器） </a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#skyicon-skybox"> Skybox</a></li>
+<li><a class="reference internal" href="#groundicon-ground"> Ground（地面）</a></li>
+<li><a class="reference internal" href="#sceneicon-scene"> Scene</a></li>
+<li><a class="reference internal" href="#simulationicon-simulation"> Simulation</a><ul>
+<li><a class="reference internal" href="#id33">Simulation</a></li>
+<li><a class="reference internal" href="#resources">Resources</a></li>
+<li><a class="reference internal" href="#solver">Solver</a></li>
+<li><a class="reference internal" href="#lifetime">Lifetime</a></li>
+<li><a class="reference internal" href="#viscosity">Viscosity</a></li>
+<li><a class="reference internal" href="#surface-tension">Surface Tension（表面张力）</a></li>
+<li><a class="reference internal" href="#pressure">Pressure</a></li>
+<li><a class="reference internal" href="#density">Density</a></li>
+<li><a class="reference internal" href="#mesh">Mesh</a></li>
+<li><a class="reference internal" href="#liquid-appearance">Liquid Appearance</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#rendericon-render"> Render</a><ul>
+<li><a class="reference internal" href="#rasterizer">Rasterizer（光栅化器）</a></li>
+<li><a class="reference internal" href="#path-tracer">Path Tracer（路径追踪器）</a></li>
+<li><a class="reference internal" href="#denoiser">Denoiser</a></li>
+<li><a class="reference internal" href="#photon-mapping">Photon Mapping</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/sphinx_highlight.js"></script>
+    <script src="../../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../../_static/js/ga.js"></script>
+    <script src="../../../_static/js/yall.min.js"></script>
+    <script src="../../../_static/js/loadLibraries.js"></script>
+    <script src="../../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

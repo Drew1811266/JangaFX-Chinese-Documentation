@@ -1,0 +1,1066 @@
+{
+  "path": "embergen/pages/references/How-To Guides/histogram.html",
+  "segment_count": 106,
+  "segments": [
+    {
+      "id": "a94a90595ea1",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 706,
+      "end": 739,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Histogram - JangaFX Documentation",
+      "source_text": "Histogram - JangaFX Documentation"
+    },
+    {
+      "id": "7b9f13683db5",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 5329,
+      "end": 5352,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "3394dcc04542",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 5447,
+      "end": 5477,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "31b72cdbdb4e",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 5673,
+      "end": 5703,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "1037e521f398",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 5894,
+      "end": 5915,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "9626f60935cd",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 6108,
+      "end": 6146,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "14128bde4299",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 6536,
+      "end": 6568,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "4314a7bcf7b2",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 7612,
+      "end": 7634,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "e9199c0ca675",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 7823,
+      "end": 7855,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "af1537482aed",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 8043,
+      "end": 8058,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "a71dccfc9008",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 8163,
+      "end": 8173,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "e60b1ec9b9a1",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 8362,
+      "end": 8394,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "6bf6d3eb5c1a",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 8576,
+      "end": 8590,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "d0f7ea3ba744",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 8677,
+      "end": 8685,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "da5e25888639",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 8773,
+      "end": 8782,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "db197b4bce35",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 8884,
+      "end": 8897,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "36c272590e60",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 9086,
+      "end": 9118,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "55381377688b",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 9298,
+      "end": 9311,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "500d02c83d44",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 9408,
+      "end": 9427,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "c35fa911117f",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 9508,
+      "end": 9513,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "b24755d1aa1e",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 9596,
+      "end": 9603,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "f82348b75bb9",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 9683,
+      "end": 9687,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "7e0d6e137731",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 9779,
+      "end": 9799,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "18f20765183e",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 9900,
+      "end": 9909,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "4e0355c0285a",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 9996,
+      "end": 10008,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "1cbcbfc4eff9",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 10093,
+      "end": 10111,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "fc1b9512b2cb",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 10203,
+      "end": 10219,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "0e1071a8e00f",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 10316,
+      "end": 10337,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "3459f1c66106",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 10421,
+      "end": 10429,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "4aa24967c8eb",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 10514,
+      "end": 10524,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "2a09f05862a8",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 10613,
+      "end": 10626,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "6970e5b6e511",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 10735,
+      "end": 10738,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "1d82b7200071",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 10865,
+      "end": 10887,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "d14ee77b711f",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 11065,
+      "end": 11097,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "34ae40a68373",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 11290,
+      "end": 11305,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "559cf2ef246c",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 11437,
+      "end": 11447,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "ceed583ba202",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 11625,
+      "end": 11657,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "12f2ad3b239c",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 11858,
+      "end": 11872,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "fd967087ddff",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 11994,
+      "end": 12002,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "7182e15abde7",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 12125,
+      "end": 12134,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "9952aa8bb614",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 12282,
+      "end": 12295,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "f74580568db1",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 12473,
+      "end": 12505,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "4015bcd344dc",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 12721,
+      "end": 12732,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "65eae144f00a",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 12883,
+      "end": 12902,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "5a72ab3b2ad2",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 13037,
+      "end": 13042,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "18bbc9a6015a",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 13179,
+      "end": 13186,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "263d887254e7",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 13320,
+      "end": 13324,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "6126fe3ba8d7",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 13470,
+      "end": 13490,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "31a2530d0277",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 13633,
+      "end": 13646,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "e354b802e9d5",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 13787,
+      "end": 13799,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "908085d910a1",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 13938,
+      "end": 13956,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "a971bb6d2dfb",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 14102,
+      "end": 14118,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "91ea7d4d5050",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 14269,
+      "end": 14290,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "8343f62f3fef",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 14428,
+      "end": 14436,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "b83123c20e6f",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 14579,
+      "end": 14592,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "3589cb3024cd",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 14733,
+      "end": 14744,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "878db9c73e96",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 14874,
+      "end": 14877,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "5bb60e2ea3ed",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 14990,
+      "end": 15011,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "d0b2a34590c9",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 15111,
+      "end": 15131,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "969747b52df5",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 15234,
+      "end": 15256,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "1c2e45877577",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 15669,
+      "end": 15680,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "eacdc49dc74c",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 15900,
+      "end": 15938,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "a50e3fa312b9",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 16357,
+      "end": 16389,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "87bad8b499dd",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 16592,
+      "end": 16601,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "caff60e51d90",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 16689,
+      "end": 16894,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The histogram is a way of visualizing the range of densities in the simulation. This can be very useful when mapping a range to a component, like mapping a color gradient to the flames channel for example.",
+      "source_text": "The histogram is a way of visualizing the range of densities in the simulation. This can be very useful when mapping a range to a component, like mapping a color gradient to the flames channel for example."
+    },
+    {
+      "id": "c41d8122ec24",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 17201,
+      "end": 17275,
+      "line": 265,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "fdb2a9ea34c5",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 17326,
+      "end": 17389,
+      "line": 270,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The horizontal axis of the graph represents the density values.",
+      "source_text": "The horizontal axis of the graph represents the density values."
+    },
+    {
+      "id": "1ab66ceff543",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 17406,
+      "end": 17507,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The vertical axis of the graph represents the amount of voxels with this corresponding density value.",
+      "source_text": "The vertical axis of the graph represents the amount of voxels with this corresponding density value."
+    },
+    {
+      "id": "612e1f2ee414",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 17526,
+      "end": 17581,
+      "line": 273,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "For example, if you have more voxels with a density of ",
+      "source_text": "For example, if you have more voxels with a density of "
+    },
+    {
+      "id": "5e0e660c6661",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 17591,
+      "end": 17622,
+      "line": 273,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " than voxels with a density of ",
+      "source_text": " than voxels with a density of "
+    },
+    {
+      "id": "4ae1905d9741",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 17634,
+      "end": 17680,
+      "line": 273,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": ", that corresponding white bar will be taller.",
+      "source_text": ", that corresponding white bar will be taller."
+    },
+    {
+      "id": "f78bd115b110",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 17688,
+      "end": 17717,
+      "line": 274,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Usually the white bar at the ",
+      "source_text": "Usually the white bar at the "
+    },
+    {
+      "id": "59f6e4fc37a2",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 17727,
+      "end": 17906,
+      "line": 274,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " value on the left is the tallest since most simulations have empty space meaning there are voxels with no density within the bounding box. Thus the most common/frequent value is ",
+      "source_text": " value on the left is the tallest since most simulations have empty space meaning there are voxels with no density within the bounding box. Thus the most common/frequent value is "
+    },
+    {
+      "id": "bde2bb91ad7a",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 17916,
+      "end": 17950,
+      "line": 274,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " making the the highest white bar.",
+      "source_text": " making the the highest white bar."
+    },
+    {
+      "id": "1ea41a3c515f",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 17982,
+      "end": 18026,
+      "line": 276,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "You can adjust the density range to view by ",
+      "source_text": "You can adjust the density range to view by "
+    },
+    {
+      "id": "95ebaca5519b",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 18185,
+      "end": 18229,
+      "line": 276,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking and dragging within the histogram.",
+      "source_text": " clicking and dragging within the histogram."
+    },
+    {
+      "id": "504284d6fda1",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 18246,
+      "end": 18267,
+      "line": 277,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "You can click on the ",
+      "source_text": "You can click on the "
+    },
+    {
+      "id": "2a128b072704",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 18439,
+      "end": 18482,
+      "line": 277,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " icon to reset the histogram range back to ",
+      "source_text": " icon to reset the histogram range back to "
+    },
+    {
+      "id": "016a32d7b456",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 18494,
+      "end": 18524,
+      "line": 277,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": ". This will also activate the ",
+      "source_text": ". This will also activate the "
+    },
+    {
+      "id": "8c5617e61291",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 18528,
+      "end": 18533,
+      "line": 277,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Log Y",
+      "source_text": "Log Y"
+    },
+    {
+      "id": "664336aba0ac",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 18556,
+      "end": 18560,
+      "line": 278,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "2bbbae0621aa",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 18564,
+      "end": 18569,
+      "line": 278,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Log Y",
+      "source_text": "Log Y"
+    },
+    {
+      "id": "1f724e9af54a",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 18574,
+      "end": 18753,
+      "line": 278,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " checkbox means that when checked, the vertical axis will have a logarithmic scale. This allows for easily viewing very large and very small voxel density values at the same time.",
+      "source_text": " checkbox means that when checked, the vertical axis will have a logarithmic scale. This allows for easily viewing very large and very small voxel density values at the same time."
+    },
+    {
+      "id": "a0794bb83504",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 18859,
+      "end": 18993,
+      "line": 284,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The coloring remap range is visualized in the histogram by a grey overlay indicating the densities that are cropped outside the range.",
+      "source_text": "The coloring remap range is visualized in the histogram by a grey overlay indicating the densities that are cropped outside the range."
+    },
+    {
+      "id": "d615c3226637",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 19010,
+      "end": 19173,
+      "line": 285,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "You usually want to fit the range nicely around the present voxel densities to make optimal use of the connected color gradient. This can be done by adjusting the ",
+      "source_text": "You usually want to fit the range nicely around the present voxel densities to make optimal use of the connected color gradient. This can be done by adjusting the "
+    },
+    {
+      "id": "81cb716672b4",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 19177,
+      "end": 19197,
+      "line": 285,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Coloring remap range",
+      "source_text": "Coloring remap range"
+    },
+    {
+      "id": "4a660a4ca031",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 19207,
+      "end": 19210,
+      "line": 285,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "min",
+      "source_text": "min"
+    },
+    {
+      "id": "f291a763eb2f",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 19215,
+      "end": 19220,
+      "line": 285,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "3c51b7d8b85e",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 19224,
+      "end": 19227,
+      "line": 285,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "max",
+      "source_text": "max"
+    },
+    {
+      "id": "1655789c26da",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 19232,
+      "end": 19351,
+      "line": 285,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " values, fitting the range around the area with the white bars. for more information in this please have a look at our ",
+      "source_text": " values, fitting the range around the area with the white bars. for more information in this please have a look at our "
+    },
+    {
+      "id": "a63051bc5c85",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 19490,
+      "end": 19502,
+      "line": 285,
+      "parent_path": "ul/li/p/a/span",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "cc9ae19a8edc",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 19513,
+      "end": 19519,
+      "line": 285,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " page!",
+      "source_text": " page!"
+    },
+    {
+      "id": "d89eca1adc94",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 19536,
+      "end": 19540,
+      "line": 286,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "1a31cadc169f",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 19544,
+      "end": 19563,
+      "line": 286,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Coloring remap ramp",
+      "source_text": "Coloring remap ramp"
+    },
+    {
+      "id": "38cef5b2ffcc",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 19568,
+      "end": 19873,
+      "line": 286,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " parameter can be used the change the interpolation from the minimum to the maximum value of the range. Like a gamma operation. Higher values will shift the color mapping more to the left side of the color gradient and lower values will shift the color mapping more towards the right side of the gradient.",
+      "source_text": " parameter can be used the change the interpolation from the minimum to the maximum value of the range. Like a gamma operation. Higher values will shift the color mapping more to the left side of the color gradient and lower values will shift the color mapping more towards the right side of the gradient."
+    },
+    {
+      "id": "87f789eed94c",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 20149,
+      "end": 20153,
+      "line": 298,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "67987ca28ed3",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 20219,
+      "end": 20231,
+      "line": 300,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "c613147f80c1",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 20611,
+      "end": 20619,
+      "line": 308,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "a0ca0f23dd6d",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 20702,
+      "end": 20722,
+      "line": 311,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "f30d1695d170",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 20908,
+      "end": 20968,
+      "line": 318,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "703eb196edbc",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 20974,
+      "end": 20997,
+      "line": 320,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "6a9e8a6f216f",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 21035,
+      "end": 21041,
+      "line": 321,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "88ae2f6b8ef5",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 21045,
+      "end": 21050,
+      "line": 321,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "893f79b04b7b",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 21100,
+      "end": 21110,
+      "line": 321,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "13a1be45b47a",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 21114,
+      "end": 21142,
+      "line": 321,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "1445f1a7b3ac",
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "start": 21186,
+      "end": 21190,
+      "line": 323,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

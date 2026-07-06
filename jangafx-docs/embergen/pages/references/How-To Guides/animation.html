@@ -1,0 +1,623 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../../../genindex.html" /><link rel="search" title="Search" href="../../../../search.html" /><link rel="next" title="Modulation Curve" href="modulation_curve.html" /><link rel="prev" title="Range Slider" href="rangeSlider.html" />
+
+    <link rel="shortcut icon" href="../../../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>Keyframe Animation - JangaFX Documentation</title>
+      <link rel="stylesheet" type="text/css" href="../../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../../../index.html"><div class="brand">JangaFX Documentation</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 current has-children"><a class="reference internal" href="../../../index.html">EmberGen Documentation</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../getting_started.html">Getting Started</a></li>
+<li class="toctree-l2 current has-children"><a class="reference internal" href="../index.html">References</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../ui_reference.html">User Interface</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../settings.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../node_list.html">Node List</a></li>
+<li class="toctree-l3 current has-children"><a class="reference internal" href="index.html">How-To Guides</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="camera_import.html">Camera Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="render_passes_mapping.html">Render Pass Mapping</a></li>
+<li class="toctree-l4"><a class="reference internal" href="color.html">Color</a></li>
+<li class="toctree-l4"><a class="reference internal" href="comment.html">Comment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="note.html">Note</a></li>
+<li class="toctree-l4"><a class="reference internal" href="import_animation.html">FBX, OBJ, ABC Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="histogram.html">Histogram</a></li>
+<li class="toctree-l4"><a class="reference internal" href="rangeSlider.html">Range Slider</a></li>
+<li class="toctree-l4 current current-page"><a class="current reference internal" href="#">Keyframe Animation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="modulation_curve.html">Modulation Curve</a></li>
+<li class="toctree-l4"><a class="reference internal" href="modulating_parameters.html">Modulating Parameters</a></li>
+<li class="toctree-l4"><a class="reference internal" href="palettes.html">Palettes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="exportVDB.html">VDB Export</a></li>
+<li class="toctree-l4"><a class="reference internal" href="randomization.html">Randomization</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../FAQ.html">FAQ</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../../liquigen/index.html">LiquiGen Documentation</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../../liquigen/pages/getting_started.html">Getting Started</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../../liquigen/pages/references/index.html">References</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../../../liquigen/pages/references/ui_reference.html">User Interface</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../liquigen/pages/references/settings.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../liquigen/pages/references/node_list.html">Node List</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/index.html">How-To Guides</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/diagnostics.html">Diagnostics</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/render_passes_mapping.html">Render Pass Mapping</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/color.html">Color</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/comment.html">Comment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/note.html">Note</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/import_animation.html">FBX, OBJ, ABC Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/camera_import.html">Camera Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/rangeSlider.html">Range Slider</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/animation.html">Keyframe Animation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/modulation_curve.html">Modulation Curve</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/modulating_parameters.html">Modulating Parameters</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/palettes.html">Palettes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/randomization.html">Randomization</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../liquigen/pages/references/How-To%20Guides/expressions.html">Expressions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../liquigen/pages/FAQ.html">FAQ</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../illugen/index.html">IlluGen Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../geogen/index.html">GeoGen Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../licensing/index.html">Floating License Guide</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <section id="keyframe-animation">
+<span id="animation"></span><h1>Keyframe Animation<a class="headerlink" href="#keyframe-animation" title="Permalink to this heading">#</a></h1>
+<section id="setting-keyframes">
+<h2>Setting Keyframes<a class="headerlink" href="#setting-keyframes" title="Permalink to this heading">#</a></h2>
+<p>Let’s get moving!</p>
+<a class="reference internal image-reference" href="../../../../_images/ball.png"><img alt="override states" class="align-right" src="../../../../_images/ball.png" style="width: 100px;" /></a>
+<p>Most parameters in EmberGen can have keyframe animation. This means you can set values on specific frames resulting in a parameter that can change over time.</p>
+<p>Let’s say we want our sphere to move up and down.</p>
+<p>That means we have to alter its Z-position over time.</p>
+<ul class="simple">
+<li><p>Select the <em>Shape: Primitive</em> node and find the <em>Position</em> parameter in the <em>Node Details</em> tab.</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../../_images/overrideStates.png"><img alt="override states" class="align-right" src="../../../../_images/overrideStates.png" style="width: 173.70000000000002px; height: 89.10000000000001px;" /></a>
+<ul class="simple">
+<li><p>Click on the <a class="reference internal" href="../../../../_images/key_none.svg"><img alt="no override" height="14" src="../../../../_images/key_none.svg" width="14" /></a> circle next to it to set the override state for the parameter to <a class="reference internal" href="../../../../_images/key_timeline.svg"><img alt="key icon" height="14" src="../../../../_images/key_timeline.svg" width="14" /></a> <em>Timeline Override</em>.</p></li>
+<li><p>Clicking on the icon next to the parameter will cycle through the different types of override states. So if you now want to get back to <a class="reference internal" href="../../../../_images/key_none.svg"><img alt="no override" height="14" src="../../../../_images/key_none.svg" width="14" /></a> <em>No Override</em>, for example, you have to click the icon twice.</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../../_images/overrideState.gif"><img alt="override state animation" src="../../../../_images/overrideState.gif" style="width: 200px;" /></a>
+<p>A couple of things happen when setting the override state to <em>Timeline Override</em>.</p>
+<ul class="simple">
+<li><p>The parameter shows up in the Timeline tab.</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../../_images/timeLineTab_LG.png"><img alt="timeline tab" src="../../../../_images/timeLineTab_LG.png" style="width: 250px;" /></a>
+<ul class="simple">
+<li><p>The parameter shows up in the Timeline Editor.</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../../_images/timeLineEditorAnimation_LG.png"><img alt="timeline editor parameter shows up" src="../../../../_images/timeLineEditorAnimation_LG.png" style="width: 250px;" /></a>
+<ul class="simple">
+<li><p>If <em>Create Key When Parameter Exposed</em> (found in <em>Settings/Preferences…/General</em>) is checked a keyframe with the current value appears at the blue playhead</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../../_images/createKeyWhenParameterExposed.png"><img alt="create key when parameter exposed" src="../../../../_images/createKeyWhenParameterExposed.png" style="width: 300px;" /></a>
+<p>Let’s make our sphere go up and down using keyframes!</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="550" height="582.3529411764706" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/settingKeyframes.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <div class="line-block">
+<div class="line">You can add a keyframe by <cite>Double-Clicking</cite> or</div>
+<div class="line"><cite>Shift-Clicking</cite> in the</div>
+<div class="line"><em>Timeline Editor</em>.</div>
+</div>
+<p>You can also set a keyframe by changing the parameter value in the Timeline Editor.</p>
+<p>If <a class="reference internal" href="../../../../_images/utokeyframe.svg"><img alt="autokey icon" height="16" src="../../../../_images/utokeyframe.svg" width="16" /></a> <em>Toggle Timeline Autokey</em> <cite>A</cite> is turned on, moving the sphere in the viewport or altering the value in the properties panel will set a keyframe with the new value on the frame specified by the blue playhead.</p>
+<p>If <em>Snap keys to frames</em> <a class="reference internal" href="../../../../_images/magnet.svg"><img alt="key filter icon" height="16" src="../../../../_images/magnet.svg" width="16" /></a> is enabled, the keyframes can only be placed on whole frame numbers. If not, the keyframes can be placed anywhere in between frames.</p>
+<p>There we have it, a sphere moving up and down!</p>
+</section>
+<section id="timeline-editor">
+<span id="timelineeditor"></span><h2>Timeline Editor<a class="headerlink" href="#timeline-editor" title="Permalink to this heading">#</a></h2>
+<section id="viewing-keyframes">
+<h3>Viewing Keyframes<a class="headerlink" href="#viewing-keyframes" title="Permalink to this heading">#</a></h3>
+<p>First, let’s fit the keyframes nicely in our timeline editor. You can do this by using the icons in the top right corner.</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="450" height="309.2957746478873" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/viewingKeyframesTimelineEditor.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><a class="reference internal" href="../../../../_images/fit_to_view.svg"><img alt="fit To View Icon" height="12" src="../../../../_images/fit_to_view.svg" width="12" /></a> Pan and zoom the timeline to perfectly fit all the keyframes in view.</p></li>
+<li><p><a class="reference internal" href="../../../../_images/fit_to_curve.svg"><img alt="fit to curve icon" height="12" src="../../../../_images/fit_to_curve.svg" width="12" /></a> Pan and zoom the timeline to perfectly fit the selected keyframes in view.</p></li>
+<li><p><a class="reference internal" href="../../../../_images/100percent_view.svg"><img alt="zoom Default Icon" height="12" src="../../../../_images/100percent_view.svg" width="12" /></a> Reset the vertical zoom to default in the Curve Editor. When using <cite>Shift</cite> + <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> click you can also reset the horizontal zoom to default!</p></li>
+<li><p><a class="reference internal" href="../../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../../_images/full_screen.svg" width="12" /></a> Toggle the panel to fullscreen if you want to edit your keyframes with the maximum screen space.</p></li>
+</ul>
+<p>You can manually move around the timeline using the following controls:</p>
+<ul class="simple">
+<li><p><strong>Pan the timeline</strong> by holding down the middle mouse button and dragging or by using the scrollbar at the top of the timeline editor.</p></li>
+<li><p><strong>Zooming the timeline</strong> by holding down <cite>Ctrl</cite> and scrolling. Note that the pivot for zooming is at your cursor’s location.</p></li>
+</ul>
+</section>
+<section id="editing-keyframes">
+<h3>Editing Keyframes<a class="headerlink" href="#editing-keyframes" title="Permalink to this heading">#</a></h3>
+<p>Using the timeline editor you can edit your keyframes to your liking. Let’s have a look at the things we can do here.</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="550" height="191.71428571428572" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/EditingKeyframesTimelineEditor.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Create a keyframe</strong> by double <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> clicking or <cite>shift</cite> <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> clicking.</p></li>
+<li><p><strong>Move keyframes around</strong> by <cite>LMB</cite> and dragging. If <em>Snap keys to frames</em> <a class="reference internal" href="../../../../_images/magnet.svg"><img alt="key filter icon" height="16" src="../../../../_images/magnet.svg" width="16" /></a> is enabled, keyframes will always move a whole frame at the time.</p></li>
+<li><p><strong>Box-select multiple keyframes</strong> by <cite>LMB</cite> and dragging.</p></li>
+<li><p><strong>Select multiple keyframes</strong> holding down <cite>Ctrl + LMB</cite>.</p></li>
+<li><p><strong>Select all keyframes</strong> with <cite>Ctrl + A</cite></p></li>
+<li><p><strong>Copy keyframes</strong> with the right-click menu or <cite>Ctrl + C</cite></p></li>
+<li><p><strong>Cut keyframes</strong> with the right-click menu or <cite>Ctrl + X</cite></p></li>
+<li><p><strong>Paste keyframes</strong> with the right-click menu or <cite>Ctrl + V</cite></p></li>
+<li><p><strong>Delete keyframes</strong> with the right-click menu or the <cite>Delete</cite> key.</p></li>
+<li><p><strong>Scale your keyframe animation</strong> using <cite>Shift + Alt + LMB</cite> drag pivoting from the first keyframe. This can be helpful if you want to retime a part of your animation.</p></li>
+<li><dl class="simple">
+<dt><strong>Aligning keyframes</strong> left or right by right-clicking a selection of keyframes and picking an option from the <em>Align</em> menu. When putting keyframes on multiple parameters aligning can help to tidy up and perfect your timeline.</dt><dd><ul>
+<li><p>Left will move all the selected keyframes to the position of the first keyframe.</p></li>
+<li><p>Right will move all the selected keyframes to the position of the last keyframe.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="200" height="114.84375" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/snapToFrames.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Snap keyframes to the nearest whole frame number</strong> with the <em>Snap To Frames</em> option in the right-click menu.</p></li>
+</ul>
+</section>
+</section>
+<section id="curve-editor">
+<span id="curveeditor"></span><h2>Curve Editor<a class="headerlink" href="#curve-editor" title="Permalink to this heading">#</a></h2>
+<a class="reference internal image-reference" href="../../../../_images/graphEditorIcon_LG.png"><img alt="curve editor screenshot" class="align-right" src="../../../../_images/graphEditorIcon_LG.png" style="width: 300px;" /></a>
+<p>The Curve Editor can be toggled using <a class="reference internal" href="../../../../_images/curve_editor.svg"><img alt="curve mode icon" height="16" src="../../../../_images/curve_editor.svg" width="16" /></a></p>
+<p>This editor gives a visual representation of where the values are going over time.</p>
+<p>All the controls for the timeline editor apply here as well, but there are some extra things you can do and see.</p>
+<section id="id1">
+<h3>Viewing Keyframes<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="304.05405405405406" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/viewingKeyframesCurveEditor.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><p>Zoom the timeline vertically by holding down <cite>Ctrl + Shift</cite> and scrolling. By zooming in vertically you can more clearly view smaller changes in the graph.</p></li>
+<li><p>Zoom the timeline both horizontally and vertically using the scrollwheel <a class="reference internal" href="../../../../_images/middle.svg"><img alt="middle mouse button" height="18" src="../../../../_images/middle.svg" width="18" /></a></p></li>
+<li><p>Pan both horizontally and vertically using <a class="reference internal" href="../../../../_images/middle.svg"><img alt="middle mouse button" height="18" src="../../../../_images/middle.svg" width="18" /></a> click and drag.</p></li>
+<li><p>With multiple keyframes selected you can find the <em>Fit View</em> options in the right-click menu to fit the selected keyframes to view either horizontally, vertically, or both.</p></li>
+</ul>
+</section>
+<section id="id2">
+<h3>Editing Keyframes<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300"  nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/editingKeyframesCurveEditor.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><p>Move one or more keyframes vertically (changing the keyframe values) using <cite>Ctrl + Shift</cite> + <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> clicking and dragging.</p></li>
+<li><p>Freely move one or more keyframes vertically and horizontally using <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> clicking and dragging.</p></li>
+<li><dl class="simple">
+<dt>Two more options are added to the <em>Align</em> right-click menu:</dt><dd><ul>
+<li><p><strong>Top</strong> will move all the selected keyframes up to the same value as the keyframe with the highest value.</p></li>
+<li><p><strong>Bottom</strong> will move all the selected keyframes down to the same value as the keyframe with the lowest value.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="interpolation-mode">
+<h3>Interpolation Mode<a class="headerlink" href="#interpolation-mode" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="126.28676470588235" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/editingInterpolationMode.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>The <em>Interpolation Mode</em> defines the method of interpolating the values from one keyframe to another.</p>
+<p>You can change the Interpolation Mode of the keyframes in the right-click menu.</p>
+<div class="line-block">
+<div class="line"><em>Note that you can mix different interpolation modes on different keyframes.</em></div>
+<div class="line"><em>The interpolation mode of the first (or left) keyframe will be used between two keyframes with different interpolation modes.</em></div>
+</div>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="517.7142857142858" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/interpolationModes.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <dl class="simple">
+<dt>There are a few options:</dt><dd><ul class="simple">
+<li><p><strong>Constant</strong> will fully change the value when reaching a keyframe without any in-between values. This is the default for animating checkboxes and dropdown menus since they don’t have any in-between values.</p></li>
+<li><p><strong>Linear</strong> will draw a straight line from one keyframe to another in the <em>Curve Editor</em>. Values will move from one keyframe to another with a constant speed.</p></li>
+<li><p><strong>Smooth</strong> will generate a smooth line from one keyframe to another. This avoids having hard transitions in values.</p></li>
+<li><p><strong>Bézier</strong> will interpolate the values based on the bézier handles. When using this mode you can see the bézier handles when selecting a single keyframe. You can change the interpolation by <cite>LMB</cite> and dragging the dots at the end of the bézier handles. A flat part of the curve means the values change slowly and a steep part of the curve means the values change quickly.</p></li>
+</ul>
+</dd>
+</dl>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="142.88659793814432" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/editingBezierHandle.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <dl>
+<dt>When using the <em>Bézier</em> mode, there are a few handle types you can use also found in the right-click menu.</dt><dd><ul>
+<li><p><strong>Aligned</strong> The handles can be moved freely and can have any direction and length. For this type, one handle is always in the inverted direction and has the same length as the other one.</p></li>
+<li><p><strong>Free</strong> The handles can be moved in any way separate from each other.</p></li>
+<li><p><strong>Auto Clamped</strong> This is the default behavior. For this type, the handles can never go beyond the previous or next keyframe. Note that when changing the handles the type will be set to Aligned.</p></li>
+<li><p><strong>Auto Vectored</strong> This will point the left handle towards the previous keyframe and the right handle towards the next keyframe. Note that when changing the handles the type will be set to Free.</p>
+<blockquote>
+<div><p>You can always reset the bezier handles to default for the selected keyframes by clicking on <em>Reset Handle</em> in the right-click menu.</p>
+</div></blockquote>
+</li>
+</ul>
+</dd>
+</dl>
+<p><em>Note that you can also change all these settings in the Timeline Editor, but you won’t be able to see the effect it has on the curve or change the Bézier curve.</em></p>
+</section>
+</section>
+<section id="timeline-recording">
+<h2>Timeline Recording<a class="headerlink" href="#timeline-recording" title="Permalink to this heading">#</a></h2>
+<a class="reference internal image-reference" href="../../../../_images/timelineRecordingIcon_LG.png"><img alt="curve editor screenshot" class="align-right" src="../../../../_images/timelineRecordingIcon_LG.png" style="width: 300px;" /></a>
+<p>Timeline recording allows you to turn your manual changes to a parameter into keyframes in real time.
+This can be useful to animate things quickly or to just add that human touch!</p>
+<p>Making a timeline recording takes the following steps:</p>
+<ul class="simple">
+<li><p>Set the desired parameter to <em>Timeline Override</em>. This means <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> clicking on the <a class="reference internal" href="../../../../_images/key_none.svg"><img alt="no override" height="14" src="../../../../_images/key_none.svg" width="14" /></a> circle next to the parameter. The <a class="reference internal" href="../../../../_images/key_timeline.svg"><img alt="key icon" height="14" src="../../../../_images/key_timeline.svg" width="14" /></a> icon will appear next to it.</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../../_images/overrideState.gif"><img alt="override state animation" src="../../../../_images/overrideState.gif" style="width: 200px;" /></a>
+<ul class="simple">
+<li><p>Click the <a class="reference internal" href="../../../../_images/realtime.svg"><img alt="record icon" height="16" src="../../../../_images/realtime.svg" width="16" /></a> icon or press <cite>Shift + R</cite> to start the recording.</p></li>
+<li><p>Make the parameter changes you want to be recorded.</p></li>
+<li><p>To stop recording, toggle <a class="reference internal" href="../../../../_images/realtime.svg"><img alt="record icon" height="16" src="../../../../_images/realtime.svg" width="16" /></a> timeline recording again, <a class="reference internal" href="../../../../_images/icon_reset_sim.svg"><img alt="reset Icon" height="16" src="../../../../_images/icon_reset_sim.svg" width="16" /></a> reset the simulation, or <a class="reference internal" href="../../../../_images/icon_play1.svg"><img alt="play icon timeline" height="16" src="../../../../_images/icon_play1.svg" width="16" /></a> pause the simulation.</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     >
+        <video class="lazy" preload="none" width="700" height="556.8181818181818" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/timelineRecording.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    </section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="modulation_curve.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Modulation Curve</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="rangeSlider.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Range Slider</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                Copyright &#169; 2026, JangaFX
+            </div>
+            Made with <a href="https://www.sphinx-doc.org/">Sphinx</a> and <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Keyframe Animation</a><ul>
+<li><a class="reference internal" href="#setting-keyframes">Setting Keyframes</a></li>
+<li><a class="reference internal" href="#timeline-editor">Timeline Editor</a><ul>
+<li><a class="reference internal" href="#viewing-keyframes">Viewing Keyframes</a></li>
+<li><a class="reference internal" href="#editing-keyframes">Editing Keyframes</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#curve-editor">Curve Editor</a><ul>
+<li><a class="reference internal" href="#id1">Viewing Keyframes</a></li>
+<li><a class="reference internal" href="#id2">Editing Keyframes</a></li>
+<li><a class="reference internal" href="#interpolation-mode">Interpolation Mode</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#timeline-recording">Timeline Recording</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
+    <script src="../../../../_static/doctools.js"></script>
+    <script src="../../../../_static/sphinx_highlight.js"></script>
+    <script src="../../../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../../../_static/js/ga.js"></script>
+    <script src="../../../../_static/js/yall.min.js"></script>
+    <script src="../../../../_static/js/loadLibraries.js"></script>
+    <script src="../../../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

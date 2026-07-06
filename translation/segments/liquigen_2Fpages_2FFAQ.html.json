@@ -1,0 +1,1296 @@
+{
+  "path": "liquigen/pages/FAQ.html",
+  "segment_count": 129,
+  "segments": [
+    {
+      "id": "307ff9cc5fc9",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 718,
+      "end": 745,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "FAQ - JangaFX Documentation",
+      "source_text": "FAQ - JangaFX Documentation"
+    },
+    {
+      "id": "5b870b55669c",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 5311,
+      "end": 5334,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "a9425b5faf36",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 5429,
+      "end": 5459,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "244dfccb51ed",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 5655,
+      "end": 5685,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "cf87a31d75d4",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 5870,
+      "end": 5891,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "49054ffeb2dd",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 6084,
+      "end": 6122,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "c6580e0ac476",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 6505,
+      "end": 6537,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "8e98efe712eb",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 7555,
+      "end": 7577,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "95f376b89b8a",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 7755,
+      "end": 7787,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "dba29e7f955f",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 7974,
+      "end": 7989,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "652062540d20",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 8115,
+      "end": 8125,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "a6274abe4164",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 8303,
+      "end": 8335,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "48199c0d6045",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 8530,
+      "end": 8544,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "36bf7c601334",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 8660,
+      "end": 8668,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "e09ef972d270",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 8785,
+      "end": 8794,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "007ca4b38ace",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 8936,
+      "end": 8949,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "0f412b5059b5",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 9127,
+      "end": 9159,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "c1b6cc617b51",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 9371,
+      "end": 9384,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "fc1d499d3677",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 9529,
+      "end": 9548,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "8828b6e7fccb",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 9677,
+      "end": 9682,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "e4de1301d222",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 9813,
+      "end": 9820,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "93be0b5f4bca",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 9948,
+      "end": 9952,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "9a689ffb7f89",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 10092,
+      "end": 10112,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "bd38abaa35ec",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 10245,
+      "end": 10254,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "71b6bda93753",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 10389,
+      "end": 10401,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "2c9a28f7c9a7",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 10534,
+      "end": 10552,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "c195c82874e8",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 10692,
+      "end": 10708,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "6e5e9f7e821f",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 10853,
+      "end": 10874,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "ccf24da020b6",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 11006,
+      "end": 11014,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "d661d8323604",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 11147,
+      "end": 11157,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "6a92431aecd7",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 11294,
+      "end": 11307,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "6625e23cec38",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 11431,
+      "end": 11434,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "f52bb94d97a1",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 11551,
+      "end": 11573,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "2d99a8979488",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 11762,
+      "end": 11794,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "3043ff795bc5",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 11976,
+      "end": 11991,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "54fa67669c62",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 12096,
+      "end": 12106,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "35890c0ac095",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 12284,
+      "end": 12316,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "d3f0b73b8acf",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 12490,
+      "end": 12504,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "be51774a8bef",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 12599,
+      "end": 12607,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "06eca6e92e3f",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 12703,
+      "end": 12712,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "7c85b79bd90d",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 12833,
+      "end": 12846,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "c6eff5add058",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 13024,
+      "end": 13056,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "1e1bf4c1ff8c",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 13245,
+      "end": 13256,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "d8f518b5e1aa",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 13380,
+      "end": 13399,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "c778a42e19b5",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 13507,
+      "end": 13512,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "b678216185c6",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 13622,
+      "end": 13629,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "caf24ca1c696",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 13736,
+      "end": 13740,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "4d7e24d41f8a",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 13859,
+      "end": 13879,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "e282ca5534c6",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 13995,
+      "end": 14008,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "c0a51b80f71e",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 14122,
+      "end": 14134,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "5ab68b59bcec",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 14246,
+      "end": 14264,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "0779bf827511",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 14383,
+      "end": 14399,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "787c2cb73713",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 14523,
+      "end": 14544,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "48bc647278b5",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 14655,
+      "end": 14663,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "eaab37d2cedc",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 14779,
+      "end": 14792,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "96826344cd06",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 14906,
+      "end": 14917,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "0b56fc96d367",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 15042,
+      "end": 15045,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "85d3fefc8b8e",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 15152,
+      "end": 15173,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "9c1270faa77b",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 15267,
+      "end": 15287,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "f6c60046da1e",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 15384,
+      "end": 15406,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "146f5e512ea5",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 15819,
+      "end": 15830,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "cd003d0ac4ee",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 16050,
+      "end": 16088,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "710430422c16",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 16500,
+      "end": 16532,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "0d7204ddb156",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 16707,
+      "end": 16710,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "696e230059bb",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 16792,
+      "end": 16871,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Here you will find the answers to the most common questions asked by our users.",
+      "source_text": "Here you will find the answers to the most common questions asked by our users."
+    },
+    {
+      "id": "e1acb86a885f",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 16938,
+      "end": 16981,
+      "line": 259,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "How to export a flipbook or image sequence?",
+      "source_text": "How to export a flipbook or image sequence?"
+    },
+    {
+      "id": "93180dc04025",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 17222,
+      "end": 17228,
+      "line": 260,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "Export",
+      "source_text": "Export"
+    },
+    {
+      "id": "bba24b6b5d0e",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 17297,
+      "end": 17320,
+      "line": 263,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "How do I add keyframes?",
+      "source_text": "How do I add keyframes?"
+    },
+    {
+      "id": "bae27faa6348",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 17529,
+      "end": 17547,
+      "line": 264,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "3568c010e3a7",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 17623,
+      "end": 17653,
+      "line": 267,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "How can I import my animation?",
+      "source_text": "How can I import my animation?"
+    },
+    {
+      "id": "fe17bbf31ae8",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 17885,
+      "end": 17905,
+      "line": 268,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "5e1369a198ce",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 17977,
+      "end": 18003,
+      "line": 271,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "How do I import my camera?",
+      "source_text": "How do I import my camera?"
+    },
+    {
+      "id": "a4dedab5f752",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 18222,
+      "end": 18235,
+      "line": 272,
+      "parent_path": "section/section/p/a/span",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "97bb5a78aac3",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 18360,
+      "end": 18414,
+      "line": 275,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "The timeline of my imported animation doesn’t line up.",
+      "source_text": "The timeline of my imported animation doesn’t line up."
+    },
+    {
+      "id": "11ae1d8fd67d",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 18567,
+      "end": 18618,
+      "line": 277,
+      "parent_path": "article/section/section/dl/dt",
+      "source_raw": "There are three parameters that need to be in sync:",
+      "source_text": "There are three parameters that need to be in sync:"
+    },
+    {
+      "id": "04fb7d3dd2ff",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 18654,
+      "end": 18695,
+      "line": 278,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "The fps in Embergen is determined in the ",
+      "source_text": "The fps in Embergen is determined in the "
+    },
+    {
+      "id": "8fcc0a935997",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 18699,
+      "end": 18707,
+      "line": 278,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Timestep",
+      "source_text": "Timestep"
+    },
+    {
+      "id": "42dd16d925d1",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 18712,
+      "end": 18730,
+      "line": 278,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "34c6502b1ea4",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 18734,
+      "end": 18746,
+      "line": 278,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Time Control",
+      "source_text": "Time Control"
+    },
+    {
+      "id": "65942ac76ccd",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 18751,
+      "end": 18763,
+      "line": 278,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "9e4c5e728728",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 18767,
+      "end": 18777,
+      "line": 278,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Simulation",
+      "source_text": "Simulation"
+    },
+    {
+      "id": "6138c511b4aa",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 18940,
+      "end": 18967,
+      "line": 278,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " node. By default, this is ",
+      "source_text": " node. By default, this is "
+    },
+    {
+      "id": "036175900894",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 18971,
+      "end": 18975,
+      "line": 278,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "60hz",
+      "source_text": "60hz"
+    },
+    {
+      "id": "5ecdb5c641d7",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 18980,
+      "end": 18988,
+      "line": 278,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " or fps.",
+      "source_text": " or fps."
+    },
+    {
+      "id": "26f12cd684d0",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19005,
+      "end": 19083,
+      "line": 279,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "To get the same frame alignment you had in your 3d package you should set the ",
+      "source_text": "To get the same frame alignment you had in your 3d package you should set the "
+    },
+    {
+      "id": "cd997a2ad22c",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19087,
+      "end": 19090,
+      "line": 279,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "FPS",
+      "source_text": "FPS"
+    },
+    {
+      "id": "2b15877ec3a3",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19095,
+      "end": 19103,
+      "line": 279,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " in the ",
+      "source_text": " in the "
+    },
+    {
+      "id": "2845ba6ea93f",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19107,
+      "end": 19115,
+      "line": 279,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Playback",
+      "source_text": "Playback"
+    },
+    {
+      "id": "f7fc44279940",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19120,
+      "end": 19132,
+      "line": 279,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "2ecd9b850991",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19136,
+      "end": 19142,
+      "line": 279,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "378f6ff24b82",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19300,
+      "end": 19309,
+      "line": 279,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " node to ",
+      "source_text": " node to "
+    },
+    {
+      "id": "6af9bb974436",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19320,
+      "end": 19366,
+      "line": 279,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " as well. This can be done after checking the ",
+      "source_text": " as well. This can be done after checking the "
+    },
+    {
+      "id": "eae5d1e19a84",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19370,
+      "end": 19382,
+      "line": 279,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Override FPS",
+      "source_text": "Override FPS"
+    },
+    {
+      "id": "fa415da0f32e",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19387,
+      "end": 19403,
+      "line": 279,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " checkbox first.",
+      "source_text": " checkbox first."
+    },
+    {
+      "id": "d72bec849861",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19420,
+      "end": 19455,
+      "line": 280,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "To get your backplate to match set ",
+      "source_text": "To get your backplate to match set "
+    },
+    {
+      "id": "d3b01e054bf2",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19459,
+      "end": 19479,
+      "line": 280,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Backplate frame rate",
+      "source_text": "Backplate frame rate"
+    },
+    {
+      "id": "168bf971c4f1",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19484,
+      "end": 19492,
+      "line": 280,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " in the ",
+      "source_text": " in the "
+    },
+    {
+      "id": "542112c3dbf3",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19496,
+      "end": 19505,
+      "line": 280,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Backplate",
+      "source_text": "Backplate"
+    },
+    {
+      "id": "b848801a3947",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19510,
+      "end": 19522,
+      "line": 280,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " tab of the ",
+      "source_text": " tab of the "
+    },
+    {
+      "id": "955c77c099fd",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19526,
+      "end": 19532,
+      "line": 280,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "ff3f8406b1a7",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19683,
+      "end": 19692,
+      "line": 280,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " node to ",
+      "source_text": " node to "
+    },
+    {
+      "id": "1964c774e728",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19703,
+      "end": 19712,
+      "line": 280,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " as well.",
+      "source_text": " as well."
+    },
+    {
+      "id": "b5423be4085e",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19729,
+      "end": 19793,
+      "line": 281,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": "Note that when all these parameters are set to be the same, the ",
+      "source_text": "Note that when all these parameters are set to be the same, the "
+    },
+    {
+      "id": "473c6503abc3",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19797,
+      "end": 19809,
+      "line": 281,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Frame Stride",
+      "source_text": "Frame Stride"
+    },
+    {
+      "id": "7bd9c1a29dfa",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19814,
+      "end": 19832,
+      "line": 281,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " parameter in the ",
+      "source_text": " parameter in the "
+    },
+    {
+      "id": "87921c60325b",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 19836,
+      "end": 19849,
+      "line": 281,
+      "parent_path": "dd/ul/li/p/em",
+      "source_raw": "Export: Image",
+      "source_text": "Export: Image"
+    },
+    {
+      "id": "7ae7ef2af6f0",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 20000,
+      "end": 20027,
+      "line": 281,
+      "parent_path": "dl/dd/ul/li/p",
+      "source_raw": " node needs to be set to 1.",
+      "source_text": " node needs to be set to 1."
+    },
+    {
+      "id": "52c45e1367a4",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 20058,
+      "end": 20151,
+      "line": 285,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "For a reference on how to align the animation, backplate and JangaFX timeline check out this ",
+      "source_text": "For a reference on how to align the animation, backplate and JangaFX timeline check out this "
+    },
+    {
+      "id": "10997cc8e71d",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 20223,
+      "end": 20231,
+      "line": 285,
+      "parent_path": "article/section/section/p/a",
+      "source_raw": "tutorial",
+      "source_text": "tutorial"
+    },
+    {
+      "id": "708a19b8893c",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 20235,
+      "end": 20313,
+      "line": 285,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "! It also covers getting the correct movement speed for your exported element.",
+      "source_text": "! It also covers getting the correct movement speed for your exported element."
+    },
+    {
+      "id": "fa39bedc8f5b",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 20643,
+      "end": 20717,
+      "line": 293,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "99d05f902ade",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 21020,
+      "end": 21024,
+      "line": 308,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "d19ae1bd76db",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 21090,
+      "end": 21111,
+      "line": 310,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "13b924d70ba9",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 21513,
+      "end": 21521,
+      "line": 318,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "4fb407a3257d",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 21604,
+      "end": 21615,
+      "line": 321,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "afee949f0756",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 21801,
+      "end": 21861,
+      "line": 328,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "0f323b008ddf",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 21867,
+      "end": 21890,
+      "line": 330,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "c27ffb3ce229",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 21928,
+      "end": 21934,
+      "line": 331,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "75f985de764b",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 21938,
+      "end": 21943,
+      "line": 331,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "8903f9921154",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 21993,
+      "end": 22003,
+      "line": 331,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "fdb2cdc38248",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 22007,
+      "end": 22035,
+      "line": 331,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "4eee6ad0ddde",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 22079,
+      "end": 22083,
+      "line": 333,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "8bfa32f9adbc",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 22400,
+      "end": 22436,
+      "line": 348,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "5b6f3260b311",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 22593,
+      "end": 22596,
+      "line": 355,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "8a55fa361820",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 22690,
+      "end": 22733,
+      "line": 356,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How to export a flipbook or image sequence?",
+      "source_text": "How to export a flipbook or image sequence?"
+    },
+    {
+      "id": "e40c472308ce",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 22808,
+      "end": 22831,
+      "line": 357,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How do I add keyframes?",
+      "source_text": "How do I add keyframes?"
+    },
+    {
+      "id": "c6f60b18b99c",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 22913,
+      "end": 22943,
+      "line": 358,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How can I import my animation?",
+      "source_text": "How can I import my animation?"
+    },
+    {
+      "id": "1dfc8776a6c8",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 23021,
+      "end": 23047,
+      "line": 359,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How do I import my camera?",
+      "source_text": "How do I import my camera?"
+    },
+    {
+      "id": "d8f336aeb1dd",
+      "path": "liquigen/pages/FAQ.html",
+      "start": 23153,
+      "end": 23207,
+      "line": 360,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "The timeline of my imported animation doesn’t line up.",
+      "source_text": "The timeline of my imported animation doesn’t line up."
+    }
+  ]
+}

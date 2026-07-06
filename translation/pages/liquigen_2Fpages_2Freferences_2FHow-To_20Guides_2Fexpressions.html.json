@@ -1,0 +1,636 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/expressions.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "78325ca81202",
+      "source": "Expressions - JangaFX Documentation",
+      "target": "表达式 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "bd8420da9b4a",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "ad14746ffc20",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "39bf7a6135c1",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "9ac38c175974",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "4861dda40ae9",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "faaed76b9f85",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "69d00e8e6035",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "d9505e134a03",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "60500363808d",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "4293f498197b",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "d7015300937b",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "57700e0cf073",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "59a06e4df975",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "0b9855dd28aa",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "b34cc316b79f",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "d7350c2bf5bb",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "553086cdeb2a",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "1a98b6e1b1b6",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "d4389ea110b3",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "373781077851",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "aed2d2194ade",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "5977d7c29b65",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "f9299ccac042",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "a7600f6a4d06",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "6bc0cb82de81",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "c93a8392fa49",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "c7339b41693a",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "58a3cc71628a",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "164c6d1bd16d",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "787855c59a88",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "0dfc78dd8db8",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "7266f9f29780",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "e6397ffa2796",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "f5e9276f4326",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "cfe673ef0378",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "c2e8ab5fdc6b",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "1be7ebd8f50a",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "f95cad22c041",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "93868f692357",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "a60400aa08e8",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "1e7eda1136e2",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "9366f76b515c",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "9d4ca04af744",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "c22cbaaa17a4",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "f854b5520057",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "4c251cdd738b",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "9d8da41b25df",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "5a33cd8b1593",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "6c14491d8eab",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "20c6e377a666",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "a2c9dd440dc7",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "398623e3c393",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "7d189ad944d0",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "3a8988bcab54",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "62b14026c3a2",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "478718565fcd",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "b9d530fe6356",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "9a9487628875",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "f79604ed591f",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "4086c47f0217",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "d1ad9290c760",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "461772415ba3",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "339b89eaaf2d",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "d2ecde672097",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "84e0977a948f",
+      "source": "JangaFX software has the option to add expressions and use math in most places where you can type. For example, when you ",
+      "target": "JangaFX 软件支持在大多数可输入数值的位置添加表达式并使用数学运算。例如，当你 ",
+      "note": ""
+    },
+    {
+      "id": "ebfaa0b71744",
+      "source": " click on a parameter value.",
+      "target": " 单击参数值时。",
+      "note": ""
+    },
+    {
+      "id": "9571c44937f6",
+      "source": "This is especcially useful in the ",
+      "target": "这在 ",
+      "note": ""
+    },
+    {
+      "id": "1e5624d492e2",
+      "source": "curveExpressions",
+      "target": "curveExpressions",
+      "note": ""
+    },
+    {
+      "id": "6dd032aaf08e",
+      "source": " section.",
+      "target": " 部分尤其有用。",
+      "note": ""
+    },
+    {
+      "id": "209e147f8290",
+      "source": "The following is a comprehensive list on all available options.",
+      "target": "下面是所有可用选项的完整列表。",
+      "note": ""
+    },
+    {
+      "id": "21d643ef1b0b",
+      "source": "Operators",
+      "target": "运算符",
+      "note": ""
+    },
+    {
+      "id": "9741f05307b9",
+      "source": "Add: ",
+      "target": "Add：",
+      "note": ""
+    },
+    {
+      "id": "7320faa9e228",
+      "source": "Sub: ",
+      "target": "Sub：",
+      "note": ""
+    },
+    {
+      "id": "e416d24efef5",
+      "source": "Mul: ",
+      "target": "Mul：",
+      "note": ""
+    },
+    {
+      "id": "2fac61d3dc44",
+      "source": "Quo: ",
+      "target": "Quo：",
+      "note": ""
+    },
+    {
+      "id": "f4ddade73cb0",
+      "source": "Rem: ",
+      "target": "Rem：",
+      "note": ""
+    },
+    {
+      "id": "133bebfd8555",
+      "source": "Pow: ",
+      "target": "Pow：",
+      "note": ""
+    },
+    {
+      "id": "5c48751a503a",
+      "source": "Comma: ",
+      "target": "Comma：",
+      "note": ""
+    },
+    {
+      "id": "8d608254fb61",
+      "source": "Constants",
+      "target": "常量",
+      "note": ""
+    },
+    {
+      "id": "e5a8e7c9f9f1",
+      "source": "Functions",
+      "target": "函数",
+      "note": ""
+    },
+    {
+      "id": "e7ef9fd07ac2",
+      "source": "0 arguments",
+      "target": "0 个参数",
+      "note": ""
+    },
+    {
+      "id": "f40b38e2a84d",
+      "source": "1 argument",
+      "target": "1 个参数",
+      "note": ""
+    },
+    {
+      "id": "0681102f6335",
+      "source": "2 arguments",
+      "target": "2 个参数",
+      "note": ""
+    },
+    {
+      "id": "99092a780ac4",
+      "source": "3 arguments",
+      "target": "3 个参数",
+      "note": ""
+    },
+    {
+      "id": "e73289c00c22",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "07788b0a743b",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "fb04ec342705",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "fd1d1066bbc5",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "24bd0d93e4a4",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "728c227b2fd1",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "44dede424a47",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "5069d1c0501f",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "a90663e0e2ab",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "85604065b0e7",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "6d9db48e40b9",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "f146edc5f57f",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "a32438ff546a",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "0f8f5e457336",
+      "source": "Operators",
+      "target": "运算符",
+      "note": ""
+    },
+    {
+      "id": "c723722e9157",
+      "source": "Constants",
+      "target": "常量",
+      "note": ""
+    },
+    {
+      "id": "7b38d187704e",
+      "source": "Functions",
+      "target": "函数",
+      "note": ""
+    },
+    {
+      "id": "6d6385d14c36",
+      "source": "0 arguments",
+      "target": "0 个参数",
+      "note": ""
+    },
+    {
+      "id": "4f7512256f96",
+      "source": "1 argument",
+      "target": "1 个参数",
+      "note": ""
+    },
+    {
+      "id": "eccd5bc1873c",
+      "source": "2 arguments",
+      "target": "2 个参数",
+      "note": ""
+    },
+    {
+      "id": "c897c28fb8e7",
+      "source": "3 arguments",
+      "target": "3 个参数",
+      "note": ""
+    }
+  ]
+}

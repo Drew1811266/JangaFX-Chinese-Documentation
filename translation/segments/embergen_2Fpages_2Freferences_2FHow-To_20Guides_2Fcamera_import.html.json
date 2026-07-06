@@ -1,0 +1,986 @@
+{
+  "path": "embergen/pages/references/How-To Guides/camera_import.html",
+  "segment_count": 98,
+  "segments": [
+    {
+      "id": "c9d7f7fde537",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 705,
+      "end": 742,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Camera Import - JangaFX Documentation",
+      "source_text": "Camera Import - JangaFX Documentation"
+    },
+    {
+      "id": "bc1b2484e343",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 5332,
+      "end": 5355,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "48a38c85a236",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 5450,
+      "end": 5480,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "b21f4f82450f",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 5676,
+      "end": 5706,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "380604f3329a",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 5897,
+      "end": 5918,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "763bffebb76f",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 6111,
+      "end": 6149,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "136c42fde2f7",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 6539,
+      "end": 6571,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "022c58891d58",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 7615,
+      "end": 7637,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "0934a49cee38",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 7826,
+      "end": 7858,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "0f092b2a82cb",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 8046,
+      "end": 8061,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "79b78f0a91fc",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 8166,
+      "end": 8176,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "fc8cb9b3510b",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 8365,
+      "end": 8397,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "2e63548dc944",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 8579,
+      "end": 8593,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "1086bc83beaf",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 8680,
+      "end": 8688,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "aa2f13ec7fe1",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 8776,
+      "end": 8785,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "4e947bdc0a11",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 8887,
+      "end": 8900,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "fbacde533129",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 9089,
+      "end": 9121,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "299e175cfc2f",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 9313,
+      "end": 9326,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "8043eb90a136",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 9423,
+      "end": 9442,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "79b1f5592d18",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 9523,
+      "end": 9528,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "9ea4b99c2b58",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 9611,
+      "end": 9618,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "76095f7b4198",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 9698,
+      "end": 9702,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "5d8a92539aa5",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 9794,
+      "end": 9814,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "0f0e5baa0437",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 9899,
+      "end": 9908,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "e6e36fe00a27",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 9995,
+      "end": 10007,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "68588ed1072a",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 10092,
+      "end": 10110,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "1a5e43f150a5",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 10202,
+      "end": 10218,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "5e9f7453c36b",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 10315,
+      "end": 10336,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "989b68270a4b",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 10420,
+      "end": 10428,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "9f9436cec2c9",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 10513,
+      "end": 10523,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "52e02c7efc7f",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 10612,
+      "end": 10625,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "049e64933677",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 10734,
+      "end": 10737,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "283551c5c0cc",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 10864,
+      "end": 10886,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "53b391f479fa",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 11064,
+      "end": 11096,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "b23e5521714c",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 11289,
+      "end": 11304,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "895faa419150",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 11436,
+      "end": 11446,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "84fb0cdae58b",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 11624,
+      "end": 11656,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "fa09a600157f",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 11857,
+      "end": 11871,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "39ca2f4e1833",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 11993,
+      "end": 12001,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "2ee9c150e2d0",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 12124,
+      "end": 12133,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "f06565cd9918",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 12281,
+      "end": 12294,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "a050bb22b7cb",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 12472,
+      "end": 12504,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "b06116a3009d",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 12720,
+      "end": 12731,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "938110a81f1a",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 12882,
+      "end": 12901,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "94cce3575eec",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 13036,
+      "end": 13041,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "785e60160d44",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 13178,
+      "end": 13185,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "9d041a12390e",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 13319,
+      "end": 13323,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "c07bd14aacd5",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 13469,
+      "end": 13489,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "826d92a5a8d1",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 13632,
+      "end": 13645,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "9537bf6f3396",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 13786,
+      "end": 13798,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "89c4fe40e7b5",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 13937,
+      "end": 13955,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "c348ecf1fe7b",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 14101,
+      "end": 14117,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "b358db16f05e",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 14268,
+      "end": 14289,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "7262c38c0b5a",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 14427,
+      "end": 14435,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "d77bece59039",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 14578,
+      "end": 14591,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "eb375fe8b0a1",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 14732,
+      "end": 14743,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "7c704cc045a0",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 14873,
+      "end": 14876,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "756d583506ec",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 14989,
+      "end": 15010,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "b8398ae3949d",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 15110,
+      "end": 15130,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "a1c3ce5f5097",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 15233,
+      "end": 15255,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "e326383d393b",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 15668,
+      "end": 15679,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "4613d53d7a32",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 15899,
+      "end": 15937,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "cfbf3901e350",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 16356,
+      "end": 16388,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "d139537b99ee",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 16604,
+      "end": 16617,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "ff7dcd8d38fd",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 16709,
+      "end": 16781,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Cameras from external 3d packages can be imported using the import node.",
+      "source_text": "Cameras from external 3d packages can be imported using the import node."
+    },
+    {
+      "id": "89b2bd37105d",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 16789,
+      "end": 16891,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "We recommend using the FBX file format for importing cameras, but it can also be done using ABC files.",
+      "source_text": "We recommend using the FBX file format for importing cameras, but it can also be done using ABC files."
+    },
+    {
+      "id": "668347067fad",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 17232,
+      "end": 17306,
+      "line": 266,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "465572063cad",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 17357,
+      "end": 17412,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "Make sure you include cameras when exporting your file.",
+      "source_text": "Make sure you include cameras when exporting your file."
+    },
+    {
+      "id": "d70b761257aa",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 17429,
+      "end": 17468,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "In Embergen, import your FBX using the ",
+      "source_text": "In Embergen, import your FBX using the "
+    },
+    {
+      "id": "d0ff95f57c2f",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 17635,
+      "end": 17641,
+      "line": 272,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "549f217f470f",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 17646,
+      "end": 17725,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " node. If it contains any cameras they will be exposed as an output pin on the ",
+      "source_text": " node. If it contains any cameras they will be exposed as an output pin on the "
+    },
+    {
+      "id": "1fe74509937b",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 17729,
+      "end": 17735,
+      "line": 272,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "6df570cbb4d8",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 17740,
+      "end": 17746,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "28fd2926ead3",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 17763,
+      "end": 17808,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "Link the camera pin on the right side of the ",
+      "source_text": "Link the camera pin on the right side of the "
+    },
+    {
+      "id": "6585ac8d8408",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 17812,
+      "end": 17818,
+      "line": 273,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "7d9abfe03226",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 17823,
+      "end": 17836,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " node to the ",
+      "source_text": " node to the "
+    },
+    {
+      "id": "743bcb6d925b",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 17840,
+      "end": 17847,
+      "line": 273,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Control",
+      "source_text": "Control"
+    },
+    {
+      "id": "ce81c4fa649b",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 17852,
+      "end": 17862,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " pin of a ",
+      "source_text": " pin of a "
+    },
+    {
+      "id": "3e01aec9d7ee",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 18024,
+      "end": 18030,
+      "line": 273,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "a62caacf538d",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 18035,
+      "end": 18041,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "53950eb29559",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 18060,
+      "end": 18107,
+      "line": 275,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "This will add some parameters on the connected ",
+      "source_text": "This will add some parameters on the connected "
+    },
+    {
+      "id": "e348ea484104",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 18269,
+      "end": 18275,
+      "line": 275,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Camera",
+      "source_text": "Camera"
+    },
+    {
+      "id": "386f5f4d7837",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 18280,
+      "end": 18286,
+      "line": 275,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "47fb93368ece",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 18326,
+      "end": 18356,
+      "line": 277,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Yaw, Pitch, Roll offset angle:",
+      "source_text": "Yaw, Pitch, Roll offset angle:"
+    },
+    {
+      "id": "f19fdfe5e264",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 18365,
+      "end": 18614,
+      "line": 277,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " This will offset the orientation of the camera. This offset will be added to be orientation changes coming from the import node. This can be useful when the imported camera has the wrong orientation for some reason. (this can happen with abc files)",
+      "source_text": " This will offset the orientation of the camera. This offset will be added to be orientation changes coming from the import node. This can be useful when the imported camera has the wrong orientation for some reason. (this can happen with abc files)"
+    },
+    {
+      "id": "f23e95eb5ee1",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 18639,
+      "end": 18662,
+      "line": 278,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Custom clipping planes:",
+      "source_text": "Custom clipping planes:"
+    },
+    {
+      "id": "896f80c0f039",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 18671,
+      "end": 18964,
+      "line": 278,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " When checked on, the clipping planes are set by the parameters below. When checked off, the clipping planes are based on the imported file. The clipping planes dictate the range of distances from the camera to be rendered. If something is outside of the clipping planes, it won’t be rendered.",
+      "source_text": " When checked on, the clipping planes are set by the parameters below. When checked off, the clipping planes are based on the imported file. The clipping planes dictate the range of distances from the camera to be rendered. If something is outside of the clipping planes, it won’t be rendered."
+    },
+    {
+      "id": "149139dc46dc",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 19250,
+      "end": 19254,
+      "line": 290,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "1995a092755d",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 19320,
+      "end": 19339,
+      "line": 292,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "2972638462ce",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 19708,
+      "end": 19716,
+      "line": 300,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "4536b0ec436b",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 19799,
+      "end": 19812,
+      "line": 303,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "3e1fed9d0b2f",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 19998,
+      "end": 20058,
+      "line": 310,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "6b5fbb86ee5c",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 20064,
+      "end": 20087,
+      "line": 312,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "a13e11623fcb",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 20125,
+      "end": 20131,
+      "line": 313,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "ac93897b9716",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 20135,
+      "end": 20140,
+      "line": 313,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "6fb5a51941ad",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 20190,
+      "end": 20200,
+      "line": 313,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "b4cc6bc9db1e",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 20204,
+      "end": 20232,
+      "line": 313,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "dc8b0a32d9c0",
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "start": 20276,
+      "end": 20280,
+      "line": 315,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

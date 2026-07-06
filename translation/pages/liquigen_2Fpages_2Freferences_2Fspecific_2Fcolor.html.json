@@ -1,0 +1,1482 @@
+{
+  "path": "liquigen/pages/references/specific/color.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "dd8599273af7",
+      "source": "Color - JangaFX Documentation",
+      "target": "颜色 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "e2d3f6428e41",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "50593a09f11f",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "1dea43c22f28",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "69fc1688554f",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "4f17c2d477fc",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "3f0abdb034ff",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "890c9b3b82b0",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "c027c2d8d15d",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "593ea8f89006",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "e6720f3315c9",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "919715b61f21",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "3ea747452023",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "60842ae90cfb",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "a9cb964767d0",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "eaab01280d27",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "af713f857964",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "53a5480d6681",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "4b7e3afca02c",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "d13e654349fb",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "78d6ae298748",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "f7cf5c8256af",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "2e18e2b6f207",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "efa6a0e35dd9",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "d378bb6c7c6c",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "19e4c92a4176",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "9b810642892e",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "107eca9160e1",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "af69d159180a",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "2ec9fc2faaef",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "b26798fa87a9",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "3a2fff1cb9d5",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "6dc5d6714688",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "7b22c52b3226",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "eaede8ca9df7",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "2b8aaed31c90",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "a6fbc4710e92",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "48fd6f23d96e",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "086f8e6632fd",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "0974ca5b3393",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "7ee83786b43f",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "bdb9ef117ec8",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "8f681803ada5",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "c4cc3c7291d3",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "bae28a40688c",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "79d7031143cb",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "2f21a1eda3df",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "18b89d486d02",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "e697df16e048",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "ccd2dd7c64f0",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "6bd3ea913ac6",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "13d9d6f3fc58",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "376742378811",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "dd806648ed4f",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "e6dca86b31f9",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "9e200f695d15",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "b9561dbf4efe",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "c5589bf1e11d",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "059b25cf861d",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "ab78b9583e73",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "d7fbb5c0f704",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "fde902d0fe16",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "52bbbf3fe41a",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "6941a21f1074",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "8371dc41d8d3",
+      "source": "Color is a category of nodes outputting color values.",
+      "target": "Color 是一类输出颜色值的节点。",
+      "note": ""
+    },
+    {
+      "id": "b652cd1e7d41",
+      "source": " Color Nodes",
+      "target": " Color Nodes（颜色节点）",
+      "note": ""
+    },
+    {
+      "id": "4350aaf62cdf",
+      "source": " Color: Constant",
+      "target": " Color: Constant（常量颜色）",
+      "note": ""
+    },
+    {
+      "id": "3099144217bc",
+      "source": "Outputs a single color value.",
+      "target": "输出单个颜色值。",
+      "note": ""
+    },
+    {
+      "id": "65f8db40bdfc",
+      "source": "You can ",
+      "target": "你可以 ",
+      "note": ""
+    },
+    {
+      "id": "06ca48e3f825",
+      "source": " click on the colored square to open the Color Picker.",
+      "target": " 单击彩色方块以打开 Color Picker。",
+      "note": ""
+    },
+    {
+      "id": "9c1e21a651c1",
+      "source": "Color Picker",
+      "target": "Color Picker（颜色选择器）",
+      "note": ""
+    },
+    {
+      "id": "91591b0a0510",
+      "source": " Color picker. Hold ",
+      "target": " Color picker（取色器）。按住 ",
+      "note": ""
+    },
+    {
+      "id": "b369bd0b619a",
+      "source": " and drag to select a color anywhere on the screen. This will select colors even from outside the application!",
+      "target": " 并拖动，可从屏幕任意位置选择颜色。这样甚至可以选择应用程序外部的颜色。",
+      "note": ""
+    },
+    {
+      "id": "eeb6ea15c2d5",
+      "source": " Resets the color to the default for that parameter.",
+      "target": " 将颜色重置为该参数的默认值。",
+      "note": ""
+    },
+    {
+      "id": "c3bc4e6d6c38",
+      "source": " Closes the color picker. The color will remain at whatever is selected in the color picker. You can also click outside of the color picker to close it.",
+      "target": " 关闭颜色选择器。颜色会保持为颜色选择器中当前选中的颜色。你也可以点击颜色选择器外部来关闭它。",
+      "note": ""
+    },
+    {
+      "id": "d452df0f8fc8",
+      "source": "Hue ring. Visualizes all the hues. The selected hue is indicated with a circle ",
+      "target": "Hue ring（色相环）。显示所有色相。选中的色相会用圆圈 ",
+      "note": ""
+    },
+    {
+      "id": "d2e57c452041",
+      "source": " You can ",
+      "target": " 你可以 ",
+      "note": ""
+    },
+    {
+      "id": "7debf107a965",
+      "source": " click or click and drag anywhere on the circle to select a hue.",
+      "target": " 在圆环上的任意位置单击或点击拖动以选择色相。",
+      "note": ""
+    },
+    {
+      "id": "6f396191061d",
+      "source": "Brightness and saturation triangle. The three corners represent white, black, and a fully saturated color. The selected value is indicated with a circle ",
+      "target": "Brightness and saturation triangle（亮度与饱和度三角）。三个角分别表示白色、黑色和完全饱和的颜色。选中的值会用圆圈 ",
+      "note": ""
+    },
+    {
+      "id": "ca836524e047",
+      "source": " You can ",
+      "target": " 你可以 ",
+      "note": ""
+    },
+    {
+      "id": "dc4015c9d177",
+      "source": " click or click and drag anywhere on the triangle to select a color.",
+      "target": " 在三角形上的任意位置单击或点击拖动以选择颜色。",
+      "note": ""
+    },
+    {
+      "id": "13bef6ba7faa",
+      "source": "Current Color",
+      "target": "Current Color（当前颜色）",
+      "note": ""
+    },
+    {
+      "id": "e17002adc98a",
+      "source": "HEX code. Here, you can type in a hexadecimal code to get a specific color by ",
+      "target": "HEX code（HEX 代码）。你可以在这里输入十六进制代码来获得指定颜色，方法是 ",
+      "note": ""
+    },
+    {
+      "id": "bf5fc37154fd",
+      "source": " clicking in the text field.",
+      "target": " 点击文本字段。",
+      "note": ""
+    },
+    {
+      "id": "0967d7ed7470",
+      "source": "RGB Mode. This will set the sliders to represent the color in Red, Green, and Blue values. All mapped from 0 to 255.",
+      "target": "RGB Mode（RGB 模式）。这会让滑块以 Red（红）、Green（绿）、Blue（蓝）数值表示颜色，全部映射到 0 到 255。",
+      "note": ""
+    },
+    {
+      "id": "119845891c02",
+      "source": "HSV Mode. This will set the sliders to represent the color in Hue, Saturation, and Value. ",
+      "target": "HSV Mode（HSV 模式）。这会让滑块以 Hue（色相）、Saturation（饱和度）、Value（明度）表示颜色。",
+      "note": ""
+    },
+    {
+      "id": "307d2e245079",
+      "source": "Hue",
+      "target": "Hue",
+      "note": ""
+    },
+    {
+      "id": "ae779ba6616e",
+      "source": " is mapped circular from 0 to 360 degrees starting and ending with red, using this slider you can see the circle in the Hue ring turning. Saturation and Value are mapped from 0% to 100% ,saturation from grayscale to fully saturated and value from black to whatever is the brightest color based on the hue and saturation.",
+      "target": " 会从 0 到 360 度以环形方式映射，起点和终点都是红色；使用这个滑块时，可以看到色相环中的圆圈在转动。Saturation（饱和度）和 Value（明度）映射为 0% 到 100%；Saturation 从灰度映射到完全饱和，Value 从黑色映射到基于当前色相和饱和度的最亮颜色。",
+      "note": ""
+    },
+    {
+      "id": "39d54b83d5a7",
+      "source": "Channel Values. These represent the numerical value of the slider next to it. ",
+      "target": "Channel Values（通道值）。这些值表示旁边滑块的数值。",
+      "note": ""
+    },
+    {
+      "id": "18d3e9193e72",
+      "source": " click within the text box to type in a value manually.",
+      "target": " 在文本框内单击即可手动输入数值。",
+      "note": ""
+    },
+    {
+      "id": "61b3cad46c61",
+      "source": "Channel Sliders. These sliders can be used to change the color. The gradients on the sliders represent what the selected color would be if the indicator ",
+      "target": "Channel Sliders（通道滑块）。这些滑块可用于修改颜色。滑块上的渐变表示如果指示器 ",
+      "note": ""
+    },
+    {
+      "id": "8bb8691c6196",
+      "source": " was placed on that position. You can ",
+      "target": " 位于该位置时选中颜色会是什么样。你可以 ",
+      "note": ""
+    },
+    {
+      "id": "83ea22f5b633",
+      "source": " click or click and drag anywhere on the slider to select a color.",
+      "target": " 在滑块上的任意位置单击或点击拖动以选择颜色。",
+      "note": ""
+    },
+    {
+      "id": "2c1915a5c1b2",
+      "source": "Swatch Dropdown.",
+      "target": "Swatch Dropdown（色板下拉菜单）。",
+      "note": ""
+    },
+    {
+      "id": "69a736433289",
+      "source": "Saved Colors",
+      "target": "Saved Colors（已保存颜色）",
+      "note": ""
+    },
+    {
+      "id": "3ff3e3a6f343",
+      "source": " Holds a palette of saved colors ",
+      "target": " 包含已保存颜色的色板 ",
+      "note": ""
+    },
+    {
+      "id": "d19cd9c19509",
+      "source": " You can save the selected color using the ",
+      "target": " 可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "2aa541adab6f",
+      "source": " icon ",
+      "target": " 图标 ",
+      "note": ""
+    },
+    {
+      "id": "f6370ecc98da",
+      "source": ". You can remove a saved color by ",
+      "target": "，用于保存所选颜色。也可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "cfeabffe5b8f",
+      "source": " clicking on one and selecting ",
+      "target": " 右键单击其中一个并选择 ",
+      "note": ""
+    },
+    {
+      "id": "9b54fe6bbea2",
+      "source": "Remove",
+      "target": "Remove",
+      "note": ""
+    },
+    {
+      "id": "5034c073acfe",
+      "source": "Recent Colors",
+      "target": "Recent Colors（最近颜色）",
+      "note": ""
+    },
+    {
+      "id": "b9dfaf387c90",
+      "source": " Holds a palette of the last 9 colors used. When the color picker is closed, the selected color will be stored as the most recent color all the way to the right in the Recent Colors palette moving all the other colors one spot to the left and discarting the first one on the left.",
+      "target": " 包含最近使用的 9 种颜色。关闭颜色选择器时，所选颜色会存为 Recent Colors 色板最右侧的最新颜色，其他颜色会依次向左移动一位，最左侧的颜色会被丢弃。",
+      "note": ""
+    },
+    {
+      "id": "601cce50401f",
+      "source": " Color: Gradient",
+      "target": " Color: Gradient（颜色渐变）",
+      "note": ""
+    },
+    {
+      "id": "5df582f6bcb0",
+      "source": "Interpolation Color Space:",
+      "target": "Interpolation Color Space（插值颜色空间）：",
+      "note": ""
+    },
+    {
+      "id": "58fb80985d8c",
+      "source": " A dropdown menu with different methods of interpolating color from one point in the color gradient to another.",
+      "target": " 一个下拉菜单，包含在颜色渐变中从一个点到另一个点插值颜色的不同方法。",
+      "note": ""
+    },
+    {
+      "id": "0a1028ba9dff",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "16e45c71952e",
+      "source": "Color Gradient:",
+      "target": "Color Gradient:",
+      "note": ""
+    },
+    {
+      "id": "e2aeb1f5c313",
+      "source": " Creates a range of colors.",
+      "target": " 创建一段颜色范围。",
+      "note": ""
+    },
+    {
+      "id": "e5b9b8f05950",
+      "source": "Add a point by ",
+      "target": "通过 ",
+      "note": ""
+    },
+    {
+      "id": "fef220b65eeb",
+      "source": " clicking on the gradient.",
+      "target": " 点击渐变来添加点。",
+      "note": ""
+    },
+    {
+      "id": "986ce420c121",
+      "source": "Move a point holding ",
+      "target": "按住 ",
+      "note": ""
+    },
+    {
+      "id": "9132a797f515",
+      "source": " and dragging.",
+      "target": " 并拖动可移动点。",
+      "note": ""
+    },
+    {
+      "id": "5bace0445ea6",
+      "source": "Remove a point by selecting it with ",
+      "target": "若要移除点，请使用 ",
+      "note": ""
+    },
+    {
+      "id": "ef46600cc455",
+      "source": " and pressing ",
+      "target": " 选中该点并按 ",
+      "note": ""
+    },
+    {
+      "id": "b6d91185f50a",
+      "source": "Delete",
+      "target": "Delete",
+      "note": ""
+    },
+    {
+      "id": "ee3198fe0aec",
+      "source": " or by ",
+      "target": "，或通过 ",
+      "note": ""
+    },
+    {
+      "id": "afea96434e47",
+      "source": " clicking on it and selecting ",
+      "target": " 右键单击它并选择 ",
+      "note": ""
+    },
+    {
+      "id": "f53445a6fca6",
+      "source": "Delete",
+      "target": "Delete",
+      "note": ""
+    },
+    {
+      "id": "1e8862ca1a11",
+      "source": "Edit the color of a point by double-clicking ",
+      "target": "若要编辑点的颜色，可以用 ",
+      "note": ""
+    },
+    {
+      "id": "e94a29976f7a",
+      "source": " on it or by ",
+      "target": " 双击该点，或通过 ",
+      "note": ""
+    },
+    {
+      "id": "e721826c3458",
+      "source": " clicking on it and selecting ",
+      "target": " 右键单击它并选择 ",
+      "note": ""
+    },
+    {
+      "id": "29a03b6a67d7",
+      "source": "Change Color",
+      "target": "Change Color",
+      "note": ""
+    },
+    {
+      "id": "17020da4fd70",
+      "source": "Use the ",
+      "target": "可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "f66bd188ed4d",
+      "source": " color picker to ",
+      "target": " Color Picker，并用 ",
+      "note": ""
+    },
+    {
+      "id": "0a8ee7541d77",
+      "source": " click and drag over any application to source its colors for creating a gradient.",
+      "target": " 在任意应用程序上点击并拖动，以从中取色来创建渐变。",
+      "note": ""
+    },
+    {
+      "id": "fbe12b47d7bc",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4b0875e1016f",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "e2ab448182fa",
+      "source": "The color gradient context menu can be accessed by ",
+      "target": "可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "f3eba57f616c",
+      "source": " clicking anywhere on the color gradient and has the following options:",
+      "target": " 在颜色渐变上的任意位置右键单击来打开颜色渐变上下文菜单，其中包含以下选项：",
+      "note": ""
+    },
+    {
+      "id": "f23b0ba18b96",
+      "source": "Copy:",
+      "target": "Copy:",
+      "note": ""
+    },
+    {
+      "id": "c9075922f607",
+      "source": " Copy the color gradient (all points and interpolation color space).",
+      "target": " 复制颜色渐变（所有点以及插值颜色空间）。",
+      "note": ""
+    },
+    {
+      "id": "80d7fde5f4e0",
+      "source": "Paste:",
+      "target": "Paste:",
+      "note": ""
+    },
+    {
+      "id": "fcfe29cf6966",
+      "source": " Paste the color gradient. This will overwrite everything and replace it with the copied color gradient.",
+      "target": " 粘贴颜色渐变。这会覆盖所有内容，并用复制的颜色渐变替换。",
+      "note": ""
+    },
+    {
+      "id": "ba12add8b956",
+      "source": "Reset:",
+      "target": "Reset:",
+      "note": ""
+    },
+    {
+      "id": "6a5506f8154d",
+      "source": " Resets the color gradient back to a two-point black to white color gradient.",
+      "target": " 将颜色渐变重置为由黑到白的两点颜色渐变。",
+      "note": ""
+    },
+    {
+      "id": "56ce9613c74b",
+      "source": "Sort By Luminance:",
+      "target": "Sort By Luminance:",
+      "note": ""
+    },
+    {
+      "id": "e772a969ca10",
+      "source": " Rearranges all points based on luminance from dark to light.",
+      "target": " 根据亮度从暗到亮重新排列所有点。",
+      "note": ""
+    },
+    {
+      "id": "2f431757bd99",
+      "source": "Sort By Hue:",
+      "target": "Sort By Hue:",
+      "note": ""
+    },
+    {
+      "id": "8cad98b91e43",
+      "source": " Rearranges all points based on hue from 0 to 360 degrees.",
+      "target": " 根据 0 到 360 度的色相重新排列所有点。",
+      "note": ""
+    },
+    {
+      "id": "5ad05b10c209",
+      "source": "Sort by Saturation:",
+      "target": "Sort by Saturation:",
+      "note": ""
+    },
+    {
+      "id": "826675addf70",
+      "source": " Rearranges all points based on saturation from low saturation to high saturation.",
+      "target": " 根据饱和度从低到高重新排列所有点。",
+      "note": ""
+    },
+    {
+      "id": "3d8f5a4fc7ae",
+      "source": "Equally Distribute:",
+      "target": "Equally Distribute:",
+      "note": ""
+    },
+    {
+      "id": "1900ebbe8b85",
+      "source": " Rearranges all points to be evenly spaced over the color gradient.",
+      "target": " 重新排列所有点，使它们在颜色渐变上均匀分布。",
+      "note": ""
+    },
+    {
+      "id": "8c03aae75165",
+      "source": "Shuffle:",
+      "target": "Shuffle:",
+      "note": ""
+    },
+    {
+      "id": "d45ecf91326d",
+      "source": " Randomly rearranges all points. This option gives a random result every time it’s used.",
+      "target": " 随机重新排列所有点。每次使用该选项都会得到随机结果。",
+      "note": ""
+    },
+    {
+      "id": "fc21fc557719",
+      "source": "Reverse:",
+      "target": "Reverse:",
+      "note": ""
+    },
+    {
+      "id": "5c64a624af68",
+      "source": " Rearranges all points backwards putting the last point first and vice versa.",
+      "target": " 反向重新排列所有点，让最后一个点变为第一个，反之亦然。",
+      "note": ""
+    },
+    {
+      "id": "9d9e185d23a2",
+      "source": "Color Gradient Presets",
+      "target": "Color Gradient Presets（颜色渐变预设）",
+      "note": ""
+    },
+    {
+      "id": "79b7a8a16390",
+      "source": "Clicking the button with the ",
+      "target": "点击带有 ",
+      "note": ""
+    },
+    {
+      "id": "0baa18c5497e",
+      "source": " icon will open the gradient presets window.\nHere, you can organize, update, import, and export all your color gradients!",
+      "target": " 图标的按钮会打开渐变预设窗口。\n在这里，你可以组织、更新、导入和导出所有颜色渐变！",
+      "note": ""
+    },
+    {
+      "id": "238bcf63a0c8",
+      "source": "The section on the left is a list of categories or folders that can contain gradient presets:",
+      "target": "左侧区域是可包含渐变预设的类别或文件夹列表：",
+      "note": ""
+    },
+    {
+      "id": "028657454537",
+      "source": "All",
+      "target": "All",
+      "note": ""
+    },
+    {
+      "id": "cf506498e72c",
+      "source": " contains all saved gradient presets.",
+      "target": " 包含所有已保存的渐变预设。",
+      "note": ""
+    },
+    {
+      "id": "7e545f7c00cf",
+      "source": "Favorites",
+      "target": "Favorites",
+      "note": ""
+    },
+    {
+      "id": "7731067e3bfa",
+      "source": " contains all presets marked as favorite by toggling the star icon on it.",
+      "target": " 包含所有通过星标图标标记为收藏的预设。",
+      "note": ""
+    },
+    {
+      "id": "9705284d3e1d",
+      "source": "Ungrouped",
+      "target": "Ungrouped",
+      "note": ""
+    },
+    {
+      "id": "acc0d7590d7b",
+      "source": " contains all presets that are not within a folder. A preset will end up in ungrouped if it’s either moved there or added when the ",
+      "target": " 包含所有不在文件夹中的预设。如果预设被移动到此处，或在选择 ",
+      "note": ""
+    },
+    {
+      "id": "ed79f333dd69",
+      "source": "All",
+      "target": "All",
+      "note": ""
+    },
+    {
+      "id": "148d677e5bed",
+      "source": "Favorites",
+      "target": "Favorites",
+      "note": ""
+    },
+    {
+      "id": "6c8ec042c2e2",
+      "source": ", or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "6367b4103cb1",
+      "source": "Ungrouped",
+      "target": "Ungrouped",
+      "note": ""
+    },
+    {
+      "id": "f2a08bf7d11a",
+      "source": " category is selected.",
+      "target": " 类别时添加，就会归入 Ungrouped。",
+      "note": ""
+    },
+    {
+      "id": "cc3dbf434fd3",
+      "source": "Folders",
+      "target": "Folders",
+      "note": ""
+    },
+    {
+      "id": "8c54c42b5cb4",
+      "source": " can be created by the user to organise gradient presets. This is done using the ",
+      "target": " 可由用户创建，用于组织渐变预设。可使用 ",
+      "note": ""
+    },
+    {
+      "id": "69510c86993e",
+      "source": " button in the bottom right corner. If a folder is selected, newly added presets will be put in that folder. You can rename or delete a folder by ",
+      "target": " 按钮（位于右下角）创建。如果选中了某个文件夹，新添加的预设会放入该文件夹。若要重命名或删除文件夹，可以 ",
+      "note": ""
+    },
+    {
+      "id": "4ca2e3d054b3",
+      "source": " clicking on it and selecting ",
+      "target": " 右键单击它并选择 ",
+      "note": ""
+    },
+    {
+      "id": "94ecabcc2837",
+      "source": "Rename",
+      "target": "Rename",
+      "note": ""
+    },
+    {
+      "id": "5f1388fc180b",
+      "source": " or ",
+      "target": " 或 ",
+      "note": ""
+    },
+    {
+      "id": "d284303845c3",
+      "source": "Delete",
+      "target": "Delete",
+      "note": ""
+    },
+    {
+      "id": "75f30138524f",
+      "source": ". You can also move the folder position by ",
+      "target": "。也可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "a0363831c8b7",
+      "source": " clicking and dragging it.",
+      "target": " 点击并拖动它来移动文件夹位置。",
+      "note": ""
+    },
+    {
+      "id": "5b9ee2a30605",
+      "source": "The section on the right is a list of color gradient presets:",
+      "target": "右侧区域是颜色渐变预设列表：",
+      "note": ""
+    },
+    {
+      "id": "943df49333a2",
+      "source": "The active preset is marked with a ",
+      "target": "当前活动的预设会用 ",
+      "note": ""
+    },
+    {
+      "id": "f99a004d3105",
+      "source": " grey dot next to the ",
+      "target": " 灰色圆点标记，位置在 ",
+      "note": ""
+    },
+    {
+      "id": "1ccefa6f5d8c",
+      "source": " icon.",
+      "target": " 图标旁边。",
+      "note": ""
+    },
+    {
+      "id": "1725a04aa87f",
+      "source": "The ",
+      "target": "该 ",
+      "note": ""
+    },
+    {
+      "id": "d4272ee551ad",
+      "source": " icon can be toggled to favorite or unfavorite a gradient preset.",
+      "target": " 图标可用于将渐变预设设为收藏或取消收藏。",
+      "note": ""
+    },
+    {
+      "id": "3a0b3f8ed23e",
+      "source": " Clicking on a gradient preset will apply it to the color gradient parameter.",
+      "target": " 单击渐变预设会将它应用到颜色渐变参数。",
+      "note": ""
+    },
+    {
+      "id": "429a9f9b456d",
+      "source": "Shift",
+      "target": "Shift",
+      "note": ""
+    },
+    {
+      "id": "ec193c2666cf",
+      "source": " clicking on a gradient preset will apply it to the color gradient parameter without closing the gradient presets window.",
+      "target": " 单击渐变预设会将它应用到颜色渐变参数，且不会关闭渐变预设窗口。",
+      "note": ""
+    },
+    {
+      "id": "3f0e525767f0",
+      "source": "You can ",
+      "target": "你可以 ",
+      "note": ""
+    },
+    {
+      "id": "12ea157c346c",
+      "source": " click and drag a gradient preset to move it to a different position in the list.",
+      "target": " 点击并拖动渐变预设，将它移动到列表中的其他位置。",
+      "note": ""
+    },
+    {
+      "id": "cfed86e3742b",
+      "source": "The context menu which appears when clicking on a gradient preset has the following options:",
+      "target": "单击渐变预设时出现的上下文菜单包含以下选项：",
+      "note": ""
+    },
+    {
+      "id": "51cbee982306",
+      "source": "Rename:",
+      "target": "Rename:",
+      "note": ""
+    },
+    {
+      "id": "2883e2d7a86d",
+      "source": " Allows you to type in a new name for the gradient preset.",
+      "target": " 可为渐变预设输入新名称。",
+      "note": ""
+    },
+    {
+      "id": "ff2da1a38367",
+      "source": "Unfavorite:",
+      "target": "Unfavorite:",
+      "note": ""
+    },
+    {
+      "id": "c857b4d3fff0",
+      "source": " Toggles if the gradient preset is favorite or not. Using the ",
+      "target": " 用于切换渐变预设是否为收藏。使用 ",
+      "note": ""
+    },
+    {
+      "id": "1f348b189db9",
+      "source": " icon on the gradient preset does the same thing.",
+      "target": " 图标也能完成同样操作。",
+      "note": ""
+    },
+    {
+      "id": "3d4e7cc796df",
+      "source": "Update:",
+      "target": "Update:",
+      "note": ""
+    },
+    {
+      "id": "fcf659bc0625",
+      "source": " Overwrites the gradient preset with the current color gradient parameter.",
+      "target": " 用当前颜色渐变参数覆盖该渐变预设。",
+      "note": ""
+    },
+    {
+      "id": "44716291082e",
+      "source": "Move To…:",
+      "target": "Move To…:",
+      "note": ""
+    },
+    {
+      "id": "d8b7b4e5743c",
+      "source": " Let’s you put a gradient preset into a specific folder.",
+      "target": " 可将渐变预设放入指定文件夹。",
+      "note": ""
+    },
+    {
+      "id": "03104e81f2a3",
+      "source": "Export…:",
+      "target": "Export…:",
+      "note": ""
+    },
+    {
+      "id": "003eae50bf37",
+      "source": " Opens a file browser to store the gradient as a ",
+      "target": " 打开文件浏览器，将渐变保存为 ",
+      "note": ""
+    },
+    {
+      "id": "33262e5a4c43",
+      "source": "JangaFX Color Gradient",
+      "target": "JangaFX Color Gradient",
+      "note": ""
+    },
+    {
+      "id": "6e7ec201fab1",
+      "source": "(.jfxcg)",
+      "target": "(.jfxcg)",
+      "note": ""
+    },
+    {
+      "id": "075ed7714498",
+      "source": " file in a desired location ",
+      "target": " 文件到指定位置",
+      "note": ""
+    },
+    {
+      "id": "4ec52d8dde02",
+      "source": "(Note that the Interpolation Color Space is also saved in the preset)",
+      "target": "（请注意，Interpolation Color Space（插值颜色空间）也会保存在预设中）",
+      "note": ""
+    },
+    {
+      "id": "78a7066dfe69",
+      "source": " or as a ",
+      "target": "，或保存为 ",
+      "note": ""
+    },
+    {
+      "id": "0a4435a94628",
+      "source": ".png",
+      "target": ".png",
+      "note": ""
+    },
+    {
+      "id": "2ea7f1658154",
+      "source": " file that can be loaded into most software and used as, for example, a color input for another shader. The image resolution is 512 by 12 pixels meaning 512 different colors could be stored.",
+      "target": " 文件。该文件可加载到大多数软件中，例如作为另一个着色器的颜色输入。图像分辨率为 512 x 12 像素，意味着可以存储 512 种不同颜色。",
+      "note": ""
+    },
+    {
+      "id": "9395640fff3d",
+      "source": "Delete:",
+      "target": "Delete:",
+      "note": ""
+    },
+    {
+      "id": "7c7881b6e60e",
+      "source": " Removes the gradient preset completely. This can’t be undone!",
+      "target": " 完全移除渐变预设。此操作无法撤销！",
+      "note": ""
+    },
+    {
+      "id": "ed2562be3458",
+      "source": "The ",
+      "target": "顶部的 ",
+      "note": ""
+    },
+    {
+      "id": "ea75faf753ae",
+      "source": " search function on the top lets you search for gradient presets based on their names. It always searches through all the presets regardless of which folder they belong to.",
+      "target": " 搜索功能可根据名称搜索渐变预设。它始终会搜索所有预设，无论它们属于哪个文件夹。",
+      "note": ""
+    },
+    {
+      "id": "3cd40033aa1c",
+      "source": "The bottom of the window also has a couple of options:",
+      "target": "窗口底部还有几个选项：",
+      "note": ""
+    },
+    {
+      "id": "9af27e136c11",
+      "source": " Adds the current color gradient parameter as a gradient preset and puts you into rename mode immediately to give your new gradient preset a name.",
+      "target": " 将当前颜色渐变参数添加为渐变预设，并立即进入重命名模式，以便为新渐变预设命名。",
+      "note": ""
+    },
+    {
+      "id": "5408ca6e731b",
+      "source": " Adds a new folder to the gradient presets window and puts you into rename mode immediately to give your new folder a name.",
+      "target": " 向渐变预设窗口添加新文件夹，并立即进入重命名模式，以便为新文件夹命名。",
+      "note": ""
+    },
+    {
+      "id": "1a79705701af",
+      "source": " Opens the file browser where you can select a ",
+      "target": " 打开文件浏览器，你可以选择 ",
+      "note": ""
+    },
+    {
+      "id": "b067c3c4be18",
+      "source": "JangaFX Color Gradient (.jfxcg)",
+      "target": "JangaFX Color Gradient (.jfxcg)",
+      "note": ""
+    },
+    {
+      "id": "aa39aa47f16c",
+      "source": " file to be added as a gradient preset into the gradient presets window. ",
+      "target": " 文件，将其作为渐变预设添加到渐变预设窗口。",
+      "note": ""
+    },
+    {
+      "id": "435bb16fc863",
+      "source": "Embergen Color Gradient (.embercg)",
+      "target": "EmberGen Color Gradient (.embercg)",
+      "note": ""
+    },
+    {
+      "id": "69157f810939",
+      "source": " files are the old format but can also be imported for backwards compatibility.",
+      "target": " 文件是旧格式，但也可以为了向后兼容而导入。",
+      "note": ""
+    },
+    {
+      "id": "bc1b5cbbaa80",
+      "source": " Color Selector",
+      "target": " Color Selector（颜色选择器节点）",
+      "note": ""
+    },
+    {
+      "id": "2cd2b0906adc",
+      "source": "Outputs a single color from a ",
+      "target": "基于渐变上的指定位置，从 ",
+      "note": ""
+    },
+    {
+      "id": "5ed774d767ef",
+      "source": "Color Gradient",
+      "target": "Color Gradient",
+      "note": ""
+    },
+    {
+      "id": "0d53d6084029",
+      "source": " node based on a specified position on the gradient.",
+      "target": " 节点输出单个颜色。",
+      "note": ""
+    },
+    {
+      "id": "bb28bcbd00f0",
+      "source": "Connecting Color Nodes",
+      "target": "连接颜色节点",
+      "note": ""
+    },
+    {
+      "id": "00de3c8ede58",
+      "source": "Color nodes can be connected to color parameters.",
+      "target": "颜色节点可以连接到颜色参数。",
+      "note": ""
+    },
+    {
+      "id": "618cecf89f41",
+      "source": "The color of this parameter will then be controlled in the color node.",
+      "target": "该参数的颜色随后会由颜色节点控制。",
+      "note": ""
+    },
+    {
+      "id": "47ac93f1246a",
+      "source": "A color parameter is recognized by the colored square next to it.",
+      "target": "颜色参数可以通过其旁边的彩色方块来识别。",
+      "note": ""
+    },
+    {
+      "id": "ed774eb3313e",
+      "source": "The following are some examples of parameters that can be controlled by color nodes:",
+      "target": "以下是一些可由颜色节点控制的参数示例：",
+      "note": ""
+    },
+    {
+      "id": "48a19ae953a5",
+      "source": "To expose a color parameter pin for connecting a color node",
+      "target": "若要公开用于连接颜色节点的颜色参数引脚，",
+      "note": ""
+    },
+    {
+      "id": "d6cbdefc0bed",
+      "source": "you have to set the override state to ",
+      "target": "需要将覆盖状态设置为 ",
+      "note": ""
+    },
+    {
+      "id": "0b9b38ee872b",
+      "source": "Pin Override",
+      "target": "Pin Override",
+      "note": ""
+    },
+    {
+      "id": "cfdff16b4830",
+      "source": " by ",
+      "target": "，通过 ",
+      "note": ""
+    },
+    {
+      "id": "99bc986e5340",
+      "source": " clicking the icon next to the parameter.",
+      "target": " 点击参数旁边的图标。",
+      "note": ""
+    },
+    {
+      "id": "cc5f5992f83b",
+      "source": "A color parameter can also have two squares next to it as with the ",
+      "target": "颜色参数旁边也可能有两个方块，例如 ",
+      "note": ""
+    },
+    {
+      "id": "cd617578a067",
+      "source": "Color: Constant",
+      "target": "Color: Constant",
+      "note": ""
+    },
+    {
+      "id": "d7c169d3692d",
+      "source": " node. This means that the parameter also supports an alpha channel.",
+      "target": " 节点就是如此。这表示该参数也支持 Alpha 通道。",
+      "note": ""
+    },
+    {
+      "id": "0593ebf7bc9b",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "7ca4790c07f0",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4fcf8ca927b2",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "a25613ca1204",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "62f13a59ce4c",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "2a97f3c03967",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "f6fcee06f425",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "dabd0d04dac3",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "797fb6d9e8c6",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "c51ccb434942",
+      "source": " Color Nodes",
+      "target": " Color Nodes（颜色节点）",
+      "note": ""
+    },
+    {
+      "id": "02886c368d43",
+      "source": " Color: Constant",
+      "target": " Color: Constant（常量颜色）",
+      "note": ""
+    },
+    {
+      "id": "8afd3af980d9",
+      "source": "Color Picker",
+      "target": "Color Picker（颜色选择器）",
+      "note": ""
+    },
+    {
+      "id": "3c8e732e5d6c",
+      "source": " Color: Gradient",
+      "target": " Color: Gradient（颜色渐变）",
+      "note": ""
+    },
+    {
+      "id": "a843c2cdddd8",
+      "source": " Color Selector",
+      "target": " Color Selector（颜色选择器节点）",
+      "note": ""
+    },
+    {
+      "id": "889ce77f5886",
+      "source": "Connecting Color Nodes",
+      "target": "连接颜色节点",
+      "note": ""
+    }
+  ]
+}

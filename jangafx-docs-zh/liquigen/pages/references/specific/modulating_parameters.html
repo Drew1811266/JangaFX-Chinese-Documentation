@@ -1,0 +1,436 @@
+<!doctype html>
+<html class="no-js" lang="zh-CN">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../../../genindex.html" /><link rel="search" title="Search" href="../../../../search.html" />
+
+    <link rel="shortcut icon" href="../../../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>调制参数 - JangaFX 文档</title>
+      <link rel="stylesheet" type="text/css" href="../../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">隐藏导航侧边栏</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">隐藏目录侧边栏</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">切换站点导航侧边栏</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../../../index.html"><div class="brand">JangaFX 文档</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">切换目录侧边栏</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../../embergen/index.html">EmberGen 文档</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../../embergen/pages/getting_started.html">入门</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../../embergen/pages/references/index.html">参考</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../../../embergen/pages/references/ui_reference.html">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../embergen/pages/references/settings.html">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../embergen/pages/references/node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/histogram.html">直方图</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/exportVDB.html">VDB 导出</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/randomization.html">随机化</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../embergen/pages/FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../index.html">LiquiGen 文档</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../getting_started.html">入门</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../index.html">参考</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../ui_reference.html">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../settings.html">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/diagnostics.html">诊断</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/randomization.html">随机化</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/expressions.html">表达式</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../illugen/index.html">IlluGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../geogen/index.html">GeoGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../licensing/index.html">浮动许可证指南</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>返回顶部</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">切换目录侧边栏</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <section id="modulating-parameters">
+<span id="modulation-lg"></span><h1>调制参数<a class="headerlink" href="#modulating-parameters" title="Permalink to this heading">#</a></h1>
+<p>大多数参数都可以由外部调制节点控制。</p>
+<section id="how-to-modulate-a-parameter">
+<h2>如何调制参数<a class="headerlink" href="#how-to-modulate-a-parameter" title="Permalink to this heading">#</a></h2>
+<p>假设我们想让球体持续上下移动。这可以用关键帧手动完成，但也可以使用 <a class="reference internal" href="../../../../_images/oscillator.svg"><img alt="oscillator icon" height="18" src="../../../../_images/oscillator.svg" width="18" /></a> <em>Mod: Oscillator</em> 节点。</p>
+<img alt="set override state to pin override for modulation" class="align-right" src="../../../../_images/pinOverride2.gif" />
+<ul class="simple">
+<li><p>将 <em>Position</em> 参数的覆盖状态设置为 <em>Pin Override</em>，方法是 <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击其旁边的图标。</p></li>
+<li><p>将 <a class="reference internal" href="../../../../_images/oscillator.svg"><img alt="oscillator icon" height="18" src="../../../../_images/oscillator.svg" width="18" /></a> <em>Mod: Oscillator</em> 节点连接到左侧现在暴露出来的引脚。</p></li>
+<li><p>将 <em>Waveform X</em> 和 <em>Y</em> 设置为 None，这样只有 Z 位置会振荡。</p></li>
+<li><p>根据需要调整 Oscillator 节点中的设置。</p></li>
+</ul>
+</section>
+<section id="node-details">
+<h2>Node Details（节点详情）<a class="headerlink" href="#node-details" title="Permalink to this heading">#</a></h2>
+<p>来看一下 Oscillator 的 Node Details（节点详情）。</p>
+<img alt="" src="../../../../_images/Oscillator_LG.png" />
+<section id="output">
+<h3>输出<a class="headerlink" href="#output" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Signal：</strong> 所创建波形的可视化表示。</p></li>
+</ul>
+<p>在 <em>Signal</em> 显示区下方，是所有连接到 <a class="reference internal" href="../../../../_images/oscillator.svg"><img alt="oscillator icon" height="18" src="../../../../_images/oscillator.svg" width="18" /></a> <em>Mod: Oscillator</em> 节点的参数列表。</p>
+<p>这些参数会以每个分量一个范围滑块的形式表示。</p>
+<blockquote>
+<div><p>这里， <em>Volume flow rate</em> 只有一个分量，因此只有一个范围滑块，并且只会由 <em>Waveform X</em> 控制。</p>
+</div></blockquote>
+<p>这些范围滑块可用于控制参数值映射到波形的方式。范围滑块中的 <em>min</em> 值是该参数可能的最低值， <em>max</em> 值是最高值。</p>
+<p>例如，使用默认正弦波时，参数值会在范围滑块设定的值域内平滑上下振荡。这里， <em>Position</em> 参数可以在 <em>-50</em> 和 <em>50</em> 米之间振荡，而 <em>Fuel rate</em> 可以在 <em>0</em> 和 <em>1500</em> 百分比/秒的速率之间振荡。</p>
+<p>更多关于范围滑块的用法，请查看我们的 <a class="reference internal" href="rangeSlider.html#rangeslider"><span class="std std-ref">范围滑块</span></a> 页面！</p>
+</section>
+<section id="main">
+<h3>Main（主要）<a class="headerlink" href="#main" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Custom Waveform：</strong> 只有在选择 <em>Custom</em>（位于某个 <em>Waveform</em> 下拉菜单中）时，此图表才可见。此选项允许创建你能想到的任意波形。右键菜单中的 <em>Curve Generator…</em>（ <a class="reference internal" href="../../../../_images/right.svg"><img alt="right mouse button" height="18" src="../../../../_images/right.svg" width="18" /></a>）对于制作抖动正弦波之类的内容非常有用。更多关于调制曲线用法的信息，请查看我们的<a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/modulation_curve.html#modulationcurve"><span class="std std-ref">调制曲线</span></a>页面！</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="200" height="72.61146496815286" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/waveformTypes_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Waveform X,Y,Z：</strong> 此下拉菜单包含不同类型的波形，它们决定数值振荡的模式。</p></li>
+<li><p><strong>Base：</strong> 偏移数值，可以增加或减少。</p></li>
+<li><p><strong>Frequency：</strong> 图案每秒重复的次数。值越高，数值变化越快。</p></li>
+<li><p><strong>Phase：</strong> 波形的时间偏移。</p></li>
+<li><p><strong>Amount：</strong> 波形强度。值越高，振荡后的数值偏离基础值越远。</p></li>
+<li><p><strong>Attenuation：</strong> 所有波形的强度乘数。</p></li>
+</ul>
+</section>
+</section>
+<section id="other-modulators">
+<h2>其他调制器<a class="headerlink" href="#other-modulators" title="Permalink to this heading">#</a></h2>
+<p>所有调制器节点都使用三个值来表示 <em>X</em>、<em>Y</em> 和 <em>Z</em> 轴。</p>
+<p>调制单值参数时，只会使用 <em>X</em>、<em>A</em> 或 <em>1</em> 输出。</p>
+<p>调制颜色参数时， <em>X</em>、<em>Y</em> 和 <em>Z</em> 将代表 <em>Red</em>、<em>Green</em> 和 <em>Blue</em></p>
+<section id="constanticon-constant">
+<h3><a class="reference internal" href="../../../../_images/constant.svg"><img alt="constant icon" height="22" src="../../../../_images/constant.svg" width="22" /></a> Constant（常量）<a class="headerlink" href="#constanticon-constant" title="Permalink to this heading">#</a></h3>
+<p>生成一个数值不会随时间变化的信号。</p>
+<p>当你想用同一个滑块控制多个参数时，这会很有用。</p>
+<p>此调制器比较特殊，因为它具有 <em>Mode</em> 下拉参数，可用于选择最合适的控制类型。</p>
+</section>
+<section id="oscillatoricon-oscillator">
+<h3><a class="reference internal" href="../../../../_images/oscillator.svg"><img alt="oscillator icon" height="18" src="../../../../_images/oscillator.svg" width="18" /></a> Oscillator（振荡器）<a class="headerlink" href="#oscillatoricon-oscillator" title="Permalink to this heading">#</a></h3>
+<p>生成一个数值会沿指定波形变化的信号。</p>
+<p>这可用于向项目中添加一些扰动，例如让参数以随机方式偏离其基础值。</p>
+</section>
+<section id="cycleicon-cycle">
+<h3><a class="reference internal" href="../../../../_images/constant-1.svg"><img alt="cycle icon" height="22" src="../../../../_images/constant-1.svg" width="22" /></a> Cycle（循环）<a class="headerlink" href="#cycleicon-cycle" title="Permalink to this heading">#</a></h3>
+<p>锯齿波形的一种版本。会重复执行从 <em>-360</em> 到 <em>360</em>。</p>
+<p>这用于让某些内容持续旋转。</p>
+</section>
+<section id="combinatoricon-combine">
+<h3><a class="reference internal" href="../../../../_images/combinator.svg"><img alt="combinator icon" height="22" src="../../../../_images/combinator.svg" width="22" /></a> Combine（组合）<a class="headerlink" href="#combinatoricon-combine" title="Permalink to this heading">#</a></h3>
+<p>此节点不会生成信号，而是以指定的数学方式组合多个信号。</p>
+</section>
+<section id="mathicon-math">
+<h3><a class="reference internal" href="../../../../_images/math.svg"><img alt="math icon" height="18" src="../../../../_images/math.svg" width="18" /></a> Math（数学）<a class="headerlink" href="#mathicon-math" title="Permalink to this heading">#</a></h3>
+<p>此节点有一个文本字段，你可以在其中编写自己的数学表达式来生成信号。</p>
+</section>
+<section id="timeshifticon-time-shift">
+<h3><a class="reference internal" href="../../../../_images/time_shift.svg"><img alt="time shift icon" height="22" src="../../../../_images/time_shift.svg" width="22" /></a> Time Shift（时间偏移）<a class="headerlink" href="#timeshifticon-time-shift" title="Permalink to this heading">#</a></h3>
+<p>不会生成信号，而是对传入信号进行时间偏移。</p>
+</section>
+<section id="adsricon-adsr">
+<h3><a class="reference internal" href="../../../../_images/adsr.svg"><img alt="adsr icon" height="18" src="../../../../_images/adsr.svg" width="18" /></a> ADSR<a class="headerlink" href="#adsricon-adsr" title="Permalink to this heading">#</a></h3>
+<p>ADSR 节点允许将特定参数映射到 ADSR 包络。</p>
+<p>ADSR 代表 Attack（起音）、Decay（衰减）、Sustain（延音）、Release（释音）。ADSR 节点的 <em>Active</em> 复选框开启后，包络会被触发，并从 attack（起音）开始。Attack（起音）是指定参数的基础值到达峰值所需的时间，峰值由 Amount % 决定。Decay（衰减）是从峰值到 Sustain（延音）值所需的时间。Sustain（延音）是 Base 与 Amount 值之间的百分比；该值会保持不变，直到 ADSR 节点变为非活动状态。Active 二值开关关闭后，包络会进入 release（释音）。Release（释音）是 Sustain（延音）值返回 Base 值所需的时间。</p>
+<p>此节点与 MIDI 节点结合使用时尤其有用。</p>
+</section>
+<section id="midiicon-midi">
+<h3><a class="reference internal" href="../../../../_images/MIDI_Icon.gif"><img alt="midi icon" src="../../../../_images/MIDI_Icon.gif" style="width: 22.5px; height: 22.5px;" /></a> MIDI<a class="headerlink" href="#midiicon-midi" title="Permalink to this heading">#</a></h3>
+<p>根据键盘等 MIDI 控制器上的按键操作生成信号。</p>
+<p>要使用此功能，需要先勾选 <em>Settings/Preferences/General/Enable MIDI support</em></p>
+</section>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          
+          
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                版权所有 © 2026，JangaFX
+            </div>
+            使用 <a href="https://www.sphinx-doc.org/">Sphinx</a> 和 <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a> 的
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            本页内容
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">调制参数</a><ul>
+<li><a class="reference internal" href="#how-to-modulate-a-parameter">如何调制参数</a></li>
+<li><a class="reference internal" href="#node-details">Node Details（节点详情）</a><ul>
+<li><a class="reference internal" href="#output">输出</a></li>
+<li><a class="reference internal" href="#main">Main（主要）</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#other-modulators">其他调制器</a><ul>
+<li><a class="reference internal" href="#constanticon-constant"> Constant（常量）</a></li>
+<li><a class="reference internal" href="#oscillatoricon-oscillator"> Oscillator（振荡器）</a></li>
+<li><a class="reference internal" href="#cycleicon-cycle"> Cycle（循环）</a></li>
+<li><a class="reference internal" href="#combinatoricon-combine"> Combine（组合）</a></li>
+<li><a class="reference internal" href="#mathicon-math"> Math（数学）</a></li>
+<li><a class="reference internal" href="#timeshifticon-time-shift"> Time Shift（时间偏移）</a></li>
+<li><a class="reference internal" href="#adsricon-adsr"> ADSR</a></li>
+<li><a class="reference internal" href="#midiicon-midi"> MIDI</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
+    <script src="../../../../_static/doctools.js"></script>
+    <script src="../../../../_static/sphinx_highlight.js"></script>
+    <script src="../../../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../../../_static/js/ga.js"></script>
+    <script src="../../../../_static/js/yall.min.js"></script>
+    <script src="../../../../_static/js/loadLibraries.js"></script>
+    <script src="../../../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

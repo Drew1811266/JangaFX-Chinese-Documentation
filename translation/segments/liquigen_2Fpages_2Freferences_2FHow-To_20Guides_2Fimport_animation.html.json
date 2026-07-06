@@ -1,0 +1,1016 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+  "segment_count": 101,
+  "segments": [
+    {
+      "id": "3aaaa0a3dbe6",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 681,
+      "end": 725,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "FBX, OBJ, ABC Import - JangaFX Documentation",
+      "source_text": "FBX, OBJ, ABC Import - JangaFX Documentation"
+    },
+    {
+      "id": "7fa838260ffa",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 5315,
+      "end": 5338,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "72621691800a",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 5433,
+      "end": 5463,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "546263985171",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 5659,
+      "end": 5689,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "971c143981c0",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 5880,
+      "end": 5901,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "cef14658dc5a",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 6094,
+      "end": 6132,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "d57760e1ae59",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 6522,
+      "end": 6554,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "25662ea5cffa",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 7602,
+      "end": 7624,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "820cb8f281c8",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 7802,
+      "end": 7834,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "4cb81350a8cf",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 8027,
+      "end": 8042,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "8222bf2db3d8",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 8174,
+      "end": 8184,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "853d3fabbf11",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 8362,
+      "end": 8394,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "c6b28e8c6777",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 8595,
+      "end": 8609,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "57a56e9ccbaf",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 8731,
+      "end": 8739,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "9d0e551dda12",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 8862,
+      "end": 8871,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "6f11e1178ff4",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 9019,
+      "end": 9032,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "d75687d03c05",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 9210,
+      "end": 9242,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "96ff128d6409",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 9460,
+      "end": 9473,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "7a5915794f0b",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 9624,
+      "end": 9643,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "6996065de811",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 9778,
+      "end": 9783,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "738e9e824ff1",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 9920,
+      "end": 9927,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "8ca2c360fb30",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 10061,
+      "end": 10065,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "77dc4215ec1b",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 10211,
+      "end": 10231,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "a994350bec4a",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 10370,
+      "end": 10379,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "637a1c5be404",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 10520,
+      "end": 10532,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "a1eae927b225",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 10671,
+      "end": 10689,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "b1c22f3fcb3e",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 10835,
+      "end": 10851,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "a6d50431de6a",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 11002,
+      "end": 11023,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "06b7d7581e3e",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 11161,
+      "end": 11169,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "bd56eb9ef879",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 11308,
+      "end": 11318,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "f4e23777fd8d",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 11461,
+      "end": 11474,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "bef16cb0101e",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 11604,
+      "end": 11607,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "d89933612413",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 11730,
+      "end": 11752,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "732f010ae875",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 11941,
+      "end": 11973,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "6181d25a419b",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 12161,
+      "end": 12176,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "79d4cf44a8e6",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 12281,
+      "end": 12291,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "93c1fc84b2aa",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 12480,
+      "end": 12512,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "b1035f1ce971",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 12694,
+      "end": 12708,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "4c962ef8259a",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 12795,
+      "end": 12803,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "3094d027bcc6",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 12891,
+      "end": 12900,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "aa4a431b6bad",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 13002,
+      "end": 13015,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "7480065720de",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 13204,
+      "end": 13236,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "02010c4ba1f8",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 13414,
+      "end": 13425,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "920c98c99dc8",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 13522,
+      "end": 13541,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "064ab1686fcd",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 13622,
+      "end": 13627,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "39bf994ccb4e",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 13710,
+      "end": 13717,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "89bb9d4aacc4",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 13797,
+      "end": 13801,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "6de945f1a74e",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 13902,
+      "end": 13922,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "5fc8a8725f32",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 14011,
+      "end": 14024,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "0b2cf27c6fec",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 14111,
+      "end": 14123,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "085539a2e519",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 14208,
+      "end": 14226,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "f910d637e291",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 14318,
+      "end": 14334,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "5e60fad62aa6",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 14431,
+      "end": 14452,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "92c39169f8ae",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 14536,
+      "end": 14544,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "fb9323d4feab",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 14633,
+      "end": 14646,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "5f689d5e7054",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 14733,
+      "end": 14744,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "65bdab96f452",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 14853,
+      "end": 14856,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "68e22c198f23",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 14969,
+      "end": 14990,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "a67415b35c6c",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 15090,
+      "end": 15110,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "8ddcfbdd1064",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 15213,
+      "end": 15235,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "0154705075ba",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 15648,
+      "end": 15659,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "d0a9d9367c0b",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 15879,
+      "end": 15917,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "3099e6b26762",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 16336,
+      "end": 16368,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "486cd3700a1a",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 16595,
+      "end": 16615,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "e315519dcc90",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 16712,
+      "end": 16851,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "LiquiGen can import models and animations from other 3d packages to be used as emitters, colliders, or as holdout objects for your renders.",
+      "source_text": "LiquiGen can import models and animations from other 3d packages to be used as emitters, colliders, or as holdout objects for your renders."
+    },
+    {
+      "id": "cdb1f29f2bc8",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 16859,
+      "end": 16886,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "This can be done using the ",
+      "source_text": "This can be done using the "
+    },
+    {
+      "id": "06f5f6e55c0c",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17055,
+      "end": 17061,
+      "line": 258,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Import",
+      "source_text": "Import"
+    },
+    {
+      "id": "b66d94b42372",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17066,
+      "end": 17072,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " node.",
+      "source_text": " node."
+    },
+    {
+      "id": "e13c12e5bb25",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17143,
+      "end": 17181,
+      "line": 262,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "You can browse for your file from the ",
+      "source_text": "You can browse for your file from the "
+    },
+    {
+      "id": "d7af114a0cb4",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17185,
+      "end": 17190,
+      "line": 262,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Asset",
+      "source_text": "Asset"
+    },
+    {
+      "id": "4cadc0384b15",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17195,
+      "end": 17200,
+      "line": 262,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "e70eba46c5ff",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17208,
+      "end": 17287,
+      "line": 263,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "We primarily support the FBX file format but you can also use OBJ or ABC files.",
+      "source_text": "We primarily support the FBX file format but you can also use OBJ or ABC files."
+    },
+    {
+      "id": "bacc5798288d",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17295,
+      "end": 17343,
+      "line": 264,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "For Alembic, only the OGAWA format is supported!",
+      "source_text": "For Alembic, only the OGAWA format is supported!"
+    },
+    {
+      "id": "37d88d8e09a9",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17351,
+      "end": 17557,
+      "line": 265,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Note that imported models should be suitable for simulation. This means the geometry should be closed. Also, for any part thinner than the voxel size the geometry can’t be processed properly for simulation.",
+      "source_text": "Note that imported models should be suitable for simulation. This means the geometry should be closed. Also, for any part thinner than the voxel size the geometry can’t be processed properly for simulation."
+    },
+    {
+      "id": "56712f919b53",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17628,
+      "end": 17769,
+      "line": 269,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "You will want to store these files locally. Loading your imported mesh from a network drive can cause instability in simulations and renders.",
+      "source_text": "You will want to store these files locally. Loading your imported mesh from a network drive can cause instability in simulations and renders."
+    },
+    {
+      "id": "efa87c2af27d",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17903,
+      "end": 17907,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "71a39022efd1",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17911,
+      "end": 17919,
+      "line": 276,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Geometry",
+      "source_text": "Geometry"
+    },
+    {
+      "id": "7b0790965d97",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17924,
+      "end": 17960,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " output pin can be connected to any ",
+      "source_text": " output pin can be connected to any "
+    },
+    {
+      "id": "2ffb604b7db2",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17964,
+      "end": 17970,
+      "line": 276,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Shapes",
+      "source_text": "Shapes"
+    },
+    {
+      "id": "7325a613d4af",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17975,
+      "end": 17979,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "a8c6a49481b6",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17983,
+      "end": 17994,
+      "line": 276,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Mask Shapes",
+      "source_text": "Mask Shapes"
+    },
+    {
+      "id": "4ccc9917cc72",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 17999,
+      "end": 18010,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " input pin.",
+      "source_text": " input pin."
+    },
+    {
+      "id": "651a09576149",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 18335,
+      "end": 18409,
+      "line": 284,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "bfed27cce811",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 18436,
+      "end": 18498,
+      "line": 288,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "You can separate models or even parts of models out using the ",
+      "source_text": "You can separate models or even parts of models out using the "
+    },
+    {
+      "id": "de7d48f3b595",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 18502,
+      "end": 18506,
+      "line": 288,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Mask",
+      "source_text": "Mask"
+    },
+    {
+      "id": "70793338ab53",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 18511,
+      "end": 18520,
+      "line": 288,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " outputs.",
+      "source_text": " outputs."
+    },
+    {
+      "id": "302dcbeb18a8",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 18528,
+      "end": 18672,
+      "line": 289,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "These masks each have their own tab where you can specify what you need to be masked by picking a mesh from the list or a specific set of bones.",
+      "source_text": "These masks each have their own tab where you can specify what you need to be masked by picking a mesh from the list or a specific set of bones."
+    },
+    {
+      "id": "6b07d48e8ab9",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 18680,
+      "end": 18684,
+      "line": 290,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "7dc4e9f24a20",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 18688,
+      "end": 18692,
+      "line": 290,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Mask",
+      "source_text": "Mask"
+    },
+    {
+      "id": "6b50042b621c",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 18697,
+      "end": 18761,
+      "line": 290,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " output pins will only output the shapes specified in that mask.",
+      "source_text": " output pins will only output the shapes specified in that mask."
+    },
+    {
+      "id": "4eb314c3ac98",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 19028,
+      "end": 19032,
+      "line": 301,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "ddbf9b229fd1",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 19098,
+      "end": 19111,
+      "line": 303,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "cebb070e28e4",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 19479,
+      "end": 19487,
+      "line": 311,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "e6ac9eba2e27",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 19570,
+      "end": 19574,
+      "line": 314,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "afad726cee85",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 19760,
+      "end": 19820,
+      "line": 321,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "03193e45fcd5",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 19826,
+      "end": 19849,
+      "line": 323,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "1cfb5764cbfe",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 19887,
+      "end": 19893,
+      "line": 324,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "4e85b791f1cb",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 19897,
+      "end": 19902,
+      "line": 324,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "22f1d7a7a6f7",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 19952,
+      "end": 19962,
+      "line": 324,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "be3721c80383",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 19966,
+      "end": 19994,
+      "line": 324,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "e93f8b4b7187",
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "start": 20038,
+      "end": 20042,
+      "line": 326,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

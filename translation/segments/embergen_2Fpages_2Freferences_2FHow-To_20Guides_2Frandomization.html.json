@@ -1,0 +1,2106 @@
+{
+  "path": "embergen/pages/references/How-To Guides/randomization.html",
+  "segment_count": 210,
+  "segments": [
+    {
+      "id": "8db4c4211421",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 678,
+      "end": 715,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Randomization - JangaFX Documentation",
+      "source_text": "Randomization - JangaFX Documentation"
+    },
+    {
+      "id": "c3d420bc7861",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 5305,
+      "end": 5328,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "d4576386ae83",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 5423,
+      "end": 5453,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "2d22bbb75869",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 5649,
+      "end": 5679,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "f33ddb44b930",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 5870,
+      "end": 5891,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "6df72ae70dc3",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 6084,
+      "end": 6122,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "2e480fa18bb9",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 6505,
+      "end": 6537,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "def140bc5a4b",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 7581,
+      "end": 7603,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "d13ad86b1efc",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 7792,
+      "end": 7824,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "64b0710cb43f",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 8012,
+      "end": 8027,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "5ea21ef173cd",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 8132,
+      "end": 8142,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "225621783b69",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 8331,
+      "end": 8363,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "8aa252c35c7f",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 8545,
+      "end": 8559,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "b157f21fd777",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 8646,
+      "end": 8654,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "459830c4d26d",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 8742,
+      "end": 8751,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "d3d0c1964065",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 8853,
+      "end": 8866,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "3c4d9456e4a3",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 9055,
+      "end": 9087,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "ade5fc538d06",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 9267,
+      "end": 9280,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "38d00d9b2f39",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 9377,
+      "end": 9396,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "9ff45efc797e",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 9477,
+      "end": 9482,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "7298d85e7554",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 9565,
+      "end": 9572,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "955db75ef7ef",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 9652,
+      "end": 9656,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "b968851d003f",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 9748,
+      "end": 9768,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "0039cdf30ad3",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 9853,
+      "end": 9862,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "154261d16d04",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 9949,
+      "end": 9961,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "dac8d81584fe",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 10046,
+      "end": 10064,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "5a89e079f6d7",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 10156,
+      "end": 10172,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "15213d005f25",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 10269,
+      "end": 10290,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "fb9338a84e3e",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 10374,
+      "end": 10382,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "c34b34b28fb0",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 10467,
+      "end": 10477,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "d1f80831e8b2",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 10578,
+      "end": 10591,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "df60067a0b7f",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 10700,
+      "end": 10703,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "7b70bf14574f",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 10830,
+      "end": 10852,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "d7e154b44864",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 11030,
+      "end": 11062,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "810b0d148b99",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 11255,
+      "end": 11270,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "2e53d2bb0055",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 11402,
+      "end": 11412,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "66195f329c16",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 11590,
+      "end": 11622,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "c76f0b31c00b",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 11823,
+      "end": 11837,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "edb2f0843720",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 11959,
+      "end": 11967,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "a8da22a20cd7",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 12090,
+      "end": 12099,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "fe77d7c6ecc7",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 12247,
+      "end": 12260,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "f1b67db20cb4",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 12438,
+      "end": 12470,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "37bce05ba4ed",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 12686,
+      "end": 12697,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "647d1ea4c2f6",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 12848,
+      "end": 12867,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "b13f4be31363",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 13002,
+      "end": 13007,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "8fe57f6ecf8a",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 13144,
+      "end": 13151,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "6e4a161144ec",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 13285,
+      "end": 13289,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "a7a249e7a420",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 13435,
+      "end": 13455,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "06f86b4a4a64",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 13598,
+      "end": 13611,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "4c64f365f696",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 13752,
+      "end": 13764,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "a3c749418e34",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 13903,
+      "end": 13921,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "2dc6d777d064",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 14067,
+      "end": 14083,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "071374919f61",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 14234,
+      "end": 14255,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "f835317f1dd3",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 14393,
+      "end": 14401,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "4454e85c7c91",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 14544,
+      "end": 14557,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "524f8578f48f",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 14698,
+      "end": 14709,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "70bf41ae777a",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 14839,
+      "end": 14842,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "1a0e6288df46",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 14955,
+      "end": 14976,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "35b4fa2729be",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 15076,
+      "end": 15096,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "a1b29cda6bd0",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 15199,
+      "end": 15221,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "29b62df66f6a",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 15634,
+      "end": 15645,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "18ef6938b3dd",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 15865,
+      "end": 15903,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "5b67337e782c",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 16315,
+      "end": 16347,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "bbb4f806796c",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 16554,
+      "end": 16567,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "69e590c72900",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 16659,
+      "end": 17015,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "In this section, you will learn how to automatically create and export variations of your projects!\nThis feature is also known as “wedging”.\nThis is useful, for example, if you have a project that needs lots of similar elements, if you want to have some options to show your supervisor, or if you wish to get that perfect random seed for your hero element.",
+      "source_text": "In this section, you will learn how to automatically create and export variations of your projects!\nThis feature is also known as “wedging”.\nThis is useful, for example, if you have a project that needs lots of similar elements, if you want to have some options to show your supervisor, or if you wish to get that perfect random seed for your hero element."
+    },
+    {
+      "id": "abb4802ffb6d",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 17064,
+      "end": 17088,
+      "line": 261,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Setting up randomization",
+      "source_text": "Setting up randomization"
+    },
+    {
+      "id": "597de5805012",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 17191,
+      "end": 17248,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "You can randomize a parameter by setting the override to ",
+      "source_text": "You can randomize a parameter by setting the override to "
+    },
+    {
+      "id": "71759709912c",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 17252,
+      "end": 17270,
+      "line": 262,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomize Override",
+      "source_text": "Randomize Override"
+    },
+    {
+      "id": "5df24b2d366d",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 17275,
+      "end": 17293,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": ". This is done by ",
+      "source_text": ". This is done by "
+    },
+    {
+      "id": "aea883ed198e",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 17299,
+      "end": 17304,
+      "line": 262,
+      "parent_path": "article/section/section/p/cite",
+      "source_raw": "Shift",
+      "source_text": "Shift"
+    },
+    {
+      "id": "678798f7cc96",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 17473,
+      "end": 17487,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " clicking the ",
+      "source_text": " clicking the "
+    },
+    {
+      "id": "09bb12452b83",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 17648,
+      "end": 17713,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " circle next to it. A randomized parameter is indicated with the ",
+      "source_text": " circle next to it. A randomized parameter is indicated with the "
+    },
+    {
+      "id": "ef4472e4de88",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 17873,
+      "end": 17895,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " icon. To disable the ",
+      "source_text": " icon. To disable the "
+    },
+    {
+      "id": "4423f26b335e",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 17899,
+      "end": 17917,
+      "line": 262,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomize Override",
+      "source_text": "Randomize Override"
+    },
+    {
+      "id": "1d8fa1cedfdb",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 18083,
+      "end": 18094,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " click the ",
+      "source_text": " click the "
+    },
+    {
+      "id": "49ffdd296056",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 18254,
+      "end": 18278,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " icon to set it back to ",
+      "source_text": " icon to set it back to "
+    },
+    {
+      "id": "aa0337260e50",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 18444,
+      "end": 18455,
+      "line": 262,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "No Override",
+      "source_text": "No Override"
+    },
+    {
+      "id": "6372bd39b311",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 18509,
+      "end": 18592,
+      "line": 264,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "Once you’ve selected your parameters for randomization, you can manage them in the ",
+      "source_text": "Once you’ve selected your parameters for randomization, you can manage them in the "
+    },
+    {
+      "id": "76614f1e6a32",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 18596,
+      "end": 18606,
+      "line": 264,
+      "parent_path": "section/section/div/div/em",
+      "source_raw": "Randomized",
+      "source_text": "Randomized"
+    },
+    {
+      "id": "06fa25f40d42",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 18611,
+      "end": 18616,
+      "line": 264,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "1c45586f4beb",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 18641,
+      "end": 18753,
+      "line": 265,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "You may notice there are parameters there you didn’t select for randomization. This is because, by default, all ",
+      "source_text": "You may notice there are parameters there you didn’t select for randomization. This is because, by default, all "
+    },
+    {
+      "id": "0d9ecf360f8c",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 18757,
+      "end": 18761,
+      "line": 265,
+      "parent_path": "section/section/div/div/em",
+      "source_raw": "Seed",
+      "source_text": "Seed"
+    },
+    {
+      "id": "14e80c75b8b7",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 18766,
+      "end": 18807,
+      "line": 265,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": " parameters are set up for randomization.",
+      "source_text": " parameters are set up for randomization."
+    },
+    {
+      "id": "93d95c2ad888",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 18824,
+      "end": 18878,
+      "line": 267,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "You can remove a parameter from the randomized tab by ",
+      "source_text": "You can remove a parameter from the randomized tab by "
+    },
+    {
+      "id": "f17711a9e472",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 19037,
+      "end": 19051,
+      "line": 267,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " clicking the ",
+      "source_text": " clicking the "
+    },
+    {
+      "id": "68f69467e016",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 19211,
+      "end": 19228,
+      "line": 267,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " icon next to it.",
+      "source_text": " icon next to it."
+    },
+    {
+      "id": "27c03824de2f",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 19236,
+      "end": 19240,
+      "line": 268,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "1ab71bdb91a6",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 19244,
+      "end": 19254,
+      "line": 268,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomized",
+      "source_text": "Randomized"
+    },
+    {
+      "id": "79007e57bf79",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 19259,
+      "end": 19345,
+      "line": 268,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " tab contains mostly range sliders with the regular parameter slider right next to it.",
+      "source_text": " tab contains mostly range sliders with the regular parameter slider right next to it."
+    },
+    {
+      "id": "1c9d76049d7e",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 19353,
+      "end": 19467,
+      "line": 269,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "With the range slider, you can specify the minimum and maximum value between which the random value can be picked.",
+      "source_text": "With the range slider, you can specify the minimum and maximum value between which the random value can be picked."
+    },
+    {
+      "id": "c828efe2e581",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 19475,
+      "end": 19689,
+      "line": 270,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "With the regular parameter slider right next to it, you can see and edit the current parameter value. This value will be overwritten by a random one from within the specified range when the parameter is randomized.",
+      "source_text": "With the regular parameter slider right next to it, you can see and edit the current parameter value. This value will be overwritten by a random one from within the specified range when the parameter is randomized."
+    },
+    {
+      "id": "25656dad0847",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 19697,
+      "end": 19739,
+      "line": 271,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "A parameter is randomized by clicking the ",
+      "source_text": "A parameter is randomized by clicking the "
+    },
+    {
+      "id": "f94fede27384",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 19896,
+      "end": 19913,
+      "line": 271,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " icon next to it.",
+      "source_text": " icon next to it."
+    },
+    {
+      "id": "5247b7617da9",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 19921,
+      "end": 19972,
+      "line": 272,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "To randomize all parameters you can click the blue ",
+      "source_text": "To randomize all parameters you can click the blue "
+    },
+    {
+      "id": "8e75d7e09a0d",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 19976,
+      "end": 19989,
+      "line": 272,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomize All",
+      "source_text": "Randomize All"
+    },
+    {
+      "id": "0e5196c06cf0",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 19994,
+      "end": 20009,
+      "line": 272,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " button or the ",
+      "source_text": " button or the "
+    },
+    {
+      "id": "a451e9780fbc",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 20203,
+      "end": 20243,
+      "line": 272,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " icon in the top right corner of the UI.",
+      "source_text": " icon in the top right corner of the UI."
+    },
+    {
+      "id": "718ea9694a21",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 20259,
+      "end": 20267,
+      "line": 273,
+      "parent_path": "article/section/section/p/strong",
+      "source_raw": "Example:",
+      "source_text": "Example:"
+    },
+    {
+      "id": "ed819afb68f4",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 20483,
+      "end": 20516,
+      "line": 275,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "With this setup, you can set the ",
+      "source_text": "With this setup, you can set the "
+    },
+    {
+      "id": "5a12b110e0a9",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 20520,
+      "end": 20526,
+      "line": 275,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Radius",
+      "source_text": "Radius"
+    },
+    {
+      "id": "e9c9ad965ee6",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 20531,
+      "end": 20688,
+      "line": 275,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " with the right slider but when the parameter is randomized its value will be overwritten by a random value between 1 and 3 as specified by the range slider.",
+      "source_text": " with the right slider but when the parameter is randomized its value will be overwritten by a random value between 1 and 3 as specified by the range slider."
+    },
+    {
+      "id": "abca278c8fed",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 20909,
+      "end": 21041,
+      "line": 277,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Different parameter types are set up a bit differently in the Randomized tab.\nLet’s look at them in order of the image on the right:",
+      "source_text": "Different parameter types are set up a bit differently in the Randomized tab.\nLet’s look at them in order of the image on the right:"
+    },
+    {
+      "id": "3d29dc27a282",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 21081,
+      "end": 21100,
+      "line": 280,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "3-vector parameters",
+      "source_text": "3-vector parameters"
+    },
+    {
+      "id": "8c2869174182",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 21109,
+      "end": 21420,
+      "line": 280,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " are split up into three range sliders each representing an axis. This means that you can define the amount of randomization for each axis. For example, if you want to randomize the Z axis only you can set the other two to a fixed value by inputting the same value in the min and max fields on the range slider.",
+      "source_text": " are split up into three range sliders each representing an axis. This means that you can define the amount of randomization for each axis. For example, if you want to randomize the Z axis only you can set the other two to a fixed value by inputting the same value in the min and max fields on the range slider."
+    },
+    {
+      "id": "4bc9a3511eb1",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 21445,
+      "end": 21461,
+      "line": 281,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Value parameters",
+      "source_text": "Value parameters"
+    },
+    {
+      "id": "4bae05bedb40",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 21470,
+      "end": 21540,
+      "line": 281,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ", which are the most common ones, are represented by one range slider.",
+      "source_text": ", which are the most common ones, are represented by one range slider."
+    },
+    {
+      "id": "fe64020385b6",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 21565,
+      "end": 21575,
+      "line": 282,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Checkboxes",
+      "source_text": "Checkboxes"
+    },
+    {
+      "id": "d3af80a52585",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 21584,
+      "end": 21670,
+      "line": 282,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the randomized tab have a random chance of being turned on or off when randomized.",
+      "source_text": " in the randomized tab have a random chance of being turned on or off when randomized."
+    },
+    {
+      "id": "63daad657710",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 21695,
+      "end": 21709,
+      "line": 283,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Dropdown menus",
+      "source_text": "Dropdown menus"
+    },
+    {
+      "id": "5baf57fad35d",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 21718,
+      "end": 21770,
+      "line": 283,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " are assigned a random menu item upon randomization.",
+      "source_text": " are assigned a random menu item upon randomization."
+    },
+    {
+      "id": "1c5444de923e",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 21795,
+      "end": 21808,
+      "line": 284,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Range sliders",
+      "source_text": "Range sliders"
+    },
+    {
+      "id": "1fab9996710b",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 21817,
+      "end": 22103,
+      "line": 284,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " are split up into two range sliders, one for the minimum value and one for the maximum value. For example, you can give particles a different maximum age between 1 and 5 seconds for every variation by setting the Lifetime limits Max component to have a minimum of 1 and a maximum of 5.",
+      "source_text": " are split up into two range sliders, one for the minimum value and one for the maximum value. For example, you can give particles a different maximum age between 1 and 5 seconds for every variation by setting the Lifetime limits Max component to have a minimum of 1 and a maximum of 5."
+    },
+    {
+      "id": "a48b2b839c40",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 22130,
+      "end": 22159,
+      "line": 286,
+      "parent_path": "article/section/section/p/strong",
+      "source_raw": "Randomized explosion example:",
+      "source_text": "Randomized explosion example:"
+    },
+    {
+      "id": "504a7dd936bb",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 22416,
+      "end": 22508,
+      "line": 289,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "Here, we have an explosion with a simple emission setup using a sphere and a volume emitter.",
+      "source_text": "Here, we have an explosion with a simple emission setup using a sphere and a volume emitter."
+    },
+    {
+      "id": "c84cac7d9d47",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 22533,
+      "end": 22576,
+      "line": 290,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "Let’s say we need eight similar explosions.",
+      "source_text": "Let’s say we need eight similar explosions."
+    },
+    {
+      "id": "fc90e2df3294",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 22601,
+      "end": 22689,
+      "line": 291,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "The general shape of explosions (or most effects) is determined by how they are sourced.",
+      "source_text": "The general shape of explosions (or most effects) is determined by how they are sourced."
+    },
+    {
+      "id": "4b4b720086fb",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 22714,
+      "end": 22816,
+      "line": 292,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "In this case, the shape of the explosion is mainly due to the random pressure injected by the emitter.",
+      "source_text": "In this case, the shape of the explosion is mainly due to the random pressure injected by the emitter."
+    },
+    {
+      "id": "5b00c04ab637",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 22841,
+      "end": 22890,
+      "line": 293,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "Since we want similar explosions, we can use the ",
+      "source_text": "Since we want similar explosions, we can use the "
+    },
+    {
+      "id": "716547efa935",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 22894,
+      "end": 22914,
+      "line": 293,
+      "parent_path": "section/section/div/div/em",
+      "source_raw": "Pressure random seed",
+      "source_text": "Pressure random seed"
+    },
+    {
+      "id": "45f9e26063b5",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 22919,
+      "end": 22930,
+      "line": 293,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": " parameter.",
+      "source_text": " parameter."
+    },
+    {
+      "id": "e754241b6de0",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 22955,
+      "end": 23201,
+      "line": 294,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "Using seed parameters is a good way of getting variations without changing the intensity or the scale distributions of your effect. Find out what random forces have the most influence on your simulation and randomize the corresponding seed value.",
+      "source_text": "Using seed parameters is a good way of getting variations without changing the intensity or the scale distributions of your effect. Find out what random forces have the most influence on your simulation and randomize the corresponding seed value."
+    },
+    {
+      "id": "34f212b51390",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 23523,
+      "end": 23597,
+      "line": 303,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "6334b6f619cd",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 23624,
+      "end": 23708,
+      "line": 307,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s now say we want to expand our options here and see eight different explosions.",
+      "source_text": "Let’s now say we want to expand our options here and see eight different explosions."
+    },
+    {
+      "id": "81c9ae3c002b",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 23716,
+      "end": 23739,
+      "line": 308,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Have a look at how the ",
+      "source_text": "Have a look at how the "
+    },
+    {
+      "id": "1082eb68b2fb",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 23743,
+      "end": 23753,
+      "line": 308,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomized",
+      "source_text": "Randomized"
+    },
+    {
+      "id": "bcf70bae8d92",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 23758,
+      "end": 23785,
+      "line": 308,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " tab is set up now and why.",
+      "source_text": " tab is set up now and why."
+    },
+    {
+      "id": "a5a51abe2584",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 24026,
+      "end": 24132,
+      "line": 310,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The parameters that determine the attributes we want to vary for this explosion are the ones added to the ",
+      "source_text": "The parameters that determine the attributes we want to vary for this explosion are the ones added to the "
+    },
+    {
+      "id": "3c9d85d17a22",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 24136,
+      "end": 24146,
+      "line": 310,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomized",
+      "source_text": "Randomized"
+    },
+    {
+      "id": "26d65b73c41d",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 24151,
+      "end": 24156,
+      "line": 310,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "02755b79b89f",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 24188,
+      "end": 24581,
+      "line": 312,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Fuel rate has a major effect on the overall size and intensity of the explosion. The range is set from 300% up to 700%, the way these values are determined is by experimentation. Values below 300% made the explosions too weak to look realistic and values above 700% made the explosions too big for the bounding box. This means that all values in between will give variations with good results.",
+      "source_text": "Fuel rate has a major effect on the overall size and intensity of the explosion. The range is set from 300% up to 700%, the way these values are determined is by experimentation. Values below 300% made the explosions too weak to look realistic and values above 700% made the explosions too big for the bounding box. This means that all values in between will give variations with good results."
+    },
+    {
+      "id": "8c7fbfba01ac",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 24598,
+      "end": 24983,
+      "line": 313,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Additional pressure rate will determine how random the shapes are. Higher rates will give more random organic shapes because more random pressure is injected. Lower values will give more spherical atomic bomb-type shapes. The range is set up from 0% to 700% because 0% gives the option of a very spherical explosion and everything above 700% didn’t give good-looking or unique results.",
+      "source_text": "Additional pressure rate will determine how random the shapes are. Higher rates will give more random organic shapes because more random pressure is injected. Lower values will give more spherical atomic bomb-type shapes. The range is set up from 0% to 700% because 0% gives the option of a very spherical explosion and everything above 700% didn’t give good-looking or unique results."
+    },
+    {
+      "id": "5509a63da9e7",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 25000,
+      "end": 25295,
+      "line": 314,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Note that Fuel rate and Additional pressure rate both affect the intensity of the explosion. Therefore make sure you check the scenarios where those parameters are both at their minimum and at their maximum values in their ranges so you can see if these potential variations are still desirable.",
+      "source_text": "Note that Fuel rate and Additional pressure rate both affect the intensity of the explosion. Therefore make sure you check the scenarios where those parameters are both at their minimum and at their maximum values in their ranges so you can see if these potential variations are still desirable."
+    },
+    {
+      "id": "e02e3d8a2ec8",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 25312,
+      "end": 25735,
+      "line": 315,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Pressure random scale determines the scale of the random pattern in which the pressure is added. The range is set from 0.1 to 0.4 based on the range of the biggest and the smallest desired details. Here, higher values give smaller details. So higher than 0.4 the difference would not be interesting as it gets too small. It’s important to find the right min and max points for your range to get the most diverse variations.",
+      "source_text": "Pressure random scale determines the scale of the random pattern in which the pressure is added. The range is set from 0.1 to 0.4 based on the range of the biggest and the smallest desired details. Here, higher values give smaller details. So higher than 0.4 the difference would not be interesting as it gets too small. It’s important to find the right min and max points for your range to get the most diverse variations."
+    },
+    {
+      "id": "9343b463d4b7",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 25752,
+      "end": 25889,
+      "line": 316,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Pressure random seed is left at the default range since for seed parameters any different value will give a completely different pattern.",
+      "source_text": "Pressure random seed is left at the default range since for seed parameters any different value will give a completely different pattern."
+    },
+    {
+      "id": "750da07ca362",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 25906,
+      "end": 26274,
+      "line": 317,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Position has the range set to 0 in min and max for the X and Y axes. This ensures that these values will be 0 in every variation not moving the sphere in those axes. The Z axis has a range from 10 to 30 meaning that in every variation the sphere is at a different height in between those values. This can give some interesting variation in the shockwave and intensity.",
+      "source_text": "Position has the range set to 0 in min and max for the X and Y axes. This ensures that these values will be 0 in every variation not moving the sphere in those axes. The Z axis has a range from 10 to 30 meaning that in every variation the sphere is at a different height in between those values. This can give some interesting variation in the shockwave and intensity."
+    },
+    {
+      "id": "740c9b462a32",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 26341,
+      "end": 26361,
+      "line": 321,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Exporting variations",
+      "source_text": "Exporting variations"
+    },
+    {
+      "id": "caf78b8100fc",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 26460,
+      "end": 26504,
+      "line": 322,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Exporting variations starts by setting your ",
+      "source_text": "Exporting variations starts by setting your "
+    },
+    {
+      "id": "808f5f77d8f9",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 26666,
+      "end": 26672,
+      "line": 322,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Render",
+      "source_text": "Render"
+    },
+    {
+      "id": "0b5d7068552c",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 26861,
+      "end": 26877,
+      "line": 322,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Export:Particles",
+      "source_text": "Export:Particles"
+    },
+    {
+      "id": "d4083ec3839c",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 26882,
+      "end": 26887,
+      "line": 322,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": ", or ",
+      "source_text": ", or "
+    },
+    {
+      "id": "b65bb58a8851",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27047,
+      "end": 27057,
+      "line": 322,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Export:VDB",
+      "source_text": "Export:VDB"
+    },
+    {
+      "id": "893778af5f31",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27062,
+      "end": 27131,
+      "line": 322,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " node up like you normally would. But with the addition of using the ",
+      "source_text": " node up like you normally would. But with the addition of using the "
+    },
+    {
+      "id": "43632dbdd358",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27218,
+      "end": 27235,
+      "line": 322,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " variable in the ",
+      "source_text": " variable in the "
+    },
+    {
+      "id": "cfa1846de94a",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27239,
+      "end": 27248,
+      "line": 322,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Directory",
+      "source_text": "Directory"
+    },
+    {
+      "id": "db4d4d9bd1ee",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27253,
+      "end": 27261,
+      "line": 322,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " or the ",
+      "source_text": " or the "
+    },
+    {
+      "id": "8767ce4dbb7d",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27265,
+      "end": 27273,
+      "line": 322,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Filename",
+      "source_text": "Filename"
+    },
+    {
+      "id": "b583fe5285bd",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27278,
+      "end": 27418,
+      "line": 322,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " field. If you don’t use this, the files will be overwritten for every variation since there is nothing unique in the directory or filename.",
+      "source_text": " field. If you don’t use this, the files will be overwritten for every variation since there is nothing unique in the directory or filename."
+    },
+    {
+      "id": "8bb194b45345",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27434,
+      "end": 27442,
+      "line": 323,
+      "parent_path": "article/section/section/p/strong",
+      "source_raw": "Example:",
+      "source_text": "Example:"
+    },
+    {
+      "id": "ad401e7a02e9",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27724,
+      "end": 27735,
+      "line": 326,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Here, with ",
+      "source_text": "Here, with "
+    },
+    {
+      "id": "63ffe4092679",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27739,
+      "end": 27750,
+      "line": 326,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "myExplosion",
+      "source_text": "myExplosion"
+    },
+    {
+      "id": "c0ee2fe36414",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27755,
+      "end": 27801,
+      "line": 326,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " being the project file name, a folder called ",
+      "source_text": " being the project file name, a folder called "
+    },
+    {
+      "id": "6f0aee58eb26",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27832,
+      "end": 27880,
+      "line": 326,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is created in the project directory (where the ",
+      "source_text": " is created in the project directory (where the "
+    },
+    {
+      "id": "75dd02a6ea0e",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27884,
+      "end": 27890,
+      "line": 326,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".ember",
+      "source_text": ".ember"
+    },
+    {
+      "id": "e0afc69fad1b",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27895,
+      "end": 27912,
+      "line": 326,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file is stored).",
+      "source_text": " file is stored)."
+    },
+    {
+      "id": "da79850b7e09",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 27929,
+      "end": 28005,
+      "line": 327,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Within that directory, numbered folders will be created for every variation.",
+      "source_text": "Within that directory, numbered folders will be created for every variation."
+    },
+    {
+      "id": "c5b83ec0495a",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28022,
+      "end": 28079,
+      "line": 328,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "In those folders will be subfolders for each render pass.",
+      "source_text": "In those folders will be subfolders for each render pass."
+    },
+    {
+      "id": "47edbc434889",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28096,
+      "end": 28234,
+      "line": 329,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "All files will be dynamically named based on the filename, variation number, and render pass. You can see a file name example next to the ",
+      "source_text": "All files will be dynamically named based on the filename, variation number, and render pass. You can see a file name example next to the "
+    },
+    {
+      "id": "9404e9fa8264",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28238,
+      "end": 28246,
+      "line": 329,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Filename",
+      "source_text": "Filename"
+    },
+    {
+      "id": "d5a6e709a59f",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28251,
+      "end": 28258,
+      "line": 329,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " field.",
+      "source_text": " field."
+    },
+    {
+      "id": "05916d46495a",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28285,
+      "end": 28337,
+      "line": 331,
+      "parent_path": "article/section/section/p/strong",
+      "source_raw": "To export variations instead of exporting once go to",
+      "source_text": "To export variations instead of exporting once go to"
+    },
+    {
+      "id": "12e1af420926",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28351,
+      "end": 28374,
+      "line": 331,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "File/Export Variations…",
+      "source_text": "File/Export Variations…"
+    },
+    {
+      "id": "d8c4a4218b71",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28388,
+      "end": 28433,
+      "line": 331,
+      "parent_path": "article/section/section/p/strong",
+      "source_raw": "in the top left corner of the user interface.",
+      "source_text": "in the top left corner of the user interface."
+    },
+    {
+      "id": "007321ebe06d",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28450,
+      "end": 28454,
+      "line": 332,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "cb2500a13eb4",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28458,
+      "end": 28474,
+      "line": 332,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Export Variation",
+      "source_text": "Export Variation"
+    },
+    {
+      "id": "6e9bd8847dc0",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28479,
+      "end": 28499,
+      "line": 332,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " window will pop up.",
+      "source_text": " window will pop up."
+    },
+    {
+      "id": "81641dd9f231",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28777,
+      "end": 28798,
+      "line": 335,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Number of variations:",
+      "source_text": "Number of variations:"
+    },
+    {
+      "id": "37beb0c84029",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28807,
+      "end": 28863,
+      "line": 335,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The number of times the simulation will run and export.",
+      "source_text": " The number of times the simulation will run and export."
+    },
+    {
+      "id": "951f8d71eb73",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28888,
+      "end": 28914,
+      "line": 336,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Randomize first variation:",
+      "source_text": "Randomize first variation:"
+    },
+    {
+      "id": "a258645425dd",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 28923,
+      "end": 29118,
+      "line": 336,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, all parameters set up for randomization will be given a random value before the first variation is exported. If unchecked, the first variation will use the values you currently have.",
+      "source_text": " If checked, all parameters set up for randomization will be given a random value before the first variation is exported. If unchecked, the first variation will use the values you currently have."
+    },
+    {
+      "id": "5d9f59ce2e93",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29143,
+      "end": 29163,
+      "line": 337,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Save project copies:",
+      "source_text": "Save project copies:"
+    },
+    {
+      "id": "3cbce7e2aecd",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29172,
+      "end": 29398,
+      "line": 337,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, project files for each variation will be stored in a specified location with a specified name. This way, you can reproduce every exported variation since otherwise, you won’t know what random values were assigned.",
+      "source_text": " If checked, project files for each variation will be stored in a specified location with a specified name. This way, you can reproduce every exported variation since otherwise, you won’t know what random values were assigned."
+    },
+    {
+      "id": "d895c4f5c0dc",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29423,
+      "end": 29439,
+      "line": 338,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Nodes to export:",
+      "source_text": "Nodes to export:"
+    },
+    {
+      "id": "ec08fd0bf9a5",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29448,
+      "end": 29555,
+      "line": 338,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Here, you have a list of nodes where you can check the ones you want to use for exporting your variations.",
+      "source_text": " Here, you have a list of nodes where you can check the ones you want to use for exporting your variations."
+    },
+    {
+      "id": "1d8bab3e24fc",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29580,
+      "end": 29587,
+      "line": 339,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Cancel:",
+      "source_text": "Cancel:"
+    },
+    {
+      "id": "74db242099ad",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29596,
+      "end": 29607,
+      "line": 339,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Close the ",
+      "source_text": " Close the "
+    },
+    {
+      "id": "60d24d5d1f26",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29611,
+      "end": 29628,
+      "line": 339,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Export Variations",
+      "source_text": "Export Variations"
+    },
+    {
+      "id": "6e9c78b1b495",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29633,
+      "end": 29658,
+      "line": 339,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " window and don’t export.",
+      "source_text": " window and don’t export."
+    },
+    {
+      "id": "fd2c600ea92e",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29683,
+      "end": 29701,
+      "line": 340,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Export Variations:",
+      "source_text": "Export Variations:"
+    },
+    {
+      "id": "9414acb698e4",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29710,
+      "end": 29743,
+      "line": 340,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Start exporting your variations!",
+      "source_text": " Start exporting your variations!"
+    },
+    {
+      "id": "30a7244b66ea",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29770,
+      "end": 29778,
+      "line": 342,
+      "parent_path": "article/section/section/p/strong",
+      "source_raw": "Example:",
+      "source_text": "Example:"
+    },
+    {
+      "id": "d1043c5531ad",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29795,
+      "end": 29817,
+      "line": 343,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "We’re still using our ",
+      "source_text": "We’re still using our "
+    },
+    {
+      "id": "4ed7296cb719",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29821,
+      "end": 29832,
+      "line": 343,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "myExplosion",
+      "source_text": "myExplosion"
+    },
+    {
+      "id": "f7536aca0139",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29837,
+      "end": 29890,
+      "line": 343,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " project.\nWhen using the settings in the image above:",
+      "source_text": " project.\nWhen using the settings in the image above:"
+    },
+    {
+      "id": "6c66862f9593",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29922,
+      "end": 29968,
+      "line": 346,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "8 variations of my explosion will be exported.",
+      "source_text": "8 variations of my explosion will be exported."
+    },
+    {
+      "id": "3fbddc60d55f",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 29985,
+      "end": 30084,
+      "line": 347,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The first variation will be the exact simulation we currently have (maybe because we like that one)",
+      "source_text": "The first variation will be the exact simulation we currently have (maybe because we like that one)"
+    },
+    {
+      "id": "5482b1ad4a7a",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 30101,
+      "end": 30267,
+      "line": 348,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "A project copy will be saved for each variation storing their settings for later use. The project files will be stored in the project directory in a subfolder called ",
+      "source_text": "A project copy will be saved for each variation storing their settings for later use. The project files will be stored in the project directory in a subfolder called "
+    },
+    {
+      "id": "c1d73d7a740d",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 30298,
+      "end": 30309,
+      "line": 348,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and named ",
+      "source_text": " and named "
+    },
+    {
+      "id": "03ebe5fb2fcd",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 30365,
+      "end": 30370,
+      "line": 348,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " etc.",
+      "source_text": " etc."
+    },
+    {
+      "id": "db9ebefd5afb",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 30387,
+      "end": 30423,
+      "line": 349,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "We just want to export from the one ",
+      "source_text": "We just want to export from the one "
+    },
+    {
+      "id": "8814d1f82513",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 30585,
+      "end": 30591,
+      "line": 349,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Render",
+      "source_text": "Render"
+    },
+    {
+      "id": "8d782501ddbc",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 30596,
+      "end": 30659,
+      "line": 349,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " node so we’re leaving that one checked and the rest unchecked.",
+      "source_text": " node so we’re leaving that one checked and the rest unchecked."
+    },
+    {
+      "id": "0e36fddff286",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 30676,
+      "end": 30699,
+      "line": 350,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "After hitting the blue ",
+      "source_text": "After hitting the blue "
+    },
+    {
+      "id": "7a0fec0183e7",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 30703,
+      "end": 30720,
+      "line": 350,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Export Variations",
+      "source_text": "Export Variations"
+    },
+    {
+      "id": "b71f6447278e",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 30725,
+      "end": 30796,
+      "line": 350,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button and seeing the magic happen we have my eight unique explosions!",
+      "source_text": " button and seeing the magic happen we have my eight unique explosions!"
+    },
+    {
+      "id": "61d3020bf14e",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 31120,
+      "end": 31194,
+      "line": 359,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "76bd1934e313",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 31487,
+      "end": 31491,
+      "line": 374,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "f1d969679342",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 31557,
+      "end": 31560,
+      "line": 376,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "ac409ed973ac",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 31933,
+      "end": 31941,
+      "line": 384,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "3457c5ac2eaa",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 32024,
+      "end": 32034,
+      "line": 387,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "e327e9faffba",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 32220,
+      "end": 32280,
+      "line": 394,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "2bff784d2a6f",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 32286,
+      "end": 32309,
+      "line": 396,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "843cc074ee43",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 32347,
+      "end": 32353,
+      "line": 397,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "a1a045b36cc4",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 32357,
+      "end": 32362,
+      "line": 397,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "61e238cf6bc1",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 32412,
+      "end": 32422,
+      "line": 397,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "dedd12c75db9",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 32426,
+      "end": 32454,
+      "line": 397,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "499f5849dcde",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 32498,
+      "end": 32502,
+      "line": 399,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "c43f97a0a7f0",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 32819,
+      "end": 32855,
+      "line": 414,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "91bc88f7ca32",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 33012,
+      "end": 33025,
+      "line": 421,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "ee800ade26ab",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 33101,
+      "end": 33125,
+      "line": 422,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Setting up randomization",
+      "source_text": "Setting up randomization"
+    },
+    {
+      "id": "69b94f793c4b",
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "start": 33198,
+      "end": 33218,
+      "line": 423,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Exporting variations",
+      "source_text": "Exporting variations"
+    }
+  ]
+}

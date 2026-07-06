@@ -1,0 +1,886 @@
+{
+  "path": "liquigen/pages/references/specific/rangeSlider.html",
+  "segment_count": 88,
+  "segments": [
+    {
+      "id": "1a9523d0bcbd",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 565,
+      "end": 601,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Range Slider - JangaFX Documentation",
+      "source_text": "Range Slider - JangaFX Documentation"
+    },
+    {
+      "id": "ca55908aee79",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 5191,
+      "end": 5214,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "c16856db395c",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 5309,
+      "end": 5339,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "be47066ceae0",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 5535,
+      "end": 5565,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "6c9dda402dd7",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 5756,
+      "end": 5777,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "76a1eb2afd37",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 5970,
+      "end": 6008,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "47d8f7454b00",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 6398,
+      "end": 6430,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "8e317de4a93c",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 7462,
+      "end": 7484,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "ae2eba610372",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 7662,
+      "end": 7694,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "4ab154b8730c",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 7887,
+      "end": 7902,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "351095c93284",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 8034,
+      "end": 8044,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "63ebad342671",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 8222,
+      "end": 8254,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "4daa22be0721",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 8455,
+      "end": 8469,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "22cdb0c137ad",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 8591,
+      "end": 8599,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "29b4295ebfb6",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 8722,
+      "end": 8731,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "fbdbae11adb5",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 8879,
+      "end": 8892,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "93f2feefc629",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 9070,
+      "end": 9102,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "4d0f15030a63",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 9320,
+      "end": 9333,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "c18454a16a83",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 9484,
+      "end": 9503,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "2a4fd04b47e4",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 9638,
+      "end": 9643,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "5a099fdb8492",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 9780,
+      "end": 9787,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "5ed88e3d75e4",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 9921,
+      "end": 9925,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "b6894bbb7bcf",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 10071,
+      "end": 10091,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "8a0f4fb0fe2c",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 10230,
+      "end": 10239,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "5db31f66a85f",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 10380,
+      "end": 10392,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "681367e35b77",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 10531,
+      "end": 10549,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "9db322114a0d",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 10695,
+      "end": 10711,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "678c3ae80f28",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 10862,
+      "end": 10883,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "25a8e042e95d",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 11021,
+      "end": 11029,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "a8b3c688a8fe",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 11168,
+      "end": 11178,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "7f1c71446684",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 11321,
+      "end": 11334,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "620acab71810",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 11464,
+      "end": 11467,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "ad88d3017cfa",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 11582,
+      "end": 11604,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "92de9860dca2",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 11782,
+      "end": 11814,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "4e45774ad325",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 11986,
+      "end": 12001,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "62724a63e370",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 12098,
+      "end": 12108,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "07e0b5d39c35",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 12286,
+      "end": 12318,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "2082aa126a75",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 12484,
+      "end": 12498,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "449e62a6b4fa",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 12585,
+      "end": 12593,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "a3dd295bc3b1",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 12681,
+      "end": 12690,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "ed93c35f86ee",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 12803,
+      "end": 12816,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "4854ff13071d",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 12994,
+      "end": 13026,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "beca0cd4fece",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 13207,
+      "end": 13218,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "accb76614337",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 13334,
+      "end": 13353,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "df888e3c4b59",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 13453,
+      "end": 13458,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "810072920fad",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 13560,
+      "end": 13567,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "74ef96babaf4",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 13666,
+      "end": 13670,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "d978279f61c8",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 13781,
+      "end": 13801,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "1622550d67d0",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 13909,
+      "end": 13922,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "c8a7123a11b9",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 14028,
+      "end": 14040,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "ddca99f2cc64",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 14144,
+      "end": 14162,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "e9d60383f1fc",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 14273,
+      "end": 14289,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "e6312af524fc",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 14405,
+      "end": 14426,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "c3c1550f4898",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 14529,
+      "end": 14537,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "19d38c6a8b1a",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 14645,
+      "end": 14658,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "5520417440e1",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 14764,
+      "end": 14775,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "6fd0fd24b428",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 14884,
+      "end": 14887,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "76c03c5ec5bd",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 15000,
+      "end": 15021,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "afc867c5dc80",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 15121,
+      "end": 15141,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "f68efa473bb5",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 15244,
+      "end": 15266,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "88441e24f252",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 15679,
+      "end": 15690,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "ff2e2c83a920",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 15910,
+      "end": 15948,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "ac22142f8356",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 16367,
+      "end": 16399,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "3d710f9767fe",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 16613,
+      "end": 16625,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "cd7e3b3f096b",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 17048,
+      "end": 17122,
+      "line": 264,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "f89a333bae4c",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 17149,
+      "end": 17207,
+      "line": 268,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The range sliders are used to represent a range of values.",
+      "source_text": "The range sliders are used to represent a range of values."
+    },
+    {
+      "id": "8b78722b3c71",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 17215,
+      "end": 17360,
+      "line": 269,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "It can be used for a variety of things like specifying a range of densities, or specifying a range of values for particles to randomly pick from.",
+      "source_text": "It can be used for a variety of things like specifying a range of densities, or specifying a range of values for particles to randomly pick from."
+    },
+    {
+      "id": "e57efbadf254",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 17392,
+      "end": 17437,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The minimum value of the range can be set by ",
+      "source_text": "The minimum value of the range can be set by "
+    },
+    {
+      "id": "41e7f260c6b9",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 17596,
+      "end": 17623,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking and dragging the ",
+      "source_text": " clicking and dragging the "
+    },
+    {
+      "id": "d37f5f56eb64",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 17794,
+      "end": 17861,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " icon or by typing it into the textfield that appears after single ",
+      "source_text": " icon or by typing it into the textfield that appears after single "
+    },
+    {
+      "id": "c16154c252d4",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 18020,
+      "end": 18061,
+      "line": 271,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking on the left side of the slider.",
+      "source_text": " clicking on the left side of the slider."
+    },
+    {
+      "id": "cf97460924d7",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 18078,
+      "end": 18123,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The maximum value of the range can be set by ",
+      "source_text": "The maximum value of the range can be set by "
+    },
+    {
+      "id": "de5490278057",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 18282,
+      "end": 18309,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking and dragging the ",
+      "source_text": " clicking and dragging the "
+    },
+    {
+      "id": "e46204f47bd1",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 18483,
+      "end": 18550,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " icon or by typing it into the textfield that appears after single ",
+      "source_text": " icon or by typing it into the textfield that appears after single "
+    },
+    {
+      "id": "ca200b68eb85",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 18709,
+      "end": 18751,
+      "line": 272,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking on the right side of the slider.",
+      "source_text": " clicking on the right side of the slider."
+    },
+    {
+      "id": "e99a420ac039",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 18768,
+      "end": 18819,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "The range of values can be offsetted as a whole by ",
+      "source_text": "The range of values can be offsetted as a whole by "
+    },
+    {
+      "id": "98c2c97e3824",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 18978,
+      "end": 19019,
+      "line": 273,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " clicking and dragging within the slider.",
+      "source_text": " clicking and dragging within the slider."
+    },
+    {
+      "id": "d586bca237f6",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 19036,
+      "end": 19052,
+      "line": 274,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "Clicking on the ",
+      "source_text": "Clicking on the "
+    },
+    {
+      "id": "cefc8c58f68d",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 19224,
+      "end": 19273,
+      "line": 274,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " icon will reset the slider to the default range.",
+      "source_text": " icon will reset the slider to the default range."
+    },
+    {
+      "id": "68ef21e5ce69",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 19290,
+      "end": 19454,
+      "line": 275,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "When a minimum value is typed in that’s higher than the maximum value, this value will be the new maximum value and old maximum value will be the new minumum value.",
+      "source_text": "When a minimum value is typed in that’s higher than the maximum value, this value will be the new maximum value and old maximum value will be the new minumum value."
+    },
+    {
+      "id": "e7a26d31b67b",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 19471,
+      "end": 19634,
+      "line": 276,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": "When a maximum value is typed in that’s lower than the minimum value, this value will be the new minimum value and old minimum value will be the new maximum value.",
+      "source_text": "When a maximum value is typed in that’s lower than the minimum value, this value will be the new minimum value and old minimum value will be the new maximum value."
+    },
+    {
+      "id": "02b9529a33bc",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 19900,
+      "end": 19960,
+      "line": 290,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "db93c46dfd68",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 19966,
+      "end": 19989,
+      "line": 292,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "1389e258cf83",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 20027,
+      "end": 20033,
+      "line": 293,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "8bcb4beea165",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 20037,
+      "end": 20042,
+      "line": 293,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "4868a5177c76",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 20092,
+      "end": 20102,
+      "line": 293,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "517745bc911f",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 20106,
+      "end": 20134,
+      "line": 293,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "2da4cf154a88",
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "start": 20178,
+      "end": 20182,
+      "line": 295,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

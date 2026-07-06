@@ -1,0 +1,916 @@
+{
+  "path": "embergen/pages/references/How-To Guides/index.html",
+  "segment_count": 91,
+  "segments": [
+    {
+      "id": "bdfb2edb5c0a",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 694,
+      "end": 731,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "How-To Guides - JangaFX Documentation",
+      "source_text": "How-To Guides - JangaFX Documentation"
+    },
+    {
+      "id": "172eeebc4d0f",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 5321,
+      "end": 5344,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "c9123ee992a5",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 5439,
+      "end": 5469,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "7dcdd55d42bb",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 5665,
+      "end": 5695,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "117a6f9a06cf",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 5886,
+      "end": 5907,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "3347d861201a",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 6100,
+      "end": 6138,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "8fedfa56a393",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 6528,
+      "end": 6560,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "be52e607c8b6",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 7604,
+      "end": 7626,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "675ef3d5f870",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 7815,
+      "end": 7847,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "b62dc930e609",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 8035,
+      "end": 8050,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "9589f8b34756",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 8155,
+      "end": 8165,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "7b00eca8d078",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 8354,
+      "end": 8386,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "2c0f0369d3f1",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 8568,
+      "end": 8582,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "c492c6c5eafb",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 8669,
+      "end": 8677,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "5e838b23a4d3",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 8765,
+      "end": 8774,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "73568052ad3b",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 8888,
+      "end": 8901,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "3e5c197fabae",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 9090,
+      "end": 9122,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "2538ed2fa65d",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 9286,
+      "end": 9299,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "00f736cc9e1f",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 9396,
+      "end": 9415,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "3f16d66b59ff",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 9496,
+      "end": 9501,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "453f93c24324",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 9584,
+      "end": 9591,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "136e86c00792",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 9671,
+      "end": 9675,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "a88efe66f6cb",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 9767,
+      "end": 9787,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "5ef6c80e02c3",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 9872,
+      "end": 9881,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "3c592a2392ad",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 9968,
+      "end": 9980,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "505fe04fdcbe",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 10065,
+      "end": 10083,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "9c288aaed9f7",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 10175,
+      "end": 10191,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "ea12d904574b",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 10288,
+      "end": 10309,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "b40d40095ea4",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 10393,
+      "end": 10401,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "1d755985a921",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 10486,
+      "end": 10496,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "a2c639e148f1",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 10585,
+      "end": 10598,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "2f59c06e1fdc",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 10707,
+      "end": 10710,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "ab477a20cec4",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 10837,
+      "end": 10859,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "37f08a29b063",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 11037,
+      "end": 11069,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "acd28d40b4b0",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 11262,
+      "end": 11277,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "261a15991448",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 11409,
+      "end": 11419,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "3d8e9fa50d2c",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 11597,
+      "end": 11629,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "5bfa3a6a8e30",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 11830,
+      "end": 11844,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "3e6c6e67850a",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 11966,
+      "end": 11974,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "939983a22646",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 12097,
+      "end": 12106,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "7c1f60de7a78",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 12254,
+      "end": 12267,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "da4bc90f313e",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 12445,
+      "end": 12477,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "38927000e6df",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 12693,
+      "end": 12704,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "4409bee580fc",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 12855,
+      "end": 12874,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "8b4528c437cc",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 13009,
+      "end": 13014,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "6d3344f3d0f0",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 13151,
+      "end": 13158,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "27d0925fb46f",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 13292,
+      "end": 13296,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "8cb8f8d10adb",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 13442,
+      "end": 13462,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "2b6a407c63fb",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 13605,
+      "end": 13618,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "a4138dbc1857",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 13759,
+      "end": 13771,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "54c9f9939390",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 13910,
+      "end": 13928,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "19f481ac8091",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 14074,
+      "end": 14090,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "adcba63a5e84",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 14241,
+      "end": 14262,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "3dca177c44bf",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 14400,
+      "end": 14408,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "463c5385682d",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 14551,
+      "end": 14564,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "09c860ba43be",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 14705,
+      "end": 14716,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "92c80cc7401d",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 14846,
+      "end": 14849,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "b7f33052cd36",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 14962,
+      "end": 14983,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "c11eb8afefdc",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 15083,
+      "end": 15103,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "4bdf4ac09d2c",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 15206,
+      "end": 15228,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "53928e952adf",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 15641,
+      "end": 15652,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "aa18bd8403b9",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 15872,
+      "end": 15910,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "b8eb98a6ff48",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 16329,
+      "end": 16361,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "5b3cf1448f95",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 16579,
+      "end": 16592,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "460657369679",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 16997,
+      "end": 17071,
+      "line": 264,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "83dfe5e7ef98",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 17098,
+      "end": 17143,
+      "line": 268,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Small tutorials on how to do specific things.",
+      "source_text": "Small tutorials on how to do specific things."
+    },
+    {
+      "id": "e72abd8168f6",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 17271,
+      "end": 17284,
+      "line": 271,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "05fc884235ee",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 17381,
+      "end": 17400,
+      "line": 272,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "1eb3a9806c26",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 17481,
+      "end": 17486,
+      "line": 273,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "03cfe59a6651",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 17569,
+      "end": 17576,
+      "line": 274,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "7019f7291bba",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 17656,
+      "end": 17660,
+      "line": 275,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "d58df21e86c3",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 17752,
+      "end": 17772,
+      "line": 276,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "7edf06a66697",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 17857,
+      "end": 17866,
+      "line": 277,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "28f32bb5a895",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 17953,
+      "end": 17965,
+      "line": 278,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "ee4fd11f317a",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 18050,
+      "end": 18068,
+      "line": 279,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "4d1ddacc1287",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 18160,
+      "end": 18176,
+      "line": 280,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "9800ef6f8d2b",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 18273,
+      "end": 18294,
+      "line": 281,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "b8bd115a2778",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 18378,
+      "end": 18386,
+      "line": 282,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "6e9a54056c30",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 18471,
+      "end": 18481,
+      "line": 283,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "cd8a46edbc9c",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 18570,
+      "end": 18583,
+      "line": 284,
+      "parent_path": "section/div/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "bce009f044a9",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 18868,
+      "end": 18872,
+      "line": 297,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "2b29ca7d70b1",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 18938,
+      "end": 18951,
+      "line": 299,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "fad3969cb824",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 19327,
+      "end": 19335,
+      "line": 307,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "9fa322fd9963",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 19418,
+      "end": 19427,
+      "line": 310,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "4824e3228e98",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 19613,
+      "end": 19673,
+      "line": 317,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "b65565627cf5",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 19679,
+      "end": 19702,
+      "line": 319,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "557ef56fdb3a",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 19740,
+      "end": 19746,
+      "line": 320,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "364002b93322",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 19750,
+      "end": 19755,
+      "line": 320,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "dd352cfa9024",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 19805,
+      "end": 19815,
+      "line": 320,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "c69680d110c7",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 19819,
+      "end": 19847,
+      "line": 320,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "2d281a6ca9d5",
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "start": 19891,
+      "end": 19895,
+      "line": 322,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

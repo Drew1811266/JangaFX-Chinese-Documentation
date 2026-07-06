@@ -1,0 +1,1036 @@
+{
+  "path": "liquigen/pages/references/How-To Guides/palettes.html",
+  "segment_count": 103,
+  "segments": [
+    {
+      "id": "4ea3bd643f81",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 715,
+      "end": 747,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Palettes - JangaFX Documentation",
+      "source_text": "Palettes - JangaFX Documentation"
+    },
+    {
+      "id": "651c049513b8",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 5337,
+      "end": 5360,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "b3d2fb506f03",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 5455,
+      "end": 5485,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "c37d258e8bdf",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 5681,
+      "end": 5711,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "6ab9e9c758cc",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 5902,
+      "end": 5923,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "3b6f8d680c82",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 6116,
+      "end": 6154,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "649c577c9080",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 6544,
+      "end": 6576,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "08ed72684f81",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 7624,
+      "end": 7646,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "59638a6d7649",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 7824,
+      "end": 7856,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "8f7a2bde2d32",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 8049,
+      "end": 8064,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "12fe875286cc",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 8196,
+      "end": 8206,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "b97e1ee7957a",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 8384,
+      "end": 8416,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "1c624f06817c",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 8617,
+      "end": 8631,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "5c9cb8593b7e",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 8753,
+      "end": 8761,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "fe24782a8cd5",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 8884,
+      "end": 8893,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "e229c7e024e8",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 9041,
+      "end": 9054,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "3d0ce4f8d8fc",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 9232,
+      "end": 9264,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "e6611c7f9c79",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 9482,
+      "end": 9495,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "46c610ac85cf",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 9646,
+      "end": 9665,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "7eb414344d05",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 9800,
+      "end": 9805,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "861f12b58b85",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 9942,
+      "end": 9949,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "04b952b22e0c",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 10083,
+      "end": 10087,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "d8e840349ec4",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 10233,
+      "end": 10253,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "fdd4704b7af4",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 10392,
+      "end": 10401,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "9abafa3a13a0",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 10542,
+      "end": 10554,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "9f69b5b62945",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 10693,
+      "end": 10711,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "0f1c0fef4881",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 10857,
+      "end": 10873,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "eeb8caed1aa8",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 11024,
+      "end": 11045,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "87e6e23bc448",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 11183,
+      "end": 11191,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "06f424a3b391",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 11330,
+      "end": 11340,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "4c7fda7cbe17",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 11483,
+      "end": 11496,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "92a796d05ba5",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 11626,
+      "end": 11629,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "329a7f552ef0",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 11752,
+      "end": 11774,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "c65491a0d8b8",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 11963,
+      "end": 11995,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "0d5d2fba8a71",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 12183,
+      "end": 12198,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "97102d75387e",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 12303,
+      "end": 12313,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "f5fa28ef7cf1",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 12502,
+      "end": 12534,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "89a5c12f3866",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 12716,
+      "end": 12730,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "87cded801fad",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 12817,
+      "end": 12825,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "4012c7c03b96",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 12913,
+      "end": 12922,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "c2b06ff88c07",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 13024,
+      "end": 13037,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "896a2d857bfa",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 13226,
+      "end": 13258,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "45bf40b986b5",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 13436,
+      "end": 13447,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "a44669b495b9",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 13544,
+      "end": 13563,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "b05a4764f055",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 13644,
+      "end": 13649,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "eb6c1e92c76f",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 13732,
+      "end": 13739,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "faf0acf60ca6",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 13819,
+      "end": 13823,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "19e0c19c4e12",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 13915,
+      "end": 13935,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "9af802c00fc2",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 14024,
+      "end": 14037,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "957298dbde53",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 14124,
+      "end": 14136,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "3efedc311a50",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 14221,
+      "end": 14239,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "7b22c45cfd4a",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 14331,
+      "end": 14347,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "2838335d316d",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 14444,
+      "end": 14465,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "dec7b5ea5aea",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 14566,
+      "end": 14574,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "155cc8c0ae5f",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 14663,
+      "end": 14676,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "eac602451b1e",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 14763,
+      "end": 14774,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "fde4a05b4352",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 14883,
+      "end": 14886,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "fc6dee447be0",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 14999,
+      "end": 15020,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "7e3f669f82fa",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 15120,
+      "end": 15140,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "814b673aa20c",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 15243,
+      "end": 15265,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "52c73f15da9e",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 15678,
+      "end": 15689,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "d292373b95e3",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 15909,
+      "end": 15947,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "1835de2770bb",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 16366,
+      "end": 16398,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "8847be7edf42",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 16578,
+      "end": 16586,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "4520e6985fad",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 16673,
+      "end": 16752,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Palettes are temporary windows that can be opened to quickly find or do things.",
+      "source_text": "Palettes are temporary windows that can be opened to quickly find or do things."
+    },
+    {
+      "id": "584ce6199dd5",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 16760,
+      "end": 16781,
+      "line": 258,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "There are 3 palettes:",
+      "source_text": "There are 3 palettes:"
+    },
+    {
+      "id": "8cc786524bdd",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 16821,
+      "end": 16837,
+      "line": 260,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Command Palette:",
+      "source_text": "Command Palette:"
+    },
+    {
+      "id": "d21b4901b022",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 16853,
+      "end": 16866,
+      "line": 260,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + Return",
+      "source_text": "Ctrl + Return"
+    },
+    {
+      "id": "d0fb891315dd",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 16873,
+      "end": 16929,
+      "line": 260,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " This will pop up a list of all available commands like ",
+      "source_text": " This will pop up a list of all available commands like "
+    },
+    {
+      "id": "c25d76168562",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 16933,
+      "end": 16945,
+      "line": 260,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Center Graph",
+      "source_text": "Center Graph"
+    },
+    {
+      "id": "fe503f9e9894",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 16950,
+      "end": 16954,
+      "line": 260,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "ae4300e1d69a",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 16958,
+      "end": 16962,
+      "line": 260,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Undo",
+      "source_text": "Undo"
+    },
+    {
+      "id": "0ca5a2fb19ef",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 16992,
+      "end": 17010,
+      "line": 261,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Parameter Palette:",
+      "source_text": "Parameter Palette:"
+    },
+    {
+      "id": "2ebd3e088766",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17026,
+      "end": 17034,
+      "line": 261,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + P",
+      "source_text": "Ctrl + P"
+    },
+    {
+      "id": "a63f05f504ba",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17041,
+      "end": 17099,
+      "line": 261,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " This will pop up a list of all available parameters like ",
+      "source_text": " This will pop up a list of all available parameters like "
+    },
+    {
+      "id": "36e8be176d2e",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17103,
+      "end": 17113,
+      "line": 261,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Stickiness",
+      "source_text": "Stickiness"
+    },
+    {
+      "id": "887610d0d5f9",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17118,
+      "end": 17122,
+      "line": 261,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "b8e774d0ced8",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17126,
+      "end": 17145,
+      "line": 261,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Index of refraction",
+      "source_text": "Index of refraction"
+    },
+    {
+      "id": "408d6097e940",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17150,
+      "end": 17207,
+      "line": 261,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " which can be very useful for quickly finding parameters.",
+      "source_text": " which can be very useful for quickly finding parameters."
+    },
+    {
+      "id": "a0d1ed1b7727",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17232,
+      "end": 17248,
+      "line": 262,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Project Palette:",
+      "source_text": "Project Palette:"
+    },
+    {
+      "id": "a93b8f95f168",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17264,
+      "end": 17280,
+      "line": 262,
+      "parent_path": "section/ul/li/p/cite",
+      "source_raw": "Ctrl + Shift + O",
+      "source_text": "Ctrl + Shift + O"
+    },
+    {
+      "id": "fb1ba0d83c26",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17287,
+      "end": 17459,
+      "line": 262,
+      "parent_path": "article/section/ul/li/p",
+      "source_raw": " This will pop up a list of the last 100 opened LiquiGen presets which can be very useful for finding a recently opened preset that can be stored anywhere on your computer.",
+      "source_text": " This will pop up a list of the last 100 opened LiquiGen presets which can be very useful for finding a recently opened preset that can be stored anywhere on your computer."
+    },
+    {
+      "id": "ae6b7f3b1183",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17478,
+      "end": 17654,
+      "line": 264,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Each one of these palettes has a search bar where you can start typing what you are looking for and the list will change based on that. To clear the text field you can use the ",
+      "source_text": "Each one of these palettes has a search bar where you can start typing what you are looking for and the list will change based on that. To clear the text field you can use the "
+    },
+    {
+      "id": "6db0442c0f7c",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17818,
+      "end": 17837,
+      "line": 264,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " icon on the right.",
+      "source_text": " icon on the right."
+    },
+    {
+      "id": "31e4700a26ba",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17845,
+      "end": 17932,
+      "line": 265,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "You can select a list item by hovering over it with your mouse or using the arrow keys.",
+      "source_text": "You can select a list item by hovering over it with your mouse or using the arrow keys."
+    },
+    {
+      "id": "317914d411f6",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 17940,
+      "end": 17980,
+      "line": 266,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The list items can be executed by using ",
+      "source_text": "The list items can be executed by using "
+    },
+    {
+      "id": "8cfd95d79b04",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 18139,
+      "end": 18149,
+      "line": 266,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " click or ",
+      "source_text": " click or "
+    },
+    {
+      "id": "d04c5354da08",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 18155,
+      "end": 18161,
+      "line": 266,
+      "parent_path": "div/article/section/p/cite",
+      "source_raw": "Return",
+      "source_text": "Return"
+    },
+    {
+      "id": "2c2d9a190e3f",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 18176,
+      "end": 18236,
+      "line": 267,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "To close a palette, you can either use a command, click the ",
+      "source_text": "To close a palette, you can either use a command, click the "
+    },
+    {
+      "id": "748d85ad9ed2",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 18242,
+      "end": 18245,
+      "line": 267,
+      "parent_path": "div/article/section/p/cite",
+      "source_raw": "Esc",
+      "source_text": "Esc"
+    },
+    {
+      "id": "9dc0ba0afc38",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 18252,
+      "end": 18260,
+      "line": 267,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " key or ",
+      "source_text": " key or "
+    },
+    {
+      "id": "66ed033878ce",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 18419,
+      "end": 18440,
+      "line": 267,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " click outside of it.",
+      "source_text": " click outside of it."
+    },
+    {
+      "id": "90a741bc7680",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 18793,
+      "end": 18797,
+      "line": 279,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "eb5809bbf5f5",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 18863,
+      "end": 18876,
+      "line": 281,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "2c15a820552a",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 19261,
+      "end": 19269,
+      "line": 289,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "b9c9c1875728",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 19352,
+      "end": 19373,
+      "line": 292,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "94bdf23c5412",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 19559,
+      "end": 19619,
+      "line": 299,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "f7dcba8ac9c9",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 19625,
+      "end": 19648,
+      "line": 301,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "4589d587a05e",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 19686,
+      "end": 19692,
+      "line": 302,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "ad7f05b3556f",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 19696,
+      "end": 19701,
+      "line": 302,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "8f1906fc2e90",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 19751,
+      "end": 19761,
+      "line": 302,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "86cd27eeef23",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 19765,
+      "end": 19793,
+      "line": 302,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "c72fe22c94cf",
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "start": 19837,
+      "end": 19841,
+      "line": 304,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

@@ -1,0 +1,3402 @@
+{
+  "path": "liquigen/pages/getting_started.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "ff8b5865736b",
+      "source": "Getting Started - JangaFX Documentation",
+      "target": "入门 - JangaFX 文档",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "6435f95644e6",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "ebca998f8f61",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "b5218d9b183a",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "43e8460e579d",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "283d9d1f1144",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "f035e61d3f63",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "6bee2816590f",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "ef8992d97eeb",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "b2a36075f2fb",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "3a8f35024560",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "651158e668d1",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "54368c2aa223",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "b294a09dc0cf",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "deea558f8ff8",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "57980eea3026",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "2b6e0f1bbd66",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "510c82b5701c",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "35387da182ea",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "b8d3a8e4ba55",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "d2490079b04b",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "1bffd390e6a9",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "2ad6ec83524e",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "54dffe287a3c",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "178d6000b565",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "52ddedfeb0fd",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "46d1ae832f7f",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "bba34cc25c78",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "2e29e999e11b",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "f6f4ea0acb0f",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "0f4160b83f22",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "67fd61b0a530",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "46ed6488a321",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "83c491c09ffc",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "ea955cc0693f",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "f1046b392411",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "10dc965fd58f",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "d5a754543ae0",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "d1a76a9b7733",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "4fad5dc28507",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "d22f32b5be62",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "196dbcc14d1a",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "ecc0d9612613",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "5e4db4508281",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "ea01f01928da",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "87088a2e107b",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "febe564e99f3",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "394379466cf9",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "17f25499e13c",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "8d1acfb7a8d1",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "5a05b619a124",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "aef6109c9684",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "6d9f9817b354",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "004943207da8",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "40c647570c55",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "2e7b2c5015d4",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "c47263987511",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "7dac778b6887",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "863e00b032fd",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "1d93d00b0af1",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "9d78585ecf39",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "c1e32d19e92b",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "5b949297c9d4",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "f35e3ecc2a66",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "50fb6faf05d1",
+      "source": "Installing LiquiGen",
+      "target": "安装 LiquiGen",
+      "note": "translation memory"
+    },
+    {
+      "id": "36d00b8fc0e6",
+      "source": "Download",
+      "target": "下载",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "27a0769b3c36",
+      "source": "If you have a license already go to ",
+      "target": "如果你已经拥有许可证，请前往 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "142c4f258342",
+      "source": "Specify your desired release on the left (latest by default) and click the blue download button on the right.",
+      "target": "在左侧指定你想要的版本（默认是最新版），然后点击右侧的蓝色下载按钮。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "743e337f6430",
+      "source": "To get your trial go to ",
+      "target": "若要获取试用版，请前往 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "9beb399996a5",
+      "source": "There you’ll be greeted by a form!",
+      "target": "页面会显示一个表单。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "42c0c3743b8b",
+      "source": "Your e-mail address and the second checkbox (which allows us to store the information given in the form) are required.",
+      "target": "电子邮箱地址以及第二个复选框是必填项；该复选框允许我们保存表单中提供的信息。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "2b9df3305d28",
+      "source": "After filling out the form, pick your operating system at the bottom (Windows or Linux) and click the ",
+      "target": "填写完表单后，在底部选择你的操作系统（Windows 或 Linux），然后点击 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "6ac3db9b5d94",
+      "source": "Download LiquiGen",
+      "target": "Download LiquiGen",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d9d7b5e5588d",
+      "source": " button.",
+      "target": " 按钮。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "3de0cf042406",
+      "source": "The ",
+      "target": "随后 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "151d806bb676",
+      "source": "liquigen-latest.exe",
+      "target": "liquigen-latest.exe",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "792478275a47",
+      "source": " file will be downloaded to your hard drive.",
+      "target": " 文件会下载到你的硬盘。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "20c9e86a0ac7",
+      "source": "Installing",
+      "target": "安装",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "3ecb5d51c98b",
+      "source": "Double click the ",
+      "target": "双击 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "47af54c2cf0d",
+      "source": ".exe",
+      "target": ".exe",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8793869efe37",
+      "source": " file.",
+      "target": " 文件。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "c96b73c6e447",
+      "source": "Accept the agreement.",
+      "target": "接受协议。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "d3cf4ad4e113",
+      "source": "Click ",
+      "target": "点击 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "7a4aedea3003",
+      "source": "Next",
+      "target": "Next",
+      "note": "stage 2B audit fix"
+    },
+    {
+      "id": "88b2dd37e3a6",
+      "source": "Next",
+      "target": "Next",
+      "note": "stage 2B audit fix"
+    },
+    {
+      "id": "a1b50bd109d8",
+      "source": "Install",
+      "target": "Install",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "ba6365094f3a",
+      "source": "Finish",
+      "target": "Finish",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "80d1873c2ebe",
+      "source": "If you left ",
+      "target": "如果你保留 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "a4175c546aa2",
+      "source": "Launch LiquiGen",
+      "target": "Launch LiquiGen",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "7231bdc36e67",
+      "source": " checked, the software will boot right away!",
+      "target": " 为勾选状态，软件会立即启动。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "e72435e04694",
+      "source": "If you unchecked ",
+      "target": "如果你取消勾选 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "580789fbdfc9",
+      "source": "Launch LiquiGen",
+      "target": "Launch LiquiGen",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "451088edc2bb",
+      "source": " you can launch the software by double-clicking on the desktop shortcut.",
+      "target": "，可以通过双击桌面快捷方式启动软件。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "8862418106a2",
+      "source": "If you also unchecked ",
+      "target": "如果你同时取消勾选 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "fcba9dce10af",
+      "source": "Create a desktop shortcut",
+      "target": "Create a desktop shortcut",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "dda41c3e8e9f",
+      "source": " you can launch LiquiGen by double-clicking on the ",
+      "target": "，可以双击 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "9404169f9655",
+      "source": "LiquiGen.exe",
+      "target": "LiquiGen.exe",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "b5ef9b13bce5",
+      "source": " file in the ",
+      "target": " 文件来启动 LiquiGen；该文件位于 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "327270ef2520",
+      "source": "LiquiGen",
+      "target": "LiquiGen",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d6b6db15e09f",
+      "source": " folder usually found in ",
+      "target": " 文件夹中，该文件夹通常位于 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "ffb982661e3a",
+      "source": "Licensing",
+      "target": "许可",
+      "note": "translation memory"
+    },
+    {
+      "id": "bd696d28b7a3",
+      "source": "After installation is complete, run liquigen and in the ",
+      "target": "安装完成后，运行 LiquiGen，然后在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "41203b66b5de",
+      "source": "Help",
+      "target": "Help",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "73d3072f89ca",
+      "source": " menu, click ",
+      "target": " 菜单中点击 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "108bc25af652",
+      "source": "License Manager…",
+      "target": "License Manager…",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "de68621885b3",
+      "source": " to launch it.",
+      "target": " 来打开它。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "70e0005766c3",
+      "source": "Within this license manager, enter your license key in the ‘Key’ text box.",
+      "target": "在许可证管理器中，将你的许可证密钥输入到 “Key” 文本框。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "e2cc0b76a6f0",
+      "source": "Then press the ",
+      "target": "然后按下 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "5cb18e727668",
+      "source": "Activate Key",
+      "target": "Activate Key",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "023d66dae614",
+      "source": " button. The status text will change from ",
+      "target": " 按钮。如果许可证成功激活，状态文字会从 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "06efe60dcc55",
+      "source": "Deactivated",
+      "target": "Deactivated",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "83d6821fc3d1",
+      "source": " to ",
+      "target": " 变为 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "21027dc7ce02",
+      "source": "Activated",
+      "target": "Activated",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "75c91a00faf1",
+      "source": " if the license was activated successfully.",
+      "target": "。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "7af1a98c2d49",
+      "source": "If any errors occur they will appear in yellow on the right. If you cannot get your key to activate, email us at ",
+      "target": "如果出现任何错误，它们会以黄色显示在右侧。如果你的密钥无法激活，请通过电子邮件联系我们：",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "0670f58634ee",
+      "source": "support",
+      "target": "support",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "6aa817d69e03",
+      "source": "jangafx",
+      "target": "jangafx",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "1808fade5c9c",
+      "source": "com",
+      "target": "com",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "e4c623852cc5",
+      "source": " using the blue ",
+      "target": "，并使用右上角蓝色的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "86160b3ac7cd",
+      "source": "Contact Support",
+      "target": "Contact Support",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d92d14ff11f6",
+      "source": " button in the top right corner with a screenshot of the errors.",
+      "target": " 按钮，同时附上错误截图。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "2727d9731999",
+      "source": "If you don’t have a license key you can purchase one from our ",
+      "target": "如果你没有许可证密钥，可以在我们的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "9a5e30d34c5b",
+      "source": "pricing page on our website",
+      "target": "官网价格页面",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "4994ff217f68",
+      "source": ". You can go there using the blue “Purchase A License” button!",
+      "target": " 上购买。你也可以使用蓝色的 “Purchase A License（购买许可证）” 按钮前往该页面。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "8af23e350aeb",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "2283222260dd",
+      "source": "Using LiquiGen",
+      "target": "使用 LiquiGen",
+      "note": "translation memory"
+    },
+    {
+      "id": "2f75f1278547",
+      "source": "Welcome to liquigen!",
+      "target": "欢迎使用 LiquiGen！",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "c1cf25c99c8a",
+      "source": "In this section, you will learn the basics of our software to get started making amazing liquid simulations for your games or movies.",
+      "target": "在本节中，你将学习软件的基础知识，开始为游戏或影视制作出色的液体模拟。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "58dbc6254e7b",
+      "source": "Project Manager",
+      "target": "项目管理器",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "64e67acd0ae8",
+      "source": "When you first open the software you’ll see the project manager. You can always get to or leave this screen using the home icon ",
+      "target": "首次打开软件时，你会看到项目管理器。你随时可以点击 ",
+      "note": "stage 2B audit fix"
+    },
+    {
+      "id": "653d2201373d",
+      "source": " in the top left corner.",
+      "target": " 这个左上角的 Home 图标进入或离开该界面。",
+      "note": "stage 2B audit fix"
+    },
+    {
+      "id": "5d2724d24da5",
+      "source": "The Project Manager is where you can quickly get to presets or your project files by picking a category on the left.",
+      "target": "在项目管理器中，你可以通过选择左侧的分类，快速访问预设或自己的项目文件。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "c76912da1672",
+      "source": "Presets are, ",
+      "target": "预设是随 LiquiGen 一起提供的只读 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "001161a2bdbf",
+      "source": ".liquigen",
+      "target": ".liquigen",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8e9574f7c9de",
+      "source": ", read-only, project files shipped with liquigen.",
+      "target": " 项目文件。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "53c03ea1b121",
+      "source": "They can serve as a nice starting point for the simulations you want to create or as a reference to learn from.",
+      "target": "它们既可以作为你要创建的模拟的良好起点，也可以作为学习参考。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "b77739125ecd",
+      "source": "When not using a preset, make sure you start from the correct scale template to get to your desired results the best and easiest way!",
+      "target": "不使用预设时，请确保从正确的比例模板开始，这样才能以最佳且最简单的方式获得想要的结果。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "e6430e6ba1de",
+      "source": "Presets are stored in the presets folders within the LiquiGen installation folder. (usually ",
+      "target": "预设存放在 LiquiGen 安装文件夹内的 presets 文件夹中。（通常为 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "f3ca4b6065c4",
+      "source": "Note that there is no difference between a preset and any other ",
+      "target": "请注意，预设与其他 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "624a3b5f9d04",
+      "source": ".liquigen",
+      "target": ".liquigen",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "0bbe712b63d6",
+      "source": " file.",
+      "target": " 文件没有区别。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8ac1f1bf71b4",
+      "source": "If you can’t find the project you are looking for, you can click the ",
+      "target": "如果找不到要使用的项目，可以点击 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "2a101fcff897",
+      "source": "Open Project",
+      "target": "Open Project",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d13484a6beaa",
+      "source": " button to manually search for your ",
+      "target": " 按钮，通过文件浏览器手动查找你的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "b37ae29970c6",
+      "source": ".liquigen",
+      "target": ".liquigen",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d337657fc0d0",
+      "source": " file using the file browser.",
+      "target": " 文件。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "4b69c914c0b0",
+      "source": "New Project",
+      "target": "New Project",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "7a44058434ae",
+      "source": " will load the default preset. Like any preset everything about this can be altered so don’t worry if it doesn’t look like what you are aiming for.",
+      "target": " 会加载默认预设。和任何预设一样，其中的所有内容都可以修改，所以即使它看起来不像你的目标效果也不用担心。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "568a01605ce5",
+      "source": "You can save your presets with ",
+      "target": "你可以使用 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "fb1699e7c282",
+      "source": "Ctrl+S",
+      "target": "Ctrl+S",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "957674b42fbe",
+      "source": " or by going to ",
+      "target": " 保存预设，或前往 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "db556dcae3f9",
+      "source": "File > Save",
+      "target": "File > Save",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "662a2311dad0",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "a7f3033d372f",
+      "source": "Let’s have a look at the main user interface!",
+      "target": "我们来看一下主用户界面。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "15ba51fee64b",
+      "source": "As you can see it is subdivided into four sections, the viewport, the timeline editor, the node editor and the properties panel.",
+      "target": "如你所见，它分为四个区域：视口、时间轴编辑器、节点编辑器和属性面板。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "090e7e6d0531",
+      "source": "All of these can be scaled to your liking, by holding down ",
+      "target": "这些区域都可以按你的偏好缩放：按住 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "44a804d3d750",
+      "source": " and dragging the edges of the section, or viewed full screen by clicking the ",
+      "target": " 并拖动区域边缘即可调整大小；也可以点击每个区域右上角的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "2fbf61c2f865",
+      "source": "Toggle panel fullscreen button",
+      "target": "切换面板全屏按钮",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "e4d7ed81bc10",
+      "source": " in the top right corner of each section.",
+      "target": " 以全屏查看。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "cd8994ba32bc",
+      "source": "Viewport",
+      "target": "视口",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "194c0dbc7fd5",
+      "source": "This is where you can view your simulations, shapes, forces or anything that’s in the scene.",
+      "target": "这里用于查看模拟、形状、力场以及场景中的其他内容。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "72b21fb1dad1",
+      "source": "You can move the camera around by holding down ",
+      "target": "你可以在视口中按住 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "c14c9a36bb85",
+      "source": " in the viewport and pressing ",
+      "target": "，并配合按下 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "f6439d1dc1ba",
+      "source": "Alt",
+      "target": "Alt",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "a411d1678bee",
+      "source": " to pan, ",
+      "target": " 进行平移，",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d26f4490d91b",
+      "source": "Ctrl",
+      "target": "Ctrl",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d39b03c5cd96",
+      "source": " to zoom and ",
+      "target": " 进行缩放，",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "6e25595d2b05",
+      "source": "Shift",
+      "target": "Shift",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "a927534e62bd",
+      "source": " to tilt.",
+      "target": " 进行倾斜。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "530b379d063d",
+      "source": "If you are used to another control scheme, in the top menu bar go to ",
+      "target": "如果你习惯其他控制方案，可以在顶部菜单栏前往 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "6accdecb937a",
+      "source": "Settings>Preferences",
+      "target": "Settings>Preferences",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d64aca54ce77",
+      "source": " then in the ",
+      "target": "，然后在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "2a0df108bfe0",
+      "source": "Camera",
+      "target": "Camera",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "2bfd21eb46af",
+      "source": " section you can change the ",
+      "target": " 部分中按你的偏好修改 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "bef8e3102813",
+      "source": "Control Mapping",
+      "target": "Control Mapping",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d3f488a86ce7",
+      "source": " to your liking.",
+      "target": "。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "6e66dcf555a6",
+      "source": "On the top of the viewport, you will find a couple of tabs and dropdown menus:",
+      "target": "在视口顶部，你会看到几个选项卡和下拉菜单：",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "061be005592c",
+      "source": "Scene",
+      "target": "Scene",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "630bbc2a9259",
+      "source": " is the default tab where you can view and manipulate everything.",
+      "target": " 是默认选项卡，可用于查看和操作所有内容。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "7f39a0633094",
+      "source": "Render",
+      "target": "Render",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "c959ec3b929b",
+      "source": " is the tab where you can preview what will be exported.",
+      "target": " 选项卡用于预览将要导出的内容。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "e40f585e7cb9",
+      "source": "Export",
+      "target": "Export",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "fadb7b0f6cf6",
+      "source": " is the tab where the exported images can be viewed.",
+      "target": " 选项卡用于查看已导出的图像。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "1662ae89be30",
+      "source": "Right next to the ",
+      "target": "在 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "90a5e402738a",
+      "source": "Export",
+      "target": "Export",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4fbb661f10ad",
+      "source": " tab is a dropdown menu to select the ",
+      "target": " 选项卡旁边有一个下拉菜单，可选择要从中观察的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "922e06ba573b",
+      "source": " camera you want to look through.",
+      "target": " 摄像机。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "1a292458d35d",
+      "source": "The ",
+      "target": "使用 ",
+      "note": "stage 2B audit fix"
+    },
+    {
+      "id": "3397c9bb9a61",
+      "source": "View",
+      "target": "View",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "2f434b87d6c2",
+      "source": " dropdown menu will give you a list of things to show or hide in the viewport.",
+      "target": " 下拉菜单可以查看可在视口中显示或隐藏的内容。",
+      "note": "stage 2B audit fix"
+    },
+    {
+      "id": "193e5f7cc48e",
+      "source": "If you are missing or annoyed by something in the viewport this is the first place to look!",
+      "target": "如果视口中缺少某些内容，或某些显示项让你分心，首先应检查这里。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "633fe1212828",
+      "source": "Timeline Editor",
+      "target": "时间轴编辑器",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "b3154c3b9e46",
+      "source": "This is where time is visualized from left to right.",
+      "target": "这里从左到右可视化时间。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "053831ec3778",
+      "source": "You can ",
+      "target": "你可以",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "5ad5849991bf",
+      "source": "play",
+      "target": "播放",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8b728516c0d6",
+      "source": " or ",
+      "target": "或",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "e00b3ed1b26e",
+      "source": "pause",
+      "target": "暂停",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4de7d07a5597",
+      "source": " the simulation using ",
+      "target": " 模拟，使用 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "7ced12b2c8a6",
+      "source": " or ",
+      "target": "或",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "6d4463cb4193",
+      "source": "spacebar",
+      "target": "spacebar",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "745ee3a30f48",
+      "source": "You can ",
+      "target": "你可以",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "5b6376ece605",
+      "source": "reset",
+      "target": "重置",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "6971df0f570a",
+      "source": " the simulation (revert to the beginning of the timeline) using ",
+      "target": " 模拟（回到时间轴开头），使用 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "bffc28e9a03d",
+      "source": " or ",
+      "target": "或",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "002949d896dd",
+      "source": "If you forget a shortcut you can hover your mouse over a button to see its shortcut key.\nOr go to the ",
+      "target": "如果忘记某个快捷键，可以将鼠标悬停在按钮上查看它的快捷键。\n也可以前往 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "68a2d802cc47",
+      "source": "Shortcuts",
+      "target": "Shortcuts",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "5ca585bbe742",
+      "source": " section in ",
+      "target": " 部分，位于 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "ae34ac31cd69",
+      "source": "Settings>Preferences",
+      "target": "Settings>Preferences",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "c400a7fe4404",
+      "source": "When playing from the start you can see a blue line moving. This indicates what the current time on the timeline is.",
+      "target": "从开头播放时，你会看到一条蓝线移动。它表示时间轴上的当前时间。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "8e7a7074abac",
+      "source": "The numbers next to the buttons show the current time in frames and seconds.\nWhen clicking on the left one of these, the timeline will toggle from showing frames or showing seconds.",
+      "target": "按钮旁边的数字会以帧和秒显示当前时间。\n点击左侧的数值时，时间轴会在显示帧数和显示秒数之间切换。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "8a1cec66d230",
+      "source": "Note that a simulation always calculates from one frame to the next. This means you can’t play it backward or scrub through it.",
+      "target": "请注意，模拟总是从一帧计算到下一帧。这意味着你不能倒放，也不能像普通视频那样拖动浏览。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "f0573e29b726",
+      "source": "Node Graph",
+      "target": "节点图",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "80f24e8fb590",
+      "source": "This is where the building blocks to create the simulation are managed.",
+      "target": "这里用于管理创建模拟所需的构建模块。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "998ea9c5a7f4",
+      "source": "The separate modules you see are called nodes. You can think of these as little machines with their own unique tasks. The machines combined are the factory that produces the end product.",
+      "target": "你看到的独立模块称为节点。可以把它们想象成各自承担特定任务的小机器；这些机器组合在一起，就构成了产出最终效果的工厂。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "32738ac69520",
+      "source": "The nodes are connected with wires passing data from one node to another.",
+      "target": "节点通过连线连接，数据会从一个节点传递到另一个节点。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "3abb6a582ead",
+      "source": "To navigate around the Node Graph hold the ",
+      "target": "若要在节点图中导航，请按住 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "de8c427d81a9",
+      "source": " button and drag. You can use the scroll wheel to zoom in and out.",
+      "target": " 按钮并拖动。你也可以使用滚轮放大或缩小。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "ecaf2fe5d703",
+      "source": "If you get lost you can use the ",
+      "target": "如果迷失了位置，可以使用右上角的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "0968fa8fce0b",
+      "source": " button in the top right corner to recenter the nodes and the ",
+      "target": " 按钮重新居中节点，并使用 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "f1e6fbacb335",
+      "source": " button to reset the zoom.",
+      "target": " 按钮重置缩放。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "f6e42aca49be",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "a6719fd3add7",
+      "source": "Select a node with ",
+      "target": "选择节点：",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "abe2310b5dc0",
+      "source": "Box select a node by holding the ",
+      "target": "按住 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "8091f37e5bca",
+      "source": " and dragging a box around the nodes.",
+      "target": " 并在节点周围拖出一个框，可以框选节点。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "244ec889a6de",
+      "source": "Delete a node by selecting it and then pressing the ",
+      "target": "选中节点后按 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "d3d84e3cf70e",
+      "source": "Delete",
+      "target": "Delete",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "180d5159f35a",
+      "source": " key.",
+      "target": " 键。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "94306ae16a27",
+      "source": "Copy and paste nodes with ",
+      "target": "复制和粘贴节点：",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "8c67926caf89",
+      "source": "Ctrl + C",
+      "target": "Ctrl + C",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4114acdb800a",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "6336a83c79de",
+      "source": "Ctrl + V",
+      "target": "Ctrl + V",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "51df51927ca1",
+      "source": "Move nodes by holding the ",
+      "target": "按住 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "f974e78917f1",
+      "source": "Left Mouse Button",
+      "target": "鼠标左键",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "b095662dc4c4",
+      "source": " and dragging.",
+      "target": " 并拖动即可移动节点。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "0a52bc81901a",
+      "source": "Disable a node using the on/off button ",
+      "target": "使用节点右上角的开关按钮禁用节点：",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "959e8374eed4",
+      "source": " in the top right corner of the node.",
+      "target": "。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "50b3805b7f7a",
+      "source": "Connect nodes by ",
+      "target": "连接节点时，可以 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "6f7e380c6f00",
+      "source": " clicking and dragging from the connection pins on the sides of the nodes. Or by selecting multiple nodes and pressing ",
+      "target": " 从节点两侧的连接引脚点击并拖拽。也可以选中多个节点后按 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "a7d4d7655326",
+      "source": "Ctrl + L",
+      "target": "Ctrl + L",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "dfd717940c49",
+      "source": "The connection pins always state the node or node category it needs to be connected to.",
+      "target": "连接引脚始终会标明它需要连接到哪一个节点或节点类别。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "5027e9ef55ee",
+      "source": "Create a node by right-clicking in the node graph and selecting a node from the menu. Or by dragging from a connection pin to somewhere in the node graph. This way you’ll get a menu with all the nodes available for that type of connection.",
+      "target": "你可以在节点图中右键单击并从菜单中选择节点来创建节点。也可以从连接引脚拖到节点图中的空白位置；这样会弹出一个菜单，列出适用于该连接类型的所有节点。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "c7eec0548202",
+      "source": "Properties Panel",
+      "target": "属性面板",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "1c9750549c03",
+      "source": "This is where the settings are for the selected node. (Or multiple nodes when selecting nodes of the same type.)",
+      "target": "这里显示所选节点的设置。（如果选中的是同类型的多个节点，则显示这些节点的设置。）",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "f4d80085806c",
+      "source": "Node Details:",
+      "target": "Node Details（节点详情）：",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "20f4faad4d61",
+      "source": " This tab shows all the parameters for the selected node.",
+      "target": " 这个选项卡显示所选节点的所有参数。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "3248a1c51498",
+      "source": "Every node has its own array of tabs organizing the parameters.",
+      "target": "每个节点都有自己的一组选项卡，用来组织参数。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "c162374efe6a",
+      "source": "When looking for a specific parameter, you can easily find it using the Parameter Palette which opens by pressing ",
+      "target": "查找特定参数时，可以使用 Parameter Palette 快速找到它；按 ",
+      "note": "stage 2B audit fix"
+    },
+    {
+      "id": "1067b1aa2b79",
+      "source": "Ctrl + P",
+      "target": "Ctrl + P",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "ba5d33e867ff",
+      "source": "You can change a parameter by either using ",
+      "target": "修改参数时，可以使用 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "65f32969389a",
+      "source": " on the value, typing in a new value, and pressing ",
+      "target": " 点击数值，输入新值后按 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "f1dcfaa22c4a",
+      "source": "Enter",
+      "target": "Enter",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d9e3c2d45cad",
+      "source": " or clicking and dragging the value slider.",
+      "target": "；也可以点击并拖动数值滑块。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "57baedfc7b9e",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "5fccc5f2702d",
+      "source": "You can also apply math within these text boxes. For example, typing 4*7/2+6-2 and pressing ",
+      "target": "你也可以在这些文本框中直接进行数学运算。例如输入 4*7/2+6-2 并按 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "94049691a101",
+      "source": "Enter",
+      "target": "Enter",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "24ea03ee9cc5",
+      "source": " will put a value of 18 in the parameter. This can be helpful for quickly multiplying a value or reducing it by half for example.",
+      "target": " 会把该参数设为 18。例如，这有助于快速将数值相乘或减半。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "e7783b40e29f",
+      "source": "Some parameters aren’t values but dropdown menus which can be opened by clicking on them with the ",
+      "target": "有些参数不是数值，而是下拉菜单；可以用 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "f56cf610c8ac",
+      "source": ". Then you can pick an option from the menu.",
+      "target": " 点击打开，然后从菜单中选择一个选项。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "5c9ebd2adadc",
+      "source": "There are also check boxes that can be simply clicked on or off.",
+      "target": "此外还有复选框，可以直接点击开启或关闭。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "c5a37a4ebfe8",
+      "source": "Try leaving your cursor on a parameter name. This will show a text box with information on what the parameter does!",
+      "target": "试着把光标停留在参数名称上。这样会显示一个文本框，说明该参数的作用。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "126d9d0f8a21",
+      "source": "The revert icon ",
+      "target": "参数右侧的还原图标 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "02b8bbaccb17",
+      "source": " on the right side of the parameters will reset the parameter to its default value.",
+      "target": " 会将参数重置为默认值。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "020bf64e1285",
+      "source": "Favorites:",
+      "target": "Favorites：",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "3def7ae785c1",
+      "source": " This tab shows all the parameters that are marked as favorites. You can do this with any parameter from the Node Details tab by checking the star icon ",
+      "target": " 这个选项卡显示所有标记为收藏的参数。你可以在 Node Details（节点详情）选项卡中勾选任意参数旁边的星形图标 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "60aaa6e4564a",
+      "source": " right next to it.",
+      "target": " 来将其加入收藏。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "bf9f5a6d80e5",
+      "source": "Timeline:",
+      "target": "Timeline：",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "c6adb5eae24f",
+      "source": " This tab shows all the parameters with keyframing enabled. To learn about keyframes check out our ",
+      "target": " 这个选项卡显示所有启用了关键帧的参数。若要了解关键帧，请查看我们的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "7297f4c9afbb",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "845ff3d56422",
+      "source": " page.",
+      "target": " 页面。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "153230fcf5ad",
+      "source": "Randomized:",
+      "target": "Randomized：",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "acbf27746d27",
+      "source": " In this tab you can see and adjust the parameters selected for randomization. This can be used to create variations of your simulation. To choose a parameter for randomization ",
+      "target": " 在这个选项卡中，你可以查看并调整被选中用于随机化的参数。这可用于创建模拟的不同变体。若要选择一个参数用于随机化，请 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "82612f68682b",
+      "source": "Shift",
+      "target": "Shift",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "fbda8e2e8c7e",
+      "source": " click on the ",
+      "target": " 点击左侧的 ",
+      "note": "stage 2B audit fix"
+    },
+    {
+      "id": "17fd1fb7dc3f",
+      "source": " icon on the left. Randomized parameters are marked with the ",
+      "target": " 图标。已随机化的参数会用 ",
+      "note": "stage 2B audit fix"
+    },
+    {
+      "id": "7fb66709103b",
+      "source": " icon.  For more information check out our ",
+      "target": " 图标标记。更多信息请查看我们的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "fcd9c941ff0d",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "2453920ad229",
+      "source": " section!",
+      "target": " 部分。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "1e6c00fda873",
+      "source": "Simulation",
+      "target": "模拟",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "f4ed0a73a9fd",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "1088a17067b8",
+      "source": "The first thing to note when simulating is that you want to work in a realistic scale. You can see the scale of things by looking at the  measurements indicated on the groundplane. Make sure you’re not simulating a 10cm long whale or a 100m tall bucket if you want things to look right. To get a good starting point, you can pick a scale template in the ",
+      "target": "模拟时首先要注意，应使用真实的比例。你可以查看地面平面上标出的尺寸来判断物体尺度。若想效果正确，不要模拟一头 10 cm 长的鲸鱼或一个 100 m 高的桶。要获得良好的起点，可以在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "a058213296f7",
+      "source": "Project Manager",
+      "target": "Project Manager 中选择比例模板",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "714f10fbf96e",
+      "source": "In LiquiGen, liquids are simulated using a “hybrid solver, “ meaning particles and voxels are used to simulate the results.",
+      "target": "在 LiquiGen 中，液体使用“混合求解器”进行模拟，也就是使用粒子和体素来计算模拟结果。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "b975587f0c74",
+      "source": "Particles are points in 3D space and voxels are like three-dimensional pixels dividing 3D space into a grid.",
+      "target": "粒子是 3D 空间中的点；体素则像三维像素一样，把 3D 空间划分成网格。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "b87eda030df3",
+      "source": "The liquid is made up of particles that go through a process called “meshing” to produce the liquid mesh which is then rendered using a liquid shader to appear like (by default) water.",
+      "target": "液体由粒子构成，这些粒子会经过一个称为“网格化”的过程生成液体网格，然后液体网格通过液体着色器进行渲染，默认看起来像水。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "62f99c12711b",
+      "source": "In the ",
+      "target": "在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4a1f4e2cabeb",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "51d74303be56",
+      "source": " node, the liquid appearance is specified by tweaking the meshing in the ",
+      "target": " 节点中，液体外观由 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "f1564edd756b",
+      "source": "Mesh",
+      "target": "Mesh",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "87285e09c3e1",
+      "source": " tab, and the shader settings in the ",
+      "target": " 选项卡中的网格化设置，以及 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "55df799f3187",
+      "source": "Liquid Appearance",
+      "target": "Liquid Appearance",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "b8accc0eb2ef",
+      "source": " tab.",
+      "target": " 选项卡中的着色器设置决定。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8d2fb6006d94",
+      "source": "To see the particles instead of the liquid mesh open the ",
+      "target": "若要查看粒子而不是液体网格，请打开 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "aed92c257ab2",
+      "source": "Diagnostics",
+      "target": "Diagnostics",
+      "note": "translation memory"
+    },
+    {
+      "id": "98ea5adfa243",
+      "source": " panel by clicking the ",
+      "target": " 面板：点击 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "0b2800c4e764",
+      "source": " icon in the top right corner of the viewport and uncheck ",
+      "target": " 图标（位于视口右上角），取消勾选 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "527a3601dc9c",
+      "source": "Liquid Mesh",
+      "target": "Liquid Mesh",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "1dcb438b540c",
+      "source": " and check ",
+      "target": "，并勾选 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d8956d875597",
+      "source": "Liquid Particles",
+      "target": "Liquid Particles",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "52b097159013",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "534606cab844",
+      "source": "The particles define the liquid, if the particles move the liquid moves. The voxels the particles move through calculate and store the velocities, pressure, divergence, and force fields informing the particles where to move. The particles are like chess pieces that can be anywhere on the board but get specific directions within specific checkers.",
+      "target": "粒子定义了液体：粒子移动，液体也会随之移动。粒子穿过的体素会计算并存储速度、压力、散度和力场，从而告诉粒子该往哪里移动。粒子就像棋盘上的棋子，可以位于棋盘上的任何位置，但会在具体格子内获得明确的移动指令。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "72b0629678bf",
+      "source": "LiquiGen is a sparse solver. The amount of voxels is not fixed. Voxels and particles will be created and destroyed based on where the liquid is. This means the solver doesn’t waste computing resources in regions with no liquid to simulate. When it comes to memory, however, the solver needs to know how many particles and voxels it can use at a maximum which is defined in the ",
+      "target": "LiquiGen 是稀疏求解器。体素数量不是固定的；体素和粒子会根据液体所在位置创建和销毁。这意味着求解器不会在没有液体需要模拟的区域浪费计算资源。不过在内存方面，求解器需要知道最多可以使用多少粒子和体素，这个上限在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8d21e09b384f",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4fed76d967fe",
+      "source": " node in the ",
+      "target": " 节点的 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "e8c113763f46",
+      "source": "Resources",
+      "target": "Resources",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "edcacf5fa7e6",
+      "source": " tab.",
+      "target": " 选项卡中定义。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8d275bfaf5a4",
+      "source": "The voxel size, found in the ",
+      "target": "体素大小位于 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "25697cc5af71",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "eae7fe0e3f53",
+      "source": " node in the ",
+      "target": " 节点的 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4aff5b1dd323",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "43b54fdd8954",
+      "source": " tab, determines the size of the smallest possible detail in your simulation and therefore directly affects the realism and level of detail in the simulation. It also directly affects the simulation speed as more voxels and particles take longer to compute.",
+      "target": " 选项卡中，它决定模拟中可能呈现的最小细节尺寸，因此会直接影响模拟的真实感和细节层次。它也会直接影响模拟速度，因为更多体素和粒子需要更长时间计算。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "b75c07ffa025",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "17b74cb0ea5e",
+      "source": "Transforming",
+      "target": "变换",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "c64c06135f71",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "1c3b3c3ebe45",
+      "source": "Most object/nodes can be moved around in the scene using the position, rotation, or scale parameters or using the manipulators.",
+      "target": "大多数对象/节点都可以在场景中移动，方法是使用位置、旋转或缩放参数，或使用操控器。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "1864efe453ed",
+      "source": "A manipulator will pop up in the viewport when selecting a moveable node.",
+      "target": "选中可移动节点时，视口中会弹出一个操控器。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "5fc66f25b46d",
+      "source": "There are three manipulators, translate, rotate and scale.",
+      "target": "操控器有三种：平移、旋转和缩放。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "7434a1eed318",
+      "source": "They can be selected with the hotkeys ",
+      "target": "可以使用快捷键 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "8ba6515e0378",
+      "source": "Q, W, and E",
+      "target": "Q、W 和 E",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d81bf954bbbf",
+      "source": " or with the manipulator switcher in the top left corner of the viewport. (if you don’t see the manipulator switcher, make sure it’s checked in the ",
+      "target": " 来选择它们，也可以使用视口左上角的操控器切换器。（如果看不到操控器切换器，请确认它已在 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "d51618ea999a",
+      "source": " View dropdown menu.)",
+      "target": " View 下拉菜单中勾选。）",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "d512e77f2b36",
+      "source": "To control the manipulator handles, hold ",
+      "target": "若要控制操控器手柄，请按住 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "938d6c2c79d0",
+      "source": " and drag.",
+      "target": " 并拖动。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "ec492bdbcbc2",
+      "source": "Nodes",
+      "target": "节点",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "0bfd554fe29c",
+      "source": "Let’s have a look at what the most important nodes are doing.",
+      "target": "我们来看一下最重要的一些节点分别负责什么。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "fc5e699c8228",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "e7e9d35f5392",
+      "source": " Shapes",
+      "target": " Shapes（形状）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "10363eb3c6ca",
+      "source": "Shapes can be plugged into different types of nodes and serve all sorts of different purposes, being the emission source, a collision object, a drainage object, or a mask for a force field.",
+      "target": "形状可以连接到不同类型的节点，并承担各种用途，例如作为发射源、碰撞对象、排水对象，或作为力场遮罩。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "247bfcad7a46",
+      "source": "The ",
+      "target": "在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d214effab2af",
+      "source": "Shape: Primitive",
+      "target": "Shape: Primitive",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "ad721b14ed86",
+      "source": "  node has a lot of options for basic shapes in the ",
+      "target": " 节点的 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "e44e57719ef1",
+      "source": "Type",
+      "target": "Type",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "804f2729462c",
+      "source": " dropdown menu.",
+      "target": " 下拉菜单中提供了许多基础形状选项。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "bdd3e8232146",
+      "source": "If you want to use a custom 3D model as a shape, you can use the ",
+      "target": "如果想把自定义 3D 模型用作形状，可以使用 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8278d2845349",
+      "source": "Import",
+      "target": "Import",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "2c345f54375a",
+      "source": " node.",
+      "target": " 节点。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4d32a4f68e75",
+      "source": " Emitter",
+      "target": " Emitter（发射器）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8cd32e688f72",
+      "source": "The ",
+      "target": "在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "47c1c862906a",
+      "source": "Emitter",
+      "target": "Emitter",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4c675cc78be6",
+      "source": " node is where the liquid particles are generated.",
+      "target": " 节点中生成液体粒子。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "6fdbbe12f41e",
+      "source": "The amount of particles is multiplied by a couple of factors:",
+      "target": "粒子数量会受到几个因素叠加影响：",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "21cd18565756",
+      "source": "The shape plugged into the emitter:",
+      "target": "连接到发射器的形状：",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4ea67114e6a4",
+      "source": " This defines where the particles can spawn. Bigger shapes emit more liquid particles.",
+      "target": " 这定义了粒子可以生成的位置。更大的形状会发射更多液体粒子。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "20a8dc789bbd",
+      "source": "The emitter settings:",
+      "target": "发射器设置：",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8a8c11f6c79d",
+      "source": " For example, try adjusting the ",
+      "target": " 例如，可以尝试调整 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "32379506fb13",
+      "source": "Volume flow rate parameter",
+      "target": "Volume flow rate（体积流量）参数",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "082665645f83",
+      "source": " in the ",
+      "target": "（位于 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "07d63160a075",
+      "source": "Behavior",
+      "target": "Behavior",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "f36b1ed051d6",
+      "source": " tab. Higher values give a stronger flow of liquid as it generates more particles.",
+      "target": " 选项卡）。更高的值会产生更强的液体流动，因为它会生成更多粒子。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "ba5f3a81ab69",
+      "source": "The voxel size:",
+      "target": "体素大小：",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "3c1264d896fa",
+      "source": " The particle density is derived from the voxel size. A smaller voxel size will result in more voxels fitting into the emission shape and more particles.",
+      "target": " 粒子密度由体素大小推导而来。体素越小，发射形状中能容纳的体素越多，粒子也越多。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "58a6f2ea6844",
+      "source": " Collider",
+      "target": " Collider（碰撞体）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "f02d8276c5d9",
+      "source": "This will make the liquid collide with the shape that’s plugged into the node.",
+      "target": "这会让液体与连接到该节点的形状发生碰撞。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "770cc7f84322",
+      "source": "For example, if you want water to pour over a sphere, the ",
+      "target": "例如，如果想让水浇到一个球体上，",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "2db5b87f5637",
+      "source": " sphere shape needs to be connected to a ",
+      "target": " 球体形状需要连接到 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "0ce36fd9be80",
+      "source": "Collider",
+      "target": "Collider",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "a9e8db860072",
+      "source": " node which needs to be connected to the ",
+      "target": " 节点，而该节点需要连接到 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "566b94a4d534",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "3dde62f2eba2",
+      "source": " node.",
+      "target": " 节点。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8ee2b41f0c65",
+      "source": " Force",
+      "target": " Force（力）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "16cb0523de36",
+      "source": "This is a category of nodes that will alter the movement of liquid. For example, a ",
+      "target": "这是一类会改变液体运动的节点。例如，",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "7c6878bd646c",
+      "source": "Force: Turbulence",
+      "target": "Force: Turbulence",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "40df31486fb3",
+      "source": " node will add a lot of random velocities to the simulation to make the liquid look more turbulent.",
+      "target": " 节点会向模拟添加大量随机速度，让液体看起来更加湍动。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "7e201b287bb5",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "394a0843c2e2",
+      "source": "Force nodes need to be plugged into the ",
+      "target": "Force 节点需要连接到 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "bbaa7c142593",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "785efeeaa780",
+      "source": " node to affect the simulation.",
+      "target": " 节点才能影响模拟。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "2f5ba67384dc",
+      "source": "If you want a force to only be applied in a certain area, you can mask its effect by connecting a shape to the ",
+      "target": "如果希望力只作用于特定区域，可以将一个形状连接到力节点左侧的 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "10cd6e0adff1",
+      "source": "Mask Shapes",
+      "target": "Mask Shapes",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "da4b99ad729b",
+      "source": " input pin on the left of the force node.",
+      "target": " 输入引脚，用它来遮罩该力的影响。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "084e70e54a83",
+      "source": "The default preset uses a ",
+      "target": "默认预设使用 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "9835dace53f1",
+      "source": "Force: Constant",
+      "target": "Force: Constant",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "37cf974732bc",
+      "source": " node as the gravity force pulling the liquid down. Try changing its parameters or turning it off to see its effect!",
+      "target": " 节点作为把液体向下拉的重力。试着修改它的参数或关闭它，观察效果。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "21f53044a0bf",
+      "source": " Drain",
+      "target": " Drain（排水）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "42a7c7921e50",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "0aab816b4c95",
+      "source": "This node will remove all liquid particles within the shape plugged into the node.",
+      "target": "该节点会移除连接到节点的形状范围内的所有液体粒子。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "a830a2a5fb56",
+      "source": "This can be useful for saving resources by removing unnecessary liquid particles, such as particles that are not visible to the 3D camera you intend to use.",
+      "target": "这有助于通过移除不必要的液体粒子来节省资源，例如那些不会被你计划使用的 3D 摄像机看到的粒子。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4a6e19a3778a",
+      "source": "Another use case is, of course, a drain!",
+      "target": "另一个用途当然就是作为排水口。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "bf97c62b8fb7",
+      "source": " Simulation",
+      "target": " Simulation（模拟）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "ea4c051fd9a9",
+      "source": "This is where most global settings are found.\nFor example, you can change the physical properties of the liquid in the ",
+      "target": "这里包含大多数全局设置。\n例如，你可以在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "b713f2c06606",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "81f02c9e15bf",
+      "source": " tab and the shading in the ",
+      "target": " 选项卡中修改液体的物理属性，并在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "b19d0cf40392",
+      "source": "Liquid Appearance",
+      "target": "Liquid Appearance",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "595ee2160b19",
+      "source": " tab to simulate other liquids like honey, slime, or milk.",
+      "target": " 选项卡中调整着色，以模拟蜂蜜、黏液或牛奶等其他液体。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d4cfde4558a4",
+      "source": "There can only be one simulation node.",
+      "target": "一个图中只能有一个 Simulation（模拟）节点。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "1f1e0e86ab8c",
+      "source": "Multiple Emitters, Forces, Drains, and Colliders can be connected to the pins on the left side of the node.",
+      "target": "可以将多个 Emitter（发射器）、Force（力）、Drain（排液）和 Collider（碰撞体）连接到该节点左侧的引脚。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "a9815b8ea76a",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "f15ea53bddda",
+      "source": " Light",
+      "target": " Light（灯光）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "be6d0efcd702",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "3689e5c479f0",
+      "source": "A category of nodes that, as the name suggests, light up the scene.",
+      "target": "顾名思义，这是一类用于照亮场景的节点。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "6b03a544f583",
+      "source": "Try adjusting the intensity parameters to see what they do!",
+      "target": "可以尝试调整强度参数，看看它们的作用。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "ca8dec0bb5e4",
+      "source": "Light nodes need to be connected to the ",
+      "target": "Light 节点需要连接到 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "a7a9cc993bc6",
+      "source": "Lights",
+      "target": "Lights",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d21503d79273",
+      "source": " input pin on the ",
+      "target": " 输入引脚，位置在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "283f181a4519",
+      "source": "Scene",
+      "target": "Scene",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d9a8acf057d3",
+      "source": " node.",
+      "target": " 节点上。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d3d9de07b796",
+      "source": "Point",
+      "target": "Point",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "733206baefa2",
+      "source": " is like a light bulb and will emit light from one adjustable point in space.",
+      "target": " 类似灯泡，会从空间中的一个可调点发出光。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "3bb22ad95971",
+      "source": "Directional",
+      "target": "Directional",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "200711fc8608",
+      "source": " Emits parallel light rays from one angle (like the sun). If you want to use this light as a sun light, you should plug it into the ",
+      "target": " 会从一个角度发出平行光线（类似太阳）。如果要把这盏灯用作太阳光，应将它连接到 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "377cdc301f24",
+      "source": "Sun",
+      "target": "Sun",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "563928c6ae53",
+      "source": " input pin on the ",
+      "target": " 输入引脚，位置在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "33f31329b056",
+      "source": "Skybox",
+      "target": "Skybox",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "95dffd2e5797",
+      "source": " node.",
+      "target": " 节点上。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "92d3c53a1813",
+      "source": "Area",
+      "target": "Area",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "ef9d6d47ff69",
+      "source": " is like a light panel emitting light from an adjustable plane in space.",
+      "target": " 类似灯光面板，会从空间中的一个可调平面发出光。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "3404b2575cd5",
+      "source": " Skybox",
+      "target": " Skybox（天空盒）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "e821910ccffb",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "abf11d335c6a",
+      "source": "This controls the type of sky in your scene. There are a few options here:",
+      "target": "它控制场景中的天空类型。这里有几个选项：",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "2cf1dc805e85",
+      "source": "None",
+      "target": "None",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "81ea61c9a06f",
+      "source": " will turn the sky off resulting in a black background.",
+      "target": " 会关闭天空，得到黑色背景。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "a713dcba399e",
+      "source": "Atmosphere",
+      "target": "Atmosphere",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4a8b0ed1abc0",
+      "source": " is the most advanced one mimicking a real sky. The angle of the connected sun (directional) light will affect the sky colors.",
+      "target": " 是最高级的选项，用于模拟真实天空。已连接的太阳（Directional）灯光角度会影响天空颜色。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "7ef46796f253",
+      "source": "HDRI",
+      "target": "HDRI",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "c7b6af8d9d63",
+      "source": " will let you import an HDRI map to light your scene.",
+      "target": " 允许你导入 HDRI 贴图来照亮场景。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "442a2e0a8866",
+      "source": " Ground",
+      "target": " Ground（地面）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "9692f00c03aa",
+      "source": "This is where all the settings are related to the ground plane you see in the scene.",
+      "target": "这里包含与场景中可见地面平面相关的所有设置。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "cf4979eff5ed",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "813b86c8f9b8",
+      "source": "By default, it’s set to ",
+      "target": "默认情况下，它设置为 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "7177142a33f0",
+      "source": "Units",
+      "target": "Units",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d1900e82ca79",
+      "source": " so you can see what type of scale you are working on.",
+      "target": "，方便你查看当前工作的尺度类型。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "20f9a44fb31f",
+      "source": "Note that the liquid always collides with the ground, even when the node is turned off!",
+      "target": "请注意，即使该节点已关闭，液体仍然始终会与地面碰撞。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "e61eb3eaea74",
+      "source": " Scene",
+      "target": " Scene（场景）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "afb6198811b7",
+      "source": "This node serves as the hub to which all the elements of the 3D scene are connected.",
+      "target": "这个节点是 3D 场景中所有元素连接到的枢纽。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8e7e3c70a12c",
+      "source": " Render",
+      "target": " Render（渲染）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8cf4ffb3e413",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "b83a970bc865",
+      "source": "Rendering is when the 3D elements in your scene are turned into an image on your screen.",
+      "target": "渲染是指把场景中的 3D 元素转换成屏幕上的图像。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "2ddff24c4808",
+      "source": "The settings for this process are found in this node.",
+      "target": "此节点包含该过程的相关设置。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "55ae7bfbb508",
+      "source": "Liquigen has two rendering modes, the Rasterizer and the Path Tracer:",
+      "target": "LiquiGen 有两种渲染模式：Rasterizer（光栅化器）和 Path Tracer（路径追踪器）：",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d09710fc8989",
+      "source": "Rasterizer:",
+      "target": "Rasterizer（光栅化器）：",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "b331974c0a92",
+      "source": " A real-time rendering method with simplified graphics. This one is used by default.",
+      "target": " 一种图形简化的实时渲染方法。默认使用此方法。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "c9ea4e7b8b88",
+      "source": "Path Tracer:",
+      "target": "Path Tracer（路径追踪器）：",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "a4ffe666e0e8",
+      "source": " A more physically based rendering method that simulates the light rays giving a more realistic result. This method takes longer to render and is usually only enabled once you’re happy with the simulation and want to export realistic images out of LiquiGen.",
+      "target": " 一种更基于物理的渲染方法，通过模拟光线来得到更真实的结果。此方法渲染时间更长，通常只会在你对模拟满意并希望从 LiquiGen 导出真实感图像时启用。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "cd8560b8d5d0",
+      "source": "The Path Tracer can be turned on and off by selecting ",
+      "target": "可以通过选择 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "33b6da914584",
+      "source": "Path Tracing",
+      "target": "Path Tracing",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "cb0d6be45dd9",
+      "source": " in the ",
+      "target": "（位于 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d4bc5ed8f40d",
+      "source": "View",
+      "target": "View",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "eec6628ec656",
+      "source": " dropdown menu in the Viewport. Or by pressing ",
+      "target": " 下拉菜单，Viewport（视口）中）来开启或关闭 Path Tracer（路径追踪器）。也可以按 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "27dacc90e9e5",
+      "source": "Ctrl + T",
+      "target": "Ctrl + T",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "6a019ccf2ded",
+      "source": "Turning the Path Tracer off means turning the Rasterizer on.",
+      "target": "关闭 Path Tracer（路径追踪器）就等同于开启 Rasterizer（光栅化器）。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "f01a163d97c8",
+      "source": " Export: Image",
+      "target": " Export: Image（导出图像）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d5b3664b315b",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "999ff68b8696",
+      "source": "This node lets you export your scene to image files and holds all the related export settings for that like what part of the simulation to export, what renderpasses to export, which rendering mode to use, and how to render shapes.",
+      "target": "该节点可将场景导出为图像文件，并包含所有相关导出设置，例如导出模拟的哪一部分、导出哪些渲染通道、使用哪种渲染模式，以及如何渲染形状。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "097fa7432ea5",
+      "source": "You can export your scene to a ",
+      "target": "你可以将场景导出为 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "259c4c42bbba",
+      "source": "Flipbook",
+      "target": "Flipbook",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "44324ccfb258",
+      "source": " or a ",
+      "target": " 或 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "fe4b76434f1c",
+      "source": "Sequence",
+      "target": "Sequence",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "bb6641068141",
+      "source": "Flipbook",
+      "target": "Flipbook",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "91459da2d66c",
+      "source": " is a format used in games to get all frames into one image texture which is more performant.",
+      "target": " 是游戏中常用的格式，会把所有帧放入一张图像纹理，从而获得更好的性能。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "6f1c8b10c02d",
+      "source": "Sequence",
+      "target": "Sequence",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "51c007ed40bb",
+      "source": " allows you to export a sequence of image files, which is useful for VFX or for creating a video.",
+      "target": " 可导出一系列图像文件，适合用于 VFX 或制作视频。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "69758a3af173",
+      "source": "To export, you need to specify where you want the image files to be stored on your computer using the ",
+      "target": "导出时，需要使用 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "70a4bea6dbd4",
+      "source": "Directory",
+      "target": "Directory",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d01559541a09",
+      "source": " parameter in the ",
+      "target": " 参数（位于 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8e664c707302",
+      "source": "Export",
+      "target": "Export",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d60c92b86bca",
+      "source": " tab then click the blue ",
+      "target": " 选项卡）指定图像文件在电脑上的保存位置，然后点击蓝色的 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "79f52d40a143",
+      "source": "Export Now",
+      "target": "Export Now",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "0e517b3a6d56",
+      "source": " button.",
+      "target": " 按钮。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "76bc38cd07ec",
+      "source": "You can create multiple export nodes and do multiple exports at once by selecting them and selecting ",
+      "target": "你可以创建多个导出节点，并通过选中它们再选择 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "00d173e4fe5a",
+      "source": "Export Selected",
+      "target": "Export Selected",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "220fe7f1d14c",
+      "source": " from the right-click menu in the Node Graph.",
+      "target": "（位于节点图右键菜单）来同时执行多个导出。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "e2fec386ac53",
+      "source": " Camera",
+      "target": " Camera（摄像机）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "3e2307de9559",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "298208d1b5d3",
+      "source": "This is what you’re looking through when rendering the scene.",
+      "target": "这是渲染场景时所使用的观察视角。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "67f2b003c307",
+      "source": "You can use a camera by selecting it in the ",
+      "target": "你可以在视口顶部的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "04ae3037c18e",
+      "source": " camera dropdown menu on top of the viewport. Or by selecting the ",
+      "target": " 摄像机下拉菜单中选择摄像机来使用它；也可以选择 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "40e77d980609",
+      "source": "Camera",
+      "target": "Camera",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "676efbb398ee",
+      "source": " node and clicking the ",
+      "target": " 节点，并点击 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "6ef177cb40f1",
+      "source": "Activate",
+      "target": "Activate",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "45fb3567e251",
+      "source": " button in the ",
+      "target": " 按钮（位于 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "dff6a3ba6571",
+      "source": "General",
+      "target": "General",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "9e8b411249ea",
+      "source": " tab.",
+      "target": " 选项卡）。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "f1d4f2f0fc49",
+      "source": "In the ",
+      "target": "在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "fffa0a63a46e",
+      "source": "Transform",
+      "target": "Transform",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "52d2f7921753",
+      "source": " tab, you can specify the position and rotation of the camera. But you can also do this by navigating around the viewport when looking through your camera.",
+      "target": " 选项卡中，你可以指定摄像机的位置和旋转。你也可以在通过摄像机观察时，通过在视口中导航来完成这些设置。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "f62eaa0619e6",
+      "source": "When you are happy with the camera position you can ",
+      "target": "当你满意摄像机位置后，可以 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "ca72410a0016",
+      "source": "lock",
+      "target": "锁定",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "a8390be88557",
+      "source": " the camera in the ",
+      "target": " 摄像机，该选项位于 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "efe4b7dd8863",
+      "source": "General",
+      "target": "General",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4c19569b0a57",
+      "source": " tab so you can’t accidentally move it.",
+      "target": " 选项卡中，这样就不会意外移动它。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "b5451aae4efb",
+      "source": "The ",
+      "target": "其中 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "681b8883ef61",
+      "source": "Display Resolution",
+      "target": "Display Resolution",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "b408292afc5b",
+      "source": " parameter in the ",
+      "target": " 参数位于 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "f844e2dae179",
+      "source": "Display",
+      "target": "Display",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "bbd30828ea42",
+      "source": " tab specifies the aspect ratio of the camera. You can visually see this in the viewport. Don’t forget to set this to the same aspect ratio as the ",
+      "target": " 选项卡，用于指定摄像机宽高比。你可以在视口中直观看到它。别忘了将它设置为与 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "885d2d72aa46",
+      "source": "Export: Image",
+      "target": "Export: Image",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d155aac692c0",
+      "source": " node to get correct results.",
+      "target": " 节点相同的宽高比，以获得正确结果。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "d7112648dc66",
+      "source": "The ",
+      "target": "其中 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "623edfa2027e",
+      "source": "Field Of View",
+      "target": "Field Of View",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "c2c6eeef8a68",
+      "source": " parameter in the ",
+      "target": " 参数位于 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "9f286a2bbd9e",
+      "source": "Display",
+      "target": "Display",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "643c0e78aa66",
+      "source": " tab will specify the angle at which objects are visible to the camera. Adjusting this is like zooming with a telelens.",
+      "target": " 选项卡，用于指定摄像机可见物体的角度。调整它类似于使用长焦镜头进行缩放。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "5e979eab9bc4",
+      "source": "The camera  selected in the ",
+      "target": "在 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "9c1477d4a2d3",
+      "source": "Camera",
+      "target": "Camera",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "9e368be3bfaf",
+      "source": " tab in the ",
+      "target": " 选项卡中选择的摄像机（位于 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "458d8ac3a399",
+      "source": "Export: Image",
+      "target": "Export: Image",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "6b04e9582ebf",
+      "source": " node deternines the viewed angle for the export.",
+      "target": " 节点）决定导出时使用的观察角度。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "a69b0bc7b586",
+      "source": " Export: Mesh",
+      "target": " Export: Mesh（导出网格）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "08c9f848f800",
+      "source": "With this node, you can export your liquid mesh as a 3D file format for use in other software like Maya or Blender.",
+      "target": "使用该节点，可以将液体网格导出为 3D 文件格式，以便在 Maya 或 Blender 等其他软件中使用。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4f2d09a4e0af",
+      "source": "The ",
+      "target": "该 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "ba6aadf848d1",
+      "source": " Export: Mesh node needs to be connected to the Mesh pin of the ",
+      "target": "Export: Mesh（导出网格）节点需要连接到 ",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "837d9165531b",
+      "source": " Simulation node.",
+      "target": "Simulation（模拟）节点的 Mesh 引脚。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "2de17b875692",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "882d0831d130",
+      "source": "Continuing",
+      "target": "继续学习",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "d9cd0c54ff51",
+      "source": "You should now have a basic overview of how to use LiquiGen.",
+      "target": "现在你应该已经对如何使用 LiquiGen 有了基本了解。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "aa45823d5cb6",
+      "source": "If you want more specific information on ",
+      "target": "如果你想了解关于 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "58899eab8537",
+      "source": "nodes",
+      "target": "节点",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "7d53999c1629",
+      "source": "user interface",
+      "target": "用户界面",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "43192f216e9b",
+      "source": "settings",
+      "target": "设置",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "f451090e3010",
+      "source": ",  or how to do particular things please check out our ",
+      "target": " 或具体操作方法的更多信息，请查看我们的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "b0c04a0a4629",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "33f5b843d9c5",
+      "source": " page.",
+      "target": " 页面。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "501c31c7d8d1",
+      "source": "If you’re new the ",
+      "target": "如果你是新手，Project Manager 中的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "822a6214056a",
+      "source": "Learn",
+      "target": "Learn",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "c9d03bb8b9bb",
+      "source": " tab in the Project Manager and our ",
+      "target": " 选项卡以及我们的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "b2e4c56d3837",
+      "source": "YouTube channel",
+      "target": "YouTube 频道",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "760e287625d3",
+      "source": " are good places to visit.",
+      "target": " 都是值得查看的地方。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "72a1b47b89cd",
+      "source": "You can also learn a lot by opening the presets shipped with LiquiGen and having a look at how they were set up.",
+      "target": "你也可以打开 LiquiGen 随附的预设，查看它们是如何设置的，从中学到很多内容。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "0e6c832d385d",
+      "source": "Another great way of learning is to just try everything out! Since LiquiGen simulates so fast it’s often easy to see what a certain parameter does by just changing its value.",
+      "target": "另一种很好的学习方式就是直接尝试所有功能。由于 LiquiGen 的模拟速度很快，通常只要修改某个参数的值，就很容易看出它的作用。",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "0c4b42534835",
+      "source": "Don’t forget you can leave your cursor on any parameter name to get an explanation of what it does.",
+      "target": "别忘了，你可以把光标停留在任意参数名称上，以查看该参数作用的说明。",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "d26d78501e71",
+      "source": "If you want to showcase something or ask for help, don’t hesitate to join our ",
+      "target": "如果你想展示作品或寻求帮助，欢迎加入我们的 ",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "410dba4a9ee2",
+      "source": "discord server",
+      "target": "Discord 服务器",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "6a279ca0d318",
+      "source": "Good luck learning LiquiGen,",
+      "target": "祝你顺利学习 LiquiGen，",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "75dd29a2f540",
+      "source": "we can’t wait to see your splashingly epic results!",
+      "target": "我们已经等不及想看到你做出充满水花的精彩效果了！",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "74c7766f525a",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c40761b2c535",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "1d1ff51843f9",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "7cf99e8a6785",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "c68f2fae1eaf",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "47e7f1753498",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "c5df38c9caac",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "588c61aee4da",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "673b58a3f994",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "86dc95709f3d",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "6ad27b7bee19",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "272ec59b5df6",
+      "source": "Furo",
+      "target": "Furo",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "5c46d1e80396",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "f81fc5c18eff",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "22f0e2673d61",
+      "source": "Installing LiquiGen",
+      "target": "安装 LiquiGen",
+      "note": "translation memory"
+    },
+    {
+      "id": "352f89e70c04",
+      "source": "Download",
+      "target": "下载",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "883eecde4d36",
+      "source": "Installing",
+      "target": "安装",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "28bb16b80437",
+      "source": "Licensing",
+      "target": "许可",
+      "note": "translation memory"
+    },
+    {
+      "id": "a62e42035168",
+      "source": "Using LiquiGen",
+      "target": "使用 LiquiGen",
+      "note": "translation memory"
+    },
+    {
+      "id": "3155dc308923",
+      "source": "Project Manager",
+      "target": "项目管理器",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "8de5d05280dc",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "9b9db6775ad1",
+      "source": "Viewport",
+      "target": "视口",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "087bec8d0189",
+      "source": "Timeline Editor",
+      "target": "时间轴编辑器",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "4067d7c6dad8",
+      "source": "Node Graph",
+      "target": "节点图",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "1cdb6ac0e294",
+      "source": "Properties Panel",
+      "target": "属性面板",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "a7c2ec2d03ca",
+      "source": "Simulation",
+      "target": "模拟",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "89f4ff3af142",
+      "source": "Transforming",
+      "target": "变换",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "0e797ec80324",
+      "source": "Nodes",
+      "target": "节点",
+      "note": "stage 2B reused from audited 2A"
+    },
+    {
+      "id": "1f5cfaa788ff",
+      "source": " Shapes",
+      "target": " Shapes（形状）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "a96895ba2d7f",
+      "source": " Emitter",
+      "target": " Emitter（发射器）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "6ecd6063a999",
+      "source": " Collider",
+      "target": " Collider（碰撞体）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "d5534e8beb19",
+      "source": " Force",
+      "target": " Force（力）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "ebf963aa39c9",
+      "source": " Drain",
+      "target": " Drain（排水）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "e98af2f90d80",
+      "source": " Simulation",
+      "target": " Simulation（模拟）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4fd396a07825",
+      "source": " Light",
+      "target": " Light（灯光）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "6d8d10c595cb",
+      "source": " Skybox",
+      "target": " Skybox（天空盒）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "247eafd9d560",
+      "source": " Ground",
+      "target": " Ground（地面）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "55a4563c2499",
+      "source": " Scene",
+      "target": " Scene（场景）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "5dfbd875768e",
+      "source": " Render",
+      "target": " Render（渲染）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "8c93c163d33c",
+      "source": " Export: Image",
+      "target": " Export: Image（导出图像）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "4413337e425a",
+      "source": " Camera",
+      "target": " Camera（摄像机）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "24a7481e2a3c",
+      "source": " Export: Mesh",
+      "target": " Export: Mesh（导出网格）",
+      "note": "stage 2B manual translation"
+    },
+    {
+      "id": "da7e06655220",
+      "source": "Continuing",
+      "target": "继续学习",
+      "note": "stage 2B reused from audited 2A"
+    }
+  ]
+}

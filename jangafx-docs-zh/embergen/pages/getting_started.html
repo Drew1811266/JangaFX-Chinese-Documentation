@@ -1,0 +1,866 @@
+<!doctype html>
+<html class="no-js" lang="zh-CN">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../genindex.html" /><link rel="search" title="Search" href="../../search.html" /><link rel="next" title="References" href="references/index.html" /><link rel="prev" title="EmberGen Documentation" href="../index.html" />
+
+    <link rel="shortcut icon" href="../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>入门 - JangaFX 文档</title>
+      <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">隐藏导航侧边栏</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">隐藏目录侧边栏</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">切换站点导航侧边栏</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../index.html"><div class="brand">JangaFX 文档</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">切换目录侧边栏</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 current has-children"><a class="reference internal" href="../index.html">EmberGen 文档</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2 current current-page"><a class="current reference internal" href="#">入门</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="references/index.html">参考</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="references/ui_reference.html">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="references/settings.html">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="references/node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="references/How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/histogram.html">直方图</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/exportVDB.html">VDB 导出</a></li>
+<li class="toctree-l4"><a class="reference internal" href="references/How-To%20Guides/randomization.html">随机化</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../liquigen/index.html">LiquiGen 文档</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../liquigen/pages/getting_started.html">入门</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../liquigen/pages/references/index.html">参考</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../liquigen/pages/references/ui_reference.html">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../liquigen/pages/references/settings.html">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../liquigen/pages/references/node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/diagnostics.html">诊断</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/randomization.html">随机化</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../liquigen/pages/references/How-To%20Guides/expressions.html">表达式</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../liquigen/pages/FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../illugen/index.html">IlluGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../geogen/index.html">GeoGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../licensing/index.html">浮动许可证指南</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>返回顶部</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">切换目录侧边栏</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <section id="getting-started">
+<h1>入门<a class="headerlink" href="#getting-started" title="Permalink to this heading">#</a></h1>
+<section id="installing-embergen">
+<h2>安装 EmberGen<a class="headerlink" href="#installing-embergen" title="Permalink to this heading">#</a></h2>
+<section id="download">
+<h3>下载<a class="headerlink" href="#download" title="Permalink to this heading">#</a></h3>
+<p>如果你已经拥有许可证，请前往 <a class="reference external" href="https://jangafx.com/software/embergen/download/">https://jangafx.com/software/embergen/download/</a></p>
+<p>在左侧指定你想要的版本（默认是最新版），然后点击右侧的蓝色下载按钮。</p>
+<p>若要获取试用版，请前往 <a class="reference external" href="https://jangafx.com/software/embergen/try">https://jangafx.com/software/embergen/try</a></p>
+<a class="reference internal image-reference" href="../../_images/downloadForm2.png"><img alt="downloadForm" class="align-right" src="../../_images/downloadForm2.png" style="width: 377.1px; height: 311.85px;" /></a>
+<p>页面会显示一个表单。</p>
+<p>电子邮箱地址以及第二个复选框是必填项；该复选框允许我们保存表单中提供的信息。</p>
+<p>填写完表单后，在底部选择你的操作系统（Windows 或 Linux），然后点击 <em>下载 EmberGen</em> 按钮。</p>
+<p>该 <em>embergen-latest.exe</em> 文件会下载到你的硬盘。</p>
+</section>
+<section id="installing">
+<h3>安装<a class="headerlink" href="#installing" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>双击 <em>.exe</em> 文件。</p></li>
+<li><p>接受协议。</p></li>
+<li><p>点击<em>下一页</em>、<em>下一页</em>、<em>Install</em>、<em>Finish</em></p></li>
+<li><p>如果你保留 <em>启动 EmberGen</em> 为勾选状态，软件会立即启动。</p></li>
+<li><p>如果你取消勾选 <em>启动 EmberGen</em>，可以通过双击桌面快捷方式启动软件。</p></li>
+<li><p>如果你同时取消勾选 <em>Create a desktop shortcut</em>，可以双击 <em>EmberGen.exe</em> 文件来启动 EmberGen；该文件位于 <em>EmberGen</em> 文件夹中，该文件夹通常位于 <em>C:/Program Files/JangaFX</em></p></li>
+</ul>
+</section>
+</section>
+<section id="licensing">
+<span id="licensingref"></span><h2>许可<a class="headerlink" href="#licensing" title="Permalink to this heading">#</a></h2>
+<a class="reference internal image-reference" href="../../_images/licenseManager.png"><img alt="licenseManager" class="align-right" src="../../_images/licenseManager.png" style="width: 500px;" /></a>
+<ul class="simple">
+<li><p>安装完成后，运行 EmberGen，并在 <em>Help</em> 菜单中点击 <em>License Manager…</em> 来打开它。</p></li>
+<li><p>在许可证管理器中，将你的许可证密钥输入到 “Key” 文本框。</p></li>
+<li><p>然后按下 <em>Activate Key</em> 按钮。如果许可证成功激活，状态文字会从 <em>Deactivated</em> 变为 <em>Activated</em>。</p></li>
+<li><p>如果出现任何错误，它们会以黄色显示在右侧。如果你的密钥无法激活，请通过电子邮件联系我们： <a class="reference external" href="mailto:support&#37;&#52;&#48;jangafx&#46;com">support<span>&#64;</span>jangafx<span>&#46;</span>com</a>，并使用右上角蓝色的 <em>Contact Support</em> 按钮，同时附上错误截图。</p></li>
+</ul>
+<p>如果你没有许可证密钥，可以在我们的 <a class="reference external" href="https://jangafx.com/software/pricing">官网价格页面</a>购买。你也可以使用蓝色的 “Purchase A License（购买许可证）” 按钮前往该页面。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="225.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/flamethrowerVSflamethrower.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="using-embergen">
+<h2>使用 EmberGen<a class="headerlink" href="#using-embergen" title="Permalink to this heading">#</a></h2>
+<p>欢迎使用 EmberGen！</p>
+<p>在本节中，你将学习软件的基础知识，开始为游戏或影视制作精彩的特效。</p>
+<section id="project-manager">
+<h3>项目管理器<a class="headerlink" href="#project-manager" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../_images/projectManager2.png"><img alt="projectManager" class="align-right" src="../../_images/projectManager2.png" style="width: 450px;" /></a>
+<ul>
+<li><p>首次打开软件时，你会看到项目管理器。你随时可以使用左上角的 Home 图标进入或离开这个界面 <a class="reference internal" href="../../_images/icon_home.svg"><img alt="home Icon" height="14" src="../../_images/icon_home.svg" width="14" /></a>。</p></li>
+<li><p>在项目管理器中，你可以通过选择左侧的分类，快速访问预设或自己的项目文件。</p></li>
+<li><p>预设是随 EmberGen 一起提供的只读 <em>.ember</em>项目文件。</p>
+<p>它们可以作为你创建特效的良好起点，也可以作为学习参考。</p>
+<p>预设存放在 EmberGen 安装目录中的 presets 文件夹内。（通常是 <em>C:/Program Files/JangaFX/EmberGen</em>)</p>
+</li>
+<li><p>请注意，预设与其他 <em>.ember</em> 文件没有本质区别。</p></li>
+<li><p>如果找不到要使用的项目，可以点击 <em>Open Project</em> 按钮，通过文件浏览器手动查找你的 <em>.ember</em> 文件。</p></li>
+<li><p><strong>New Project</strong> 会加载默认预设。和任何预设一样，其中的所有内容都可以修改，所以即使它看起来不像你的目标效果也不用担心。</p></li>
+<li><p>你可以使用 <cite>Ctrl+S</cite> 保存预设，或前往 <em>File &gt; Save</em></p></li>
+</ul>
+</section>
+<section id="user-interface">
+<h3>用户界面<a class="headerlink" href="#user-interface" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>我们来看一下主用户界面。</p></li>
+<li><p>如你所见，它分为四个区域：视口、时间轴编辑器、节点编辑器和属性面板。</p></li>
+<li><p>这些区域都可以按你的偏好缩放：按住 <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> 并拖动区域边缘即可调整大小；也可以点击每个区域右上角的<em>切换面板全屏按钮</em> <a class="reference internal" href="../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../_images/full_screen.svg" width="12" /></a> 以全屏查看。</p></li>
+</ul>
+</section>
+<section id="viewport">
+<h3>视口<a class="headerlink" href="#viewport" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../_images/viewport2.png"><img alt="viewport" class="align-right" src="../../_images/viewport2.png" style="width: 400px;" /></a>
+<p>这里用于查看模拟、形状、力场以及场景中的其他内容。</p>
+<p>你可以在视口中按住 <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a>，并配合按下 <cite>Alt</cite> 来平移， <cite>Ctrl</cite> 来缩放， <cite>Shift</cite> 来倾斜视角。</p>
+<p>如果你习惯其他控制方案，可以在顶部菜单栏前往 <em>Settings&gt;Preferences</em>，然后在 <em>Camera</em> 部分中按你的偏好修改 <em>Control Mapping</em>。</p>
+<p>在视口顶部，你会看到几个选项卡和下拉菜单：</p>
+<ul>
+<li><p><strong>Scene</strong> 是默认选项卡，可用于查看和操作所有内容。</p></li>
+<li><p><strong>Render</strong> 选项卡用于预览将要导出的内容。</p></li>
+<li><p><strong>Export</strong> 选项卡用于查看已导出的图像。</p></li>
+<li><p>在 <em>Export</em> 选项卡旁边有一个下拉菜单，可选择要从中观察的 <a class="reference internal" href="../../_images/icon_camera.svg"><img alt="camera icon" height="12" src="../../_images/icon_camera.svg" width="12" /></a> 摄像机。</p></li>
+<li><p>该 <a class="reference internal" href="../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../_images/icon_viewport.svg" width="12" /></a> <strong>View</strong> 下拉菜单会列出可在视口中显示或隐藏的内容。</p>
+<p>如果视口中缺少某些内容，或某些显示项让你分心，首先应检查这里。</p>
+</li>
+</ul>
+</section>
+<section id="timeline-editor">
+<h3>时间轴编辑器<a class="headerlink" href="#timeline-editor" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../_images/timelineEditor.png"><img alt="timeline editor getting started" class="align-right" src="../../_images/timelineEditor.png" style="width: 500px;" /></a>
+<p>这里从左到右可视化时间。</p>
+<ul class="simple">
+<li><p>你可以<strong>播放</strong>或<strong>暂停</strong>模拟，使用 <a class="reference internal" href="../../_images/icon_play.svg"><img alt="play Icon" height="8" src="../../_images/icon_play.svg" width="8" /></a> 或 <strong>空格键</strong></p></li>
+<li><p>你可以<strong>重置</strong>模拟（回到时间轴开头），使用 <a class="reference internal" href="../../_images/icon_reset_sim.svg"><img alt="reset Icon" height="11" src="../../_images/icon_reset_sim.svg" width="11" /></a> 或 <strong>r</strong></p></li>
+</ul>
+<p>如果忘记某个快捷键，可以将鼠标悬停在按钮上查看它的快捷键。也可以前往 <strong>Shortcuts</strong> 部分，它位于 <em>Settings&gt;Preferences</em>。</p>
+<p>从开头播放时，你会看到一条蓝线移动。它表示时间轴上的当前时间。</p>
+<p>按钮旁边的数字会以帧和秒显示当前时间。点击左侧的数值时，时间轴会在显示帧数和显示秒数之间切换。</p>
+<p>请注意，模拟总是从一帧计算到下一帧。这意味着你不能倒放，也不能像普通视频那样拖动浏览。</p>
+</section>
+<section id="node-graph">
+<h3>节点图<a class="headerlink" href="#node-graph" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../_images/nodeGraph_EG.png"><img alt="nodegraph" class="align-right" src="../../_images/nodeGraph_EG.png" style="width: 500px;" /></a>
+<p>这里用于管理创建模拟所需的构建模块。</p>
+<p>你看到的独立模块称为节点。可以把它们想象成各自承担特定任务的小机器；这些机器组合在一起，就构成了产出最终效果的工厂。</p>
+<p>节点通过连线连接，数据会从一个节点传递到另一个节点。</p>
+<p>若要在节点图中导航，请按住 <a class="reference internal" href="../../_images/middle.svg"><img alt="middle mouse button" height="18" src="../../_images/middle.svg" width="18" /></a> 按钮并拖动。你也可以使用滚轮放大或缩小。</p>
+<p>如果迷失了位置，可以使用右上角的 <a class="reference internal" href="../../_images/fit_to_view.svg"><img alt="fit To View Icon" height="12" src="../../_images/fit_to_view.svg" width="12" /></a> 按钮重新居中节点，并使用 <a class="reference internal" href="../../_images/100percent_view.svg"><img alt="zoom Default Icon" height="12" src="../../_images/100percent_view.svg" width="12" /></a> 按钮重置缩放。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="320.54455445544556" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/nodeGraph_EG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p>选择节点： <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a></p></li>
+<li><p>按住 <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> 并在节点周围拖出一个框，可以框选节点。</p></li>
+<li><p>选中节点后按 <cite>Delete</cite> 键即可删除节点。</p></li>
+<li><p>复制和粘贴节点： <cite>Ctrl + C</cite> 和 <cite>Ctrl + V</cite>.</p></li>
+<li><p>按住 <cite>鼠标左键</cite> 并拖动即可移动节点。</p></li>
+<li><p>使用节点右上角的开关按钮禁用节点： <a class="reference internal" href="../../_images/node_toggle.svg"><img alt="node toggle icon" height="14" src="../../_images/node_toggle.svg" width="14" /></a>。</p></li>
+<li><p>连接节点时，可以 <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> 从节点两侧的连接引脚点击并拖拽。也可以选中多个节点后按 <cite>Ctrl + L</cite></p></li>
+<li><p>连接引脚始终会标明它需要连接到哪一个节点或节点类别。</p></li>
+<li><p>你可以在节点图中右键单击并从菜单中选择节点来创建节点。也可以从连接引脚拖到节点图中的空白位置；这样会弹出一个菜单，列出适用于该连接类型的所有节点。</p></li>
+</ul>
+</section>
+<section id="properties-panel">
+<h3>属性面板<a class="headerlink" href="#properties-panel" title="Permalink to this heading">#</a></h3>
+<a class="reference internal image-reference" href="../../_images/propertiesPanel2.png"><img alt="properties panel" class="align-right" src="../../_images/propertiesPanel2.png" style="width: 400px;" /></a>
+<p>这里显示所选节点的设置。（如果选中的是同类型的多个节点，则显示这些节点的设置。）</p>
+<ul class="simple">
+<li><p><strong>Node Details（节点详情）：</strong> 这个选项卡显示所选节点的所有参数。</p></li>
+<li><p>每个节点都有自己的一组选项卡，用来组织参数。</p></li>
+<li><p>查找特定参数时，可以按 <cite>Ctrl + P</cite></p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="400" height="69.56521739130434" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/propertiesPanel_EG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p>修改参数时，可以使用 <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> 点击数值，输入新值后按 <cite>Enter</cite> ；也可以点击并拖动数值滑块。</p></li>
+<li><p>你也可以在这些文本框中直接进行数学运算。例如输入 4*7/2+6-2 并按 <cite>Enter</cite> 会把该参数设为 18。例如，这有助于快速将数值相乘或减半。</p></li>
+<li><p>有些参数不是数值，而是下拉菜单；可以用 <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a>点击打开，然后从菜单中选择一个选项。</p></li>
+<li><p>此外还有复选框，可以直接点击开启或关闭。</p></li>
+<li><p>试着把光标停留在参数名称上。这样会显示一个文本框，说明该参数的作用。</p></li>
+<li><p>参数右侧的还原图标 <a class="reference internal" href="../../_images/icon_reset.svg"><img alt="favorite" height="12" src="../../_images/icon_reset.svg" width="13" /></a> 会将参数重置为默认值。</p></li>
+<li><p><strong>Favorites：</strong> 这个选项卡显示所有标记为收藏的参数。你可以在 Node Details（节点详情）选项卡中勾选任意参数旁边的星形图标 <a class="reference internal" href="../../_images/favorite.svg"><img alt="favorite" height="16" src="../../_images/favorite.svg" width="16" /></a> 来将其加入收藏。</p></li>
+<li><p><strong>Timeline：</strong> 这个选项卡显示所有启用了关键帧的参数。若要了解关键帧，请查看我们的 <a class="reference internal" href="../../liquigen/pages/references/specific/animation.html#animation"><span class="std std-ref">关键帧动画</span></a> 页面。</p></li>
+<li><p><strong>Randomized：</strong> 在这个选项卡中，你可以查看并调整被选中用于随机化的参数。这可用于创建模拟的不同变体。若要选择一个参数用于随机化，请 <cite>Shift</cite> + <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> 点击 <a class="reference internal" href="../../_images/cycler_none.svg"><img alt="cycler none icon" height="14" src="../../_images/cycler_none.svg" width="14" /></a> 左侧的图标。已随机化的参数会用 <a class="reference internal" href="../../_images/cycler_random.svg"><img alt="cycler random icon" height="14" src="../../_images/cycler_random.svg" width="14" /></a> 图标标记。更多信息请查看我们的 <a class="reference internal" href="references/How-To%20Guides/randomization.html#randomization"><span class="std std-ref">随机化</span></a> 部分。</p></li>
+</ul>
+</section>
+<section id="voxels">
+<span id="voxelsref"></span><h3>体素<a class="headerlink" href="#voxels" title="Permalink to this heading">#</a></h3>
+<p>按下 <em>B</em>，或在视口的<em>边界框</em> 菜单中选择 <em>view</em> 选项后，你会看到一个包含模拟的盒子出现。这称为 <strong>边界框</strong>。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="300.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/boundingBox.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>边界框由 <strong>体素</strong>组成，你可以把它们理解为三维像素。体素默认不存储红、绿、蓝值，而是存储燃料、烟雾、温度、火焰和速度等值。因此，烟雾越浓，对应体素中的烟雾值就越高。和像素一样，体素越多，细节越丰富。这些数值会根据软件中施加的力在体素之间移动。例如，将 Simulation（模拟）节点 Force 选项卡中的 Gravity multiplier 从 100% 设为 -100% 时，火焰和烟雾会开始向下移动，而不是向上移动。</p>
+<p>为了进一步说明体素，我们来看一下 <em>Domain</em> 选项卡，它位于 <em>Simulation</em> 节点中。</p>
+<ul class="simple">
+<li><p><strong>Current size</strong> 这里显示场景中体素数量的计算结果。体素越多，边界框越大，细节也越多；同时模拟也会更重，软件运行会变慢。</p></li>
+<li><p><strong>Voxel count</strong> 这些值决定体素数量和边界框大小。如果模拟被裁切，无法放入边界框，就需要在这里增加体素。如果边界框中有空白空间，最好减少不必要的体素以提升性能。在任一参数中输入新值后，需要点击闪烁的黄色 <em>Apply New Resolution</em> 按钮，将更改应用到模拟。</p></li>
+<li><p><strong>Voxel size</strong> 体素所占据的空间。修改该参数不会改变体素数量，但会改变边界框大小。这个参数决定模拟的全局尺度。例如，对一把燃烧的椅子来说，将体素大小除以 2 不会改变椅子的尺度，但会让火焰更细致，看起来更像是一条燃烧的长凳，而不是椅子。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="500" height="119.04761904761904" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/voxelSize.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <a class="reference internal image-reference" href="../../_images/upscalingDocs.png"><img alt="upscaling impact" class="align-right" src="../../_images/upscalingDocs.png" style="width: 500px;" /></a>
+<ul class="simple">
+<li><p><strong>Upscaling</strong> 这是体素数量的倍率。边界框大小会保持不变。当项目接近完成时，这是一种较简单的增加细节的方法。请注意，提高体素数量会显著影响软件性能。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="650" height="324.8335893497184" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/upScaling.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Fast upscaler</strong> 这种方法只会对遮罩阶段进行放大，而不是真正执行升采样。勾选后模拟会更快，但细节更少。</p></li>
+</ul>
+<img alt="fast upscale" class="align-center" src="../../_images/fastUpScaling.gif" />
+<ul class="simple">
+<li><p><strong>Zero position</strong> 轴上开始计算体素的位置。例如，使用 Center 并增加体素时，体素会均匀添加到该轴两侧。使用 <em>Min</em> 时，例如在 Z 轴上，体素会添加到顶部。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none" width="700" height="233.33333333333331" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/zeroPosition.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Import control</strong> 允许你将边界框作为子对象绑定到导入的网格或骨骼。</p></li>
+<li><p><strong>Bounds position</strong> 设置边界框在 3D 空间中的位置。</p></li>
+</ul>
+</section>
+<section id="transforming">
+<h3>变换<a class="headerlink" href="#transforming" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="347.2" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/transforming.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>大多数对象/节点都可以在场景中移动，方法是使用位置、旋转或缩放参数，或使用操控器。</p>
+<p>选中可移动节点时，视口中会弹出一个操控器。</p>
+<p>操控器有三种：平移、旋转和缩放。</p>
+<p>可以使用快捷键 <em>Q、W 和 E</em> 来选择它们，也可以使用视口左上角的操控器切换器。（如果看不到操控器切换器，请确认它已在 <a class="reference internal" href="../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../_images/icon_viewport.svg" width="12" /></a> View 下拉菜单中勾选。）</p>
+<p>若要控制操控器手柄，请按住 <a class="reference internal" href="../../_images/left.svg"><img alt="left mouse button" height="18" src="../../_images/left.svg" width="18" /></a> 并拖动。</p>
+</section>
+<section id="nodes">
+<h3>节点<a class="headerlink" href="#nodes" title="Permalink to this heading">#</a></h3>
+<p>我们来看一下最重要的一些节点分别负责什么。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="205" height="410.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/emitterShapes_02.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <section id="emittericon-emitter">
+<h4><a class="reference internal" href="../../_images/emitter_volume.svg"><img alt="emitter icon" height="18" src="../../_images/emitter_volume.svg" width="20" /></a> Emitter（发射器）<a class="headerlink" href="#emittericon-emitter" title="Permalink to this heading">#</a></h4>
+<p>该节点负责按照 <em>Emission</em> 选项卡中指定的数量，用燃料、烟雾或温度填充体素。</p>
+<p>将多个发射器连接到 <em>Emitters</em> 引脚（位于 <a class="reference internal" href="../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> 节点左侧），即可将多个发射器添加到模拟中。</p>
+<p>发射器需要一个发射来源。因此，它左侧有一个 <em>Shapes</em> 引脚。</p>
+<p>发射始终来自连接的形状，因此形状越大，发射量也越多。</p>
+</section>
+<section id="shapesicon-shapes">
+<h4><a class="reference internal" href="../../_images/shapes.svg"><img alt="shapes icon" height="18" src="../../_images/shapes.svg" width="18" /></a> Shapes（形状）<a class="headerlink" href="#shapesicon-shapes" title="Permalink to this heading">#</a></h4>
+<p>这是一类用于添加或修改场景几何体的节点。 <em>Shape: Primitive</em> <a class="reference internal" href="../../_images/shapeIcons.gif"><img alt="shapes Icon" src="../../_images/shapeIcons.gif" style="width: 25.0px; height: 25.0px;" /></a> 节点在 <em>Type</em> 下拉菜单中提供了许多基础形状选项。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="205" height="246.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/forceShowcase.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="forcesicon-force">
+<h4><a class="reference internal" href="../../_images/forces.svg"><img alt="forces icon" height="18" src="../../_images/forces.svg" width="18" /></a> Force（力）<a class="headerlink" href="#forcesicon-force" title="Permalink to this heading">#</a></h4>
+<p>这是一类会改变烟雾或火焰运动的节点。例如，Noise force 会向模拟中添加大量随机速度，使烟雾和火焰看起来更加湍动。</p>
+<p>当一个力连接到 <em>Simulation</em> 节点的 forces 引脚时，它会影响整个模拟。如果它连接到发射器的 <em>Forces</em> 引脚，则只会影响与该发射器相连的形状所定义的体积。</p>
+</section>
+<section id="simulationicon-simulation">
+<h4><a class="reference internal" href="../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../_images/simulation.svg" width="22" /></a> Simulation（模拟）<a class="headerlink" href="#simulationicon-simulation" title="Permalink to this heading">#</a></h4>
+<p>这个节点包含与模拟全局物理相关的所有设置，例如烟雾重量以及烟雾耗散速度。</p>
+<p>一个图中只能有一个 Simulation（模拟）节点。</p>
+<p>可以将多个 Emitters（发射器）、Forces（力）和 Colliders（碰撞体）连接到该节点左侧的引脚。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="200" height="200.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/collider.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</section>
+<section id="collidericon-collider">
+<h4><a class="reference internal" href="../../_images/red.svg"><img alt="collider icon" height="22" src="../../_images/red.svg" width="22" /></a> Collider（碰撞体）<a class="headerlink" href="#collidericon-collider" title="Permalink to this heading">#</a></h4>
+<p>这会让烟雾或火焰与连接到该节点的形状发生碰撞。</p>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="200" height="200.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/sharpening.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <div class="line-block">
+<div class="line"><br /></div>
+</div>
+</section>
+<section id="volumeicon-volume">
+<h4><a class="reference internal" href="../../_images/volume.svg"><img alt="volume icon" height="22" src="../../_images/volume.svg" width="22" /></a> Volume（体积）<a class="headerlink" href="#volumeicon-volume" title="Permalink to this heading">#</a></h4>
+<p>和像素一样，体素也可以应用某些后处理效果，例如锐化。与 Shading 节点不同，Volume（体积）会修改体素内部的值来产生特定效果。</p>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="150" height="150.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/fireColor.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+<section id="shadingicon-shading">
+<h4><a class="reference internal" href="../../_images/shading.svg"><img alt="shading icon" height="22" src="../../_images/shading.svg" width="22" /></a> Shading（着色）<a class="headerlink" href="#shadingicon-shading" title="Permalink to this heading">#</a></h4>
+<p>这里包含体积如何响应光照的相关设置，也可以在这里找到火焰或烟雾颜色等属性。</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</section>
+<section id="lightsicon-light">
+<h4><a class="reference internal" href="../../_images/lights.svg"><img alt="lights icon" height="18" src="../../_images/lights.svg" width="18" /></a> Light（灯光）<a class="headerlink" href="#lightsicon-light" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="200" height="371.42857142857144" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/lights.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>顾名思义，这是一类用于照亮场景的节点。</p>
+<p>试着调整它们 Node Details（节点详情）中的强度滑块，看看它们的作用。</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="../../_images/point.svg"><img alt="point light icon" height="18" src="../../_images/point.svg" width="18" /></a> <strong>Point</strong> 类似灯泡，会从空间中的一个可调节点发出光。</p></li>
+<li><p><a class="reference internal" href="../../_images/spot.svg"><img alt="spotlight icon" height="22" src="../../_images/spot.svg" width="22" /></a> <strong>Spot</strong> 类似剧场中的聚光灯，会以锥形发出光。</p></li>
+<li><p><a class="reference internal" href="../../_images/directional.svg"><img alt="directional light icon" height="22" src="../../_images/directional.svg" width="22" /></a> <strong>Directional</strong> 有点像太阳。根据 <em>inherit sun color</em> 的数值，它会根据角度改变颜色。</p></li>
+<li><p><a class="reference internal" href="../../_images/ambient.svg"><img alt="ambient light icon" height="22" src="../../_images/ambient.svg" width="22" /></a> <strong>Ambient</strong> 会模拟天空反射，从各个角度添加一些光照。根据 <em>inherit sky color</em> 的数值，它会根据 <em>directional lights</em> 的角度改变颜色。</p></li>
+</ul>
+</section>
+<section id="skyicon-skybox">
+<h4><a class="reference internal" href="../../_images/sky.svg"><img alt="sky icon" height="22" src="../../_images/sky.svg" width="22" /></a> Skybox（天空盒）<a class="headerlink" href="#skyicon-skybox" title="Permalink to this heading">#</a></h4>
+<a class="reference internal image-reference" href="../../_images/skyBox.gif"><img alt="sky box" class="align-right" src="../../_images/skyBox.gif" style="width: 200px;" /></a>
+<p>它控制场景中的天空类型。这里有几个选项：</p>
+<ul class="simple">
+<li><p><strong>Atmosphere</strong> 是最高级的选项，会模拟真实天空。若使用 Atmosphere 以外的任何选项，环境光和方向光的继承天空色或太阳色功能将不起作用。</p></li>
+<li><p><strong>Uniform Color</strong> 允许你为天空选择单一颜色。</p></li>
+<li><p><strong>Shade</strong> 会将天空变成从一种颜色过渡到另一种颜色的渐变。</p></li>
+<li><p><strong>None</strong> 会关闭天空，得到黑色背景。</p></li>
+</ul>
+</section>
+<section id="groundicon-ground">
+<h4><a class="reference internal" href="../../_images/ground.svg"><img alt="ground icon" height="22" src="../../_images/ground.svg" width="22" /></a> Ground（地面）<a class="headerlink" href="#groundicon-ground" title="Permalink to this heading">#</a></h4>
+<p>这里包含与场景中可见地面平面相关的所有设置。</p>
+</section>
+<section id="sceneicon-scene">
+<h4><a class="reference internal" href="../../_images/scene.svg"><img alt="scene icon" height="18" src="../../_images/scene.svg" width="18" /></a> Scene（场景）<a class="headerlink" href="#sceneicon-scene" title="Permalink to this heading">#</a></h4>
+<p>这里可以对场景应用视觉后处理效果，例如暗角或色彩校正。</p>
+</section>
+<section id="rendericon-render">
+<h4><a class="reference internal" href="../../_images/render.svg"><img alt="render icon" height="18" src="../../_images/render.svg" width="18" /></a> Render（渲染）<a class="headerlink" href="#rendericon-render" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="150" height="291.08910891089107" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/captureType.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>该 <em>Render</em> 节点包含导出最终渲染所需的设置。在许多其他选项之外，你还可以在这里选择渲染通道。完整的渲染通道列表及其说明，请参阅我们的 <a class="reference internal" href="references/node_list.html#render-passes"><span class="std std-ref">渲染通道部分</span></a>。</p>
+<p>若要尝试默认导出设置，请选择 <em>Render</em> 节点（如果不存在就创建一个），并确保它连接到 <em>Scene</em> 和 <em>Camera</em> 节点。然后指定
+<em>Directory</em>，并可选择设置 <em>Filename</em> 和文件格式。最后点击
+<em>Export Now</em> 按钮。</p>
+<p>导出相关选项相当多，详细说明见 <a class="reference internal" href="references/node_list.html#exporting"><span class="std std-ref">Render Node</span></a> 参考文档。使用默认设置时，只会将 RGB 颜色和 Alpha 通道导出到一个 PNG 翻页动画贴图中。</p>
+<p>Flipbook（翻页序列）是游戏中常用的一种格式，可将整个效果放入一张图像纹理。如果你选择 <em>Sequence</em> 作为 <em>Export Mode</em>，则可以导出图像序列，也就是每一帧都会得到一个文件。这在 VFX 中更常用。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="302.0304568527919" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/captureTypesMappingShowcase.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>该 <em>Render Passes（渲染通道）</em> 选项卡包含 <em>Source</em> 和 <em>Destination</em> 列。 <em>Source</em> 列包含来自 EmberGen 的渲染通道，而 <em>Destination</em> 列表示输出文件/渲染图层。 <em>R, G, B, A</em> 旋钮表示颜色和亮度通道。</p>
+<p>这个界面支持各种工作流和通道映射。</p>
+<p>你可能会注意到形状不会出现在渲染中。这是默认设置，因为通常只需要导出效果本身。你也可以在 <em>Render</em> 节点中，通过从 <em>Shapes Rendering</em> 下拉菜单中选择选项来设置形状渲染方式；该菜单位于 <em>Render Settings</em> 选项卡中。</p>
+<p>全部设置完成后，点击 <em>Export Now</em> 按钮，将文件导出到你的目录。</p>
+</section>
+<section id="cameraicon-camera">
+<h4><a class="reference internal" href="../../_images/camera.svg"><img alt="camera icon" height="18" src="../../_images/camera.svg" width="18" /></a> Camera（摄像机）<a class="headerlink" href="#cameraicon-camera" title="Permalink to this heading">#</a></h4>
+<p>这是渲染场景时所使用的观察视角。</p>
+<p>你可以在视口顶部的 <a class="reference internal" href="../../_images/icon_camera.svg"><img alt="camera icon" height="12" src="../../_images/icon_camera.svg" width="12" /></a> 摄像机下拉菜单中选择摄像机来使用它；也可以选择 <em>Camera</em> 节点，并点击 <em>Activate</em> 按钮，该按钮位于 <em>General</em> 选项卡中。</p>
+<p><strong>连接到 Render 节点的摄像机会决定导出时的观察角度。</strong></p>
+<p>在 <em>Transform</em> 选项卡中，你可以指定摄像机的位置和旋转。你也可以在通过摄像机观察时，通过在视口中导航来完成这些设置。</p>
+<p>当你满意摄像机位置后，可以<strong>锁定</strong>摄像机，该选项位于 <em>General</em> 选项卡中，这样就不会意外移动它。</p>
+<p>该 <em>Display Resolution</em> 参数位于 <em>Display</em> 选项卡，用于指定摄像机宽高比。你可以在视口中直观看到它。别忘了将它设置为与 <em>Render</em> 节点相同的宽高比，以获得正确结果。</p>
+<p>该 <em>Field Of View</em> 参数位于 <em>Display</em> 选项卡，用于指定摄像机可见物体的角度。调整它类似于使用长焦镜头进行缩放。</p>
+</section>
+<section id="exportvdbicon-export-vdb">
+<h4><a class="reference internal" href="../../_images/vdb.svg"><img alt="export VDB icon" height="18" src="../../_images/vdb.svg" width="18" /></a> Export VDB（导出 VDB）<a class="headerlink" href="#exportvdbicon-export-vdb" title="Permalink to this heading">#</a></h4>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="152.5" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/exportVDB_EG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>如果想在其他软件中渲染模拟，可以将其导出为 VDB。Maya 或 Blender 等其他软件可以读取这种格式。</p>
+<p><strong>Export VDB 节点需要连接到 Volume Processing（体积处理）节点的 VDB 引脚。</strong></p>
+</section>
+</section>
+<section id="continuing">
+<h3>继续学习<a class="headerlink" href="#continuing" title="Permalink to this heading">#</a></h3>
+<p>现在你应该已经对如何使用 EmberGen 有了基本了解。</p>
+<p>如果你想了解关于 <a class="reference internal" href="../../liquigen/pages/references/node_list.html#nodelist"><span class="std std-ref">节点</span></a>, <span class="xref std std-ref">用户界面</span>, <a class="reference internal" href="references/settings.html#settings"><span class="std std-ref">设置</span></a>或具体操作方法的更多信息，请查看我们的 <a class="reference internal" href="../../liquigen/pages/references/index.html#references"><span class="std std-ref">参考</span></a> 页面。</p>
+<a class="reference internal image-reference" href="../../_images/LearnSection.png"><img alt="learnsection" class="align-right" src="../../_images/LearnSection.png" style="width: 300px;" /></a>
+<p>如果你是新手，Project Manager 中的 <em>Learn</em> 选项卡以及我们的 <a class="reference external" href="https://www.youtube.com/&#64;jangafx">YouTube 频道</a> 都是值得查看的地方。</p>
+<p>你也可以打开 EmberGen 附带的预设，查看它们是如何搭建的，这会帮助你学到很多。</p>
+<p>另一种很好的学习方式就是大胆尝试。由于 EmberGen 模拟速度很快，通常只需改变某个参数的值，就能很容易看到它的作用。</p>
+<p>别忘了，你可以把光标停留在任意参数名称上，以查看该参数作用的说明。</p>
+<p>如果你想展示作品或寻求帮助，欢迎加入我们的 <a class="reference external" href="https://discord.com/invite/TNPjT2C">Discord 服务器</a></p>
+<p>祝你学习 EmberGen 顺利，</p>
+<p>我们迫不及待想看到你将制作出怎样精彩的效果！</p>
+
+    <div style="
+            display: flex;
+            justify-content: center;
+        "
+     >
+        <video class="lazy" preload="none"   nocontrols autoplay muted playsinline loop>
+            <source data-src="../../_static/videos/fireLoopAwesome.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="references/index.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>下一页</span>
+                </div>
+                <div class="title">参考</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="../index.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>上一页</span>
+                </div>
+                
+                <div class="title">EmberGen 文档</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                版权所有 © 2026，JangaFX
+            </div>
+            使用 <a href="https://www.sphinx-doc.org/">Sphinx</a> 和 <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a> 的
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            本页内容
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">入门</a><ul>
+<li><a class="reference internal" href="#installing-embergen">安装 EmberGen</a><ul>
+<li><a class="reference internal" href="#download">下载</a></li>
+<li><a class="reference internal" href="#installing">安装</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#licensing">许可</a></li>
+<li><a class="reference internal" href="#using-embergen">使用 EmberGen</a><ul>
+<li><a class="reference internal" href="#project-manager">项目管理器</a></li>
+<li><a class="reference internal" href="#user-interface">用户界面</a></li>
+<li><a class="reference internal" href="#viewport">视口</a></li>
+<li><a class="reference internal" href="#timeline-editor">时间轴编辑器</a></li>
+<li><a class="reference internal" href="#node-graph">节点图</a></li>
+<li><a class="reference internal" href="#properties-panel">属性面板</a></li>
+<li><a class="reference internal" href="#voxels">体素</a></li>
+<li><a class="reference internal" href="#transforming">变换</a></li>
+<li><a class="reference internal" href="#nodes">节点</a><ul>
+<li><a class="reference internal" href="#emittericon-emitter"> Emitter（发射器）</a></li>
+<li><a class="reference internal" href="#shapesicon-shapes"> Shapes（形状）</a></li>
+<li><a class="reference internal" href="#forcesicon-force"> Force（力）</a></li>
+<li><a class="reference internal" href="#simulationicon-simulation"> Simulation（模拟）</a></li>
+<li><a class="reference internal" href="#collidericon-collider"> Collider（碰撞体）</a></li>
+<li><a class="reference internal" href="#volumeicon-volume"> Volume（体积）</a></li>
+<li><a class="reference internal" href="#shadingicon-shading"> Shading（着色）</a></li>
+<li><a class="reference internal" href="#lightsicon-light"> Light（灯光）</a></li>
+<li><a class="reference internal" href="#skyicon-skybox"> Skybox（天空盒）</a></li>
+<li><a class="reference internal" href="#groundicon-ground"> Ground（地面）</a></li>
+<li><a class="reference internal" href="#sceneicon-scene"> Scene（场景）</a></li>
+<li><a class="reference internal" href="#rendericon-render"> Render（渲染）</a></li>
+<li><a class="reference internal" href="#cameraicon-camera"> Camera（摄像机）</a></li>
+<li><a class="reference internal" href="#exportvdbicon-export-vdb"> Export VDB（导出 VDB）</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#continuing">继续学习</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/sphinx_highlight.js"></script>
+    <script src="../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../_static/js/ga.js"></script>
+    <script src="../../_static/js/yall.min.js"></script>
+    <script src="../../_static/js/loadLibraries.js"></script>
+    <script src="../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

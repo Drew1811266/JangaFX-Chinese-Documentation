@@ -1,0 +1,851 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../../../genindex.html" /><link rel="search" title="Search" href="../../../../search.html" /><link rel="next" title="Render Pass Mapping" href="render_passes_mapping.html" /><link rel="prev" title="How-To Guides" href="index.html" />
+
+    <link rel="shortcut icon" href="../../../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>Diagnostics - JangaFX Documentation</title>
+      <link rel="stylesheet" type="text/css" href="../../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../../../index.html"><div class="brand">JangaFX Documentation</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul class="current">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../../embergen/index.html">EmberGen Documentation</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../../embergen/pages/getting_started.html">Getting Started</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../../embergen/pages/references/index.html">References</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../../../embergen/pages/references/ui_reference.html">User Interface</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../embergen/pages/references/settings.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../embergen/pages/references/node_list.html">Node List</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/index.html">How-To Guides</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/camera_import.html">Camera Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/render_passes_mapping.html">Render Pass Mapping</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/color.html">Color</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/comment.html">Comment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/note.html">Note</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/import_animation.html">FBX, OBJ, ABC Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/histogram.html">Histogram</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/rangeSlider.html">Range Slider</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/animation.html">Keyframe Animation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/modulation_curve.html">Modulation Curve</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/modulating_parameters.html">Modulating Parameters</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/palettes.html">Palettes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/exportVDB.html">VDB Export</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/randomization.html">Randomization</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../embergen/pages/FAQ.html">FAQ</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current has-children"><a class="reference internal" href="../../../index.html">LiquiGen Documentation</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../getting_started.html">Getting Started</a></li>
+<li class="toctree-l2 current has-children"><a class="reference internal" href="../index.html">References</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../ui_reference.html">User Interface</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../settings.html">Settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../node_list.html">Node List</a></li>
+<li class="toctree-l3 current has-children"><a class="reference internal" href="index.html">How-To Guides</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">Toggle child pages in navigation</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul class="current">
+<li class="toctree-l4 current current-page"><a class="current reference internal" href="#">Diagnostics</a></li>
+<li class="toctree-l4"><a class="reference internal" href="render_passes_mapping.html">Render Pass Mapping</a></li>
+<li class="toctree-l4"><a class="reference internal" href="color.html">Color</a></li>
+<li class="toctree-l4"><a class="reference internal" href="comment.html">Comment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="note.html">Note</a></li>
+<li class="toctree-l4"><a class="reference internal" href="import_animation.html">FBX, OBJ, ABC Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="camera_import.html">Camera Import</a></li>
+<li class="toctree-l4"><a class="reference internal" href="rangeSlider.html">Range Slider</a></li>
+<li class="toctree-l4"><a class="reference internal" href="animation.html">Keyframe Animation</a></li>
+<li class="toctree-l4"><a class="reference internal" href="modulation_curve.html">Modulation Curve</a></li>
+<li class="toctree-l4"><a class="reference internal" href="modulating_parameters.html">Modulating Parameters</a></li>
+<li class="toctree-l4"><a class="reference internal" href="palettes.html">Palettes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="randomization.html">Randomization</a></li>
+<li class="toctree-l4"><a class="reference internal" href="expressions.html">Expressions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../FAQ.html">FAQ</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../illugen/index.html">IlluGen Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../geogen/index.html">GeoGen Documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../licensing/index.html">Floating License Guide</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="298.9182692307692" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/diagnosticsOpening.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <section id="diagnostics">
+<span id="id1"></span><h1>Diagnostics<a class="headerlink" href="#diagnostics" title="Permalink to this heading">#</a></h1>
+<p>The diagnostics panel contains options for visualising various elements of the simulation. This aids in understanding and adjusting particle, mesh, and force behaviors within the scene.</p>
+<p><a class="reference internal" href="../../../../_images/diagnostics.svg"><img alt="diagnostics icon" height="13" src="../../../../_images/diagnostics.svg" width="13" /></a> Toggles the diagnostics settings panel, adding or removing it on the right side of the viewport.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="1500.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/diagnostics_liquid.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<section id="liquid">
+<h2>Liquid<a class="headerlink" href="#liquid" title="Permalink to this heading">#</a></h2>
+<p>This tab deals with the visualization of different properties of the liquid.</p>
+<ul>
+<li><dl>
+<dt><a class="reference internal" href="../../../../_images/liquid_mesh.svg"><img alt="mesh icon" height="12" src="../../../../_images/liquid_mesh.svg" width="12" /></a> <strong>Liquid Mesh:</strong> Show or hide the liquid mesh in the viewport. Show or hide the visualization settings for the liquid mesh in the diagnostics panel.</dt><dd><ul>
+<li><p>Realistic:
+Utilize the standard shading established within the node graph.</p></li>
+<li><p>Field Shading:</p>
+<dl>
+<dt>Non-refractive shading colored to display certain liquid attributes.</dt><dd><ul>
+<li><p>Main Liquid:</p>
+<dl>
+<dt>Show information about the main liquid.</dt><dd><ul>
+<li><p>Triangles:</p>
+<p>Clearly shows all the polygons of the liquid mesh.</p>
+<p>If you see big triangles from the desired camera distance, you might want to increase the mesh resolution by lowering the <em>Voxel size</em> parameter in the <a class="reference internal" href="../../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node to get a more detailed and smooth liquid mesh. If the mesh looks like a colored noise from the desired camera distance because the triangles are so small, you might want to increase your voxel size to gain performance.</p>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p>Whitewater:</p>
+<dl>
+<dt>Show information about whitewater.</dt><dd><ul>
+<li><p>Trapped Air:</p>
+<p>Displays what parts of the liquid are considered trapped air (this is where bubbles can spawn).</p>
+</li>
+</ul>
+<p>Trapped air is indicated with yellow and transitions from cyan to purple for non-trapped air.</p>
+<p>This visualization is used in combination with the <em>Trapped air: Range</em> and <em>Trapped air: Max Depth</em> parameter in the <em>Source</em> tab of the <a class="reference internal" href="../../../../_images/ww.svg"><img alt="whitewater icon" height="18" src="../../../../_images/ww.svg" width="19" /></a> <em>Whitewater</em> node to define where the bubbles may spawn.
+* Wave Crests:</p>
+<p>Displays what parts of the liquid are considered wave crests (this is where foam particles can spawn).</p>
+<p>Wave crests are indicated with yellow and transition from cyan to purple for parts that aren’t considered as wave crests.</p>
+<p>This visualization is used in combination with the <em>Wave crest: Range</em> parameter in the <em>Source</em> tab of the <a class="reference internal" href="../../../../_images/ww.svg"><img alt="whitewater icon" height="18" src="../../../../_images/ww.svg" width="19" /></a> <em>Whitewater</em> node to define where foam may spawn.</p>
+</dd>
+</dl>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Show Normals:</strong> Show normal indicator lines for every vertex. The colors represent the direction of the normal.</p></li>
+</ul>
+<p>Red indicates the normal is pointing in the X or -X direction, green indicates Y or -Y, and blue indicates Z or -Z.</p>
+<p>The colors are blended for directions between axes. For example, a normal pointing between the X and Z axes appears purple. Showing normals helps with seeing the smoothness or any issues with the mesh.</p>
+<dl class="simple">
+<dt>For example, it’s useful when tweaking the <em>SDF smoothing</em> parameter in the <em>Mesh</em> tab of the <a class="reference internal" href="../../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node!</dt><dd><ul class="simple">
+<li><p><strong>Size:</strong> Display size (length) of the normal indicator lines.</p></li>
+</ul>
+</dd>
+</dl>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><a class="reference internal" href="../../../../_images/liquid_particles.svg"><img alt="particles icon" height="12" src="../../../../_images/liquid_particles.svg" width="12" /></a> <strong>Liquid Particles:</strong> Show or hide the liquid particles in the viewport. Show or hide the visualization settings for the liquid particles in the diagnostics panel. You may want to turn <a class="reference internal" href="../../../../_images/liquid_mesh.svg"><img alt="mesh icon" height="12" src="../../../../_images/liquid_mesh.svg" width="12" /></a> <em>Liquid Mesh</em> off to better see the particles. For more information on what liquid particles are please check our <a class="reference internal" href="../../getting_started.html#voxelsref"><span class="std std-ref">Getting Started With LiquiGen Simulation</span></a> section!</dt><dd><ul class="simple">
+<li><p><strong>Sizing:</strong> <em>Voxels</em> will render the particles as shaded spheres with their size based on the voxel size. <em>Pixels</em> will render the particles as non-shaded squares with their size based on the pixel size of your monitor.</p></li>
+<li><p><strong>Size:</strong> Display size of the particles in the viewport. When using <em>Voxels</em> as sizing, 3 means the width of a particle is 3 voxels. When using <em>Pixels</em> as sizing, 3 means the width of a particle is 3 pixels.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="1886.4" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/diagnostics_liquid_particles.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul>
+<li><ul>
+<li><p>Realistic:</p>
+<p>Renders the particles as spheres using the liquids <em>Albedo</em> color.</p>
+</li>
+</ul>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><ul>
+<li><p>Field Shading:</p>
+<dl>
+<dt>Renders the particles as spheres colored to display certain particle attributes.</dt><dd><ul>
+<li><p>Unique ID:</p>
+<p>Colors are mapped based on the particle ID which is a new integer number that is assigned to each particle when spawned.</p>
+<p>Each number is only used once per simulation, so died or drained particles still count when setting up a good remap range!</p>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p>Velocity:</p>
+<p>Colors are mapped based on the particle speed.</p>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p>Stickiness:</p>
+<p>Colors are mapped based on the stickiness of the particles. Stickiness is set using the <em>Stickiness</em> parameter found in the <em>Behaviour</em> tab of the <a class="reference internal" href="../../../../_images/emitter.svg"><img alt="emitter icon" height="18" src="../../../../_images/emitter.svg" width="19" /></a> <em>Emitter</em> node.</p>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p>Age:</p>
+<p>Colors are mapped based on the particle age. The age starts counting in seconds from the moment a particle is spawned. You can see the current time in seconds in the timeline editor next to the frame count for reference. The amount in seconds is the amount of frames (or simulation steps) divided by the step rate which is setup in the <em>Simulation</em> tab of the <a class="reference internal" href="../../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node. This option is only available when the <em>Simulate particle lifetime</em> parameter in the <em>Lifetime</em> tab of the <a class="reference internal" href="../../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node is checked!</p>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p>Viscosity:</p>
+<p>Colors are mapped based on the viscosity of the particles. Viscosity is set using the <em>Dynamic viscosity coefficient</em> parameter found in the <em>Behaviour</em> tab of the <a class="reference internal" href="../../../../_images/emitter.svg"><img alt="emitter icon" height="18" src="../../../../_images/emitter.svg" width="19" /></a> <em>Emitter</em> node. This option is only available when the <em>Simulate viscosity</em> parameter in the <em>Viscosity</em> tab of the <a class="reference internal" href="../../../../_images/simulation.svg"><img alt="simulation icon" height="22" src="../../../../_images/simulation.svg" width="22" /></a> <em>Simulation</em> node is checked!</p>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li><p>The Color Gradient assigns color values based on the selected <em>Field Shading</em> method (Unique ID, Velocity, or Age). Color values are assigned from low values on the left to high values on the right. Each Field Shading method stores its own color gradient settings. For more information on how to use color gradients, please have a look at our <a class="reference internal" href="../specific/color.html#colorgradient"><span class="std std-ref"> Color: Gradient</span></a> section!</p></li>
+<li><p><strong>Remap Range:</strong> This range slider sets up the value range between which the gradient colors will be mapped. For the most informative results, the minimum value is kept at 0 and the maximum value is set to the number of particles (found in the <em>Stats</em> panel under the <a class="reference internal" href="../../../../_images/icon_viewport.svg"><img alt="view icon" height="12" src="../../../../_images/icon_viewport.svg" width="12" /></a> <em>View</em> dropdown menu) for <em>Unique ID</em>, to the highest particle speed in m/s for <em>Velocity</em>, and to the highest particle age in seconds for <em>Age</em>. For more information on how to use range sliders, please have a look at our <a class="reference internal" href="../specific/rangeSlider.html#rangeslider"><span class="std std-ref">Range Slider</span></a> section!</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="../../../../_images/whitewater_particles.svg"><img alt="white water particles icon" height="14" src="../../../../_images/whitewater_particles.svg" width="14" /></a> <strong>Whitewater Particles:</strong> Show or hide the whitewater particles in the viewport.</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     >
+        <video class="lazy" preload="none" width="350" height="350.0" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/diagnostics_liquid_options.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="500" height="333.3333333333333" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/SDF_voxel_size.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    </section>
+<section id="models">
+<h2>Models<a class="headerlink" href="#models" title="Permalink to this heading">#</a></h2>
+<p>This tab deals with the visualization of imported models.</p>
+<ul class="simple">
+<li><p><strong>Show SDF:</strong> If checked, the SDF of the imported model will be shown instead of the polygon rendering. The SDF (sine distance field) is the voxelized version of the model LiquiGen uses for the simulation. It can be useful to preview this as you can see if the model is properly represented in the simulation. If not, you can lower the absolute voxel size or increase the relative resolution in the <em>Asset</em> tab of the <a class="reference internal" href="../../../../_images/import1.svg"><img alt="import node icon" height="18" src="../../../../_images/import1.svg" width="18" /></a> <em>Import</em> node.</p></li>
+</ul>
+</section>
+<section id="forces">
+<h2>Forces<a class="headerlink" href="#forces" title="Permalink to this heading">#</a></h2>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="427.81065088757396" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/diagnosticsForcesArrows.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <p>This tab deals with the visualization of any forces created by <a class="reference internal" href="../../../../_images/forces_group.svg"><img alt="forces icon" height="18" src="../../../../_images/forces_group.svg" width="19" /></a> <em>Force</em> nodes in the scene.</p>
+<p>The <em>Forces</em> section selects which forces are displayed.</p>
+<p>The <em>Transform</em> section sets the dimensions and position of the visualization box in which the force velocities are displayed.</p>
+<p>The <em>View</em> section sets how the arrows are placed within the visualization box.</p>
+<p>The <em>Arrow</em> section sets how the arrows are displayed.</p>
+<ul>
+<li><p><strong>Forces:</strong></p>
+<p>List of all forces. Select a force from the list to display it in the viewport. Multiple forces can be displayed simultaneously with arrows indicating the direction of the combined velocities. Use the <em>Select All</em> checkbox to select or deselect all forces at once. The <a class="reference internal" href="../../../../_images/icon_search.svg"><img alt="search icon" height="12" src="../../../../_images/icon_search.svg" width="12" /></a> search box filters the list to only display forces with names containing the search term. To prevent forces from appearing in the visualization when their nodes are disconnected or disabled, enable the <em>Ignore disabled forces</em> checkbox.</p>
+</li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="491.4" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/diagnostics_forces_view.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>View:</strong></dt><dd><ul>
+<li><dl class="simple">
+<dt><strong>Visual mode:</strong></dt><dd><ul>
+<li><p>2D: One layer of arrows is visible on a plane (slice). This can give clearer visualization of a force as the arrows don’t overlap as they do in a 3D grid. With this mode selected, the <em>Slice</em> parameters appear on the bottom of the diagnostics panel to specify the axis and position of the plane.</p></li>
+<li><p>3D: A grid of arrows is visible pointing in the velocity directions in 3D-space. This can give clearer visualization of the velocity orientations.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Sparsity:</strong> Density of visualization arrows. <em>X1</em> means each voxel has an arrow, <em>X8</em> means every eighth voxel has an arrow.</p></li>
+<li><p><strong>Hide Empty:</strong> If checked, arrows are only shown within the simulation tiles. This can give clearer visualization as the force velocities are only shown around the liquid.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="284.51986754966885" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/diagnostics_arrow.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Arrow:</strong></dt><dd><ul>
+<li><p><strong>Type:</strong> Pick between <a class="reference internal" href="../../../../_images/arrow_1.svg"><img alt="thin arrow icon" height="12" src="../../../../_images/arrow_1.svg" width="13" /></a> 2D arrows made up of thin lines and <a class="reference internal" href="../../../../_images/arrow_2.svg"><img alt="thick arrow icon" height="12" src="../../../../_images/arrow_2.svg" width="12" /></a> 3D arrows made up of 3D shapes. The latter reveals the <em>Thickness</em> parameter below.</p></li>
+<li><dl class="simple">
+<dt><strong>Source:</strong> Color source of the arrows.</dt><dd><ul>
+<li><p>Constant: Sets the color of all arrows to a light blue.</p></li>
+<li><p>Direction: Sets the arrow color based on its direction. The colors are mapped like a color wheel from red in the X axis, green in the Y axis, cyan in the -X axis, to magenta in the -Y axis. Up and down goes from blue in the Z axis to yellow in the -Z axis. The color hues shift gradually between all the directions.</p></li>
+<li><p>Value: Sets the arrow color based on a velocity range setup with the <em>Min/Max</em> parameter from blue in areas with a low force strenth to cyan to yellow to red in areas with a high force strength.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Normalize:</strong> A value of 1 makes all the arrows the same size, a value of 0 scales the arrows based on a velocity range setup with the <em>Min/Max</em> parameter.</p></li>
+<li><p><strong>Size:</strong> Sets the size of the arrows. Higher values mean larger arrows.</p></li>
+<li><p><strong>Thickness:</strong> Only shows when using the <a class="reference internal" href="../../../../_images/arrow_2.svg"><img alt="thick arrow icon" height="12" src="../../../../_images/arrow_2.svg" width="12" /></a> 3D arrow option. Thickness of the arrows.</p></li>
+<li><p><strong>Min/Max:</strong> Set the minimum and maximum velocities for mapping the arrow scale and color.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><strong>Transform:</strong></dt><dd><ul>
+<li><p><strong>Position:</strong> Position of the visualization box in 3D space.</p></li>
+<li><p><strong>Size:</strong> Dimensions of the visualization box in all three axis.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="271.2218649517685" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/diagnostics_forces_slice.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Slice:</strong> This section appears when the <em>Visual mode</em> is set to <em>2D</em> to specify the axis and position of the visualization slice. The slice is the tansparent grey plane containing the arrows.</dt><dd><ul>
+<li><p><strong>Slice Axis:</strong> Specify if the slice is oriented along the X,Y, or Z axis.</p></li>
+<li><p><strong>Slice offset:</strong> Specify the slice position in the force visualization box. 0 means all the way at the negative side of the slice axis 1 means all the way at the positive side of the slice axis.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="velocity">
+<h2>Velocity<a class="headerlink" href="#velocity" title="Permalink to this heading">#</a></h2>
+<p>This tab deals with the visualization of the velocities of the liquid.</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="624.3375174337517" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/diagnostics_velocity_view.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul>
+<li><dl>
+<dt><strong>View:</strong> Sets how the arrows are placed in the scene.</dt><dd><ul class="simple">
+<li><dl class="simple">
+<dt><strong>Visual type:</strong></dt><dd><ul>
+<li><p>Field: Arrows are placed in a grid.</p></li>
+<li><p>Liquid Particles: Arrows are placed on the liquid particles.</p></li>
+<li><p>Whitewater Particles: Arrows are placed on the whitewater particles.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li><dl class="simple">
+<dt><strong>Visual mode:</strong></dt><dd><ul>
+<li><p>2D: One layer of arrows is visible on a plane (slice). This can give clearer visualization as the arrows don’t overlap as they do in a 3D grid. With this mode selected, the <em>Transform</em> and <em>Slice</em> sections appear on the bottom of the diagnostics panel to specify the size, axis, and position of the plane.</p></li>
+<li><p>3D: A grid of arrows is visible pointing in the velocity directions in 3D-space. This can give clearer visualization of the velocity orientations.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li><p><strong>Sparsity:</strong> Density of visualization arrows. <em>X1</em> means each voxel has an arrow, <em>X8</em> means every eighth voxel has an arrow. When using <em>Liquid Particles</em> or <em>Whitewater Particles</em> as the visual type, <em>X1</em> means every particle has an arrow, <em>X512</em> means every 512th particle has an arrow.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="780.4137931034484" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/diagnostics_velocity_arrow.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul>
+<li><dl>
+<dt><strong>Arrow:</strong></dt><dd><ul>
+<li><p><strong>Type:</strong> Pick between <a class="reference internal" href="../../../../_images/arrow_1.svg"><img alt="thin arrow icon" height="12" src="../../../../_images/arrow_1.svg" width="13" /></a> 2D arrows made up of thin lines and <a class="reference internal" href="../../../../_images/arrow_2.svg"><img alt="thick arrow icon" height="12" src="../../../../_images/arrow_2.svg" width="12" /></a> 3D arrows made up of 3D shapes. The latter reveals the <em>Thickness</em> parameter below.</p></li>
+<li><dl>
+<dt><strong>Source:</strong> Color source of the arrows.</dt><dd><ul>
+<li><p>Constant:</p>
+<p>Sets the color of all arrows to a light blue.</p>
+</li>
+<li><p>Direction:</p>
+<p>Sets the arrow color based on its direction. The colors are mapped like a color wheel from red in the X axis, green in the Y axis, cyan in the -X axis, to magenta in the -Y axis. Up and down goes from blue in the Z axis to yellow in the -Z axis. The color hues shift gradually between all the directions.</p>
+</li>
+<li><p>Value:</p>
+<p>Sets the arrow color based on a velocity range setup with the <em>Min/Max</em> parameter from blue in areas with low velocity to cyan to yellow to red in areas with high velocity.</p>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p><strong>Normalize:</strong> A value of 1 makes all the arrows the same size, a value of 0 scales the arrows based on a velocity range setup with the <em>Min/Max</em> parameter.</p></li>
+<li><p><strong>Size:</strong> Sets the size of the arrows. Higher values mean larger arrows.</p></li>
+<li><p><strong>Thickness:</strong> Only shows when using the <a class="reference internal" href="../../../../_images/arrow_2.svg"><img alt="thick arrow icon" height="12" src="../../../../_images/arrow_2.svg" width="12" /></a> 3D arrow option. Thickness of the arrows.</p></li>
+<li><p><strong>Min/Max:</strong> Set the minimum and maximum velocities for mapping the arrow scale and color.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<p>The following sections appear when the <em>Visual mode</em> is set to <em>2D</em> to specify the axis, size, and position of the visualization slice. The slice is the tansparent grey plane containing the arrows.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="239.65277777777777" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/diagnostics_velocity_transform.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><dl class="simple">
+<dt><strong>Transform:</strong></dt><dd><ul>
+<li><p><strong>Position:</strong> Position of the visualization box in 3D space.</p></li>
+<li><p><strong>Size:</strong> Dimensions of the visualization box in all three axis.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt><strong>Slice:</strong> This section appears when the <em>Visual mode</em> is set to <em>2D</em> to specify the axis and position of the visualization slice. The slice is the tansparent grey plane containing the arrows.</dt><dd><ul>
+<li><p><strong>Slice Axis:</strong> Specify if the slice is oriented along the X,Y, or Z axis.</p></li>
+<li><p><strong>Slice offset:</strong> Specify the slice position in the velocity visualization box. 0 means all the way at the negative side of the slice axis 1 means all the way at the positive side of the slice axis.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="domain">
+<h2>Domain<a class="headerlink" href="#domain" title="Permalink to this heading">#</a></h2>
+<p>This tab deals with displaying the area where the simulation takes place.</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="350" height="320.50925925925924" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/waterTrack.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>Bounding Box:</strong> Shows a purple wireframe box displaying the smallest box to fit around all active voxels. It is similar to the bounding box you see with non-sparse solvers but here, the box shrinks and grows based on the simulation and the empty space within it doesn’t take computer resources.</p></li>
+<li><dl class="simple">
+<dt><strong>Tiles:</strong> A tile is a box of 8 voxels cubed. The simulation takes place within the tiles.</dt><dd><ul>
+<li><p><strong>Main Liquid:</strong> Shows the simulation tiles for the liquid particles as green wireframe boxes.</p></li>
+<li><p><strong>Whitewater:</strong> Shows the simulation tiles for the whitewater particles as white wireframe boxes.</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="render_passes_mapping.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Render Pass Mapping</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="index.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">How-To Guides</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                Copyright &#169; 2026, JangaFX
+            </div>
+            Made with <a href="https://www.sphinx-doc.org/">Sphinx</a> and <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Diagnostics</a><ul>
+<li><a class="reference internal" href="#liquid">Liquid</a></li>
+<li><a class="reference internal" href="#models">Models</a></li>
+<li><a class="reference internal" href="#forces">Forces</a></li>
+<li><a class="reference internal" href="#velocity">Velocity</a></li>
+<li><a class="reference internal" href="#domain">Domain</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
+    <script src="../../../../_static/doctools.js"></script>
+    <script src="../../../../_static/sphinx_highlight.js"></script>
+    <script src="../../../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../../../_static/js/ga.js"></script>
+    <script src="../../../../_static/js/yall.min.js"></script>
+    <script src="../../../../_static/js/loadLibraries.js"></script>
+    <script src="../../../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

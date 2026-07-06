@@ -1,0 +1,3324 @@
+{
+  "path": "embergen/pages/getting_started.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "5cf228f2a431",
+      "source": "Getting Started - JangaFX Documentation",
+      "target": "入门 - JangaFX 文档",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "f4842b06f975",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "34d697d89465",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "bdcc1fa1725b",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "844630700b14",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "da8e4bf4d5e3",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "d9cbc3f75344",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "5a041bb89c99",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "97d378899e7e",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "14f66d5ccf11",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "801460f6f9a1",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "ee9efbbef2bc",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "934301a06f02",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "143e45e5ea68",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "7606e201e4c5",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "77fee60a2600",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "7dda39ff459e",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "309919979ef1",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "c8610ec9c7d3",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "d7460a18d0c9",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "cee111cd28ea",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "c9695334d7ef",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "9df7ff74578f",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "daaac80a8dfa",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "ec6d68a09d9c",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "6cfee8714cee",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "37d5b9f5b1be",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "5d45d209bbb0",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "40c3a7d5daee",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "5a9069853fb8",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "4b9aa47d2673",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "71d3d84d59f0",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "3889744b71b2",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "d3cb7553500a",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "18fe7b467e53",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "80a56b46559c",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "37803b61b84d",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "2244eae8bfed",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "7d52233b8de0",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "0b3179abdda7",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "e6fe120fb0b8",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "8736c7996f6e",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "49af656fc5e2",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "0af492188603",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "bef7fbcc3b10",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "523a4a103a01",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "733d18b6ed38",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "b46d97f8e948",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "44ba80e8bcfb",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "46abcded8720",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "603ff2a9964f",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "d0d460b4e0f9",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "f18888543463",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "670bce5873b7",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "0a50a9cf1eb2",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "4bebcf9e5a25",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "4b98fddfa9f3",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "6c68aee95d40",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "e6886ef9762c",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "d82428582c77",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "794f7644bb36",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "5d712f8a58a2",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "e0da7914ea85",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "02353e392521",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "c0ca150920c9",
+      "source": "Installing EmberGen",
+      "target": "安装 EmberGen",
+      "note": "translation memory"
+    },
+    {
+      "id": "2695c2434561",
+      "source": "Download",
+      "target": "下载",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "46d609078969",
+      "source": "If you have a license already go to ",
+      "target": "如果你已经拥有许可证，请前往 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "1d51eb7b2348",
+      "source": "Specify your desired release on the left (latest by default) and click the blue download button on the right.",
+      "target": "在左侧指定你想要的版本（默认是最新版），然后点击右侧的蓝色下载按钮。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "6fc8b4c0a4d0",
+      "source": "To get your trial go to ",
+      "target": "若要获取试用版，请前往 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "551404d8d92a",
+      "source": "There you’ll be greeted by a form!",
+      "target": "页面会显示一个表单。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "824fceaf4ffd",
+      "source": "Your e-mail address and the second checkbox (which allows us to store the information given in the form) are required.",
+      "target": "电子邮箱地址以及第二个复选框是必填项；该复选框允许我们保存表单中提供的信息。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d62c903d8c56",
+      "source": "After filling out the form, pick your operating system at the bottom (Windows or Linux) and click the ",
+      "target": "填写完表单后，在底部选择你的操作系统（Windows 或 Linux），然后点击 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "4b28ee7d382c",
+      "source": "Download EmberGen",
+      "target": "下载 EmberGen",
+      "note": ""
+    },
+    {
+      "id": "3b0804485dd9",
+      "source": " button.",
+      "target": " 按钮。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "84c0e261364a",
+      "source": "The ",
+      "target": "该 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "5d2c5ee6008f",
+      "source": "embergen-latest.exe",
+      "target": "embergen-latest.exe",
+      "note": ""
+    },
+    {
+      "id": "98d38f05d106",
+      "source": " file will be downloaded to your hard drive.",
+      "target": " 文件会下载到你的硬盘。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "87676f5d66b1",
+      "source": "Installing",
+      "target": "安装",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "8abaaafbb622",
+      "source": "Double click the ",
+      "target": "双击 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "4800c9fa39d9",
+      "source": ".exe",
+      "target": ".exe",
+      "note": ""
+    },
+    {
+      "id": "0d5fafee60c4",
+      "source": " file.",
+      "target": " 文件。",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "da7503f71ddd",
+      "source": "Accept the agreement.",
+      "target": "接受协议。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "577973582964",
+      "source": "Click ",
+      "target": "点击 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ead28867b957",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "96f48b1cd884",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "45b39753d967",
+      "source": "Install",
+      "target": "Install",
+      "note": ""
+    },
+    {
+      "id": "0f179d197d96",
+      "source": "Finish",
+      "target": "Finish",
+      "note": ""
+    },
+    {
+      "id": "4fc5cb309224",
+      "source": "If you left ",
+      "target": "如果你保留 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "5870bf073cad",
+      "source": "Launch EmberGen",
+      "target": "启动 EmberGen",
+      "note": ""
+    },
+    {
+      "id": "1b0c472c9276",
+      "source": " checked, the software will boot right away!",
+      "target": " 为勾选状态，软件会立即启动。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "c6a17885fef9",
+      "source": "If you unchecked ",
+      "target": "如果你取消勾选 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3612a6d9847a",
+      "source": "Launch EmberGen",
+      "target": "启动 EmberGen",
+      "note": ""
+    },
+    {
+      "id": "e2cafe79bd0f",
+      "source": " you can launch the software by double-clicking on the desktop shortcut.",
+      "target": "，可以通过双击桌面快捷方式启动软件。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d81cf4025fba",
+      "source": "If you also unchecked ",
+      "target": "如果你同时取消勾选 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a837a745cf01",
+      "source": "Create a desktop shortcut",
+      "target": "Create a desktop shortcut",
+      "note": ""
+    },
+    {
+      "id": "4ff808281793",
+      "source": " you can launch embergen by double-clicking on the ",
+      "target": "，可以双击 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "1da013e9f212",
+      "source": "EmberGen.exe",
+      "target": "EmberGen.exe",
+      "note": ""
+    },
+    {
+      "id": "b91854164cae",
+      "source": " file in the ",
+      "target": " 文件来启动 EmberGen；该文件位于 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3dfb876a5008",
+      "source": "EmberGen",
+      "target": "EmberGen",
+      "note": ""
+    },
+    {
+      "id": "3639e1e5fc18",
+      "source": " folder usually found in ",
+      "target": " 文件夹中，该文件夹通常位于 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "08b9dd3ed2ce",
+      "source": "Licensing",
+      "target": "许可",
+      "note": "translation memory"
+    },
+    {
+      "id": "9776739f539a",
+      "source": "After installation is complete, run EmberGen and in the ",
+      "target": "安装完成后，运行 EmberGen，并在 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "f15cf4f8915d",
+      "source": "Help",
+      "target": "Help",
+      "note": ""
+    },
+    {
+      "id": "46240449f3d5",
+      "source": " menu, click ",
+      "target": " 菜单中点击 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ae2083a319d1",
+      "source": "License Manager…",
+      "target": "License Manager…",
+      "note": ""
+    },
+    {
+      "id": "a81ad953d2d6",
+      "source": " to launch it.",
+      "target": " 来打开它。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "34a850080d1a",
+      "source": "Within this license manager, enter your license key in the ‘Key’ text box.",
+      "target": "在许可证管理器中，将你的许可证密钥输入到 “Key” 文本框。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a1d1e0a9ada4",
+      "source": "Then press the ",
+      "target": "然后按下 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ac5559a3e559",
+      "source": "Activate Key",
+      "target": "Activate Key",
+      "note": ""
+    },
+    {
+      "id": "82db606e6ad7",
+      "source": " button. The status text will change from ",
+      "target": " 按钮。如果许可证成功激活，状态文字会从 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "8921d926d56c",
+      "source": "Deactivated",
+      "target": "Deactivated",
+      "note": ""
+    },
+    {
+      "id": "3fd4120273cd",
+      "source": " to ",
+      "target": " 变为 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "e0b50c13cd38",
+      "source": "Activated",
+      "target": "Activated",
+      "note": ""
+    },
+    {
+      "id": "4125a4bab273",
+      "source": " if the license was activated successfully.",
+      "target": "。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "933bc3fead7a",
+      "source": "If any errors occur they will appear in yellow on the right. If you cannot get your key to activate, email us at ",
+      "target": "如果出现任何错误，它们会以黄色显示在右侧。如果你的密钥无法激活，请通过电子邮件联系我们：",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "75c0023a27a2",
+      "source": "support",
+      "target": "support",
+      "note": ""
+    },
+    {
+      "id": "736b0e8e7fd4",
+      "source": "jangafx",
+      "target": "jangafx",
+      "note": ""
+    },
+    {
+      "id": "fc7187e468c6",
+      "source": "com",
+      "target": "com",
+      "note": ""
+    },
+    {
+      "id": "1780af432726",
+      "source": " using the blue ",
+      "target": "，并使用右上角蓝色的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "746e8b2e93da",
+      "source": "Contact Support",
+      "target": "Contact Support",
+      "note": ""
+    },
+    {
+      "id": "72f1800602d4",
+      "source": " button in the top right corner with a screenshot of the errors.",
+      "target": " 按钮，同时附上错误截图。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "416d8c52a273",
+      "source": "If you don’t have a license key you can purchase one from our ",
+      "target": "如果你没有许可证密钥，可以在我们的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d05086e86332",
+      "source": "pricing page on our website",
+      "target": "官网价格页面",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "1a1ce0e3d3d6",
+      "source": ". You can go there using the blue “Purchase A License” button!",
+      "target": " 购买。你也可以使用蓝色的 “Purchase A License（购买许可证）” 按钮前往该页面。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3a204264b4b1",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "20506c1043ea",
+      "source": "Using Embergen",
+      "target": "使用 EmberGen",
+      "note": "translation memory"
+    },
+    {
+      "id": "fce196a3536f",
+      "source": "Welcome to Embergen!",
+      "target": "欢迎使用 EmberGen！",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "4f68e12c194f",
+      "source": "In this section, you will learn the basics of our software to get started making amazing effects for your games or movies.",
+      "target": "在本节中，你将学习软件的基础知识，开始为游戏或影视制作精彩的特效。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "15d585c447da",
+      "source": "Project Manager",
+      "target": "项目管理器",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a8c520459d5d",
+      "source": "When you first open the software you’ll see the project manager. You can always get to or leave this screen using the home icon ",
+      "target": "首次打开软件时，你会看到项目管理器。你随时可以使用左上角的 Home 图标进入或离开这个界面",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2691d729cadf",
+      "source": " in the top left corner.",
+      "target": "。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3c9df1d92677",
+      "source": "The Project Manager is where you can quickly get to presets or your project files by picking a category on the left.",
+      "target": "在项目管理器中，你可以通过选择左侧的分类，快速访问预设或自己的项目文件。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d314c5e2ac01",
+      "source": "Presets are, ",
+      "target": "预设是随 EmberGen 一起提供的只读 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2a1c4d660805",
+      "source": ".ember",
+      "target": ".ember",
+      "note": ""
+    },
+    {
+      "id": "0dbc3335eb5a",
+      "source": ", read-only, project files shipped with embergen.",
+      "target": " 项目文件。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "af01a0ffa980",
+      "source": "They can serve as a nice starting point for the effects you want to create or as a reference to learn from.",
+      "target": "它们可以作为你创建特效的良好起点，也可以作为学习参考。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "bf95b4d581bc",
+      "source": "Presets are stored in the presets folders within the EmberGen installation folder. (usually ",
+      "target": "预设存放在 EmberGen 安装目录中的 presets 文件夹内。（通常是 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "35d020a1af00",
+      "source": "Note that there is no difference between a preset and any other ",
+      "target": "请注意，预设与其他 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ddd9faa7217f",
+      "source": ".ember",
+      "target": ".ember",
+      "note": ""
+    },
+    {
+      "id": "33cca8879ec2",
+      "source": " file.",
+      "target": " 文件没有本质区别。",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "188879097c70",
+      "source": "If you can’t find the project you are looking for, you can click the ",
+      "target": "如果找不到要使用的项目，可以点击 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d273e65217de",
+      "source": "Open Project",
+      "target": "Open Project",
+      "note": ""
+    },
+    {
+      "id": "7e79b795ccd2",
+      "source": " button to manually search for your ",
+      "target": " 按钮，通过文件浏览器手动查找你的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "57948bd09b5f",
+      "source": ".ember",
+      "target": ".ember",
+      "note": ""
+    },
+    {
+      "id": "d4ceaf75ca17",
+      "source": " file using the file browser.",
+      "target": " 文件。",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "442b63ced92e",
+      "source": "New Project",
+      "target": "New Project",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "6500f60448b5",
+      "source": " will load the default preset. Like any preset everything about this can be altered so don’t worry if it doesn’t look like what you are aiming for.",
+      "target": " 会加载默认预设。和任何预设一样，其中的所有内容都可以修改，所以即使它看起来不像你的目标效果也不用担心。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "cdd2dce16e00",
+      "source": "You can save your presets with ",
+      "target": "你可以使用 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "27af7d5d2593",
+      "source": "Ctrl+S",
+      "target": "Ctrl+S",
+      "note": ""
+    },
+    {
+      "id": "906f323ea354",
+      "source": " or by going to ",
+      "target": " 保存预设，或前往 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "334a5b690bb4",
+      "source": "File > Save",
+      "target": "File > Save",
+      "note": ""
+    },
+    {
+      "id": "44bb9f3beb24",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "3ce1a8db7fa0",
+      "source": "Let’s have a look at the main user interface!",
+      "target": "我们来看一下主用户界面。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "9ec8338b9abd",
+      "source": "As you can see it is subdivided into four sections, the viewport, the timeline editor, the node editor and the properties panel.",
+      "target": "如你所见，它分为四个区域：视口、时间轴编辑器、节点编辑器和属性面板。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3f4ee00d5d58",
+      "source": "All of these can be scaled to your liking, by holding down ",
+      "target": "这些区域都可以按你的偏好缩放：按住 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "5e4e125e9ee7",
+      "source": " and dragging the edges of the section, or viewed full screen by clicking the ",
+      "target": " 并拖动区域边缘即可调整大小；也可以点击每个区域右上角的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2181eed245ce",
+      "source": "Toggle panel fullscreen button",
+      "target": "切换面板全屏按钮",
+      "note": ""
+    },
+    {
+      "id": "1f316ef784d4",
+      "source": " in the top right corner of each section.",
+      "target": " 以全屏查看。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a3aaa9cb54d6",
+      "source": "Viewport",
+      "target": "视口",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "6cffbfd67876",
+      "source": "This is where you can view your simulations, shapes, forces or anything that’s in the scene.",
+      "target": "这里用于查看模拟、形状、力场以及场景中的其他内容。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "de1ec53473c2",
+      "source": "You can move the camera around by holding down ",
+      "target": "你可以在视口中按住 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "947061398561",
+      "source": " in the viewport and pressing ",
+      "target": "，并配合按下 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ff92147224e7",
+      "source": "Alt",
+      "target": "Alt",
+      "note": ""
+    },
+    {
+      "id": "16acbf604416",
+      "source": " to pan, ",
+      "target": " 来平移，",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "b48d9056acf9",
+      "source": "Ctrl",
+      "target": "Ctrl",
+      "note": ""
+    },
+    {
+      "id": "4a1771a89b10",
+      "source": " to zoom and ",
+      "target": " 来缩放，",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "f742eba27b2a",
+      "source": "Shift",
+      "target": "Shift",
+      "note": ""
+    },
+    {
+      "id": "cd240ea20ebd",
+      "source": " to tilt.",
+      "target": " 来倾斜视角。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "fed8b4cf5f34",
+      "source": "If you are used to another control scheme, in the top menu bar go to ",
+      "target": "如果你习惯其他控制方案，可以在顶部菜单栏前往 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "b07c4772b8f6",
+      "source": "Settings>Preferences",
+      "target": "Settings>Preferences",
+      "note": ""
+    },
+    {
+      "id": "7fab7def0548",
+      "source": " then in the ",
+      "target": "，然后在 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a92836821a92",
+      "source": "Camera",
+      "target": "Camera",
+      "note": ""
+    },
+    {
+      "id": "449f2f4748d4",
+      "source": " section you can change the ",
+      "target": " 部分中按你的偏好修改 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "52b33e866ea3",
+      "source": "Control Mapping",
+      "target": "Control Mapping",
+      "note": ""
+    },
+    {
+      "id": "f3209166d487",
+      "source": " to your liking.",
+      "target": "。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "c1bd6c0b125d",
+      "source": "On the top of the viewport, you will find a couple of tabs and dropdown menus:",
+      "target": "在视口顶部，你会看到几个选项卡和下拉菜单：",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "22746ae65c6b",
+      "source": "Scene",
+      "target": "Scene",
+      "note": ""
+    },
+    {
+      "id": "e051c9ba9fd7",
+      "source": " is the default tab where you can view and manipulate everything.",
+      "target": " 是默认选项卡，可用于查看和操作所有内容。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "928adb49161f",
+      "source": "Render",
+      "target": "Render",
+      "note": ""
+    },
+    {
+      "id": "53e9bd70a01a",
+      "source": " is the tab where you can preview what will be exported.",
+      "target": " 选项卡用于预览将要导出的内容。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "4daea7039f0d",
+      "source": "Export",
+      "target": "Export",
+      "note": ""
+    },
+    {
+      "id": "a601ad0f3e21",
+      "source": " is the tab where the exported images can be viewed.",
+      "target": " 选项卡用于查看已导出的图像。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "570b1d5a7c6d",
+      "source": "Right next to the ",
+      "target": "在 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "648c52cd82c8",
+      "source": "Export",
+      "target": "Export",
+      "note": ""
+    },
+    {
+      "id": "1c57a26b403b",
+      "source": " tab is a dropdown menu to select the ",
+      "target": " 选项卡旁边有一个下拉菜单，可选择要从中观察的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "7cf5050bf557",
+      "source": " camera you want to look through.",
+      "target": " 摄像机。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "bdd92338a2a9",
+      "source": "The ",
+      "target": "该 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "5ac423a69b89",
+      "source": "View",
+      "target": "View",
+      "note": ""
+    },
+    {
+      "id": "95105782ff4b",
+      "source": " dropdown menu will give you a list of things to show or hide in the viewport.",
+      "target": " 下拉菜单会列出可在视口中显示或隐藏的内容。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "68f2cfc346d4",
+      "source": "If you are missing or annoyed by something in the viewport this is the first place to look!",
+      "target": "如果视口中缺少某些内容，或某些显示项让你分心，首先应检查这里。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "e9c0e0d3e561",
+      "source": "Timeline Editor",
+      "target": "时间轴编辑器",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "7c94d550c7e4",
+      "source": "This is where time is visualized from left to right.",
+      "target": "这里从左到右可视化时间。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3450f258e4bb",
+      "source": "You can ",
+      "target": "你可以 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "17eb6681409d",
+      "source": "play",
+      "target": "播放",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2b43d74395e3",
+      "source": " or ",
+      "target": " 或 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "fbf6b05b1ca1",
+      "source": "pause",
+      "target": "暂停",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "eb47a99c14d1",
+      "source": " the simulation using ",
+      "target": " 模拟，使用 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "badc4437dba3",
+      "source": " or ",
+      "target": " 或 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "b6ce95c6812b",
+      "source": "spacebar",
+      "target": "空格键",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "0d96f8c41701",
+      "source": "You can ",
+      "target": "你可以 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "35c0225395c2",
+      "source": "reset",
+      "target": "重置",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "f9bec6c9f6b2",
+      "source": " the simulation (revert to the beginning of the timeline) using ",
+      "target": " 模拟（回到时间轴开头），使用 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "926d6927b7cf",
+      "source": " or ",
+      "target": " 或 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "687c61166250",
+      "source": "If you forget a shortcut you can hover your mouse over a button to see its shortcut key.\nOr go to the ",
+      "target": "如果忘记某个快捷键，可以将鼠标悬停在按钮上查看它的快捷键。\n也可以前往 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "4fe665c97690",
+      "source": "Shortcuts",
+      "target": "Shortcuts",
+      "note": ""
+    },
+    {
+      "id": "90e306ebd40e",
+      "source": " section in ",
+      "target": " 部分，它位于 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "f0821118c064",
+      "source": "Settings>Preferences",
+      "target": "Settings>Preferences",
+      "note": ""
+    },
+    {
+      "id": "1096cd23eef8",
+      "source": "When playing from the start you can see a blue line moving. This indicates what the current time on the timeline is.",
+      "target": "从开头播放时，你会看到一条蓝线移动。它表示时间轴上的当前时间。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "80db74eaf756",
+      "source": "The numbers next to the buttons show the current time in frames and seconds.\nWhen clicking on the left one of these, the timeline will toggle from showing frames or showing seconds.",
+      "target": "按钮旁边的数字会以帧和秒显示当前时间。\n点击左侧的数值时，时间轴会在显示帧数和显示秒数之间切换。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "982f4dada54d",
+      "source": "Note that a simulation always calculates from one frame to the next. This means you can’t play it backward or scrub through it.",
+      "target": "请注意，模拟总是从一帧计算到下一帧。这意味着你不能倒放，也不能像普通视频那样拖动浏览。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d8ea007aeba6",
+      "source": "Node Graph",
+      "target": "节点图",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "b313f86838a6",
+      "source": "This is where the building blocks to create the simulation are managed.",
+      "target": "这里用于管理创建模拟所需的构建模块。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "843c5ef1da5d",
+      "source": "The separate modules you see are called nodes. You can think of these as little machines with their own unique tasks. The machines combined are the factory that produces the end product.",
+      "target": "你看到的独立模块称为节点。可以把它们想象成各自承担特定任务的小机器；这些机器组合在一起，就构成了产出最终效果的工厂。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "69123e61d8af",
+      "source": "The nodes are connected with wires passing data from one node to another.",
+      "target": "节点通过连线连接，数据会从一个节点传递到另一个节点。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "c828bae103b8",
+      "source": "To navigate around the Node Graph hold the ",
+      "target": "若要在节点图中导航，请按住 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a98b6f277b65",
+      "source": " button and drag. You can use the scroll wheel to zoom in and out.",
+      "target": " 按钮并拖动。你也可以使用滚轮放大或缩小。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "dc952d5b3fac",
+      "source": "If you get lost you can use the ",
+      "target": "如果迷失了位置，可以使用右上角的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "86dfa8beef93",
+      "source": " button in the top right corner to recenter the nodes and the ",
+      "target": " 按钮重新居中节点，并使用 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "104f3d8e91b1",
+      "source": " button to reset the zoom.",
+      "target": " 按钮重置缩放。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "e4388ad275fa",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c9688a2afd43",
+      "source": "Select a node with ",
+      "target": "选择节点：",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "58c6ff84a735",
+      "source": "Box select a node by holding the ",
+      "target": "按住 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "1995a5ea9926",
+      "source": " and dragging a box around the nodes.",
+      "target": " 并在节点周围拖出一个框，可以框选节点。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "40123af0a96a",
+      "source": "Delete a node by selecting it and then pressing the ",
+      "target": "选中节点后按 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "fdb27b055e2b",
+      "source": "Delete",
+      "target": "Delete",
+      "note": ""
+    },
+    {
+      "id": "626eddfc8c19",
+      "source": " key.",
+      "target": " 键即可删除节点。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "fdae9b11d2eb",
+      "source": "Copy and paste nodes with ",
+      "target": "复制和粘贴节点：",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "bb3a2acb50c5",
+      "source": "Ctrl + C",
+      "target": "Ctrl + C",
+      "note": ""
+    },
+    {
+      "id": "d5d7b68cd69b",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "d5cc86a9ea45",
+      "source": "Ctrl + V",
+      "target": "Ctrl + V",
+      "note": ""
+    },
+    {
+      "id": "5f0ed1f31061",
+      "source": "Move nodes by holding the ",
+      "target": "按住 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "6b38b5712d88",
+      "source": "Left Mouse Button",
+      "target": "鼠标左键",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ce807452c5d6",
+      "source": " and dragging.",
+      "target": " 并拖动即可移动节点。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "10759c5b9858",
+      "source": "Disable a node using the on/off button ",
+      "target": "使用节点右上角的开关按钮禁用节点：",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "282d2ee0cdcd",
+      "source": " in the top right corner of the node.",
+      "target": "。",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "676f6de004b5",
+      "source": "Connect nodes by ",
+      "target": "连接节点时，可以 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "586d4a973a4c",
+      "source": " clicking and dragging from the connection pins on the sides of the nodes. Or by selecting multiple nodes and pressing ",
+      "target": " 从节点两侧的连接引脚点击并拖拽。也可以选中多个节点后按 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "10f1a838c152",
+      "source": "Ctrl + L",
+      "target": "Ctrl + L",
+      "note": ""
+    },
+    {
+      "id": "a79b7ea65086",
+      "source": "The connection pins always state the node or node category it needs to be connected to.",
+      "target": "连接引脚始终会标明它需要连接到哪一个节点或节点类别。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "5d137f85adb6",
+      "source": "Create a node by right-clicking in the node graph and selecting a node from the menu. Or by dragging from a connection pin to somewhere in the node graph. This way you’ll get a menu with all the nodes available for that type of connection.",
+      "target": "你可以在节点图中右键单击并从菜单中选择节点来创建节点。也可以从连接引脚拖到节点图中的空白位置；这样会弹出一个菜单，列出适用于该连接类型的所有节点。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ab1c8aea71fa",
+      "source": "Properties Panel",
+      "target": "属性面板",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2c0a66096c7f",
+      "source": "This is where the settings are for the selected node. (Or multiple nodes when selecting nodes of the same type.)",
+      "target": "这里显示所选节点的设置。（如果选中的是同类型的多个节点，则显示这些节点的设置。）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "87f88cc1cf0d",
+      "source": "Node Details:",
+      "target": "Node Details（节点详情）：",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "19bc90b51172",
+      "source": " This tab shows all the parameters for the selected node.",
+      "target": " 这个选项卡显示所选节点的所有参数。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "1cdf0af61a9e",
+      "source": "Every node has its own array of tabs organizing the parameters.",
+      "target": "每个节点都有自己的一组选项卡，用来组织参数。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2760bc4b5d89",
+      "source": "When looking for a specific parameter, you can easily find it using the Parameter Palette which opens by pressing ",
+      "target": "查找特定参数时，可以按 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "04897f70f461",
+      "source": "Ctrl + P",
+      "target": "Ctrl + P",
+      "note": ""
+    },
+    {
+      "id": "2db876f3ebb2",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "89e42277df71",
+      "source": "You can change a parameter by either using ",
+      "target": "修改参数时，可以使用 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "20eb4bdb6e73",
+      "source": " on the value, typing in a new value, and pressing ",
+      "target": " 点击数值，输入新值后按 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "1bc874880537",
+      "source": "Enter",
+      "target": "Enter",
+      "note": ""
+    },
+    {
+      "id": "7d42df8da3f2",
+      "source": " or clicking and dragging the value slider.",
+      "target": "；也可以点击并拖动数值滑块。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ea03c02d6463",
+      "source": "You can also apply math within these text boxes. For example, typing 4*7/2+6-2 and pressing ",
+      "target": "你也可以在这些文本框中直接进行数学运算。例如输入 4*7/2+6-2 并按 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "22e56ba172e4",
+      "source": "Enter",
+      "target": "Enter",
+      "note": ""
+    },
+    {
+      "id": "e7cbe5b6f51b",
+      "source": " will put a value of 18 in the parameter. This can be helpful for quickly multiplying a value or reducing it by half for example.",
+      "target": " 会把该参数设为 18。例如，这有助于快速将数值相乘或减半。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "721343cb11aa",
+      "source": "Some parameters aren’t values but dropdown menus which can be opened by clicking on them with the ",
+      "target": "有些参数不是数值，而是下拉菜单；可以用 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "8a9591a5942c",
+      "source": ". Then you can pick an option from the menu.",
+      "target": " 点击打开，然后从菜单中选择一个选项。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "7482e2998c7d",
+      "source": "There are also check boxes that can be simply clicked on or off.",
+      "target": "此外还有复选框，可以直接点击开启或关闭。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "dbb559f38037",
+      "source": "Try leaving your cursor on a parameter name. This will show a text box with information on what the parameter does!",
+      "target": "试着把光标停留在参数名称上。这样会显示一个文本框，说明该参数的作用。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ff59356b79ac",
+      "source": "The revert icon ",
+      "target": "参数右侧的还原图标 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ece7b574c8bc",
+      "source": " on the right side of the parameters will reset the parameter to its default value.",
+      "target": " 会将参数重置为默认值。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "223ca9160c7d",
+      "source": "Favorites:",
+      "target": "Favorites：",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "34608e362102",
+      "source": " This tab shows all the parameters that are marked as favorites. You can do this with any parameter from the Node Details tab by checking the star icon ",
+      "target": " 这个选项卡显示所有标记为收藏的参数。你可以在 Node Details（节点详情）选项卡中勾选任意参数旁边的星形图标 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "921e5526f519",
+      "source": " right next to it.",
+      "target": " 来将其加入收藏。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "4fcef26cdec0",
+      "source": "Timeline:",
+      "target": "Timeline：",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "7863bed0b022",
+      "source": " This tab shows all the parameters with keyframing enabled. To learn about keyframes check out our ",
+      "target": " 这个选项卡显示所有启用了关键帧的参数。若要了解关键帧，请查看我们的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a5c5c64e69c9",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "c51b1038106b",
+      "source": " page.",
+      "target": " 页面。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "873397865331",
+      "source": "Randomized:",
+      "target": "Randomized：",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "f7b688ae6a6b",
+      "source": " In this tab you can see and adjust the parameters selected for randomization. This can be used to create variations of your simulation. To choose a parameter for randomization ",
+      "target": " 在这个选项卡中，你可以查看并调整被选中用于随机化的参数。这可用于创建模拟的不同变体。若要选择一个参数用于随机化，请 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "fbe4ebff2114",
+      "source": "Shift",
+      "target": "Shift",
+      "note": ""
+    },
+    {
+      "id": "cea847f6c65a",
+      "source": " click on the ",
+      "target": " 点击 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d675495d5190",
+      "source": " icon on the left. Randomized parameters are marked with the ",
+      "target": " 左侧的图标。已随机化的参数会用 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d3115f7a0387",
+      "source": " icon.  For more information check out our ",
+      "target": " 图标标记。更多信息请查看我们的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "69d4f1befbf6",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "1d25185dcf67",
+      "source": " section!",
+      "target": " 部分。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "bb367a95b4b5",
+      "source": "Voxels",
+      "target": "体素",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "42fac50bea85",
+      "source": "When pressing ",
+      "target": "按下 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "0b76b9cb4a62",
+      "source": " or selecting the ",
+      "target": "，或在视口的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "82c9775c9a31",
+      "source": "bounding box",
+      "target": "边界框",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d23c16a660df",
+      "source": " option in the ",
+      "target": " 菜单中选择 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a6c1ee687c93",
+      "source": "view",
+      "target": "view",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ba1e84adefd1",
+      "source": " menu of the viewport. You will see a box appear containing the simulation. This is called the ",
+      "target": " 选项后，你会看到一个包含模拟的盒子出现。这称为 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "8eb8b8e058c6",
+      "source": "bounding box",
+      "target": "边界框",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "b0d59354aa85",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "b2a4f3f45dba",
+      "source": "The bounding box is made out of ",
+      "target": "边界框由 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d0a1d15ce74a",
+      "source": "voxels",
+      "target": "体素",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "b747760f87a0",
+      "source": ", you can think of those as three-dimensional pixels. Instead of containing red, green, or blue values. Voxels contain (by default) fuel, smoke, temperature, flames, and velocity values. So for thicker smoke, there is a higher smoke value in those voxels. Just like with pixels more voxels will give more details. The values will move through the voxels based on the forces that are applied to them in the software. For example, when setting the Gravity multiplier in the Force tab of the Simulation node from 100% to -100% the fire and smoke will start moving downwards instead of upwards.",
+      "target": " 组成，你可以把它们理解为三维像素。体素默认不存储红、绿、蓝值，而是存储燃料、烟雾、温度、火焰和速度等值。因此，烟雾越浓，对应体素中的烟雾值就越高。和像素一样，体素越多，细节越丰富。这些数值会根据软件中施加的力在体素之间移动。例如，将 Simulation（模拟）节点 Force 选项卡中的 Gravity multiplier 从 100% 设为 -100% 时，火焰和烟雾会开始向下移动，而不是向上移动。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3e29aa94028a",
+      "source": "To further explain voxels let’s run down the ",
+      "target": "为了进一步说明体素，我们来看一下 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "eab6acc1a05b",
+      "source": "Domain",
+      "target": "Domain",
+      "note": ""
+    },
+    {
+      "id": "09590d4e63fe",
+      "source": " tab in the ",
+      "target": " 选项卡，它位于 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "497f4af6c652",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "c62e97fd26ce",
+      "source": " node.",
+      "target": " 节点中。",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "5aff834d471a",
+      "source": "Current size",
+      "target": "Current size",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a79e3daa0903",
+      "source": " This shows the calculation of the number of voxels you have in the scene. More voxels mean a bigger bounding box and more detail. It also means a heavier simulation slowing down the software.",
+      "target": " 这里显示场景中体素数量的计算结果。体素越多，边界框越大，细节也越多；同时模拟也会更重，软件运行会变慢。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "6d5c9a0ddcef",
+      "source": "Voxel count",
+      "target": "Voxel count",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "cfe608db5875",
+      "source": " These values determine the number of voxels and the size of the bounding box. If a simulation is cut off and doesn’t fit in the bounding box you need to add more voxels here. If you have blank space within your bounding box, it’s good to reduce the number of unnecessary voxels to gain performance. When having entered a new value in one of these parameters you need to click the blinking yellow ",
+      "target": " 这些值决定体素数量和边界框大小。如果模拟被裁切，无法放入边界框，就需要在这里增加体素。如果边界框中有空白空间，最好减少不必要的体素以提升性能。在任一参数中输入新值后，需要点击闪烁的黄色 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "e1c44ca208b5",
+      "source": "Apply New Resolution",
+      "target": "Apply New Resolution",
+      "note": ""
+    },
+    {
+      "id": "061192cc38a1",
+      "source": " button to apply your changes to the simulation.",
+      "target": " 按钮，将更改应用到模拟。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "b2ad8f134403",
+      "source": "Voxel size",
+      "target": "Voxel size",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "746e6b030f91",
+      "source": " The space occupied by a voxel. Changing this parameter doesn’t change the voxel count, but does change the size of the bounding box. This parameter determines the global scale of the simulation. So when having a burning chair for example. Dividing the voxel size by 2 won’t change the scale of the chair, but will make the flames more detailed as if it’s more like a burning bench instead of a chair.",
+      "target": " 体素所占据的空间。修改该参数不会改变体素数量，但会改变边界框大小。这个参数决定模拟的全局尺度。例如，对一把燃烧的椅子来说，将体素大小除以 2 不会改变椅子的尺度，但会让火焰更细致，看起来更像是一条燃烧的长凳，而不是椅子。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "c3d442cf0266",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4d2b324c8e9e",
+      "source": "Upscaling",
+      "target": "Upscaling",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3eed8de5b18c",
+      "source": " This is a multiplier for the number of voxels. The size of the bounding box will remain as it is. This can be an easy way to add some detail when you’re about to finish the project. Note that multiplying the number of voxels will heavily impact the performance of the software.",
+      "target": " 这是体素数量的倍率。边界框大小会保持不变。当项目接近完成时，这是一种较简单的增加细节的方法。请注意，提高体素数量会显著影响软件性能。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "b5fb45c4e344",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "fb23f180bacb",
+      "source": "Fast upscaler",
+      "target": "Fast upscaler",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "0b4f7582ef40",
+      "source": " This method will just upscale the masking phase instead of doing a real upscale. Checking this will make the simulation faster but less detailed.",
+      "target": " 这种方法只会对遮罩阶段进行放大，而不是真正执行升采样。勾选后模拟会更快，但细节更少。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "56fa3d8e5eeb",
+      "source": "Zero position",
+      "target": "Zero position",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "bea312dbf97c",
+      "source": " The point on the axis from where the voxels are counted. For example, when using Center and adding voxels, they’ll be added equally to both sides of the axis. When using ",
+      "target": " 轴上开始计算体素的位置。例如，使用 Center 并增加体素时，体素会均匀添加到该轴两侧。使用 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "27d610ab991d",
+      "source": "Min",
+      "target": "Min",
+      "note": ""
+    },
+    {
+      "id": "422220b1ab15",
+      "source": " on for example the Z-axis voxels will be added to the top.",
+      "target": " 时，例如在 Z 轴上，体素会添加到顶部。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "fee57e8a7e65",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "b2d2c8a91f9f",
+      "source": "Import control",
+      "target": "Import control",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "c43b106dac30",
+      "source": " Allows you to parent the bounding box to an imported mesh or bone.",
+      "target": " 允许你将边界框作为子对象绑定到导入的网格或骨骼。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "6c04bfb6945c",
+      "source": "Bounds position",
+      "target": "Bounds position",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "6bb25f01ca9e",
+      "source": " Sets the position of the bounding box in 3D space.",
+      "target": " 设置边界框在 3D 空间中的位置。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "cb2b13dcbaba",
+      "source": "Transforming",
+      "target": "变换",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "c2fa65726b1d",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "8a1f1745fdb8",
+      "source": "Most object/nodes can be moved around in the scene using the position, rotation, or scale parameters or using the manipulators.",
+      "target": "大多数对象/节点都可以在场景中移动，方法是使用位置、旋转或缩放参数，或使用操控器。",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "1ed5fca494c7",
+      "source": "A manipulator will pop up in the viewport when selecting a moveable node.",
+      "target": "选中可移动节点时，视口中会弹出一个操控器。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2c3b0507ae4d",
+      "source": "There are three manipulators, translate, rotate and scale.",
+      "target": "操控器有三种：平移、旋转和缩放。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "5f94995298ef",
+      "source": "They can be selected with the hotkeys ",
+      "target": "可以使用快捷键 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "86d94bb60f8c",
+      "source": "Q, W, and E",
+      "target": "Q、W 和 E",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "759d03b9c0ff",
+      "source": " or with the manipulator switcher in the top left corner of the viewport. (if you don’t see the manipulator switcher, make sure it’s checked in the ",
+      "target": " 来选择它们，也可以使用视口左上角的操控器切换器。（如果看不到操控器切换器，请确认它已在 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "eaad59b7fd86",
+      "source": " View dropdown menu.)",
+      "target": " View 下拉菜单中勾选。）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ea9fc7020537",
+      "source": "To control the manipulator handles, hold ",
+      "target": "若要控制操控器手柄，请按住 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "8a779f376091",
+      "source": " and drag.",
+      "target": " 并拖动。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "c99b9dbf4b6c",
+      "source": "Nodes",
+      "target": "节点",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "318a5cebf666",
+      "source": "Let’s have a look at what the most important nodes are doing.",
+      "target": "我们来看一下最重要的一些节点分别负责什么。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "038c55f2e194",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "db90d5444db9",
+      "source": " Emitter",
+      "target": " Emitter（发射器）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "98266febff43",
+      "source": "This node is responsible for filling the voxels with fuel, smoke, or temperature with the amount specified in the ",
+      "target": "该节点负责按照 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "729753cf6af2",
+      "source": "Emission",
+      "target": "Emission",
+      "note": ""
+    },
+    {
+      "id": "0e786efb9a22",
+      "source": " tab.",
+      "target": " 选项卡中指定的数量，用燃料、烟雾或温度填充体素。",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "095051de6ef6",
+      "source": "Multiple emitters can be added to the simulation by connecting them to the ",
+      "target": "将多个发射器连接到 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "17ebc1190c41",
+      "source": "Emitters",
+      "target": "Emitters",
+      "note": ""
+    },
+    {
+      "id": "828dbe0d0771",
+      "source": " pin on the left side of the ",
+      "target": " 引脚（位于 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "52ad8e42cce7",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "6f83175e503e",
+      "source": " node.",
+      "target": " 节点左侧），即可将多个发射器添加到模拟中。",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "2886536dd968",
+      "source": "The emitter needs something to emit from. That’s why there is a ",
+      "target": "发射器需要一个发射来源。因此，它左侧有一个 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3ddbdf896d28",
+      "source": "Shapes",
+      "target": "Shapes",
+      "note": ""
+    },
+    {
+      "id": "0ef2a9556b51",
+      "source": " pin on the left side of it.",
+      "target": " 引脚。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "106775c43afb",
+      "source": "The emission always comes from the connected shape, so a bigger shape also means more emission.",
+      "target": "发射始终来自连接的形状，因此形状越大，发射量也越多。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "8cac9796008c",
+      "source": " Shapes",
+      "target": " Shapes（形状）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "0206bca3ffc9",
+      "source": "This is a category of nodes that add or modify geometry in the scene.\nThe ",
+      "target": "这是一类用于添加或修改场景几何体的节点。\n",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3a1322247622",
+      "source": "Shape: Primitive",
+      "target": "Shape: Primitive",
+      "note": ""
+    },
+    {
+      "id": "63b5c1f10709",
+      "source": " node has a lot of options for basic shapes in the ",
+      "target": " 节点在 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "fcaae62e31b1",
+      "source": "Type",
+      "target": "Type",
+      "note": ""
+    },
+    {
+      "id": "5018d9734fb6",
+      "source": " dropdown menu.",
+      "target": " 下拉菜单中提供了许多基础形状选项。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "6e0733ecc70b",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "fd10b32513dc",
+      "source": " Force",
+      "target": " Force（力）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "7ef21e8c4788",
+      "source": "This is a category of nodes that will alter the movement of the smoke or flames. For example, a Noise force will add a lot of random velocities to the simulation to make the smoke and flames look more turbulent.",
+      "target": "这是一类会改变烟雾或火焰运动的节点。例如，Noise force 会向模拟中添加大量随机速度，使烟雾和火焰看起来更加湍动。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "fee01c7cc1b9",
+      "source": "When a force is plugged into the forces pin of the ",
+      "target": "当一个力连接到 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "99d716a2abf7",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "4b7c7ab7ac5e",
+      "source": " node it will affect the whole simulation. If it’s plugged into the ",
+      "target": " 节点的 forces 引脚时，它会影响整个模拟。如果它连接到发射器的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "6fe81f8c6946",
+      "source": "Forces",
+      "target": "Forces",
+      "note": ""
+    },
+    {
+      "id": "e639e94ebe4a",
+      "source": " pin of the emitter it will only affect the volume defined by the shape connected to that emitter.",
+      "target": " 引脚，则只会影响与该发射器相连的形状所定义的体积。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d59ab836d8ce",
+      "source": " Simulation",
+      "target": " Simulation（模拟）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "954a378c0311",
+      "source": "The node where all the settings related to the global physics of the simulation are.\nThings like the weight of the smoke and how fast it dissipates.",
+      "target": "这个节点包含与模拟全局物理相关的所有设置，例如烟雾重量以及烟雾耗散速度。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2103e386a006",
+      "source": "There can only be one simulation node.",
+      "target": "一个图中只能有一个 Simulation（模拟）节点。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "021ebbb64335",
+      "source": "Multiple Emitters, Forces, and Colliders can be connected to the pins on the left side of the node.",
+      "target": "可以将多个 Emitters（发射器）、Forces（力）和 Colliders（碰撞体）连接到该节点左侧的引脚。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "981200b2f9b1",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "af4dfe218b45",
+      "source": " Collider",
+      "target": " Collider（碰撞体）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "8ce015af5c4d",
+      "source": "This will make the smoke or flames collide with the shape that’s plugged into the node.",
+      "target": "这会让烟雾或火焰与连接到该节点的形状发生碰撞。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "155b1ecf56e3",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "da13dac0bf7b",
+      "source": " Volume",
+      "target": " Volume（体积）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "deb019394c7a",
+      "source": "Like pixels, voxels can undertake certain post-processing effects like sharpening. Unlike the Shading node, Volume modifies the values within the voxels to create certain effects.",
+      "target": "和像素一样，体素也可以应用某些后处理效果，例如锐化。与 Shading 节点不同，Volume（体积）会修改体素内部的值来产生特定效果。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "4b11e58d6254",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c2fc4d34940f",
+      "source": " Shading",
+      "target": " Shading（着色）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "5724c70e529f",
+      "source": "This is where the settings are for how the volume reacts to light. Also, properties like fire- or smoke color can be found here.",
+      "target": "这里包含体积如何响应光照的相关设置，也可以在这里找到火焰或烟雾颜色等属性。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "05b674a95a46",
+      "source": " Light",
+      "target": " Light（灯光）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "59a6f979d2da",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "006940102930",
+      "source": "A category of nodes that, as the name suggests, light up the scene.",
+      "target": "顾名思义，这是一类用于照亮场景的节点。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "265b4b9498e8",
+      "source": "Try adjusting the intensity slider in their Node Details to see what they do!",
+      "target": "试着调整它们 Node Details（节点详情）中的强度滑块，看看它们的作用。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2c55f0c0db67",
+      "source": "Point",
+      "target": "Point",
+      "note": ""
+    },
+    {
+      "id": "cfeebb821384",
+      "source": " is like a light bulb and will emit light from one adjustable point in space.",
+      "target": " 类似灯泡，会从空间中的一个可调节点发出光。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "e1cfa3179d98",
+      "source": "Spot",
+      "target": "Spot",
+      "note": ""
+    },
+    {
+      "id": "87bdadeb9c54",
+      "source": " is like a spotlight you have in a theater emitting light in a conical shape.",
+      "target": " 类似剧场中的聚光灯，会以锥形发出光。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "297837475ea8",
+      "source": "Directional",
+      "target": "Directional",
+      "note": ""
+    },
+    {
+      "id": "2b589fff758a",
+      "source": " is a bit like the sun. Depending on the amount of ",
+      "target": " 有点像太阳。根据 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "bec229370003",
+      "source": "inherit sun color",
+      "target": "inherit sun color",
+      "note": ""
+    },
+    {
+      "id": "602b495e3cf0",
+      "source": " it will change color based on its angle.",
+      "target": " 的数值，它会根据角度改变颜色。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2c702f3b7d1d",
+      "source": "Ambient",
+      "target": "Ambient",
+      "note": ""
+    },
+    {
+      "id": "c101e65528f4",
+      "source": " is mimicking the reflection of the sky adding some light from every angle. Depending on the amount of ",
+      "target": " 会模拟天空反射，从各个角度添加一些光照。根据 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "8fe18f3ddba2",
+      "source": "inherit sky color",
+      "target": "inherit sky color",
+      "note": ""
+    },
+    {
+      "id": "97d5fcc489d8",
+      "source": " it will change color based on the ",
+      "target": " 的数值，它会根据 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2128e5214470",
+      "source": "directional lights",
+      "target": "directional lights",
+      "note": ""
+    },
+    {
+      "id": "7de6697671a4",
+      "source": " angle.",
+      "target": " 的角度改变颜色。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "7cd91c5e15d2",
+      "source": " Skybox",
+      "target": " Skybox（天空盒）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "0f0ccf8b8ce8",
+      "source": "This controls the type of sky in your scene. There are a few options here:",
+      "target": "它控制场景中的天空类型。这里有几个选项：",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a7ec5bdb970a",
+      "source": "Atmosphere",
+      "target": "Atmosphere",
+      "note": ""
+    },
+    {
+      "id": "5b2a1faff119",
+      "source": " is the most advanced one mimicking a real sky. With any other option than Atmosphere, the inherit sky or sun colors won’t work for the ambient and directional light.",
+      "target": " 是最高级的选项，会模拟真实天空。若使用 Atmosphere 以外的任何选项，环境光和方向光的继承天空色或太阳色功能将不起作用。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "81ad1789477f",
+      "source": "Uniform Color",
+      "target": "Uniform Color",
+      "note": ""
+    },
+    {
+      "id": "040b60932f3c",
+      "source": " will let you pick a single color for the sky.",
+      "target": " 允许你为天空选择单一颜色。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "b79ca5fdc2ab",
+      "source": "Shade",
+      "target": "Shade",
+      "note": ""
+    },
+    {
+      "id": "8cadeff91392",
+      "source": " will turn the sky into a gradient from one color to another.",
+      "target": " 会将天空变成从一种颜色过渡到另一种颜色的渐变。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "581d90374274",
+      "source": "None",
+      "target": "None",
+      "note": ""
+    },
+    {
+      "id": "1e85cda1051b",
+      "source": " will turn the sky off resulting in a black background.",
+      "target": " 会关闭天空，得到黑色背景。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "15d2f5f586c0",
+      "source": " Ground",
+      "target": " Ground（地面）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "78fc32ddaee8",
+      "source": "This is where all the settings are related to the ground plane you see in the scene.",
+      "target": "这里包含与场景中可见地面平面相关的所有设置。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3b65fd8574a0",
+      "source": " Scene",
+      "target": " Scene（场景）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "4f2cdf8e6e1b",
+      "source": "This is where visual postprocessing effects can be applied to the scene. Like a vignette or color correction.",
+      "target": "这里可以对场景应用视觉后处理效果，例如暗角或色彩校正。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "903d37ace84d",
+      "source": " Render",
+      "target": " Render（渲染）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "4971d78f663d",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "e16c69462397",
+      "source": "The ",
+      "target": "该 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "cf83b4e5fc7d",
+      "source": "Render",
+      "target": "Render",
+      "note": ""
+    },
+    {
+      "id": "f3029d8839ae",
+      "source": " node contains settings for exporting a final render. Among many\nother options, you can select the render passes here. For the full list of render passes\nand an explanation of what they are see our ",
+      "target": " 节点包含导出最终渲染所需的设置。在许多其他选项之外，你还可以在这里选择渲染通道。完整的渲染通道列表及其说明，请参阅我们的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3aaf8f55b5a5",
+      "source": "Render Passes section",
+      "target": "渲染通道部分",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "597d70eca25b",
+      "source": "To try the default export settings select the ",
+      "target": "若要尝试默认导出设置，请选择 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "bb3995f472c4",
+      "source": "Render",
+      "target": "Render",
+      "note": ""
+    },
+    {
+      "id": "c2efb0e1d8bf",
+      "source": " node (or create one if it doesn’t exist)\nand make sure it’s connected to a ",
+      "target": " 节点（如果不存在就创建一个），并确保它连接到 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "6cfcd53c19c2",
+      "source": "Scene",
+      "target": "Scene",
+      "note": ""
+    },
+    {
+      "id": "804b8bdbb3f0",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "79c43a63a4cb",
+      "source": "Camera",
+      "target": "Camera",
+      "note": ""
+    },
+    {
+      "id": "019c9faba7dd",
+      "source": " node. Then specify a\n",
+      "target": " 节点。然后指定 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "7a89617fbaca",
+      "source": "Directory",
+      "target": "Directory",
+      "note": ""
+    },
+    {
+      "id": "b85a5816e764",
+      "source": " and optionally set a ",
+      "target": "，并可选择设置 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "11d983ffb7b7",
+      "source": "Filename",
+      "target": "Filename",
+      "note": ""
+    },
+    {
+      "id": "c4e182303f1e",
+      "source": " and file format. Finally, click the\n",
+      "target": " 和文件格式。最后点击 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "74ca610478d5",
+      "source": "Export Now",
+      "target": "Export Now",
+      "note": ""
+    },
+    {
+      "id": "ec1b922c739a",
+      "source": " button.",
+      "target": " 按钮。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "5fc36e7c6fc8",
+      "source": "There are quite a few options when it comes to exporting which are covered in\ndetail in the ",
+      "target": "导出相关选项相当多，详细说明见 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "268f145eda5c",
+      "source": "Render Node",
+      "target": "Render Node",
+      "note": ""
+    },
+    {
+      "id": "5bf742c807f5",
+      "source": " reference documentation. With the default settings, just the RGB color and the alpha channel will be exported into one png flipbook.",
+      "target": " 参考文档。使用默认设置时，只会将 RGB 颜色和 Alpha 通道导出到一个 PNG 翻页动画贴图中。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d9754d163bb4",
+      "source": "Flipbooks are a format used in games to get the whole effect into one image texture, If you pick ",
+      "target": "Flipbook（翻页序列）是游戏中常用的一种格式，可将整个效果放入一张图像纹理。如果你选择 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2d399c8fb3b0",
+      "source": "Sequence",
+      "target": "Sequence",
+      "note": ""
+    },
+    {
+      "id": "1ff044304080",
+      "source": " instead as the ",
+      "target": " 作为 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "0fd3e63129cb",
+      "source": "Export Mode",
+      "target": "Export Mode",
+      "note": ""
+    },
+    {
+      "id": "0fbfe4a89bbd",
+      "source": ", you can export an image sequence which means you will get a file for every frame. This is more commonly used in VFX.",
+      "target": "，则可以导出图像序列，也就是每一帧都会得到一个文件。这在 VFX 中更常用。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ac5648ffdd43",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "6bc5264401d2",
+      "source": "The ",
+      "target": "该 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "353a50b83ae0",
+      "source": "Render Passes",
+      "target": "Render Passes（渲染通道）",
+      "note": ""
+    },
+    {
+      "id": "11588ada0240",
+      "source": " tab contains a ",
+      "target": " 选项卡包含 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "f12b85a58044",
+      "source": "Source",
+      "target": "Source",
+      "note": ""
+    },
+    {
+      "id": "146884ae27d8",
+      "source": " and a ",
+      "target": " 和 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "9d54e9abaa22",
+      "source": "Destination",
+      "target": "Destination",
+      "note": ""
+    },
+    {
+      "id": "7c0d472370a4",
+      "source": " column. The ",
+      "target": " 列。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "edb07d1ef7a7",
+      "source": "Source",
+      "target": "Source",
+      "note": ""
+    },
+    {
+      "id": "e878fa414c3b",
+      "source": " column contains the render passes from Embergen, and the ",
+      "target": " 列包含来自 EmberGen 的渲染通道，而 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "552237a08b23",
+      "source": "Destination",
+      "target": "Destination",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "d7faa5c07184",
+      "source": " column represents the outgoing files/render layers. The ",
+      "target": " 列表示输出文件/渲染图层。",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "ace1f02d4a7c",
+      "source": "R, G, B, A",
+      "target": "R, G, B, A",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "3e3ed6131c90",
+      "source": " knobs represent the color and luminance channels.",
+      "target": " 旋钮表示颜色和亮度通道。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "cdd1d49c585b",
+      "source": "This interface allows for all sorts of workflows and channel mappings!",
+      "target": "这个界面支持各种工作流和通道映射。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "b0cca940b6b8",
+      "source": "You may notice that the shapes don’t appear in the render. This is the default setting since usually, only the effect has to be exported.\nYou can set the shapes rendering options also in the ",
+      "target": "你可能会注意到形状不会出现在渲染中。这是默认设置，因为通常只需要导出效果本身。\n你也可以在 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "c8a76e97c243",
+      "source": "Render",
+      "target": "Render",
+      "note": ""
+    },
+    {
+      "id": "7dce64099d22",
+      "source": " node by picking an option from the ",
+      "target": " 节点中，通过从 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "35ffc9d9f82a",
+      "source": "Shapes Rendering",
+      "target": "Shapes Rendering",
+      "note": ""
+    },
+    {
+      "id": "ff123805a8f4",
+      "source": " dropdown menu in\nthe ",
+      "target": " 下拉菜单中选择选项来设置形状渲染方式；该菜单位于 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "e2f43a4a9824",
+      "source": "Render Settings",
+      "target": "Render Settings",
+      "note": ""
+    },
+    {
+      "id": "b6829159db25",
+      "source": " tab.",
+      "target": " 选项卡中。",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "d345cccf8052",
+      "source": "When you’re all set, click the ",
+      "target": "全部设置完成后，点击 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "0c728921836c",
+      "source": "Export Now",
+      "target": "Export Now",
+      "note": ""
+    },
+    {
+      "id": "85338235872e",
+      "source": " button to export the files to your directory!",
+      "target": " 按钮，将文件导出到你的目录。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "823108c311d3",
+      "source": " Camera",
+      "target": " Camera（摄像机）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "220321aa2e43",
+      "source": "This is what you’re looking through when rendering the scene.",
+      "target": "这是渲染场景时所使用的观察视角。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "73c928f3a3a0",
+      "source": "You can use a camera by selecting it in the ",
+      "target": "你可以在视口顶部的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d9a709312d13",
+      "source": " camera dropdown menu on top of the viewport. Or by selecting the ",
+      "target": " 摄像机下拉菜单中选择摄像机来使用它；也可以选择 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2be9e1b5f699",
+      "source": "Camera",
+      "target": "Camera",
+      "note": ""
+    },
+    {
+      "id": "b7bb12f0e9a1",
+      "source": " node and clicking the ",
+      "target": " 节点，并点击 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "7787b89bab20",
+      "source": "Activate",
+      "target": "Activate",
+      "note": ""
+    },
+    {
+      "id": "0ed134bf770a",
+      "source": " button in the ",
+      "target": " 按钮，该按钮位于 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "48a1c37a507f",
+      "source": "General",
+      "target": "General",
+      "note": ""
+    },
+    {
+      "id": "5143fb636c97",
+      "source": " tab.",
+      "target": " 选项卡中。",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "47e60d761190",
+      "source": "The camera that is connected to the Render node determines the viewed angle for the export.",
+      "target": "连接到 Render 节点的摄像机会决定导出时的观察角度。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "7ee3c5494267",
+      "source": "In the ",
+      "target": "在 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "57b16494ce34",
+      "source": "Transform",
+      "target": "Transform",
+      "note": ""
+    },
+    {
+      "id": "7129069b29c1",
+      "source": " tab, you can specify the position and rotation of the camera. But you can also do this by navigating around the viewport when looking through your camera.",
+      "target": " 选项卡中，你可以指定摄像机的位置和旋转。你也可以在通过摄像机观察时，通过在视口中导航来完成这些设置。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "3e1b32b35b98",
+      "source": "When you are happy with the camera position you can ",
+      "target": "当你满意摄像机位置后，可以 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "00df5c0f1966",
+      "source": "lock",
+      "target": "锁定",
+      "note": ""
+    },
+    {
+      "id": "c52a1f14cfcb",
+      "source": " the camera in the ",
+      "target": " 摄像机，该选项位于 ",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "ddba21cfbff1",
+      "source": "General",
+      "target": "General",
+      "note": ""
+    },
+    {
+      "id": "195d9afd003d",
+      "source": " tab so you can’t accidentally move it.",
+      "target": " 选项卡中，这样就不会意外移动它。",
+      "note": "stage 2A audit fix"
+    },
+    {
+      "id": "ac0a282a9b31",
+      "source": "The ",
+      "target": "该 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "221079f66c70",
+      "source": "Display Resolution",
+      "target": "Display Resolution",
+      "note": ""
+    },
+    {
+      "id": "70a06a3ef3c8",
+      "source": " parameter in the ",
+      "target": " 参数位于 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a71f3c3aacbb",
+      "source": "Display",
+      "target": "Display",
+      "note": ""
+    },
+    {
+      "id": "ffc5201af1fa",
+      "source": " tab specifies the aspect ratio of the camera. You can visually see this in the viewport. Don’t forget to set this to the same aspect ratio as the ",
+      "target": " 选项卡，用于指定摄像机宽高比。你可以在视口中直观看到它。别忘了将它设置为与 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "91cf9b4872bd",
+      "source": "Render",
+      "target": "Render",
+      "note": ""
+    },
+    {
+      "id": "8cf13b51279d",
+      "source": " node to get correct results.",
+      "target": " 节点相同的宽高比，以获得正确结果。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "1770c331beb7",
+      "source": "The ",
+      "target": "该 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "8f2e2ae4e0a2",
+      "source": "Field Of View",
+      "target": "Field Of View",
+      "note": ""
+    },
+    {
+      "id": "3ef86b34d7d2",
+      "source": " parameter in the ",
+      "target": " 参数位于 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "65dc61f4c12b",
+      "source": "Display",
+      "target": "Display",
+      "note": ""
+    },
+    {
+      "id": "ae2adabccae7",
+      "source": " tab will specify the angle at which objects are visible to the camera. Adjusting this is like zooming with a telelens.",
+      "target": " 选项卡，用于指定摄像机可见物体的角度。调整它类似于使用长焦镜头进行缩放。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "aeb6d17f85e3",
+      "source": " Export VDB",
+      "target": " Export VDB（导出 VDB）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a51a346aa483",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "a139ed39ae72",
+      "source": "If you want to render your simulation in a different software you can export it to VDB. This format can be read by other software like Maya or Blender.",
+      "target": "如果想在其他软件中渲染模拟，可以将其导出为 VDB。Maya 或 Blender 等其他软件可以读取这种格式。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "b0ac5279cfa3",
+      "source": "The Export VDB node needs to be connected to the VDB pin of the Volume Processing node.",
+      "target": "Export VDB 节点需要连接到 Volume Processing（体积处理）节点的 VDB 引脚。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "1dde1805b8f0",
+      "source": "Continuing",
+      "target": "继续学习",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "eee919425479",
+      "source": "You should now have a basic overview of how to use Embergen.",
+      "target": "现在你应该已经对如何使用 EmberGen 有了基本了解。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "ffb20b864d85",
+      "source": "If you want more specific information on ",
+      "target": "如果你想了解关于 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "6e07d1a52cef",
+      "source": "nodes",
+      "target": "节点",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "535a2b3106f1",
+      "source": "user interface",
+      "target": "用户界面",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "bdf5888b44db",
+      "source": "settings",
+      "target": "设置",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "e185440f2f3c",
+      "source": ",  or how to do particular things please check out our ",
+      "target": " 或具体操作方法的更多信息，请查看我们的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "08a46a1ad522",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "c4a2dd72969c",
+      "source": " page.",
+      "target": " 页面。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "7a20803f54b9",
+      "source": "If you’re new the ",
+      "target": "如果你是新手，Project Manager 中的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "5fe664f354b6",
+      "source": "Learn",
+      "target": "Learn",
+      "note": ""
+    },
+    {
+      "id": "eb346fbafa0e",
+      "source": " tab in the Project Manager and our ",
+      "target": " 选项卡以及我们的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "38355d11ba63",
+      "source": "YouTube channel",
+      "target": "YouTube 频道",
+      "note": ""
+    },
+    {
+      "id": "8f6b7a980de1",
+      "source": " are good places to visit.",
+      "target": " 都是值得查看的地方。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "58cb649d8c20",
+      "source": "You can also learn a lot by opening the presets shipped with Embergen and having a look at how they were set up.",
+      "target": "你也可以打开 EmberGen 附带的预设，查看它们是如何搭建的，这会帮助你学到很多。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "fbfe58bd25c7",
+      "source": "Another great way of learning is to just try everything out! Since Embergen simulates so fast it’s often easy to see what a certain parameter does by just changing its value.",
+      "target": "另一种很好的学习方式就是大胆尝试。由于 EmberGen 模拟速度很快，通常只需改变某个参数的值，就能很容易看到它的作用。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "94bac5bf3d1a",
+      "source": "Don’t forget you can leave your cursor on any parameter name to get an explanation of what it does.",
+      "target": "别忘了，你可以把光标停留在任意参数名称上，以查看该参数作用的说明。",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "9abf3a5c1cd9",
+      "source": "If you want to showcase something or ask for help, don’t hesitate to join our ",
+      "target": "如果你想展示作品或寻求帮助，欢迎加入我们的 ",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2a9c8bd854a4",
+      "source": "discord server",
+      "target": "Discord 服务器",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "f2161d2cc256",
+      "source": "Good luck learning Embergen,",
+      "target": "祝你学习 EmberGen 顺利，",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "be5bea68a9f5",
+      "source": "we can’t wait to see what amazing effects you’ll be making!",
+      "target": "我们迫不及待想看到你将制作出怎样精彩的效果！",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "8e73079dd89a",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "38f2d5dcff0a",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "166affdc7e47",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "2c84af98c7e3",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "f321e73494dc",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "02ff3043cac9",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "9553acb38615",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4ffd8943fca2",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "464a84af7123",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "3b78b2d3fda4",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "8f4699d07891",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "9b34f46efe2a",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "941f28fbcd08",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "92a00eec2c81",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "8a9063e5d9be",
+      "source": "Installing EmberGen",
+      "target": "安装 EmberGen",
+      "note": "translation memory"
+    },
+    {
+      "id": "3801639b3ad6",
+      "source": "Download",
+      "target": "下载",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "fbf6e9ed7a42",
+      "source": "Installing",
+      "target": "安装",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "8e8f42a637ec",
+      "source": "Licensing",
+      "target": "许可",
+      "note": "translation memory"
+    },
+    {
+      "id": "ffad6755a316",
+      "source": "Using Embergen",
+      "target": "使用 EmberGen",
+      "note": "translation memory"
+    },
+    {
+      "id": "2e49712c992b",
+      "source": "Project Manager",
+      "target": "项目管理器",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "58ad03b00e68",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "0dc7e37db84e",
+      "source": "Viewport",
+      "target": "视口",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "c13a0e333d3f",
+      "source": "Timeline Editor",
+      "target": "时间轴编辑器",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "1e9e346360fe",
+      "source": "Node Graph",
+      "target": "节点图",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "53ec66e80f1e",
+      "source": "Properties Panel",
+      "target": "属性面板",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "06fc56ff9e77",
+      "source": "Voxels",
+      "target": "体素",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "70bc142a1635",
+      "source": "Transforming",
+      "target": "变换",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "9d6993e16416",
+      "source": "Nodes",
+      "target": "节点",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d3439d3fa53c",
+      "source": " Emitter",
+      "target": " Emitter（发射器）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "a98dc6a6806f",
+      "source": " Shapes",
+      "target": " Shapes（形状）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "52d854085a0b",
+      "source": " Force",
+      "target": " Force（力）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "e12d77211128",
+      "source": " Simulation",
+      "target": " Simulation（模拟）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "36b36a14ed0d",
+      "source": " Collider",
+      "target": " Collider（碰撞体）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "619601356984",
+      "source": " Volume",
+      "target": " Volume（体积）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "9f414f505c26",
+      "source": " Shading",
+      "target": " Shading（着色）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "0b4ea12ec5f7",
+      "source": " Light",
+      "target": " Light（灯光）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "6b746261ad27",
+      "source": " Skybox",
+      "target": " Skybox（天空盒）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "f082857214d2",
+      "source": " Ground",
+      "target": " Ground（地面）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "2e71d8a4fd7c",
+      "source": " Scene",
+      "target": " Scene（场景）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "5e891bc93c66",
+      "source": " Render",
+      "target": " Render（渲染）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "00fd2d1d7196",
+      "source": " Camera",
+      "target": " Camera（摄像机）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "d422ee1633fa",
+      "source": " Export VDB",
+      "target": " Export VDB（导出 VDB）",
+      "note": "stage 2A Codex translation"
+    },
+    {
+      "id": "85a659db424c",
+      "source": "Continuing",
+      "target": "继续学习",
+      "note": "stage 2A Codex translation"
+    }
+  ]
+}

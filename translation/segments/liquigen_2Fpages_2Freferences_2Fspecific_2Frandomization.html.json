@@ -1,0 +1,2166 @@
+{
+  "path": "liquigen/pages/references/specific/randomization.html",
+  "segment_count": 216,
+  "segments": [
+    {
+      "id": "a2c2b61ba515",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 565,
+      "end": 602,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Randomization - JangaFX Documentation",
+      "source_text": "Randomization - JangaFX Documentation"
+    },
+    {
+      "id": "312096a806a5",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 5192,
+      "end": 5215,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "580c12c1bf49",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 5310,
+      "end": 5340,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "5ab028cae6a4",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 5536,
+      "end": 5566,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "3c0319eda2b9",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 5757,
+      "end": 5778,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "c2b77d2f011b",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 5971,
+      "end": 6009,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "b15f56bfe9f8",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 6392,
+      "end": 6424,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "448e37ea284a",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 7456,
+      "end": 7478,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "f15755671a14",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 7656,
+      "end": 7688,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "38fa0023fe0f",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 7881,
+      "end": 7896,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "31630c675bcc",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 8028,
+      "end": 8038,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "1598c4c42dc0",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 8216,
+      "end": 8248,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "013765d19944",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 8449,
+      "end": 8463,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "e98ad2b81346",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 8585,
+      "end": 8593,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "7de189fb4cba",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 8716,
+      "end": 8725,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "72977dbfc69d",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 8873,
+      "end": 8886,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "1d614448fd16",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 9064,
+      "end": 9096,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "fd8d62fd671a",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 9314,
+      "end": 9327,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "03a9b4d08f6c",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 9478,
+      "end": 9497,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "6f1ec0a5aabe",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 9632,
+      "end": 9637,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "c9b6cb55b1b8",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 9774,
+      "end": 9781,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "4ebd27478303",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 9915,
+      "end": 9919,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "a8f4653fc251",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 10065,
+      "end": 10085,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "17a890d1363f",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 10224,
+      "end": 10233,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "3155c6e85d05",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 10374,
+      "end": 10386,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "4c7b8dbe3b6d",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 10525,
+      "end": 10543,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "724b55ab698f",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 10689,
+      "end": 10705,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "76f221addaab",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 10856,
+      "end": 10877,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "ba34abb0c514",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 11015,
+      "end": 11023,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "8feed538274d",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 11162,
+      "end": 11172,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "2fb7014c31bb",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 11315,
+      "end": 11328,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "2d61f1fd6725",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 11458,
+      "end": 11461,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "05dba048322a",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 11576,
+      "end": 11598,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "a430d33688a4",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 11776,
+      "end": 11808,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "66ffbd8a17cd",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 11980,
+      "end": 11995,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "5d26eaa045c2",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 12092,
+      "end": 12102,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "e8220369c252",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 12280,
+      "end": 12312,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "d5f085b47d17",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 12478,
+      "end": 12492,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "c6741ebd087b",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 12579,
+      "end": 12587,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "9033ebba1a0c",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 12675,
+      "end": 12684,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "c5f6e76de4e8",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 12797,
+      "end": 12810,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "785618f098de",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 12988,
+      "end": 13020,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "df1b31eca156",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 13201,
+      "end": 13212,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "2c6e123b9f82",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 13328,
+      "end": 13347,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "aa7248dbcd0e",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 13447,
+      "end": 13452,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "059ff7571a2e",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 13554,
+      "end": 13561,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "6d29bbd4a1bf",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 13660,
+      "end": 13664,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "9242776fd83a",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 13775,
+      "end": 13795,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "6379dae08c6c",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 13903,
+      "end": 13916,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "f115d5caa559",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 14022,
+      "end": 14034,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "bc34e6b72c2e",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 14138,
+      "end": 14156,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "d8708aa1170d",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 14267,
+      "end": 14283,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "160ef2c97393",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 14399,
+      "end": 14420,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "3a3347d8e9f2",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 14523,
+      "end": 14531,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "182fd8ccfd11",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 14639,
+      "end": 14652,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "769703da9398",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 14758,
+      "end": 14769,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "1fffaec0661b",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 14878,
+      "end": 14881,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "05346002bf74",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 14994,
+      "end": 15015,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "a0ed314366bd",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 15115,
+      "end": 15135,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "68995b9cacc1",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 15238,
+      "end": 15260,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "c52c0c538a89",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 15673,
+      "end": 15684,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "45385f086dfe",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 15904,
+      "end": 15942,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "813ebcfc49e8",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 16354,
+      "end": 16386,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "f77d934155ec",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 16606,
+      "end": 16619,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "2166e6ec9c4c",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 16711,
+      "end": 17067,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "In this section, you will learn how to automatically create and export variations of your projects!\nThis feature is also known as “wedging”.\nThis is useful, for example, if you have a project that needs lots of similar elements, if you want to have some options to show your supervisor, or if you wish to get that perfect random seed for your hero element.",
+      "source_text": "In this section, you will learn how to automatically create and export variations of your projects!\nThis feature is also known as “wedging”.\nThis is useful, for example, if you have a project that needs lots of similar elements, if you want to have some options to show your supervisor, or if you wish to get that perfect random seed for your hero element."
+    },
+    {
+      "id": "072e588f2e13",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 17116,
+      "end": 17140,
+      "line": 261,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Setting up randomization",
+      "source_text": "Setting up randomization"
+    },
+    {
+      "id": "47b45bf831af",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 17243,
+      "end": 17300,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "You can randomize a parameter by setting the override to ",
+      "source_text": "You can randomize a parameter by setting the override to "
+    },
+    {
+      "id": "11d31cfd4703",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 17304,
+      "end": 17322,
+      "line": 262,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomize Override",
+      "source_text": "Randomize Override"
+    },
+    {
+      "id": "abb3b8f82413",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 17327,
+      "end": 17345,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": ". This is done by ",
+      "source_text": ". This is done by "
+    },
+    {
+      "id": "1be5357507a9",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 17351,
+      "end": 17356,
+      "line": 262,
+      "parent_path": "article/section/section/p/cite",
+      "source_raw": "Shift",
+      "source_text": "Shift"
+    },
+    {
+      "id": "3fba29f957ab",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 17525,
+      "end": 17539,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " clicking the ",
+      "source_text": " clicking the "
+    },
+    {
+      "id": "207cf174d968",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 17700,
+      "end": 17765,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " circle next to it. A randomized parameter is indicated with the ",
+      "source_text": " circle next to it. A randomized parameter is indicated with the "
+    },
+    {
+      "id": "9659ba996ac7",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 17925,
+      "end": 17947,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " icon. To disable the ",
+      "source_text": " icon. To disable the "
+    },
+    {
+      "id": "e629da3b1a03",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 17951,
+      "end": 17969,
+      "line": 262,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomize Override",
+      "source_text": "Randomize Override"
+    },
+    {
+      "id": "45e5fe65432c",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 18135,
+      "end": 18146,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " click the ",
+      "source_text": " click the "
+    },
+    {
+      "id": "de7181c48622",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 18306,
+      "end": 18330,
+      "line": 262,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " icon to set it back to ",
+      "source_text": " icon to set it back to "
+    },
+    {
+      "id": "671c6aa780c6",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 18496,
+      "end": 18507,
+      "line": 262,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "No Override",
+      "source_text": "No Override"
+    },
+    {
+      "id": "cace46b4f017",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 18521,
+      "end": 18604,
+      "line": 263,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Once you’ve selected your parameters for randomization, you can manage them in the ",
+      "source_text": "Once you’ve selected your parameters for randomization, you can manage them in the "
+    },
+    {
+      "id": "31a64b799c88",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 18608,
+      "end": 18618,
+      "line": 263,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomized",
+      "source_text": "Randomized"
+    },
+    {
+      "id": "bba3eaf11b26",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 18623,
+      "end": 18628,
+      "line": 263,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "5de82f395954",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 18636,
+      "end": 18690,
+      "line": 264,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "You can remove a parameter from the randomized tab by ",
+      "source_text": "You can remove a parameter from the randomized tab by "
+    },
+    {
+      "id": "b847d3805939",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 18849,
+      "end": 18863,
+      "line": 264,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " clicking the ",
+      "source_text": " clicking the "
+    },
+    {
+      "id": "bcd7298043f2",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 19023,
+      "end": 19040,
+      "line": 264,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " icon next to it.",
+      "source_text": " icon next to it."
+    },
+    {
+      "id": "7ffe1e264108",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 19048,
+      "end": 19052,
+      "line": 265,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "b632231a7131",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 19056,
+      "end": 19066,
+      "line": 265,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomized",
+      "source_text": "Randomized"
+    },
+    {
+      "id": "c5c39cfb64f6",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 19071,
+      "end": 19157,
+      "line": 265,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " tab contains mostly range sliders with the regular parameter slider right next to it.",
+      "source_text": " tab contains mostly range sliders with the regular parameter slider right next to it."
+    },
+    {
+      "id": "a05552270165",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 19165,
+      "end": 19279,
+      "line": 266,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "With the range slider, you can specify the minimum and maximum value between which the random value can be picked.",
+      "source_text": "With the range slider, you can specify the minimum and maximum value between which the random value can be picked."
+    },
+    {
+      "id": "48fd2c82556f",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 19287,
+      "end": 19501,
+      "line": 267,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "With the regular parameter slider right next to it, you can see and edit the current parameter value. This value will be overwritten by a random one from within the specified range when the parameter is randomized.",
+      "source_text": "With the regular parameter slider right next to it, you can see and edit the current parameter value. This value will be overwritten by a random one from within the specified range when the parameter is randomized."
+    },
+    {
+      "id": "301d05112207",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 19509,
+      "end": 19551,
+      "line": 268,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "A parameter is randomized by clicking the ",
+      "source_text": "A parameter is randomized by clicking the "
+    },
+    {
+      "id": "80d096336d65",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 19708,
+      "end": 19725,
+      "line": 268,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " icon next to it.",
+      "source_text": " icon next to it."
+    },
+    {
+      "id": "d6809500a001",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 19733,
+      "end": 19784,
+      "line": 269,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "To randomize all parameters you can click the blue ",
+      "source_text": "To randomize all parameters you can click the blue "
+    },
+    {
+      "id": "4658a0bf9d3c",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 19788,
+      "end": 19801,
+      "line": 269,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomize All",
+      "source_text": "Randomize All"
+    },
+    {
+      "id": "c864ca84fa91",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 19806,
+      "end": 19821,
+      "line": 269,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " button or the ",
+      "source_text": " button or the "
+    },
+    {
+      "id": "9de3cb987fb7",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 20015,
+      "end": 20055,
+      "line": 269,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " icon in the top right corner of the UI.",
+      "source_text": " icon in the top right corner of the UI."
+    },
+    {
+      "id": "fbc4272fa5f6",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 20071,
+      "end": 20079,
+      "line": 270,
+      "parent_path": "article/section/section/p/strong",
+      "source_raw": "Example:",
+      "source_text": "Example:"
+    },
+    {
+      "id": "eb415697236a",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 20295,
+      "end": 20328,
+      "line": 272,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "With this setup, you can set the ",
+      "source_text": "With this setup, you can set the "
+    },
+    {
+      "id": "689ff67d14b2",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 20332,
+      "end": 20338,
+      "line": 272,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Radius",
+      "source_text": "Radius"
+    },
+    {
+      "id": "86564f55db48",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 20343,
+      "end": 20500,
+      "line": 272,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " with the right slider but when the parameter is randomized its value will be overwritten by a random value between 1 and 3 as specified by the range slider.",
+      "source_text": " with the right slider but when the parameter is randomized its value will be overwritten by a random value between 1 and 3 as specified by the range slider."
+    },
+    {
+      "id": "11b751da4a58",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 20727,
+      "end": 20859,
+      "line": 274,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Different parameter types are set up a bit differently in the Randomized tab.\nLet’s look at them in order of the image on the right:",
+      "source_text": "Different parameter types are set up a bit differently in the Randomized tab.\nLet’s look at them in order of the image on the right:"
+    },
+    {
+      "id": "9655b881b54d",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 20899,
+      "end": 20909,
+      "line": 277,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Checkboxes",
+      "source_text": "Checkboxes"
+    },
+    {
+      "id": "afc57eb282e3",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 20918,
+      "end": 21004,
+      "line": 277,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " in the randomized tab have a random chance of being turned on or off when randomized.",
+      "source_text": " in the randomized tab have a random chance of being turned on or off when randomized."
+    },
+    {
+      "id": "fce3681f0ffb",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 21029,
+      "end": 21043,
+      "line": 278,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Dropdown menus",
+      "source_text": "Dropdown menus"
+    },
+    {
+      "id": "3c0dd901e6ff",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 21052,
+      "end": 21104,
+      "line": 278,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " are assigned a random menu item upon randomization.",
+      "source_text": " are assigned a random menu item upon randomization."
+    },
+    {
+      "id": "9838b026835b",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 21129,
+      "end": 21142,
+      "line": 279,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Range sliders",
+      "source_text": "Range sliders"
+    },
+    {
+      "id": "f9212d0f5499",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 21151,
+      "end": 21437,
+      "line": 279,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " are split up into two range sliders, one for the minimum value and one for the maximum value. For example, you can give particles a different maximum age between 1 and 5 seconds for every variation by setting the Lifetime limits Max component to have a minimum of 1 and a maximum of 5.",
+      "source_text": " are split up into two range sliders, one for the minimum value and one for the maximum value. For example, you can give particles a different maximum age between 1 and 5 seconds for every variation by setting the Lifetime limits Max component to have a minimum of 1 and a maximum of 5."
+    },
+    {
+      "id": "81c5ef1d83cf",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 21462,
+      "end": 21478,
+      "line": 280,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Value parameters",
+      "source_text": "Value parameters"
+    },
+    {
+      "id": "63bababeea46",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 21487,
+      "end": 21557,
+      "line": 280,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ", which are the most common ones, are represented by one range slider.",
+      "source_text": ", which are the most common ones, are represented by one range slider."
+    },
+    {
+      "id": "08a9a6c41a43",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 21582,
+      "end": 21601,
+      "line": 281,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "3-vector parameters",
+      "source_text": "3-vector parameters"
+    },
+    {
+      "id": "6095c0c354fa",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 21610,
+      "end": 21921,
+      "line": 281,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " are split up into three range sliders each representing an axis. This means that you can define the amount of randomization for each axis. For example, if you want to randomize the Z axis only you can set the other two to a fixed value by inputting the same value in the min and max fields on the range slider.",
+      "source_text": " are split up into three range sliders each representing an axis. This means that you can define the amount of randomization for each axis. For example, if you want to randomize the Z axis only you can set the other two to a fixed value by inputting the same value in the min and max fields on the range slider."
+    },
+    {
+      "id": "5c4b8b457ac9",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 21948,
+      "end": 21973,
+      "line": 283,
+      "parent_path": "article/section/section/p/strong",
+      "source_raw": "Randomized splat example:",
+      "source_text": "Randomized splat example:"
+    },
+    {
+      "id": "ae9df7aa684a",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 22232,
+      "end": 22335,
+      "line": 286,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "Here, we have a setup creating a splat by emitting liquid and injecting turbulence from a sphere shape.",
+      "source_text": "Here, we have a setup creating a splat by emitting liquid and injecting turbulence from a sphere shape."
+    },
+    {
+      "id": "61957bb41986",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 22360,
+      "end": 22399,
+      "line": 287,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "Let’s say we need eight similar splats.",
+      "source_text": "Let’s say we need eight similar splats."
+    },
+    {
+      "id": "914ff0a3cb05",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 22424,
+      "end": 22480,
+      "line": 288,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "The general shape is determined by the turbulence force.",
+      "source_text": "The general shape is determined by the turbulence force."
+    },
+    {
+      "id": "aceeac408190",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 22505,
+      "end": 22550,
+      "line": 289,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "Since we want similar splats, we can use the ",
+      "source_text": "Since we want similar splats, we can use the "
+    },
+    {
+      "id": "cd3ff01e1a1b",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 22554,
+      "end": 22558,
+      "line": 289,
+      "parent_path": "section/section/div/div/em",
+      "source_raw": "Seed",
+      "source_text": "Seed"
+    },
+    {
+      "id": "4b3b7d603f0d",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 22563,
+      "end": 22598,
+      "line": 289,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": " parameter of the turbulence force.",
+      "source_text": " parameter of the turbulence force."
+    },
+    {
+      "id": "a85b322ec3ce",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 22623,
+      "end": 22869,
+      "line": 290,
+      "parent_path": "article/section/section/div/div",
+      "source_raw": "Using seed parameters is a good way of getting variations without changing the intensity or the scale distributions of your effect. Find out what random forces have the most influence on your simulation and randomize the corresponding seed value.",
+      "source_text": "Using seed parameters is a good way of getting variations without changing the intensity or the scale distributions of your effect. Find out what random forces have the most influence on your simulation and randomize the corresponding seed value."
+    },
+    {
+      "id": "b333b445a641",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 23186,
+      "end": 23260,
+      "line": 299,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "637911f62a30",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 23287,
+      "end": 23367,
+      "line": 303,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Let’s now say we want to expand our options here and see eight different splats.",
+      "source_text": "Let’s now say we want to expand our options here and see eight different splats."
+    },
+    {
+      "id": "22563811ef07",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 23375,
+      "end": 23398,
+      "line": 304,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Have a look at how the ",
+      "source_text": "Have a look at how the "
+    },
+    {
+      "id": "25f294804961",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 23402,
+      "end": 23412,
+      "line": 304,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomized",
+      "source_text": "Randomized"
+    },
+    {
+      "id": "f8c4b7e6fc59",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 23417,
+      "end": 23444,
+      "line": 304,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " tab is set up now and why.",
+      "source_text": " tab is set up now and why."
+    },
+    {
+      "id": "354fcae2efbc",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 23691,
+      "end": 23793,
+      "line": 306,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The parameters that determine the attributes we want to vary for this splat are the ones added to the ",
+      "source_text": "The parameters that determine the attributes we want to vary for this splat are the ones added to the "
+    },
+    {
+      "id": "8505b33014c8",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 23797,
+      "end": 23807,
+      "line": 306,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Randomized",
+      "source_text": "Randomized"
+    },
+    {
+      "id": "15ccf68d0c19",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 23812,
+      "end": 23817,
+      "line": 306,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " tab.",
+      "source_text": " tab."
+    },
+    {
+      "id": "f75cb6fe2e5e",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 23853,
+      "end": 23859,
+      "line": 308,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Radius",
+      "source_text": "Radius"
+    },
+    {
+      "id": "7e9b7d91310e",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 23864,
+      "end": 23964,
+      "line": 308,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " will affect the amount of liquid as the sphere shape is the emission source. The range is set from ",
+      "source_text": " will affect the amount of liquid as the sphere shape is the emission source. The range is set from "
+    },
+    {
+      "id": "afa467b49acb",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 23976,
+      "end": 23983,
+      "line": 308,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " up to ",
+      "source_text": " up to "
+    },
+    {
+      "id": "3b81615dfec7",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 23995,
+      "end": 24069,
+      "line": 308,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": ", the way these values are determined is by experimentation. Values below ",
+      "source_text": ", the way these values are determined is by experimentation. Values below "
+    },
+    {
+      "id": "5003d0810171",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 24081,
+      "end": 24142,
+      "line": 308,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " made the splats too weak to look realistic and values above ",
+      "source_text": " made the splats too weak to look realistic and values above "
+    },
+    {
+      "id": "e046a699e052",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 24154,
+      "end": 24257,
+      "line": 308,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " made the splats too big. This means that all values in between will give variations with good results.",
+      "source_text": " made the splats too big. This means that all values in between will give variations with good results."
+    },
+    {
+      "id": "26ea80388812",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 24278,
+      "end": 24282,
+      "line": 309,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Seed",
+      "source_text": "Seed"
+    },
+    {
+      "id": "227bc87532f5",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 24287,
+      "end": 24476,
+      "line": 309,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is left at the default range since for seed parameters any different value will give a completely different pattern. A different turbulence pattern results in a completely different splat.",
+      "source_text": " is left at the default range since for seed parameters any different value will give a completely different pattern. A different turbulence pattern results in a completely different splat."
+    },
+    {
+      "id": "7c0e45333e89",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 24497,
+      "end": 24505,
+      "line": 310,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Strength",
+      "source_text": "Strength"
+    },
+    {
+      "id": "a604e4018439",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 24510,
+      "end": 24753,
+      "line": 310,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " determines the amount of force injected into the simulation at the base. Higher values result in bigger and faster splats. The max value is set at the biggest fastest splat desired and the min value at the smallest weakest good-looking splat.",
+      "source_text": " determines the amount of force injected into the simulation at the base. Higher values result in bigger and faster splats. The max value is set at the biggest fastest splat desired and the min value at the smallest weakest good-looking splat."
+    },
+    {
+      "id": "40b5a73c58ec",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 25043,
+      "end": 25048,
+      "line": 314,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Scale",
+      "source_text": "Scale"
+    },
+    {
+      "id": "c87d7ebd4bd5",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 25053,
+      "end": 25245,
+      "line": 314,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " determines the size of the noise resulting in different splat patterns. Higher values result in bigger tendrils. Again, the minimum and maximum values to give good-looking results are picked.",
+      "source_text": " determines the size of the noise resulting in different splat patterns. Higher values result in bigger tendrils. Again, the minimum and maximum values to give good-looking results are picked."
+    },
+    {
+      "id": "09441cd38ad1",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 25262,
+      "end": 25266,
+      "line": 315,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "50a7b5ee6322",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 25270,
+      "end": 25278,
+      "line": 315,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Position",
+      "source_text": "Position"
+    },
+    {
+      "id": "fa803ea07f91",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 25283,
+      "end": 25301,
+      "line": 315,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " parameter of the ",
+      "source_text": " parameter of the "
+    },
+    {
+      "id": "a27eb589400e",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 25492,
+      "end": 25506,
+      "line": 315,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Color Selector",
+      "source_text": "Color Selector"
+    },
+    {
+      "id": "ed7daf554740",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 25511,
+      "end": 25613,
+      "line": 315,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " node is used to pick a random color for the liquid from the connected color gradient. It can go from ",
+      "source_text": " node is used to pick a random color for the liquid from the connected color gradient. It can go from "
+    },
+    {
+      "id": "a2be8585da9e",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 25624,
+      "end": 25628,
+      "line": 315,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " to ",
+      "source_text": " to "
+    },
+    {
+      "id": "0583cf220dda",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 25641,
+      "end": 25718,
+      "line": 315,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " meaning that it can pick any color from left to right on the color gradient.",
+      "source_text": " meaning that it can pick any color from left to right on the color gradient."
+    },
+    {
+      "id": "6f4836550bf7",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 25785,
+      "end": 25805,
+      "line": 319,
+      "parent_path": "div/article/section/section/h2",
+      "source_raw": "Exporting variations",
+      "source_text": "Exporting variations"
+    },
+    {
+      "id": "52255077655f",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 25904,
+      "end": 25948,
+      "line": 320,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "Exporting variations starts by setting your ",
+      "source_text": "Exporting variations starts by setting your "
+    },
+    {
+      "id": "65261acc460a",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 26124,
+      "end": 26137,
+      "line": 320,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Export: Image",
+      "source_text": "Export: Image"
+    },
+    {
+      "id": "1b617b6fc90a",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 26338,
+      "end": 26355,
+      "line": 320,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Export: Particles",
+      "source_text": "Export: Particles"
+    },
+    {
+      "id": "be308746a982",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 26539,
+      "end": 26551,
+      "line": 320,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Export: Mesh",
+      "source_text": "Export: Mesh"
+    },
+    {
+      "id": "ce190b1a76e5",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 26556,
+      "end": 26560,
+      "line": 320,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " or ",
+      "source_text": " or "
+    },
+    {
+      "id": "0884a07c1c5e",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 26734,
+      "end": 26745,
+      "line": 320,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Export: VDB",
+      "source_text": "Export: VDB"
+    },
+    {
+      "id": "bf2f9926756b",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 26750,
+      "end": 26819,
+      "line": 320,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " node up like you normally would. But with the addition of using the ",
+      "source_text": " node up like you normally would. But with the addition of using the "
+    },
+    {
+      "id": "80a244961c78",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 26906,
+      "end": 26923,
+      "line": 320,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " variable in the ",
+      "source_text": " variable in the "
+    },
+    {
+      "id": "0830ea076ef0",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 26927,
+      "end": 26936,
+      "line": 320,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Directory",
+      "source_text": "Directory"
+    },
+    {
+      "id": "976ff464f7d5",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 26941,
+      "end": 26949,
+      "line": 320,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " or the ",
+      "source_text": " or the "
+    },
+    {
+      "id": "0d2c3d989c3e",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 26953,
+      "end": 26961,
+      "line": 320,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Filename",
+      "source_text": "Filename"
+    },
+    {
+      "id": "8d5f99a14d3a",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 26966,
+      "end": 27106,
+      "line": 320,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " field. If you don’t use this, the files will be overwritten for every variation since there is nothing unique in the directory or filename.",
+      "source_text": " field. If you don’t use this, the files will be overwritten for every variation since there is nothing unique in the directory or filename."
+    },
+    {
+      "id": "9bb18891be76",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27122,
+      "end": 27130,
+      "line": 321,
+      "parent_path": "article/section/section/p/strong",
+      "source_raw": "Example:",
+      "source_text": "Example:"
+    },
+    {
+      "id": "b422cbcf334c",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27418,
+      "end": 27429,
+      "line": 324,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Here, with ",
+      "source_text": "Here, with "
+    },
+    {
+      "id": "8791b597e209",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27433,
+      "end": 27440,
+      "line": 324,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "mySplat",
+      "source_text": "mySplat"
+    },
+    {
+      "id": "8fceeba57d89",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27445,
+      "end": 27491,
+      "line": 324,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " being the project file name, a folder called ",
+      "source_text": " being the project file name, a folder called "
+    },
+    {
+      "id": "729cbf3dd57e",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27518,
+      "end": 27566,
+      "line": 324,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " is created in the project directory (where the ",
+      "source_text": " is created in the project directory (where the "
+    },
+    {
+      "id": "4879d397497f",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27570,
+      "end": 27579,
+      "line": 324,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": ".liquigen",
+      "source_text": ".liquigen"
+    },
+    {
+      "id": "0b94b5553af5",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27584,
+      "end": 27601,
+      "line": 324,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " file is stored).",
+      "source_text": " file is stored)."
+    },
+    {
+      "id": "c023aa2213ac",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27618,
+      "end": 27694,
+      "line": 325,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "Within that directory, numbered folders will be created for every variation.",
+      "source_text": "Within that directory, numbered folders will be created for every variation."
+    },
+    {
+      "id": "521d51823a13",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27711,
+      "end": 27768,
+      "line": 326,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "In those folders will be subfolders for each render pass.",
+      "source_text": "In those folders will be subfolders for each render pass."
+    },
+    {
+      "id": "61a64e4b18a0",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27785,
+      "end": 27923,
+      "line": 327,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "All files will be dynamically named based on the filename, variation number, and render pass. You can see a file name example next to the ",
+      "source_text": "All files will be dynamically named based on the filename, variation number, and render pass. You can see a file name example next to the "
+    },
+    {
+      "id": "0753e6c842e3",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27927,
+      "end": 27935,
+      "line": 327,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Filename",
+      "source_text": "Filename"
+    },
+    {
+      "id": "5154559fa1d1",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27940,
+      "end": 27947,
+      "line": 327,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " field.",
+      "source_text": " field."
+    },
+    {
+      "id": "c79edc0ce89d",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 27974,
+      "end": 28026,
+      "line": 329,
+      "parent_path": "article/section/section/p/strong",
+      "source_raw": "To export variations instead of exporting once go to",
+      "source_text": "To export variations instead of exporting once go to"
+    },
+    {
+      "id": "3c68802df180",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 28040,
+      "end": 28063,
+      "line": 329,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "File/Export Variations…",
+      "source_text": "File/Export Variations…"
+    },
+    {
+      "id": "80fd557f807c",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 28077,
+      "end": 28122,
+      "line": 329,
+      "parent_path": "article/section/section/p/strong",
+      "source_raw": "in the top left corner of the user interface.",
+      "source_text": "in the top left corner of the user interface."
+    },
+    {
+      "id": "5d477b4d0b8b",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 28139,
+      "end": 28143,
+      "line": 330,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "The ",
+      "source_text": "The "
+    },
+    {
+      "id": "d0b72549ffa3",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 28147,
+      "end": 28163,
+      "line": 330,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "Export Variation",
+      "source_text": "Export Variation"
+    },
+    {
+      "id": "f1df6e50d793",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 28168,
+      "end": 28188,
+      "line": 330,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " window will pop up.",
+      "source_text": " window will pop up."
+    },
+    {
+      "id": "9a03d0922724",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 28472,
+      "end": 28493,
+      "line": 333,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Number of variations:",
+      "source_text": "Number of variations:"
+    },
+    {
+      "id": "8bc45bb58d1f",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 28502,
+      "end": 28558,
+      "line": 333,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " The number of times the simulation will run and export.",
+      "source_text": " The number of times the simulation will run and export."
+    },
+    {
+      "id": "e555170bb3dc",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 28583,
+      "end": 28609,
+      "line": 334,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Randomize first variation:",
+      "source_text": "Randomize first variation:"
+    },
+    {
+      "id": "64d60361f772",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 28618,
+      "end": 28813,
+      "line": 334,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, all parameters set up for randomization will be given a random value before the first variation is exported. If unchecked, the first variation will use the values you currently have.",
+      "source_text": " If checked, all parameters set up for randomization will be given a random value before the first variation is exported. If unchecked, the first variation will use the values you currently have."
+    },
+    {
+      "id": "c59405fb1be2",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 28838,
+      "end": 28858,
+      "line": 335,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Save project copies:",
+      "source_text": "Save project copies:"
+    },
+    {
+      "id": "a586f51f724d",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 28867,
+      "end": 29093,
+      "line": 335,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " If checked, project files for each variation will be stored in a specified location with a specified name. This way, you can reproduce every exported variation since otherwise, you won’t know what random values were assigned.",
+      "source_text": " If checked, project files for each variation will be stored in a specified location with a specified name. This way, you can reproduce every exported variation since otherwise, you won’t know what random values were assigned."
+    },
+    {
+      "id": "cbe7956ecdd2",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29118,
+      "end": 29134,
+      "line": 336,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Nodes to export:",
+      "source_text": "Nodes to export:"
+    },
+    {
+      "id": "0e96c15655e9",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29143,
+      "end": 29250,
+      "line": 336,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Here, you have a list of nodes where you can check the ones you want to use for exporting your variations.",
+      "source_text": " Here, you have a list of nodes where you can check the ones you want to use for exporting your variations."
+    },
+    {
+      "id": "bf382eb68d6f",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29275,
+      "end": 29282,
+      "line": 337,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Cancel:",
+      "source_text": "Cancel:"
+    },
+    {
+      "id": "db95e271590e",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29291,
+      "end": 29302,
+      "line": 337,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Close the ",
+      "source_text": " Close the "
+    },
+    {
+      "id": "316112b335ff",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29306,
+      "end": 29323,
+      "line": 337,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Export Variations",
+      "source_text": "Export Variations"
+    },
+    {
+      "id": "bce31c557052",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29328,
+      "end": 29353,
+      "line": 337,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " window and don’t export.",
+      "source_text": " window and don’t export."
+    },
+    {
+      "id": "c0c7719b520b",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29378,
+      "end": 29396,
+      "line": 338,
+      "parent_path": "section/ul/li/p/strong",
+      "source_raw": "Export Variations:",
+      "source_text": "Export Variations:"
+    },
+    {
+      "id": "422730eee381",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29405,
+      "end": 29438,
+      "line": 338,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " Start exporting your variations!",
+      "source_text": " Start exporting your variations!"
+    },
+    {
+      "id": "cbd6d0c4ba22",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29465,
+      "end": 29473,
+      "line": 340,
+      "parent_path": "article/section/section/p/strong",
+      "source_raw": "Example:",
+      "source_text": "Example:"
+    },
+    {
+      "id": "9792c33da2ef",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29490,
+      "end": 29512,
+      "line": 341,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": "We’re still using our ",
+      "source_text": "We’re still using our "
+    },
+    {
+      "id": "d6ff2b917ffc",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29516,
+      "end": 29523,
+      "line": 341,
+      "parent_path": "article/section/section/p/em",
+      "source_raw": "mySplat",
+      "source_text": "mySplat"
+    },
+    {
+      "id": "536fbd0102d1",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29528,
+      "end": 29581,
+      "line": 341,
+      "parent_path": "div/article/section/section/p",
+      "source_raw": " project.\nWhen using the settings in the image above:",
+      "source_text": " project.\nWhen using the settings in the image above:"
+    },
+    {
+      "id": "2e0cf80c35d4",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29613,
+      "end": 29655,
+      "line": 344,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "8 variations of my splat will be exported.",
+      "source_text": "8 variations of my splat will be exported."
+    },
+    {
+      "id": "870667201541",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29672,
+      "end": 29771,
+      "line": 345,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "The first variation will be the exact simulation we currently have (maybe because we like that one)",
+      "source_text": "The first variation will be the exact simulation we currently have (maybe because we like that one)"
+    },
+    {
+      "id": "75bbb2867416",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29788,
+      "end": 29954,
+      "line": 346,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "A project copy will be saved for each variation storing their settings for later use. The project files will be stored in the project directory in a subfolder called ",
+      "source_text": "A project copy will be saved for each variation storing their settings for later use. The project files will be stored in the project directory in a subfolder called "
+    },
+    {
+      "id": "3a12109d335c",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 29981,
+      "end": 29992,
+      "line": 346,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " and named ",
+      "source_text": " and named "
+    },
+    {
+      "id": "7a0637241256",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 30036,
+      "end": 30041,
+      "line": 346,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " etc.",
+      "source_text": " etc."
+    },
+    {
+      "id": "e034ea428fc4",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 30058,
+      "end": 30094,
+      "line": 347,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "We just want to export from the one ",
+      "source_text": "We just want to export from the one "
+    },
+    {
+      "id": "903ac7fa5ee4",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 30270,
+      "end": 30283,
+      "line": 347,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Export: Image",
+      "source_text": "Export: Image"
+    },
+    {
+      "id": "662e5b92c71d",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 30288,
+      "end": 30351,
+      "line": 347,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " node so we’re leaving that one checked and the rest unchecked.",
+      "source_text": " node so we’re leaving that one checked and the rest unchecked."
+    },
+    {
+      "id": "d233a1d0cd4d",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 30368,
+      "end": 30391,
+      "line": 348,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": "After hitting the blue ",
+      "source_text": "After hitting the blue "
+    },
+    {
+      "id": "e5a11e29773b",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 30395,
+      "end": 30412,
+      "line": 348,
+      "parent_path": "section/ul/li/p/em",
+      "source_raw": "Export Variations",
+      "source_text": "Export Variations"
+    },
+    {
+      "id": "cd507a631b8b",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 30417,
+      "end": 30484,
+      "line": 348,
+      "parent_path": "section/section/ul/li/p",
+      "source_raw": " button and seeing the magic happen we have my eight unique splats!",
+      "source_text": " button and seeing the magic happen we have my eight unique splats!"
+    },
+    {
+      "id": "11b95b94e358",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 30804,
+      "end": 30878,
+      "line": 357,
+      "parent_path": "section/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "5d4adccbc954",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 31163,
+      "end": 31223,
+      "line": 374,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "ee8fde869db2",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 31229,
+      "end": 31252,
+      "line": 376,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "d324c6cac1b6",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 31290,
+      "end": 31296,
+      "line": 377,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "2630cc6b8378",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 31300,
+      "end": 31305,
+      "line": 377,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "37a4f546757b",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 31355,
+      "end": 31365,
+      "line": 377,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "882dfe4fcf76",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 31369,
+      "end": 31397,
+      "line": 377,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "c45a19a0c598",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 31441,
+      "end": 31445,
+      "line": 379,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    },
+    {
+      "id": "2043067fcdc7",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 31762,
+      "end": 31798,
+      "line": 394,
+      "parent_path": "div/aside/div/div/span",
+      "source_raw": "\n            On this page\n          ",
+      "source_text": "\n            On this page\n          "
+    },
+    {
+      "id": "4898831c94df",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 31955,
+      "end": 31968,
+      "line": 401,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "f7865ad4771a",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 32044,
+      "end": 32068,
+      "line": 402,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Setting up randomization",
+      "source_text": "Setting up randomization"
+    },
+    {
+      "id": "4ff339b693e1",
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "start": 32141,
+      "end": 32161,
+      "line": 403,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Exporting variations",
+      "source_text": "Exporting variations"
+    }
+  ]
+}

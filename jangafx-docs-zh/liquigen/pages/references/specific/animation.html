@@ -1,0 +1,607 @@
+<!doctype html>
+<html class="no-js" lang="zh-CN">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+<link rel="index" title="Index" href="../../../../genindex.html" /><link rel="search" title="Search" href="../../../../search.html" />
+
+    <link rel="shortcut icon" href="../../../../_static/favicon.ico"/><!-- Generated with Sphinx 6.1.3 and Furo 2022.12.07 -->
+        <title>关键帧动画 - JangaFX 文档</title>
+      <link rel="stylesheet" type="text/css" href="../../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/styles/furo.css?digest=91d0f0d1c444bdcb17a68e833c7a53903343c195" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/styles/furo-extensions.css?digest=30d1aed668e5c3a91c3e3bf6a60b675221979f0e" />
+    <link rel="stylesheet" type="text/css" href="../../../../_static/css/custom.css" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">隐藏导航侧边栏</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">隐藏目录侧边栏</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">切换站点导航侧边栏</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../../../index.html"><div class="brand">JangaFX 文档</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">切换目录侧边栏</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../../index.html">
+  
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../../../_static/logo-dark.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../../_static/logo-light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../../embergen/index.html">EmberGen 文档</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../../../embergen/pages/getting_started.html">入门</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../../../embergen/pages/references/index.html">参考</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../../../embergen/pages/references/ui_reference.html">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../embergen/pages/references/settings.html">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../embergen/pages/references/node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/histogram.html">直方图</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/exportVDB.html">VDB 导出</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../embergen/pages/references/How-To%20Guides/randomization.html">随机化</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../../../embergen/pages/FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../../index.html">LiquiGen 文档</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../getting_started.html">入门</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../index.html">参考</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../ui_reference.html">用户界面</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../settings.html">设置</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../node_list.html">节点列表</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../How-To%20Guides/index.html">操作指南</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><div class="visually-hidden">展开或折叠导航中的子页面</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/diagnostics.html">诊断</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/render_passes_mapping.html">渲染通道映射</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/color.html">颜色</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/comment.html">注释</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/note.html">备注</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/import_animation.html">FBX、OBJ、ABC 导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/camera_import.html">摄像机导入</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/rangeSlider.html">范围滑块</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/animation.html">关键帧动画</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/modulation_curve.html">调制曲线</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/modulating_parameters.html">调制参数</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/palettes.html">快捷面板</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/randomization.html">随机化</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../How-To%20Guides/expressions.html">表达式</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../FAQ.html">常见问题</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../illugen/index.html">IlluGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../geogen/index.html">GeoGen 文档</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../licensing/index.html">浮动许可证指南</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>返回顶部</span>
+        </a>
+        <div class="content-icon-container">
+          
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">切换浅色/深色/自动颜色主题</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">切换目录侧边栏</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <article role="main">
+          <section id="keyframe-animation">
+<span id="animation"></span><h1>关键帧动画<a class="headerlink" href="#keyframe-animation" title="Permalink to this heading">#</a></h1>
+<section id="setting-keyframes">
+<h2>设置关键帧<a class="headerlink" href="#setting-keyframes" title="Permalink to this heading">#</a></h2>
+<p>让我们让它动起来！</p>
+<a class="reference internal image-reference" href="../../../../_images/ball.png"><img alt="override states" class="align-right" src="../../../../_images/ball.png" style="width: 100px;" /></a>
+<p>LiquiGen 中的大多数参数都可以设置关键帧动画。这意味着你可以在指定帧上设置数值，让参数随时间变化。</p>
+<p>假设我们想让球体上下移动。</p>
+<p>这意味着我们需要让它的 Z 位置随时间变化。</p>
+<ul class="simple">
+<li><p>选择 <em>Shape: Primitive</em> 节点，并找到 <em>Position</em> 参数；它位于 <em>Node Details（节点详情）</em> 选项卡中。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../../_images/overrideStates.png"><img alt="override states" class="align-right" src="../../../../_images/overrideStates.png" style="width: 173.70000000000002px; height: 89.10000000000001px;" /></a>
+<ul class="simple">
+<li><p>单击 <a class="reference internal" href="../../../../_images/key_none.svg"><img alt="no override" height="14" src="../../../../_images/key_none.svg" width="14" /></a> 旁边的圆形图标，将该参数的覆盖状态设置为 <a class="reference internal" href="../../../../_images/key_timeline.svg"><img alt="key icon" height="14" src="../../../../_images/key_timeline.svg" width="14" /></a> <em>Timeline Override</em>。</p></li>
+<li><p>单击参数旁边的图标会在不同覆盖状态之间循环切换。因此，如果你现在想回到 <a class="reference internal" href="../../../../_images/key_none.svg"><img alt="no override" height="14" src="../../../../_images/key_none.svg" width="14" /></a> <em>No Override</em>，例如就需要单击该图标两次。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../../_images/overrideState.gif"><img alt="override state animation" src="../../../../_images/overrideState.gif" style="width: 200px;" /></a>
+<p>将覆盖状态设置为 <em>Timeline Override</em>。</p>
+<ul class="simple">
+<li><p>该参数会出现在 Timeline（时间轴）选项卡中。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../../_images/timeLineTab_LG.png"><img alt="timeline tab" src="../../../../_images/timeLineTab_LG.png" style="width: 600px;" /></a>
+<ul class="simple">
+<li><p>该参数会出现在 Timeline Editor（时间轴编辑器）中。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../../_images/timeLineEditorAnimation_LG.png"><img alt="timeline editor parameter shows up" src="../../../../_images/timeLineEditorAnimation_LG.png" style="width: 200px;" /></a>
+<ul class="simple">
+<li><p>如果 <em>Create Key When Parameter Exposed（参数公开时创建关键帧）</em>（位于 <em>Settings/Preferences…/General</em>）已勾选，则蓝色播放头处会出现一个使用当前值的关键帧。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../../_images/createKeyWhenParameterExposed.png"><img alt="create key when parameter exposed" src="../../../../_images/createKeyWhenParameterExposed.png" style="width: 300px;" /></a>
+<p>接下来用关键帧让球体上下移动！</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="550" height="582.3529411764706" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/settingKeyframes_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <div class="line-block">
+<div class="line">可以通过 <cite>鼠标左键双击</cite> 或</div>
+<div class="line"><cite>按住 Shift 单击</cite> 在</div>
+<div class="line"><em>Timeline Editor（时间轴编辑器）</em>。</div>
+</div>
+<p>也可以通过在 Timeline Editor（时间轴编辑器）中更改参数值来设置关键帧。</p>
+<p>如果 <a class="reference internal" href="../../../../_images/utokeyframe.svg"><img alt="autokey icon" height="16" src="../../../../_images/utokeyframe.svg" width="16" /></a> <em>Toggle Timeline Autokey</em> <cite>A</cite> 已开启，在视口中移动球体，或在属性面板中修改数值，都会在蓝色播放头指定的帧上创建一个使用新数值的关键帧。</p>
+<p>如果 <em>Snap keys to frames</em> <a class="reference internal" href="../../../../_images/magnet.svg"><img alt="key filter icon" height="16" src="../../../../_images/magnet.svg" width="16" /></a> 已启用，关键帧只能放置在整数帧号上。否则，关键帧可以放置在两帧之间的任意位置。</p>
+<p>这样就得到一个上下移动的球体了！</p>
+</section>
+<section id="timeline-editor">
+<span id="timelineeditor"></span><h2>Timeline Editor（时间轴编辑器）<a class="headerlink" href="#timeline-editor" title="Permalink to this heading">#</a></h2>
+<section id="viewing-keyframes">
+<h3>查看关键帧<a class="headerlink" href="#viewing-keyframes" title="Permalink to this heading">#</a></h3>
+<p>首先，让关键帧在时间轴编辑器中合适地显示。可以使用右上角的图标完成这一点。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="450" height="309.2957746478873" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/viewingKeyframesTimelineEditor_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><a class="reference internal" href="../../../../_images/fit_to_view.svg"><img alt="fit To View Icon" height="12" src="../../../../_images/fit_to_view.svg" width="12" /></a> 平移并缩放时间轴，使所有关键帧完整适配到视图中。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/fit_to_curve.svg"><img alt="fit to curve icon" height="12" src="../../../../_images/fit_to_curve.svg" width="12" /></a> 平移并缩放时间轴，使选中的关键帧完整适配到视图中。</p></li>
+<li><p><a class="reference internal" href="../../../../_images/100percent_view.svg"><img alt="zoom Default Icon" height="12" src="../../../../_images/100percent_view.svg" width="12" /></a> 将 Curve Editor 中的垂直缩放重置为默认值。使用 <cite>Shift</cite> + <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击时，也可以将水平缩放重置为默认值！</p></li>
+<li><p><a class="reference internal" href="../../../../_images/full_screen.svg"><img alt="fullscreen Icon" height="12" src="../../../../_images/full_screen.svg" width="12" /></a> 如果想用最大的屏幕空间编辑关键帧，可以将面板切换为全屏。</p></li>
+</ul>
+<p>可以使用以下操作手动浏览时间轴：</p>
+<ul class="simple">
+<li><p><strong>平移时间轴</strong>：按住鼠标中键并拖动，或使用时间轴编辑器顶部的滚动条。</p></li>
+<li><p><strong>缩放时间轴</strong>：按住 <cite>Ctrl</cite> 并滚动。请注意，缩放中心位于光标位置。</p></li>
+</ul>
+</section>
+<section id="editing-keyframes">
+<h3>编辑关键帧<a class="headerlink" href="#editing-keyframes" title="Permalink to this heading">#</a></h3>
+<p>可以使用时间轴编辑器按需编辑关键帧。下面看看这里能做哪些操作。</p>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="550" height="191.71428571428572" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/EditingKeyframesTimelineEditor_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>创建关键帧</strong>：双击 <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a>，或 <cite>Shift</cite> <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击。</p></li>
+<li><p><strong>移动关键帧</strong>：按住 <cite>LMB</cite> 并拖动。如果 <em>Snap keys to frames</em> <a class="reference internal" href="../../../../_images/magnet.svg"><img alt="key filter icon" height="16" src="../../../../_images/magnet.svg" width="16" /></a> 已启用，关键帧每次都会按整帧移动。</p></li>
+<li><p><strong>框选多个关键帧</strong>：按住 <cite>LMB</cite> 并拖动。</p></li>
+<li><p><strong>选择多个关键帧</strong>：按住 <cite>Ctrl + LMB</cite>.</p></li>
+<li><p><strong>选择所有关键帧</strong>：使用 <cite>Ctrl + A</cite></p></li>
+<li><p><strong>复制关键帧</strong>：使用右键菜单或按 <cite>Ctrl + C</cite></p></li>
+<li><p><strong>剪切关键帧</strong>：使用右键菜单或按 <cite>Ctrl + X</cite></p></li>
+<li><p><strong>粘贴关键帧</strong>：使用右键菜单或按 <cite>Ctrl + V</cite></p></li>
+<li><p><strong>删除关键帧</strong>：使用右键菜单或按 <cite>Delete</cite> 键。</p></li>
+<li><p><strong>缩放关键帧动画</strong>：使用 <cite>Shift + Alt + LMB</cite> 拖动，并以第一个关键帧为枢轴进行缩放。如果你想重新调整一段动画的时间，这会很有用。</p></li>
+<li><dl class="simple">
+<dt><strong>对齐关键帧</strong>：右键单击所选关键帧，并从 <em>Align</em> 菜单中选择选项，可将关键帧左对齐或右对齐。为多个参数放置关键帧时，对齐有助于整理并完善时间轴。</dt><dd><ul>
+<li><p>Left 会将所有选中的关键帧移动到第一个关键帧的位置。</p></li>
+<li><p>Right 会将所有选中的关键帧移动到最后一个关键帧的位置。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="200" height="114.84375" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/snapToFrames_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p><strong>将关键帧吸附到最近的整数帧号</strong>：使用 <em>Snap To Frames</em> 选项，该选项位于右键菜单中。</p></li>
+</ul>
+</section>
+</section>
+<section id="curve-editor">
+<span id="curveeditor"></span><h2>Curve Editor（曲线编辑器）<a class="headerlink" href="#curve-editor" title="Permalink to this heading">#</a></h2>
+<a class="reference internal image-reference" href="../../../../_images/graphEditorIcon_LG.png"><img alt="curve editor screenshot" class="align-right" src="../../../../_images/graphEditorIcon_LG.png" style="width: 300px;" /></a>
+<p>可以使用以下图标切换 Curve Editor： <a class="reference internal" href="../../../../_images/curve_editor.svg"><img alt="curve mode icon" height="16" src="../../../../_images/curve_editor.svg" width="16" /></a></p>
+<p>此编辑器会以可视方式展示数值随时间的变化。</p>
+<p>时间轴编辑器中的所有操作在这里同样适用，但这里还能执行和查看一些额外内容。</p>
+<section id="id1">
+<h3>查看关键帧<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="304.05405405405406" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/viewingKeyframesCurveEditor_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p>按住 <cite>Ctrl + Shift</cite> 并滚动，即可垂直缩放时间轴。垂直放大后，可以更清楚地查看图表中的细微变化。</p></li>
+<li><p>使用滚轮可同时水平和垂直缩放时间轴： <a class="reference internal" href="../../../../_images/middle.svg"><img alt="middle mouse button" height="18" src="../../../../_images/middle.svg" width="18" /></a></p></li>
+<li><p>使用 <a class="reference internal" href="../../../../_images/middle.svg"><img alt="middle mouse button" height="18" src="../../../../_images/middle.svg" width="18" /></a> 单击并拖动，可以同时水平和垂直平移。</p></li>
+<li><p>选择多个关键帧后，可以在右键菜单中找到 <em>Fit View</em> 选项，将所选关键帧按水平、垂直或两个方向适配到视图中。</p></li>
+</ul>
+</section>
+<section id="id2">
+<h3>编辑关键帧<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300"  nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/editingKeyframesCurveEditor.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <ul class="simple">
+<li><p>使用 <cite>Ctrl + Shift</cite> + <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击并拖动，可垂直移动一个或多个关键帧（更改关键帧值）。</p></li>
+<li><p>使用 <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击并拖动，可自由地水平和垂直移动一个或多个关键帧。</p></li>
+<li><dl class="simple">
+<dt>在 <em>Align</em> 右键菜单中还会增加两个选项：</dt><dd><ul>
+<li><p><strong>Top</strong> 会将所有选中的关键帧上移到与最高数值关键帧相同的值。</p></li>
+<li><p><strong>Bottom</strong> 会将所有选中的关键帧下移到与最低数值关键帧相同的值。</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="interpolation-mode">
+<h3>Interpolation Mode（插值模式）<a class="headerlink" href="#interpolation-mode" title="Permalink to this heading">#</a></h3>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="126.28676470588235" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/editingInterpolationMode_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <p>“<em>Interpolation Mode（插值模式）</em>”定义从一个关键帧到另一个关键帧时数值的插值方法。</p>
+<p>可以在右键菜单中更改关键帧的 Interpolation Mode（插值模式）。</p>
+<div class="line-block">
+<div class="line"><em>注意，可以在不同关键帧上混用不同插值模式。</em></div>
+<div class="line"><em>当两个关键帧使用不同插值模式时，将使用第一个（或左侧）关键帧的插值模式来计算它们之间的变化。</em></div>
+</div>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="517.7142857142858" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/interpolationModes_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <dl class="simple">
+<dt>可用选项如下：</dt><dd><ul class="simple">
+<li><p><strong>Constant</strong> 会在到达关键帧时立即完全切换数值，没有中间过渡值。这是为复选框和下拉菜单制作动画时的默认模式，因为它们不存在中间值。</p></li>
+<li><p><strong>Linear</strong> 会在一个关键帧到另一个关键帧之间绘制直线，并显示在 <em>Curve Editor（曲线编辑器）</em>中。数值会以恒定速度从一个关键帧移动到另一个关键帧。</p></li>
+<li><p><strong>Smooth</strong> 会在一个关键帧到另一个关键帧之间生成平滑曲线，避免数值出现生硬过渡。</p></li>
+<li><p><strong>Bézier</strong> 会根据 Bézier 手柄对数值进行插值。使用此模式时，选中单个关键帧后可以看到 Bézier 手柄。可以通过 <cite>LMB</cite> 并拖动 Bézier 手柄末端的点来调整插值。曲线平缓的部分表示数值变化较慢，曲线陡峭的部分表示数值变化较快。</p></li>
+</ul>
+</dd>
+</dl>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     class="float-right">
+        <video class="lazy" preload="none" width="300" height="142.88659793814432" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/editingBezierHandle.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    <dl>
+<dt>使用 <em>Bézier</em> 模式时，可以使用几种手柄类型；它们同样位于右键菜单中。</dt><dd><ul>
+<li><p><strong>Aligned</strong> 手柄可以自由移动，方向和长度都不受限制。对于此类型，一个手柄始终位于另一个手柄的反方向，并且长度相同。</p></li>
+<li><p><strong>Free</strong> 两侧手柄可以彼此独立地任意移动。</p></li>
+<li><p><strong>Auto Clamped</strong> 这是默认行为。对于此类型，手柄绝不会越过前一个或后一个关键帧。请注意，修改手柄后，类型会被设置为 Aligned。</p></li>
+<li><p><strong>Auto Vectored</strong> 这会让左侧手柄指向前一个关键帧，右侧手柄指向后一个关键帧。请注意，修改手柄后，类型会被设置为 Free。</p>
+<blockquote>
+<div><p>始终可以点击 <em>Reset Handle</em>（位于右键菜单中），将所选关键帧的 Bézier 手柄重置为默认值。</p>
+</div></blockquote>
+</li>
+</ul>
+</dd>
+</dl>
+<p><em>请注意，也可以在 Timeline Editor（时间轴编辑器）中更改这些设置，但无法看到它们对曲线产生的效果，也无法修改 Bézier 曲线。</em></p>
+</section>
+</section>
+<section id="timeline-recording">
+<h2>Timeline Recording（时间轴录制）<a class="headerlink" href="#timeline-recording" title="Permalink to this heading">#</a></h2>
+<a class="reference internal image-reference" href="../../../../_images/timelineRecordingIcon_LG.png"><img alt="curve editor screenshot" class="align-right" src="../../../../_images/timelineRecordingIcon_LG.png" style="width: 300px;" /></a>
+<p>时间轴录制可以把你对参数的手动更改实时转换为关键帧。这适合快速制作动画，或给动画加入一些手动控制的感觉。</p>
+<p>进行一次时间轴录制需要以下步骤：</p>
+<ul class="simple">
+<li><p>将目标参数设置为 <em>Timeline Override</em>。也就是用 <a class="reference internal" href="../../../../_images/left.svg"><img alt="left mouse button" height="18" src="../../../../_images/left.svg" width="18" /></a> 单击参数旁边的 <a class="reference internal" href="../../../../_images/key_none.svg"><img alt="no override" height="14" src="../../../../_images/key_none.svg" width="14" /></a> 圆形图标。 <a class="reference internal" href="../../../../_images/key_timeline.svg"><img alt="key icon" height="14" src="../../../../_images/key_timeline.svg" width="14" /></a> 图标会出现在参数旁边。</p></li>
+</ul>
+<a class="reference internal image-reference" href="../../../../_images/overrideState.gif"><img alt="override state animation" src="../../../../_images/overrideState.gif" style="width: 200px;" /></a>
+<ul class="simple">
+<li><p>单击 <a class="reference internal" href="../../../../_images/realtime.svg"><img alt="record icon" height="16" src="../../../../_images/realtime.svg" width="16" /></a> 图标，或按 <cite>Shift + R</cite> 开始录制。</p></li>
+<li><p>执行你希望录制下来的参数更改。</p></li>
+<li><p>要停止录制，可以再次切换 <a class="reference internal" href="../../../../_images/realtime.svg"><img alt="record icon" height="16" src="../../../../_images/realtime.svg" width="16" /></a> 时间轴录制， <a class="reference internal" href="../../../../_images/icon_reset_sim.svg"><img alt="reset Icon" height="16" src="../../../../_images/icon_reset_sim.svg" width="16" /></a> 重置模拟，或 <a class="reference internal" href="../../../../_images/icon_play1.svg"><img alt="play icon timeline" height="16" src="../../../../_images/icon_play1.svg" width="16" /></a> 暂停模拟。</p></li>
+</ul>
+
+    <div style="
+            display: flex;
+            justify-content: start;
+        "
+     >
+        <video class="lazy" preload="none" width="700" height="556.8181818181818" nocontrols autoplay muted playsinline loop>
+            <source data-src="../../../../_static/videos/timelineRecording_LG.mp4" type="video/mp4">
+            抱歉，你的浏览器不支持嵌入式视频。
+        </video>
+    </div>
+    </section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          
+          
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                版权所有 © 2026，JangaFX
+            </div>
+            使用 <a href="https://www.sphinx-doc.org/">Sphinx</a> 和 <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a> 的
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            本页内容
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">关键帧动画</a><ul>
+<li><a class="reference internal" href="#setting-keyframes">设置关键帧</a></li>
+<li><a class="reference internal" href="#timeline-editor">Timeline Editor（时间轴编辑器）</a><ul>
+<li><a class="reference internal" href="#viewing-keyframes">查看关键帧</a></li>
+<li><a class="reference internal" href="#editing-keyframes">编辑关键帧</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#curve-editor">Curve Editor（曲线编辑器）</a><ul>
+<li><a class="reference internal" href="#id1">查看关键帧</a></li>
+<li><a class="reference internal" href="#id2">编辑关键帧</a></li>
+<li><a class="reference internal" href="#interpolation-mode">Interpolation Mode（插值模式）</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#timeline-recording">Timeline Recording（时间轴录制）</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
+    <script src="../../../../_static/doctools.js"></script>
+    <script src="../../../../_static/sphinx_highlight.js"></script>
+    <script src="../../../../_static/scripts/furo.js"></script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-2YRFC8ZK3S"></script>
+    <script src="../../../../_static/js/ga.js"></script>
+    <script src="../../../../_static/js/yall.min.js"></script>
+    <script src="../../../../_static/js/loadLibraries.js"></script>
+    <script src="../../../../_static/js/sidebarExpand.js"></script>
+    </body>
+</html>

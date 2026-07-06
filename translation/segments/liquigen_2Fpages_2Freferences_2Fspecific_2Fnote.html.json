@@ -1,0 +1,986 @@
+{
+  "path": "liquigen/pages/references/specific/note.html",
+  "segment_count": 98,
+  "segments": [
+    {
+      "id": "6fdf84d01848",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 565,
+      "end": 593,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Note - JangaFX Documentation",
+      "source_text": "Note - JangaFX Documentation"
+    },
+    {
+      "id": "01a50f7c94e1",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 5183,
+      "end": 5206,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "4ec59dcfb7e7",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 5301,
+      "end": 5331,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "16085e4f3816",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 5527,
+      "end": 5557,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "79e0d35bae33",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 5748,
+      "end": 5769,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "7f3424b79277",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 5962,
+      "end": 6000,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "ef614e9f44fd",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 6390,
+      "end": 6422,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "0e966427ff3a",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 7454,
+      "end": 7476,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "b69e106a466f",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 7654,
+      "end": 7686,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "4eda8ae14a9b",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 7879,
+      "end": 7894,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "9135be6c0c05",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 8026,
+      "end": 8036,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "6ad6da77fe9c",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 8214,
+      "end": 8246,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "6e6e8c8b2cbb",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 8447,
+      "end": 8461,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "a5c2b853a0d1",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 8583,
+      "end": 8591,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "33d3d7770587",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 8714,
+      "end": 8723,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "93ff8d4b5a2c",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 8871,
+      "end": 8884,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "acca09578c68",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 9062,
+      "end": 9094,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "d28c2687e76f",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 9312,
+      "end": 9325,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "33e2ed52abe2",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 9476,
+      "end": 9495,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "89fcd95e8db2",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 9630,
+      "end": 9635,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "e911a090c155",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 9772,
+      "end": 9779,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "7da359b8715f",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 9913,
+      "end": 9917,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "d09c52dfd2d2",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 10063,
+      "end": 10083,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "7d17e1eb00bc",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 10222,
+      "end": 10231,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "ce113e82b9ba",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 10372,
+      "end": 10384,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "dacf6aa58ac1",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 10523,
+      "end": 10541,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "d10eef003817",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 10687,
+      "end": 10703,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "7b46feb13ec3",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 10854,
+      "end": 10875,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "6576ef0f8493",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 11013,
+      "end": 11021,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "eda30e67b13b",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 11160,
+      "end": 11170,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "aaa862c7cf85",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 11313,
+      "end": 11326,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "f12491890e42",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 11456,
+      "end": 11459,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "33258e1e8023",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 11574,
+      "end": 11596,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "b6c8b800df12",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 11774,
+      "end": 11806,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "c332349c7111",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 11978,
+      "end": 11993,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "a4869c24a76f",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 12090,
+      "end": 12100,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "d8f9856a1084",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 12278,
+      "end": 12310,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "dc9436148ae0",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 12476,
+      "end": 12490,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "32433fa648f8",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 12577,
+      "end": 12585,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "036e180de54b",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 12673,
+      "end": 12682,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "1381f65cda58",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 12795,
+      "end": 12808,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "d0699d06732b",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 12986,
+      "end": 13018,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "2711b6cd3476",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 13199,
+      "end": 13210,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "7a6bb2235b92",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 13326,
+      "end": 13345,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "adb4b5c8c456",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 13445,
+      "end": 13450,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "f73a3f3b6bf6",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 13552,
+      "end": 13559,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "40b59d38459d",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 13658,
+      "end": 13662,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "d79fd9643380",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 13773,
+      "end": 13793,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "8ae0cc647749",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 13901,
+      "end": 13914,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "f990a48c1821",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 14020,
+      "end": 14032,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "d9a8a68aab14",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 14136,
+      "end": 14154,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "719b6b5fe735",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 14265,
+      "end": 14281,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "90460d49e7e4",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 14397,
+      "end": 14418,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "98498f96a2fd",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 14521,
+      "end": 14529,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "888d4670f4fc",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 14637,
+      "end": 14650,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "4f4397e02d7f",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 14756,
+      "end": 14767,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "9ee3156e59cf",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 14876,
+      "end": 14879,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "e4d3f72c6840",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 14992,
+      "end": 15013,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "266ac38b9d93",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 15113,
+      "end": 15133,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "22da9591ad94",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 15236,
+      "end": 15258,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "aa815e0747a9",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 15671,
+      "end": 15682,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "72f027b9b2b8",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 15902,
+      "end": 15940,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "fbeaf047b497",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 16359,
+      "end": 16391,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "67654d261848",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 16589,
+      "end": 16593,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "dbe920d0eb5b",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 16676,
+      "end": 16835,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Notes are texts that users can place around in the node graph.\nThis can be useful to provide information about your project for other users or as a memory aid.",
+      "source_text": "Notes are texts that users can place around in the node graph.\nThis can be useful to provide information about your project for other users or as a memory aid."
+    },
+    {
+      "id": "bf509d7bfd60",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 17175,
+      "end": 17249,
+      "line": 266,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "29db91dff844",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 17276,
+      "end": 17299,
+      "line": 270,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "To create a note press ",
+      "source_text": "To create a note press "
+    },
+    {
+      "id": "68532567d0fc",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 17321,
+      "end": 17334,
+      "line": 271,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "You can also ",
+      "source_text": "You can also "
+    },
+    {
+      "id": "175ec8f2bb94",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 17496,
+      "end": 17532,
+      "line": 271,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " click in the node graph and select ",
+      "source_text": " click in the node graph and select "
+    },
+    {
+      "id": "972bceb34a32",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 17536,
+      "end": 17547,
+      "line": 271,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Create Note",
+      "source_text": "Create Note"
+    },
+    {
+      "id": "46a27f3d05b9",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 17552,
+      "end": 17575,
+      "line": 271,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " from the context menu.",
+      "source_text": " from the context menu."
+    },
+    {
+      "id": "3cfed1c85986",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 17583,
+      "end": 17694,
+      "line": 272,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "A crosshair will appear which you can use to specify the note text area by drawing a box in the nodegraph with ",
+      "source_text": "A crosshair will appear which you can use to specify the note text area by drawing a box in the nodegraph with "
+    },
+    {
+      "id": "da1daf12325b",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 17853,
+      "end": 17869,
+      "line": 272,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " click and drag.",
+      "source_text": " click and drag."
+    },
+    {
+      "id": "5129b664dd5a",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 17877,
+      "end": 17890,
+      "line": 273,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "You can also ",
+      "source_text": "You can also "
+    },
+    {
+      "id": "ba8200b9762d",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 18049,
+      "end": 18132,
+      "line": 273,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " click once to start typing right away if you want to specify your note size later.",
+      "source_text": " click once to start typing right away if you want to specify your note size later."
+    },
+    {
+      "id": "3b4a52fb5029",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 18140,
+      "end": 18181,
+      "line": 274,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Once the note text area is specified the ",
+      "source_text": "Once the note text area is specified the "
+    },
+    {
+      "id": "72907d0d0232",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 18185,
+      "end": 18194,
+      "line": 274,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Edit Note",
+      "source_text": "Edit Note"
+    },
+    {
+      "id": "c064232db15d",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 18199,
+      "end": 18219,
+      "line": 274,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " window will pop up.",
+      "source_text": " window will pop up."
+    },
+    {
+      "id": "e808fc40009f",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 18227,
+      "end": 18275,
+      "line": 275,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Here, you can write your note in the text field.",
+      "source_text": "Here, you can write your note in the text field."
+    },
+    {
+      "id": "9c4d675d59f6",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 18283,
+      "end": 18327,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "When finished writing, you can click on the ",
+      "source_text": "When finished writing, you can click on the "
+    },
+    {
+      "id": "16972f3a700f",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 18491,
+      "end": 18539,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " icon in the top right corner or outside of the ",
+      "source_text": " icon in the top right corner or outside of the "
+    },
+    {
+      "id": "78ede4589c54",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 18543,
+      "end": 18552,
+      "line": 276,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Edit Note",
+      "source_text": "Edit Note"
+    },
+    {
+      "id": "f8e0dbe3d1d4",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 18557,
+      "end": 18584,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " window to finish the note.",
+      "source_text": " window to finish the note."
+    },
+    {
+      "id": "e149273f1c2c",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 18923,
+      "end": 18997,
+      "line": 284,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "fa2e5a5f533d",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 19024,
+      "end": 19097,
+      "line": 288,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The note text is aligned to the left and wraps within the note text area.",
+      "source_text": "The note text is aligned to the left and wraps within the note text area."
+    },
+    {
+      "id": "c6e753f018f3",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 19105,
+      "end": 19141,
+      "line": 289,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The note text area can be edited by ",
+      "source_text": "The note text area can be edited by "
+    },
+    {
+      "id": "76bd508c9e4f",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 19300,
+      "end": 19347,
+      "line": 289,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " clicking and dragging one of the node corners.",
+      "source_text": " clicking and dragging one of the node corners."
+    },
+    {
+      "id": "bd704d8d99a2",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 19355,
+      "end": 19412,
+      "line": 290,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The note itself can be moved around in the node graph by ",
+      "source_text": "The note itself can be moved around in the node graph by "
+    },
+    {
+      "id": "9950102f7e97",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 19571,
+      "end": 19594,
+      "line": 290,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " clicking and dragging.",
+      "source_text": " clicking and dragging."
+    },
+    {
+      "id": "290a1c6e5ce7",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 19602,
+      "end": 19692,
+      "line": 291,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The note text can be edited, and the note itself can be cut, copied, or deleted using the ",
+      "source_text": "The note text can be edited, and the note itself can be cut, copied, or deleted using the "
+    },
+    {
+      "id": "b70937efb2cd",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 19854,
+      "end": 19872,
+      "line": 291,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " right-click-menu.",
+      "source_text": " right-click-menu."
+    },
+    {
+      "id": "ece906c0e3ed",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 20127,
+      "end": 20187,
+      "line": 304,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "b70465d128e9",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 20193,
+      "end": 20216,
+      "line": 306,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "09dc2075e612",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 20254,
+      "end": 20260,
+      "line": 307,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "0f1d88783010",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 20264,
+      "end": 20269,
+      "line": 307,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "aa4499bdc1af",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 20319,
+      "end": 20329,
+      "line": 307,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "5fe33bd2204e",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 20333,
+      "end": 20361,
+      "line": 307,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "dc33ca261877",
+      "path": "liquigen/pages/references/specific/note.html",
+      "start": 20405,
+      "end": 20409,
+      "line": 309,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

@@ -1,0 +1,1036 @@
+{
+  "path": "embergen/pages/references/How-To Guides/note.html",
+  "segment_count": 103,
+  "segments": [
+    {
+      "id": "21a50ed86107",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 697,
+      "end": 725,
+      "line": 9,
+      "parent_path": "html/head/meta/title",
+      "source_raw": "Note - JangaFX Documentation",
+      "source_text": "Note - JangaFX Documentation"
+    },
+    {
+      "id": "12b2bb7282b4",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 5315,
+      "end": 5338,
+      "line": 110,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide navigation sidebar",
+      "source_text": "Hide navigation sidebar"
+    },
+    {
+      "id": "3714abb92995",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 5433,
+      "end": 5463,
+      "line": 113,
+      "parent_path": "body/input/input/label/div",
+      "source_raw": "Hide table of contents sidebar",
+      "source_text": "Hide table of contents sidebar"
+    },
+    {
+      "id": "a62b5d617903",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 5659,
+      "end": 5689,
+      "line": 122,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle site navigation sidebar",
+      "source_text": "Toggle site navigation sidebar"
+    },
+    {
+      "id": "d7adb43a67ce",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 5880,
+      "end": 5901,
+      "line": 127,
+      "parent_path": "div/header/div/a/div",
+      "source_raw": "JangaFX Documentation",
+      "source_text": "JangaFX Documentation"
+    },
+    {
+      "id": "e46d6698e12d",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 6094,
+      "end": 6132,
+      "line": 132,
+      "parent_path": "header/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "2a1069afbfe6",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 6522,
+      "end": 6554,
+      "line": 139,
+      "parent_path": "div/header/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "9b9b26aed740",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 7598,
+      "end": 7620,
+      "line": 162,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "EmberGen Documentation",
+      "source_text": "EmberGen Documentation"
+    },
+    {
+      "id": "b33bceb21875",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 7809,
+      "end": 7841,
+      "line": 162,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "f5b7844d7871",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 8029,
+      "end": 8044,
+      "line": 163,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "04b5492c2d98",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 8149,
+      "end": 8159,
+      "line": 164,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "07d88dbd7543",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 8348,
+      "end": 8380,
+      "line": 164,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "51a50a68554b",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 8562,
+      "end": 8576,
+      "line": 165,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "894598b6cbf1",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 8663,
+      "end": 8671,
+      "line": 166,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "643fd4a6b971",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 8759,
+      "end": 8768,
+      "line": 167,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "de4bc79651eb",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 8870,
+      "end": 8883,
+      "line": 168,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "956d587f8bad",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 9072,
+      "end": 9104,
+      "line": 168,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "fc434fa9355a",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 9284,
+      "end": 9297,
+      "line": 169,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "3618a849044b",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 9394,
+      "end": 9413,
+      "line": 170,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "b36c206fa869",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 9494,
+      "end": 9499,
+      "line": 171,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "f6d1ad272c70",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 9582,
+      "end": 9589,
+      "line": 172,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "d638eeee2fd0",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 9690,
+      "end": 9694,
+      "line": 173,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "f7a60ecdd539",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 9786,
+      "end": 9806,
+      "line": 174,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "45b7eb74dfd4",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 9891,
+      "end": 9900,
+      "line": 175,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Histogram",
+      "source_text": "Histogram"
+    },
+    {
+      "id": "21cebacfb48f",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 9987,
+      "end": 9999,
+      "line": 176,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "17cb9e1ea7fc",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 10084,
+      "end": 10102,
+      "line": 177,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "4b799e558aa6",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 10194,
+      "end": 10210,
+      "line": 178,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "7fdf366b67bc",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 10307,
+      "end": 10328,
+      "line": 179,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "9878a31b5100",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 10412,
+      "end": 10420,
+      "line": 180,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "8804bb4751fd",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 10505,
+      "end": 10515,
+      "line": 181,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "VDB Export",
+      "source_text": "VDB Export"
+    },
+    {
+      "id": "478899d2b998",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 10604,
+      "end": 10617,
+      "line": 182,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "f53246c736de",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 10726,
+      "end": 10729,
+      "line": 187,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "7e988f5d17af",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 10856,
+      "end": 10878,
+      "line": 190,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "LiquiGen Documentation",
+      "source_text": "LiquiGen Documentation"
+    },
+    {
+      "id": "49218c59647f",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 11056,
+      "end": 11088,
+      "line": 190,
+      "parent_path": "div/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "6b602f4258e9",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 11281,
+      "end": 11296,
+      "line": 191,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Getting Started",
+      "source_text": "Getting Started"
+    },
+    {
+      "id": "71d6a91f29e3",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 11428,
+      "end": 11438,
+      "line": 192,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "References",
+      "source_text": "References"
+    },
+    {
+      "id": "263d7fe29539",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 11616,
+      "end": 11648,
+      "line": 192,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "7d27272f33f8",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 11849,
+      "end": 11863,
+      "line": 193,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "User Interface",
+      "source_text": "User Interface"
+    },
+    {
+      "id": "ae7357035fa2",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 11985,
+      "end": 11993,
+      "line": 194,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Settings",
+      "source_text": "Settings"
+    },
+    {
+      "id": "1882ae9bf288",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 12116,
+      "end": 12125,
+      "line": 195,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Node List",
+      "source_text": "Node List"
+    },
+    {
+      "id": "225115fd5775",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 12273,
+      "end": 12286,
+      "line": 196,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "How-To Guides",
+      "source_text": "How-To Guides"
+    },
+    {
+      "id": "d96bf4767a7b",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 12464,
+      "end": 12496,
+      "line": 196,
+      "parent_path": "li/ul/li/label/div",
+      "source_raw": "Toggle child pages in navigation",
+      "source_text": "Toggle child pages in navigation"
+    },
+    {
+      "id": "eebd2b86e74b",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 12712,
+      "end": 12723,
+      "line": 197,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Diagnostics",
+      "source_text": "Diagnostics"
+    },
+    {
+      "id": "4729e6eec2ed",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 12874,
+      "end": 12893,
+      "line": 198,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Render Pass Mapping",
+      "source_text": "Render Pass Mapping"
+    },
+    {
+      "id": "98f46ee313a3",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 13028,
+      "end": 13033,
+      "line": 199,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Color",
+      "source_text": "Color"
+    },
+    {
+      "id": "2d2be735e87a",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 13170,
+      "end": 13177,
+      "line": 200,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "5634c19e0995",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 13311,
+      "end": 13315,
+      "line": 201,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "dac0282fbd9e",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 13461,
+      "end": 13481,
+      "line": 202,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "77ebd7f1669b",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 13624,
+      "end": 13637,
+      "line": 203,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Camera Import",
+      "source_text": "Camera Import"
+    },
+    {
+      "id": "62aee7e314b5",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 13778,
+      "end": 13790,
+      "line": 204,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Range Slider",
+      "source_text": "Range Slider"
+    },
+    {
+      "id": "07f8ac7cbf57",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 13929,
+      "end": 13947,
+      "line": 205,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Keyframe Animation",
+      "source_text": "Keyframe Animation"
+    },
+    {
+      "id": "c60ca91dca15",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 14093,
+      "end": 14109,
+      "line": 206,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulation Curve",
+      "source_text": "Modulation Curve"
+    },
+    {
+      "id": "7dace8fb2a16",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 14260,
+      "end": 14281,
+      "line": 207,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Modulating Parameters",
+      "source_text": "Modulating Parameters"
+    },
+    {
+      "id": "726055a548b3",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 14419,
+      "end": 14427,
+      "line": 208,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Palettes",
+      "source_text": "Palettes"
+    },
+    {
+      "id": "26ec9d68eb85",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 14570,
+      "end": 14583,
+      "line": 209,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Randomization",
+      "source_text": "Randomization"
+    },
+    {
+      "id": "4b2152ea8194",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 14724,
+      "end": 14735,
+      "line": 210,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "Expressions",
+      "source_text": "Expressions"
+    },
+    {
+      "id": "589e3b6f636d",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 14865,
+      "end": 14868,
+      "line": 215,
+      "parent_path": "ul/li/ul/li/a",
+      "source_raw": "FAQ",
+      "source_text": "FAQ"
+    },
+    {
+      "id": "f6b85682ad4c",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 14981,
+      "end": 15002,
+      "line": 218,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "IlluGen Documentation",
+      "source_text": "IlluGen Documentation"
+    },
+    {
+      "id": "27266ab58a6e",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 15102,
+      "end": 15122,
+      "line": 219,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "GeoGen Documentation",
+      "source_text": "GeoGen Documentation"
+    },
+    {
+      "id": "67710235748f",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 15225,
+      "end": 15247,
+      "line": 220,
+      "parent_path": "div/div/ul/li/a",
+      "source_raw": "Floating License Guide",
+      "source_text": "Floating License Guide"
+    },
+    {
+      "id": "0a4d2a207d05",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 15660,
+      "end": 15671,
+      "line": 237,
+      "parent_path": "div/div/div/a/span",
+      "source_raw": "Back to top",
+      "source_text": "Back to top"
+    },
+    {
+      "id": "08888b415bb8",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 15891,
+      "end": 15929,
+      "line": 243,
+      "parent_path": "div/div/div/button/div",
+      "source_raw": "Toggle Light / Dark / Auto color theme",
+      "source_text": "Toggle Light / Dark / Auto color theme"
+    },
+    {
+      "id": "65d0fc3c53b1",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 16348,
+      "end": 16380,
+      "line": 250,
+      "parent_path": "div/div/div/label/div",
+      "source_raw": "Toggle table of contents sidebar",
+      "source_text": "Toggle table of contents sidebar"
+    },
+    {
+      "id": "c7704283ed42",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 16578,
+      "end": 16582,
+      "line": 256,
+      "parent_path": "div/div/article/section/h1",
+      "source_raw": "Note",
+      "source_text": "Note"
+    },
+    {
+      "id": "dec2958761a6",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 16665,
+      "end": 16824,
+      "line": 257,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Notes are texts that users can place around in the node graph.\nThis can be useful to provide information about your project for other users or as a memory aid.",
+      "source_text": "Notes are texts that users can place around in the node graph.\nThis can be useful to provide information about your project for other users or as a memory aid."
+    },
+    {
+      "id": "a736be447606",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 17162,
+      "end": 17236,
+      "line": 266,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "f3e97b3b325e",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 17263,
+      "end": 17286,
+      "line": 270,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "To create a note press ",
+      "source_text": "To create a note press "
+    },
+    {
+      "id": "b197f00833d9",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 17292,
+      "end": 17300,
+      "line": 270,
+      "parent_path": "div/article/section/p/cite",
+      "source_raw": "Ctrl + H",
+      "source_text": "Ctrl + H"
+    },
+    {
+      "id": "178cf2b616f7",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 17315,
+      "end": 17328,
+      "line": 271,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "You can also ",
+      "source_text": "You can also "
+    },
+    {
+      "id": "2b3bc62d8e11",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 17490,
+      "end": 17526,
+      "line": 271,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " click in the node graph and select ",
+      "source_text": " click in the node graph and select "
+    },
+    {
+      "id": "32e2893b24dd",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 17530,
+      "end": 17541,
+      "line": 271,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Create Note",
+      "source_text": "Create Note"
+    },
+    {
+      "id": "381fc200484e",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 17546,
+      "end": 17569,
+      "line": 271,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " from the context menu.",
+      "source_text": " from the context menu."
+    },
+    {
+      "id": "82701affd1db",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 17577,
+      "end": 17688,
+      "line": 272,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "A crosshair will appear which you can use to specify the note text area by drawing a box in the nodegraph with ",
+      "source_text": "A crosshair will appear which you can use to specify the note text area by drawing a box in the nodegraph with "
+    },
+    {
+      "id": "00b03b8f634c",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 17847,
+      "end": 17863,
+      "line": 272,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " click and drag.",
+      "source_text": " click and drag."
+    },
+    {
+      "id": "ae64a22c91c1",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 17871,
+      "end": 17884,
+      "line": 273,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "You can also ",
+      "source_text": "You can also "
+    },
+    {
+      "id": "9f5cb043af9e",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 18043,
+      "end": 18126,
+      "line": 273,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " click once to start typing right away if you want to specify your note size later.",
+      "source_text": " click once to start typing right away if you want to specify your note size later."
+    },
+    {
+      "id": "321fd5655312",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 18134,
+      "end": 18175,
+      "line": 274,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Once the note text area is specified the ",
+      "source_text": "Once the note text area is specified the "
+    },
+    {
+      "id": "37a7ac7c71c9",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 18179,
+      "end": 18188,
+      "line": 274,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Edit Note",
+      "source_text": "Edit Note"
+    },
+    {
+      "id": "bad385a227ea",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 18193,
+      "end": 18213,
+      "line": 274,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " window will pop up.",
+      "source_text": " window will pop up."
+    },
+    {
+      "id": "50a5722ef8ec",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 18221,
+      "end": 18269,
+      "line": 275,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "Here, you can write your note in the text field.",
+      "source_text": "Here, you can write your note in the text field."
+    },
+    {
+      "id": "8df6ddd71e0a",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 18277,
+      "end": 18321,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "When finished writing, you can click on the ",
+      "source_text": "When finished writing, you can click on the "
+    },
+    {
+      "id": "054037ac9678",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 18485,
+      "end": 18533,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " icon in the top right corner or outside of the ",
+      "source_text": " icon in the top right corner or outside of the "
+    },
+    {
+      "id": "3021a299d89b",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 18537,
+      "end": 18546,
+      "line": 276,
+      "parent_path": "div/article/section/p/em",
+      "source_raw": "Edit Note",
+      "source_text": "Edit Note"
+    },
+    {
+      "id": "27fc8045ae98",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 18551,
+      "end": 18578,
+      "line": 276,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " window to finish the note.",
+      "source_text": " window to finish the note."
+    },
+    {
+      "id": "97b7f8a28962",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 18915,
+      "end": 18989,
+      "line": 284,
+      "parent_path": "article/section/div/video/source",
+      "source_raw": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "source_text": "\n            Sorry, your browser doesn't support embedded videos.\n        "
+    },
+    {
+      "id": "ee739341dda9",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 19016,
+      "end": 19089,
+      "line": 288,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The note text is aligned to the left and wraps within the note text area.",
+      "source_text": "The note text is aligned to the left and wraps within the note text area."
+    },
+    {
+      "id": "6867b39997cc",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 19097,
+      "end": 19133,
+      "line": 289,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The note text area can be edited by ",
+      "source_text": "The note text area can be edited by "
+    },
+    {
+      "id": "ce7a74f14a4e",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 19292,
+      "end": 19339,
+      "line": 289,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " clicking and dragging one of the node corners.",
+      "source_text": " clicking and dragging one of the node corners."
+    },
+    {
+      "id": "98ac185944fb",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 19347,
+      "end": 19404,
+      "line": 290,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The note itself can be moved around in the node graph by ",
+      "source_text": "The note itself can be moved around in the node graph by "
+    },
+    {
+      "id": "9b68c022b882",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 19563,
+      "end": 19586,
+      "line": 290,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " clicking and dragging.",
+      "source_text": " clicking and dragging."
+    },
+    {
+      "id": "e0caf9ad5b2d",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 19594,
+      "end": 19684,
+      "line": 291,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": "The note text can be edited, and the note itself can be cut, copied, or deleted using the ",
+      "source_text": "The note text can be edited, and the note itself can be cut, copied, or deleted using the "
+    },
+    {
+      "id": "7d1a7211dd98",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 19846,
+      "end": 19864,
+      "line": 291,
+      "parent_path": "div/div/article/section/p",
+      "source_raw": " right-click-menu.",
+      "source_text": " right-click-menu."
+    },
+    {
+      "id": "c16dee8d91c0",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 20134,
+      "end": 20138,
+      "line": 302,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Next",
+      "source_text": "Next"
+    },
+    {
+      "id": "9a3276bcb39e",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 20204,
+      "end": 20224,
+      "line": 304,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "FBX, OBJ, ABC Import",
+      "source_text": "FBX, OBJ, ABC Import"
+    },
+    {
+      "id": "fa27afd3f015",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 20595,
+      "end": 20603,
+      "line": 312,
+      "parent_path": "div/a/div/div/span",
+      "source_raw": "Previous",
+      "source_text": "Previous"
+    },
+    {
+      "id": "5d2a33f559e9",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 20686,
+      "end": 20693,
+      "line": 315,
+      "parent_path": "footer/div/a/div/div",
+      "source_raw": "Comment",
+      "source_text": "Comment"
+    },
+    {
+      "id": "7b1875a6a572",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 20879,
+      "end": 20939,
+      "line": 322,
+      "parent_path": "div/footer/div/div/div",
+      "source_raw": "\n                Copyright &#169; 2026, JangaFX\n            ",
+      "source_text": "\n                Copyright © 2026, JangaFX\n            "
+    },
+    {
+      "id": "c8475e9c09de",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 20945,
+      "end": 20968,
+      "line": 324,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "\n            Made with ",
+      "source_text": "\n            Made with "
+    },
+    {
+      "id": "bc70d886fe29",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 21006,
+      "end": 21012,
+      "line": 325,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Sphinx",
+      "source_text": "Sphinx"
+    },
+    {
+      "id": "6665304f5d62",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 21016,
+      "end": 21021,
+      "line": 325,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": " and ",
+      "source_text": " and "
+    },
+    {
+      "id": "22299851b33f",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 21071,
+      "end": 21081,
+      "line": 325,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "@pradyunsg",
+      "source_text": "@pradyunsg"
+    },
+    {
+      "id": "0984900a39c1",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 21085,
+      "end": 21113,
+      "line": 325,
+      "parent_path": "div/div/footer/div/div",
+      "source_raw": "'s\n            \n            ",
+      "source_text": "'s\n            \n            "
+    },
+    {
+      "id": "2b0450328bb4",
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "start": 21157,
+      "end": 21161,
+      "line": 327,
+      "parent_path": "div/footer/div/div/a",
+      "source_raw": "Furo",
+      "source_text": "Furo"
+    }
+  ]
+}

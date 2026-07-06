@@ -1,0 +1,594 @@
+{
+  "path": "liquigen/pages/references/specific/note.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "6fdf84d01848",
+      "source": "Note - JangaFX Documentation",
+      "target": "备注 - JangaFX 文档",
+      "note": ""
+    },
+    {
+      "id": "01a50f7c94e1",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "4ec59dcfb7e7",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "16085e4f3816",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "79e0d35bae33",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "7f3424b79277",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "ef614e9f44fd",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "0e966427ff3a",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "b69e106a466f",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "4eda8ae14a9b",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "9135be6c0c05",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "6ad6da77fe9c",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "6e6e8c8b2cbb",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "a5c2b853a0d1",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "33d3d7770587",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "93ff8d4b5a2c",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "acca09578c68",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "d28c2687e76f",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "33e2ed52abe2",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "89fcd95e8db2",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "e911a090c155",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "7da359b8715f",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "d09c52dfd2d2",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "7d17e1eb00bc",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "ce113e82b9ba",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "dacf6aa58ac1",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "d10eef003817",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "7b46feb13ec3",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "6576ef0f8493",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "eda30e67b13b",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "aaa862c7cf85",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "f12491890e42",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "33258e1e8023",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "b6c8b800df12",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "c332349c7111",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "a4869c24a76f",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "d8f9856a1084",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "dc9436148ae0",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "32433fa648f8",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "036e180de54b",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "1381f65cda58",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "d0699d06732b",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "2711b6cd3476",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "7a6bb2235b92",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "adb4b5c8c456",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "f73a3f3b6bf6",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "40b59d38459d",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "d79fd9643380",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "8ae0cc647749",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "f990a48c1821",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "d9a8a68aab14",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "719b6b5fe735",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "90460d49e7e4",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "98498f96a2fd",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "888d4670f4fc",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "4f4397e02d7f",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "9ee3156e59cf",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "e4d3f72c6840",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "266ac38b9d93",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "22da9591ad94",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "aa815e0747a9",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "72f027b9b2b8",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "fbeaf047b497",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "67654d261848",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "dbe920d0eb5b",
+      "source": "Notes are texts that users can place around in the node graph.\nThis can be useful to provide information about your project for other users or as a memory aid.",
+      "target": "备注是用户可以放置在节点图中的文本。\n它可用于向其他用户说明项目，也可作为备忘。",
+      "note": ""
+    },
+    {
+      "id": "bf509d7bfd60",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "29db91dff844",
+      "source": "To create a note press ",
+      "target": "若要创建备注，请按 ",
+      "note": ""
+    },
+    {
+      "id": "68532567d0fc",
+      "source": "You can also ",
+      "target": "你也可以",
+      "note": ""
+    },
+    {
+      "id": "175ec8f2bb94",
+      "source": " click in the node graph and select ",
+      "target": " 在节点图中右键单击并选择 ",
+      "note": ""
+    },
+    {
+      "id": "972bceb34a32",
+      "source": "Create Note",
+      "target": "Create Note",
+      "note": ""
+    },
+    {
+      "id": "46a27f3d05b9",
+      "source": " from the context menu.",
+      "target": "（位于上下文菜单）。",
+      "note": ""
+    },
+    {
+      "id": "3cfed1c85986",
+      "source": "A crosshair will appear which you can use to specify the note text area by drawing a box in the nodegraph with ",
+      "target": "随后会出现一个十字光标，你可以在节点图中用它框出备注文本区域：使用 ",
+      "note": ""
+    },
+    {
+      "id": "da1daf12325b",
+      "source": " click and drag.",
+      "target": " 点击并拖动。",
+      "note": ""
+    },
+    {
+      "id": "5129b664dd5a",
+      "source": "You can also ",
+      "target": "你也可以",
+      "note": ""
+    },
+    {
+      "id": "ba8200b9762d",
+      "source": " click once to start typing right away if you want to specify your note size later.",
+      "target": " 单击一次即可立即开始输入，稍后再指定备注大小。",
+      "note": ""
+    },
+    {
+      "id": "3b4a52fb5029",
+      "source": "Once the note text area is specified the ",
+      "target": "指定备注文本区域后，",
+      "note": ""
+    },
+    {
+      "id": "72907d0d0232",
+      "source": "Edit Note",
+      "target": "Edit Note",
+      "note": ""
+    },
+    {
+      "id": "c064232db15d",
+      "source": " window will pop up.",
+      "target": " 窗口会弹出。",
+      "note": ""
+    },
+    {
+      "id": "e808fc40009f",
+      "source": "Here, you can write your note in the text field.",
+      "target": "你可以在这个文本字段中写备注。",
+      "note": ""
+    },
+    {
+      "id": "9c4d675d59f6",
+      "source": "When finished writing, you can click on the ",
+      "target": "写完后，可以点击 ",
+      "note": ""
+    },
+    {
+      "id": "16972f3a700f",
+      "source": " icon in the top right corner or outside of the ",
+      "target": " 图标（位于右上角），或点击 ",
+      "note": ""
+    },
+    {
+      "id": "78ede4589c54",
+      "source": "Edit Note",
+      "target": "Edit Note",
+      "note": ""
+    },
+    {
+      "id": "f8e0dbe3d1d4",
+      "source": " window to finish the note.",
+      "target": " 窗口外部来完成备注。",
+      "note": ""
+    },
+    {
+      "id": "e149273f1c2c",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "fa2e5a5f533d",
+      "source": "The note text is aligned to the left and wraps within the note text area.",
+      "target": "备注文本会左对齐，并在备注文本区域内自动换行。",
+      "note": ""
+    },
+    {
+      "id": "c6e753f018f3",
+      "source": "The note text area can be edited by ",
+      "target": "备注文本区域可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "76bd508c9e4f",
+      "source": " clicking and dragging one of the node corners.",
+      "target": " 点击并拖动某个节点角来编辑。",
+      "note": ""
+    },
+    {
+      "id": "bd704d8d99a2",
+      "source": "The note itself can be moved around in the node graph by ",
+      "target": "备注本身可以通过 ",
+      "note": ""
+    },
+    {
+      "id": "9950102f7e97",
+      "source": " clicking and dragging.",
+      "target": " 点击并拖动，在节点图中移动。",
+      "note": ""
+    },
+    {
+      "id": "290a1c6e5ce7",
+      "source": "The note text can be edited, and the note itself can be cut, copied, or deleted using the ",
+      "target": "可以编辑备注文本，也可以使用 ",
+      "note": ""
+    },
+    {
+      "id": "b70937efb2cd",
+      "source": " right-click-menu.",
+      "target": " 右键菜单剪切、复制或删除备注本身。",
+      "note": ""
+    },
+    {
+      "id": "ece906c0e3ed",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "b70465d128e9",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "09dc2075e612",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "0f1d88783010",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "aa4499bdc1af",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "5fe33bd2204e",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "dc33ca261877",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    }
+  ]
+}

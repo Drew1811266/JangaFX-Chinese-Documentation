@@ -1,0 +1,380 @@
+{
+  "source_dir": "jangafx-docs",
+  "target_dir": "jangafx-docs-zh",
+  "html_files": 62,
+  "segments": 17655,
+  "pages": [
+    {
+      "path": "embergen/index.html",
+      "segments": 108,
+      "segment_file": "translation/segments/embergen_2Findex.html.json",
+      "translation_file": "translation/pages/embergen_2Findex.html.json"
+    },
+    {
+      "path": "embergen/pages/FAQ.html",
+      "segments": 166,
+      "segment_file": "translation/segments/embergen_2Fpages_2FFAQ.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2FFAQ.html.json"
+    },
+    {
+      "path": "embergen/pages/getting_started.html",
+      "segments": 553,
+      "segment_file": "translation/segments/embergen_2Fpages_2Fgetting_started.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Fgetting_started.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/animation.html",
+      "segments": 284,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fanimation.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fanimation.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/camera_import.html",
+      "segments": 98,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fcamera_import.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fcamera_import.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/color.html",
+      "segments": 196,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fcolor.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fcolor.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/comment.html",
+      "segments": 109,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fcomment.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fcomment.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "segments": 144,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2FexportVDB.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2FexportVDB.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/histogram.html",
+      "segments": 106,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fhistogram.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fhistogram.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/import_animation.html",
+      "segments": 111,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fimport_animation.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fimport_animation.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/index.html",
+      "segments": 91,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Findex.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Findex.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/modulating_parameters.html",
+      "segments": 208,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fmodulating_parameters.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fmodulating_parameters.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/modulation_curve.html",
+      "segments": 260,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fmodulation_curve.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fmodulation_curve.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/note.html",
+      "segments": 103,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fnote.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fnote.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/palettes.html",
+      "segments": 103,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fpalettes.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Fpalettes.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/randomization.html",
+      "segments": 210,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Frandomization.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Frandomization.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/rangeSlider.html",
+      "segments": 92,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2FrangeSlider.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2FrangeSlider.html.json"
+    },
+    {
+      "path": "embergen/pages/references/How-To Guides/render_passes_mapping.html",
+      "segments": 119,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Frender_passes_mapping.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2FHow-To_20Guides_2Frender_passes_mapping.html.json"
+    },
+    {
+      "path": "embergen/pages/references/index.html",
+      "segments": 120,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2Findex.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2Findex.html.json"
+    },
+    {
+      "path": "embergen/pages/references/node_list.html",
+      "segments": 4220,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2Fnode_list.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2Fnode_list.html.json"
+    },
+    {
+      "path": "embergen/pages/references/settings.html",
+      "segments": 282,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2Fsettings.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2Fsettings.html.json"
+    },
+    {
+      "path": "embergen/pages/references/ui_reference.html",
+      "segments": 697,
+      "segment_file": "translation/segments/embergen_2Fpages_2Freferences_2Fui_reference.html.json",
+      "translation_file": "translation/pages/embergen_2Fpages_2Freferences_2Fui_reference.html.json"
+    },
+    {
+      "path": "genindex.html",
+      "segments": 71,
+      "segment_file": "translation/segments/genindex.html.json",
+      "translation_file": "translation/pages/genindex.html.json"
+    },
+    {
+      "path": "geogen/index.html",
+      "segments": 86,
+      "segment_file": "translation/segments/geogen_2Findex.html.json",
+      "translation_file": "translation/pages/geogen_2Findex.html.json"
+    },
+    {
+      "path": "illugen/index.html",
+      "segments": 86,
+      "segment_file": "translation/segments/illugen_2Findex.html.json",
+      "translation_file": "translation/pages/illugen_2Findex.html.json"
+    },
+    {
+      "path": "index.html",
+      "segments": 91,
+      "segment_file": "translation/segments/index.html.json",
+      "translation_file": "translation/pages/index.html.json"
+    },
+    {
+      "path": "licensing/index.html",
+      "segments": 290,
+      "segment_file": "translation/segments/licensing_2Findex.html.json",
+      "translation_file": "translation/pages/licensing_2Findex.html.json"
+    },
+    {
+      "path": "liquigen/index.html",
+      "segments": 107,
+      "segment_file": "translation/segments/liquigen_2Findex.html.json",
+      "translation_file": "translation/pages/liquigen_2Findex.html.json"
+    },
+    {
+      "path": "liquigen/pages/FAQ.html",
+      "segments": 129,
+      "segment_file": "translation/segments/liquigen_2Fpages_2FFAQ.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2FFAQ.html.json"
+    },
+    {
+      "path": "liquigen/pages/getting_started.html",
+      "segments": 566,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Fgetting_started.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Fgetting_started.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/animation.html",
+      "segments": 284,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fanimation.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fanimation.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/camera_import.html",
+      "segments": 98,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fcamera_import.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fcamera_import.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/color.html",
+      "segments": 250,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fcolor.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fcolor.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/comment.html",
+      "segments": 109,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fcomment.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fcomment.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/diagnostics.html",
+      "segments": 390,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fdiagnostics.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fdiagnostics.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/expressions.html",
+      "segments": 105,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fexpressions.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fexpressions.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/import_animation.html",
+      "segments": 101,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fimport_animation.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fimport_animation.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/index.html",
+      "segments": 91,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Findex.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Findex.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/modulating_parameters.html",
+      "segments": 233,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fmodulating_parameters.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fmodulating_parameters.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/modulation_curve.html",
+      "segments": 327,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fmodulation_curve.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fmodulation_curve.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/note.html",
+      "segments": 102,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fnote.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fnote.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/palettes.html",
+      "segments": 103,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fpalettes.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Fpalettes.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/randomization.html",
+      "segments": 220,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Frandomization.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Frandomization.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/rangeSlider.html",
+      "segments": 92,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2FrangeSlider.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2FrangeSlider.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/How-To Guides/render_passes_mapping.html",
+      "segments": 117,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Frender_passes_mapping.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2FHow-To_20Guides_2Frender_passes_mapping.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/index.html",
+      "segments": 121,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Findex.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Findex.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/node_list.html",
+      "segments": 2039,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fnode_list.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fnode_list.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/settings.html",
+      "segments": 346,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fsettings.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fsettings.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/specific/animation.html",
+      "segments": 280,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fspecific_2Fanimation.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fspecific_2Fanimation.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/specific/camera_import.html",
+      "segments": 94,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fspecific_2Fcamera_import.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fspecific_2Fcamera_import.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/specific/color.html",
+      "segments": 246,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fspecific_2Fcolor.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fspecific_2Fcolor.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/specific/comment.html",
+      "segments": 105,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fspecific_2Fcomment.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fspecific_2Fcomment.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/specific/expressions.html",
+      "segments": 101,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fspecific_2Fexpressions.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fspecific_2Fexpressions.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/specific/import_animation.html",
+      "segments": 96,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fspecific_2Fimport_animation.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fspecific_2Fimport_animation.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/specific/modulating_parameters.html",
+      "segments": 205,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fspecific_2Fmodulating_parameters.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fspecific_2Fmodulating_parameters.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/specific/modulation_curve.html",
+      "segments": 319,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fspecific_2Fmodulation_curve.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fspecific_2Fmodulation_curve.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/specific/note.html",
+      "segments": 98,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fspecific_2Fnote.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fspecific_2Fnote.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/specific/randomization.html",
+      "segments": 216,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fspecific_2Frandomization.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fspecific_2Frandomization.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/specific/rangeSlider.html",
+      "segments": 88,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fspecific_2FrangeSlider.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fspecific_2FrangeSlider.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/specific/render_passes_mapping.html",
+      "segments": 113,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fspecific_2Frender_passes_mapping.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fspecific_2Frender_passes_mapping.html.json"
+    },
+    {
+      "path": "liquigen/pages/references/ui_reference.html",
+      "segments": 688,
+      "segment_file": "translation/segments/liquigen_2Fpages_2Freferences_2Fui_reference.html.json",
+      "translation_file": "translation/pages/liquigen_2Fpages_2Freferences_2Fui_reference.html.json"
+    },
+    {
+      "path": "search.html",
+      "segments": 72,
+      "segment_file": "translation/segments/search.html.json",
+      "translation_file": "translation/pages/search.html.json"
+    }
+  ]
+}

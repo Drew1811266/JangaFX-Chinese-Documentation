@@ -1,0 +1,780 @@
+{
+  "path": "liquigen/pages/FAQ.html",
+  "status": "translated",
+  "translations": [
+    {
+      "id": "307ff9cc5fc9",
+      "source": "FAQ - JangaFX Documentation",
+      "target": "常见问题 - JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "5b870b55669c",
+      "source": "Hide navigation sidebar",
+      "target": "隐藏导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "a9425b5faf36",
+      "source": "Hide table of contents sidebar",
+      "target": "隐藏目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "244dfccb51ed",
+      "source": "Toggle site navigation sidebar",
+      "target": "切换站点导航侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "cf87a31d75d4",
+      "source": "JangaFX Documentation",
+      "target": "JangaFX 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "49054ffeb2dd",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "c6580e0ac476",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "8e98efe712eb",
+      "source": "EmberGen Documentation",
+      "target": "EmberGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "95f376b89b8a",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "dba29e7f955f",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "652062540d20",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "a6274abe4164",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "48199c0d6045",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "36bf7c601334",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "e09ef972d270",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "007ca4b38ace",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "0f412b5059b5",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "c1b6cc617b51",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "fc1d499d3677",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "8828b6e7fccb",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "e4de1301d222",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "93be0b5f4bca",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "9a689ffb7f89",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "bd38abaa35ec",
+      "source": "Histogram",
+      "target": "直方图",
+      "note": "translation memory"
+    },
+    {
+      "id": "71b6bda93753",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "2c9a28f7c9a7",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "c195c82874e8",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "6e5e9f7e821f",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "ccf24da020b6",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "d661d8323604",
+      "source": "VDB Export",
+      "target": "VDB 导出",
+      "note": "translation memory"
+    },
+    {
+      "id": "6a92431aecd7",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "6625e23cec38",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "f52bb94d97a1",
+      "source": "LiquiGen Documentation",
+      "target": "LiquiGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "2d99a8979488",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "3043ff795bc5",
+      "source": "Getting Started",
+      "target": "入门",
+      "note": "translation memory"
+    },
+    {
+      "id": "54fa67669c62",
+      "source": "References",
+      "target": "参考",
+      "note": "translation memory"
+    },
+    {
+      "id": "35890c0ac095",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "d3f0b73b8acf",
+      "source": "User Interface",
+      "target": "用户界面",
+      "note": "translation memory"
+    },
+    {
+      "id": "be51774a8bef",
+      "source": "Settings",
+      "target": "设置",
+      "note": "translation memory"
+    },
+    {
+      "id": "06eca6e92e3f",
+      "source": "Node List",
+      "target": "节点列表",
+      "note": "translation memory"
+    },
+    {
+      "id": "7c85b79bd90d",
+      "source": "How-To Guides",
+      "target": "操作指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "c6eff5add058",
+      "source": "Toggle child pages in navigation",
+      "target": "展开或折叠导航中的子页面",
+      "note": "translation memory"
+    },
+    {
+      "id": "1e1bf4c1ff8c",
+      "source": "Diagnostics",
+      "target": "诊断",
+      "note": "translation memory"
+    },
+    {
+      "id": "d8f518b5e1aa",
+      "source": "Render Pass Mapping",
+      "target": "渲染通道映射",
+      "note": "translation memory"
+    },
+    {
+      "id": "c778a42e19b5",
+      "source": "Color",
+      "target": "颜色",
+      "note": "translation memory"
+    },
+    {
+      "id": "b678216185c6",
+      "source": "Comment",
+      "target": "注释",
+      "note": "translation memory"
+    },
+    {
+      "id": "caf24ca1c696",
+      "source": "Note",
+      "target": "备注",
+      "note": "translation memory"
+    },
+    {
+      "id": "4d7e24d41f8a",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "e282ca5534c6",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "c0a51b80f71e",
+      "source": "Range Slider",
+      "target": "范围滑块",
+      "note": "translation memory"
+    },
+    {
+      "id": "5ab68b59bcec",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "0779bf827511",
+      "source": "Modulation Curve",
+      "target": "调制曲线",
+      "note": "translation memory"
+    },
+    {
+      "id": "787c2cb73713",
+      "source": "Modulating Parameters",
+      "target": "调制参数",
+      "note": "translation memory"
+    },
+    {
+      "id": "48bc647278b5",
+      "source": "Palettes",
+      "target": "快捷面板",
+      "note": "glossary correction: UI palette"
+    },
+    {
+      "id": "eaab37d2cedc",
+      "source": "Randomization",
+      "target": "随机化",
+      "note": "translation memory"
+    },
+    {
+      "id": "96826344cd06",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "0b56fc96d367",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "85d3fefc8b8e",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "9c1270faa77b",
+      "source": "GeoGen Documentation",
+      "target": "GeoGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "f6c60046da1e",
+      "source": "Floating License Guide",
+      "target": "浮动许可证指南",
+      "note": "translation memory"
+    },
+    {
+      "id": "146f5e512ea5",
+      "source": "Back to top",
+      "target": "返回顶部",
+      "note": "translation memory"
+    },
+    {
+      "id": "cd003d0ac4ee",
+      "source": "Toggle Light / Dark / Auto color theme",
+      "target": "切换浅色/深色/自动颜色主题",
+      "note": "translation memory"
+    },
+    {
+      "id": "710430422c16",
+      "source": "Toggle table of contents sidebar",
+      "target": "切换目录侧边栏",
+      "note": "translation memory"
+    },
+    {
+      "id": "0d7204ddb156",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "696e230059bb",
+      "source": "Here you will find the answers to the most common questions asked by our users.",
+      "target": "这里汇总了用户最常提出的问题及其答案。",
+      "note": "translation memory"
+    },
+    {
+      "id": "e1acb86a885f",
+      "source": "How to export a flipbook or image sequence?",
+      "target": "如何导出翻页序列或图像序列？",
+      "note": "translation memory"
+    },
+    {
+      "id": "93180dc04025",
+      "source": "Export",
+      "target": "Export",
+      "note": ""
+    },
+    {
+      "id": "bba24b6b5d0e",
+      "source": "How do I add keyframes?",
+      "target": "如何添加关键帧？",
+      "note": "translation memory"
+    },
+    {
+      "id": "bae27faa6348",
+      "source": "Keyframe Animation",
+      "target": "关键帧动画",
+      "note": "translation memory"
+    },
+    {
+      "id": "3568c010e3a7",
+      "source": "How can I import my animation?",
+      "target": "如何导入动画？",
+      "note": "translation memory"
+    },
+    {
+      "id": "fe17bbf31ae8",
+      "source": "FBX, OBJ, ABC Import",
+      "target": "FBX、OBJ、ABC 导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "5e1369a198ce",
+      "source": "How do I import my camera?",
+      "target": "如何导入摄像机？",
+      "note": "translation memory"
+    },
+    {
+      "id": "a4dedab5f752",
+      "source": "Camera Import",
+      "target": "摄像机导入",
+      "note": "translation memory"
+    },
+    {
+      "id": "97bb5a78aac3",
+      "source": "The timeline of my imported animation doesn’t line up.",
+      "target": "导入动画的时间轴对不齐。",
+      "note": "translation memory"
+    },
+    {
+      "id": "11ae1d8fd67d",
+      "source": "There are three parameters that need to be in sync:",
+      "target": "有三个参数需要保持同步：",
+      "note": "translation memory"
+    },
+    {
+      "id": "04fb7d3dd2ff",
+      "source": "The fps in Embergen is determined in the ",
+      "target": "EmberGen 中的 FPS 由 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "8fcc0a935997",
+      "source": "Timestep",
+      "target": "Timestep",
+      "note": ""
+    },
+    {
+      "id": "42dd16d925d1",
+      "source": " parameter in the ",
+      "target": " 参数（位于 ",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "34c6502b1ea4",
+      "source": "Time Control",
+      "target": "Time Control",
+      "note": ""
+    },
+    {
+      "id": "65942ac76ccd",
+      "source": " tab of the ",
+      "target": " 选项卡，属于 ",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "9e4c5e728728",
+      "source": "Simulation",
+      "target": "Simulation",
+      "note": ""
+    },
+    {
+      "id": "6138c511b4aa",
+      "source": " node. By default, this is ",
+      "target": " 节点）决定。默认值为 ",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "036175900894",
+      "source": "60hz",
+      "target": "60hz",
+      "note": "translation memory"
+    },
+    {
+      "id": "5ecdb5c641d7",
+      "source": " or fps.",
+      "target": "，也就是 fps。",
+      "note": "translation memory"
+    },
+    {
+      "id": "26f12cd684d0",
+      "source": "To get the same frame alignment you had in your 3d package you should set the ",
+      "target": "若要与 3D 软件包中的帧对齐保持一致，应将 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "cd997a2ad22c",
+      "source": "FPS",
+      "target": "FPS",
+      "note": ""
+    },
+    {
+      "id": "2b15877ec3a3",
+      "source": " in the ",
+      "target": "（位于 ",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "2845ba6ea93f",
+      "source": "Playback",
+      "target": "Playback",
+      "note": ""
+    },
+    {
+      "id": "f7fc44279940",
+      "source": " tab of the ",
+      "target": " 选项卡，属于 ",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "2ecd9b850991",
+      "source": "Import",
+      "target": "Import",
+      "note": ""
+    },
+    {
+      "id": "378f6ff24b82",
+      "source": " node to ",
+      "target": " 节点）设为 ",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "6af9bb974436",
+      "source": " as well. This can be done after checking the ",
+      "target": "。需要先勾选 ",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "eae5d1e19a84",
+      "source": "Override FPS",
+      "target": "Override FPS",
+      "note": ""
+    },
+    {
+      "id": "fa415da0f32e",
+      "source": " checkbox first.",
+      "target": " 复选框。",
+      "note": "translation memory"
+    },
+    {
+      "id": "d72bec849861",
+      "source": "To get your backplate to match set ",
+      "target": "若要让背景板匹配，请将 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "d3b01e054bf2",
+      "source": "Backplate frame rate",
+      "target": "Backplate frame rate",
+      "note": ""
+    },
+    {
+      "id": "168bf971c4f1",
+      "source": " in the ",
+      "target": "（位于 ",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "542112c3dbf3",
+      "source": "Backplate",
+      "target": "Backplate",
+      "note": ""
+    },
+    {
+      "id": "b848801a3947",
+      "source": " tab of the ",
+      "target": " 选项卡，属于 ",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "955c77c099fd",
+      "source": "Camera",
+      "target": "Camera",
+      "note": ""
+    },
+    {
+      "id": "ff3f8406b1a7",
+      "source": " node to ",
+      "target": " 节点）设为 ",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "1964c774e728",
+      "source": " as well.",
+      "target": "。",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "b5423be4085e",
+      "source": "Note that when all these parameters are set to be the same, the ",
+      "target": "请注意，当这些参数都设为相同值时，",
+      "note": "translation memory"
+    },
+    {
+      "id": "473c6503abc3",
+      "source": "Frame Stride",
+      "target": "Frame Stride",
+      "note": ""
+    },
+    {
+      "id": "7bd9c1a29dfa",
+      "source": " parameter in the ",
+      "target": " 参数（位于 ",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "87921c60325b",
+      "source": "Export: Image",
+      "target": "Export: Image",
+      "note": ""
+    },
+    {
+      "id": "7ae7ef2af6f0",
+      "source": " node needs to be set to 1.",
+      "target": " 节点）需要设为 1。",
+      "note": "FAQ order fix"
+    },
+    {
+      "id": "52c45e1367a4",
+      "source": "For a reference on how to align the animation, backplate and JangaFX timeline check out this ",
+      "target": "有关如何对齐动画、背景板和 JangaFX 时间轴，请查看这个 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "10997cc8e71d",
+      "source": "tutorial",
+      "target": "教程",
+      "note": "translation memory"
+    },
+    {
+      "id": "708a19b8893c",
+      "source": "! It also covers getting the correct movement speed for your exported element.",
+      "target": "！其中还介绍了如何让导出的元素获得正确的运动速度。",
+      "note": "translation memory"
+    },
+    {
+      "id": "fa39bedc8f5b",
+      "source": "\n            Sorry, your browser doesn't support embedded videos.\n        ",
+      "target": "\n            抱歉，你的浏览器不支持嵌入式视频。\n        ",
+      "note": "translation memory"
+    },
+    {
+      "id": "99d05f902ade",
+      "source": "Next",
+      "target": "下一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "d19ae1bd76db",
+      "source": "IlluGen Documentation",
+      "target": "IlluGen 文档",
+      "note": "translation memory"
+    },
+    {
+      "id": "13b924d70ba9",
+      "source": "Previous",
+      "target": "上一页",
+      "note": "translation memory"
+    },
+    {
+      "id": "4fb407a3257d",
+      "source": "Expressions",
+      "target": "表达式",
+      "note": "translation memory"
+    },
+    {
+      "id": "afee949f0756",
+      "source": "\n                Copyright © 2026, JangaFX\n            ",
+      "target": "版权所有 © 2026，JangaFX",
+      "note": "translation memory"
+    },
+    {
+      "id": "0f323b008ddf",
+      "source": "\n            Made with ",
+      "target": "使用 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "c27ffb3ce229",
+      "source": "Sphinx",
+      "target": "Sphinx",
+      "note": ""
+    },
+    {
+      "id": "75f985de764b",
+      "source": " and ",
+      "target": " 和 ",
+      "note": "translation memory"
+    },
+    {
+      "id": "8903f9921154",
+      "source": "@pradyunsg",
+      "target": "@pradyunsg",
+      "note": ""
+    },
+    {
+      "id": "fdb2cdc38248",
+      "source": "'s\n            \n            ",
+      "target": " 的\n            \n            ",
+      "note": "translation memory"
+    },
+    {
+      "id": "4eee6ad0ddde",
+      "source": "Furo",
+      "target": "Furo",
+      "note": ""
+    },
+    {
+      "id": "8bfa32f9adbc",
+      "source": "\n            On this page\n          ",
+      "target": "\n            本页内容\n          ",
+      "note": "translation memory"
+    },
+    {
+      "id": "5b6f3260b311",
+      "source": "FAQ",
+      "target": "常见问题",
+      "note": "translation memory"
+    },
+    {
+      "id": "8a55fa361820",
+      "source": "How to export a flipbook or image sequence?",
+      "target": "如何导出翻页序列或图像序列？",
+      "note": "translation memory"
+    },
+    {
+      "id": "e40c472308ce",
+      "source": "How do I add keyframes?",
+      "target": "如何添加关键帧？",
+      "note": "translation memory"
+    },
+    {
+      "id": "c6f60b18b99c",
+      "source": "How can I import my animation?",
+      "target": "如何导入动画？",
+      "note": "translation memory"
+    },
+    {
+      "id": "1dfc8776a6c8",
+      "source": "How do I import my camera?",
+      "target": "如何导入摄像机？",
+      "note": "translation memory"
+    },
+    {
+      "id": "d8f336aeb1dd",
+      "source": "The timeline of my imported animation doesn’t line up.",
+      "target": "导入动画的时间轴对不齐。",
+      "note": "translation memory"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "totals": {
+    "pages": 62,
+    "segments": 17655,
+    "translated_segments": 17648
+  },
+  "finding_count": 14,
+  "findings_by_type": {
+    "mixed_readability": 10,
+    "missing_preferred_translation": 4
+  },
+  "findings_by_severity": {
+    "low": 14
+  },
+  "term_conflicts": [
+    {
+      "term": "flipbook",
+      "variants": {
+        "翻页": 38,
+        "序列": 37,
+        "动画": 2,
+        "贴图": 4
+      }
+    },
+    {
+      "term": "mesh flipbook",
+      "variants": {
+        "网格": 1,
+        "翻页": 1
+      }
+    }
+  ],
+  "findings": [
+    {
+      "type": "mixed_readability",
+      "severity": "low",
+      "term": "Q, W, E",
+      "path": "embergen/pages/getting_started.html",
+      "line": 513,
+      "index": 322,
+      "source": "Q, W, and E",
+      "target": "Q、W 和 E",
+      "expected": [
+        "reduce English-token density in Chinese prose"
+      ]
+    },
+    {
+      "type": "mixed_readability",
+      "severity": "low",
+      "term": "Maya, aiStandardVolume, Blender",
+      "path": "embergen/pages/references/How-To Guides/exportVDB.html",
+      "line": 279,
+      "index": 121,
+      "source": "When using the aiStandardVolume in Maya or the Principled Volume in Blender you have to change the ",
+      "target": "在 Maya 中使用 aiStandardVolume 或在 Blender 中使用 Principled Volume（Principled 体积着色器）时，需要将 ",
+      "expected": [
+        "reduce English-token density in Chinese prose"
+      ]
+    },
+    {
+      "type": "missing_preferred_translation",
+      "severity": "low",
+      "term": "node",
+      "path": "embergen/pages/references/node_list.html",
+      "line": 3302,
+      "index": 2715,
+      "source": " node which should be used to connect a ",
+      "target": "应将 ",
+      "expected": [
+        "节点"
+      ]
+    },
+    {
+      "type": "missing_preferred_translation",
+      "severity": "low",
+      "term": "node",
+      "path": "embergen/pages/references/node_list.html",
+      "line": 3382,
+      "index": 2789,
+      "source": " node which should be used to connect a ",
+      "target": "应将 ",
+      "expected": [
+        "节点"
+      ]
+    },
+    {
+      "type": "mixed_readability",
+      "severity": "low",
+      "term": "Box, Evenly, Distributed, On, X, Y",
+      "path": "embergen/pages/references/node_list.html",
+      "line": 3686,
+      "index": 3054,
+      "source": "Box Evenly Distributed On X,Y,Z: Shapes will be spawned randomly within the box shape but evenly distibuted over the specified axis. This can reduce cluttering in the specified axis.",
+      "target": "Box Evenly Distributed On X,Y,Z（盒形按 X/Y/Z 均匀分布）：形状会在盒形内随机生成，但会沿指定轴均匀分布。这可以减少指定轴上的堆积。",
+      "expected": [
+        "reduce English-token density in Chinese prose"
+      ]
+    },
+    {
+      "type": "mixed_readability",
+      "severity": "low",
+      "term": "Temperature, Velocity, Smoke, Flames, Fuel, dissipation",
+      "path": "embergen/pages/references/node_list.html",
+      "line": 4589,
+      "index": 3737,
+      "source": "Temperature, Velocity, Smoke, Flames, Fuel dissipation (*):",
+      "target": "Temperature, Velocity, Smoke, Flames, Fuel dissipation (*)（温度、速度、烟雾、火焰、燃料耗散乘数）：",
+      "expected": [
+        "reduce English-token density in Chinese prose"
+      ]
+    },
+    {
+      "type": "mixed_readability",
+      "severity": "low",
+      "term": "Smoke, Temperature, Fuel",
+      "path": "embergen/pages/references/node_list.html",
+      "line": 4932,
+      "index": 3979,
+      "source": "Smoke, Temperature, Fuel, Flames: Modulation based on a simulation channel. This is after post-processing (like sharpen,motion blur, dilation) and post-modulation if there is another post modulation before this one.",
+      "target": "Smoke, Temperature, Fuel, Flames（烟雾、温度、燃料、火焰）：基于模拟通道的调制。它位于后处理之后（例如 sharpen（锐化）、motion blur（运动模糊）、dilation（膨胀））；如果前面还有另一个 post modulation（后调制），则也位于该后调制之后。",
+      "expected": [
+        "reduce English-token density in Chinese prose"
+      ]
+    },
+    {
+      "type": "mixed_readability",
+      "severity": "low",
+      "term": "Post, Processed, Smoke, Temperature, Fuel",
+      "path": "embergen/pages/references/node_list.html",
+      "line": 4936,
+      "index": 3983,
+      "source": "Post Processed Smoke, Temperature, Fuel, Flames: Channel after post-processing but before post-modulation.",
+      "target": "Post Processed Smoke, Temperature, Fuel, Flames（后处理后的烟雾、温度、燃料、火焰）：后处理之后、后调制之前的通道。",
+      "expected": [
+        "reduce English-token density in Chinese prose"
+      ]
+    },
+    {
+      "type": "mixed_readability",
+      "severity": "low",
+      "term": "Pre, Processed, Smoke, Temperature, Fuel",
+      "path": "embergen/pages/references/node_list.html",
+      "line": 4937,
+      "index": 3984,
+      "source": "Pre Processed Smoke, Temperature, Fuel, Flames: Channel before any processing.",
+      "target": "Pre Processed Smoke, Temperature, Fuel, Flames（处理前的烟雾、温度、燃料、火焰）：任何处理之前的通道。",
+      "expected": [
+        "reduce English-token density in Chinese prose"
+      ]
+    },
+    {
+      "type": "missing_preferred_translation",
+      "severity": "low",
+      "term": "node",
+      "path": "embergen/pages/references/ui_reference.html",
+      "line": 402,
+      "index": 339,
+      "source": " tab of certain force nodes.",
+      "target": " 选项卡中。",
+      "expected": [
+        "节点"
+      ]
+    },
+    {
+      "type": "mixed_readability",
+      "severity": "low",
+      "term": "Failed, to, remove, this, service, from, the",
+      "path": "licensing/index.html",
+      "line": 610,
+      "index": 256,
+      "source": "In case of error message:\n* Failed to remove this service from the Windows Firewall. 0x80070057",
+      "target": "如果出现错误消息：\n* Failed to remove this service from the Windows Firewall. 0x80070057",
+      "expected": [
+        "reduce English-token density in Chinese prose"
+      ]
+    },
+    {
+      "type": "mixed_readability",
+      "severity": "low",
+      "term": "Q, W, E",
+      "path": "liquigen/pages/getting_started.html",
+      "line": 499,
+      "index": 317,
+      "source": "Q, W, and E",
+      "target": "Q、W 和 E",
+      "expected": [
+        "reduce English-token density in Chinese prose"
+      ]
+    },
+    {
+      "type": "mixed_readability",
+      "severity": "low",
+      "term": "D, Maya, Blender",
+      "path": "liquigen/pages/getting_started.html",
+      "line": 724,
+      "index": 497,
+      "source": "With this node, you can export your liquid mesh as a 3D file format for use in other software like Maya or Blender.",
+      "target": "使用该节点，可以将液体网格导出为 3D 文件格式，以便在 Maya 或 Blender 等其他软件中使用。",
+      "expected": [
+        "reduce English-token density in Chinese prose"
+      ]
+    },
+    {
+      "type": "missing_preferred_translation",
+      "severity": "low",
+      "term": "node",
+      "path": "liquigen/pages/references/ui_reference.html",
+      "line": 391,
+      "index": 331,
+      "source": " tab of certain force nodes.",
+      "target": " 选项卡中。",
+      "expected": [
+        "节点"
+      ]
+    }
+  ]
+}
